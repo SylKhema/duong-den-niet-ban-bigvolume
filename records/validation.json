@@ -1,0 +1,63 @@
+{
+  "volumes": [
+    {
+      "vol": 1,
+      "page_markers": 807,
+      "toc_entries": 700,
+      "valid_unique_ids": 10710,
+      "search_units": 7231,
+      "pdf_pages": 979,
+      "pdf_bookmarks": 819,
+      "pdf_source_pages": 817,
+      "all_toc_and_notes_links_valid": true
+    },
+    {
+      "vol": 2,
+      "page_markers": 649,
+      "toc_entries": 636,
+      "valid_unique_ids": 9160,
+      "search_units": 6924,
+      "pdf_pages": 765,
+      "pdf_bookmarks": 649,
+      "pdf_source_pages": 649,
+      "all_toc_and_notes_links_valid": true
+    },
+    {
+      "vol": 3,
+      "page_markers": 710,
+      "toc_entries": 696,
+      "valid_unique_ids": 9905,
+      "search_units": 8000,
+      "pdf_pages": 666,
+      "pdf_bookmarks": 710,
+      "pdf_source_pages": 722,
+      "all_toc_and_notes_links_valid": true
+    },
+    {
+      "vol": 4,
+      "page_markers": 664,
+      "toc_entries": 364,
+      "valid_unique_ids": 9144,
+      "search_units": 7123,
+      "pdf_pages": 611,
+      "pdf_bookmarks": 381,
+      "pdf_source_pages": 670,
+      "all_toc_and_notes_links_valid": true
+    },
+    {
+      "vol": 5,
+      "page_markers": 675,
+      "toc_entries": 591,
+      "valid_unique_ids": 7341,
+      "search_units": 6639,
+      "pdf_pages": 605,
+      "pdf_bookmarks": 686,
+      "pdf_source_pages": 686,
+      "all_toc_and_notes_links_valid": true
+    }
+  ],
+  "total_page_markers": 3505,
+  "total_toc_entries": 2987,
+  "all_source_sites_unchanged": true,
+  "text_preserved_III_IV_V": true
+}

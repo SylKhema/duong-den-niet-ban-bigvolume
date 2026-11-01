@@ -1,0 +1,47 @@
+[
+  {
+    "vol": 1,
+    "source_json_sha256": "eae48a649210328b7f542451cf1801abc52476ee18c61317bf636de5e6577f9d",
+    "source_page_markers": 807,
+    "toc_entries": 700,
+    "unicode_characters": 3002860,
+    "epub_bytes": 1464641,
+    "offline_html_bytes": 5984235
+  },
+  {
+    "vol": 2,
+    "source_json_sha256": "5955c593aa1c90f4631169613f5d0286c4d90367950290b4e6ae28c0cd44be92",
+    "source_page_markers": 649,
+    "toc_entries": 636,
+    "unicode_characters": 1829843,
+    "epub_bytes": 791335,
+    "offline_html_bytes": 3882310
+  },
+  {
+    "vol": 3,
+    "source_json_sha256": "aef36c168e789a3fbddb11a0c9bb8a2e743bdd84327562d9e06df78c01c1ed86",
+    "source_page_markers": 710,
+    "toc_entries": 696,
+    "unicode_characters": 1834929,
+    "epub_bytes": 738379,
+    "offline_html_bytes": 3180911
+  },
+  {
+    "vol": 4,
+    "source_json_sha256": "842fe5a6f9a49180dd96a30341103a2c8a2246333a74d1049c953006488944a1",
+    "source_page_markers": 664,
+    "toc_entries": 364,
+    "unicode_characters": 1578934,
+    "epub_bytes": 697280,
+    "offline_html_bytes": 2848086
+  },
+  {
+    "vol": 5,
+    "source_json_sha256": "ee573f68d37b02125ba743e0e8e269b82402bb8543514a084daf77814c362193",
+    "source_page_markers": 675,
+    "toc_entries": 591,
+    "unicode_characters": 1510204,
+    "epub_bytes": 659189,
+    "offline_html_bytes": 2563649
+  }
+]

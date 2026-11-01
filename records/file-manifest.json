@@ -1,0 +1,344 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 41,
+    "sha256": "0b2cfa68fd39c523d02030116f86bedf47d8c5e8d69b629895d89a47ba72ff73",
+    "git_blob_sha": "93f223ff4ff68aada9c34207b7a37b2296b3d9bd"
+  },
+  {
+    "path": "README.md",
+    "bytes": 6598,
+    "sha256": "ed99c11db9793eb1f725f3695d00a9e72f0bd0c103b976952d3411f9f670aa2d",
+    "git_blob_sha": "ad03acc738be732b03c5c540ef68fcdfa0038e1f"
+  },
+  {
+    "path": "docs/.nojekyll",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+  },
+  {
+    "path": "docs/app.js",
+    "bytes": 10433,
+    "sha256": "631737e97c07823b79b28903021c3a545ff86ba68281bdca1f9015d5fe725162",
+    "git_blob_sha": "e7f4fb267f4ef3dc184b287613c5588d9673545d"
+  },
+  {
+    "path": "docs/books/1-search.json",
+    "bytes": 2995165,
+    "sha256": "81f5efbdd6077fb79763926bcbcdd398f1f05c2c7cdfd6b4b54abfa82a913501",
+    "git_blob_sha": "a78d4d5d40acae3b54d86d6752ad097c5151cc72"
+  },
+  {
+    "path": "docs/books/1.json",
+    "bytes": 5443518,
+    "sha256": "eae48a649210328b7f542451cf1801abc52476ee18c61317bf636de5e6577f9d",
+    "git_blob_sha": "89806c6b261482613febc06bab96ee7abf5ba318"
+  },
+  {
+    "path": "docs/books/2-search.json",
+    "bytes": 2485411,
+    "sha256": "56bbc973a7869457d8c099a35362f429a0c4a0b3a9ad48dda098beb7f9083739",
+    "git_blob_sha": "ab836788b869e9ced9e4597db3691718ef5905f6"
+  },
+  {
+    "path": "docs/books/2.json",
+    "bytes": 3608208,
+    "sha256": "5955c593aa1c90f4631169613f5d0286c4d90367950290b4e6ae28c0cd44be92",
+    "git_blob_sha": "95e9b3d67a6a28a5f5d4eabf36c6e8c7e106e1c3"
+  },
+  {
+    "path": "docs/books/3-search.json",
+    "bytes": 2572252,
+    "sha256": "ffc2627cc080254cc1acc548c0d49ee36ce7148222209bcf0882411bcc109909",
+    "git_blob_sha": "ef682c4eb3ddbdd2fe0b9ea1c73989a389a48db4"
+  },
+  {
+    "path": "docs/books/3.json",
+    "bytes": 2856772,
+    "sha256": "aef36c168e789a3fbddb11a0c9bb8a2e743bdd84327562d9e06df78c01c1ed86",
+    "git_blob_sha": "ede2e1f8419b2e978ad2e05e8e85253facfbdca0"
+  },
+  {
+    "path": "docs/books/4-search.json",
+    "bytes": 2205770,
+    "sha256": "22b15f69df84bcc11ac3bafc901b4c86490dfe6d3217063d22b7f87e3ec7f084",
+    "git_blob_sha": "02c4766ebe679b6463d9016e7596f92aa7a83377"
+  },
+  {
+    "path": "docs/books/4.json",
+    "bytes": 2521361,
+    "sha256": "842fe5a6f9a49180dd96a30341103a2c8a2246333a74d1049c953006488944a1",
+    "git_blob_sha": "b39aceec9440100dbc432317192a7f14d931b55c"
+  },
+  {
+    "path": "docs/books/5-search.json",
+    "bytes": 2240948,
+    "sha256": "59fdf52beeeef8616924b0a69c33f4f2de56975b0c8ce57ee66d965f185e4012",
+    "git_blob_sha": "263a8912107256a921db07e6477fdf3c5d39a9fd"
+  },
+  {
+    "path": "docs/books/5.json",
+    "bytes": 2231261,
+    "sha256": "ee573f68d37b02125ba743e0e8e269b82402bb8543514a084daf77814c362193",
+    "git_blob_sha": "bf630c686e440e801ff4eadbdf8c9c717220b8f8"
+  },
+  {
+    "path": "docs/catalog.json",
+    "bytes": 2367,
+    "sha256": "d1bf9abb8ab39d6434863291ed98ce25dd6119e267a34cef2567d60e8b6d0acb",
+    "git_blob_sha": "65f766e14ccb4c64979bcaf0066b7def275fa807"
+  },
+  {
+    "path": "docs/downloads/epub/tap-1.epub",
+    "bytes": 1464641,
+    "sha256": "e891db629cf12d55af762efc1fa300c293579b7d55aff0b06eb857f97f0905f8",
+    "git_blob_sha": "5016b00f746dc699290ad54b5e63e1a6be5338cc"
+  },
+  {
+    "path": "docs/downloads/epub/tap-2.epub",
+    "bytes": 791335,
+    "sha256": "5205d50876e733bdf119043098dab9822b28d01569a7e82ac2679f031815744d",
+    "git_blob_sha": "9a9aa7c0ab4ed3bcd57ace063d51c0cab62d06e4"
+  },
+  {
+    "path": "docs/downloads/epub/tap-3.epub",
+    "bytes": 738379,
+    "sha256": "5698ba5504b3ba86795148fda9532137f43f6e006d207f53ed33ec51b54d7507",
+    "git_blob_sha": "c567a5e364c568100f0139b022dadc267895a6ad"
+  },
+  {
+    "path": "docs/downloads/epub/tap-4.epub",
+    "bytes": 697280,
+    "sha256": "80fee138ff1e90628382f8b84a38d3e0116f09d2af1848b36ef95f91ecb3289a",
+    "git_blob_sha": "26ffc40c3d7568c4e2733a55a860276674ae0ebb"
+  },
+  {
+    "path": "docs/downloads/epub/tap-5.epub",
+    "bytes": 659189,
+    "sha256": "cbb289c94d859efb3bc69a89d767375e7a2b44f0dbca95fa25030be14e5aed56",
+    "git_blob_sha": "c5b4c5a3a38725405321939c54e44f73ea6da6ea"
+  },
+  {
+    "path": "docs/downloads/html/tap-1.html",
+    "bytes": 5984235,
+    "sha256": "4320ff50beb771cf9a9f9130269296f6368946dcd21b4e10c2ddffd690744be0",
+    "git_blob_sha": "3a61fb5c7bf8c5ada2b74e160ba0f3db7275970c"
+  },
+  {
+    "path": "docs/downloads/html/tap-2.html",
+    "bytes": 3882310,
+    "sha256": "33a85f2f11e312bb4915e43428339f29b0df70d713094c24beb4cebe5c83494a",
+    "git_blob_sha": "5f57e3488843929ffde32d5fd70f9532e3343e55"
+  },
+  {
+    "path": "docs/downloads/html/tap-3.html",
+    "bytes": 3180911,
+    "sha256": "eed98b9d4311f0d011f85baf8ba6f8e0923e621f0b167267be70164cbf1fae26",
+    "git_blob_sha": "1230d19db5399b3cc5496f3aa3bf9710b4d995bb"
+  },
+  {
+    "path": "docs/downloads/html/tap-4.html",
+    "bytes": 2848086,
+    "sha256": "ae833d279c3640641cf736f4017f133c668289de056d13549b6c05b3c923ef99",
+    "git_blob_sha": "57d337880d926b94ef1a4323536964a508337071"
+  },
+  {
+    "path": "docs/downloads/html/tap-5.html",
+    "bytes": 2563649,
+    "sha256": "42b182a702a13aed0552fd278e0d6b0170112cd1084a18e9a500e1fc81fd0426",
+    "git_blob_sha": "752cf8d3a509bef0ef950f330f8f073954894d18"
+  },
+  {
+    "path": "docs/downloads/tap-1.pdf",
+    "bytes": 11186892,
+    "sha256": "bd6ed8b7dfcb7386426245aad7a5c10cfb5b325e676bb3c513d570af25e5c8bd",
+    "git_blob_sha": "75e055efd5a82dcab83d06fd965f460fc31cc820"
+  },
+  {
+    "path": "docs/downloads/tap-2.pdf",
+    "bytes": 2557844,
+    "sha256": "4f2535ff7c6e4251151177072d1d53c084a6f1cd1cf8e0828671c5a5af0ff991",
+    "git_blob_sha": "536858eda10ac0bba383f196ef3cbdb3b2f5cb0c"
+  },
+  {
+    "path": "docs/downloads/tap-3.pdf",
+    "bytes": 2845801,
+    "sha256": "a4dd78a9c61788f26a6b25e8e225e775fcf58b64a4974df82141fecc4e35bb4a",
+    "git_blob_sha": "6e8a9709a6166878613a73315536535f2cee16c0"
+  },
+  {
+    "path": "docs/downloads/tap-4.pdf",
+    "bytes": 6397474,
+    "sha256": "068f320129d9343c82c047afcb8957f02125ae925e32dbf25540371522305809",
+    "git_blob_sha": "6519c2099a3c1520b2809db205cc8d68515a8d1e"
+  },
+  {
+    "path": "docs/downloads/tap-5.pdf",
+    "bytes": 1951682,
+    "sha256": "c82f19d108410c03ac2a061f9e5a991f3d36a21e3bea9bb9480511bac8d94ed8",
+    "git_blob_sha": "f0f1fd4d1308488521414380335cca9195c29222"
+  },
+  {
+    "path": "docs/downloads/unicode/tap-1.md",
+    "bytes": 4004630,
+    "sha256": "327b8d3bbb5701a29e8404a9a5693bf7a798cb377accdeeeb09d4603d0fdab1e",
+    "git_blob_sha": "2bf4915298ab4e8327d2230acb2cdcc1c4dacac1"
+  },
+  {
+    "path": "docs/downloads/unicode/tap-1.txt",
+    "bytes": 4004521,
+    "sha256": "a49a844c17f0826575978794aea105ee54bd971c4af6944054f8b3cbc05d94c7",
+    "git_blob_sha": "a2626b5b76f0b3ea3edc07d8d6634bfe5503edec"
+  },
+  {
+    "path": "docs/downloads/unicode/tap-2.md",
+    "bytes": 2387465,
+    "sha256": "2447a047993581ee87e22e48962ff3bf78481b235f6e0845ec506143176cf9f8",
+    "git_blob_sha": "ea10ea4093a59c2c61f3be97e0948b0dc1ea1658"
+  },
+  {
+    "path": "docs/downloads/unicode/tap-2.txt",
+    "bytes": 2387356,
+    "sha256": "fcbbe74cbe2a7937ef71cbb707c1e7813426b265d60a385b6a9b88042e30f6ac",
+    "git_blob_sha": "43a730780307014b90ce42e2d178857cd33ce58b"
+  },
+  {
+    "path": "docs/downloads/unicode/tap-3.md",
+    "bytes": 2390221,
+    "sha256": "690551756ce5a34cd6c6606e091b3a62c77a76a966954c4bba4407eaa5821772",
+    "git_blob_sha": "8680484d569fb14ae7f365ca3f15f3fdc6f9a01f"
+  },
+  {
+    "path": "docs/downloads/unicode/tap-3.txt",
+    "bytes": 2390112,
+    "sha256": "b4e7ac6c60ae4d35c160ff9def604e4dc834367eb0efea1a85680ab49fbf2732",
+    "git_blob_sha": "fbba835daa8594010f970f0e78869b19f0bd87f0"
+  },
+  {
+    "path": "docs/downloads/unicode/tap-4.md",
+    "bytes": 2095561,
+    "sha256": "f4bcbd34fb4fa55ddab5074df2ac50480e207954780e60cfe74396c0bd8ed86c",
+    "git_blob_sha": "de3664f6e1a5d9abb9ad02062d97b1f6edc7f391"
+  },
+  {
+    "path": "docs/downloads/unicode/tap-4.txt",
+    "bytes": 2095452,
+    "sha256": "f176a18518c4566ca1ec37f798bf6b6463f979aee6679badcd5e8a2057955e74",
+    "git_blob_sha": "7b24453dcb9075069e3475c4e14ef5b1e58c03be"
+  },
+  {
+    "path": "docs/downloads/unicode/tap-5.md",
+    "bytes": 1970932,
+    "sha256": "23d99515002060af35886b8ecbeb7c5b57cfde3fa73202d0a52559c8f8479bb4",
+    "git_blob_sha": "87415a40cc96a75f3fee862aea1f0488b0ea89fd"
+  },
+  {
+    "path": "docs/downloads/unicode/tap-5.txt",
+    "bytes": 1970823,
+    "sha256": "6da10c00975ff292b6f200ead14b3027cbc5b799dfcf244b0d805c2bc12c2c29",
+    "git_blob_sha": "b5ccc6d456caae1af25018b2c709970662d98d14"
+  },
+  {
+    "path": "docs/fonts/NotoSerifMyanmar-Regular.ttf",
+    "bytes": 260404,
+    "sha256": "be851bee6c1dad293c176473a62b61f59bbc516bd0e238e7db2b19be5f69e0f8",
+    "git_blob_sha": "13f735ba49234e4c3822440346025ec66538e31f"
+  },
+  {
+    "path": "docs/fonts/OFL-Noto.txt",
+    "bytes": 4377,
+    "sha256": "0dab92d0544f7b233403f14b84a663bdbfa746982eda629e7f4f9ffe1b036feb",
+    "git_blob_sha": "c82d72e422e2d08c5ab439b6bac7c2177ea0c565"
+  },
+  {
+    "path": "docs/index.html",
+    "bytes": 2705,
+    "sha256": "608121f8bc74467283c9066d07fab8b98036781d1a8d6d5fc3f16107054cf1cf",
+    "git_blob_sha": "2b75f9ffbbc8c455fcd2c729d57f2543ca07af93"
+  },
+  {
+    "path": "docs/original/pdf-4.png",
+    "bytes": 213975,
+    "sha256": "feee330b32449114922b5f89ab46f5267f5f4d6bf264c03d86a204acb3ec37e1",
+    "git_blob_sha": "d2af0888951c22bb3ebe2b2d0e1a8ad9e9e0a047"
+  },
+  {
+    "path": "docs/provenance.json",
+    "bytes": 3818,
+    "sha256": "9ece9680e6622ac8c79eb511b2d90e52f3decd6a28f43db7a6313590cfa9b6cb",
+    "git_blob_sha": "ee13da49ca1dfe0546a9cbf8700b0dfa0bf7d546"
+  },
+  {
+    "path": "docs/sources/tap-1-mien.pdf",
+    "bytes": 3627997,
+    "sha256": "5f60fdb193d205dd5fd1ff8657c15a5d9f0a6bcfaf67f95ae91d577707cc5366",
+    "git_blob_sha": "c7bc05f2ba36b1829f5bd539493f220dd042837c"
+  },
+  {
+    "path": "docs/sources/tap-2-mien.pdf",
+    "bytes": 2991970,
+    "sha256": "2441e4e2374648bdb2a3ead269b6cf263d78544607da7d16724b124c445d821c",
+    "git_blob_sha": "cb5232c80ef5ceaa94e67d36a036d8dec7f176f7"
+  },
+  {
+    "path": "docs/sources/tap-3-mien.pdf",
+    "bytes": 3143595,
+    "sha256": "2b0c03b5655937c5bf469b57b09d211b0cef3669aff41d685e5d5e6bee15ed2c",
+    "git_blob_sha": "4b16d2bd1276e6c317bfba59c0189024fd2fbe3b"
+  },
+  {
+    "path": "docs/sources/tap-4-mien.pdf",
+    "bytes": 2583145,
+    "sha256": "7d7bdd4ad197fdb37ca120d5d179b6b392955f7f942f65b8a4bc5838ddd2b20e",
+    "git_blob_sha": "cd2f3f6f30f0c9fb0954e6b649927dafe7bbec25"
+  },
+  {
+    "path": "docs/sources/tap-5-mien.pdf",
+    "bytes": 2686962,
+    "sha256": "780c880b2d838cc5b1951d037ca203161015d8edb03df67d2557a8d4db4b33d2",
+    "git_blob_sha": "414e0d936e1a5c1b19407768228bf0c3a5796cce"
+  },
+  {
+    "path": "docs/style.css",
+    "bytes": 8463,
+    "sha256": "80285ad063cdc14bcee05f271dbbd8c38b476763b7081cde38074947f63c80b2",
+    "git_blob_sha": "170b1c41c075a9e0bb3b84ed59549edc2ffc4744"
+  },
+  {
+    "path": "records/export-summary.json",
+    "bytes": 1344,
+    "sha256": "63987a220cd3a2a97828731439efa6f3ca924da9f11bc62daf7bc538bd290a49",
+    "git_blob_sha": "77a22f4473c8408895e047b6f4ba0915b96b6056"
+  },
+  {
+    "path": "records/import-provenance.json",
+    "bytes": 1998,
+    "sha256": "4fb600545fc5918a9a9b06530221e7ae2ba3f55d87053397a8dab814c44224ca",
+    "git_blob_sha": "1977f1b6b80281b6b82efd8a5c1a7cbc2de3691f"
+  },
+  {
+    "path": "records/pdf2-export.json",
+    "bytes": 161,
+    "sha256": "864bef9112e5c741735626998e780ccbeb2d3e1beeda124f41cd1e9e5537088b",
+    "git_blob_sha": "c797d5b1c69492daede3fa7594724d73116cff52"
+  },
+  {
+    "path": "records/validation.json",
+    "bytes": 1499,
+    "sha256": "3af97b4f42e150b3df94cee4365e7669612cec86f1b5afc4437958fca8f8257d",
+    "git_blob_sha": "4fb2a89cf1456ecbbf8da80b6e74c26507ec5b99"
+  },
+  {
+    "path": "scripts/export_books.py",
+    "bytes": 15320,
+    "sha256": "722adef487a96a8dee8194e40b3e5388593c5be82361d891c7cc113974452c85",
+    "git_blob_sha": "7810c8c187317957a937baf6f6ba9bd311481e9a"
+  },
+  {
+    "path": "scripts/validate_exports.py",
+    "bytes": 5815,
+    "sha256": "2d76aa8cf8cb5dae9cfad0f21f564085cc52224c403d7701808046c819a419d1",
+    "git_blob_sha": "1788bfca6a691930852695544a583e22d7b486ea"
+  }
+]

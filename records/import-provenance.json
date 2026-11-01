@@ -1,0 +1,62 @@
+[
+  {
+    "vol": 1,
+    "project_id": "appgprj_6aa596a53c248191ab7cf3e576fbb3df",
+    "commit": "75b162fde5ff887959838fc1c8606ef08409b5f1",
+    "version": 53,
+    "pages": 807,
+    "paragraph_search_units": 7231,
+    "ids": 10710,
+    "source_content_changed": false,
+    "semantic_review_performed": false,
+    "content_sha256": "eae48a649210328b7f542451cf1801abc52476ee18c61317bf636de5e6577f9d"
+  },
+  {
+    "vol": 2,
+    "project_id": "appgprj_6abed60adab4819194df6e076d5ec682",
+    "commit": "fda5f01a14be6b611f454cc6ec57f3ae8b43a684",
+    "version": 15,
+    "pages": 649,
+    "paragraph_search_units": 6924,
+    "ids": 9160,
+    "source_content_changed": false,
+    "semantic_review_performed": false,
+    "content_sha256": "5955c593aa1c90f4631169613f5d0286c4d90367950290b4e6ae28c0cd44be92"
+  },
+  {
+    "vol": 3,
+    "project_id": "appgprj_6acd21653f4081918219c34aa54aac51",
+    "commit": "6030a688c4c9c2b71d3529098543f0eec6ba5696",
+    "version": 79,
+    "pages": 710,
+    "paragraph_search_units": 8000,
+    "ids": 9905,
+    "source_content_changed": false,
+    "semantic_review_performed": false,
+    "content_sha256": "aef36c168e789a3fbddb11a0c9bb8a2e743bdd84327562d9e06df78c01c1ed86"
+  },
+  {
+    "vol": 4,
+    "project_id": "appgprj_6adc1b5d35388191b282660bf56034f4",
+    "commit": "fce40c727640fd89da1b1729f533d635113d4f30",
+    "version": 45,
+    "pages": 664,
+    "paragraph_search_units": 7123,
+    "ids": 9144,
+    "source_content_changed": false,
+    "semantic_review_performed": false,
+    "content_sha256": "842fe5a6f9a49180dd96a30341103a2c8a2246333a74d1049c953006488944a1"
+  },
+  {
+    "vol": 5,
+    "project_id": "appgprj_6ae10f78152481918d7cc7ad8480e2fd",
+    "commit": "dbfbcbc290eba69034e9bc5625f896ab8a2486ea",
+    "version": 48,
+    "pages": 675,
+    "paragraph_search_units": 6639,
+    "ids": 7341,
+    "source_content_changed": false,
+    "semantic_review_performed": false,
+    "content_sha256": "ee573f68d37b02125ba743e0e8e269b82402bb8543514a084daf77814c362193"
+  }
+]
