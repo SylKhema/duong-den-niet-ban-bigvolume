@@ -67,4 +67,13 @@ Năm PDF Việt được sao chép nguyên trạng từ bộ đã lưu. Chúng k
 
 Kho chỉ gồm Bộ Đại I–V. Bộ Mini và các dự án khác không nằm trong lần bàn giao này. Tài khoản, mật khẩu, token, cấu hình truy cập ChatGPT và lịch sử Git nội bộ không được đưa vào kho.
 
-Chưa áp đặt giấy phép Creative Commons hoặc giấy phép phần mềm cho tác phẩm. Cần tôn trọng quyền đối với nguyên tác và bản dịch; phông Noto kèm giấy phép OFL riêng trong `docs/fonts/`.
+Nội dung Việt ngữ và phần biên tập của dự án, trong phạm vi quyền được cấp, dùng CC BY-NC 4.0: chia sẻ và sửa đổi phi thương mại, ghi nguồn, chỉ rõ thay đổi, không hàm ý đã được dự án duyệt. Xem [LICENSE](LICENSE). Nguyên tác, tư liệu bên thứ ba, phông chữ và phần mềm có phạm vi quyền riêng như LICENSE nêu.
+
+
+## Góp ý và hiệu đính
+
+Trên website đang vận hành, bấm/chạm vào đoạn để hiện **Góp ý đoạn vừa chọn**, hoặc dùng **Góp ý chung**. Gửi ẩn danh được; tên/email tùy chọn. Chỉ sau khi ghi cơ sở dữ liệu thành công, hệ thống mới trả mã tiếp nhận. [Hướng dẫn và quyền riêng tư](docs/gop-y.html), [nhật ký công khai](docs/hieu-dinh.html), [quản lý riêng](docs/review.html).
+
+**Phần góp ý cần máy chủ và cơ sở dữ liệu D1; GitHub Pages chỉ phục vụ tệp tĩnh nên không tự xử lý biểu mẫu.** Không coi việc tải HTML lên hosting tĩnh là đã triển khai hệ thống góp ý. Mã máy chủ nằm trong [gói nguồn backend](server/feedback-server-source.zip), kèm [hướng dẫn](server/README.md). Trang quản lý hiện dùng danh tính ChatGPT do Sites xác thực và biến runtime `REVIEWER_EMAIL`; không công khai giá trị biến này. Nếu chuyển sang máy chủ độc lập ngoài Sites, phải thay lớp xác thực bằng cơ chế quản trị tin cậy trước khi mở API quản lý. Không tin các header danh tính do người dùng gửi trực tiếp.
+
+Các góp ý, tên và email nằm riêng trong D1, không được đưa vào GitHub, ZIP công khai hoặc nhật ký hiệu đính. Trạng thái quản lý không tự sửa sách/PDF/EPUB: chủ dự án vẫn đối chiếu, duyệt, sửa dữ liệu chuẩn rồi phát hành lại.
