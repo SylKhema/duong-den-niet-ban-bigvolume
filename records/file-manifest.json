@@ -325,15 +325,15 @@
   },
   {
     "path": "docs/gop-y.html",
-    "bytes": 5466,
-    "sha256": "105eaff7541a27f64c733be24cf8bfd992d1c3c866037d77a5ac0a5b094ba3cd",
-    "git_blob_sha": "3f50043897d51d00548460c6b103a4b8d8342925"
+    "bytes": 5461,
+    "sha256": "a989738aa797fef774f016cee6012e4b0ec09e1100b8f516bb603415a36b96a4",
+    "git_blob_sha": "e0b246b01afc3c8801fd5ad18581cb0a0eb4198f"
   },
   {
     "path": "docs/hieu-dinh.html",
-    "bytes": 2662,
-    "sha256": "65fb1837b6e588d068b969117e306fde80215fa7fc4eb57e3e2fa2f4e9670642",
-    "git_blob_sha": "5a3f13fac6442dddf6beb2d1515919b486f9d652"
+    "bytes": 2657,
+    "sha256": "945c898d7db5f1adc0545474e4e132551a15620cbd8b98a5381da5d1ba23a039",
+    "git_blob_sha": "68392dbcc022e46c4a6cc9007abdb695a334121c"
   },
   {
     "path": "docs/index.html",
@@ -361,9 +361,9 @@
   },
   {
     "path": "docs/robots.txt",
-    "bytes": 265,
-    "sha256": "4e812ac1057eefd545a61fce45e7f37c477ec167f509e6e202938a9054c627e5",
-    "git_blob_sha": "4fe3f8234ff957715d3d049ff41c40073ba1bb60"
+    "bytes": 283,
+    "sha256": "e3dc4129cef863d8abbf6834ddf61396a13202bea084f3e9269ba61fca636c9f",
+    "git_blob_sha": "704218c843eee3c021dacf39db0389b1a9544679"
   },
   {
     "path": "docs/site.webmanifest",
@@ -373,9 +373,9 @@
   },
   {
     "path": "docs/sitemap.xml",
-    "bytes": 2418,
-    "sha256": "912ecd577e339a3dd2df10b1062f908dcda68dd7f381e1e0333155079850ff82",
-    "git_blob_sha": "7d340431aeff40ecbdcc73ae81e6b9df9c460ad6"
+    "bytes": 2383,
+    "sha256": "22821445dc93e8d1c9e3833037d5d3c480f719caad0a503d599363d844797592",
+    "git_blob_sha": "4a74303f51a707e9d23186238ef4b8bbae15bef3"
   },
   {
     "path": "docs/sources/tap-1-mien.pdf",
@@ -445,9 +445,9 @@
   },
   {
     "path": "scripts/generate_sitemap.py",
-    "bytes": 3579,
-    "sha256": "b929f7928a86880f217916341be7c0e9505bf647bf04d18a96177dd01cdbbcc8",
-    "git_blob_sha": "c40a0cf0214e3f2250d9f1e5e127d29110efbec2"
+    "bytes": 4036,
+    "sha256": "20c148442fd0cc9f21303279ef6aaa7d3be5461bef4443421feb6f1804b7083d",
+    "git_blob_sha": "eab83cd8169c70a0204f842e1c97b268897e0d00"
   },
   {
     "path": "scripts/validate_exports.py",
@@ -466,41 +466,5 @@
     "bytes": 244703,
     "sha256": "4f26519d395ff8c129e831d73cf03b7b692fe3768b51f6ad68923f71c0af270d",
     "git_blob_sha": "f8b7001df303a9add08e6857c326fc4033fae63d"
-  },
-  {
-    "path": "test/android-chrome-192x192.png",
-    "bytes": 47235,
-    "sha256": "36887cc04c59c515c9930e7f1278594424242e98ca0d21032421d0ed52532329",
-    "git_blob_sha": "13d4b90934906ea0625bf5e690fa47f923644396"
-  },
-  {
-    "path": "test/android-chrome-512x512.png",
-    "bytes": 148991,
-    "sha256": "269e837dbbf0f0d480a059d32cfb1e5fc16da8542e09ac1248d1620083b97b3a",
-    "git_blob_sha": "ecac60fb5f9eabaf75690728144e5dbac2c0ffcc"
-  },
-  {
-    "path": "test/apple-touch-icon.png",
-    "bytes": 21570,
-    "sha256": "3baaa6d38b60f185ec38c8c5622d8c74f2084d788c66a2b8808e3061abbc9171",
-    "git_blob_sha": "b3ce9f1f9837a6905cd5185b14c1ab9f71f8a856"
-  },
-  {
-    "path": "test/favicon-16x16.png",
-    "bytes": 764,
-    "sha256": "1fdf89df5b042fe1f8266d3a6c6442bb645328623e1cada748eed3f0e4fdf8b2",
-    "git_blob_sha": "5b662bee926a383dbc47d9dfafc393058128c8c3"
-  },
-  {
-    "path": "test/favicon-32x32.png",
-    "bytes": 1999,
-    "sha256": "397e84881bee4e769a10938c1a7c48ea40a1d3f608d8be97185a9eafc579e294",
-    "git_blob_sha": "0872c26fb89cee89cc5a7021fd490338d006a995"
-  },
-  {
-    "path": "test/favicon.ico",
-    "bytes": 15086,
-    "sha256": "c6f6c8b10c451e80f96ef40f99acb346b63490b4d9c01b801f05432faffc758e",
-    "git_blob_sha": "a0154327f391f01745064dd0ac9f35ed347cfc65"
   }
 ]

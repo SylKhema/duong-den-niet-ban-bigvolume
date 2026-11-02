@@ -3,6 +3,7 @@ User-agent: *
 Allow: /
 
 # Exclude administrative editorial review portal and backend APIs
+Disallow: /review
 Disallow: /review.html
 Disallow: /api/
 
