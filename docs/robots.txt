@@ -1,0 +1,10 @@
+# robots.txt for Đường Đến Niết-bàn (https://nibbanagamini.org)
+User-agent: *
+Allow: /
+
+# Exclude administrative editorial review portal and backend APIs
+Disallow: /review.html
+Disallow: /api/
+
+# XML Sitemap
+Sitemap: https://nibbanagamini.org/sitemap.xml

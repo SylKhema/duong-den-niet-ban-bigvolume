@@ -1,5 +1,11 @@
 [
   {
+    "path": ".DS_Store",
+    "bytes": 12292,
+    "sha256": "3f870501ab8bdcaada047103307e136713894c1a0d0e1d836bc912d448841097",
+    "git_blob_sha": "5a5df7a7724d49da0dd2493f17f6f7e759e121c0"
+  },
+  {
     "path": ".gitignore",
     "bytes": 41,
     "sha256": "0b2cfa68fd39c523d02030116f86bedf47d8c5e8d69b629895d89a47ba72ff73",
@@ -30,10 +36,28 @@
     "git_blob_sha": "367f384962a20eef898d142ad2312b1f9d60e9f3"
   },
   {
+    "path": "docs/android-chrome-192x192.png",
+    "bytes": 47235,
+    "sha256": "36887cc04c59c515c9930e7f1278594424242e98ca0d21032421d0ed52532329",
+    "git_blob_sha": "13d4b90934906ea0625bf5e690fa47f923644396"
+  },
+  {
+    "path": "docs/android-chrome-512x512.png",
+    "bytes": 148991,
+    "sha256": "269e837dbbf0f0d480a059d32cfb1e5fc16da8542e09ac1248d1620083b97b3a",
+    "git_blob_sha": "ecac60fb5f9eabaf75690728144e5dbac2c0ffcc"
+  },
+  {
     "path": "docs/app.js",
     "bytes": 10433,
     "sha256": "631737e97c07823b79b28903021c3a545ff86ba68281bdca1f9015d5fe725162",
     "git_blob_sha": "e7f4fb267f4ef3dc184b287613c5588d9673545d"
+  },
+  {
+    "path": "docs/apple-touch-icon.png",
+    "bytes": 21570,
+    "sha256": "3baaa6d38b60f185ec38c8c5622d8c74f2084d788c66a2b8808e3061abbc9171",
+    "git_blob_sha": "b3ce9f1f9837a6905cd5185b14c1ab9f71f8a856"
   },
   {
     "path": "docs/books/1-search.json",
@@ -252,6 +276,30 @@
     "git_blob_sha": "b5ccc6d456caae1af25018b2c709970662d98d14"
   },
   {
+    "path": "docs/favicon-16x16.png",
+    "bytes": 764,
+    "sha256": "1fdf89df5b042fe1f8266d3a6c6442bb645328623e1cada748eed3f0e4fdf8b2",
+    "git_blob_sha": "5b662bee926a383dbc47d9dfafc393058128c8c3"
+  },
+  {
+    "path": "docs/favicon-32x32.png",
+    "bytes": 1999,
+    "sha256": "397e84881bee4e769a10938c1a7c48ea40a1d3f608d8be97185a9eafc579e294",
+    "git_blob_sha": "0872c26fb89cee89cc5a7021fd490338d006a995"
+  },
+  {
+    "path": "docs/favicon-48x48.png",
+    "bytes": 4834,
+    "sha256": "e40ec4cc141682b364fb18a43abdfbd3deb0a07c93494ef41d73e3b2bcab5987",
+    "git_blob_sha": "8545f38793d890bbfc32837b47551cc981e1f4d9"
+  },
+  {
+    "path": "docs/favicon.ico",
+    "bytes": 15086,
+    "sha256": "c6f6c8b10c451e80f96ef40f99acb346b63490b4d9c01b801f05432faffc758e",
+    "git_blob_sha": "a0154327f391f01745064dd0ac9f35ed347cfc65"
+  },
+  {
     "path": "docs/feedback.css",
     "bytes": 1794,
     "sha256": "309ed40623a744752b8cdced22fa365b4de7a6974880df4f0c8f9edcb91e5503",
@@ -277,21 +325,21 @@
   },
   {
     "path": "docs/gop-y.html",
-    "bytes": 4865,
-    "sha256": "440acda77531cf81f07c7e5110f80fbb1ff553ae9031db30ff608f8f3cf55f0d",
-    "git_blob_sha": "0987deb2a58652dbdc94c696c21f8493cc882a0a"
+    "bytes": 5466,
+    "sha256": "105eaff7541a27f64c733be24cf8bfd992d1c3c866037d77a5ac0a5b094ba3cd",
+    "git_blob_sha": "3f50043897d51d00548460c6b103a4b8d8342925"
   },
   {
     "path": "docs/hieu-dinh.html",
-    "bytes": 2061,
-    "sha256": "3d166a8aee5b61463efa8b50a25280e5b59ee375440f8f346cc784ff326659d7",
-    "git_blob_sha": "fb156c498d493559ac8741ee41f49ab1ab471225"
+    "bytes": 2662,
+    "sha256": "65fb1837b6e588d068b969117e306fde80215fa7fc4eb57e3e2fa2f4e9670642",
+    "git_blob_sha": "5a3f13fac6442dddf6beb2d1515919b486f9d652"
   },
   {
     "path": "docs/index.html",
-    "bytes": 3317,
-    "sha256": "b40e41eebcd06562f057b732a111512af5b1e88cf971e7a9ec5e49bd028184e8",
-    "git_blob_sha": "a37dc20f490c609311822c094b8e5eef87bb7b11"
+    "bytes": 4900,
+    "sha256": "cbc220ff990d4fefb83cc2d0662b6f8b75037d57adcd25292a94f5d1984cd10f",
+    "git_blob_sha": "a5d9d2a3b899737470725ed41511c7e2ff69bb13"
   },
   {
     "path": "docs/original/pdf-4.png",
@@ -307,9 +355,27 @@
   },
   {
     "path": "docs/review.html",
-    "bytes": 4886,
-    "sha256": "5eb1805a16e12b7ca99eaa3aa5a7dea2589f716783bfe09d663597c93adde069",
-    "git_blob_sha": "7ea0fb2af83b5a8516570b4cbc1ef7990ed223da"
+    "bytes": 5259,
+    "sha256": "cc1990417790eb3ff1d52fe61c779269421b0630a5d9fd4199721f73f9bd0e80",
+    "git_blob_sha": "c88a5f4b6159c893e1cf8af9ada6e39ccdce3aea"
+  },
+  {
+    "path": "docs/robots.txt",
+    "bytes": 265,
+    "sha256": "4e812ac1057eefd545a61fce45e7f37c477ec167f509e6e202938a9054c627e5",
+    "git_blob_sha": "4fe3f8234ff957715d3d049ff41c40073ba1bb60"
+  },
+  {
+    "path": "docs/site.webmanifest",
+    "bytes": 438,
+    "sha256": "75057836759e9dab0510de166a1cd0223293a01deefdaeddf8bb5aedd66ae628",
+    "git_blob_sha": "4c5dc24fabf3842e22ce059a2b10dee1a84eabda"
+  },
+  {
+    "path": "docs/sitemap.xml",
+    "bytes": 2418,
+    "sha256": "912ecd577e339a3dd2df10b1062f908dcda68dd7f381e1e0333155079850ff82",
+    "git_blob_sha": "7d340431aeff40ecbdcc73ae81e6b9df9c460ad6"
   },
   {
     "path": "docs/sources/tap-1-mien.pdf",
@@ -366,12 +432,6 @@
     "git_blob_sha": "c797d5b1c69492daede3fa7594724d73116cff52"
   },
   {
-    "path": "records/validation-exports.json",
-    "bytes": 1740,
-    "sha256": "044866baa45972edc4e73d9cb06661cfdc3232089ce9370f2de33d98ca6f1639",
-    "git_blob_sha": "af9d6c697f88e1dc4d134bbe33293088e812bdf1"
-  },
-  {
     "path": "records/validation.json",
     "bytes": 1499,
     "sha256": "3af97b4f42e150b3df94cee4365e7669612cec86f1b5afc4437958fca8f8257d",
@@ -382,6 +442,12 @@
     "bytes": 15320,
     "sha256": "722adef487a96a8dee8194e40b3e5388593c5be82361d891c7cc113974452c85",
     "git_blob_sha": "7810c8c187317957a937baf6f6ba9bd311481e9a"
+  },
+  {
+    "path": "scripts/generate_sitemap.py",
+    "bytes": 3579,
+    "sha256": "b929f7928a86880f217916341be7c0e9505bf647bf04d18a96177dd01cdbbcc8",
+    "git_blob_sha": "c40a0cf0214e3f2250d9f1e5e127d29110efbec2"
   },
   {
     "path": "scripts/validate_exports.py",
@@ -400,5 +466,41 @@
     "bytes": 244703,
     "sha256": "4f26519d395ff8c129e831d73cf03b7b692fe3768b51f6ad68923f71c0af270d",
     "git_blob_sha": "f8b7001df303a9add08e6857c326fc4033fae63d"
+  },
+  {
+    "path": "test/android-chrome-192x192.png",
+    "bytes": 47235,
+    "sha256": "36887cc04c59c515c9930e7f1278594424242e98ca0d21032421d0ed52532329",
+    "git_blob_sha": "13d4b90934906ea0625bf5e690fa47f923644396"
+  },
+  {
+    "path": "test/android-chrome-512x512.png",
+    "bytes": 148991,
+    "sha256": "269e837dbbf0f0d480a059d32cfb1e5fc16da8542e09ac1248d1620083b97b3a",
+    "git_blob_sha": "ecac60fb5f9eabaf75690728144e5dbac2c0ffcc"
+  },
+  {
+    "path": "test/apple-touch-icon.png",
+    "bytes": 21570,
+    "sha256": "3baaa6d38b60f185ec38c8c5622d8c74f2084d788c66a2b8808e3061abbc9171",
+    "git_blob_sha": "b3ce9f1f9837a6905cd5185b14c1ab9f71f8a856"
+  },
+  {
+    "path": "test/favicon-16x16.png",
+    "bytes": 764,
+    "sha256": "1fdf89df5b042fe1f8266d3a6c6442bb645328623e1cada748eed3f0e4fdf8b2",
+    "git_blob_sha": "5b662bee926a383dbc47d9dfafc393058128c8c3"
+  },
+  {
+    "path": "test/favicon-32x32.png",
+    "bytes": 1999,
+    "sha256": "397e84881bee4e769a10938c1a7c48ea40a1d3f608d8be97185a9eafc579e294",
+    "git_blob_sha": "0872c26fb89cee89cc5a7021fd490338d006a995"
+  },
+  {
+    "path": "test/favicon.ico",
+    "bytes": 15086,
+    "sha256": "c6f6c8b10c451e80f96ef40f99acb346b63490b4d9c01b801f05432faffc758e",
+    "git_blob_sha": "a0154327f391f01745064dd0ac9f35ed347cfc65"
   }
 ]
