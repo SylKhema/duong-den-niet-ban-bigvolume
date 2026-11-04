@@ -1,47 +1,47 @@
 [
   {
     "vol": 1,
-    "source_json_sha256": "eae48a649210328b7f542451cf1801abc52476ee18c61317bf636de5e6577f9d",
+    "source_json_sha256": "371dfa500ae3ff8a57789532a4dd3fc378c404385dba83bc1677fb8903bf2791",
     "source_page_markers": 807,
     "toc_entries": 700,
-    "unicode_characters": 3002860,
-    "epub_bytes": 1464641,
-    "offline_html_bytes": 5984235
+    "unicode_characters": 3003489,
+    "epub_bytes": 1464693,
+    "offline_html_bytes": 5985121
   },
   {
     "vol": 2,
-    "source_json_sha256": "5955c593aa1c90f4631169613f5d0286c4d90367950290b4e6ae28c0cd44be92",
+    "source_json_sha256": "7a31c7645872622c9eefa74266c6c6258fdae8ca39f897174d23948ba34fee31",
     "source_page_markers": 649,
     "toc_entries": 636,
-    "unicode_characters": 1829843,
-    "epub_bytes": 791335,
-    "offline_html_bytes": 3882310
+    "unicode_characters": 1830107,
+    "epub_bytes": 791394,
+    "offline_html_bytes": 3882660
   },
   {
     "vol": 3,
-    "source_json_sha256": "aef36c168e789a3fbddb11a0c9bb8a2e743bdd84327562d9e06df78c01c1ed86",
+    "source_json_sha256": "beeeeaf29ab7f82949933a18c6eacdc33deeb67cbc75e1c034a9d8ee61cc74c1",
     "source_page_markers": 710,
     "toc_entries": 696,
-    "unicode_characters": 1834929,
-    "epub_bytes": 738379,
-    "offline_html_bytes": 3180911
+    "unicode_characters": 1834821,
+    "epub_bytes": 738415,
+    "offline_html_bytes": 3180901
   },
   {
     "vol": 4,
-    "source_json_sha256": "842fe5a6f9a49180dd96a30341103a2c8a2246333a74d1049c953006488944a1",
+    "source_json_sha256": "2a1d9b9aa09b084f3dbf7c16df431f454719877d85277bc98c061e9cf407b000",
     "source_page_markers": 664,
     "toc_entries": 364,
-    "unicode_characters": 1578934,
-    "epub_bytes": 697280,
-    "offline_html_bytes": 2848086
+    "unicode_characters": 1579390,
+    "epub_bytes": 697373,
+    "offline_html_bytes": 2848826
   },
   {
     "vol": 5,
-    "source_json_sha256": "ee573f68d37b02125ba743e0e8e269b82402bb8543514a084daf77814c362193",
+    "source_json_sha256": "f9ed25bd4ac8ada3cdccd4916f17a5a0b933332e92f08d0347a7175383ad4ce8",
     "source_page_markers": 675,
     "toc_entries": 591,
-    "unicode_characters": 1510204,
-    "epub_bytes": 659189,
-    "offline_html_bytes": 2563649
+    "unicode_characters": 1510040,
+    "epub_bytes": 659290,
+    "offline_html_bytes": 2564093
   }
 ]

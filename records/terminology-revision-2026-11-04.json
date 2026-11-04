@@ -1,0 +1,47 @@
+[
+  {
+    "vol": 1,
+    "page_markers": 807,
+    "toc_entries": 700,
+    "old_nghiep_xu_count": 28,
+    "remaining_nghiep_xu": 0,
+    "additional_thien_chi": 118,
+    "ids_preserved": true
+  },
+  {
+    "vol": 2,
+    "page_markers": 649,
+    "toc_entries": 636,
+    "old_nghiep_xu_count": 0,
+    "remaining_nghiep_xu": 0,
+    "additional_thien_chi": 50,
+    "ids_preserved": true
+  },
+  {
+    "vol": 3,
+    "page_markers": 710,
+    "toc_entries": 696,
+    "old_nghiep_xu_count": 68,
+    "remaining_nghiep_xu": 0,
+    "additional_thien_chi": 21,
+    "ids_preserved": true
+  },
+  {
+    "vol": 4,
+    "page_markers": 664,
+    "toc_entries": 364,
+    "old_nghiep_xu_count": 66,
+    "remaining_nghiep_xu": 0,
+    "additional_thien_chi": 110,
+    "ids_preserved": true
+  },
+  {
+    "vol": 5,
+    "page_markers": 675,
+    "toc_entries": 591,
+    "old_nghiep_xu_count": 348,
+    "remaining_nghiep_xu": 0,
+    "additional_thien_chi": 149,
+    "ids_preserved": true
+  }
+]

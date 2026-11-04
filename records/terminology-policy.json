@@ -1,0 +1,25 @@
+{
+  "approved_by": "Chủ dự án",
+  "date": "2026-11-04",
+  "scope": "Bộ Đại, Tập I–V; bản Việt ngữ",
+  "terms": {
+    "kammaṭṭhāna": "đề mục",
+    "samatha": "thiền chỉ"
+  },
+  "preserve": [
+    "Pāli nguyên văn",
+    "an chỉ định",
+    "chỉ dẫn",
+    "chỉ mục",
+    "chữ chỉ mang nghĩa thông thường"
+  ],
+  "formats": [
+    "website JSON",
+    "search index",
+    "HTML",
+    "TXT",
+    "Markdown",
+    "EPUB",
+    "PDF"
+  ]
+}

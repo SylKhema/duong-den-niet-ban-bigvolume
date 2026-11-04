@@ -7,7 +7,10 @@
       "preserved_ids": 10710,
       "epub_internal_links_checked": 6561,
       "html_and_epub_text_preserved": true,
-      "pdf_bytes_unchanged": true
+      "pdf_hash_matches_provenance": true,
+      "pdf_pages": 899,
+      "pdf_bookmarks": 700,
+      "source_pdf_pages": 817
     },
     {
       "vol": 2,
@@ -16,7 +19,10 @@
       "preserved_ids": 9160,
       "epub_internal_links_checked": 4170,
       "html_and_epub_text_preserved": true,
-      "pdf_bytes_unchanged": true
+      "pdf_hash_matches_provenance": true,
+      "pdf_pages": 768,
+      "pdf_bookmarks": 636,
+      "source_pdf_pages": 649
     },
     {
       "vol": 3,
@@ -25,7 +31,10 @@
       "preserved_ids": 9905,
       "epub_internal_links_checked": 3020,
       "html_and_epub_text_preserved": true,
-      "pdf_bytes_unchanged": true
+      "pdf_hash_matches_provenance": true,
+      "pdf_pages": 652,
+      "pdf_bookmarks": 696,
+      "source_pdf_pages": 722
     },
     {
       "vol": 4,
@@ -34,7 +43,10 @@
       "preserved_ids": 9144,
       "epub_internal_links_checked": 2200,
       "html_and_epub_text_preserved": true,
-      "pdf_bytes_unchanged": true
+      "pdf_hash_matches_provenance": true,
+      "pdf_pages": 570,
+      "pdf_bookmarks": 364,
+      "source_pdf_pages": 670
     },
     {
       "vol": 5,
@@ -43,7 +55,10 @@
       "preserved_ids": 7341,
       "epub_internal_links_checked": 1286,
       "html_and_epub_text_preserved": true,
-      "pdf_bytes_unchanged": true
+      "pdf_hash_matches_provenance": true,
+      "pdf_pages": 500,
+      "pdf_bookmarks": 591,
+      "source_pdf_pages": 686
     }
   ],
   "all_checks_passed": true,

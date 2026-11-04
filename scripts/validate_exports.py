@@ -58,7 +58,7 @@ def main():
             assert all(x.get('idref') in manifest for x in opf.xpath('//o:spine/o:itemref',namespaces=ns))
         expected=provenance['pdfs'][i-1]['pdfSha256'];pdf=WEB/'downloads'/f'tap-{i}.pdf'
         assert hashlib.sha256(pdf.read_bytes()).hexdigest()==expected,(i,'PDF changed')
-        report={'vol':i,'source_pages':len(b['pages']),'toc_entries':len(b['toc']),'preserved_ids':len(ids),'epub_internal_links_checked':checked,'html_and_epub_text_preserved':True,'pdf_bytes_unchanged':True}
+        report={'vol':i,'source_pages':len(b['pages']),'toc_entries':len(b['toc']),'preserved_ids':len(ids),'epub_internal_links_checked':checked,'html_and_epub_text_preserved':True,'pdf_hash_matches_provenance':True}
         if args.pdf:
             import fitz
             doc=fitz.open(pdf);source=fitz.open(WEB/'sources'/f'tap-{i}-mien.pdf')

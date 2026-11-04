@@ -12,7 +12,7 @@
       "ids": 10710,
       "source_content_changed": false,
       "semantic_review_performed": false,
-      "content_sha256": "eae48a649210328b7f542451cf1801abc52476ee18c61317bf636de5e6577f9d"
+      "content_sha256": "371dfa500ae3ff8a57789532a4dd3fc378c404385dba83bc1677fb8903bf2791"
     },
     {
       "vol": 2,
@@ -24,7 +24,7 @@
       "ids": 9160,
       "source_content_changed": false,
       "semantic_review_performed": false,
-      "content_sha256": "5955c593aa1c90f4631169613f5d0286c4d90367950290b4e6ae28c0cd44be92"
+      "content_sha256": "7a31c7645872622c9eefa74266c6c6258fdae8ca39f897174d23948ba34fee31"
     },
     {
       "vol": 3,
@@ -36,7 +36,7 @@
       "ids": 9905,
       "source_content_changed": false,
       "semantic_review_performed": false,
-      "content_sha256": "aef36c168e789a3fbddb11a0c9bb8a2e743bdd84327562d9e06df78c01c1ed86"
+      "content_sha256": "beeeeaf29ab7f82949933a18c6eacdc33deeb67cbc75e1c034a9d8ee61cc74c1"
     },
     {
       "vol": 4,
@@ -48,7 +48,7 @@
       "ids": 9144,
       "source_content_changed": false,
       "semantic_review_performed": false,
-      "content_sha256": "842fe5a6f9a49180dd96a30341103a2c8a2246333a74d1049c953006488944a1"
+      "content_sha256": "2a1d9b9aa09b084f3dbf7c16df431f454719877d85277bc98c061e9cf407b000"
     },
     {
       "vol": 5,
@@ -60,44 +60,49 @@
       "ids": 7341,
       "source_content_changed": false,
       "semantic_review_performed": false,
-      "content_sha256": "ee573f68d37b02125ba743e0e8e269b82402bb8543514a084daf77814c362193"
+      "content_sha256": "c25c701623a1eb483b6dd609ea714d7021a767f81cc1bd962ea7d32050050e3a"
     }
   ],
   "pdfs": [
     {
       "vol": 1,
       "pdf": "downloads/tap-1.pdf",
-      "pdfPages": 979,
-      "pdfSha256": "bd6ed8b7dfcb7386426245aad7a5c10cfb5b325e676bb3c513d570af25e5c8bd",
-      "pdfLabel": "979 trang bản Việt · Bản PDF đã lưu của tập"
+      "pdfPages": 899,
+      "pdfSha256": "1726efc62e7db339359df15ea1280a59f7429867fe0d8e966f1c905d814518e8",
+      "pdfLabel": "979 trang bản Việt · Bản PDF đã lưu của tập",
+      "terminology_revision": "2026-11-04"
     },
     {
       "vol": 2,
       "pdf": "downloads/tap-2.pdf",
-      "pdfPages": 765,
-      "pdfSha256": "4f2535ff7c6e4251151177072d1d53c084a6f1cd1cf8e0828671c5a5af0ff991",
-      "pdfLabel": "765 trang bản Việt · Bản xuất từ website15, ngày30-10-2026"
+      "pdfPages": 768,
+      "pdfSha256": "138e0c8425252f14eb714a8be4f7b90549d08c7077bb43f8076eb5da94f9210d",
+      "pdfLabel": "765 trang bản Việt · Bản xuất từ website15, ngày30-10-2026",
+      "terminology_revision": "2026-11-04"
     },
     {
       "vol": 3,
       "pdf": "downloads/tap-3.pdf",
-      "pdfPages": 666,
-      "pdfSha256": "a4dd78a9c61788f26a6b25e8e225e775fcf58b64a4974df82141fecc4e35bb4a",
-      "pdfLabel": "666 trang bản Việt · Bản PDF đã lưu của tập"
+      "pdfPages": 652,
+      "pdfSha256": "93c6d660dfa38254c11bc937a427ba3e9fbb866cff7d26dc43989eeac3357ae5",
+      "pdfLabel": "666 trang bản Việt · Bản PDF đã lưu của tập",
+      "terminology_revision": "2026-11-04"
     },
     {
       "vol": 4,
       "pdf": "downloads/tap-4.pdf",
-      "pdfPages": 611,
-      "pdfSha256": "068f320129d9343c82c047afcb8957f02125ae925e32dbf25540371522305809",
-      "pdfLabel": "611 trang bản Việt · Bản PDF đã lưu của tập"
+      "pdfPages": 570,
+      "pdfSha256": "d847f7cbe11c32757e72279d2662e32e2cce846223d5fff79178a3e5314be96b",
+      "pdfLabel": "611 trang bản Việt · Bản PDF đã lưu của tập",
+      "terminology_revision": "2026-11-04"
     },
     {
       "vol": 5,
       "pdf": "downloads/tap-5.pdf",
-      "pdfPages": 605,
-      "pdfSha256": "c82f19d108410c03ac2a061f9e5a991f3d36a21e3bea9bb9480511bac8d94ed8",
-      "pdfLabel": "605 trang bản Việt · Bản PDF đã lưu của tập"
+      "pdfPages": 500,
+      "pdfSha256": "8d3de0fe2faf021e1e60ad72f4ff47243b8687cdf41c69804941e675f89425b7",
+      "pdfLabel": "605 trang bản Việt · Bản PDF đã lưu của tập",
+      "terminology_revision": "2026-11-04"
     }
   ],
   "custom_domain": "Chưa cấu hình; chủ dự án sẽ đăng ký sau",
