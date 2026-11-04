@@ -1,5 +1,91 @@
-<!doctype html><html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex, nofollow"><link rel="icon" type="image/x-icon" href="/favicon.ico"><link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="manifest" href="/site.webmanifest"><title>Quản lý góp ý — Bộ Đại I–V</title><link rel="stylesheet" href="/style.css"><style>main{margin:0 auto;max-width:1000px;padding:30px 24px}article{border:1px solid #cad1c0;border-radius:7px;padding:22px;margin:20px 0;overflow-wrap:anywhere}label{display:block;margin:12px 0}textarea{width:100%;padding:12px;font:16px/1.6 system-ui}select{padding:8px}.text{white-space:pre-wrap;background:#f0f0e5;padding:12px;font:15px/1.8 system-ui}.private{font:14px system-ui;color:#6c7469}button{margin:7px 7px 7px 0}</style></head><body><main><a href="/">← Trở về bộ sách</a><h1>Quản lý góp ý</h1><p>Chỉ tài khoản người phụ trách được xem nội dung gửi và thông tin liên hệ. Việc cập nhật trạng thái ở đây không tự sửa bản dịch hay tạo lại PDF/EPUB.</p><p><a href="/signin-with-chatgpt?return_to=%2Freview.html" target="_top">Đăng nhập bằng tài khoản ChatGPT của người phụ trách</a></p><p id="notice" role="status">Đang kiểm tra quyền truy cập…</p><div id="items"></div><button id="next" hidden>Trang tiếp theo</button></main><script>
-const statuses={new:'Mới nhận',reviewing:'Đang đối chiếu','needs-info':'Cần thêm căn cứ',resolved:'Đã sửa',unchanged:'Giữ nguyên và giải thích',duplicate:'Góp ý trùng'},cats={typo:'Lỗi chữ/trình bày',translation:'Nghi dịch sai/thiếu',terminology:'Thuật ngữ',question:'Câu hỏi',other:'Khác'};let next=0;const box=document.querySelector('#items'),notice=document.querySelector('#notice');const node=(tag,text,cls)=>{const n=document.createElement(tag);if(text!==undefined)n.textContent=text;if(cls)n.className=cls;return n};
-async function load(){notice.textContent='Đang tải…';try{const r=await fetch('/api/review?offset='+next),d=await r.json();if(!r.ok)throw Error(d.error);box.replaceChildren();notice.textContent=d.entries.length?'Góp ý được lưu riêng. Chỉ ghi vào phần công khai nội dung đã biên tập, không chép email hoặc thông tin riêng.':'Chưa có góp ý nào.';for(const x of d.entries){const a=node('article'),h=node('h2',x.id),meta=node('p','Tập '+['I','II','III','IV','V'][x.volume-1]+' · Miến '+x.printed+' · PDF '+x.pdf_page+' · '+(cats[x.category]||x.category)),date=node('p',new Date(x.created_at).toLocaleString('vi-VN'),'private'),contact=node('p','Liên hệ riêng: '+(x.name||'(ẩn danh)')+(x.email?' · '+x.email:''),'private'),link=node('a','Mở vị trí trong sách');link.href='/#tap/'+x.volume+'/'+encodeURIComponent(x.anchor);a.append(h,meta,date,contact,link);for(const [label,value] of [['Đoạn trích',x.excerpt],['Ý kiến',x.message],['Đề nghị sửa',x.suggestion],['Nguồn đối chiếu',x.reference]]){a.append(node('h3',label),node('p',value||'(không có)','text'))}const select=node('select');select.setAttribute('aria-label','Trạng thái '+x.id);for(const [k,v] of Object.entries(statuses)){const o=node('option',v);o.value=k;o.selected=k===x.status;select.append(o)}const priv=node('textarea');priv.rows=3;priv.maxLength=4000;priv.value=x.editorial_note;priv.setAttribute('aria-label','Ghi chú biên tập riêng '+x.id);const pub=node('textarea');pub.rows=4;pub.maxLength=4000;pub.value=x.public_note;pub.placeholder='Ghi câu cũ/câu mới, lý do và nguồn đối chiếu nếu đã sửa. Không đưa thông tin riêng vào đây.';pub.setAttribute('aria-label','Giải thích công khai '+x.id);const checkbox=node('input');checkbox.type='checkbox';checkbox.checked=!!x.published;const checklabel=node('label');checklabel.append(checkbox,document.createTextNode(' Công bố phần giải thích trên nhật ký (chỉ khi Đã sửa hoặc Giữ nguyên và giải thích)'));const save=node('button','Lưu xử lý'),result=node('p');result.setAttribute('role','status');save.onclick=async()=>{save.disabled=true;result.textContent='Đang lưu…';try{const r=await fetch('/api/review',{method:'PATCH',headers:{'Content-Type':'application/json'},body:JSON.stringify({id:x.id,status:select.value,editorial_note:priv.value,public_note:pub.value,published:checkbox.checked})}),d=await r.json();if(!r.ok)throw Error(d.error);result.textContent='Đã lưu.';}catch(e){result.textContent=e.message||'Chưa lưu được.';}finally{save.disabled=false}};a.append(node('label','Trạng thái'),select,node('label','Ghi chú biên tập riêng'),priv,node('label','Giải thích để công khai khi được duyệt'),pub,checklabel,save,result);box.append(a)}next=d.nextOffset;document.querySelector('#next').hidden=next===null;}catch(e){notice.textContent=e.message||'Chưa tải được góp ý.';}}
-document.querySelector('#next').onclick=load;load();
+<!doctype html><html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex, nofollow"><link rel="icon" type="image/x-icon" href="/favicon.ico"><link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="manifest" href="/site.webmanifest"><title>Quản lý góp ý — Bộ Đại I–V</title><link rel="stylesheet" href="/style.css"><style>main{margin:0 auto;max-width:1000px;padding:30px 24px}article{border:1px solid #cad1c0;border-radius:7px;padding:22px;margin:20px 0;overflow-wrap:anywhere}label{display:block;margin:12px 0}textarea{width:100%;padding:12px;font:16px/1.6 system-ui}select{padding:8px}.text{white-space:pre-wrap;background:#f0f0e5;padding:12px;font:15px/1.8 system-ui}.private{font:14px system-ui;color:#6c7469}button{margin:7px 7px 7px 0}.auth-box{margin:20px 0;padding:16px;border:1px solid #cad1c0;border-radius:6px;background:#f5f6f0}.auth-box form{display:flex;gap:10px;align-items:center;margin-top:10px;flex-wrap:wrap}.auth-box input{padding:10px;font:15px system-ui;border:1px solid #bec7b6;border-radius:4px;min-width:260px}.auth-box button{background:#273d34;color:white;padding:10px 16px;border:none;border-radius:4px;cursor:pointer}</style></head><body><main><a href="/">← Trở về bộ sách</a><h1>Quản lý góp ý</h1><p>Chỉ tài khoản người phụ trách được xem nội dung gửi và thông tin liên hệ. Việc cập nhật trạng thái ở đây không tự sửa bản dịch hay tạo lại PDF/EPUB.</p><div id="auth-panel" class="auth-box"><form id="auth-form"><label for="auth-key"><strong>Mật khẩu quản trị:</strong></label><input type="password" id="auth-key" placeholder="Nhập ADMIN_PASSWORD..." required><button type="submit">Đăng nhập</button></form><div id="auth-status"></div></div><p id="notice" role="status">Đang kiểm tra quyền truy cập…</p><div id="items"></div><button id="next" hidden>Trang tiếp theo</button></main><script>
+const statuses={new:'Mới nhận',reviewing:'Đang đối chiếu','needs-info':'Cần thêm căn cứ',resolved:'Đã sửa',unchanged:'Giữ nguyên và giải thích',duplicate:'Góp ý trùng'},cats={typo:'Lỗi chữ/trình bày',translation:'Nghi dịch sai/thiếu',terminology:'Thuật ngữ',question:'Câu hỏi',other:'Khác'};let next=0;const box=document.querySelector('#items'),notice=document.querySelector('#notice'),authPanel=document.querySelector('#auth-panel'),authForm=document.querySelector('#auth-form'),authKeyInput=document.querySelector('#auth-key'),authStatus=document.querySelector('#auth-status');
+const getAuthToken=()=>sessionStorage.getItem('nibbana_admin_key')||'';
+const setAuthToken=k=>sessionStorage.setItem('nibbana_admin_key',k);
+const clearAuthToken=()=>sessionStorage.removeItem('nibbana_admin_key');
+function updateAuthUI(){
+  const token=getAuthToken();
+  if(token){
+    authForm.hidden=true;
+    authStatus.innerHTML=`<span>Đã đăng nhập quyền quản trị. </span><button id="logout-btn" type="button" style="padding:6px 12px;font-size:13px;background:#6c7469;color:white;border:none;border-radius:4px;cursor:pointer">Đăng xuất</button>`;
+    const btn=document.querySelector('#logout-btn');
+    if(btn)btn.onclick=()=>{clearAuthToken();updateAuthUI();box.replaceChildren();notice.textContent='Vui lòng đăng nhập lại.';document.querySelector('#next').hidden=true;};
+  }else{
+    authForm.hidden=false;
+    authStatus.textContent='';
+  }
+}
+authForm.onsubmit=e=>{
+  e.preventDefault();
+  const k=authKeyInput.value.trim();
+  if(!k)return;
+  setAuthToken(k);
+  authKeyInput.value='';
+  next=0;
+  load();
+};
+const node=(tag,text,cls)=>{const n=document.createElement(tag);if(text!==undefined)n.textContent=text;if(cls)n.className=cls;return n};
+async function load(){
+  updateAuthUI();
+  notice.textContent='Đang tải…';
+  const headers={};
+  const token=getAuthToken();
+  if(token)headers['Authorization']='Bearer '+token;
+  try{
+    const r=await fetch('/api/review?offset='+next,{headers}),d=await r.json();
+    if(r.status===401||r.status===403){
+      clearAuthToken();
+      updateAuthUI();
+      notice.textContent=d.error||'Vui lòng nhập mật khẩu quản trị để xem danh sách góp ý.';
+      box.replaceChildren();
+      document.querySelector('#next').hidden=true;
+      return;
+    }
+    if(!r.ok)throw Error(d.error);
+    updateAuthUI();
+    box.replaceChildren();
+    notice.textContent=d.entries.length?'Góp ý được lưu riêng. Chỉ ghi vào phần công khai nội dung đã biên tập, không chép email hoặc thông tin riêng.':'Chưa có góp ý nào.';
+    for(const x of d.entries){
+      const a=node('article'),h=node('h2',x.id),meta=node('p','Tập '+['I','II','III','IV','V'][x.volume-1]+' · Miến '+x.printed+' · PDF '+x.pdf_page+' · '+(cats[x.category]||x.category)),date=node('p',new Date(x.created_at).toLocaleString('vi-VN'),'private'),contact=node('p','Liên hệ riêng: '+(x.name||'(ẩn danh)')+(x.email?' · '+x.email:''),'private'),link=node('a','Mở vị trí trong sách');
+      link.href='/#tap/'+x.volume+'/'+encodeURIComponent(x.anchor);
+      a.append(h,meta,date,contact,link);
+      for(const [label,value] of [['Đoạn trích',x.excerpt],['Ý kiến',x.message],['Đề nghị sửa',x.suggestion],['Nguồn đối chiếu',x.reference]]){
+        a.append(node('h3',label),node('p',value||'(không có)','text'))
+      }
+      const select=node('select');
+      select.setAttribute('aria-label','Trạng thái '+x.id);
+      for(const [k,v] of Object.entries(statuses)){
+        const o=node('option',v);o.value=k;o.selected=k===x.status;select.append(o)
+      }
+      const priv=node('textarea');priv.rows=3;priv.maxLength=4000;priv.value=x.editorial_note;priv.setAttribute('aria-label','Ghi chú biên tập riêng '+x.id);
+      const pub=node('textarea');pub.rows=4;pub.maxLength=4000;pub.value=x.public_note;pub.placeholder='Ghi câu cũ/câu mới, lý do và nguồn đối chiếu nếu đã sửa. Không đưa thông tin riêng vào đây.';pub.setAttribute('aria-label','Giải thích công khai '+x.id);
+      const checkbox=node('input');checkbox.type='checkbox';checkbox.checked=!!x.published;
+      const checklabel=node('label');checklabel.append(checkbox,document.createTextNode(' Công bố phần giải thích trên nhật ký (chỉ khi Đã sửa hoặc Giữ nguyên và giải thích)'));
+      const save=node('button','Lưu xử lý'),result=node('p');result.setAttribute('role','status');
+      save.onclick=async()=>{
+        save.disabled=true;result.textContent='Đang lưu…';
+        const patchHeaders={'Content-Type':'application/json'};
+        const curToken=getAuthToken();
+        if(curToken)patchHeaders['Authorization']='Bearer '+curToken;
+        try{
+          const r=await fetch('/api/review',{method:'PATCH',headers:patchHeaders,body:JSON.stringify({id:x.id,status:select.value,editorial_note:priv.value,public_note:pub.value,published:checkbox.checked})}),d=await r.json();
+          if(!r.ok)throw Error(d.error);
+          result.textContent='Đã lưu.';
+        }catch(e){
+          result.textContent=e.message||'Chưa lưu được.';
+        }finally{
+          save.disabled=false
+        }
+      };
+      a.append(node('label','Trạng thái'),select,node('label','Ghi chú biên tập riêng'),priv,node('label','Giải thích để công khai khi được duyệt'),pub,checklabel,save,result);
+      box.append(a)
+    }
+    next=d.nextOffset;
+    document.querySelector('#next').hidden=next===null;
+  }catch(e){
+    notice.textContent=e.message||'Chưa tải được góp ý.';
+  }
+}
+document.querySelector('#next').onclick=load;
+load();
 </script></body></html>
