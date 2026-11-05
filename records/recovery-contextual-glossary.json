@@ -1,0 +1,194 @@
+{
+  "status": "PARTIAL_UPLOAD_RECOVERY_ONLY_DO_NOT_DEPLOY",
+  "base_main": "7c7dc0b41d0b99eb457fbdde20ae5ce8eeb48030",
+  "local_checkout": "/Users/khema/.codex/.chatgpt-projects/g-p-69660c7b92b48191a729c89b29deb657/terminology-review",
+  "local_commits": [
+    "84e9889",
+    "997b877",
+    "ae76696"
+  ],
+  "environment_status": "Unavailable during upload; source files could no longer be read. Main and production were not updated.",
+  "completed_local": [
+    "357 contextual terminology replacements from prior session retained; all five book JSON and search indexes transmitted",
+    "Five PDF exports regenerated with contextual terminology caption",
+    "PDF outline target resolution repaired: use unique anchor_pages, not title-to-page dictionaries",
+    "PDF counts, sizes and SHA-256 refreshed in catalog and provenance locally",
+    "Full HTML/TXT/Markdown/EPUB preservation validation passed for five volumes; PDF outlines and internal link destinations passed; sample PDF pages visually reviewed",
+    "All 488 supplied glossary rows structurally audited, 216 flagged; no claim of full semantic verification against original images",
+    "Glossary HTML with search and Markdown/JSON export created locally, not yet uploaded",
+    "Remote feedback-system commit 7c7dc0b preserved through local merge"
+  ],
+  "pdf_pages": [
+    774,
+    699,
+    579,
+    509,
+    434
+  ],
+  "pdf_bookmarks": [
+    700,
+    636,
+    696,
+    364,
+    591
+  ],
+  "glossary_audit": {
+    "rows": 488,
+    "flagged_rows": 216,
+    "flags": {
+      "myanmar_ocr": 183,
+      "missing_myanmar": 20,
+      "missing_vietnamese": 5,
+      "english_remaining": 18,
+      "vietnamese_ocr": 7,
+      "pali_column_issues": 2,
+      "duplicate_pali_variant_translations": 22,
+      "self_contradictory_note": 1,
+      "myanmar_pali_dependent_origination_mismatch": 1
+    },
+    "fully_semantically_verified": false,
+    "reference_is_mini_9_volumes_not_big_5": true
+  },
+  "uploaded": [
+    {
+      "path": "docs/downloads/tap-5.pdf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8652587ce29a3e5ee668527789a1cf5a969a7fda"
+    },
+    {
+      "path": "docs/books/1-search.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1d4e7f958d3e6cf47a40c55f8f535f66635b71ca"
+    },
+    {
+      "path": "docs/books/1.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f8c7b2403f8b3cfa1ae484a7adc54f5eac141074"
+    },
+    {
+      "path": ".gitattributes",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f9002556f4f0365eb7237c7fa2bbee480491b0a9"
+    },
+    {
+      "path": "docs/books/2-search.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d7235c7f4241b28cf9682ee70d2034f6151aae87"
+    },
+    {
+      "path": "docs/books/2.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2f672bb47c7f47eed0ef4de5f6f9ec7a7c2d409d"
+    },
+    {
+      "path": "docs/books/3-search.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1d7f64fb7dae43470755c40f7b43f175ec1a217b"
+    },
+    {
+      "path": "docs/books/3.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4199c75c3b6a994c06b56316bb861dd822d6e13e"
+    },
+    {
+      "path": "docs/books/4-search.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9c61378384fcd0003d2d1cbc5d946999066d1e58"
+    },
+    {
+      "path": "docs/books/4.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5e165afb7e55979def25672132f15737b8fcb6e2"
+    },
+    {
+      "path": "docs/books/5-search.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a1797c8f49f6818d403c42a190024f97467eeed9"
+    },
+    {
+      "path": "docs/books/5.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4ef5cacd96599978fa0884e6f56047759fd522d3"
+    },
+    {
+      "path": "docs/catalog.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e6f4140aefa2d8025a7f463ba352c8927250deb3"
+    },
+    {
+      "path": "docs/downloads/epub/tap-1.epub",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b0895c4666a061303aa376402c8ddbf83ebefdb5"
+    },
+    {
+      "path": "docs/downloads/epub/tap-2.epub",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ad139dc734848229c1877a9c4166bf70b4262ba7"
+    }
+  ],
+  "remaining_files": [
+    "docs/downloads/epub/tap-3.epub",
+    "docs/downloads/epub/tap-4.epub",
+    "docs/downloads/epub/tap-5.epub",
+    "docs/downloads/glossary/glossary-reviewed.json",
+    "docs/downloads/glossary/glossary-reviewed.md",
+    "docs/downloads/html/tap-1.html",
+    "docs/downloads/html/tap-2.html",
+    "docs/downloads/html/tap-3.html",
+    "docs/downloads/html/tap-4.html",
+    "docs/downloads/html/tap-5.html",
+    "docs/downloads/tap-1.pdf",
+    "docs/downloads/tap-2.pdf",
+    "docs/downloads/tap-3.pdf",
+    "docs/downloads/tap-4.pdf",
+    "docs/downloads/unicode/tap-1.md",
+    "docs/downloads/unicode/tap-1.txt",
+    "docs/downloads/unicode/tap-2.md",
+    "docs/downloads/unicode/tap-2.txt",
+    "docs/downloads/unicode/tap-3.md",
+    "docs/downloads/unicode/tap-3.txt",
+    "docs/downloads/unicode/tap-4.md",
+    "docs/downloads/unicode/tap-4.txt",
+    "docs/downloads/unicode/tap-5.md",
+    "docs/downloads/unicode/tap-5.txt",
+    "docs/glossary.html",
+    "docs/index.html",
+    "docs/provenance.json",
+    "records/contextual-pdf-validation.json",
+    "records/contextual-terminology-2026-11-04.json",
+    "records/export-summary.json",
+    "records/file-manifest.json",
+    "records/glossary-audit.json",
+    "records/glossary-reference-9vols.md",
+    "records/terminology-policy.json",
+    "records/validation-exports.json",
+    "scripts/audit_glossary.py",
+    "scripts/export_updated_pdfs.py",
+    "scripts/validate_exports.py"
+  ],
+  "continuation": [
+    "Restore local checkout when environment reconnects. Do not infer that untransmitted files have been lost.",
+    "Fetch current main; preserve newer feedback code.",
+    "Run scripts/audit_glossary.py and scripts/export_updated_pdfs.py if local outputs need recreation. PYTHONPATH=/tmp/nibbana-python-deps supplies fitz/reportlab/lxml.",
+    "Keep project rule samatha = thiền chỉ. kammaṭṭhāna uses context: meditation object vs meditation practice; rūpa/nāma-kammaṭṭhāna = pháp hành phân định sắc/danh.",
+    "Run scripts/validate_exports.py --pdf after outputs settle; refresh catalog/provenance hashes and page counts.",
+    "Ensure validator handles PyMuPDF internal links as LINK_NAMED with a 1-based string page as well as LINK_GOTO with a 0-based numeric page. Require nonempty internal links and valid destinations.",
+    "Upload remaining files and reconcile all export hashes before production commit. Current recovery branch has only partial matching exports and must not be deployed.",
+    "Verify nibbanagamini.org serves matching book JSON, glossary page and all five PDF hashes before claiming complete."
+  ]
+}
