@@ -1,9 +1,9 @@
 [
   {
     "path": ".gitignore",
-    "bytes": 41,
-    "sha256": "0b2cfa68fd39c523d02030116f86bedf47d8c5e8d69b629895d89a47ba72ff73",
-    "git_blob_sha": "93f223ff4ff68aada9c34207b7a37b2296b3d9bd"
+    "bytes": 72,
+    "sha256": "dbbf715f3995d82d9e2c7b16c29fc0f35dabdf4828fdfd28a0a2b9e92912c631",
+    "git_blob_sha": "89e3956cabddaed3934d071516a78708a6a30bd1"
   },
   {
     "path": "LICENSE",
@@ -43,9 +43,9 @@
   },
   {
     "path": "docs/app.js",
-    "bytes": 10433,
-    "sha256": "631737e97c07823b79b28903021c3a545ff86ba68281bdca1f9015d5fe725162",
-    "git_blob_sha": "e7f4fb267f4ef3dc184b287613c5588d9673545d"
+    "bytes": 10535,
+    "sha256": "a629fb7746a5e52231514c60a2bc155d8b0bb750204630642b1a330a00045593",
+    "git_blob_sha": "4050c57514af899e9388fbf41eb851d986108aed"
   },
   {
     "path": "docs/apple-touch-icon.png",
@@ -55,219 +55,219 @@
   },
   {
     "path": "docs/books/1-search.json",
-    "bytes": 2995854,
-    "sha256": "bf4bd119b7f5c50d16504ea436dc2d8fe2efc4448f1bcfaf0562ed33c488aef1",
-    "git_blob_sha": "a349668d879d42af587d4625477132b146ed523c"
+    "bytes": 2997310,
+    "sha256": "be4e1f86839e96331357ab3a134db125411934df87735cca775afe32468f4be0",
+    "git_blob_sha": "1b4a098b824ea033d46f55b5e79dfc747aade921"
   },
   {
     "path": "docs/books/1.json",
-    "bytes": 5444405,
-    "sha256": "371dfa500ae3ff8a57789532a4dd3fc378c404385dba83bc1677fb8903bf2791",
-    "git_blob_sha": "c7d7ba3cfc54de96d6b7fec318a10e311da94c6e"
+    "bytes": 5449715,
+    "sha256": "8998300551b90bb6777c6e7c8076da97f3ce46b55f47ef751f3d215b28e97576",
+    "git_blob_sha": "b3de9552dee534300aa10f2e05c495be94fea6da"
   },
   {
     "path": "docs/books/2-search.json",
-    "bytes": 2485746,
-    "sha256": "31b1277875ea1959134054b595be9467e4e77b907de4506064f16ebacc2cc9d1",
-    "git_blob_sha": "312803ff114293b47b7755354afb548e016ef217"
+    "bytes": 2486103,
+    "sha256": "70f76f1d6bfdd29996e4ecca89c77fe5863c480ecc5cc2432ac88cedcda7db0a",
+    "git_blob_sha": "da6ed0157fa3b37e202c6202bef0e6f732396acd"
   },
   {
     "path": "docs/books/2.json",
-    "bytes": 3608567,
-    "sha256": "7a31c7645872622c9eefa74266c6c6258fdae8ca39f897174d23948ba34fee31",
-    "git_blob_sha": "92e55048c21bb3e1e2152aef3f7194b37022166f"
+    "bytes": 3609822,
+    "sha256": "5bb334ed2e103b569e16fb9639bce548c32f4d54577657fd98b7384be3369259",
+    "git_blob_sha": "f7ff302c37342c97531143a1cefb5145a9fe845a"
   },
   {
     "path": "docs/books/3-search.json",
-    "bytes": 2572243,
-    "sha256": "dc1dcdf558f9cb492b53b0546020b97e561bdf4b50108b30a4d54f679123222e",
-    "git_blob_sha": "31de01aa3d09b2d4118e4b6df23921b190ea9d36"
+    "bytes": 2573095,
+    "sha256": "4d438a1add1537c03ab7d385dc1b4d1a5d566f63273738524a4483d92f359d41",
+    "git_blob_sha": "483c1c512db21c3e3d4a4a531ad268b2d0f24cd2"
   },
   {
     "path": "docs/books/3.json",
-    "bytes": 2856763,
-    "sha256": "beeeeaf29ab7f82949933a18c6eacdc33deeb67cbc75e1c034a9d8ee61cc74c1",
-    "git_blob_sha": "cdeef7a6d649bcfe3f3e4d2f11091c1d8cce3f95"
+    "bytes": 2859364,
+    "sha256": "2fa8ed95b7c20aa4e147372c052908d7e4b8c70b0c6713115f50d2cd9c9e59f5",
+    "git_blob_sha": "123474052b311e8532b492f300102551c20d39f4"
   },
   {
     "path": "docs/books/4-search.json",
-    "bytes": 2206503,
-    "sha256": "15bb901adef5516b77e4f3f139c5ca803f0c6c13f24b3c68f4a5a7c58b3c393d",
-    "git_blob_sha": "cc1e646e6b8b837c77d09b1afe9d6d82eebf2fb1"
+    "bytes": 2206961,
+    "sha256": "f33e14870a86dced77729105053ff545e0ff58ec2bd9d2ed39cd757f4c3ccbc3",
+    "git_blob_sha": "751319e1f780adfbc8133aaa3f4a97d795261056"
   },
   {
     "path": "docs/books/4.json",
-    "bytes": 2522110,
-    "sha256": "2a1d9b9aa09b084f3dbf7c16df431f454719877d85277bc98c061e9cf407b000",
-    "git_blob_sha": "412e4d2279b2eceeb185ced8a2cfaad343321687"
+    "bytes": 2523010,
+    "sha256": "a603088d1da910f30130e56e856353d2e8a99db621903b76de759e13cdc1e811",
+    "git_blob_sha": "d1451d03e5e32c89a3ccc7c4b124298661c3e0fa"
   },
   {
     "path": "docs/books/5-search.json",
-    "bytes": 2241381,
-    "sha256": "c5809de3707b1e2fba8f01fcac55681431e77e7799270a88b60926cd7efc413e",
-    "git_blob_sha": "d5e6bf7826cedfc9bf56e13c8af05dea7f8c7ea8"
+    "bytes": 2242462,
+    "sha256": "e1c406f2bcef26863e44842d4afb5b7421163d2e85b73d15cf11156eaab80716",
+    "git_blob_sha": "b0dfea3e998669880d2c07717d4fb67aeb9c833c"
   },
   {
     "path": "docs/books/5.json",
-    "bytes": 2231730,
-    "sha256": "c25c701623a1eb483b6dd609ea714d7021a767f81cc1bd962ea7d32050050e3a",
-    "git_blob_sha": "1fb6c496d9574bcd6595d6dbc78d223a3572687c"
+    "bytes": 2234242,
+    "sha256": "669584c8ef2d6aa0d083ef9404b9cfbcad7420f99baa04252f2db873e08a930a",
+    "git_blob_sha": "c7aac207dcf48708c9b90ea1db0971e65ebf6caf"
   },
   {
     "path": "docs/catalog.json",
-    "bytes": 2389,
-    "sha256": "3fb16916413f2a5339c6a8033927c281fd465a870022bed24a09220db563ead3",
-    "git_blob_sha": "efaad4896c465815b236f9376430e07cde7ee86b"
+    "bytes": 2755,
+    "sha256": "52ee513deece3cdbe42dd2f71758b34ab0782abaf9727bd5477aff56d1981859",
+    "git_blob_sha": "64096282bd86e3aa3d03e9eb79e583b7987470f7"
   },
   {
     "path": "docs/downloads/epub/tap-1.epub",
-    "bytes": 1464693,
-    "sha256": "28b5ece8bf2dbb881002e8b692fe4f0aeb22bf7bd7485a5f7b26f85caaff94eb",
-    "git_blob_sha": "eab2a2cf2c11d2398b70159b8315c062c1be9513"
+    "bytes": 1465247,
+    "sha256": "2df5ab406dee0e826bc26c888396c038448860165d53ec2c12afcdad4aa0f0aa",
+    "git_blob_sha": "f0b787c7394dda0fde1c92065326e89c6d4323a2"
   },
   {
     "path": "docs/downloads/epub/tap-2.epub",
-    "bytes": 791394,
-    "sha256": "a6f5050b698f67f6cd56445ecaa758e973d737e3eb8e7a5a1000e694d15eb3ce",
-    "git_blob_sha": "da42c2275b824d3d5642faae565a1fde28cbdb20"
+    "bytes": 791648,
+    "sha256": "907819d803b2139ce46dc7c785b9c6c251eae96c8ac5c9f0e41a9f254cbeb249",
+    "git_blob_sha": "22c07eb89470b993bb306475178609adc57fbf45"
   },
   {
     "path": "docs/downloads/epub/tap-3.epub",
-    "bytes": 738415,
-    "sha256": "63ea825eb854eb45c933d37ad1256963ea0d717a79892c508812f1b09805f3e1",
-    "git_blob_sha": "9ab00ce80180cf682fcb4ba8fb16e93e7370303a"
+    "bytes": 738803,
+    "sha256": "f1b1fb8fcf52c91f91465b3443f1c295b1bbac55593485b43682727352b1e4e6",
+    "git_blob_sha": "83790d67abeef438cdff17ae2f56f08ab8152366"
   },
   {
     "path": "docs/downloads/epub/tap-4.epub",
-    "bytes": 697373,
-    "sha256": "7ed53ce67ae4bca4e6319e0ac5aa7025291ff900d5f985b2aa3ea719e7b6578e",
-    "git_blob_sha": "6f7e4877d0beddf48bbfc99062914fdfef91b050"
+    "bytes": 697630,
+    "sha256": "82bf744d79f23d99dfd5727a23ce2429bde2af6ca9549ba7c42b513071783200",
+    "git_blob_sha": "ab5768b7fb43ad91e9980ea5f78115860dcfd8b6"
   },
   {
     "path": "docs/downloads/epub/tap-5.epub",
-    "bytes": 659290,
-    "sha256": "9d160408c88d9ddc7d10d8fe5febae080bc8937904b725e119da16e749e68f75",
-    "git_blob_sha": "1c762212b97fa4ba9d9d1fc7347f2ce05df2dcbe"
+    "bytes": 659544,
+    "sha256": "db4a47bb416c75a22241f70856b2e3acb919399d0f7d1017f2440e4b1a1398f9",
+    "git_blob_sha": "5bc4017f28a143fa28e124d1babe26001db896fd"
   },
   {
     "path": "docs/downloads/html/tap-1.html",
-    "bytes": 5985121,
-    "sha256": "145413b1a5deff4c8a7ed6ea64fd3d2dd4b18d9534c6bbe53cdf3b445a4d540b",
-    "git_blob_sha": "98724e14ca06f2d543eb2cfd7a57085e1cb0a803"
+    "bytes": 5990444,
+    "sha256": "0e983766335cdd896c1e7b923179721ccfa3f518c43e50488e6c5d2c8481d801",
+    "git_blob_sha": "0df4c0b7495275c6ad1a56ef12888c8a4718b56f"
   },
   {
     "path": "docs/downloads/html/tap-2.html",
-    "bytes": 3882660,
-    "sha256": "2be2ee4160657d8b230406ac20ea3e6c982dae240c299165240e35b241b6529b",
-    "git_blob_sha": "883a8c98c512afc9703de3b1a911201f9dcecbf3"
+    "bytes": 3883915,
+    "sha256": "5b12d4cdddacf7d28bda5de73c93b019e775ced8fe1f4fa4dc463396b6940947",
+    "git_blob_sha": "279510f6c04eddfe50d4d6499c8def4442c6c5df"
   },
   {
     "path": "docs/downloads/html/tap-3.html",
-    "bytes": 3180901,
-    "sha256": "19549b5ce7e673d74eee66d9484f8c11f914f5aaa407c3726660104d5b9a419d",
-    "git_blob_sha": "9d8fa56d2ea3f979005ed8aca7548b036faa1102"
+    "bytes": 3183502,
+    "sha256": "398f92900060ebc0651b77fdb65a48e465f23c904e1f68e43a8017c89b608750",
+    "git_blob_sha": "998f6d835dfb28b065cfccd9707c8de21c888c93"
   },
   {
     "path": "docs/downloads/html/tap-4.html",
-    "bytes": 2848826,
-    "sha256": "0c70f7253feb3a0762dcf4fb4bf06f3f3fd4576dfd02e98dd8e3712b902a2eb1",
-    "git_blob_sha": "7a5cb204a301d05ce48cf63be8beb27302dc7532"
+    "bytes": 2849726,
+    "sha256": "c543455d0f5f3a49b0013e9aeb969ad25893c931834938e95f3ccd6227076d19",
+    "git_blob_sha": "1336917c957e187e758e58bcfab21396fc7881cb"
   },
   {
     "path": "docs/downloads/html/tap-5.html",
-    "bytes": 2564093,
-    "sha256": "5975246f4b714ceb123e3018d61c7faa7c48d2946e86b5f4f08a27ced23e018a",
-    "git_blob_sha": "efba8b00508ff2e3c4390f1b06fe7f4444263df8"
+    "bytes": 2566605,
+    "sha256": "0f9326b1ede177b65528515b2cca8ab69cac25b6c1af3362adf9070b4934efd8",
+    "git_blob_sha": "d2580948391d6f47f3bebc86cad654bc637aa60e"
   },
   {
     "path": "docs/downloads/tap-1.pdf",
-    "bytes": 3884612,
-    "sha256": "1726efc62e7db339359df15ea1280a59f7429867fe0d8e966f1c905d814518e8",
-    "git_blob_sha": "0103a035e92aa49f287508af5018e75fb78cbcbd"
+    "bytes": 3923868,
+    "sha256": "51f27f3d9fd98a5b8d3078e82d8e68e1921bef09797ae750e47ee2d6ec511e02",
+    "git_blob_sha": "4c749616417c3a6e81144a47108d3eeb3ee87363"
   },
   {
     "path": "docs/downloads/tap-2.pdf",
-    "bytes": 2125761,
-    "sha256": "138e0c8425252f14eb714a8be4f7b90549d08c7077bb43f8076eb5da94f9210d",
-    "git_blob_sha": "5fe3474e43dbefbb300c01e8feed7c3d0952c664"
+    "bytes": 2142295,
+    "sha256": "ec78f821cc0d4274312ed8e4c209d02f978d6e15a8927a9970d01b1ec5e91897",
+    "git_blob_sha": "091cc9f5efc01aca207ceaa0e468710edef91ff7"
   },
   {
     "path": "docs/downloads/tap-3.pdf",
-    "bytes": 2169564,
-    "sha256": "93c6d660dfa38254c11bc937a427ba3e9fbb866cff7d26dc43989eeac3357ae5",
-    "git_blob_sha": "ed32a33937dd759b6ef198f99f23869432f1c35c"
+    "bytes": 2186306,
+    "sha256": "72da43bbf31bb5709bc91fbe58887f3ccb90c91106a465ca5e721922e8161615",
+    "git_blob_sha": "fa7d8f3cc404adc6d9c89516f9efe226855c7f36"
   },
   {
     "path": "docs/downloads/tap-4.pdf",
-    "bytes": 1837306,
-    "sha256": "d847f7cbe11c32757e72279d2662e32e2cce846223d5fff79178a3e5314be96b",
-    "git_blob_sha": "f887aded84c20343a5bf70d69caa6c5ded143dd8"
+    "bytes": 1852971,
+    "sha256": "55514df0dc5bac1b3b2b7d10e136a927cf805a18b33da9d19160041c80df5120",
+    "git_blob_sha": "c88504337edd075dcc13cca8d5e1f985ced3bab4"
   },
   {
     "path": "docs/downloads/tap-5.pdf",
-    "bytes": 1613155,
-    "sha256": "8d3de0fe2faf021e1e60ad72f4ff47243b8687cdf41c69804941e675f89425b7",
-    "git_blob_sha": "51d51d36165a3abddd0bca559be13853fa53b147"
+    "bytes": 1631208,
+    "sha256": "1a86d9b94479a963dd158c384f4cd4648e35fb22007c99ca666fb164e406ff72",
+    "git_blob_sha": "70216187d41699aa544096ed6b6a39f358321d5e"
   },
   {
     "path": "docs/downloads/unicode/tap-1.md",
-    "bytes": 4005516,
-    "sha256": "2141f106e9b885285ffbd83b6b1cfe3f24367493c4eab5ed579fe3dea393e387",
-    "git_blob_sha": "d51eddf95aafb2b7957714382149f2fce14ff4fe"
+    "bytes": 4008781,
+    "sha256": "6150602443e5db6d751aef16db6d70e746c2a55300cf72dc4cfeb0c838be3d00",
+    "git_blob_sha": "aaf7799f27e136d496b97106763fe85805541b5b"
   },
   {
     "path": "docs/downloads/unicode/tap-1.txt",
-    "bytes": 4005407,
-    "sha256": "932c34ebbae3b8be35dec7bb3723933919d336261500030b95a168091ad6346d",
-    "git_blob_sha": "cff92d71b44c1a7d4d25eacd6d6a12d89d4c8db8"
+    "bytes": 4008030,
+    "sha256": "6658b428dec4352217bbf50a908145342372933256a2d74f0610415cbe1adff7",
+    "git_blob_sha": "24e6b83a49957f73ccce904842dddfcebc1f17a6"
   },
   {
     "path": "docs/downloads/unicode/tap-2.md",
-    "bytes": 2387815,
-    "sha256": "7dc70dc737bb2c245b109ae12a31f395ff472f77162c8cbceb72e59a567dd76b",
-    "git_blob_sha": "4f1ffa97ee907c8482595a425929adf4e29349f4"
+    "bytes": 2388538,
+    "sha256": "d847b92f14f751cc72796ab49b0a4cdf6beea61b6670db188ad6fd29e237fc44",
+    "git_blob_sha": "4cee8b6d495a4fb6446de30c7f576b9231d84632"
   },
   {
     "path": "docs/downloads/unicode/tap-2.txt",
-    "bytes": 2387706,
-    "sha256": "0c7af184e640138fcf0e70284db05a5ad213d851ff949dc67cdb3662893cab8e",
-    "git_blob_sha": "cbd286401fd32f726118be20747c06baa0634649"
+    "bytes": 2388277,
+    "sha256": "143a9da33b331510557809ff62f84dd4105be0fd19346dec6cd92f9184fb5053",
+    "git_blob_sha": "f45b0c5a1d69d69d1510607b0cf7cee3454e5851"
   },
   {
     "path": "docs/downloads/unicode/tap-3.md",
-    "bytes": 2390211,
-    "sha256": "2550bd50d56bd173cd4777dc4bc008c256dd1aee8773fa04257ff0bd19959dd2",
-    "git_blob_sha": "00c4325d6e5adb21d469f87668ccb59eed3aa24a"
+    "bytes": 2391559,
+    "sha256": "0f832655bcd6d1960ffa6dbe16aedd206a1dd7ac1f705f43e1f240b8464d4027",
+    "git_blob_sha": "b037cc68f15963a1779fd0f9e16b1ab72134de23"
   },
   {
     "path": "docs/downloads/unicode/tap-3.txt",
-    "bytes": 2390102,
-    "sha256": "c6b9bc0d0ec296dd0615d62b7a5d8f08415029233089046a9a1f52f628ba4b57",
-    "git_blob_sha": "67420311ca6cd8a65ec1b4ea29fae8bde7f302b9"
+    "bytes": 2391092,
+    "sha256": "635bf712117b73f2b229a6f0a92625426c889f9b9d4c038c239a6b17411efc47",
+    "git_blob_sha": "a86fc9e7c8b06baed3fe1afa5af946345bdee361"
   },
   {
     "path": "docs/downloads/unicode/tap-4.md",
-    "bytes": 2096301,
-    "sha256": "ddfeb37e25f7c841c9c14e8bc579debacf5f02fc144981a19a52544182f418ea",
-    "git_blob_sha": "357b13fdf87e7e91653f08a435046b9b7b362a7a"
+    "bytes": 2096865,
+    "sha256": "58c541d5624864d22f3a6a673036ced49a9d7634079e4de1fa358d6a279022ac",
+    "git_blob_sha": "869a81fc58c9ffb0efacf2ad7e28f912f17452ff"
   },
   {
     "path": "docs/downloads/unicode/tap-4.txt",
-    "bytes": 2096192,
-    "sha256": "7ada54294423ffad620ccdb7e006e97578607661c90b32f04d9c3ab7aed031ac",
-    "git_blob_sha": "4aa6fab59eed8a2f451850071722c4942d7e4736"
+    "bytes": 2096660,
+    "sha256": "7961528d96453dbb9c28b9611ea6edb35ad11e9105790230015d354ab7a57c04",
+    "git_blob_sha": "bd0f21fae5b54f15b55f38fc2cde0d3eda6469ea"
   },
   {
     "path": "docs/downloads/unicode/tap-5.md",
-    "bytes": 1971376,
-    "sha256": "3a3e53bc2354ede913706f0787cb16b426826ff775bd6c86fa190c6dcc3ff2ad",
-    "git_blob_sha": "e19dd6ccca878b1e8290e0bfd97f071e6aac45ce"
+    "bytes": 1972775,
+    "sha256": "8828230527bf78cb1f36ad30d162b5bc28710e598f5961528d0559e3c4a23bdc",
+    "git_blob_sha": "473213a5714121321e00f4bf08b86151ae631a38"
   },
   {
     "path": "docs/downloads/unicode/tap-5.txt",
-    "bytes": 1971267,
-    "sha256": "f1e69b1759005ed91acf528841eb7519059f8e5e164571dcffd2e611c0b02194",
-    "git_blob_sha": "d575cbb51a349a8c1b94cd76828c721d15953222"
+    "bytes": 1972348,
+    "sha256": "84aaac8ae6d82780c4034cba3ed5d80dc4eeb9c0671737c698f31d347dc344f7",
+    "git_blob_sha": "e36f5d9c84862fb40779ab735dabbb7b6495dd24"
   },
   {
     "path": "docs/favicon-16x16.png",
@@ -343,15 +343,15 @@
   },
   {
     "path": "docs/provenance.json",
-    "bytes": 4039,
-    "sha256": "a3c771855f08679a759c28a6474f2b4d93938c76b30cc55b1553a232d51fd534",
-    "git_blob_sha": "2f5a282d282e800c873cba30bd474095dc5f72f1"
+    "bytes": 3946,
+    "sha256": "d33166965c68deeabfeeace9b1be7cbdf7263198531ccec98e171e60c8a00c9a",
+    "git_blob_sha": "8603681bb9eb4847b8e3516065a3d39e24381a3b"
   },
   {
     "path": "docs/review.html",
-    "bytes": 5259,
-    "sha256": "cc1990417790eb3ff1d52fe61c779269421b0630a5d9fd4199721f73f9bd0e80",
-    "git_blob_sha": "c88a5f4b6159c893e1cf8af9ada6e39ccdce3aea"
+    "bytes": 7949,
+    "sha256": "0db9fa78cba9b5fef9a43795b8f02b63900f6d1dac57f44bd1940629b894cdb2",
+    "git_blob_sha": "6db159d57a2865aab946ee8a2bc1cb1d18950d46"
   },
   {
     "path": "docs/robots.txt",
@@ -408,10 +408,34 @@
     "git_blob_sha": "170b1c41c075a9e0bb3b84ed59549edc2ffc4744"
   },
   {
+    "path": "functions/api/_shared.ts",
+    "bytes": 3847,
+    "sha256": "742836662b60c0a7af31171677c811eaaa74ab0618e147e5e2059fa7f9facb08",
+    "git_blob_sha": "2cc4bb6bd58e23e1fc03238b7598f57f44e0ee59"
+  },
+  {
+    "path": "functions/api/corrections.ts",
+    "bytes": 1099,
+    "sha256": "6342c7a7d8cd1c27c09009f1b49297175a22d3008937b2a082264e6805007adb",
+    "git_blob_sha": "31ea2d413a026dd82e1de31846f33fc0768f79ba"
+  },
+  {
+    "path": "functions/api/feedback.ts",
+    "bytes": 4088,
+    "sha256": "3cd67cbfe100378f05fa5f799ae550be76032e8f8e1b81a7c4010701eb1ee437",
+    "git_blob_sha": "dcdeaab566b4867a063d03ffa5d9a90257ae63b7"
+  },
+  {
+    "path": "functions/api/review.ts",
+    "bytes": 3824,
+    "sha256": "6a23d60d045b2793ca1826b391249d9734ee52a9f773169dd8af9ab9021650be",
+    "git_blob_sha": "cec3761cd8a10a9b6e51b25bd38dac652206b85f"
+  },
+  {
     "path": "records/export-summary.json",
     "bytes": 1344,
-    "sha256": "7c8144c8bb2ca64055e216f9c0b70525080cb6e6121eadcbde416d09d2491af3",
-    "git_blob_sha": "d5dff7e0ad66ee3948fa4c248c9a9cea4f048633"
+    "sha256": "4392d3b23c2c017e7556c0ac8800a8324acfe73c4d3cd60dfdf6c6a7950e198e",
+    "git_blob_sha": "e8b8bbe8d5d4c07386e93e82dfc816e725f8aae3"
   },
   {
     "path": "records/import-provenance.json",
@@ -450,12 +474,6 @@
     "git_blob_sha": "bdfef99b395ef20f66c016926cc5bb06da3728fd"
   },
   {
-    "path": "records/validation-exports.json",
-    "bytes": 1780,
-    "sha256": "9105f8d8d2e8737bb35a2ce493b9013842c959482abd2191ddf78a4dda44af6f",
-    "git_blob_sha": "942bf347eb9fcb225f40be372c191b6e37f75037"
-  },
-  {
     "path": "records/validation.json",
     "bytes": 1499,
     "sha256": "3af97b4f42e150b3df94cee4365e7669612cec86f1b5afc4437958fca8f8257d",
@@ -463,15 +481,15 @@
   },
   {
     "path": "scripts/export_books.py",
-    "bytes": 15320,
-    "sha256": "722adef487a96a8dee8194e40b3e5388593c5be82361d891c7cc113974452c85",
-    "git_blob_sha": "7810c8c187317957a937baf6f6ba9bd311481e9a"
+    "bytes": 15622,
+    "sha256": "599b6613a89e47e367a4a70ad8c5827c64fdea509f7daecf7e6287f44ee20eab",
+    "git_blob_sha": "98f81f8687dc481da47df052af541144c47d65cc"
   },
   {
     "path": "scripts/export_updated_pdfs.py",
-    "bytes": 4556,
-    "sha256": "a11b1b6bdbd64ad48374f7bb3b39fd9661026f8c457b6163d0532172bae282a2",
-    "git_blob_sha": "9d26768a10484a8f36b5bbb4f3fc02cf63484b90"
+    "bytes": 4615,
+    "sha256": "97d2612c4e4fa79ad47cf2deaa02138b100be9af784a55d04e0262a3b16e308a",
+    "git_blob_sha": "588aa005e80dc5bc07ad16aa11a7aed8935d17f5"
   },
   {
     "path": "scripts/generate_sitemap.py",

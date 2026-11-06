@@ -7804,7 +7804,7 @@ Nhưng nếu nói theo sát-na, vì danh pháp quán và danh pháp được qu�
 
 Vì vậy, nếu nói theo sát-na, hãy lưu ý lời chú giải Uparipaṇṇāsa giải thích rằng: trong lĩnh vực danh pháp, nhóm danh pháp có mặt trong khoảng thời gian gọi là sát-na đang xuất hiện, đang sinh, không thể tự quay lại quán minh sát chính nhóm danh pháp ấy. Nếu vậy, có phải không thể quán sinh–trụ–diệt của danh pháp? Câu trả lời là: có thể.
 
-Jātā avijjā paccuppannā, tassā nibbattilakkhaṇaṃ udayo, vipariṇāmalakkhaṇaṃ vayo, anupassanā ñāṇaṃ. …pe… Jāto bhavo paccuppanno, tassa nibbattilakkhaṇaṃ udayo, vipariṇāmalakkhaṇaṃ vayo, anupassanā ñāṇaṃ.
+Jātā avijjā paccuppannā, tassā nibbattilakkhaṇaṃ udayo, vipariṇāmalakkhaṇaṃ vayo, anupassanā ñāṇaṃ. *(như trên)* Jāto bhavo paccuppanno, tassa nibbattilakkhaṇaṃ udayo, vipariṇāmalakkhaṇaṃ vayo, anupassanā ñāṇaṃ.
 
 Vô minh đã sinh là hiện tại; đặc tính phát sinh của nó là sinh, đặc tính biến đổi của nó là diệt; sự quán sát là trí. …[tỉnh lược]… Hữu đã sinh là hiện tại; đặc tính phát sinh của nó là sinh, đặc tính biến đổi của nó là diệt; sự quán sát là trí.
 
@@ -7981,7 +7981,7 @@ Vì vậy, ý vật là pháp làm duyên vật tiền sinh y chỉ; tâm hướ
 
 Hướng môn là gì?
 
-Manoti bhavaṅgacittaṃ. …pe… Manoviññāṇanti sahāvajjanakajavanaṃ. Āvajjanaṃ bhavaṅgato amocetvā manoti sahāvajjanena bhavaṅgaṃ daṭṭhabbaṃ. …pe… Manoviññāṇanti javanaviññāṇaṃ.
+Manoti bhavaṅgacittaṃ. *(như trên)* Manoviññāṇanti sahāvajjanakajavanaṃ. Āvajjanaṃ bhavaṅgato amocetvā manoti sahāvajjanena bhavaṅgaṃ daṭṭhabbaṃ. *(như trên)* Manoviññāṇanti javanaviññāṇaṃ.
 
 “Ý” là tâm hữu phần. …[tỉnh lược]… “Ý thức” là đổng lực cùng với tâm hướng môn. Không tách tâm hướng môn khỏi hữu phần, “ý” cần được hiểu là hữu phần cùng với tâm hướng môn. …[tỉnh lược]… “Ý thức” là thức đổng lực.
 
@@ -8358,7 +8358,7 @@ Na cảnh
 
 Trang Miến 43 / PDF 73
 
-Voṭṭhabbanānantaraṃ pana sace mahantaṃ hoti rūpādiārammaṇaṃ. Pe. Cha satta vā javanāni javanti. Eso tāva pañcadvāre nayo.
+Voṭṭhabbanānantaraṃ pana sace mahantaṃ hoti rūpādiārammaṇaṃ. *(như trên)*. Cha satta vā javanāni javanti. Eso tāva pañcadvāre nayo.
 
 Sau tâm xác định, nếu cảnh như cảnh sắc là lớn… [tỉnh lược]… thì sáu hoặc bảy đổng lực chạy. Trước hết, đó là phương pháp ở ngũ môn.
 
@@ -8885,15 +8885,15 @@ Liễu tri căn bản và tỉnh giác bất si
 
 Trang Miến 58 / PDF 88
 
-sampaṭicchanakiccaṃ sādhayamānā, tannirodhā vipākamanoviññāṇadhātu santīraṇakiccaṃ sādhayamānā, tannirodhā kiriyamanoviññāṇadhātu voṭṭhabbanakiccaṃ sādhayamānā, tannirodhā sattakkhattuṃ javanaṃ javati. Tattha paṭhamajavanepi “ayaṃ itthī, ayaṃ puriso”ti rajjanadussanamuyhanavasena ālokitavilokitaṃ na hoti. Dutiyajavanepi. Pe. Sattamajavanepi. Etesu pana yuddhamaṇḍale yodhesu viya heṭṭhupariyavasena bhijjitvā patitesu “ayaṃ itthī ayaṃ puriso”ti rajjanādivasena ālokitavilokitaṃ hoti. Evaṃ tāvettha mūlapariññāvasena asammohasampajaññaṃ veditabbaṃ.
+sampaṭicchanakiccaṃ sādhayamānā, tannirodhā vipākamanoviññāṇadhātu santīraṇakiccaṃ sādhayamānā, tannirodhā kiriyamanoviññāṇadhātu voṭṭhabbanakiccaṃ sādhayamānā, tannirodhā sattakkhattuṃ javanaṃ javati. Tattha paṭhamajavanepi “ayaṃ itthī, ayaṃ puriso”ti rajjanadussanamuyhanavasena ālokitavilokitaṃ na hoti. Dutiyajavanepi. *(như trên)*. Sattamajavanepi. Etesu pana yuddhamaṇḍale yodhesu viya heṭṭhupariyavasena bhijjitvā patitesu “ayaṃ itthī ayaṃ puriso”ti rajjanādivasena ālokitavilokitaṃ hoti. Evaṃ tāvettha mūlapariññāvasena asammohasampajaññaṃ veditabbaṃ.
 
-…làm phận sự tiếp thâu; do tâm ấy diệt, ý thức giới quả làm phận sự suy đạc; do tâm ấy diệt, ý thức giới duy tác làm phận sự xác định; do tâm ấy diệt, đổng lực diễn tiến bảy lần. Trong đó, ngay ở đổng lực thứ nhất cũng không có sự nhìn thẳng, nhìn sang với tham, sân, si theo ý “đây là người nữ, đây là người nam”. Ở đổng lực thứ hai cũng vậy. …pe… Ở đổng lực thứ bảy cũng vậy. Nhưng khi những tâm ấy đã tan vỡ, ngã xuống trên dưới như các chiến binh nơi chiến trường, sự nhìn thẳng, nhìn sang với tham, v.v., theo ý “đây là người nữ, đây là người nam” xảy ra. Trước hết, cần hiểu tỉnh giác bất si ở đây theo liễu tri căn bản như vậy.
+…làm phận sự tiếp thâu; do tâm ấy diệt, ý thức giới quả làm phận sự suy đạc; do tâm ấy diệt, ý thức giới duy tác làm phận sự xác định; do tâm ấy diệt, đổng lực diễn tiến bảy lần. Trong đó, ngay ở đổng lực thứ nhất cũng không có sự nhìn thẳng, nhìn sang với tham, sân, si theo ý “đây là người nữ, đây là người nam”. Ở đổng lực thứ hai cũng vậy. *(như trên)* Ở đổng lực thứ bảy cũng vậy. Nhưng khi những tâm ấy đã tan vỡ, ngã xuống trên dưới như các chiến binh nơi chiến trường, sự nhìn thẳng, nhìn sang với tham, v.v., theo ý “đây là người nữ, đây là người nam” xảy ra. Trước hết, cần hiểu tỉnh giác bất si ở đây theo liễu tri căn bản như vậy.
 
 [NT149][15]
 
-“Paṭhamajavanepi. Pe. Na hotī”ti idaṃ pañcadvāraviññāṇavīthiyaṃ “itthī puriso”ti rajjanādīnaṃ abhāvaṃ sandhāya vuttaṃ. Tattha hi āvajjanavoṭṭhabbanānaṃ ayoniso āvajjanavoṭṭhabbanavasena iṭṭhe itthirūpādimhi lobho, aniṭṭhe ca paṭigho uppajjati. Manodvāre pana “itthī puriso”ti rajjanādi hoti. Tassa pañcadvārāvajjanaṃ mūlaṃ, yathā vuttaṃ vā sabbaṃ bhavaṅgādi. Evaṃ manodvārajavanassa mūlavasena mūlapariññā vuttā.
+“Paṭhamajavanepi. *(như trên)*. Na hotī”ti idaṃ pañcadvāraviññāṇavīthiyaṃ “itthī puriso”ti rajjanādīnaṃ abhāvaṃ sandhāya vuttaṃ. Tattha hi āvajjanavoṭṭhabbanānaṃ ayoniso āvajjanavoṭṭhabbanavasena iṭṭhe itthirūpādimhi lobho, aniṭṭhe ca paṭigho uppajjati. Manodvāre pana “itthī puriso”ti rajjanādi hoti. Tassa pañcadvārāvajjanaṃ mūlaṃ, yathā vuttaṃ vā sabbaṃ bhavaṅgādi. Evaṃ manodvārajavanassa mūlavasena mūlapariññā vuttā.
 
-Lời “ngay ở đổng lực thứ nhất…pe…không có” được nói nhằm sự vắng mặt của tham, v.v., theo ý “người nữ, người nam” trong lộ thức ngũ môn. Tại đó, do hướng môn và xác định hướng xét, xác định không đúng, tham sinh đối với cảnh sắc đáng ưa của người nữ, v.v., và sân sinh đối với cảnh không đáng ưa. Nhưng tại ý môn mới có tham, v.v., theo ý “người nữ, người nam”. Căn bản của nó là hướng ngũ môn, hoặc tất cả các tâm bắt đầu từ hữu phần như đã nói. Như vậy, liễu tri căn bản được nói theo căn bản của đổng lực ý môn.
+Lời “ngay ở đổng lực thứ nhất *(như trên)* không có” được nói nhằm sự vắng mặt của tham, v.v., theo ý “người nữ, người nam” trong lộ thức ngũ môn. Tại đó, do hướng môn và xác định hướng xét, xác định không đúng, tham sinh đối với cảnh sắc đáng ưa của người nữ, v.v., và sân sinh đối với cảnh không đáng ưa. Nhưng tại ý môn mới có tham, v.v., theo ý “người nữ, người nam”. Căn bản của nó là hướng ngũ môn, hoặc tất cả các tâm bắt đầu từ hữu phần như đã nói. Như vậy, liễu tri căn bản được nói theo căn bản của đổng lực ý môn.
 
 [NT150]
 
@@ -8915,7 +8915,7 @@ Trang Miến 59 / PDF 89
 
 …sinh khởi, làm phận sự quyết định chính cảnh sắc ấy là đáng ưa, không đáng ưa, v.v. Sau khi tâm xác định ấy diệt, tâm đổng lực sinh khởi với sức mạnh bảy lần.
 
-Trong bảy đổng lực ấy, ngay ở đổng lực thứ nhất cũng không có sự nhìn thẳng, nhìn sang với tham, sân, si theo ý “người này là nữ, người này là nam”. Ở đổng lực thứ hai cũng vậy. …pe… Ở đổng lực thứ bảy cũng không có.
+Trong bảy đổng lực ấy, ngay ở đổng lực thứ nhất cũng không có sự nhìn thẳng, nhìn sang với tham, sân, si theo ý “người này là nữ, người này là nam”. Ở đổng lực thứ hai cũng vậy. *(như trên)* Ở đổng lực thứ bảy cũng không có.
 
 Khi bảy đổng lực ấy tan vỡ, ngã xuống trên dưới như những chiến binh nơi chiến trường, sự nhìn thẳng, nhìn sang với tham, sân, si theo ý “người này là nữ, người này là nam” sinh khởi. Trước hết, hãy hiểu tỉnh giác bất si theo liễu tri căn bản như vậy.
 
@@ -8995,7 +8995,7 @@ Dukkaraṃ mahārāja bhagavatā kataṃ, yaṃ imesaṃ arūpīnaṃ cittacetas
 Opammaṃ bhante karohīti.
 Yathā mahārāja kocideva puriso nāvāya samuddaṃ ajjhogāhetvā hatthapuṭena udakaṃ gahetvā jivhāya sāyitvā jāneyya nu kho mahārāja so puriso “idaṃ Gaṅgāya udakaṃ, idaṃ Yamunāya udakaṃ, idaṃ Aciravatiyā udakaṃ, idaṃ Sarabhuyā udakaṃ, idaṃ Mahiyā udaka”nti.
 Dukkaraṃ bhante jānitunti.
-Tato dukkarataraṃ kho mahārāja bhagavatā kataṃ, yaṃ imesaṃ arūpīnaṃ cittacetasikānaṃ dhammānaṃ. Pe. Idaṃ citta”nti.
+Tato dukkarataraṃ kho mahārāja bhagavatā kataṃ, yaṃ imesaṃ arūpīnaṃ cittacetasikānaṃ dhammānaṃ. *(như trên)*. Idaṃ citta”nti.
 
 “Tâu Đại vương, Đức Thế Tôn đã làm một việc khó.”
 “Bạch Ngài Nāgasena, Đức Thế Tôn đã làm việc khó gì?”
@@ -9003,7 +9003,7 @@ Tato dukkarataraṃ kho mahārāja bhagavatā kataṃ, yaṃ imesaṃ arūpīna�
 “Bạch Ngài, xin cho một ví dụ.”
 “Tâu Đại vương, ví như có người đi thuyền ra biển, vốc nước trong lòng bàn tay rồi nếm bằng lưỡi. Tâu Đại vương, người ấy có thể biết: đây là nước sông Gaṅgā, đây là nước sông Yamunā, đây là nước sông Aciravatī, đây là nước sông Sarabhū, đây là nước sông Mahī chăng?”
 “Bạch Ngài, khó mà biết được.”
-“Tâu Đại vương, Đức Thế Tôn đã làm một việc còn khó hơn thế: đối với các tâm và tâm sở phi sắc ấy…pe…đây là tâm.”
+“Tâu Đại vương, Đức Thế Tôn đã làm một việc còn khó hơn thế: đối với các tâm và tâm sở phi sắc ấy *(như trên)* đây là tâm.”
 
 [NT155]
 
@@ -9062,7 +9062,7 @@ Tập II — Miến 64 — PDF nguồn 94
 
 Trang Miến 64 / PDF 94
 
-“Thưa thí chủ Đại vương Milinda, đối với các tâm và tâm sở là danh pháp cùng sinh khởi trên một cảnh duy nhất, Đức Phật đã giảng dạy, nêu danh chế định và phân định riêng từng pháp: thực tính tiếp xúc với cảnh này là xúc…pe…thực tính nhận lấy, tức biết, cảnh này là tâm. Ngài đã làm công việc hết sức khó là phân định và giảng dạy như vậy.”
+“Thưa thí chủ Đại vương Milinda, đối với các tâm và tâm sở là danh pháp cùng sinh khởi trên một cảnh duy nhất, Đức Phật đã giảng dạy, nêu danh chế định và phân định riêng từng pháp: thực tính tiếp xúc với cảnh này là xúc *(như trên)* thực tính nhận lấy, tức biết, cảnh này là tâm. Ngài đã làm công việc hết sức khó là phân định và giảng dạy như vậy.”
 
 [NT156][16]
 
@@ -13865,7 +13865,7 @@ Cách nhận diện rộng các danh pháp theo phương pháp rộng của phá
 
 Trong Chú giải Visuddhimagga, quyển hai, trang 226, đoạn 670:
 
-Tathā “kese pathavīdhātu kakkhaḷalakkhaṇā. Pe. Assāsapassāse pathavīdhātu kakkhaḷalakkhaṇā”ti paṭhamābhinipāto phasso, taṃsampayuttā vedanā vedanākkhandho. Pe. Cittaṃ viññāṇakkhandhoti upaṭṭhāti.
+Tathā “kese pathavīdhātu kakkhaḷalakkhaṇā. *(như trên)*. Assāsapassāse pathavīdhātu kakkhaḷalakkhaṇā”ti paṭhamābhinipāto phasso, taṃsampayuttā vedanā vedanākkhandho. *(như trên)*. Cittaṃ viññāṇakkhandhoti upaṭṭhāti.
 
 Cũng vậy, khi [nhận biết] “Địa đại trong tóc có đặc tính cứng. … Địa đại trong hơi thở vào, hơi thở ra có đặc tính cứng”, sự chạm đến đầu tiên hiện ra là xúc; thọ tương ưng với xúc ấy là thọ uẩn. … Tâm là thức uẩn.
 
@@ -14242,7 +14242,7 @@ Hãy biết rằng tiết chế tương ưng Thánh đạo siêu thế, sinh do 
 
 Chỉ là thiện
 
-Pañcasikkhāpadāni. Pe. Kusalāyeva.
+Pañcasikkhāpadāni. *(như trên)*. Kusalāyeva.
 
 Năm học giới. … Chỉ là thiện.
 
@@ -14258,7 +14258,7 @@ Trang Miến 203 / PDF 233
 
 Cảnh của các pháp tiết chế
 
-Pañcasikkhāpadāni. Pe. Paccuppannārammaṇā.
+Pañcasikkhāpadāni. *(như trên)*. Paccuppannārammaṇā.
 
 Năm học giới. … Có cảnh hiện tại.
 
@@ -16042,13 +16042,13 @@ Trang Miến 258 / PDF 288
 
 Thực tính tham đắm — sân hại — mê mờ: rajjana, dussana, muyhana
 
-Tattha paṭhamajavanepi “ayaṃ itthī, ayaṃ puriso”ti rajjanadussanamuyhanavasena ālokitavilokitaṃ na hoti, dutiyajavanepi … pe … sattamajavanepi.
+Tattha paṭhamajavanepi “ayaṃ itthī, ayaṃ puriso”ti rajjanadussanamuyhanavasena ālokitavilokitaṃ na hoti, dutiyajavanepi *(như trên)* sattamajavanepi.
 
 Ở đây, ngay trong đổng lực thứ nhất cũng không có việc nhìn tới, nhìn quanh theo cách tham đắm, sân hại, mê mờ rằng “đây là người nữ, đây là người nam”; trong đổng lực thứ hai cũng vậy… [lược trong nguyên tác, chưa khôi phục] …trong đổng lực thứ bảy cũng vậy.
 
 [NT381]
 
-Paṭhamajavanepi … pe … na hotīti idaṃ pañcaviññāṇavīthiyaṃ itthipurisoti rajjanādīnaṃ abhāvaṃ sandhāya vuttaṃ. Tattha hi āvajjanavoṭṭhabbanānaṃ ayoniso āvajjanavoṭṭhabbanavasena iṭṭhe itthirūpādimhi lobho, aniṭṭhe ca paṭigho uppajjati. Manodvāre pana itthipurisoti rajjanādi hoti.
+Paṭhamajavanepi *(như trên)* na hotīti idaṃ pañcaviññāṇavīthiyaṃ itthipurisoti rajjanādīnaṃ abhāvaṃ sandhāya vuttaṃ. Tattha hi āvajjanavoṭṭhabbanānaṃ ayoniso āvajjanavoṭṭhabbanavasena iṭṭhe itthirūpādimhi lobho, aniṭṭhe ca paṭigho uppajjati. Manodvāre pana itthipurisoti rajjanādi hoti.
 
 Câu “ngay trong đổng lực thứ nhất… [lược] …không có” được nói nhằm chỉ sự không có tham đắm, v.v., theo cách “người nữ, người nam” trong lộ ngũ thức. Vì ở đó, do hướng tâm và xác định hướng đến, xác định phi như lý, tham sinh đối với sắc khả ái của người nữ, v.v., và sân sinh đối với sắc bất khả ái. Còn ở ý môn, có tham đắm, v.v., theo cách “người nữ, người nam”.
 
@@ -18363,7 +18363,7 @@ Kinh Jāṇussoṇi — những nơi vật thí đến hoặc không đến
 
 Trang Miến 340 / PDF 370
 
-2. “Này bà-la-môn thí chủ, ở thế gian này, có người thường sát sinh… pe … có tà kiến sai lầm. Sau khi thân hoại mạng chung, người ấy sinh vào loài súc sinh. Người ấy sống trong loài súc sinh nhờ thức ăn của chúng sinh sinh vào loài súc sinh; nhờ thức ăn ấy mà tồn tại trong loài súc sinh. Này bà-la-môn thí chủ, đây cũng không phải nơi thích hợp để đến; vật thí ấy không thể đến với người đang ở trong loài súc sinh ấy.”
+2. “Này bà-la-môn thí chủ, ở thế gian này, có người thường sát sinh *(như trên)* có tà kiến sai lầm. Sau khi thân hoại mạng chung, người ấy sinh vào loài súc sinh. Người ấy sống trong loài súc sinh nhờ thức ăn của chúng sinh sinh vào loài súc sinh; nhờ thức ăn ấy mà tồn tại trong loài súc sinh. Này bà-la-môn thí chủ, đây cũng không phải nơi thích hợp để đến; vật thí ấy không thể đến với người đang ở trong loài súc sinh ấy.”
 
 [Tiracchānayonikānaṃ pana tiṇapaṇṇādivasena āhāro veditabbo.
 
@@ -18375,9 +18375,9 @@ Trang Miến 340 / PDF 370
 
 3. “Này bà-la-môn thí chủ, ở thế gian này, có người tránh sát sinh, tránh lấy của không cho, tránh tà hạnh trong các dục, tránh nói không thật, tránh lời chia rẽ, tránh lời thô ác, tránh lời phù phiếm; không có nhiều tham lam bất chính — abhijjhā — đối với tài sản của người khác; có tâm không muốn hủy hoại chúng sinh và các hành, có chánh kiến đúng đắn. Sau khi thân hoại mạng chung, người ấy sinh vào chúng loài người. Người ấy sống ở cõi người nhờ thức ăn của loài người; nhờ thức ăn ấy mà tồn tại ở cõi ấy. Này bà-la-môn thí chủ, đây cũng không phải nơi thích hợp để đến; vật thí ấy không thể đến với người đang ở cõi người ấy.”
 
-4. “Này bà-la-môn thí chủ, ở thế gian này, có người tránh sát sinh… pe … có chánh kiến đúng đắn. Sau khi thân hoại mạng chung, người ấy sinh vào chúng chư thiên. Người ấy sống ở cõi trời ấy nhờ thức ăn của chư thiên như dưỡng chất thiên thực. Nhờ thức ăn ấy mà tồn tại ở cõi trời ấy. Này bà-la-môn thí chủ, đây cũng không phải nơi thích hợp để đến; vật thí ấy không đến với người đang ở cõi trời ấy.”
+4. “Này bà-la-môn thí chủ, ở thế gian này, có người tránh sát sinh *(như trên)* có chánh kiến đúng đắn. Sau khi thân hoại mạng chung, người ấy sinh vào chúng chư thiên. Người ấy sống ở cõi trời ấy nhờ thức ăn của chư thiên như dưỡng chất thiên thực. Nhờ thức ăn ấy mà tồn tại ở cõi trời ấy. Này bà-la-môn thí chủ, đây cũng không phải nơi thích hợp để đến; vật thí ấy không đến với người đang ở cõi trời ấy.”
 
-5. “Này bà-la-môn thí chủ, ở thế gian này, có người thường sát sinh… pe … có tà kiến sai lầm. Sau khi thân hoại mạng chung, người ấy sinh vào cõi ngạ quỷ. Người ấy sống ở cõi ngạ quỷ nhờ thức ăn của chúng sinh thuộc cõi ngạ quỷ; nhờ thức ăn ấy mà ngạ quỷ ấy tồn tại ở cõi ngạ quỷ ấy. Hoặc nhờ vật thí do bạn bè, người thân thiết hoặc thân quyến bố thí hướng đến người đã qua đời ấy, ngạ quỷ ấy sống ở cõi ngạ quỷ ấy; nhờ vật thí ấy mà tồn tại ở cõi ngạ quỷ ấy. Này bà-la-môn thí chủ, đây là nơi thích hợp để đến; vật thí ấy đến với người đang ở cõi ngạ quỷ ấy.” Đức Phật đã đáp như vậy.
+5. “Này bà-la-môn thí chủ, ở thế gian này, có người thường sát sinh *(như trên)* có tà kiến sai lầm. Sau khi thân hoại mạng chung, người ấy sinh vào cõi ngạ quỷ. Người ấy sống ở cõi ngạ quỷ nhờ thức ăn của chúng sinh thuộc cõi ngạ quỷ; nhờ thức ăn ấy mà ngạ quỷ ấy tồn tại ở cõi ngạ quỷ ấy. Hoặc nhờ vật thí do bạn bè, người thân thiết hoặc thân quyến bố thí hướng đến người đã qua đời ấy, ngạ quỷ ấy sống ở cõi ngạ quỷ ấy; nhờ vật thí ấy mà tồn tại ở cõi ngạ quỷ ấy. Này bà-la-môn thí chủ, đây là nơi thích hợp để đến; vật thí ấy đến với người đang ở cõi ngạ quỷ ấy.” Đức Phật đã đáp như vậy.
 
 [Pettivesayikānaṃ kheḷasiṅghāṇikādivasena. Yaṃ vā panassa ito anuppavecchantīti yaṃ tassa mittādayo ito dadantā anupavesenti, pettivesayikā eva hi paradattūpajīvino honti, na aññesaṃ parehi dinnaṃ upakappati.
 
@@ -18437,13 +18437,13 @@ Này bà-la-môn thí chủ, do trong đời sống này sát sinh, lấy của 
 
 Còn do bố thí cho sa-môn hoặc bà-la-môn thức ăn, thức uống, y phục, phương tiện đi lại, hoa, hương, dầu thơm, giường nằm, chỗ ở và đèn, nên trong đời sống voi ấy người ấy có được thức ăn, thức uống, hoa và các thứ trang sức. (Nghĩa là trở thành voi ngự cát tường, v.v.)
 
-2. Này bà-la-môn thí chủ, ở thế gian này, có người thường sát sinh… pe … có tà kiến sai lầm. Người ấy thường bố thí cho sa-môn hoặc bà-la-môn thức ăn, thức uống, y phục, phương tiện đi lại, hoa, hương, dầu thơm, giường nằm, chỗ ở và đèn. Sau khi thân hoại mạng chung, người ấy sinh vào chúng loài ngựa… pe …
+2. Này bà-la-môn thí chủ, ở thế gian này, có người thường sát sinh *(như trên)* có tà kiến sai lầm. Người ấy thường bố thí cho sa-môn hoặc bà-la-môn thức ăn, thức uống, y phục, phương tiện đi lại, hoa, hương, dầu thơm, giường nằm, chỗ ở và đèn. Sau khi thân hoại mạng chung, người ấy sinh vào chúng loài ngựa *(như trên)*
 
-3. Sinh vào chúng loài bò… pe …
+3. Sinh vào chúng loài bò *(như trên)*
 
 4. Sinh vào chúng loài chó. Trong đời sống chó ấy (trong đời sống ngựa ấy, trong đời sống bò ấy), người ấy có được thức ăn, thức uống, hoa và các thứ trang sức.
 
-Này bà-la-môn thí chủ, do ở thế gian này sát sinh… pe … có tà kiến sai lầm, sau khi thân hoại mạng chung, người ấy sinh vào chúng loài chó (chúng loài ngựa, chúng loài bò).
+Này bà-la-môn thí chủ, do ở thế gian này sát sinh *(như trên)* có tà kiến sai lầm, sau khi thân hoại mạng chung, người ấy sinh vào chúng loài chó (chúng loài ngựa, chúng loài bò).
 
 Tập II — Miến 343 — PDF nguồn 373
 
@@ -18457,7 +18457,7 @@ Còn do bố thí cho sa-môn hoặc bà-la-môn thức ăn, thức uống, y ph
 
 Lại nữa, về thức ăn mà các loài vật ấy dùng, Chú giải giải thích bằng lời tiṇapaṇṇādivasena — “như cỏ, lá cây, v.v.” — rằng chỉ là cỏ, lá cây và những thứ tương tự. So với thức ăn của vua loài người, vua chư thiên thì rất thấp. Dù một con chó được ngủ trên bao đay tốt, trên nệm tốt, được ăn thức ăn tốt, cũng chỉ có thể ở nơi tương xứng với chó, chỉ có thể ăn ngon trong mức tương xứng với chó; không phải được ở, được ăn ở mức cao như vua loài người, vua chư thiên. Như lợn làng thích phân, chó cũng thích phân. Vì vậy, tuy nói người bố thí dù thành súc sinh vẫn được ăn, uống, ở với mức cao, nhưng không phải cao như vua loài người, vua chư thiên; chỉ là đời sống thích thú, vui hưởng việc ăn cỏ, lá cây, phân và những thứ tương tự, sống ngay trên mặt đất. Đó là sự cho quả của bố thí ở nơi không thích hợp; chỉ là loại quả bố thí mà người giới hạnh hư hỏng có thể nhận được. Cần phải thận trọng. Lại nữa, Đức Phật tiếp tục dạy vị bà-la-môn Jāṇussoṇi về các bố thí cao hơn như sau.]
 
-5. “Này bà-la-môn thí chủ, ở thế gian này, có người tránh sát sinh… pe … có chánh kiến đúng đắn. Người ấy thường bố thí cho sa-môn hoặc bà-la-môn thức ăn, thức uống, y phục, phương tiện đi lại, hoa, hương, dầu thơm, giường nằm, chỗ ở và đèn. Sau khi thân hoại mạng chung, người ấy sinh vào chúng loài người. Trong đời sống người ấy, người ấy có được năm dục trưởng dưỡng thuộc loài người.
+5. “Này bà-la-môn thí chủ, ở thế gian này, có người tránh sát sinh *(như trên)* có chánh kiến đúng đắn. Người ấy thường bố thí cho sa-môn hoặc bà-la-môn thức ăn, thức uống, y phục, phương tiện đi lại, hoa, hương, dầu thơm, giường nằm, chỗ ở và đèn. Sau khi thân hoại mạng chung, người ấy sinh vào chúng loài người. Trong đời sống người ấy, người ấy có được năm dục trưởng dưỡng thuộc loài người.
 
 Tập II — Miến 344 — PDF nguồn 374
 
@@ -18465,7 +18465,7 @@ Quả bố thí ở cõi người và cõi trời
 
 Trang Miến 344 / PDF 374
 
-Này bà-la-môn thí chủ, do ở thế gian này tránh sát sinh… pe … có chánh kiến đúng đắn, sau khi thân hoại mạng chung, người ấy sinh vào chúng loài người. Còn do bố thí cho sa-môn hoặc bà-la-môn thức ăn, thức uống, y phục, phương tiện đi lại, hoa, hương, dầu thơm, giường nằm, chỗ ở và đèn, nên trong đời sống người ấy, người ấy có được năm dục trưởng dưỡng thuộc loài người.”
+Này bà-la-môn thí chủ, do ở thế gian này tránh sát sinh *(như trên)* có chánh kiến đúng đắn, sau khi thân hoại mạng chung, người ấy sinh vào chúng loài người. Còn do bố thí cho sa-môn hoặc bà-la-môn thức ăn, thức uống, y phục, phương tiện đi lại, hoa, hương, dầu thơm, giường nằm, chỗ ở và đèn, nên trong đời sống người ấy, người ấy có được năm dục trưởng dưỡng thuộc loài người.”
 
 [So taṃ cittaṃ dahati, taṃ cittaṃ adhiṭṭhāti, taṃ cittaṃ bhāveti. Tassa taṃ cittaṃ hīne vimuttaṃ uttari abhāvitaṃ tatrūpapattiyā saṃvattati.
 
@@ -18475,9 +18475,9 @@ Này bà-la-môn thí chủ, do ở thế gian này tránh sát sinh… pe … c
 
 = Người bố thí có giới ấy đặt tâm mong trở thành một người giàu thuộc dòng vua, hoặc một bà-la-môn giàu, hoặc một gia chủ giàu; xác lập tâm như vậy, làm cho tâm như vậy sinh khởi nhiều lần và phát triển. Tâm của người bố thí có giới ấy hướng, nghiêng về năm dục trưởng dưỡng thấp kém, không được tu tập vì đạo, quả, Nibbāna cao quý hơn năm dục trưởng dưỡng ấy, trở thành nhân cho sự tái tục, sinh đến những dòng họ mà mình mong cầu. Cũng hãy hiểu tương tự đối với việc sinh đến đời sống chư thiên và những đời sống sẽ nói sau.]
 
-6. “Này bà-la-môn thí chủ, ở thế gian này, có người tránh sát sinh… pe … có sự thấy biết đúng, có chánh kiến. Người ấy bố thí cho sa-môn hoặc bà-la-môn thức ăn, thức uống, y phục, phương tiện đi lại, hoa, hương, dầu thơm, giường nằm, chỗ ở và đèn. Sau khi thân hoại mạng chung, người ấy sinh vào chúng chư thiên. Người ấy có được năm dục trưởng dưỡng thuộc đời sống chư thiên ấy.
+6. “Này bà-la-môn thí chủ, ở thế gian này, có người tránh sát sinh *(như trên)* có sự thấy biết đúng, có chánh kiến. Người ấy bố thí cho sa-môn hoặc bà-la-môn thức ăn, thức uống, y phục, phương tiện đi lại, hoa, hương, dầu thơm, giường nằm, chỗ ở và đèn. Sau khi thân hoại mạng chung, người ấy sinh vào chúng chư thiên. Người ấy có được năm dục trưởng dưỡng thuộc đời sống chư thiên ấy.
 
-Này bà-la-môn thí chủ, do ở thế gian này tránh sát sinh… pe … có sự thấy biết đúng, có chánh kiến, sau khi thân hoại mạng chung, người ấy sinh vào chúng chư thiên. Còn do bố thí cho sa-môn hoặc bà-la-môn thức ăn, thức uống, y phục, phương tiện đi lại, hoa, hương, dầu thơm, giường nằm, chỗ ở và đèn, nên trong đời sống chư thiên, người ấy có được năm dục trưởng dưỡng thuộc cõi trời.
+Này bà-la-môn thí chủ, do ở thế gian này tránh sát sinh *(như trên)* có sự thấy biết đúng, có chánh kiến, sau khi thân hoại mạng chung, người ấy sinh vào chúng chư thiên. Còn do bố thí cho sa-môn hoặc bà-la-môn thức ăn, thức uống, y phục, phương tiện đi lại, hoa, hương, dầu thơm, giường nằm, chỗ ở và đèn, nên trong đời sống chư thiên, người ấy có được năm dục trưởng dưỡng thuộc cõi trời.
 
 Này bà-la-môn thí chủ, quả thật, người bố thí cũng không thể không có quả; chắc chắn có quả.” Đức Phật đã dạy như vậy.
 
@@ -19799,12 +19799,12 @@ Trang Miến 387 / PDF 417
 “Này các tỳ-kheo… Nếu tỳ-kheo Nanda sắp nhìn thẳng về phía đông, Nanda tác ý bằng tâm đến tất cả các phương diện rằng: ‘Khi ta nhìn thẳng về phía đông như vậy, những pháp bất thiện thấp kém gọi là abhijjhā — mong muốn, tham đắm, hướng tâm nghĩ đến cảnh sắc ấy — và domanassa — tâm không an vui — sẽ không theo ta’, rồi mới nhìn thẳng về phía đông. Như vậy, khi nhìn thẳng về phía đông, vị ấy đầy đủ trí tỉnh giác có thể xét có lợi ích hay không, phân biệt và phân định lợi ích bằng trí.
 
 Này các tỳ-kheo… Tỳ-kheo Nanda:
-Nếu sắp nhìn thẳng về phía tây… pe…
-Nếu sắp nhìn thẳng về phía bắc… pe…
-Nếu sắp nhìn thẳng về phía nam… pe…
-Nếu sắp ngẩng nhìn lên trên… pe…
-Nếu sắp cúi nhìn xuống dưới… pe…
-Nếu sắp nhìn sang một góc… pe…
+Nếu sắp nhìn thẳng về phía tây *(như trên)*
+Nếu sắp nhìn thẳng về phía bắc *(như trên)*
+Nếu sắp nhìn thẳng về phía nam *(như trên)*
+Nếu sắp ngẩng nhìn lên trên *(như trên)*
+Nếu sắp cúi nhìn xuống dưới *(như trên)*
+Nếu sắp nhìn sang một góc *(như trên)*
 
 Tỳ-kheo Nanda tác ý bằng tâm đến tất cả các phương diện rằng: ‘Khi ta nhìn sang một góc như vậy, những pháp bất thiện thấp kém gọi là abhijjhā — mong muốn, tham đắm, hướng tâm nghĩ đến cảnh sắc ấy — và domanassa — tâm không an vui — sẽ không theo ta’, rồi mới nhìn sang một góc. Như vậy, khi nhìn sang một góc, vị ấy đầy đủ trí tỉnh giác có thể xét có lợi ích hay không, chỉ phân biệt và phân định lợi ích bằng trí.”
 
@@ -19899,7 +19899,7 @@ Do tâm tiếp thâu ấy diệt, tâm thẩm sát gọi là ý thức giới qu
 
 Do tâm thẩm sát ấy diệt, tâm xác định gọi là ý thức giới duy tác sinh khởi, hoàn thành phận sự quyết định chính cảnh sắc ấy là đáng ưa, không đáng ưa, v.v. Do tâm xác định ấy diệt, đổng lực chạy bảy lần.
 
-Trong bảy đổng lực ấy, ở đổng lực thứ nhất vẫn chưa có nhìn thẳng, nhìn sang do tham đắm, chống đối, mê lầm rằng “người này là đàn bà, người này là đàn ông”. Ở đổng lực thứ hai cũng… pe… Ở đổng lực thứ bảy cũng… pe… vẫn chưa có. Khi bảy đổng lực ấy đã hoại và ngã xuống theo cách đảo trên xuống dưới như những chiến sĩ trên chiến trường, mới phát sinh sự nhìn thẳng, nhìn sang do tham đắm, chống đối, mê lầm rằng “người này là đàn bà, người này là đàn ông”. Hãy hiểu tỉnh giác bất si khi nhìn thẳng, nhìn sang theo liễu tri căn bản như vậy.
+Trong bảy đổng lực ấy, ở đổng lực thứ nhất vẫn chưa có nhìn thẳng, nhìn sang do tham đắm, chống đối, mê lầm rằng “người này là đàn bà, người này là đàn ông”. Ở đổng lực thứ hai cũng *(như trên)* Ở đổng lực thứ bảy cũng *(như trên)* vẫn chưa có. Khi bảy đổng lực ấy đã hoại và ngã xuống theo cách đảo trên xuống dưới như những chiến sĩ trên chiến trường, mới phát sinh sự nhìn thẳng, nhìn sang do tham đắm, chống đối, mê lầm rằng “người này là đàn bà, người này là đàn ông”. Hãy hiểu tỉnh giác bất si khi nhìn thẳng, nhìn sang theo liễu tri căn bản như vậy.
 
 [NT594]
 
@@ -21327,7 +21327,7 @@ Theo những định nghĩa này, khi ngủ thiếp, các tâm lộ không sinh,
 
 Nếu đang nằm mộng
 
-“Na supati na paṭibujjhati na supinaṃ passatī”ti sabbenāpi ca pañcadvārikacittena neva niddaṃ okkamati, na niddāyati, na paṭibujjhati, na kiñci supinaṃ passatīti imesu tīsu ṭhānesu saha javanena vīthicittaṃ paṭikkhittaṃ. pe. Evaṃ manodvārikajavaneneva paṭibujjhati, na pañcadvārikena. Supinampi teneva passati, na pañcadvārikena.
+“Na supati na paṭibujjhati na supinaṃ passatī”ti sabbenāpi ca pañcadvārikacittena neva niddaṃ okkamati, na niddāyati, na paṭibujjhati, na kiñci supinaṃ passatīti imesu tīsu ṭhānesu saha javanena vīthicittaṃ paṭikkhittaṃ. *(như trên)*. Evaṃ manodvārikajavaneneva paṭibujjhati, na pañcadvārikena. Supinampi teneva passati, na pañcadvārikena.
 
 “Không ngủ, không thức dậy, không thấy giấc mộng”: với bất cứ tâm thuộc ngũ môn nào, người ấy cũng không chìm vào giấc ngủ, không ngủ, không thức dậy, không thấy giấc mộng nào. Như vậy, ở ba trường hợp này, tâm lộ cùng với đổng lực bị loại trừ. […] Do đó, chỉ với đổng lực thuộc ý môn mà thức dậy, không phải với tâm thuộc ngũ môn. Cũng chỉ với tâm ấy mà thấy giấc mộng, không phải với tâm thuộc ngũ môn.
 
@@ -21339,7 +21339,7 @@ Thưa Đại vương, người bị giấc ngủ chập chờn như khỉ chi ph
 
 [NT674]
 
-Tenāyaṃ supino kusalopi hoti akusalopi abyākatopi. pe. Supineneva “Diṭṭhaṃ viya me, sutaṃ viya me”ti kathanakālepi abyākatoyeva.
+Tenāyaṃ supino kusalopi hoti akusalopi abyākatopi. *(như trên)*. Supineneva “Diṭṭhaṃ viya me, sutaṃ viya me”ti kathanakālepi abyākatoyeva.
 
 Do đó, giấc mộng này có thể là thiện, bất thiện hoặc vô ký. […] Ngay trong giấc mộng, lúc nói “Dường như tôi đã thấy, dường như tôi đã nghe”, cũng chỉ là vô ký.
 
@@ -21351,7 +21351,7 @@ Các vị nói “chỉ là vô ký” vì chỉ có hướng môn sinh lên. Ph
 
 [NT676]
 
-pe. Supinaṃ sekkhaputhujjanāva passanti, appahīnavipallāsattā. Asekkhā na passanti, pahīnavipallāsattā.
+*(như trên)*. Supinaṃ sekkhaputhujjanāva passanti, appahīnavipallāsattā. Asekkhā na passanti, pahīnavipallāsattā.
 
 […] Chỉ các bậc hữu học và phàm phu thấy giấc mộng, vì chưa đoạn trừ điên đảo. Các bậc vô học không thấy, vì đã đoạn trừ điên đảo.
 
@@ -21748,7 +21748,7 @@ Vị ấy có niệm khi thở vào, có niệm khi thở ra.
 3. Vị ấy tập: “Cảm nhận toàn thân, tôi sẽ thở vào.” Vị ấy tập: “Cảm nhận toàn thân, tôi sẽ thở ra.”
 4. Vị ấy tập: “Làm an tịnh thân hành, tôi sẽ thở vào.” Vị ấy tập: “Làm an tịnh thân hành, tôi sẽ thở ra.”
 
-Seyyathāpi bhikkhave dakkho bhamakāro vā bhamakārantevāsī vā dīghaṃ vā añchanto “Dīghaṃ añchāmī”ti pajānāti, rassaṃ vā añchanto “Rassaṃ añchāmī”ti pajānāti. Evameva kho bhikkhave bhikkhu — dīghaṃ vā assasanto dīghaṃ assasāmīti pajānāti. pe. Passambhayaṃ kāyasaṅkhāraṃ passasissāmīti sikkhati.
+Seyyathāpi bhikkhave dakkho bhamakāro vā bhamakārantevāsī vā dīghaṃ vā añchanto “Dīghaṃ añchāmī”ti pajānāti, rassaṃ vā añchanto “Rassaṃ añchāmī”ti pajānāti. Evameva kho bhikkhave bhikkhu — dīghaṃ vā assasanto dīghaṃ assasāmīti pajānāti. *(như trên)*. Passambhayaṃ kāyasaṅkhāraṃ passasissāmīti sikkhati.
 
 Này các tỳ-khưu, như người thợ tiện khéo léo hoặc học trò của người thợ tiện, kéo dài thì biết: “Tôi kéo dài”; kéo ngắn thì biết: “Tôi kéo ngắn.” Cũng vậy, này các tỳ-khưu, tỳ-khưu thở vào dài thì biết: “Tôi thở vào dài.” […] Vị ấy tập: “Làm an tịnh thân hành, tôi sẽ thở ra.”
 
@@ -21892,7 +21892,7 @@ Trang Miến 452 / PDF 482
 
 Từ con đường tu các giới đến quả A-la-hán
 
-Ime cattāro mahābhūte pariggaṇhantassa upādārūpaṃ pākaṭaṃ hoti. pe. Athassa evaṃ “Cattāri mahābhūtāni tevīsati upādārūpāni rūpakkhandho”ti rūpakkhandhaṃ pariggaṇhantassa āyatanadvāravasena arūpino khandhā pākaṭā honti. Iti rūpārūpapariggaho pañcakkhandhā honti, pañcakkhandhā dvādasāyatanāni honti, dvādasāyatanāni aṭṭhārasa dhātuyo hontīti khandhāyatanadhātuvasena yamakatālakkhandhaṃ phālento viya dve koṭṭhāse katvā nāmarūpaṃ vavatthapeti.
+Ime cattāro mahābhūte pariggaṇhantassa upādārūpaṃ pākaṭaṃ hoti. *(như trên)*. Athassa evaṃ “Cattāri mahābhūtāni tevīsati upādārūpāni rūpakkhandho”ti rūpakkhandhaṃ pariggaṇhantassa āyatanadvāravasena arūpino khandhā pākaṭā honti. Iti rūpārūpapariggaho pañcakkhandhā honti, pañcakkhandhā dvādasāyatanāni honti, dvādasāyatanāni aṭṭhārasa dhātuyo hontīti khandhāyatanadhātuvasena yamakatālakkhandhaṃ phālento viya dve koṭṭhāse katvā nāmarūpaṃ vavatthapeti.
 
 Đối với người nắm bắt bốn đại này, sắc y sinh trở nên rõ ràng. […] Khi vị ấy nắm bắt sắc uẩn như sau: “Bốn đại và hai mươi ba sắc y sinh là sắc uẩn”, các uẩn phi sắc trở nên rõ ràng theo các xứ và các môn. Như vậy, sự nắm bắt sắc và phi sắc là năm uẩn; năm uẩn là mười hai xứ; mười hai xứ là mười tám giới. Theo uẩn, xứ, giới như vậy, vị ấy chia thành hai phần và xác định danh sắc, như chẻ thân cây thốt nốt đôi.
 
@@ -22614,13 +22614,13 @@ Như vậy có trí tỉnh giác, sự biết phân biệt rõ về thọ ấy.
 
 Trích kinh Dīghanakha
 
-Yasmiṃ Aggivessana samaye sukhaṃ vedanaṃ vedeti, neva tasmiṃ samaye dukkhaṃ vedanaṃ vedeti, na adukkhamasukhaṃ vedanaṃ vedeti, sukhaṃyeva tasmiṃ samaye vedanaṃ vedeti. Yasmiṃ Aggivessana samaye dukkhaṃ. pe. Adukkhamasukhaṃ vedanaṃ vedeti, neva tasmiṃ samaye sukhaṃ vedanaṃ vedeti, na dukkhaṃ vedanaṃ vedeti, adukkhamasukhaṃyeva tasmiṃ samaye vedanaṃ vedeti.
+Yasmiṃ Aggivessana samaye sukhaṃ vedanaṃ vedeti, neva tasmiṃ samaye dukkhaṃ vedanaṃ vedeti, na adukkhamasukhaṃ vedanaṃ vedeti, sukhaṃyeva tasmiṃ samaye vedanaṃ vedeti. Yasmiṃ Aggivessana samaye dukkhaṃ. *(như trên)*. Adukkhamasukhaṃ vedanaṃ vedeti, neva tasmiṃ samaye sukhaṃ vedanaṃ vedeti, na dukkhaṃ vedanaṃ vedeti, adukkhamasukhaṃyeva tasmiṃ samaye vedanaṃ vedeti.
 
 Này Aggivessana, khi cảm nhận lạc thọ, lúc ấy không cảm nhận khổ thọ, không cảm nhận thọ không khổ không lạc; lúc ấy chỉ cảm nhận lạc thọ. Này Aggivessana, khi [cảm nhận] khổ… […] Cảm nhận thọ không khổ không lạc, thì lúc ấy không cảm nhận lạc thọ, không cảm nhận khổ thọ; lúc ấy chỉ cảm nhận thọ không khổ không lạc.
 
 [43]
 
-Sukhāpi kho Aggivessana vedanā aniccā saṅkhatā paṭiccasamuppannā khayadhammā vayadhammā virāgadhammā nirodhadhammā. Dukkhāpi kho. pe. Adukkhamasukhāpi kho Aggivessana vedanā aniccā saṅkhatā. pe. Nirodhadhammā.
+Sukhāpi kho Aggivessana vedanā aniccā saṅkhatā paṭiccasamuppannā khayadhammā vayadhammā virāgadhammā nirodhadhammā. Dukkhāpi kho. *(như trên)*. Adukkhamasukhāpi kho Aggivessana vedanā aniccā saṅkhatā. *(như trên)*. Nirodhadhammā.
 
 Này Aggivessana, lạc thọ cũng vô thường, hữu vi, do duyên sinh, có tính tiêu tận, có tính hoại diệt, có tính phai tàn, có tính đoạn diệt. Khổ [thọ] cũng… […] Này Aggivessana, thọ không khổ không lạc cũng vô thường, hữu vi […] có tính đoạn diệt.
 
@@ -24354,9 +24354,9 @@ Trong “đối với thọ v.v. cũng vậy”, cần kết hợp thành “bi�
 
 [NT862]
 
-Tattha iti rūpanti idaṃ rūpaṃ, ettakaṃ rūpaṃ, ito uddhaṃ rūpaṃ natthīti ruppanasabhāvañceva bhūtupādāyabhedañca ādiṃ katvā lakkhaṇarasapaccupaṭṭhānapadaṭṭhānavasena anavasesarūpapariggaho vutto. Pe. Iti vedanātiādīsupi ayaṃ vedanā, ettakā vedanā, ito uddhaṃ vedanā natthi. Ayaṃ saññā. Ime saṅkhārā. Idaṃ viññāṇaṃ, ettakaṃ viññāṇaṃ, ito uddhaṃ viññāṇaṃ natthīti vedayitasañjānanaabhisaṅkharaṇavijānanasabhāvañceva sukhādi rūpasaññādi phassādi cakkhuviññāṇādibhedañca ādiṃ katvā lakkhaṇarasapaccupaṭṭhānapadaṭṭhānavasena anavasesavedanāsaññāsaṅkhāraviññāṇapariggaho vutto.
+Tattha iti rūpanti idaṃ rūpaṃ, ettakaṃ rūpaṃ, ito uddhaṃ rūpaṃ natthīti ruppanasabhāvañceva bhūtupādāyabhedañca ādiṃ katvā lakkhaṇarasapaccupaṭṭhānapadaṭṭhānavasena anavasesarūpapariggaho vutto. *(như trên)*. Iti vedanātiādīsupi ayaṃ vedanā, ettakā vedanā, ito uddhaṃ vedanā natthi. Ayaṃ saññā. Ime saṅkhārā. Idaṃ viññāṇaṃ, ettakaṃ viññāṇaṃ, ito uddhaṃ viññāṇaṃ natthīti vedayitasañjānanaabhisaṅkharaṇavijānanasabhāvañceva sukhādi rūpasaññādi phassādi cakkhuviññāṇādibhedañca ādiṃ katvā lakkhaṇarasapaccupaṭṭhānapadaṭṭhānavasena anavasesavedanāsaññāsaṅkhāraviññāṇapariggaho vutto.
 
-Ở đây, “đây là sắc” trình bày sự phân định sắc không sót theo đặc tính, phận sự, biểu hiện và nhân gần, bắt đầu bằng tự tính biến hoại và sự phân chia thành đại chủng cùng sắc y sinh: “Đây là sắc; sắc chỉ có chừng này; ngoài đây không có sắc.” Pe [nguyên tác lược, chưa triển khai]. Với “đây là thọ” v.v. cũng vậy: “Đây là thọ; thọ chỉ có chừng này; ngoài đây không có thọ. Đây là tưởng. Đây là các hành. Đây là thức; thức chỉ có chừng này; ngoài đây không có thức.” Lời ấy trình bày sự phân định thọ, tưởng, hành, thức không sót theo đặc tính, phận sự, biểu hiện và nhân gần, bắt đầu bằng các tự tính cảm thọ, nhận dấu, tạo tác, nhận biết, cùng các sự phân chia lạc v.v., sắc tưởng v.v., xúc v.v., nhãn thức v.v.
+Ở đây, “đây là sắc” trình bày sự phân định sắc không sót theo đặc tính, phận sự, biểu hiện và nhân gần, bắt đầu bằng tự tính biến hoại và sự phân chia thành đại chủng cùng sắc y sinh: “Đây là sắc; sắc chỉ có chừng này; ngoài đây không có sắc.” *(như trên)* [nguyên tác lược, chưa triển khai]. Với “đây là thọ” v.v. cũng vậy: “Đây là thọ; thọ chỉ có chừng này; ngoài đây không có thọ. Đây là tưởng. Đây là các hành. Đây là thức; thức chỉ có chừng này; ngoài đây không có thức.” Lời ấy trình bày sự phân định thọ, tưởng, hành, thức không sót theo đặc tính, phận sự, biểu hiện và nhân gần, bắt đầu bằng các tự tính cảm thọ, nhận dấu, tạo tác, nhận biết, cùng các sự phân chia lạc v.v., sắc tưởng v.v., xúc v.v., nhãn thức v.v.
 
 [NT863]
 
@@ -24460,9 +24460,9 @@ Cakkhuṃ pajānātīti cakkhupasādaṃ yāthāvasarasalakkhaṇavasena pajān�
 
 [NT868]
 
-Yāthāvasarasalakkhaṇavasenāti aviparītassa attano rasassa ceva lakkhaṇassa ca vasena, rūpesu āviñchanakiccassa ceva rūpābhighātārahabhūtapasādalakkhaṇassa ca vasenāti attho. Pe. Sarasalakkhaṇavasenāti cakkhuviññāṇassa visayabhāvakiccassa ceva cakkhupaṭihananalakkhaṇassa ca vasenāti yojetabbaṃ.
+Yāthāvasarasalakkhaṇavasenāti aviparītassa attano rasassa ceva lakkhaṇassa ca vasena, rūpesu āviñchanakiccassa ceva rūpābhighātārahabhūtapasādalakkhaṇassa ca vasenāti attho. *(như trên)*. Sarasalakkhaṇavasenāti cakkhuviññāṇassa visayabhāvakiccassa ceva cakkhupaṭihananalakkhaṇassa ca vasenāti yojetabbaṃ.
 
-“Theo phận sự và đặc tính riêng đúng như thật”: theo phận sự và đặc tính riêng không sai lệch; nghĩa là theo phận sự hướng dẫn đến các sắc và đặc tính là sự trong sáng của đại chủng thích hợp để cảnh sắc tác động. Pe [nguyên tác lược, chưa triển khai]. “Theo phận sự và đặc tính riêng” cần được kết hợp thành: theo phận sự làm đối tượng của nhãn thức và đặc tính tác động vào mắt.
+“Theo phận sự và đặc tính riêng đúng như thật”: theo phận sự và đặc tính riêng không sai lệch; nghĩa là theo phận sự hướng dẫn đến các sắc và đặc tính là sự trong sáng của đại chủng thích hợp để cảnh sắc tác động. *(như trên)* [nguyên tác lược, chưa triển khai]. “Theo phận sự và đặc tính riêng” cần được kết hợp thành: theo phận sự làm đối tượng của nhãn thức và đặc tính tác động vào mắt.
 
 [NT869]
 
@@ -24476,9 +24476,9 @@ Như vậy, mỗi pháp chân đế đều có tự tính đặc thù riêng và
 
 Các nhân làm sinh và các nhân đoạn trừ
 
-Tañca kāraṇanti subhanimittapaṭighanimittādivibhāvaṃ iṭṭhāniṭṭhādirūpārammaṇañceva tajjāyonisomanasikārañcāti tassa tassa saṃyojanassa kāraṇaṃ. Pe. Yena kāraṇenāti yena vipassanāsamathabhāvanāsaṅkhātena kāraṇena.
+Tañca kāraṇanti subhanimittapaṭighanimittādivibhāvaṃ iṭṭhāniṭṭhādirūpārammaṇañceva tajjāyonisomanasikārañcāti tassa tassa saṃyojanassa kāraṇaṃ. *(như trên)*. Yena kāraṇenāti yena vipassanāsamathabhāvanāsaṅkhātena kāraṇena.
 
-“Và nhân ấy”: nhân của từng kiết sử là cảnh sắc khả ái, không khả ái v.v., làm hiện rõ tướng đẹp, tướng đối ngại v.v., cùng phi như lý tác ý tương ứng. Pe [nguyên tác lược, chưa triển khai]. “Bởi nhân nào”: bởi nhân được gọi là tu tập Vipassanā và Samatha.
+“Và nhân ấy”: nhân của từng kiết sử là cảnh sắc khả ái, không khả ái v.v., làm hiện rõ tướng đẹp, tướng đối ngại v.v., cùng phi như lý tác ý tương ứng. *(như trên)* [nguyên tác lược, chưa triển khai]. “Bởi nhân nào”: bởi nhân được gọi là tu tập Vipassanā và Samatha.
 
 [NT870]
 
@@ -24488,7 +24488,7 @@ Diệt hẳn không sinh lại; phần giác chi
 
 Trang Miến 535 / PDF 565
 
-Như đã giải thích ở phần triền cái, đối với sáu cảnh được gọi là khả ái, không khả ái v.v., làm hiện rõ tướng đẹp, tướng đối ngại v.v., tác ý sai cách, sai đường đủ làm phát sinh các kiết sử như kiết sử dục ái, kiết sử đối ngại v.v., tức phi như lý tác ý, chính là nhân gần nhất làm sinh mười kiết sử. Pe [nguyên tác lược, chưa triển khai]. Tương tự, như lý tác ý được gọi là tu tập Samatha và Vipassanā cũng chính là nhân gần nhất để đoạn trừ mười kiết sử.
+Như đã giải thích ở phần triền cái, đối với sáu cảnh được gọi là khả ái, không khả ái v.v., làm hiện rõ tướng đẹp, tướng đối ngại v.v., tác ý sai cách, sai đường đủ làm phát sinh các kiết sử như kiết sử dục ái, kiết sử đối ngại v.v., tức phi như lý tác ý, chính là nhân gần nhất làm sinh mười kiết sử. *(như trên)* [nguyên tác lược, chưa triển khai]. Tương tự, như lý tác ý được gọi là tu tập Samatha và Vipassanā cũng chính là nhân gần nhất để đoạn trừ mười kiết sử.
 
 [NT871]
 
@@ -25112,9 +25112,9 @@ Này các tỳ-khưu, thế nào là chánh tinh tấn? Ở đây, tỳ-khưu kh
 
 1. Bất thiện chưa sinh — anuppanna akusala
 
-Anuppannānanti ekasmiṃ vā bhave tathārūpe vā ārammaṇe attano na uppannānaṃ. Parassa pana uppajjamāne disvā “Ahovata me evarūpā pāpakā akusalā dhammā na uppajjeyyun”ti evaṃ anuppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ anuppādāya. Pe. Padahatīti kāmaṃ taco ca nhāru ca aṭṭhi ca avasissatūti padahanaṃ pavatteti.
+Anuppannānanti ekasmiṃ vā bhave tathārūpe vā ārammaṇe attano na uppannānaṃ. Parassa pana uppajjamāne disvā “Ahovata me evarūpā pāpakā akusalā dhammā na uppajjeyyun”ti evaṃ anuppannānaṃ pāpakānaṃ akusalānaṃ dhammānaṃ anuppādāya. *(như trên)*. Padahatīti kāmaṃ taco ca nhāru ca aṭṭhi ca avasissatūti padahanaṃ pavatteti.
 
-“Chưa sinh” là chưa sinh nơi mình trong một đời sống, hoặc đối với cảnh như vậy. Thấy chúng sinh nơi người khác, vị ấy nghĩ: “Ôi, mong rằng các pháp ác bất thiện như vậy không sinh nơi ta”; như vậy, để các pháp ác bất thiện chưa sinh không sinh. Pe [phần lược của nguyên tác]. “Chuyên cần” là thực hiện sự chuyên cần với quyết tâm: dù chỉ còn da, gân và xương.
+“Chưa sinh” là chưa sinh nơi mình trong một đời sống, hoặc đối với cảnh như vậy. Thấy chúng sinh nơi người khác, vị ấy nghĩ: “Ôi, mong rằng các pháp ác bất thiện như vậy không sinh nơi ta”; như vậy, để các pháp ác bất thiện chưa sinh không sinh. *(như trên)* [phần lược của nguyên tác]. “Chuyên cần” là thực hiện sự chuyên cần với quyết tâm: dù chỉ còn da, gân và xương.
 
 [NT923]
 
@@ -29589,7 +29589,7 @@ Chú thích người dịch: sơ đồ ngang ở trang Miến42/PDF72 được t
 
 Chú thích người dịch [13]
 
-Chú thích người dịch: nguyên tác có dấu tỉnh lược pe ở câu trích này. Giữ tỉnh lược; chưa xác minh đoạn bị lược trong ấn bản Visuddhimagga được dẫn, không tự triển khai. Quay lại
+Chú thích người dịch: nguyên tác có dấu tỉnh lược *(như trên)* ở câu trích này. Giữ tỉnh lược; chưa xác minh đoạn bị lược trong ấn bản Visuddhimagga được dẫn, không tự triển khai. Quay lại
 
 Chú thích người dịch [14]
 
@@ -29597,11 +29597,11 @@ Chú thích người dịch: tiêu đề và đoạn này được dịch đầy
 
 Chú thích người dịch [15]
 
-Các dấu pe ở trang58–59 được giữ nguyên, kể cả dấu lược trong lời giải Miến. [CHƯA XÁC MINH] phần lược theo ấn bản được dẫn; chưa khôi phục nội dung. Theo dõi trong V2-Q009. Quay lại
+Các dấu *(như trên)* ở trang58–59 được giữ nguyên, kể cả dấu lược trong lời giải Miến. [CHƯA XÁC MINH] phần lược theo ấn bản được dẫn; chưa khôi phục nội dung. Theo dõi trong V2-Q009. Quay lại
 
 Chú thích người dịch [16]
 
-Giữ dấu pe trong câu Pāli tại trang61 và lời giải Miến tại trang64. [CHƯA XÁC MINH] đoạn lược theo ấn bản Milindapañhā được dẫn; không tự phục hồi theo trí nhớ. Các đoạn giải đầy đủ tại trang63 được dịch nguyên theo nguồn. Theo dõi V2-Q009. Quay lại
+Giữ dấu *(như trên)* trong câu Pāli tại trang61 và lời giải Miến tại trang64. [CHƯA XÁC MINH] đoạn lược theo ấn bản Milindapañhā được dẫn; không tự phục hồi theo trí nhớ. Các đoạn giải đầy đủ tại trang63 được dịch nguyên theo nguồn. Theo dõi V2-Q009. Quay lại
 
 Chú thích người dịch [17]
 
@@ -29693,7 +29693,7 @@ V2-Q032: thành ngữ Miến “ဆန်စင်ရာ ကျည်ပွေ�
 
 Chú thích người dịch [39]
 
-Tại V2-P436-05, V2-P436-07 và V2-P436-09, nguyên tác có dấu lược pe. Bản dịch giữ dấu […] tương ứng; chưa xác minh và không phục dựng phần bị lược. Quay lại
+Tại V2-P436-05, V2-P436-07 và V2-P436-09, nguyên tác có dấu lược *(như trên)*. Bản dịch giữ dấu […] tương ứng; chưa xác minh và không phục dựng phần bị lược. Quay lại
 
 Chú thích người dịch [40]
 
@@ -29701,7 +29701,7 @@ V2-Q033, Miến442/PDF472, V2-P442-05: thành ngữ “ပိုးသာကု�
 
 Chú thích người dịch [41]
 
-Miến448–449/PDF478–479 có dấu lược pe trong trích dẫn và phần diễn nghĩa. Bản dịch giữ […] tương ứng, chưa phục dựng phần lược. Phần Pāḷi sabbakāyapaṭisaṃvedī dịch “cảm nhận toàn thân”; lời giải riêng của tác giả về đầu–giữa–cuối hơi thở được giữ ở trang449, không thêm vào nguyên câu Pāḷi. Miến452/PDF482 cũng có pe trong trích dẫn và phần diễn nghĩa; giữ […] và chưa phục dựng. Quay lại
+Miến448–449/PDF478–479 có dấu lược *(như trên)* trong trích dẫn và phần diễn nghĩa. Bản dịch giữ […] tương ứng, chưa phục dựng phần lược. Phần Pāḷi sabbakāyapaṭisaṃvedī dịch “cảm nhận toàn thân”; lời giải riêng của tác giả về đầu–giữa–cuối hơi thở được giữ ở trang449, không thêm vào nguyên câu Pāḷi. Miến452/PDF482 cũng có *(như trên)* trong trích dẫn và phần diễn nghĩa; giữ […] và chưa phục dựng. Quay lại
 
 Chú thích người dịch [42]
 
@@ -29709,7 +29709,7 @@ V2-Q034, Miến471/PDF501,V2-P471-01: ảnh nguồn ghi “người có xúc hi�
 
 Chú thích người dịch [43]
 
-Miến475/PDF505: giữ các dấu lược pe bằng […] trong nghĩa Pāḷi của trích kinh Dīghanakha; chưa phục dựng đoạn lược. Những từ đặt trong ngoặc vuông chỉ nối ngữ pháp. Phần diễn nghĩa bằng tiếng Miến của tác giả viết đầy đủ từng loại thọ, được dịch riêng đúng phần nguồn hiện có. Miến476/PDF506 có pe trong diễn nghĩa tiếng Miến; cũng giữ […] tương ứng. Quay lại
+Miến475/PDF505: giữ các dấu lược *(như trên)* bằng […] trong nghĩa Pāḷi của trích kinh Dīghanakha; chưa phục dựng đoạn lược. Những từ đặt trong ngoặc vuông chỉ nối ngữ pháp. Phần diễn nghĩa bằng tiếng Miến của tác giả viết đầy đủ từng loại thọ, được dịch riêng đúng phần nguồn hiện có. Miến476/PDF506 có *(như trên)* trong diễn nghĩa tiếng Miến; cũng giữ […] tương ứng. Quay lại
 
 Chú thích người dịch [44]
 
@@ -29717,7 +29717,7 @@ V2-Q035. Miến481/PDF511,V2-P481-03: ảnh nguồn ghi cảnh sắc trong dòng
 
 Chú thích người dịch [45]
 
-Miến486/PDF516,V2-P486-04–05: giữ dấu lược pe của trích Pāḷi và của phần diễn nghĩa tiếng Miến bằng […]; không tự phục dựng những đoạn bị lược. Quay lại
+Miến486/PDF516,V2-P486-04–05: giữ dấu lược *(như trên)* của trích Pāḷi và của phần diễn nghĩa tiếng Miến bằng […]; không tự phục dựng những đoạn bị lược. Quay lại
 
 Chú thích người dịch [46]
 
@@ -31447,7 +31447,7 @@ Quay lại
 
 Chú thích nguyên tác [NT282]
 
-Ghi chú nguyên tác: Đoạn Pāli của kinh Sotānugata “Tassa… pe… visesagāmī hoti” nói về vị Tỷ-kheo đã học Giáo pháp gồm chín chi của Đức Phật, đã tự mình trực tiếp xuyên thấu và thấy biết sắc–danh–nhân–quả, tức các pháp hành, bằng cả hiểu biết do học và hiểu biết do thực hành; đang nỗ lực làm cho các trí minh sát chín muồi nhưng qua đời trước khi đạt đạo, quả, Niết-bàn; đoạn kinh trình bày việc vị ấy sinh lên cõi trời và đạt pháp thù thắng. Đây không phải là đoạn kinh dẫn chứng trực tiếp việc sinh vào cõi Phạm thiên gọi là abyāpajjaloka. Vì muốn chỉ rõ đoạn kinh được dùng làm phương pháp minh họa việc có phần đạt pháp thù thắng, tức visesagāmī, vị chú giải sư giải thích: “iminā nayena — theo phương pháp này được dạy trong kinh Sotānugata”. Cũng như người sinh lên cõi trời, người sinh ở cõi Phạm thiên ấy có thể còn chậm ở giai đoạn nhớ lại pháp từng tu tập khi còn là Tỷ-kheo ở cõi người. Nhưng ngay khi niệm sinh, khi nhớ lại, việc đạt pháp thù thắng rất nhanh chóng. Vì vậy, ý muốn nói thiện sinh khởi nương vào việc tái tục ở cõi Phạm thiên sắc giới chỉ là thiện tương ưng trí.
+Ghi chú nguyên tác: Đoạn Pāli của kinh Sotānugata “Tassa *(như trên)* visesagāmī hoti” nói về vị Tỷ-kheo đã học Giáo pháp gồm chín chi của Đức Phật, đã tự mình trực tiếp xuyên thấu và thấy biết sắc–danh–nhân–quả, tức các pháp hành, bằng cả hiểu biết do học và hiểu biết do thực hành; đang nỗ lực làm cho các trí minh sát chín muồi nhưng qua đời trước khi đạt đạo, quả, Niết-bàn; đoạn kinh trình bày việc vị ấy sinh lên cõi trời và đạt pháp thù thắng. Đây không phải là đoạn kinh dẫn chứng trực tiếp việc sinh vào cõi Phạm thiên gọi là abyāpajjaloka. Vì muốn chỉ rõ đoạn kinh được dùng làm phương pháp minh họa việc có phần đạt pháp thù thắng, tức visesagāmī, vị chú giải sư giải thích: “iminā nayena — theo phương pháp này được dạy trong kinh Sotānugata”. Cũng như người sinh lên cõi trời, người sinh ở cõi Phạm thiên ấy có thể còn chậm ở giai đoạn nhớ lại pháp từng tu tập khi còn là Tỷ-kheo ở cõi người. Nhưng ngay khi niệm sinh, khi nhớ lại, việc đạt pháp thù thắng rất nhanh chóng. Vì vậy, ý muốn nói thiện sinh khởi nương vào việc tái tục ở cõi Phạm thiên sắc giới chỉ là thiện tương ưng trí.
 
 Quay lại
 
@@ -35919,7 +35919,7 @@ E / PDF 21, V2-E-04–05. [CHƯA XÁC MINH] Unicode thêm câu Pāli Na tvevāha
 
 V2-Q009 · Nguồn
 
-Các dẫn chiếu, niên đại đợt001–006, gồm lời dẫn A–N và chính văn1–65; dấu pe tại43,58–59,61,64. Đợt007, chính văn66–80: dấu lược … tại66,69; các dẫn chiếu NT159–168. Đợt008 Miến81–95: các dẫn chiếu NT169–179; dấu gạch cuối trích dẫn tại92 giữ như hình, chưa triển khai văn bản ngoài sách. Đợt009 Miến96–110: các dẫn chiếu NT180–200; dấu lược sau sappītikāni tại106 giữ như hình, chưa triển khai văn bản ngoài sách. Đợt010 Miến111–125: NT201–217 đã chép theo hình, chưa thẩm tra riêng ấn bản dẫn. Đợt011 Miến126–140: NT218–246 chép theo hình, chưa thẩm tra ấn bản ngoài. Miến128/PDF158 giữ số trang dẫn174 theo hình; Unicode ghi147. Đợt012 Miến141–155: NT247–268 chép/dịch theo hình nguồn; chưa thẩm tra riêng ấn bản dẫn. Hai ghi chú có dấu sao tại148,151 lưu thành chú thích nguyên tác259–260. Đợt013 Miến156–170: NT269–292 theo hình; chưa thẩm tra riêng ấn bản dẫn. Giữ pe trong ghi chú nguyên tác167/NT282; giữ cả āpāthagatāni (āpātagatāni) ở169. Đợt014 Miến171–185: NT293–315 theo hình; chưa thẩm tra riêng ấn bản dẫn; giữ dấu lược173/183. Unicode đảo thứ tự sơ đồ184–185; bản dịch theo hình PDF. Đợt015 Miến186–200: NT316–323 theo hình, chưa thẩm tra riêng ấn bản dẫn; giữ pe tại192. Lời dẫn Visuddhimagga192 ghi226 theo PDF, Unicode phụ trợ ghi26. Đợt016 Miến201–215: dẫn chiếu theo hình, chưa thẩm tra riêng ấn bản dẫn; giữ các chỗ lược pe theo nguyên tác. Đợt017 Miến216–230: dẫn chiếu theo hình, chưa thẩm tra riêng ấn bản dẫn; giữ các chỗ lược pe theo nguyên tác. Đợt018 Miến231–245: dẫn chiếu theo hình, chưa thẩm tra riêng ấn bản dẫn; giữ các chỗ lược pe theo nguyên tác. Đợt019 Miến246–260: dẫn chiếu theo hình, chưa thẩm tra riêng ấn bản dẫn; giữ các chỗ lược pe theo nguyên tác. Đợt020 Miến261–275: dẫn chiếu theo hình, chưa thẩm tra riêng ấn bản dẫn; giữ các chỗ lược pe theo nguyên tác. Đợt021 Miến276–290: dẫn chiếu theo hình, chưa thẩm tra riêng ấn bản dẫn; giữ các chỗ lược pe theo nguyên tác. Đợt022 Miến291–305: dẫn chiếu theo hình, chưa thẩm tra riêng ấn bản dẫn; giữ các chỗ lược pe theo nguyên tác. Đợt023 Miến306–320: dẫn chiếu theo hình, chưa thẩm tra riêng ấn bản dẫn; giữ các chỗ lược pe theo nguyên tác. Cụm321–325: NT468–469 theo hình PDF, chưa thẩm tra riêng ấn bản Chú giải Abhidhamma1,tr.308. Đợt028:NT576–600 theoảnh, chưa kiểmấn bản dẫn; pe387/390 giữlược. 386/PDF416 có thứtự tâm diệt rồi tâm sinh,khácUnicode; theoảnh. 389dẫnMajjhimaA2,266; 391bàikệNetti khôngkèmtrangdẫn,khôngthêm từUnicode. Đợt029:NT601–617 theoảnh; chưa kiểm độc lập các ấn bản dẫn. 405 đã sửa dẫnMa.A.1,280 và Pariggahite rūpakammaṭṭhāne khi mở lạiảnh. Đợt030: dẫn nguyên tác đếnNT641 theoảnh, chưa xác minh độc lập ấn bản được dẫn. Đợt031: dẫn nguyên tác đếnNT682 theoảnh, chưa xác minh độc lập ấn bản được dẫn. Đợt032: dẫn nguyên tác đếnNT708 theoảnh, chưa xác minh độc lập ấn bản được dẫn. Đợt033: dẫn nguyên tác đếnNT742 theoảnh, chưa xác minh độc lập ấn bản được dẫn. Đợt034: dẫn nguyên tác đếnNT761 theoảnh, chưa xác minh độc lập ấn bản được dẫn. Đợt035: dẫn nguyên tác đếnNT789 theoảnh, chưa xác minh độc lập ấn bản được dẫn.. [CHƯA XÁC MINH] Chưa thẩm tra riêng các ấn bản được dẫn và quy đổi niên đại. Giữ nguyên các dẫn chiếu, niên đại, dị biệt javanānurūpaṃ/javanārammaṇānurūpaṃ tác giả nêu, và dấu pe; chưa đối chiếu riêng các ấn bản ngoài; chưa khôi phục phần bị lược.
+Các dẫn chiếu, niên đại đợt001–006, gồm lời dẫn A–N và chính văn1–65; dấu *(như trên)* tại43,58–59,61,64. Đợt007, chính văn66–80: dấu lược … tại66,69; các dẫn chiếu NT159–168. Đợt008 Miến81–95: các dẫn chiếu NT169–179; dấu gạch cuối trích dẫn tại92 giữ như hình, chưa triển khai văn bản ngoài sách. Đợt009 Miến96–110: các dẫn chiếu NT180–200; dấu lược sau sappītikāni tại106 giữ như hình, chưa triển khai văn bản ngoài sách. Đợt010 Miến111–125: NT201–217 đã chép theo hình, chưa thẩm tra riêng ấn bản dẫn. Đợt011 Miến126–140: NT218–246 chép theo hình, chưa thẩm tra ấn bản ngoài. Miến128/PDF158 giữ số trang dẫn174 theo hình; Unicode ghi147. Đợt012 Miến141–155: NT247–268 chép/dịch theo hình nguồn; chưa thẩm tra riêng ấn bản dẫn. Hai ghi chú có dấu sao tại148,151 lưu thành chú thích nguyên tác259–260. Đợt013 Miến156–170: NT269–292 theo hình; chưa thẩm tra riêng ấn bản dẫn. Giữ *(như trên)* trong ghi chú nguyên tác167/NT282; giữ cả āpāthagatāni (āpātagatāni) ở169. Đợt014 Miến171–185: NT293–315 theo hình; chưa thẩm tra riêng ấn bản dẫn; giữ dấu lược173/183. Unicode đảo thứ tự sơ đồ184–185; bản dịch theo hình PDF. Đợt015 Miến186–200: NT316–323 theo hình, chưa thẩm tra riêng ấn bản dẫn; giữ *(như trên)* tại192. Lời dẫn Visuddhimagga192 ghi226 theo PDF, Unicode phụ trợ ghi26. Đợt016 Miến201–215: dẫn chiếu theo hình, chưa thẩm tra riêng ấn bản dẫn; giữ các chỗ lược *(như trên)* theo nguyên tác. Đợt017 Miến216–230: dẫn chiếu theo hình, chưa thẩm tra riêng ấn bản dẫn; giữ các chỗ lược *(như trên)* theo nguyên tác. Đợt018 Miến231–245: dẫn chiếu theo hình, chưa thẩm tra riêng ấn bản dẫn; giữ các chỗ lược *(như trên)* theo nguyên tác. Đợt019 Miến246–260: dẫn chiếu theo hình, chưa thẩm tra riêng ấn bản dẫn; giữ các chỗ lược *(như trên)* theo nguyên tác. Đợt020 Miến261–275: dẫn chiếu theo hình, chưa thẩm tra riêng ấn bản dẫn; giữ các chỗ lược *(như trên)* theo nguyên tác. Đợt021 Miến276–290: dẫn chiếu theo hình, chưa thẩm tra riêng ấn bản dẫn; giữ các chỗ lược *(như trên)* theo nguyên tác. Đợt022 Miến291–305: dẫn chiếu theo hình, chưa thẩm tra riêng ấn bản dẫn; giữ các chỗ lược *(như trên)* theo nguyên tác. Đợt023 Miến306–320: dẫn chiếu theo hình, chưa thẩm tra riêng ấn bản dẫn; giữ các chỗ lược *(như trên)* theo nguyên tác. Cụm321–325: NT468–469 theo hình PDF, chưa thẩm tra riêng ấn bản Chú giải Abhidhamma1,tr.308. Đợt028:NT576–600 theoảnh, chưa kiểmấn bản dẫn; pe387/390 giữlược. 386/PDF416 có thứtự tâm diệt rồi tâm sinh,khácUnicode; theoảnh. 389dẫnMajjhimaA2,266; 391bàikệNetti khôngkèmtrangdẫn,khôngthêm từUnicode. Đợt029:NT601–617 theoảnh; chưa kiểm độc lập các ấn bản dẫn. 405 đã sửa dẫnMa.A.1,280 và Pariggahite rūpakammaṭṭhāne khi mở lạiảnh. Đợt030: dẫn nguyên tác đếnNT641 theoảnh, chưa xác minh độc lập ấn bản được dẫn. Đợt031: dẫn nguyên tác đếnNT682 theoảnh, chưa xác minh độc lập ấn bản được dẫn. Đợt032: dẫn nguyên tác đếnNT708 theoảnh, chưa xác minh độc lập ấn bản được dẫn. Đợt033: dẫn nguyên tác đếnNT742 theoảnh, chưa xác minh độc lập ấn bản được dẫn. Đợt034: dẫn nguyên tác đếnNT761 theoảnh, chưa xác minh độc lập ấn bản được dẫn. Đợt035: dẫn nguyên tác đếnNT789 theoảnh, chưa xác minh độc lập ấn bản được dẫn.. [CHƯA XÁC MINH] Chưa thẩm tra riêng các ấn bản được dẫn và quy đổi niên đại. Giữ nguyên các dẫn chiếu, niên đại, dị biệt javanānurūpaṃ/javanārammaṇānurūpaṃ tác giả nêu, và dấu *(như trên)*; chưa đối chiếu riêng các ấn bản ngoài; chưa khôi phục phần bị lược.
 
 V2-Q010 · Nguồn
 

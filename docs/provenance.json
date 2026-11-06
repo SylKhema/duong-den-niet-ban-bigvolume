@@ -12,7 +12,7 @@
       "ids": 10710,
       "source_content_changed": false,
       "semantic_review_performed": false,
-      "content_sha256": "371dfa500ae3ff8a57789532a4dd3fc378c404385dba83bc1677fb8903bf2791"
+      "content_sha256": "8998300551b90bb6777c6e7c8076da97f3ce46b55f47ef751f3d215b28e97576"
     },
     {
       "vol": 2,
@@ -24,7 +24,7 @@
       "ids": 9160,
       "source_content_changed": false,
       "semantic_review_performed": false,
-      "content_sha256": "7a31c7645872622c9eefa74266c6c6258fdae8ca39f897174d23948ba34fee31"
+      "content_sha256": "5bb334ed2e103b569e16fb9639bce548c32f4d54577657fd98b7384be3369259"
     },
     {
       "vol": 3,
@@ -36,7 +36,7 @@
       "ids": 9905,
       "source_content_changed": false,
       "semantic_review_performed": false,
-      "content_sha256": "beeeeaf29ab7f82949933a18c6eacdc33deeb67cbc75e1c034a9d8ee61cc74c1"
+      "content_sha256": "2fa8ed95b7c20aa4e147372c052908d7e4b8c70b0c6713115f50d2cd9c9e59f5"
     },
     {
       "vol": 4,
@@ -48,7 +48,7 @@
       "ids": 9144,
       "source_content_changed": false,
       "semantic_review_performed": false,
-      "content_sha256": "2a1d9b9aa09b084f3dbf7c16df431f454719877d85277bc98c061e9cf407b000"
+      "content_sha256": "a603088d1da910f30130e56e856353d2e8a99db621903b76de759e13cdc1e811"
     },
     {
       "vol": 5,
@@ -60,48 +60,48 @@
       "ids": 7341,
       "source_content_changed": false,
       "semantic_review_performed": false,
-      "content_sha256": "c25c701623a1eb483b6dd609ea714d7021a767f81cc1bd962ea7d32050050e3a"
+      "content_sha256": "669584c8ef2d6aa0d083ef9404b9cfbcad7420f99baa04252f2db873e08a930a"
     }
   ],
   "pdfs": [
     {
       "vol": 1,
       "pdf": "downloads/tap-1.pdf",
-      "pdfPages": 899,
-      "pdfSha256": "1726efc62e7db339359df15ea1280a59f7429867fe0d8e966f1c905d814518e8",
-      "pdfLabel": "979 trang bản Việt · Bản PDF đã lưu của tập",
+      "pdfPages": 900,
+      "pdfSha256": "51f27f3d9fd98a5b8d3078e82d8e68e1921bef09797ae750e47ee2d6ec511e02",
+      "pdfLabel": "900 trang bản Việt · Có mục lục",
       "terminology_revision": "2026-11-04"
     },
     {
       "vol": 2,
       "pdf": "downloads/tap-2.pdf",
-      "pdfPages": 768,
-      "pdfSha256": "138e0c8425252f14eb714a8be4f7b90549d08c7077bb43f8076eb5da94f9210d",
-      "pdfLabel": "765 trang bản Việt · Bản xuất từ website15, ngày30-10-2026",
+      "pdfPages": 769,
+      "pdfSha256": "ec78f821cc0d4274312ed8e4c209d02f978d6e15a8927a9970d01b1ec5e91897",
+      "pdfLabel": "769 trang bản Việt · Có mục lục",
       "terminology_revision": "2026-11-04"
     },
     {
       "vol": 3,
       "pdf": "downloads/tap-3.pdf",
       "pdfPages": 652,
-      "pdfSha256": "93c6d660dfa38254c11bc937a427ba3e9fbb866cff7d26dc43989eeac3357ae5",
-      "pdfLabel": "666 trang bản Việt · Bản PDF đã lưu của tập",
+      "pdfSha256": "72da43bbf31bb5709bc91fbe58887f3ccb90c91106a465ca5e721922e8161615",
+      "pdfLabel": "652 trang bản Việt · Có mục lục",
       "terminology_revision": "2026-11-04"
     },
     {
       "vol": 4,
       "pdf": "downloads/tap-4.pdf",
       "pdfPages": 570,
-      "pdfSha256": "d847f7cbe11c32757e72279d2662e32e2cce846223d5fff79178a3e5314be96b",
-      "pdfLabel": "611 trang bản Việt · Bản PDF đã lưu của tập",
+      "pdfSha256": "55514df0dc5bac1b3b2b7d10e136a927cf805a18b33da9d19160041c80df5120",
+      "pdfLabel": "570 trang bản Việt · Có mục lục",
       "terminology_revision": "2026-11-04"
     },
     {
       "vol": 5,
       "pdf": "downloads/tap-5.pdf",
-      "pdfPages": 500,
-      "pdfSha256": "8d3de0fe2faf021e1e60ad72f4ff47243b8687cdf41c69804941e675f89425b7",
-      "pdfLabel": "605 trang bản Việt · Bản PDF đã lưu của tập",
+      "pdfPages": 501,
+      "pdfSha256": "1a86d9b94479a963dd158c384f4cd4648e35fb22007c99ca666fb164e406ff72",
+      "pdfLabel": "501 trang bản Việt · Có mục lục",
       "terminology_revision": "2026-11-04"
     }
   ],

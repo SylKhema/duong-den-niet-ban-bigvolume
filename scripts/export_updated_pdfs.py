@@ -7,7 +7,7 @@ from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.lib.enums import TA_LEFT
 ROOT=Path(__file__).resolve().parents[1];WEB=ROOT/'docs'
-for name,file in [('Book','DejaVuSerif.ttf'),('Book-Bold','DejaVuSerif-Bold.ttf'),('Book-Italic','DejaVuSerif.ttf'),('Book-BoldItalic','DejaVuSerif-Bold.ttf')]:pdfmetrics.registerFont(TTFont(name,'/usr/share/fonts/truetype/dejavu/'+file))
+for name,file in [('Book','DejaVuSerif.ttf'),('Book-Bold','DejaVuSerif-Bold.ttf'),('Book-Italic','DejaVuSerif-Italic.ttf'),('Book-BoldItalic','DejaVuSerif-BoldItalic.ttf')]:pdfmetrics.registerFont(TTFont(name,'/usr/share/fonts/truetype/dejavu/'+file))
 pdfmetrics.registerFontFamily('Book',normal='Book',bold='Book-Bold',italic='Book-Italic',boldItalic='Book-BoldItalic')
 pdfmetrics.registerFont(TTFont('Myanmar',str(WEB/'fonts/NotoSerifMyanmar-Regular.ttf')))
 styles={k:ParagraphStyle(k,fontName='Book',fontSize=size,leading=size*1.5,spaceAfter=6,keepWithNext=k.startswith('h'),textColor='#263d33') for k,size in [('p',10),('h1',20),('h2',14),('h3',12),('small',8)]}
@@ -51,7 +51,7 @@ for i in ([int(sys.argv[1])] if len(sys.argv)>1 else range(1,6)):
     walk(child,notes)
     if (child.tail or '').strip():story.append(Paragraph(escape(child.tail),styles['small' if notes else 'p']))
  story += [Paragraph(title,styles['h1']),Paragraph('Pa-Auk Tawya Sayadaw · Bản dịch Việt ngữ',styles['p']),Paragraph('Hiệu đính thuật ngữ: kammaṭṭhāna — đề mục; samatha — thiền chỉ.',styles['small']),Paragraph('Mục lục',styles['h2'])]
- for r in b['toc']:story.append(Paragraph('<link href="#'+r['target']+'">'+escape(r['title'])+' — '+escape(str(r.get('printed','')))+'</link>',styles['small']))
+ for r in b['toc']:story.append(Paragraph('<link href="#'+r['target']+'">'+escape(r['title']).replace('(như trên)','<i>(như trên)</i>')+' — '+escape(str(r.get('printed','')))+'</link>',styles['small']))
  for p in b['pages']:
   story.append(Paragraph('Tập '+b['roman']+' — Miến '+escape(str(p['printed']))+' — PDF nguồn '+str(p['pdf']),styles['small']))
   walk(LH.fragment_fromstring(p['html'],create_parent='div'))

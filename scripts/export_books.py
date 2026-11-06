@@ -104,7 +104,13 @@ def make_epub(book, parts):
         while len(stack)>1 and stack[-1][0]>=depth:stack.pop()
         parent=stack[-1][1]
         li=etree.SubElement(parent,'{'+NS+'}li')
-        etree.SubElement(li,'{'+NS+'}a',href=link).text=row['title']
+        anchor = etree.SubElement(li,'{'+NS+'}a',href=link)
+        label_parts = row['title'].split('(như trên)')
+        anchor.text = label_parts[0]
+        for tail in label_parts[1:]:
+            marker = etree.SubElement(anchor,'{'+NS+'}em')
+            marker.text = '(như trên)'
+            marker.tail = tail
         sub=etree.SubElement(li,'{'+NS+'}ol');stack.append((depth,sub))
         np=etree.SubElement(navmap,'navPoint',id=f'nav-{ix}',playOrder=str(ix+1))
         etree.SubElement(etree.SubElement(np,'navLabel'),'text').text=row['title']
@@ -156,7 +162,7 @@ def make_html(book):
     def render(nodes):
         result=[]
         for n in nodes:
-            a='<a href="#'+escape(n['target'],quote=True)+'">'+escape(n['title'])+' <small>'+escape(str(n.get('printed','')))+'</small></a>'
+            a='<a href="#'+escape(n['target'],quote=True)+'">'+escape(n['title']).replace('(như trên)', '<em>(như trên)</em>')+' <small>'+escape(str(n.get('printed','')))+'</small></a>'
             result.append('<div class="toc-row">'+('<details><summary>'+a+'</summary><div class="toc-children">'+render(n['children'])+'</div></details>' if n['children'] else a)+'</div>')
         return ''.join(result)
     content=''.join('<div class="book-page"><p class="source-line">Tập '+book['roman']+' — Miến '+escape(str(p['printed']))+' — PDF nguồn '+str(p['pdf'])+'</p>'+p['html']+'</div>' for p in book['pages'])
@@ -182,9 +188,9 @@ def main():
         sections+=['CHÚ THÍCH VÀ HỒ SƠ',text(book['notesHtml'])]
         plain='\n\n'.join(sections)+'\n'
         txt=OUT/'unicode'/f'tap-{i}.txt';txt.write_text(plain,encoding='utf-8')
-        # Markdown fenced plain text preserves brackets, tables and technical notes literally.
+        markdown = [section.replace('(như trên)', '*(như trên)*') for section in sections]
         md=OUT/'unicode'/f'tap-{i}.md'
-        md.write_text('# '+title+'\n\n> Bản Unicode UTF-8. JSON trong docs/books giữ cấu trúc, mã đoạn và liên kết đầy đủ.\n\n'+'\n\n'.join(sections[1:])+'\n',encoding='utf-8')
+        md.write_text('# '+title+'\n\n> Bản Unicode UTF-8. JSON trong docs/books giữ cấu trúc, mã đoạn và liên kết đầy đủ.\n\n'+'\n\n'.join(markdown[1:])+'\n',encoding='utf-8')
         epub=make_epub(book,chunks(book));offline=make_html(book)
         reports.append({'vol':i,'source_json_sha256':hashlib.sha256(source.read_bytes()).hexdigest(),'source_page_markers':len(book['pages']),'toc_entries':len(book['toc']),'unicode_characters':len(plain),'epub_bytes':epub.stat().st_size,'offline_html_bytes':offline.stat().st_size})
         print('Exported',i,flush=True)
