@@ -34,3 +34,23 @@
 - 15-page window 1 (printed 2–16) is complete at the draft/self-collation stage. Windows 2 (17–31) and 3 (32–46) remain pending from the earlier 3 × 15 instruction. Next body group is `V1-17-01`, printed 17 / PDF 44.
 - Front matter still has gaps: remaining contents PDF 8–16 and introduction C–K / PDF 19–27. No public English publication milestone has been declared.
 - Chromium checks reached p. 16 and verified the new English note links. They exposed duplicate heading IDs when a heading preceded the next paragraph anchor. Fixed ID preservation across the entire source page. The desktop bilingual screenshot was inspected. A mobile preview toolbar overflow was also corrected by giving the language control room in the header.
+
+## Two remaining 15-page batches completed
+
+| Batch | Printed pages | PDF pages | Groups |
+|---|---|---|---|
+| Second 15-page window | 17–31 | 44–58 | 97 |
+| Third 15-page window | 32–46 | 59–73 | 86 |
+| Sentence completion | start of 47 | 74 | 1 |
+
+- Source images for PDF 44–73 were opened during translation and reopened for self-collation. PDF 74 was also read to complete the sentence crossing the requested end boundary. The added content is 184 alignment groups. Total pilot content is 306 groups, including the earlier opening leaves and introduction.
+- Source PDF remains SHA-256 `5f60fdb193d205dd5fd1ff8657c15a5d9f0a6bcfaf67f95ae91d577707cc5366`. Continuous body draft and self-collation now reach printed 46, plus the completed sentence `V1-47-01`. Next group is `V1-47-02`, printed 47 / PDF 74, beginning the Khadirapatta and Kūṭāgāra extracts.
+- Kept the Pāli quotations, separate Burmese expositions, repeated lists, five characteristics on p. 32, fifty characteristics on pp. 30–32, the two kinds of cessation, and the source’s “four mundane truths” qualification on p. 46. Preserved abbreviated quotations rather than supplying omitted words.
+- Source pointers 58–141 were transcribed and attached to their groups. They identify the editions as cited in the Burmese book; those editions have not all been independently inspected.
+- V1-EN-Q002: printed 25 / PDF 52. The unit doṇa and Burmese “seit” remain provisional as in the inherited Vietnamese issue Q015. No modern conversion was added.
+- V1-EN-T001: printed 44–46 / PDF 71–73. Proposed contextual renderings `anubodhañāṇa` = “knowledge of understanding” and `paṭivedhañāṇa` = “knowledge of penetration”. These remain editorial proposals. The Pāli says “sees” at the start of p. 44, while the author’s following Burmese gloss uses “knows”; that distinction is retained.
+- V1-EN-T002: printed 39–40 / PDF 66–67. `anuppādanirodha` = “cessation without renewed arising”; `uppādanirodha` = “cessation after arising”, following the author’s explicit Burmese distinction. Context-specific wording, subject to editorial review.
+- The original open homage reading, introduction bibliographic identity, right-view quotation reference, and `nirodhanirodhī` issue remain pending. The final inherited issue register still requires reconciliation. No independent review or editorial approval is claimed.
+- The requested three 15-page windows, printed 2–16, 17–31 and 32–46, are now complete as English draft and self-collation, with the boundary continuation noted above. Publication remains gated because remaining contents PDF 8–16, introduction C–K / PDF 19–27, and the stated editorial questions remain outstanding.
+- Validation passed for complete alignment-key coverage of all 30 pages, unique English IDs, all note targets and return links, and source-page metadata. All preceding English groups and Vietnamese book/download files compare unchanged.
+- Chromium desktop/mobile checks passed with the expanded content: existing Vietnamese anchors, explicit language URLs, language changes at a deep paragraph, two-column and stacked layouts, untranslated-location fallback, note 134 through the boundary continuation on p. 47, reload and English search for `phalūpacāra`. A block-by-block comparison of the rendered Vietnamese columns against the source HTML on pp. 17–46 found no text differences. Desktop and mobile screenshots were visually inspected.
