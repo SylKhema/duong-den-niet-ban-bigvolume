@@ -32,7 +32,7 @@ document.addEventListener('click',e=>{
  if(e.target.closest('[data-open-feedback]')){openForm();return;}
  if(e.target.closest('a,button,input,textarea,select,summary,dialog'))return;
  const p=e.target.closest('.book-page p,.book-page li,.book-page td,.book-page th,.book-page h2,.book-page h3');
- if(!p||!activeVol||p.closest('.source-line'))return;
+ if(!p||!activeVol||p.closest('.source-line,[lang="en"]'))return;
  const excerpt=p.textContent.trim();if(excerpt.length<3)return;
  const page=p.closest('.book-page'),pageId=page.dataset.pageId;
  let anchor=p.id||p.closest('article[id]')?.id||p.querySelector('.paragraph-anchor[id]')?.id;

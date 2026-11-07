@@ -1,7 +1,7 @@
 {
   "volume": 1,
   "status": "review",
-  "coverage": "Cover and opening pages (PDF 1–5), first contents leaf (PDF 6), and the first body section (Burmese p. 1 / PDF 28).",
+  "coverage": "Cover and opening leaves (PDF 1–5), first two contents leaves (PDF 6–7), introduction A–B (PDF 17–18), and the opening homage plus direct and inferential knowledge (printed pp. 1–2 / PDF 28–29, through the paragraph before the Upanisā quotation). Review draft with gaps.",
   "pages": {
     "v1-front-1": {
       "V1-FRONT-01-01": "<p><strong>Nibbānagāminipaṭipadā</strong></p><p><strong>The Practice Leading to Nibbāna — Volume I</strong></p><p>One Auspicious Night · How to Establish Concentration</p><p>Concentration through Mindfulness of Breathing · Materiality Meditation</p><p><strong>Pa-Auk Tawya Sayadaw</strong></p>"
@@ -27,6 +27,31 @@
       "V1-1-02": "<h3 id=\"v1-p1-heading-3\">The Great Homage — Homage to the Buddha</h3><p><i lang=\"pi\">Munindakko yeko dayudayaruṇo ñāṇavitthiṇṇabimbo,</i><br><i lang=\"pi\">vineyyappāṇoghaṃ kamalakathitaṃ dhammaraṃsivarehi;</i><br><i lang=\"pi\">subodhesi suddhe tibhavakuhare byāpitakkittinañca,</i><br><i lang=\"pi\">tilokekacakkhuṃ dukhamasahānaṃ taṃ mahesiṃ namāmi.</i></p><p>I bow to that great seer, the sun who is lord of sages. His dawn is compassion and his vast disc is knowledge. With the excellent rays of the Dhamma he brought to full bloom the multitude of beings fit to be guided, likened to lotuses in the clear pool of the three realms of existence. His renown spread far. He is the sole eye of the three worlds and endures what is hard to endure.</p><p><a id=\"en-homage-ref\" href=\"#en-homage-note\">Translator’s note</a></p>",
       "V1-1-03": "<p><i lang=\"pi\">Dayudayaruṇo</i> — Having as his newly risen dawn the attainment of great compassion. <i lang=\"pi\">Ñāṇavitthiṇṇabimbo</i> — Having as his vast solar disc the knowledge of omniscience. <i lang=\"pi\">Eko</i> — Arising and appearing alone, without an equal in the ten thousand world systems. <i lang=\"pi\">Yo munindakko</i> — That sun who is lord of sages, the Buddha. <i lang=\"pi\">Suddhe</i> — Clear, pure, cool and limpid. <i lang=\"pi\">Tibhavakuhare</i> — In the lotus pool of the three realms of existence: sensual, fine-material and immaterial. <i lang=\"pi\">Nibbattaṃ</i> — Having arisen and grown through the impetus of kamma associated with the perfections. <i lang=\"pi\">Kamalakathitaṃ</i> — Called lotuses. <i lang=\"pi\">Vineyyappāṇoghaṃ</i> — The multitude of beings who may be led to liberation, the lotuses that are human beings, deities and brahmās. <i lang=\"pi\">Dhammaraṃsivarehi</i> — With the excellent rays of the Dhamma, his noble discourses that lead to the attainment of path and fruition and enable one to see Nibbāna. <i lang=\"pi\">Subodhesi</i> — He brought them to full bloom, enabling them to penetrate and see the Four Noble Truths.</p>",
       "V1-1-04": "<p><i lang=\"pi\">Byāpitakkittinañca</i> — His renown was manifest throughout the ten thousand world systems, up to the brahmā realms, through his unsurpassed qualities of morality, concentration and wisdom. <i lang=\"pi\">Tilokekacakkhuṃ</i> — He is the sole eye of the three worlds, of brahmās, deities and human beings. <i lang=\"pi\">Dukhamasahānaṃ</i> — Like the great earth, he could endure what is hard to endure. <i lang=\"pi\">Mahesiṃ</i> — He sought and cultivated exceptional qualities: the aggregates of morality, concentration, wisdom, liberation, and knowledge and vision of liberation. <i lang=\"pi\">Taṃ munindakkaṃ</i> — That sun who is lord of sages, the Buddha. <i lang=\"pi\">Ahaṃ</i> — I, your disciple. <i lang=\"pi\">Namāmi</i> — With the three volitions of body, speech and mind, and with a clear, trusting heart, I respectfully lower myself, subdue pride and bow to you, venerable Buddha.</p>"
+    },
+    "v1-pA": {
+      "V1-A-01": "<h3 id=\"en-introduction\">Introduction (Nidānakathā) — The Reasons for This Work</h3><p><i lang=\"pi\">Namo tassa bhagavato arahato sammāsambuddhassa.</i></p><p>Homage to the Blessed One, the Worthy One, the Perfectly Enlightened One.</p><p>Nibbānagāminipaṭipadā — Volume I</p>",
+      "V1-A-02": "<p><i lang=\"pi\">Yaṃ passati na taṃ diṭṭhaṃ, yaṃ diṭṭhaṃ taṃ na passati; apassaṃ bajjhate mūḷho, bajjhamāno na muccati.</i></p><p>What one sees is not what should be seen. What should be seen, one does not see. Failing to see, the deluded one is bound. While bound, one does not gain release.<sup><a class=\"note-ref\" id=\"en-ref-1\" href=\"#en-note-1\" aria-label=\"Source reference 1\">1</a></sup></p>",
+      "V1-A-03": "<p><i lang=\"pi\">Loko</i> — People who are blind in the eye of wisdom that penetrates ultimate reality. <i lang=\"pi\">Yaṃ</i> — Whatever man or woman. <i lang=\"pi\">Passati</i> — Sees mistakenly, taking what is seen for a man or a woman. <i lang=\"pi\">Taṃ</i> — That man or woman whom those blind in the eye of wisdom that penetrates ultimate reality mistakenly perceive. <i lang=\"pi\">Diṭṭhaṃ</i> — What truly ought to be seen and deserves to be seen with the eye of wisdom that penetrates ultimate reality. <i lang=\"pi\">Na</i> — Is not.</p>",
+      "V1-A-04": "<p><i lang=\"pi\">Yaṃ</i> — (a) Whatever visible form, (b) whatever collection of body parts beginning with head hair, or (c) whatever collection of great essentials and derived materiality. <i lang=\"pi\">Diṭṭhaṃ</i> — What the wise truly ought to see and what deserves to be seen with the eye of wisdom that penetrates ultimate reality.</p>",
+      "V1-A-05": "<p><i lang=\"pi\">Taṃ</i> — (a) That visible form, (b) that collection of body parts beginning with head hair, or (c) that collection of great essentials and derived materiality that the wise truly ought to see and that deserves to be seen with the eye of wisdom that penetrates ultimate reality. <i lang=\"pi\">Loko</i> — People blind in the eye of wisdom that penetrates ultimate reality. <i lang=\"pi\">Paññācakkhunā</i> — With the eye of wisdom that penetrates ultimate reality. <i lang=\"pi\">Bhūtato</i> — In accordance with reality. <i lang=\"pi\">Na passati</i> — Does not know or see.</p>",
+      "V1-A-06": "<p><i lang=\"pi\">Apassaṃ</i> — Not knowing or seeing things as they are with the eye of wisdom that penetrates ultimate reality. <i lang=\"pi\">Mūḷho</i> — One who is deluded, perceiving things wrongly. <i lang=\"pi\">Bajjhate</i> — Is bound by craving. <i lang=\"pi\">Bajjhamāno</i> — One being bound by craving. <i lang=\"pi\">Na muccati</i> — Cannot escape the suffering of the round of defilements or the suffering of the round of saṃsāra.<sup><a class=\"note-ref\" id=\"en-ref-2\" href=\"#en-note-2\" aria-label=\"Source reference 2\">2</a></sup></p>",
+      "V1-A-07": "<p>Someone blind in the eye of wisdom that penetrates ultimate reality fails to know things as they are with that eye. Such a person fails to recognise visible form as visible form, the collection of body parts beginning with head hair as the collection of body parts beginning with head hair, the material body (rūpakāya), the collection of instances of materiality as a collection of great essentials and derived materiality, the mental body (nāmakāya), the collection of instances of mentality as the mental body (nāmakāya), the collection of instances of mentality, the collection of causes and effects as the collection of causes and effects, the collections of impermanent, suffering, non-self and foul phenomena as collections of impermanent phenomena, of suffering phenomena, of non-self phenomena and of foul phenomena. Instead, being deluded, that person mistakenly perceives a man, a woman and so forth. For one who sees mistakenly and is thus deluded, in relation to those men, women and…</p>"
+    },
+    "v1-pB": {
+      "V1-B-01": "<p>…those other objects, craving, the attachment that clings to them, entwines and binds that person. One who is entwined and bound by craving cannot escape this saṃsāra, in which the three rounds, the round of defilements (kilesavaṭṭa), the round of kamma (kammavaṭṭa), and the round of results (vipākavaṭṭa), turn without interruption.</p>",
+      "V1-B-02": "<p>A good person endowed with the knowledge of right view, the eye of wisdom that penetrates ultimate reality, sees as follows.</p>",
+      "V1-B-03": "<ol><li>Visible form as visible form.</li><li>The collection of body parts beginning with head hair as the collection of body parts beginning with head hair.</li><li>The material body (rūpakāya), the collection of instances of materiality as a collection of great essentials and derived materiality.</li><li>The mental body (nāmakāya), the collection of instances of mentality as the mental body (nāmakāya), the collection of instances of mentality.</li><li>The collection of causes and effects as the collection of causes and effects.</li><li>The collections of impermanent, suffering, non-self and foul phenomena as collections of impermanent phenomena, of suffering phenomena, of non-self phenomena and of foul phenomena.</li></ol>",
+      "V1-B-04": "<p>With the knowledge of right view, the eye of wisdom that penetrates ultimate reality, this person directly penetrates, knows and sees for themselves. Craving cannot bind a good person who penetrates, knows and sees in this way without delusion. Free from the entanglement and bondage of craving, such a person can escape the defilements and the suffering of the round of saṃsāra.</p>",
+      "V1-B-05": "<p>This is the meaning of the verse above.</p>",
+      "V1-B-06": "<p>The vision of a person blind in the eye of wisdom, whose knowledge and vision fall short of ultimate reality, differs from that of a good person endowed with the eye of wisdom, the knowledge of right view that reaches ultimate reality. A person blind in the eye of wisdom does not see as far as ultimate reality. A good person endowed with that eye sees all the way to ultimate reality.</p>",
+      "V1-B-07": "<p>Taking this verse as their basis, the good people of old said:</p><ol><li>Though one sees, one does not see.</li><li>Though one hears, one does not hear.</li><li>Though one smells, one does not smell.</li><li>Though one relishes a taste, one does not know the taste.</li><li>Though one touches, one does not know.</li><li>Though one knows, one does not know.</li></ol><p>In this way they spoke of mistaken perception with respect to all six kinds of objects.<sup><a class=\"note-ref\" id=\"en-ref-4\" href=\"#en-note-4\" aria-label=\"Source reference 4\">4</a></sup></p>"
+    },
+    "v1-p2": {
+      "V1-2-01": "<h3 id=\"v1-p2-heading-1\">One Auspicious Night (Bhaddekaratta Sutta)</h3><p>Before presenting the section on the Bhaddekaratta Sutta, I will first explain direct knowledge (paccakkhañāṇa) and inferential knowledge (anvayañāṇa). Meditators should know about these beforehand in connection with contemplating the past and the future.</p>",
+      "V1-2-02": "<h3 id=\"v1-p2-heading-2\">Direct Knowledge and Inferential Knowledge</h3><p><i lang=\"pi\">Aniccato manasikaroto adhimokkhabahulassa saddhindriyaṃ ādhipateyyaṃ hoti, bhāvanāya cattārindriyāni tadanvayā honti, …</i></p><p>For one who attends to things as impermanent and is strong in resolution, the faculty of faith takes the leading role. Through development, the other four faculties follow it, …<sup><a class=\"note-ref\" id=\"en-ref-19\" href=\"#en-note-19\" aria-label=\"Source reference 19\">19</a></sup></p><p><i lang=\"pi\">Tadanvayā hontīti taṃ anugāminī taṃ anuvattinī honti.</i></p><p>“They follow it” means that they go after it and conform to it.<sup><a class=\"note-ref\" id=\"en-ref-20\" href=\"#en-note-20\" aria-label=\"Source reference 20\">20</a></sup></p>",
+      "V1-2-03": "<p><i lang=\"pi\">Paññavato bhikkhave ariyasāvakassa tadanvayā saddhā saṇṭhāti, …</i></p><p>Bhikkhus, in a noble disciple endowed with wisdom, faith becomes established in conformity with that wisdom, …<sup><a class=\"note-ref\" id=\"en-ref-21\" href=\"#en-note-21\" aria-label=\"Source reference 21\">21</a></sup></p><p><i lang=\"pi\">Tadanvayāti taṃ anugacchamānā, anuvattamānāti attho.</i></p><p>“In conformity with it” means going after it and following it.<sup><a class=\"note-ref\" id=\"en-ref-22\" href=\"#en-note-22\" aria-label=\"Source reference 22\">22</a></sup></p>",
+      "V1-2-04": "<p><i lang=\"pi\">Anvaye ñāṇanti cattāri saccāni paccakkhato disvā yathā idāni, evaṃ atītepi anāgatepi imeva pañcakkhandhā dukkhasaccaṃ, ayameva taṇhā samudayasaccaṃ, ayameva nirodho nirodhasaccaṃ, ayameva maggo maggasaccanti evaṃ tassa ñāṇassa anugatiyaṃ ñāṇaṃ.</i></p><p>“Inferential knowledge”: having seen the four truths directly, one knows in the wake of that knowledge: “As now, so too in the past and in the future, these very five aggregates are the truth of suffering, this very craving is the truth of origin, this very cessation is the truth of cessation, and this very path is the truth of the path.”<sup><a class=\"note-ref\" id=\"en-ref-23\" href=\"#en-note-23\" aria-label=\"Source reference 23\">23</a></sup></p><p><i lang=\"pi\">Anvaye ñāṇanti anugamanañāṇaṃ. Paccakkhato disvāti cattāri saccāni maggañāṇena paccakkhato paṭivijjhitvā.</i></p><p>“Inferential knowledge” means knowledge that follows. “Having seen directly” means having directly penetrated the four truths with path knowledge.<sup><a class=\"note-ref\" id=\"en-ref-24\" href=\"#en-note-24\" aria-label=\"Source reference 24\">24</a></sup></p>",
+      "V1-2-05": "<p>According to the Pāli, commentaries and subcommentaries quoted above, there are two kinds of following: phenomena that follow something (tadanvayadhamma), and inferential knowledge. There are also two kinds of inferential knowledge:</p><ol><li>Inferential knowledge that follows insight knowledge.</li><li>Inferential knowledge that follows knowledge of the noble path and fruition.</li></ol><p>Of these two kinds of inferential knowledge, I will first present the inferential knowledge that follows insight knowledge.</p>"
     }
   },
   "toc": [
@@ -317,7 +342,403 @@
       "target": "v1-p52-heading-1",
       "printed": "52",
       "depth": 1
+    },
+    {
+      "title": "Excerpt from the Anusaya Sutta",
+      "target": "v1-p54-heading-1",
+      "printed": "54",
+      "depth": 1
+    },
+    {
+      "title": "Excerpt from the Mahārāhulovāda Sutta",
+      "target": "v1-p56-heading-1",
+      "printed": "56",
+      "depth": 1
+    },
+    {
+      "title": "Excerpt from the Anattalakkhaṇa Sutta",
+      "target": "v1-p56-heading-2",
+      "printed": "56",
+      "depth": 1
+    },
+    {
+      "title": "The Noble Truth of the Origin of Suffering",
+      "target": "v1-p58-heading-1",
+      "printed": "58",
+      "depth": 1
+    },
+    {
+      "title": "Excerpt from the Titthāyatana Sutta",
+      "target": "v1-p59-heading-1",
+      "printed": "59",
+      "depth": 1
+    },
+    {
+      "title": "Classifying the Factors of Dependent Origination under the Truths",
+      "target": "v1-p59-heading-2",
+      "printed": "59",
+      "depth": 1
+    },
+    {
+      "title": "The Power of Kamma from a Different Moment",
+      "target": "v1-p62-heading-1",
+      "printed": "62",
+      "depth": 1
+    },
+    {
+      "title": "The Truth of Suffering and the Truth of Its Origin",
+      "target": "v1-p63-heading-1",
+      "printed": "63",
+      "depth": 1
+    },
+    {
+      "title": "Excerpt from the Mahānidāna Sutta",
+      "target": "v1-p74-heading-1",
+      "printed": "74",
+      "depth": 1
+    },
+    {
+      "title": "Three Kinds of Mundane Full Understanding",
+      "target": "v1-p76-heading-1",
+      "printed": "76",
+      "depth": 1
+    },
+    {
+      "title": "Instructions from the Paṭisambhidāmagga",
+      "target": "v1-p77-heading-1",
+      "printed": "77",
+      "depth": 1
+    },
+    {
+      "title": "Three Kinds of Supramundane Full Understanding",
+      "target": "v1-p86-heading-1",
+      "printed": "86",
+      "depth": 1
+    },
+    {
+      "title": "Excerpt from the Kaccānagotta Sutta",
+      "target": "v1-p88-heading-1",
+      "printed": "88",
+      "depth": 1
+    },
+    {
+      "title": "The Arising of the World and the Cessation of the World",
+      "target": "v1-p89-heading-1",
+      "printed": "89",
+      "depth": 1
+    },
+    {
+      "title": "What Is Inferential Knowledge?",
+      "target": "v1-p92-heading-1",
+      "printed": "92",
+      "depth": 1
+    },
+    {
+      "title": "Inferential Knowledge That Follows Insight Knowledge",
+      "target": "v1-p93-heading-1",
+      "printed": "93",
+      "depth": 1
+    },
+    {
+      "title": "Mundane Right View of the Four Truths",
+      "target": "v1-p93-heading-2",
+      "printed": "93",
+      "depth": 1
+    },
+    {
+      "title": "Discussion among the Great Elders of Old",
+      "target": "v1-p94-heading-1",
+      "printed": "94",
+      "depth": 1
+    },
+    {
+      "title": "Excerpt from the Mahātaṇhāsaṅkhaya Sutta",
+      "target": "v1-p97-heading-1",
+      "printed": "97",
+      "depth": 1
+    },
+    {
+      "title": "Questions and Answers",
+      "target": "v1-p98-heading-1",
+      "printed": "98",
+      "depth": 1
+    },
+    {
+      "title": "Formations Seen Now and Formations Yet to Be Seen",
+      "target": "v1-p100-heading-1",
+      "printed": "100",
+      "depth": 1
+    },
+    {
+      "title": "What Is Dependent Origination?",
+      "target": "v1-p102-heading-1",
+      "printed": "102",
+      "depth": 1
+    },
+    {
+      "title": "Phenomena That Follow (Tadanvaya) in the Paṭisambhidāmagga",
+      "target": "v1-p103-heading-1",
+      "printed": "103",
+      "depth": 1
+    },
+    {
+      "title": "Inferential Knowledge That Follows Knowledge of the Noble Path and Fruition",
+      "target": "v1-p104-heading-1",
+      "printed": "104",
+      "depth": 1
+    },
+    {
+      "title": "Excerpt from the Vibhaṅga",
+      "target": "v1-p107-heading-1",
+      "printed": "107",
+      "depth": 1
+    },
+    {
+      "title": "Excerpt from the Aparijānana Sutta",
+      "target": "v1-p109-heading-1",
+      "printed": "109",
+      "depth": 1
+    },
+    {
+      "title": "Mundane Full Understanding as Knowing",
+      "target": "v1-p110-heading-1",
+      "printed": "110",
+      "depth": 1
+    },
+    {
+      "title": "Mundane Full Understanding as Investigation",
+      "target": "v1-p111-heading-1",
+      "printed": "111",
+      "depth": 1
+    },
+    {
+      "title": "Mundane Full Understanding as Abandoning",
+      "target": "v1-p112-heading-1",
+      "printed": "112",
+      "depth": 1
+    },
+    {
+      "title": "Three Kinds of Supramundane Full Understanding",
+      "target": "v1-p112-heading-2",
+      "printed": "112",
+      "depth": 1
+    },
+    {
+      "title": "The Bodhisatta’s Cultivation of 3,600,000 Koṭis of Great Vajra Insight",
+      "target": "v1-p114-heading-1",
+      "printed": "114",
+      "depth": 1
+    },
+    {
+      "title": "Excerpt from the Bodhikathā",
+      "target": "v1-p116-heading-1",
+      "printed": "116",
+      "depth": 1
+    },
+    {
+      "title": "Excerpt from the Gotamakacetiya Sutta",
+      "target": "v1-p119-heading-1",
+      "printed": "119",
+      "depth": 1
+    },
+    {
+      "title": "The Second Ariyasāvaka Sutta",
+      "target": "v1-p121-heading-1",
+      "printed": "121",
+      "depth": 1
+    },
+    {
+      "title": "Excerpt from the Kosambi Sutta",
+      "target": "v1-p125-heading-1",
+      "printed": "125",
+      "depth": 1
+    },
+    {
+      "title": "Reflect and Consider",
+      "target": "v1-p128-heading-1",
+      "printed": "128",
+      "depth": 1
+    },
+    {
+      "title": "The Most Excellent Words",
+      "target": "v1-p131-heading-1",
+      "printed": "131",
+      "depth": 1
+    },
+    {
+      "title": "Explanation of the Bhaddekaratta Sutta",
+      "target": "v1-p132-heading-1",
+      "printed": "132",
+      "depth": 1
+    },
+    {
+      "title": "The Bhaddekaratta Sutta",
+      "target": "v1-p133-heading-1",
+      "printed": "133",
+      "depth": 1
+    },
+    {
+      "title": "How One Pursues the Past",
+      "target": "v1-p135-heading-1",
+      "printed": "135",
+      "depth": 1
+    },
+    {
+      "title": "How One Does Not Pursue the Past",
+      "target": "v1-p136-heading-1",
+      "printed": "136",
+      "depth": 1
+    },
+    {
+      "title": "How One Longs for the Future",
+      "target": "v1-p137-heading-1",
+      "printed": "137",
+      "depth": 1
+    },
+    {
+      "title": "How One Does Not Long for the Future",
+      "target": "v1-p138-heading-1",
+      "printed": "138",
+      "depth": 1
+    },
+    {
+      "title": "The Main Point of the Teaching",
+      "target": "v1-p139-heading-1",
+      "printed": "139",
+      "depth": 1
+    },
+    {
+      "title": "How Craving and Views Sweep One Away in the Present",
+      "target": "v1-p140-heading-1",
+      "printed": "140",
+      "depth": 1
+    },
+    {
+      "title": "How Craving and Views Do Not Sweep One Away in the Present",
+      "target": "v1-p141-heading-1",
+      "printed": "141",
+      "depth": 1
+    },
+    {
+      "title": "The Meaning of This Teaching",
+      "target": "v1-p142-heading-1",
+      "printed": "142",
+      "depth": 1
+    },
+    {
+      "title": "The Principle Derived from It",
+      "target": "v1-p143-heading-1",
+      "printed": "143",
+      "depth": 1
+    },
+    {
+      "title": "Excerpt from the Paṭisambhidāmagga",
+      "target": "v1-p144-heading-1",
+      "printed": "144",
+      "depth": 1
+    },
+    {
+      "title": "The Power of Mundane Development",
+      "target": "v1-p146-heading-1",
+      "printed": "146",
+      "depth": 1
+    },
+    {
+      "title": "The Discourse on Impermanence, Suffering and Non-Self in the Three Times",
+      "target": "v1-p148-heading-1",
+      "printed": "148",
+      "depth": 1
+    },
+    {
+      "title": "The Present as Described in the Bhaddekaratta Sutta",
+      "target": "v1-p149-heading-1",
+      "printed": "149",
+      "depth": 1
+    },
+    {
+      "title": "How to Delimit Past, Future and Present",
+      "target": "v1-p151-heading-1",
+      "printed": "151",
+      "depth": 1
+    },
+    {
+      "title": "Translation of the Pāli Text",
+      "target": "v1-p151-heading-2",
+      "printed": "151",
+      "depth": 1
+    },
+    {
+      "title": "The Sutta Method of Explanation",
+      "target": "v1-p152-heading-1",
+      "printed": "152",
+      "depth": 1
+    },
+    {
+      "title": "The Abhidhamma Method of Analysis",
+      "target": "v1-p152-heading-2",
+      "printed": "152",
+      "depth": 1
+    },
+    {
+      "title": "A Point to Understand",
+      "target": "v1-p153-heading-1",
+      "printed": "153",
+      "depth": 1
+    },
+    {
+      "title": "Another Way of Explaining It",
+      "target": "v1-p154-heading-1",
+      "printed": "154",
+      "depth": 1
+    },
+    {
+      "title": "A Period (Addhā), That Is, an Existence",
+      "target": "v1-p154-heading-2",
+      "printed": "154",
+      "depth": 1
+    },
+    {
+      "title": "Similar Temperature and Nutriment, and a Single Temperature and Nutriment",
+      "target": "v1-p156-heading-1",
+      "printed": "156",
+      "depth": 1
+    },
+    {
+      "title": "The Continuity of Consciousness-Born Materiality",
+      "target": "v1-p158-heading-1",
+      "printed": "158",
+      "depth": 1
+    },
+    {
+      "title": "The Continuity of Kamma-Born Materiality",
+      "target": "v1-p158-heading-2",
+      "printed": "158",
+      "depth": 1
+    },
+    {
+      "title": "How Materiality Is Taken as Past, Future and Present by Period",
+      "target": "v1-p159-heading-1",
+      "printed": "159",
+      "depth": 1
+    },
+    {
+      "title": "Distinguishing Past, Future and Present by Moment",
+      "target": "v1-p160-heading-1",
+      "printed": "160",
+      "depth": 1
+    },
+    {
+      "title": "Another Way of Explaining It",
+      "target": "v1-p160-heading-2",
+      "printed": "160",
+      "depth": 1
+    },
+    {
+      "title": "Literal and Figurative Usage",
+      "target": "v1-p161-heading-1",
+      "printed": "161",
+      "depth": 1
     }
   ],
-  "notesHtml": "<p id=\"en-homage-note\"><strong>Translator’s note.</strong> The Pāli reading <i lang=\"pi\">dukhamasahānaṃ</i> is provisional. The Burmese explanation compares the Buddha’s endurance to that of the great earth. <i lang=\"pi\">Nibbattaṃ</i> occurs in the explanation and has no separate word in the four-line verse. <a href=\"#en-homage-ref\">Return to the verse</a></p>"
+  "notesHtml": "<p id=\"en-homage-note\"><strong>Translator’s note.</strong> The Pāli reading <i lang=\"pi\">dukhamasahānaṃ</i> is provisional. The Burmese explanation compares the Buddha’s endurance to that of the great earth. <i lang=\"pi\">Nibbattaṃ</i> occurs in the explanation and has no separate word in the four-line verse. <a href=\"#en-homage-ref\">Return to the verse</a></p><p id=\"en-note-1\"><strong>Source reference 1.</strong> Source abbreviations as printed: Abhi-a 2, p. 347; Dī-a 2, p. 207; Ma-a 1, p. 247. <a href=\"#en-ref-1\">Return to the text</a></p><p id=\"en-note-2\"><strong>Source reference 2.</strong> Source abbreviations as printed: Abhi-a 2, p. 347; Dī-a 2, p. 207; Ma-a 1, p. 247; Mūlaṭī 2, p. 148. <a href=\"#en-ref-2\">Return to the text</a></p><p id=\"en-note-4\"><strong>Source reference 4.</strong> The title is printed in Burmese as သမ္မောဟဝိနောဒနီဘာသာဋီကာ, vol. II, p. 286. The precise bibliographic identity remains to be verified. <a href=\"#en-ref-4\">Return to the text</a></p><p id=\"en-note-19\"><strong>Source reference 19.</strong> Paṭisambhidāmagga, p. 245. <a href=\"#en-ref-19\">Return to the text</a></p><p id=\"en-note-20\"><strong>Source reference 20.</strong> Paṭisambhidāmagga commentary, vol. II, p. 161. <a href=\"#en-ref-20\">Return to the text</a></p><p id=\"en-note-21\"><strong>Source reference 21.</strong> Saṃyuttanikāya, vol. III, p. 195. <a href=\"#en-ref-21\">Return to the text</a></p><p id=\"en-note-22\"><strong>Source reference 22.</strong> Saṃyuttanikāya commentary, vol. III, p. 279. <a href=\"#en-ref-22\">Return to the text</a></p><p id=\"en-note-23\"><strong>Source reference 23.</strong> Dīghanikāya commentary, vol. III, p. 202. <a href=\"#en-ref-23\">Return to the text</a></p><p id=\"en-note-24\"><strong>Source reference 24.</strong> Dīghanikāya subcommentary, vol. III, p. 234. <a href=\"#en-ref-24\">Return to the text</a></p>"
 }

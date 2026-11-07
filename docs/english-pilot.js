@@ -75,7 +75,7 @@ function englishContents(book) {
 
 function unavailable(volume, id) {
   return '<p class="english-gap" lang="en">English is pending here. ' +
-    'The Volume I pilot includes the opening leaves and the first body section. ' +
+    'See the volume heading for the current review coverage. ' +
     '<a href="' + esc(englishUrl('vi', href(volume, id))) + '">Read this location in Vietnamese</a>.</p>';
 }
 
@@ -84,6 +84,7 @@ function englishBook(book) {
   const entries = volume === 1 ? englishPilot.pages : {};
   const parts = [];
   let gap;
+  let previousHadEnglish = true;
   for (const page of book.pages) {
     const groups = entries[page.id];
     if (!groups && englishOnly) {
@@ -115,20 +116,26 @@ function englishBook(book) {
       '</span><button data-source-vol="' + volume + '" data-source-pdf="' + page.pdf + '">' +
       (englishOnly ? 'View Burmese source ↗' : 'Đối chiếu nguyên tác ↗') + '</button></div>' + page.html;
     if (!groups) {
-      if (page.id === book.pages[0].id || entries[book.pages[book.pages.indexOf(page)-1]?.id]) wrapper.insertAdjacentHTML('beforeend', unavailable(volume, page.id));
+      if (previousHadEnglish) wrapper.insertAdjacentHTML('beforeend', unavailable(volume, page.id));
+      previousHadEnglish = false;
       parts.push(wrapper);
       continue;
     }
+    previousHadEnglish = true;
     const section = wrapper.querySelector('.read-section');
-    const aligned = new Map();
+    const aligned = [];
+    const leading = [];
+    let current;
     for (const node of [...section.children]) {
-      const anchor = node.querySelector('.paragraph-anchor');
-      if (anchor) aligned.set(anchor.id, []);
-      const current = [...aligned.values()].at(-1);
-      if (current) current.push(node);
+      const anchor = node.matches('.paragraph-anchor')
+        ? node : node.querySelector('.paragraph-anchor');
+      if (anchor) {
+        current = {key: anchor.id, nodes: aligned.length ? [] : leading};
+        aligned.push(current);
+      }
+      (current?.nodes || leading).push(node);
     }
-    section.replaceChildren();
-    for (const [key, nodes] of aligned) {
+    for (const {key, nodes} of aligned) {
       const row = document.createElement('div');
       row.className = englishOnly ? 'english-row' : 'parallel-row';
       const vi = document.createElement('div');
@@ -166,9 +173,9 @@ function englishBook(book) {
   const notes = document.createElement('section');
   notes.id = 'hub-notes-' + volume;
   notes.className = 'book-notes';
-  if (!englishOnly) notes.innerHTML = '<h2 lang="vi">Chú thích và hồ sơ</h2>' + book.notesHtml;
+  if (!englishOnly) notes.innerHTML = '<div lang="vi"><h2>Chú thích và hồ sơ</h2>' + book.notesHtml + '</div>';
   if (volume === 1) notes.insertAdjacentHTML('afterbegin',
-    '<div lang="en"><h2>English translator’s notes</h2>' + englishPilot.notesHtml + '</div>');
+    '<div lang="en"><h2>English notes and source references</h2>' + englishPilot.notesHtml + '</div>');
   parts.unshift(intro);
   parts.push(notes);
   $('#hub-reader').replaceChildren(...parts);
