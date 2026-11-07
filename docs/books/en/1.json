@@ -1,7 +1,7 @@
 {
   "volume": 1,
   "status": "review",
-  "coverage": "Cover and opening leaves (PDF 1–5), first two contents leaves (PDF 6–7), introduction A–B (PDF 17–18), and the opening homage through the Upanisā quotation, Burmese exposition and the cited commentary and subcommentary and the author’s three interpretations (printed pp. 1–6 / PDF 28–33, through V1-6-04). Review draft with gaps.",
+  "coverage": "Cover and opening leaves (PDF 1–5), first two contents leaves (PDF 6–7), introduction A–B (PDF 17–18), and the opening homage through the Upanisā quotation, Burmese exposition and the arising of materiality and the four groups of five causes and effects (printed pp. 1–16 / PDF 28–43, through V1-16-05). Review draft with gaps.",
   "pages": {
     "v1-front-1": {
       "V1-FRONT-01-01": "<p><strong>Nibbānagāminipaṭipadā</strong></p><p><strong>The Practice Leading to Nibbāna — Volume I</strong></p><p>One Auspicious Night · How to Establish Concentration</p><p>Concentration through Mindfulness of Breathing · Materiality Meditation</p><p><strong>Pa-Auk Tawya Sayadaw</strong></p>"
@@ -87,7 +87,89 @@
       "V1-6-01": "<p>With respect to this object, the two expressions are compatible in the sense of knowing and seeing just explained. This is why the commentator says <i lang=\"pi\">Jānanalakkhaṇaṃ hi ñāṇaṃ</i>, “Knowledge has the characteristic of knowing”, that is, of penetrating and knowing the actual nature of its object as it is.</p>",
       "V1-6-02": "<p>The power of knowledge (ñāṇappabhāva) is its efficacy. From this efficacy comes the light of knowledge, whose function is to illuminate the object so that its actual nature can be seen as it is. This agrees with the <i lang=\"pi\">Aṭṭhasālinī</i>: <i lang=\"pi\">Visayobhāsarasā padīpo viya</i>, “Its function is to illuminate the object, like a lamp.”<sup><a class=\"note-ref\" id=\"en-ref-33\" href=\"#en-note-33\" aria-label=\"Source reference 33\">33</a></sup> The commentator accordingly says <i lang=\"pi\">Ñāṇena vivaṭe dhamme passati</i>, “One sees with knowledge the phenomena it has disclosed.” A person who sees with the knowledge of right view sees phenomena disclosed by the knowledge whose function is to illuminate their true nature.<sup><a class=\"note-ref\" id=\"en-ref-34\" href=\"#en-note-34\" aria-label=\"Source reference 34\">34</a></sup></p><p><strong>Author’s note.</strong> For the light of knowledge, see pp. 510–534 of this work.</p>",
       "V1-6-03": "<ol start=\"2\"><li>Alternatively, <i lang=\"pi\">jānato</i> refers to one who knows by the knowledge that arises earlier, and <i lang=\"pi\">passato</i> to one who sees by the knowledge that arises later.</li></ol>",
-      "V1-6-04": "<ol start=\"3\"><li>Alternatively, having said “for one who knows” (<i lang=\"pi\">jānato</i>), the Buddha goes on to say “for one who sees” (<i lang=\"pi\">passato</i>). The knowing intended here is more than the following two kinds.</li></ol><ol><li>Oral tradition (anussava), knowing from what one has learned by hearing it from teachers, parents and others.</li><li>Reasoned reflection (ākāraparivitakka), knowing by considering and weighing suitable reasons.</li></ol><p>Instead, just as visible forms are seen by eye-consciousness, one personally knows and sees by direct knowledge (paccakkhañāṇa):</p><ol><li>The five aggregates subject to clinging: materiality, feeling, perception, formations and consciousness.</li><li>The cause of the arising of these five aggregates (samudaya), and their actual arising (samudaya in the sense of udaya).</li><li>The cause of their cessation (atthaṅgama), and their actual disappearance (atthaṅgama in the sense of vaya).</li></ol><p>It is to make this meaning clear that the Buddha says “for one who sees”. The meaning here should also be understood in this way.<sup><a class=\"note-ref\" id=\"en-ref-34-2\" href=\"#en-note-34\" aria-label=\"Source reference 34\">34</a></sup></p>"
+      "V1-6-04": "<ol start=\"3\"><li>Alternatively, having said “for one who knows” (<i lang=\"pi\">jānato</i>), the Buddha goes on to say “for one who sees” (<i lang=\"pi\">passato</i>). The knowing intended here is more than the following two kinds.</li></ol><ol><li>Oral tradition (anussava), knowing from what one has learned by hearing it from teachers, parents and others.</li><li>Reasoned reflection (ākāraparivitakka), knowing by considering and weighing suitable reasons.</li></ol><p>Instead, just as visible forms are seen by eye-consciousness, one personally knows and sees by direct knowledge (paccakkhañāṇa):</p><ol><li>The five aggregates subject to clinging: materiality, feeling, perception, formations and consciousness.</li><li>The cause of the arising of these five aggregates (samudaya), and their actual arising (samudaya in the sense of udaya).</li><li>The cause of their cessation (atthaṅgama), and their actual disappearance (atthaṅgama in the sense of vaya).</li></ol><p>It is to make this meaning clear that the Buddha says “for one who sees”. The meaning here should also be understood in this way.<sup><a class=\"note-ref\" id=\"en-ref-34-2\" href=\"#en-note-34\" aria-label=\"Source reference 34\">34</a></sup></p>",
+      "V1-6-05": "<h3 id=\"v1-p6-heading-1\">Oral Tradition and Reasoned Reflection</h3><p>Here I will explain oral tradition (anussava) and reasoned reflection (ākāraparivitakka) in a little more detail.</p>",
+      "V1-6-06": "<p><i lang=\"pi\">Anu anu savanaṃ anussavo.</i></p><p>Hearing successively, one after another, is oral tradition.<sup><a class=\"note-ref\" id=\"en-ref-35\" href=\"#en-note-35\" aria-label=\"Source reference 35\">35</a></sup></p>",
+      "V1-6-07": "<p><i lang=\"pi\">Paramparāgatassa atthassa evaṃ kirassāti anussavanaṃ.</i></p><p>Hearing of a meaning handed down through successive generations as “It is said to be so.”<sup><a class=\"note-ref\" id=\"en-ref-36\" href=\"#en-note-36\" aria-label=\"Source reference 36\">36</a></sup></p>"
+    },
+    "v1-p7": {
+      "V1-7-01": "<p>Knowing, that is, learned knowledge acquired by hearing from parents, grandparents, teachers and others through successive generations, is called oral tradition (anussava). Knowledge of the five aggregates subject to clinging and of their arising and disappearance acquired merely by hearing from parents, grandparents, teachers and others is not the knowing intended by “for one who knows” (jānato) and “for one who sees” (passato) in this Upanisā Sutta. Such learned knowledge is not here called the knowing that brings the taints to an end.</p>",
+      "V1-7-02": "<p><i lang=\"pi\">Ākāraparivitakkoti yuttiparikappanā.</i></p><p>“Reasoned reflection” is the formulation of ideas on the basis of reasoning.<sup><a class=\"note-ref\" id=\"en-ref-36-2\" href=\"#en-note-36\" aria-label=\"Source reference 36\">36</a></sup></p>",
+      "V1-7-03": "<p>Thinking over, weighing and considering suitable reasons is called reasoned reflection (ākāraparivitakka). Knowing merely through such reflection is also not what “for one who knows” and “for one who sees” mean in this Upanisā Sutta. The Buddha’s Dhamma is beyond the sphere of reasoning (atakkāvacara): it does not lie within reach of reasoners who merely think and imagine without practising.<sup><a class=\"note-ref\" id=\"en-ref-37\" href=\"#en-note-37\" aria-label=\"Source reference 37\">37</a></sup></p>",
+      "V1-7-04": "<h3 id=\"v1-p7-heading-1\">Direct Knowledge</h3><p><i lang=\"pi\">Katamā ca bhikkhave sammādiṭṭhi? Yaṃ kho bhikkhave dukkhe ñāṇaṃ, dukkhasamudaye ñāṇaṃ, dukkhanirodhe ñāṇaṃ, dukkhanirodhagāminiyā paṭipadāya ñāṇaṃ. Ayaṃ vuccati bhikkhave sammādiṭṭhi.</i></p><p>And what, bhikkhus, is right view? Knowledge of suffering, knowledge of the origin of suffering, knowledge of the cessation of suffering, and knowledge of the practice leading to the cessation of suffering: this, bhikkhus, is called right view.<sup><a class=\"note-ref\" id=\"en-ref-38\" href=\"#en-note-38\" aria-label=\"Source reference 38\">38</a></sup></p>",
+      "V1-7-05": "<p>Bhikkhus, what is right view (sammādiṭṭhi)? Bhikkhus:</p><ol><li>Knowledge of the truth of suffering (dukkhasacca).</li><li>Knowledge of the truth of origin (samudayasacca), the cause of suffering.</li><li>Knowledge of the truth of cessation (nirodhasacca), which brings suffering to an end.</li><li>Knowledge of the truth of the path (maggasacca), the practice leading to Nibbāna, where suffering ceases.</li></ol><p>Such knowledge, bhikkhus, is called right view.<sup><a class=\"note-ref\" id=\"en-ref-38-2\" href=\"#en-note-38\" aria-label=\"Source reference 38\">38</a></sup></p>",
+      "V1-7-06": "<p>In accordance with these teachings, the four kinds of knowledge of right view, called right view of the four truths (catusaccasammādiṭṭhi), are called direct knowledge (paccakkhañāṇa). Only someone who personally penetrates, knows and sees with that direct knowledge is called “one who knows” and “one who sees” in this discourse.</p>",
+      "V1-7-07": "<ol><li>The five aggregates subject to clinging.</li><li>Their actual arising.</li><li>Their actual disappearance.</li></ol><p>Only for one who knows and sees these with that direct knowledge does the teaching say that the noble path and fruition bringing the taints to an end can be attained. As for someone who, by that direct knowledge, does not know or see these three kinds of phenomena…</p>"
+    },
+    "v1-p8": {
+      "V1-8-01": "<p>…the Buddha does not teach that such a person can attain the noble path and fruition that bring the taints to an end.</p>",
+      "V1-8-02": "<p>All good people seeking the noble path and fruition that bring the taints to an end should therefore understand that they must first strive to penetrate, know and see personally, with direct knowledge, the knowledge of right view described above:</p><ol><li>The five aggregates subject to clinging.</li><li>The actual arising of those five aggregates.</li><li>The actual disappearance of those five aggregates.</li></ol><p>Contemplation by inferential knowledge (anvayañāṇa) will be explained later.</p>",
+      "V1-8-03": "<p>I will now explain the aggregates subject to clinging, their actual arising and their actual disappearance individually.</p>",
+      "V1-8-04": "<h3 id=\"v1-p8-heading-1\">What Is an Aggregate Subject to Clinging?</h3><p><i lang=\"pi\">Yaṃ kiñci bhikkhave rūpaṃ atītānāgatapaccuppannaṃ ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā paṇītaṃ vā yaṃ dūre santike vā sāsavaṃ upādāniyaṃ, ayaṃ vuccati rūpupādānakkhandho.</i></p><p>Bhikkhus, whatever materiality there is, past, future or present, internal or external, gross or subtle, inferior or superior, far or near, that is subject to the taints and liable to be clung to, is called the materiality aggregate subject to clinging.<sup><a class=\"note-ref\" id=\"en-ref-39\" href=\"#en-note-39\" aria-label=\"Source reference 39\">39</a></sup></p>",
+      "V1-8-05": "<p>That is, all materiality in the following eleven categories, which exists in the thirty-one planes, is an object of the taints, and is taken hold of by craving and views as “I” and “mine”:</p><ol><li>All past materiality (atīta).</li><li>All future materiality (anāgata).</li><li>All present materiality (paccuppanna).</li><li>All internal materiality (ajjhatta).</li><li>All external materiality (bahiddhā).</li><li>All gross materiality (oḷārika).</li><li>All subtle materiality (sukhuma).</li><li>All inferior materiality (hīna).</li><li>All superior materiality (paṇīta).</li><li>All distant materiality (dūra), distant from the knowledge of the meditator contemplating it.</li><li>All near materiality (santika), near to the knowledge of the meditator contemplating it.</li></ol><p>All materiality existing in these eleven categories is called the materiality aggregate subject to clinging (rūpupādānakkhandha).<sup><a class=\"note-ref\" id=\"en-ref-39-2\" href=\"#en-note-39\" aria-label=\"Source reference 39\">39</a></sup></p>"
+    },
+    "v1-p9": {
+      "V1-9-01": "<p>Similarly, the teaching goes on to explain each of the remaining aggregates separately.</p><p>All feeling existing in these eleven categories is called the feeling aggregate subject to clinging (vedanupādānakkhandha).</p><p>All perception existing in these eleven categories is called the perception aggregate subject to clinging (saññupādānakkhandha).</p><p>All mental factors belonging to formations existing in these eleven categories are called the formations aggregate subject to clinging (saṅkhārupādānakkhandha).</p><p>All instances of consciousness existing in these eleven categories are called the consciousness aggregate subject to clinging (viññāṇupādānakkhandha).<sup><a class=\"note-ref\" id=\"en-ref-39-3\" href=\"#en-note-39\" aria-label=\"Source reference 39\">39</a></sup></p>",
+      "V1-9-02": "<p>Therefore, with reference to the five aggregates subject to clinging that exist in these eleven categories, are objects of the taints, and are taken hold of by craving and views as “I” and “mine”, the Buddha teaches in the Upanisā Sutta quoted above:</p><ol><li><i lang=\"pi\">Iti rūpaṃ</i> — This is materiality.</li><li><i lang=\"pi\">Iti vedanā</i> — This is feeling.</li><li><i lang=\"pi\">Iti saññā</i> — This is perception.</li><li><i lang=\"pi\">Iti saṅkhārā</i> — These are the mental factors belonging to formations.</li><li><i lang=\"pi\">Iti viññāṇaṃ</i> — This is consciousness.</li></ol>",
+      "V1-9-03": "<p>In teaching this, what kind of knowing does the Buddha intend by “This is materiality; this is feeling; this is perception; these are the mental factors belonging to formations; this is consciousness”? The answer is as follows.</p>",
+      "V1-9-04": "<h3 id=\"v1-p9-heading-1\">“This Is Materiality”, “This Is Feeling”…</h3><p><i lang=\"pi\">Tattha iti rūpanti idaṃ rūpaṃ, ettakaṃ rūpaṃ, ito uddhaṃ rūpaṃ natthīti ruppanasabhāvañceva bhūtupādāyabhedañca ādiṃ katvā lakkhaṇa-rasa-paccupaṭṭhāna-padaṭṭhānavasena anavasesarūpapariggaho vutto. <i lang=\"pi\">(as above)</i></i></p><p>Here, “this is materiality” means: “This is materiality. This is the full extent of materiality. Beyond this there is no materiality.” This states the complete discernment of materiality, without remainder, by characteristic, function, manifestation and proximate cause, beginning with its nature of being affected by change and its division into great essentials and derived materiality. <em>(as above)</em><sup><a class=\"note-ref\" id=\"en-ref-40\" href=\"#en-note-40\" aria-label=\"Source reference 40\">40</a></sup></p>",
+      "V1-9-05": "<p><i lang=\"pi\">Iti vedanātiādīsupi ayaṃ vedanā, ettakā vedanā, ito uddhaṃ vedanā natthi; ayaṃ saññā. Ime saṅkhārā. Idaṃ viññāṇaṃ, ettakaṃ viññāṇaṃ, ito uddhaṃ viññāṇaṃ natthīti vedayita-sañjānana-abhisaṅkhāraṇa-vijānanasabhāvañceva sukhādi-rūpasaññādi-phassādi-cakkhuviññāṇādibhedañca ādiṃ katvā lakkhaṇa-rasa-paccupaṭṭhāna-padaṭṭhānavasena anavasesa-vedanā-saññā-saṅkhāra-viññāṇapariggaho vutto.</i></p><p>The same applies to “this is feeling” and the rest: “This is feeling. This is the full extent of feeling. Beyond this there is no feeling. This is perception. These are formations. This is consciousness. This is the full extent of consciousness. Beyond this there is no consciousness.” This states the complete discernment of feeling, perception, formations and consciousness, without remainder, by characteristic, function, manifestation and proximate cause. It begins with their respective natures of feeling, perceiving, constructing and cognising, and their divisions into happiness and the rest, perception of visible form and the rest, contact and the rest, and eye-consciousness and the rest.<sup><a class=\"note-ref\" id=\"en-ref-40-2\" href=\"#en-note-40\" aria-label=\"Source reference 40\">40</a></sup></p>",
+      "V1-9-06": "<p><i lang=\"pi\">Iti rūpanti ettha iti-saddo idaṃ-saddena samānatthoti adhippāyenāha “idaṃ rūpa”nti. Tayidaṃ sarūpaggahaṇabhāvato anavasesapariyādānaṃ hotīti āha “ettakaṃ rūpaṃ, na ito paraṃ rūpaṃ</i></p><p>In “this is materiality”, the word iti is understood to have the same meaning as idaṃ, hence the explanation “this is materiality”. Since this is a grasping of its actual nature that embraces the whole without remainder, the text says: “This is the full extent of materiality. Beyond this no materiality…</p>"
+    },
+    "v1-p10": {
+      "V1-10-01": "<p><i lang=\"pi\">atthī”ti. Itīti vā pakāratthe nipāto, tasmā “iti rūpa”nti iminā bhūtupādādivasena yattako rūpassa pabhedo, tena saddhiṃ rūpaṃ anavasesato pariyādiyitvā dasseti. Sabhāvatoti ruppanasabhāvato, cakkhādi-vaṇṇādisabhāvato ca. Vedanādīsupīti ettha “ayaṃ vedanā, ettakā vedanā, na ito paraṃ vedanā atthīti sabhāvato vedanaṃ pajānātī”ti ādinā, sabhāvatoti ca “anubhavanasabhāvato, sātādisabhāvato cā”ti evamādinā yojetabbaṃ.</i></p><p>…exists.” Alternatively, iti is an indeclinable indicating manner. Thus “this is materiality” presents all materiality exhaustively, together with its full division into great essentials, derived materiality and so forth. “According to its nature” means its nature of being affected by change, and the natures of the eye and the rest, of colour and the rest. “The same applies to feeling and the rest” is to be construed as: “This is feeling. This is the full extent of feeling. Beyond this no feeling exists: one understands feeling according to its nature.” “According to its nature” is to be construed as “according to its nature of experiencing, and its nature of being pleasant and so forth”, and similarly for the remaining aggregates.<sup><a class=\"note-ref\" id=\"en-ref-41\" href=\"#en-note-41\" aria-label=\"Source reference 41\">41</a></sup></p>",
+      "V1-10-02": "<p><strong>Question.</strong> The Buddha instructs the meditator bhikkhu to dwell continually contemplating and developing the knowledge of right view with regard to the five aggregates subject to clinging: “This is materiality. This is feeling. This is perception. These are the mental factors belonging to formations. This is consciousness.” When instructed in this way, how should the meditator bhikkhu know these five aggregates? How should he contemplate them with the knowledge of right view?</p>",
+      "V1-10-03": "<p><strong>Answer.</strong> The answer is as follows.</p><ol><li>“This is materiality. This is the full extent of materiality. There is nothing further beyond this.” The meaning is to discern and distinguish all materiality without remainder with the knowledge of right view, according to characteristic, function, manifestation and proximate cause, beginning with its nature of being affected by change (ruppanasabhāva) and the twenty-eight kinds of materiality, comprising great essentials and derived materiality. Being affected by change means that, owing to causes such as cold and heat, a later material process arises in various changed forms differing from the process that arose before. This is a common characteristic (sāmaññalakkhaṇa) that pertains to all materiality. In other words, one must know, must contemplate so as to know, all materiality without remainder, with the knowledge of right view according to characteristic, function, manifestation and proximate cause.</li></ol>",
+      "V1-10-04": "<p>The same applies to “this is feeling” and the rest.</p><ol start=\"2\"><li>This is feeling. This is the full extent of feeling. Beyond this there is no further feeling.</li><li>This is perception. <em>(as above)</em></li><li>These are the mental factors belonging to formations. <em>(as above)</em></li><li>This is consciousness. This is the full extent of consciousness. Beyond this there is no further consciousness.</li></ol>",
+      "V1-10-05": "<ol start=\"2\"><li>The nature of the feeling aggregate (vedanākkhandha) is to experience the flavour of the object.</li><li>The nature of the perception aggregate (saññākkhandha) is to recognise by taking a sign of the object.</li><li>The nature of the formations aggregate (saṅkhārakkhandha) is to construct and bring about the resultant phenomenon that its causes jointly accomplish, causing it to arise.</li><li>The nature of the consciousness aggregate (viññāṇakkhandha) is to distinguish and take up the object, to cognise it.</li></ol>",
+      "V1-10-06": "<ol start=\"2\"><li>The division of the feeling aggregate into happiness and the rest.</li><li>The division of the perception aggregate into perception of visible form and the rest.</li></ol>"
+    },
+    "v1-p11": {
+      "V1-11-01": "<ol start=\"4\"><li>The division of the formations aggregate into contact (phassa), volition (cetanā), and the rest.</li><li>The division of the consciousness aggregate into eye-consciousness and the rest.</li></ol><p>Beginning with these, the teaching means that feeling, perception, formations and consciousness are to be discerned and distinguished completely, without remainder, by characteristic, function, manifestation and proximate cause. In other words, one must know, must contemplate so as to know, all instances of feeling, perception, formations and consciousness completely, without remainder, with the knowledge of right view by characteristic, function, manifestation and proximate cause.<sup><a class=\"note-ref\" id=\"en-ref-43\" href=\"#en-note-43\" aria-label=\"Source reference 43\">43</a></sup></p>",
+      "V1-11-02": "<p>In accordance with the explanations of the commentary and subcommentary above, the meditator must personally discern and contemplate the following completely, without remainder, so as directly to penetrate, know and see them with the knowledge of right view:</p><ol><li>The twenty-eight kinds of materiality comprising great essentials and derived materiality, and the respective characteristic, function, manifestation and proximate cause of each, such as the earth element (pathavī), water element (āpo), fire element (tejo) and wind element (vāyo).</li><li>The kinds of feeling: bodily pleasant feeling (sukhavedanā), bodily painful feeling (dukkhavedanā), mentally pleasant feeling (somanassavedanā), mentally painful feeling (domanassavedanā), and equanimous feeling (upekkhāvedanā), with the characteristic, function, manifestation and proximate cause of each.</li><li>The kinds of perception: perception of visible form (rūpasaññā), sound (saddasaññā), odour (gandhasaññā), flavour (rasasaññā), tangible objects (phoṭṭhabbasaññā) and mental objects (dhammasaññā), with the characteristic, function, manifestation and proximate cause of each.</li><li>The kinds of formations, the fifty mental factors belonging to the formations aggregate, including contact (phassa), volition (cetanā), one-pointedness (ekaggatā), life faculty (jīvita), attention (manasikāra), and the rest, with the characteristic, function, manifestation and proximate cause of each mental factor.</li><li>The kinds of consciousness: eye-consciousness (cakkhuviññāṇa), ear-consciousness (sotaviññāṇa), nose-consciousness (ghānaviññāṇa), tongue-consciousness (jivhāviññāṇa), body-consciousness (kāyaviññāṇa) and mind-consciousness (manoviññāṇa), with the characteristic, function, manifestation and proximate cause of each.</li></ol>",
+      "V1-11-03": "<p>Only knowing and seeing in this way is called knowing and seeing:</p><ol><li>This is materiality.</li><li>This is feeling.</li><li>This is perception.</li><li>These are formations.</li><li>This is consciousness.</li></ol><p>When contemplating so as to know and see in this way:</p>",
+      "V1-11-04": "<p><i lang=\"pi\">Cakkhumā viya cakkhunā rūpāni.</i></p><p>“Like a person with eyes seeing visible forms with the eye.”<sup><a class=\"note-ref\" id=\"en-ref-44\" href=\"#en-note-44\" aria-label=\"Source reference 44\">44</a></sup></p><p><i lang=\"pi\">Rūpāni viya cakkhuviññāṇena rūpādīni tesaṃ ca samudayādike paccakkhe katvā dassanaṃ.</i></p><p>“Seeing by bringing materiality and the rest, together with their arising and so forth, directly before oneself, as visible forms are seen by eye-consciousness.”<sup><a class=\"note-ref\" id=\"en-ref-45\" href=\"#en-note-45\" aria-label=\"Source reference 45\">45</a></sup></p>",
+      "V1-11-05": "<p>In accordance with these explanations of the commentary and subcommentary, just as someone with eyes sees visible forms by eye-consciousness, the meditator must discern and contemplate these phenomena with the aid of the light arising from the knowledge discerning and contemplating them. One must personally penetrate, know and see them with the knowledge of right view…</p>"
+    },
+    "v1-p12": {
+      "V1-12-01": "<p>…that is, direct knowledge (paccakkhañāṇa).</p><p>Only when knowing and seeing in this way, only for a person who knows and sees in this way, does the Buddha teach that the noble path and fruition bringing the taints to an end can be attained. He does not teach that someone who does not know or see in this way can attain the noble path and fruition bringing the taints to an end.</p>",
+      "V1-12-02": "<p>Respectfully bearing these teachings upon my head, I have set out the following in this work, Nibbānagāminipaṭipadā:</p><ol><li>The instructions for using direct knowledge, the knowledge of right view, to discern and contemplate the twenty-eight kinds of materiality in the materiality aggregate subject to clinging, one of the five aggregates subject to clinging, until knowledge penetrates ultimate reality, are set out under <strong>Materiality Meditation (Rūpakammaṭṭhāna)</strong>. See Volume I.</li><li>The instructions for using direct knowledge, the knowledge of right view, to discern and contemplate consciousness and mental factors belonging to the feeling, perception, formations and consciousness aggregates subject to clinging, until knowledge penetrates ultimate reality, are set out under <strong>Mentality Meditation (Nāmakammaṭṭhāna)</strong>. See Volume II.</li><li>The instructions for dividing and analysing the individual ultimate natures of the material and mental phenomena belonging to the five aggregates subject to clinging, and using direct knowledge, the knowledge of right view, to discern and contemplate them by characteristic, function, manifestation and proximate cause, are set out under <strong>The Four Aspects Beginning with Characteristic (Lakkhaṇādicatukka)</strong>. See Volume IV.</li></ol>",
+      "V1-12-03": "<p>I will now explain the meaning of the second teaching in the Upanisā Sutta quoted above: <i lang=\"pi\">Iti rūpassa samudayo.</i> <em>(as above)</em> <i lang=\"pi\">Iti viññāṇassa samudayo</i> — “Such is the arising of materiality. <em>(as above)</em> Such is the arising of consciousness.”</p>",
+      "V1-12-04": "<h3 id=\"v1-p12-heading-1\">“Such Is the Arising of Materiality” <em>(as above)</em> “Such Is the Arising of Consciousness”…</h3><p><i lang=\"pi\">Iti rūpassa samudayoti evaṃ avijjāsamudayādivasena pañcahākārehi rūpassa samudayo.</i></p><p>“Such is the arising of materiality”: the arising of materiality is thus shown in five ways, beginning with the arising of ignorance.<sup><a class=\"note-ref\" id=\"en-ref-47\" href=\"#en-note-47\" aria-label=\"Source reference 47\">47</a></sup></p>",
+      "V1-12-05": "<p><i lang=\"pi\">Tassa vitthāro “avijjāsamudayā rūpasamudayo, taṇhāsamudayā rūpasamudayo, kammasamudayā rūpasamudayo, āhārasamudayā rūpasamudayoti, nibbattilakkhaṇaṃ passantopi rūpakkhandhassa udayaṃ passatī”ti evaṃ veditabbo.</i></p><p>Its detailed explanation should be understood thus: “With the arising of ignorance, materiality arises. With the arising of craving, materiality arises. With the arising of kamma, materiality arises. With the arising of nutriment, materiality arises. Also, in seeing the characteristic of origination, one sees the arising of the materiality aggregate.”<sup><a class=\"note-ref\" id=\"en-ref-48\" href=\"#en-note-48\" aria-label=\"Source reference 48\">48</a></sup></p>",
+      "V1-12-06": "<p><i lang=\"pi\">Avijjāsamudayāti avijjāya uppādā, atthibhāvāti attho. Nirodhanirodhī hi uppādo atthibhāvavācakopi hoti, tasmā purimabhavasiddhāya avijjāya sati imasmiṃ bhave rūpasamudayo, rūpassa uppādo hotīti attho. “Taṇhāsamudayā”tiādīsupi eseva nayo. Āhārasamudayāti ettha pana pavattipaccayesu kabaḷīkārāhārassa balavatāya so eva gahito. Tasmiṃ pana gahite pavattipaccayatāsāmaññena utucittāni gahitāneva hontīti catusamuṭṭhānikarūpassa paccayato udaya-</i></p><p>“With the arising of ignorance” means through the origination, the existence, of ignorance. For origination, opposed to cessation, can also denote existence. Thus the meaning is that, when ignorance established in the preceding existence is present, materiality arises in this existence. The same method applies to “with the arising of craving” and the rest. In “with the arising of nutriment”, physical nutriment alone is mentioned because of its strength among the conditions during the course of life. When it is mentioned, however, temperature and consciousness are also included, because they too are conditions during the course of life. Thus seeing the arising by way of conditions of materiality originating from four sources…<sup><a class=\"note-ref\" id=\"en-ref-49\" href=\"#en-note-49\" aria-label=\"Source reference 49\">49</a></sup></p>"
+    },
+    "v1-p13": {
+      "V1-13-01": "<p><i lang=\"pi\">dassanaṃ vibhāvitamevāti daṭṭhabbaṃ. “Nibbattilakkhaṇa”ntiādinā kālavasena udayadassanamāha. Tattha nibbattilakkhaṇanti rūpassa uppādasaṅkhātaṃ saṅkhatalakkhaṇaṃ. Passantopīti na kevalaṃ paccayasamudayameva, atha kho khaṇato udayaṃ passantopi. Addhānavasena hi paṭhamaṃ udayaṃ passitvā ṭhito puna santativasena disvā anukkamena khaṇavasena passati.</i></p><p>…should be understood to have been explained. “The characteristic of origination” and the rest express seeing arising in terms of time. Here “the characteristic of origination” is the characteristic of the conditioned called the origination of materiality. “Also seeing” means seeing the arising by moment in addition to seeing the arising by way of conditions. For, having first seen arising in terms of a period (addhāna), one subsequently sees it in terms of continuity (santati), and gradually in terms of a moment (khaṇa).<sup><a class=\"note-ref\" id=\"en-ref-49-2\" href=\"#en-note-49\" aria-label=\"Source reference 49\">49</a></sup></p>",
+      "V1-13-02": "<p><i lang=\"pi\">Nibbattilakkhaṇanti addhā-santati-khaṇavasena rūpassa uppādaṃ, uppādoyeva saṅkhatalakkhaṇattā lakkhaṇanti ca vutto.</i></p><p>“The characteristic of origination” is the origination of materiality in terms of period, continuity and moment. Origination itself is also called a characteristic because it is a characteristic of the conditioned.<sup><a class=\"note-ref\" id=\"en-ref-50\" href=\"#en-note-50\" aria-label=\"Source reference 50\">50</a></sup></p>",
+      "V1-13-03": "<p>In accordance with the explanations of the commentary and subcommentary, which cite the Paṭisambhidāmagga, the following are to be contemplated under the teaching “such is the arising of materiality” and the rest.</p>",
+      "V1-13-04": "<h3 id=\"v1-p13-heading-1\">Contemplating the Arising of the Materiality Aggregate</h3><ol><li>With the arising of ignorance (avijjā), kamma-born materiality (kammaja) arises.</li><li>With the arising of craving (taṇhā), kamma-born materiality arises.</li><li>With the arising of clinging (upādāna), kamma-born materiality arises.</li><li>With the arising of formations (saṅkhāra), kamma-born materiality arises.</li><li>With the arising of kamma, kamma-born materiality arises.</li></ol><p>• The actual arising of kamma-born materiality.</p><ol start=\"6\"><li>With the arising of consciousness (citta), consciousness-born materiality (cittaja) arises.</li></ol><p>• The actual arising of consciousness-born materiality.</p><ol start=\"7\"><li>With the arising of temperature (utu), temperature-born materiality (utuja) arises.</li></ol><p>• The actual arising of temperature-born materiality.</p><ol start=\"8\"><li>With the arising of nutriment (āhāra), nutriment-born materiality (āhāraja) arises.</li></ol><p>• The actual arising of nutriment-born materiality.</p>",
+      "V1-13-05": "<p>These are the matters to be contemplated. For the detailed method, see <strong>Volume V, the Insight Section — Detailed Contemplation of Arising and Passing Away — Contemplating the Nature of Arising (Samudayadhammānupassī)</strong>.</p>",
+      "V1-13-06": "<p>Among these, contemplating so as to know and see how an effect arises because its cause has arisen or existed, as in “with the arising of ignorance, kamma-born materiality arises”, is called seeing arising by way of conditions (paccayato udayadassana). It is contemplating the actual arising in terms of its causes.</p><p>Contemplating so as to know and see the actual arising of each group of effects corresponding to its causes, such as the arising of kamma-born materiality and of consciousness-born materiality, is called seeing arising by moment (khaṇato udayadassana). It is contemplating arising in terms of moments. When contemplating these matters too:</p>"
+    },
+    "v1-p14": {
+      "V1-14-01": "<p><i lang=\"pi\">Cakkhumā viya cakkhunā rūpāni…</i></p><p>“Like a person with eyes seeing visible forms with the eye…”<sup><a class=\"note-ref\" id=\"en-ref-44-2\" href=\"#en-note-44\" aria-label=\"Source reference 44\">44</a></sup></p><p><i lang=\"pi\">Rūpāni viya cakkhuviññāṇena rūpādīni tesaṃ ca samudayādike paccakkhe katvā dassanaṃ…</i></p><p>“Seeing by bringing materiality and the rest, together with their arising and so forth, directly before oneself, as visible forms are seen by eye-consciousness…”<sup><a class=\"note-ref\" id=\"en-ref-45-2\" href=\"#en-note-45\" aria-label=\"Source reference 45\">45</a></sup></p>",
+      "V1-14-02": "<p>In accordance with these explanations of the commentary and subcommentary, just as someone with eyes sees visible forms by eye-consciousness, the meditator must discern and contemplate these phenomena with the aid of the light arising from the knowledge discerning and contemplating them. One must personally penetrate, know and see them with direct knowledge, the knowledge of right view.</p>",
+      "V1-14-03": "<p>To contemplate in this way, the meditator must already have discerned:</p><ol><li>The respective causes, such as ignorance, craving, clinging, formations and kamma.</li><li>The respective effects, materiality, feeling, perception, formations and consciousness.</li><li>Their causal relationship: the arising of each respective effect through its respective cause.</li></ol><p>This is the domain of knowledge of delimitation of mentality and materiality (nāmarūpaparicchedañāṇa) and knowledge of discernment of conditions (paccayapariggahañāṇa).</p>",
+      "V1-14-04": "<p>Only a meditator who has reached the far shore of knowledge of delimitation of mentality and materiality and knowledge of discernment of conditions can contemplate in this way under “contemplating the nature of arising” (samudayadhammānupassī). The author of the Visuddhimagga accordingly includes this contemplation in the section on knowledge of arising and passing away (udayabbayañāṇa). See Visuddhimagga, vol. II, p. 266.<sup><a class=\"note-ref\" id=\"en-ref-51\" href=\"#en-note-51\" aria-label=\"Source reference 51\">51</a></sup></p>",
+      "V1-14-05": "<p>In this contemplation, when did ignorance, craving, clinging, formations and kamma arise? They are the fundamental causes of the material and mental phenomena in the present five aggregates subject to clinging that belong to the round of results (vipākavaṭṭa). To find the answer, read the following extract from the Paṭisambhidāmagga.</p>",
+      "V1-14-06": "<h3 id=\"v1-p14-heading-1\">Excerpt from the Paṭisambhidāmagga</h3><h3 id=\"v1-p14-heading-2\">Five Past Causes</h3><p><i lang=\"pi\">Purimakammabhavasmiṃ moho avijjā, āyūhanā saṅkhārā, nikanti taṇhā, upagamanaṃ upādānaṃ, cetanā bhavoti ime pañca dhammā purimakammabhavasmiṃ idha paṭisandhiyā paccayā.</i></p><p>“In the previous kamma-existence, delusion is ignorance, accumulation is formations, attachment is craving, approaching is clinging, and volition is existence. These five phenomena in the previous kamma-existence are conditions for rebirth-linking here.”<sup><a class=\"note-ref\" id=\"en-ref-52\" href=\"#en-note-52\" aria-label=\"Source reference 52\">52</a></sup></p>",
+      "V1-14-07": "<p><i lang=\"pi\">Tattha purimakammabhavasminti purime kammabhave, atītajātiyaṃ kammabhave kariyamāneti attho.</i></p><p>Here “in the previous kamma-existence” means in the former kamma-existence, when kamma-existence was being produced in the past birth.<sup><a class=\"note-ref\" id=\"en-ref-53\" href=\"#en-note-53\" aria-label=\"Source reference 53\">53</a></sup></p>"
+    },
+    "v1-p15": {
+      "V1-15-01": "<p>When producing and accumulating the kamma called kamma-existence (kammabhava) in the past life:</p><ol><li>Not knowing the four truths and wrongly perceiving a man, a woman, a person, a being, a human, a deity, a brahmā and so forth is ignorance (avijjā).</li><li>The wholesome and unwholesome phenomena that produce the five aggregates, such as human existence with its human aggregates and deva existence with its deva aggregates, are formations (saṅkhārā).</li><li>Attachment to and desire for those existences and sense objects, such as human and deva existence, is craving (taṇhā).</li><li>The mind’s adhering to and tightly grasping those existences and sense objects is clinging (upādāna).</li><li>Those wholesome or unwholesome volitions are called existence (bhava).</li></ol><p>This is kamma-existence, that is, kamma. In insight contemplation, volition (cetanā) is taken as primary. In contemplating the causal relationship, the power of kamma (kammasatti), that is, kamma, is taken as primary.</p>",
+      "V1-15-02": "<p>These five phenomena, formed or arisen when kamma-existence, kamma, was present in the previous life, are the causes of the five aggregates at rebirth-linking in this present life.<sup><a class=\"note-ref\" id=\"en-ref-54\" href=\"#en-note-54\" aria-label=\"Source reference 54\">54</a></sup></p>",
+      "V1-15-03": "<p>Of these five causes, ignorance, craving and clinging belong to the round of defilements. Formations and kamma belong to the round of kamma. These are the five past causes. Through them the following five present effects arise. They belong to the round of results.</p>",
+      "V1-15-04": "<h3 id=\"v1-p15-heading-1\">Five Present Effects</h3><p><i lang=\"pi\">Idha paṭisandhi viññāṇaṃ, okkanti nāmarūpaṃ, pasādo āyatanaṃ, phuṭṭho phasso, vedayitaṃ vedanā, ime pañca dhammā idhūpapattibhavasmiṃ purekatassa kammassa paccayā.</i></p><p>“Here, rebirth-linking is consciousness, descent is mentality and materiality, sensitivity is the base, touching is contact, and experiencing is feeling. These five phenomena in the present rebirth-existence occur with previously produced kamma as their condition.”<sup><a class=\"note-ref\" id=\"en-ref-54-2\" href=\"#en-note-54\" aria-label=\"Source reference 54\">54</a></sup></p>",
+      "V1-15-05": "<p>In this present life:</p><ol><li>Rebirth-linking consciousness, or resultant consciousness, whose nature is to connect the past life with the present life, is consciousness (viññāṇa).</li><li>The appearing that is like entering the mother’s womb is mentality and materiality (nāmarūpa).</li><li>Sensitive matter, such as the sensitive matter of the eye, is the six bases (saḷāyatana).</li><li>The meeting with and touching of the object is contact (phassa).</li><li>The experiencing of the object that occurs as feeling the object is feeling (vedanā).</li></ol>",
+      "V1-15-06": "<p>Thus these five phenomena arise and are formed when there is birth (jāti), called rebirth-existence (upapattibhava), in this present life, supported and conditioned by kamma produced and accumulated in the previous life.<sup><a class=\"note-ref\" id=\"en-ref-54-3\" href=\"#en-note-54\" aria-label=\"Source reference 54\">54</a></sup></p>"
+    },
+    "v1-p16": {
+      "V1-16-01": "<h3 id=\"v1-p16-heading-1\">Five Present Causes</h3><p><i lang=\"pi\">Idha paripakkattā āyatanānaṃ moho avijjā, āyūhanā saṅkhārā, nikanti taṇhā, upagamanaṃ upādānaṃ, cetanā bhavoti ime pañca dhammā idha kammabhavasmiṃ āyatiṃ paṭisandhiyā paccayā.</i></p><p>“Here, with the maturing of the bases, delusion is ignorance, accumulation is formations, attachment is craving, approaching is clinging, and volition is existence. These five phenomena in the present kamma-existence are conditions for rebirth-linking in the future.”<sup><a class=\"note-ref\" id=\"en-ref-55\" href=\"#en-note-55\" aria-label=\"Source reference 55\">55</a></sup></p>",
+      "V1-16-02": "<p>In this present life, with the maturing of the bases:</p><ol><li>Not knowing the four truths and wrongly perceiving a man, a woman, a person, a being, a human, a deity, a brahmā and so forth is ignorance (avijjā).</li><li>The wholesome and unwholesome phenomena that produce the five aggregates, such as human existence with its human aggregates and deva existence with its deva aggregates, are formations (saṅkhārā).</li><li>Attachment to and desire for those existences and sense objects, such as human and deva existence, is craving (taṇhā).</li><li>The mind’s adhering to and tightly grasping those existences and sense objects is clinging (upādāna).</li><li>Those wholesome or unwholesome volitions are called existence, kamma-existence, that is, kamma.</li></ol><p>These five phenomena, when kamma-existence is present in this life, are causes of rebirth-linking in the future life.<sup><a class=\"note-ref\" id=\"en-ref-55-2\" href=\"#en-note-55\" aria-label=\"Source reference 55\">55</a></sup></p>",
+      "V1-16-03": "<p><strong>Author’s note.</strong> In young children whose bases have not matured in this life, the mental process falls mostly into the life-continuum (bhavaṅga). Generally, they are not yet able to strive to produce kamma that generates another existence (bhavantarajanakakamma), kamma strong enough to bring forth a life. Hence the expression “with the maturing of the bases in this present life”.<sup><a class=\"note-ref\" id=\"en-ref-56\" href=\"#en-note-56\" aria-label=\"Source reference 56\">56</a></sup></p>",
+      "V1-16-04": "<h3 id=\"v1-p16-heading-2\">Five Future Effects</h3><p><i lang=\"pi\">Āyatiṃ paṭisandhi viññāṇaṃ, okkanti nāmarūpaṃ, pasādo āyatanaṃ, phuṭṭho phasso, vedayitaṃ vedanā, ime pañca dhammā āyatiṃ upapattibhavasmiṃ idhakatassa kammassa paccayā.</i></p><p>“In the future, rebirth-linking is consciousness, descent is mentality and materiality, sensitivity is the base, touching is contact, and experiencing is feeling. These five phenomena in future rebirth-existence occur with kamma produced here as their condition.”<sup><a class=\"note-ref\" id=\"en-ref-57\" href=\"#en-note-57\" aria-label=\"Source reference 57\">57</a></sup></p>",
+      "V1-16-05": "<ol><li>Rebirth-linking consciousness, or resultant consciousness, whose nature is to connect the present life with the future life, is consciousness (viññāṇa).</li><li>The appearing that is like entering the mother’s womb is mentality and materiality (nāmarūpa).</li><li>Sensitive matter, such as the sensitive matter of the eye, is the six bases (saḷāyatana).</li><li>The meeting with and touching of the object is contact (phassa).</li><li>The experiencing of the object that occurs as feeling the object is feeling (vedanā).</li></ol><p>These five phenomena arise when there is birth, called rebirth-existence, in the future life, supported and conditioned by kamma produced and accumulated in this present life.<sup><a class=\"note-ref\" id=\"en-ref-57-2\" href=\"#en-note-57\" aria-label=\"Source reference 57\">57</a></sup></p>"
     }
   },
   "toc": [
@@ -776,5 +858,755 @@
       "depth": 1
     }
   ],
-  "notesHtml": "<p id=\"en-homage-note\"><strong>Translator’s note.</strong> The Pāli reading <i lang=\"pi\">dukhamasahānaṃ</i> is provisional. The Burmese explanation compares the Buddha’s endurance to that of the great earth. <i lang=\"pi\">Nibbattaṃ</i> occurs in the explanation and has no separate word in the four-line verse. <a href=\"#en-homage-ref\">Return to the verse</a></p><p id=\"en-note-1\"><strong>Source reference 1.</strong> Source abbreviations as printed: Abhi-a 2, p. 347; Dī-a 2, p. 207; Ma-a 1, p. 247. <a href=\"#en-ref-1\">Return to the text</a></p><p id=\"en-note-2\"><strong>Source reference 2.</strong> Source abbreviations as printed: Abhi-a 2, p. 347; Dī-a 2, p. 207; Ma-a 1, p. 247; Mūlaṭī 2, p. 148. <a href=\"#en-ref-2\">Return to the text</a></p><p id=\"en-note-4\"><strong>Source reference 4.</strong> The title is printed in Burmese as သမ္မောဟဝိနောဒနီဘာသာဋီကာ, vol. II, p. 286. The precise bibliographic identity remains to be verified. <a href=\"#en-ref-4\">Return to the text</a></p><p id=\"en-note-19\"><strong>Source reference 19.</strong> Paṭisambhidāmagga, p. 245. <a href=\"#en-ref-19\">Return to the text</a></p><p id=\"en-note-20\"><strong>Source reference 20.</strong> Paṭisambhidāmagga commentary, vol. II, p. 161. <a href=\"#en-ref-20\">Return to the text</a></p><p id=\"en-note-21\"><strong>Source reference 21.</strong> Saṃyuttanikāya, vol. III, p. 195. <a href=\"#en-ref-21\">Return to the text</a></p><p id=\"en-note-22\"><strong>Source reference 22.</strong> Saṃyuttanikāya commentary, vol. III, p. 279. <a href=\"#en-ref-22\">Return to the text</a></p><p id=\"en-note-23\"><strong>Source reference 23.</strong> Dīghanikāya commentary, vol. III, p. 202. <a href=\"#en-ref-23\">Return to the text</a></p><p id=\"en-note-24\"><strong>Source reference 24.</strong> Dīghanikāya subcommentary, vol. III, p. 234. <a href=\"#en-ref-24\">Return to the text</a></p><p id=\"en-note-25\"><strong>Source reference 25.</strong> Saṃyuttanikāya, vol. I, p. 267. The Pāli extract marks an abbreviation after the clause on feeling. The Burmese exposition on the next page gives the five items in full and distinguishes a cause from the event itself. <a href=\"#en-ref-25\">Return to the text 1</a> · <a href=\"#en-ref-25-2\">Return to the text 2</a></p><p id=\"en-note-26\"><strong>Source reference 26.</strong> Saṃyuttanikāya commentary, vol. II, p. 49. <a href=\"#en-ref-26\">Return to the text 1</a></p><p id=\"en-note-27\"><strong>Source reference 27.</strong> Saṃyuttanikāya subcommentary, vol. II, p. 63. <a href=\"#en-ref-27\">Return to the text 1</a> · <a href=\"#en-ref-27-2\">Return to the text 2</a> · <a href=\"#en-ref-27-3\">Return to the text 3</a></p><p id=\"en-note-28\"><strong>Source reference 28.</strong> Majjhimanikāya subcommentary, vol. I, p. 146. <a href=\"#en-ref-28\">Return to the text 1</a></p><p id=\"en-note-29\"><strong>Source reference 29.</strong> Majjhimanikāya subcommentary, vol. I, pp. 146–147. <a href=\"#en-ref-29\">Return to the text 1</a></p><p id=\"en-note-30\"><strong>Source reference 30.</strong> Saṃyuttanikāya subcommentary, vol. II, p. 64. <a href=\"#en-ref-30\">Return to the text 1</a></p><p id=\"en-note-31\"><strong>Source reference 31.</strong> Saṃyuttanikāya subcommentary, vol. II, p. 65. <a href=\"#en-ref-31\">Return to the text 1</a></p><p id=\"en-note-32\"><strong>Source reference 32.</strong> Saṃyuttanikāya commentary, vol. II, p. 49. The Burmese here is the author’s exposition of that commentary. <a href=\"#en-ref-32\">Return to the text 1</a> · <a href=\"#en-ref-32-2\">Return to the text 2</a> · <a href=\"#en-ref-32-3\">Return to the text 3</a></p><p id=\"en-note-33\"><strong>Source reference 33.</strong> Aṭṭhasālinī, Abhidhamma commentary, vol. I, p. 166. <a href=\"#en-ref-33\">Return to the text 1</a></p><p id=\"en-note-34\"><strong>Source reference 34.</strong> Saṃyuttanikāya subcommentary, vol. II, p. 63. <a href=\"#en-ref-34\">Return to the text 1</a> · <a href=\"#en-ref-34-2\">Return to the text 2</a></p>"
+  "notesHtml": "<p id=\"en-homage-note\"><strong>Translator’s note.</strong> The Pāli reading <i lang=\"pi\">dukhamasahānaṃ</i> is provisional. The Burmese explanation compares the Buddha’s endurance to that of the great earth. <i lang=\"pi\">Nibbattaṃ</i> occurs in the explanation and has no separate word in the four-line verse. <a href=\"#en-homage-ref\">Return to the verse</a></p><p id=\"en-note-1\"><strong>Source reference 1.</strong> Source abbreviations as printed: Abhi-a 2, p. 347; Dī-a 2, p. 207; Ma-a 1, p. 247. <a href=\"#en-ref-1\">Return to the text</a></p><p id=\"en-note-2\"><strong>Source reference 2.</strong> Source abbreviations as printed: Abhi-a 2, p. 347; Dī-a 2, p. 207; Ma-a 1, p. 247; Mūlaṭī 2, p. 148. <a href=\"#en-ref-2\">Return to the text</a></p><p id=\"en-note-4\"><strong>Source reference 4.</strong> The title is printed in Burmese as သမ္မောဟဝိနောဒနီဘာသာဋီကာ, vol. II, p. 286. The precise bibliographic identity remains to be verified. <a href=\"#en-ref-4\">Return to the text</a></p><p id=\"en-note-19\"><strong>Source reference 19.</strong> Paṭisambhidāmagga, p. 245. <a href=\"#en-ref-19\">Return to the text</a></p><p id=\"en-note-20\"><strong>Source reference 20.</strong> Paṭisambhidāmagga commentary, vol. II, p. 161. <a href=\"#en-ref-20\">Return to the text</a></p><p id=\"en-note-21\"><strong>Source reference 21.</strong> Saṃyuttanikāya, vol. III, p. 195. <a href=\"#en-ref-21\">Return to the text</a></p><p id=\"en-note-22\"><strong>Source reference 22.</strong> Saṃyuttanikāya commentary, vol. III, p. 279. <a href=\"#en-ref-22\">Return to the text</a></p><p id=\"en-note-23\"><strong>Source reference 23.</strong> Dīghanikāya commentary, vol. III, p. 202. <a href=\"#en-ref-23\">Return to the text</a></p><p id=\"en-note-24\"><strong>Source reference 24.</strong> Dīghanikāya subcommentary, vol. III, p. 234. <a href=\"#en-ref-24\">Return to the text</a></p><p id=\"en-note-25\"><strong>Source reference 25.</strong> Saṃyuttanikāya, vol. I, p. 267. The Pāli extract marks an abbreviation after the clause on feeling. The Burmese exposition on the next page gives the five items in full and distinguishes a cause from the event itself. <a href=\"#en-ref-25\">Return to the text 1</a> · <a href=\"#en-ref-25-2\">Return to the text 2</a></p><p id=\"en-note-26\"><strong>Source reference 26.</strong> Saṃyuttanikāya commentary, vol. II, p. 49. <a href=\"#en-ref-26\">Return to the text 1</a></p><p id=\"en-note-27\"><strong>Source reference 27.</strong> Saṃyuttanikāya subcommentary, vol. II, p. 63. <a href=\"#en-ref-27\">Return to the text 1</a> · <a href=\"#en-ref-27-2\">Return to the text 2</a> · <a href=\"#en-ref-27-3\">Return to the text 3</a></p><p id=\"en-note-28\"><strong>Source reference 28.</strong> Majjhimanikāya subcommentary, vol. I, p. 146. <a href=\"#en-ref-28\">Return to the text 1</a></p><p id=\"en-note-29\"><strong>Source reference 29.</strong> Majjhimanikāya subcommentary, vol. I, pp. 146–147. <a href=\"#en-ref-29\">Return to the text 1</a></p><p id=\"en-note-30\"><strong>Source reference 30.</strong> Saṃyuttanikāya subcommentary, vol. II, p. 64. <a href=\"#en-ref-30\">Return to the text 1</a></p><p id=\"en-note-31\"><strong>Source reference 31.</strong> Saṃyuttanikāya subcommentary, vol. II, p. 65. <a href=\"#en-ref-31\">Return to the text 1</a></p><p id=\"en-note-32\"><strong>Source reference 32.</strong> Saṃyuttanikāya commentary, vol. II, p. 49. The Burmese here is the author’s exposition of that commentary. <a href=\"#en-ref-32\">Return to the text 1</a> · <a href=\"#en-ref-32-2\">Return to the text 2</a> · <a href=\"#en-ref-32-3\">Return to the text 3</a></p><p id=\"en-note-33\"><strong>Source reference 33.</strong> Aṭṭhasālinī, Abhidhamma commentary, vol. I, p. 166. <a href=\"#en-ref-33\">Return to the text 1</a></p><p id=\"en-note-34\"><strong>Source reference 34.</strong> Saṃyuttanikāya subcommentary, vol. II, p. 63. <a href=\"#en-ref-34\">Return to the text 1</a> · <a href=\"#en-ref-34-2\">Return to the text 2</a></p><p id=\"en-note-35\"><strong>Source reference 35.</strong> Aṅguttaranikāya subcommentary, vol. II, p. 166. <a href=\"#en-ref-35\">Return to the text 1</a></p><p id=\"en-note-36\"><strong>Source reference 36.</strong> Saṃyuttanikāya subcommentary, vol. II, p. 317. <a href=\"#en-ref-36\">Return to the text 1</a> · <a href=\"#en-ref-36-2\">Return to the text 2</a></p><p id=\"en-note-37\"><strong>Source reference 37.</strong> Majjhimanikāya, vol. II, p. 291. <a href=\"#en-ref-37\">Return to the text 1</a></p><p id=\"en-note-38\"><strong>Source reference 38.</strong> Majjhimanikāya, vol. I, p. 88, as printed. The Burmese author gives the title Mahāsatipaṭṭhānasutta after his exposition. The correspondence of the title and page reference to the cited edition remains to be verified. <a href=\"#en-ref-38\">Return to the text 1</a> · <a href=\"#en-ref-38-2\">Return to the text 2</a></p><p id=\"en-note-39\"><strong>Source reference 39.</strong> Saṃyuttanikāya, vol. II, p. 39, Khandhasutta, as printed. The explanations of “far” and “near” in relation to a meditator’s knowledge are part of the author’s Burmese exposition. <a href=\"#en-ref-39\">Return to the text 1</a> · <a href=\"#en-ref-39-2\">Return to the text 2</a> · <a href=\"#en-ref-39-3\">Return to the text 3</a></p><p id=\"en-note-40\"><strong>Source reference 40.</strong> Dīghanikāya commentary, vol. II, pp. 53 and 373. The printed abbreviation is retained. <a href=\"#en-ref-40\">Return to the text 1</a> · <a href=\"#en-ref-40-2\">Return to the text 2</a></p><p id=\"en-note-41\"><strong>Source reference 41.</strong> Dīghanikāya subcommentary, vol. II, p. 320. The quotation and its English rendering continue across the page boundary between V1-9-06 and V1-10-01. <a href=\"#en-ref-41\">Return to the text 1</a></p><p id=\"en-note-43\"><strong>Source reference 43.</strong> Dīghanikāya commentary, vol. II, p. 53. <a href=\"#en-ref-43\">Return to the text 1</a></p><p id=\"en-note-44\"><strong>Source reference 44.</strong> Saṃyuttanikāya commentary, vol. II, p. 49. <a href=\"#en-ref-44\">Return to the text 1</a> · <a href=\"#en-ref-44-2\">Return to the text 2</a></p><p id=\"en-note-45\"><strong>Source reference 45.</strong> Saṃyuttanikāya subcommentary, vol. II, p. 63. <a href=\"#en-ref-45\">Return to the text 1</a> · <a href=\"#en-ref-45-2\">Return to the text 2</a></p><p id=\"en-note-47\"><strong>Source reference 47.</strong> Dīghanikāya commentary, vol. II, p. 373. <a href=\"#en-ref-47\">Return to the text 1</a></p><p id=\"en-note-48\"><strong>Source reference 48.</strong> Dīghanikāya commentary, vol. II, p. 53, quoting Paṭisambhidāmagga, p. 53. <a href=\"#en-ref-48\">Return to the text 1</a></p><p id=\"en-note-49\"><strong>Source reference 49.</strong> Dīghanikāya subcommentary, vol. II, pp. 53–54. The extract continues across V1-12-06 and V1-13-01. The reading nirodhanirodhī and the corresponding provisional rendering “opposed to cessation” require comparison with another edition. <a href=\"#en-ref-49\">Return to the text 1</a> · <a href=\"#en-ref-49-2\">Return to the text 2</a></p><p id=\"en-note-50\"><strong>Source reference 50.</strong> Paṭisambhidāmagga commentary, vol. I, p. 235. <a href=\"#en-ref-50\">Return to the text 1</a></p><p id=\"en-note-51\"><strong>Source reference 51.</strong> Visuddhimagga, vol. II, p. 266. <a href=\"#en-ref-51\">Return to the text 1</a></p><p id=\"en-note-52\"><strong>Source reference 52.</strong> Paṭisambhidāmagga, p. 50. <a href=\"#en-ref-52\">Return to the text 1</a></p><p id=\"en-note-53\"><strong>Source reference 53.</strong> Abhidhamma commentary, vol. II, p. 182; Visuddhimagga, vol. II, p. 214. <a href=\"#en-ref-53\">Return to the text 1</a></p><p id=\"en-note-54\"><strong>Source reference 54.</strong> Paṭisambhidāmagga, p. 50. <a href=\"#en-ref-54\">Return to the text 1</a> · <a href=\"#en-ref-54-2\">Return to the text 2</a> · <a href=\"#en-ref-54-3\">Return to the text 3</a></p><p id=\"en-note-55\"><strong>Source reference 55.</strong> Paṭisambhidāmagga, p. 50, following the printed PDF. An auxiliary Unicode copy gives pp. 50–51. <a href=\"#en-ref-55\">Return to the text 1</a> · <a href=\"#en-ref-55-2\">Return to the text 2</a></p><p id=\"en-note-56\"><strong>Source reference 56.</strong> Visuddhimagga Mahāṭīkā, vol. II, p. 339, in the author’s note. <a href=\"#en-ref-56\">Return to the text 1</a></p><p id=\"en-note-57\"><strong>Source reference 57.</strong> Paṭisambhidāmagga, p. 51. <a href=\"#en-ref-57\">Return to the text 1</a> · <a href=\"#en-ref-57-2\">Return to the text 2</a></p>",
+  "progress": {
+    "bodyDraftThrough": {
+      "printed": 16,
+      "pdf": 43,
+      "lastGroup": "V1-16-05"
+    },
+    "bodySelfCollatedThrough": {
+      "printed": 16,
+      "pdf": 43
+    },
+    "bodyPublishedThrough": null,
+    "nextGroup": "V1-17-01",
+    "nextPrinted": 17,
+    "nextPdf": 44,
+    "independentlyReviewed": false
+  },
+  "alignmentSources": {
+    "V1-FRONT-01-01": {
+      "pageId": "v1-front-1",
+      "pdf": 1,
+      "printed": "Không đánh số",
+      "status": "self-collated-review-draft"
+    },
+    "V1-FRONT-02-01": {
+      "pageId": "v1-front-2",
+      "pdf": 2,
+      "printed": "Không đánh số",
+      "status": "self-collated-review-draft"
+    },
+    "V1-FRONT-03-01": {
+      "pageId": "v1-front-3",
+      "pdf": 3,
+      "printed": "Không đánh số",
+      "status": "self-collated-review-draft"
+    },
+    "V1-FRONT-04-01": {
+      "pageId": "v1-front-4",
+      "pdf": 4,
+      "printed": "Không đánh số",
+      "status": "self-collated-review-draft"
+    },
+    "V1-FRONT-05-01": {
+      "pageId": "v1-front-5",
+      "pdf": 5,
+      "printed": "Không đánh số",
+      "status": "self-collated-review-draft"
+    },
+    "V1-FRONT-05-02": {
+      "pageId": "v1-front-5",
+      "pdf": 5,
+      "printed": "Không đánh số",
+      "status": "self-collated-review-draft"
+    },
+    "V1-FRONT-05-03": {
+      "pageId": "v1-front-5",
+      "pdf": 5,
+      "printed": "Không đánh số",
+      "status": "self-collated-review-draft"
+    },
+    "V1-FRONT-05-04": {
+      "pageId": "v1-front-5",
+      "pdf": 5,
+      "printed": "Không đánh số",
+      "status": "self-collated-review-draft"
+    },
+    "V1-FRONT-05-05": {
+      "pageId": "v1-front-5",
+      "pdf": 5,
+      "printed": "Không đánh số",
+      "status": "self-collated-review-draft"
+    },
+    "V1-1-01": {
+      "pageId": "v1-p1",
+      "pdf": 28,
+      "printed": "1",
+      "status": "self-collated-review-draft"
+    },
+    "V1-1-02": {
+      "pageId": "v1-p1",
+      "pdf": 28,
+      "printed": "1",
+      "status": "self-collated-review-draft"
+    },
+    "V1-1-03": {
+      "pageId": "v1-p1",
+      "pdf": 28,
+      "printed": "1",
+      "status": "self-collated-review-draft"
+    },
+    "V1-1-04": {
+      "pageId": "v1-p1",
+      "pdf": 28,
+      "printed": "1",
+      "status": "self-collated-review-draft"
+    },
+    "V1-A-01": {
+      "pageId": "v1-pA",
+      "pdf": 17,
+      "printed": "A",
+      "status": "self-collated-review-draft"
+    },
+    "V1-A-02": {
+      "pageId": "v1-pA",
+      "pdf": 17,
+      "printed": "A",
+      "status": "self-collated-review-draft"
+    },
+    "V1-A-03": {
+      "pageId": "v1-pA",
+      "pdf": 17,
+      "printed": "A",
+      "status": "self-collated-review-draft"
+    },
+    "V1-A-04": {
+      "pageId": "v1-pA",
+      "pdf": 17,
+      "printed": "A",
+      "status": "self-collated-review-draft"
+    },
+    "V1-A-05": {
+      "pageId": "v1-pA",
+      "pdf": 17,
+      "printed": "A",
+      "status": "self-collated-review-draft"
+    },
+    "V1-A-06": {
+      "pageId": "v1-pA",
+      "pdf": 17,
+      "printed": "A",
+      "status": "self-collated-review-draft"
+    },
+    "V1-A-07": {
+      "pageId": "v1-pA",
+      "pdf": 17,
+      "printed": "A",
+      "status": "self-collated-review-draft"
+    },
+    "V1-B-01": {
+      "pageId": "v1-pB",
+      "pdf": 18,
+      "printed": "B",
+      "status": "self-collated-review-draft"
+    },
+    "V1-B-02": {
+      "pageId": "v1-pB",
+      "pdf": 18,
+      "printed": "B",
+      "status": "self-collated-review-draft"
+    },
+    "V1-B-03": {
+      "pageId": "v1-pB",
+      "pdf": 18,
+      "printed": "B",
+      "status": "self-collated-review-draft"
+    },
+    "V1-B-04": {
+      "pageId": "v1-pB",
+      "pdf": 18,
+      "printed": "B",
+      "status": "self-collated-review-draft"
+    },
+    "V1-B-05": {
+      "pageId": "v1-pB",
+      "pdf": 18,
+      "printed": "B",
+      "status": "self-collated-review-draft"
+    },
+    "V1-B-06": {
+      "pageId": "v1-pB",
+      "pdf": 18,
+      "printed": "B",
+      "status": "self-collated-review-draft"
+    },
+    "V1-B-07": {
+      "pageId": "v1-pB",
+      "pdf": 18,
+      "printed": "B",
+      "status": "self-collated-review-draft"
+    },
+    "V1-2-01": {
+      "pageId": "v1-p2",
+      "pdf": 29,
+      "printed": "2",
+      "status": "self-collated-review-draft"
+    },
+    "V1-2-02": {
+      "pageId": "v1-p2",
+      "pdf": 29,
+      "printed": "2",
+      "status": "self-collated-review-draft"
+    },
+    "V1-2-03": {
+      "pageId": "v1-p2",
+      "pdf": 29,
+      "printed": "2",
+      "status": "self-collated-review-draft"
+    },
+    "V1-2-04": {
+      "pageId": "v1-p2",
+      "pdf": 29,
+      "printed": "2",
+      "status": "self-collated-review-draft"
+    },
+    "V1-2-05": {
+      "pageId": "v1-p2",
+      "pdf": 29,
+      "printed": "2",
+      "status": "self-collated-review-draft"
+    },
+    "V1-2-06": {
+      "pageId": "v1-p2",
+      "pdf": 29,
+      "printed": "2",
+      "status": "self-collated-review-draft"
+    },
+    "V1-3-01": {
+      "pageId": "v1-p3",
+      "pdf": 30,
+      "printed": "3",
+      "status": "self-collated-review-draft"
+    },
+    "V1-3-02": {
+      "pageId": "v1-p3",
+      "pdf": 30,
+      "printed": "3",
+      "status": "self-collated-review-draft"
+    },
+    "V1-3-03": {
+      "pageId": "v1-p3",
+      "pdf": 30,
+      "printed": "3",
+      "status": "self-collated-review-draft"
+    },
+    "V1-3-04": {
+      "pageId": "v1-p3",
+      "pdf": 30,
+      "printed": "3",
+      "status": "self-collated-review-draft"
+    },
+    "V1-3-05": {
+      "pageId": "v1-p3",
+      "pdf": 30,
+      "printed": "3",
+      "status": "self-collated-review-draft"
+    },
+    "V1-4-01": {
+      "pageId": "v1-p4",
+      "pdf": 31,
+      "printed": "4",
+      "status": "self-collated-review-draft"
+    },
+    "V1-4-02": {
+      "pageId": "v1-p4",
+      "pdf": 31,
+      "printed": "4",
+      "status": "self-collated-review-draft"
+    },
+    "V1-4-03": {
+      "pageId": "v1-p4",
+      "pdf": 31,
+      "printed": "4",
+      "status": "self-collated-review-draft"
+    },
+    "V1-4-04": {
+      "pageId": "v1-p4",
+      "pdf": 31,
+      "printed": "4",
+      "status": "self-collated-review-draft"
+    },
+    "V1-4-05": {
+      "pageId": "v1-p4",
+      "pdf": 31,
+      "printed": "4",
+      "status": "self-collated-review-draft"
+    },
+    "V1-4-06": {
+      "pageId": "v1-p4",
+      "pdf": 31,
+      "printed": "4",
+      "status": "self-collated-review-draft"
+    },
+    "V1-4-07": {
+      "pageId": "v1-p4",
+      "pdf": 31,
+      "printed": "4",
+      "status": "self-collated-review-draft"
+    },
+    "V1-4-08": {
+      "pageId": "v1-p4",
+      "pdf": 31,
+      "printed": "4",
+      "status": "self-collated-review-draft"
+    },
+    "V1-4-09": {
+      "pageId": "v1-p4",
+      "pdf": 31,
+      "printed": "4",
+      "status": "self-collated-review-draft"
+    },
+    "V1-4-10": {
+      "pageId": "v1-p4",
+      "pdf": 31,
+      "printed": "4",
+      "status": "self-collated-review-draft"
+    },
+    "V1-4-11": {
+      "pageId": "v1-p4",
+      "pdf": 31,
+      "printed": "4",
+      "status": "self-collated-review-draft"
+    },
+    "V1-5-01": {
+      "pageId": "v1-p5",
+      "pdf": 32,
+      "printed": "5",
+      "status": "self-collated-review-draft"
+    },
+    "V1-5-02": {
+      "pageId": "v1-p5",
+      "pdf": 32,
+      "printed": "5",
+      "status": "self-collated-review-draft"
+    },
+    "V1-5-03": {
+      "pageId": "v1-p5",
+      "pdf": 32,
+      "printed": "5",
+      "status": "self-collated-review-draft"
+    },
+    "V1-5-04": {
+      "pageId": "v1-p5",
+      "pdf": 32,
+      "printed": "5",
+      "status": "self-collated-review-draft"
+    },
+    "V1-5-05": {
+      "pageId": "v1-p5",
+      "pdf": 32,
+      "printed": "5",
+      "status": "self-collated-review-draft"
+    },
+    "V1-5-06": {
+      "pageId": "v1-p5",
+      "pdf": 32,
+      "printed": "5",
+      "status": "self-collated-review-draft"
+    },
+    "V1-5-07": {
+      "pageId": "v1-p5",
+      "pdf": 32,
+      "printed": "5",
+      "status": "self-collated-review-draft"
+    },
+    "V1-6-01": {
+      "pageId": "v1-p6",
+      "pdf": 33,
+      "printed": "6",
+      "status": "self-collated-review-draft"
+    },
+    "V1-6-02": {
+      "pageId": "v1-p6",
+      "pdf": 33,
+      "printed": "6",
+      "status": "self-collated-review-draft"
+    },
+    "V1-6-03": {
+      "pageId": "v1-p6",
+      "pdf": 33,
+      "printed": "6",
+      "status": "self-collated-review-draft"
+    },
+    "V1-6-04": {
+      "pageId": "v1-p6",
+      "pdf": 33,
+      "printed": "6",
+      "status": "self-collated-review-draft"
+    },
+    "V1-6-05": {
+      "pageId": "v1-p6",
+      "pdf": 33,
+      "printed": "6",
+      "status": "self-collated-review-draft"
+    },
+    "V1-6-06": {
+      "pageId": "v1-p6",
+      "pdf": 33,
+      "printed": "6",
+      "status": "self-collated-review-draft"
+    },
+    "V1-6-07": {
+      "pageId": "v1-p6",
+      "pdf": 33,
+      "printed": "6",
+      "status": "self-collated-review-draft"
+    },
+    "V1-7-01": {
+      "pageId": "v1-p7",
+      "pdf": 34,
+      "printed": "7",
+      "status": "self-collated-review-draft"
+    },
+    "V1-7-02": {
+      "pageId": "v1-p7",
+      "pdf": 34,
+      "printed": "7",
+      "status": "self-collated-review-draft"
+    },
+    "V1-7-03": {
+      "pageId": "v1-p7",
+      "pdf": 34,
+      "printed": "7",
+      "status": "self-collated-review-draft"
+    },
+    "V1-7-04": {
+      "pageId": "v1-p7",
+      "pdf": 34,
+      "printed": "7",
+      "status": "self-collated-review-draft"
+    },
+    "V1-7-05": {
+      "pageId": "v1-p7",
+      "pdf": 34,
+      "printed": "7",
+      "status": "self-collated-review-draft"
+    },
+    "V1-7-06": {
+      "pageId": "v1-p7",
+      "pdf": 34,
+      "printed": "7",
+      "status": "self-collated-review-draft"
+    },
+    "V1-7-07": {
+      "pageId": "v1-p7",
+      "pdf": 34,
+      "printed": "7",
+      "status": "self-collated-review-draft"
+    },
+    "V1-8-01": {
+      "pageId": "v1-p8",
+      "pdf": 35,
+      "printed": "8",
+      "status": "self-collated-review-draft"
+    },
+    "V1-8-02": {
+      "pageId": "v1-p8",
+      "pdf": 35,
+      "printed": "8",
+      "status": "self-collated-review-draft"
+    },
+    "V1-8-03": {
+      "pageId": "v1-p8",
+      "pdf": 35,
+      "printed": "8",
+      "status": "self-collated-review-draft"
+    },
+    "V1-8-04": {
+      "pageId": "v1-p8",
+      "pdf": 35,
+      "printed": "8",
+      "status": "self-collated-review-draft"
+    },
+    "V1-8-05": {
+      "pageId": "v1-p8",
+      "pdf": 35,
+      "printed": "8",
+      "status": "self-collated-review-draft"
+    },
+    "V1-9-01": {
+      "pageId": "v1-p9",
+      "pdf": 36,
+      "printed": "9",
+      "status": "self-collated-review-draft"
+    },
+    "V1-9-02": {
+      "pageId": "v1-p9",
+      "pdf": 36,
+      "printed": "9",
+      "status": "self-collated-review-draft"
+    },
+    "V1-9-03": {
+      "pageId": "v1-p9",
+      "pdf": 36,
+      "printed": "9",
+      "status": "self-collated-review-draft"
+    },
+    "V1-9-04": {
+      "pageId": "v1-p9",
+      "pdf": 36,
+      "printed": "9",
+      "status": "self-collated-review-draft"
+    },
+    "V1-9-05": {
+      "pageId": "v1-p9",
+      "pdf": 36,
+      "printed": "9",
+      "status": "self-collated-review-draft"
+    },
+    "V1-9-06": {
+      "pageId": "v1-p9",
+      "pdf": 36,
+      "printed": "9",
+      "status": "self-collated-review-draft"
+    },
+    "V1-10-01": {
+      "pageId": "v1-p10",
+      "pdf": 37,
+      "printed": "10",
+      "status": "self-collated-review-draft"
+    },
+    "V1-10-02": {
+      "pageId": "v1-p10",
+      "pdf": 37,
+      "printed": "10",
+      "status": "self-collated-review-draft"
+    },
+    "V1-10-03": {
+      "pageId": "v1-p10",
+      "pdf": 37,
+      "printed": "10",
+      "status": "self-collated-review-draft"
+    },
+    "V1-10-04": {
+      "pageId": "v1-p10",
+      "pdf": 37,
+      "printed": "10",
+      "status": "self-collated-review-draft"
+    },
+    "V1-10-05": {
+      "pageId": "v1-p10",
+      "pdf": 37,
+      "printed": "10",
+      "status": "self-collated-review-draft"
+    },
+    "V1-10-06": {
+      "pageId": "v1-p10",
+      "pdf": 37,
+      "printed": "10",
+      "status": "self-collated-review-draft"
+    },
+    "V1-11-01": {
+      "pageId": "v1-p11",
+      "pdf": 38,
+      "printed": "11",
+      "status": "self-collated-review-draft"
+    },
+    "V1-11-02": {
+      "pageId": "v1-p11",
+      "pdf": 38,
+      "printed": "11",
+      "status": "self-collated-review-draft"
+    },
+    "V1-11-03": {
+      "pageId": "v1-p11",
+      "pdf": 38,
+      "printed": "11",
+      "status": "self-collated-review-draft"
+    },
+    "V1-11-04": {
+      "pageId": "v1-p11",
+      "pdf": 38,
+      "printed": "11",
+      "status": "self-collated-review-draft"
+    },
+    "V1-11-05": {
+      "pageId": "v1-p11",
+      "pdf": 38,
+      "printed": "11",
+      "status": "self-collated-review-draft"
+    },
+    "V1-12-01": {
+      "pageId": "v1-p12",
+      "pdf": 39,
+      "printed": "12",
+      "status": "self-collated-review-draft"
+    },
+    "V1-12-02": {
+      "pageId": "v1-p12",
+      "pdf": 39,
+      "printed": "12",
+      "status": "self-collated-review-draft"
+    },
+    "V1-12-03": {
+      "pageId": "v1-p12",
+      "pdf": 39,
+      "printed": "12",
+      "status": "self-collated-review-draft"
+    },
+    "V1-12-04": {
+      "pageId": "v1-p12",
+      "pdf": 39,
+      "printed": "12",
+      "status": "self-collated-review-draft"
+    },
+    "V1-12-05": {
+      "pageId": "v1-p12",
+      "pdf": 39,
+      "printed": "12",
+      "status": "self-collated-review-draft"
+    },
+    "V1-12-06": {
+      "pageId": "v1-p12",
+      "pdf": 39,
+      "printed": "12",
+      "status": "self-collated-review-draft"
+    },
+    "V1-13-01": {
+      "pageId": "v1-p13",
+      "pdf": 40,
+      "printed": "13",
+      "status": "self-collated-review-draft"
+    },
+    "V1-13-02": {
+      "pageId": "v1-p13",
+      "pdf": 40,
+      "printed": "13",
+      "status": "self-collated-review-draft"
+    },
+    "V1-13-03": {
+      "pageId": "v1-p13",
+      "pdf": 40,
+      "printed": "13",
+      "status": "self-collated-review-draft"
+    },
+    "V1-13-04": {
+      "pageId": "v1-p13",
+      "pdf": 40,
+      "printed": "13",
+      "status": "self-collated-review-draft"
+    },
+    "V1-13-05": {
+      "pageId": "v1-p13",
+      "pdf": 40,
+      "printed": "13",
+      "status": "self-collated-review-draft"
+    },
+    "V1-13-06": {
+      "pageId": "v1-p13",
+      "pdf": 40,
+      "printed": "13",
+      "status": "self-collated-review-draft"
+    },
+    "V1-14-01": {
+      "pageId": "v1-p14",
+      "pdf": 41,
+      "printed": "14",
+      "status": "self-collated-review-draft"
+    },
+    "V1-14-02": {
+      "pageId": "v1-p14",
+      "pdf": 41,
+      "printed": "14",
+      "status": "self-collated-review-draft"
+    },
+    "V1-14-03": {
+      "pageId": "v1-p14",
+      "pdf": 41,
+      "printed": "14",
+      "status": "self-collated-review-draft"
+    },
+    "V1-14-04": {
+      "pageId": "v1-p14",
+      "pdf": 41,
+      "printed": "14",
+      "status": "self-collated-review-draft"
+    },
+    "V1-14-05": {
+      "pageId": "v1-p14",
+      "pdf": 41,
+      "printed": "14",
+      "status": "self-collated-review-draft"
+    },
+    "V1-14-06": {
+      "pageId": "v1-p14",
+      "pdf": 41,
+      "printed": "14",
+      "status": "self-collated-review-draft"
+    },
+    "V1-14-07": {
+      "pageId": "v1-p14",
+      "pdf": 41,
+      "printed": "14",
+      "status": "self-collated-review-draft"
+    },
+    "V1-15-01": {
+      "pageId": "v1-p15",
+      "pdf": 42,
+      "printed": "15",
+      "status": "self-collated-review-draft"
+    },
+    "V1-15-02": {
+      "pageId": "v1-p15",
+      "pdf": 42,
+      "printed": "15",
+      "status": "self-collated-review-draft"
+    },
+    "V1-15-03": {
+      "pageId": "v1-p15",
+      "pdf": 42,
+      "printed": "15",
+      "status": "self-collated-review-draft"
+    },
+    "V1-15-04": {
+      "pageId": "v1-p15",
+      "pdf": 42,
+      "printed": "15",
+      "status": "self-collated-review-draft"
+    },
+    "V1-15-05": {
+      "pageId": "v1-p15",
+      "pdf": 42,
+      "printed": "15",
+      "status": "self-collated-review-draft"
+    },
+    "V1-15-06": {
+      "pageId": "v1-p15",
+      "pdf": 42,
+      "printed": "15",
+      "status": "self-collated-review-draft"
+    },
+    "V1-16-01": {
+      "pageId": "v1-p16",
+      "pdf": 43,
+      "printed": "16",
+      "status": "self-collated-review-draft"
+    },
+    "V1-16-02": {
+      "pageId": "v1-p16",
+      "pdf": 43,
+      "printed": "16",
+      "status": "self-collated-review-draft"
+    },
+    "V1-16-03": {
+      "pageId": "v1-p16",
+      "pdf": 43,
+      "printed": "16",
+      "status": "self-collated-review-draft"
+    },
+    "V1-16-04": {
+      "pageId": "v1-p16",
+      "pdf": 43,
+      "printed": "16",
+      "status": "self-collated-review-draft"
+    },
+    "V1-16-05": {
+      "pageId": "v1-p16",
+      "pdf": 43,
+      "printed": "16",
+      "status": "self-collated-review-draft"
+    }
+  }
 }
