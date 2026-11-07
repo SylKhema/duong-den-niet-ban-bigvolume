@@ -1,0 +1,323 @@
+{
+  "volume": 1,
+  "status": "review",
+  "coverage": "Cover and opening pages (PDF 1–5), first contents leaf (PDF 6), and the first body section (Burmese p. 1 / PDF 28).",
+  "pages": {
+    "v1-front-1": {
+      "V1-FRONT-01-01": "<p><strong>Nibbānagāminipaṭipadā</strong></p><p><strong>The Practice Leading to Nibbāna — Volume I</strong></p><p>One Auspicious Night · How to Establish Concentration</p><p>Concentration through Mindfulness of Breathing · Materiality Meditation</p><p><strong>Pa-Auk Tawya Sayadaw</strong></p>"
+    },
+    "v1-front-2": {
+      "V1-FRONT-02-01": "<p><strong>Nibbānagāminipaṭipadā</strong></p><p><strong>Volume 1</strong></p>"
+    },
+    "v1-front-3": {
+      "V1-FRONT-03-01": "<p><strong>Nibbānagāminipaṭipadā</strong></p><p><strong>The Practice Leading to Nibbāna — Volume I</strong></p><p>One Auspicious Night · How to Establish Concentration</p><p>Concentration through Mindfulness of Breathing · Materiality Meditation</p><p><strong>Pa-Auk Tawya Sayadaw</strong></p>"
+    },
+    "v1-front-4": {
+      "V1-FRONT-04-01": "<p><strong>Nibbānagāminipaṭipadā</strong></p><p><strong>The Practice Leading to Nibbāna — Volume I</strong></p><p>One Auspicious Night · How to Establish Concentration</p><p>Concentration through Mindfulness of Breathing · Materiality Meditation</p><p><strong>Pa-Auk Tawya Sayadaw</strong></p><img class=\"source-cover-image\" src=\"original/pdf-4.png\" alt=\"Illustrated Burmese title page with a lion capital\">"
+    },
+    "v1-front-5": {
+      "V1-FRONT-05-01": "<p><i lang=\"pi\">Sabbadānaṃ dhammadānaṃ jināti,</i><br><i lang=\"pi\">Sabbarasaṃ dhammaraso jināti;</i><br><i lang=\"pi\">Sabbaratiṃ dhammarati jināti,</i><br><i lang=\"pi\">Taṇhakkhayo sabbadukkhaṃ jināti.</i></p><p>The gift of the Dhamma surpasses every gift.<br>The taste of the Dhamma surpasses every taste.<br>Delight in the Dhamma surpasses every delight.<br>The ending of craving surpasses all suffering.</p>",
+      "V1-FRONT-05-02": "<p><strong>Burmese explanation</strong></p><p>The gift of the Dhamma surpasses every gift.<br>The taste of the Dhamma surpasses every taste.<br>Delight in the Dhamma surpasses every delight.<br>The ending of craving surpasses all suffering.</p>",
+      "V1-FRONT-05-03": "<p><i lang=\"pi\">Ciraṃ tiṭṭhatu saddhammo, dhamme hontu sagāravā.</i></p><p>May the true Dhamma endure long. May people have reverence for the Dhamma.</p><p><strong>Burmese explanation</strong></p><p>May the Buddha’s dispensation, his instruction, endure for a very long time. May all have respect and reverence for the threefold true Dhamma.</p>",
+      "V1-FRONT-05-04": "<h3>A Gift of the Dhamma</h3><p>This work is for distribution at Pa-Auk Tawya as a gift of the Dhamma. Anyone may copy and print this book.</p>",
+      "V1-FRONT-05-05": "<p>First Edition</p><p>Copyright ©1998 Pa Auk Sayadaw</p><p>This book belongs to the Public Domain and may be reproduced without any further permission from the author.</p>"
+    },
+    "v1-p1": {
+      "V1-1-01": "<h3 id=\"v1-p1-heading-1\">Nibbānagāminipaṭipadā</h3><h3 id=\"v1-p1-heading-2\">The Practice Leading to Nibbāna — Volume I</h3><p><i lang=\"pi\">Namo tassa bhagavato arahato sammāsambuddhassa.</i></p><p>Homage to the Blessed One, the Worthy One, the Perfectly Enlightened One.</p>",
+      "V1-1-02": "<h3 id=\"v1-p1-heading-3\">The Great Homage — Homage to the Buddha</h3><p><i lang=\"pi\">Munindakko yeko dayudayaruṇo ñāṇavitthiṇṇabimbo,</i><br><i lang=\"pi\">vineyyappāṇoghaṃ kamalakathitaṃ dhammaraṃsivarehi;</i><br><i lang=\"pi\">subodhesi suddhe tibhavakuhare byāpitakkittinañca,</i><br><i lang=\"pi\">tilokekacakkhuṃ dukhamasahānaṃ taṃ mahesiṃ namāmi.</i></p><p>I bow to that great seer, the sun who is lord of sages. His dawn is compassion and his vast disc is knowledge. With the excellent rays of the Dhamma he brought to full bloom the multitude of beings fit to be guided, likened to lotuses in the clear pool of the three realms of existence. His renown spread far. He is the sole eye of the three worlds and endures what is hard to endure.</p><p><a id=\"en-homage-ref\" href=\"#en-homage-note\">Translator’s note</a></p>",
+      "V1-1-03": "<p><i lang=\"pi\">Dayudayaruṇo</i> — Having as his newly risen dawn the attainment of great compassion. <i lang=\"pi\">Ñāṇavitthiṇṇabimbo</i> — Having as his vast solar disc the knowledge of omniscience. <i lang=\"pi\">Eko</i> — Arising and appearing alone, without an equal in the ten thousand world systems. <i lang=\"pi\">Yo munindakko</i> — That sun who is lord of sages, the Buddha. <i lang=\"pi\">Suddhe</i> — Clear, pure, cool and limpid. <i lang=\"pi\">Tibhavakuhare</i> — In the lotus pool of the three realms of existence: sensual, fine-material and immaterial. <i lang=\"pi\">Nibbattaṃ</i> — Having arisen and grown through the impetus of kamma associated with the perfections. <i lang=\"pi\">Kamalakathitaṃ</i> — Called lotuses. <i lang=\"pi\">Vineyyappāṇoghaṃ</i> — The multitude of beings who may be led to liberation, the lotuses that are human beings, deities and brahmās. <i lang=\"pi\">Dhammaraṃsivarehi</i> — With the excellent rays of the Dhamma, his noble discourses that lead to the attainment of path and fruition and enable one to see Nibbāna. <i lang=\"pi\">Subodhesi</i> — He brought them to full bloom, enabling them to penetrate and see the Four Noble Truths.</p>",
+      "V1-1-04": "<p><i lang=\"pi\">Byāpitakkittinañca</i> — His renown was manifest throughout the ten thousand world systems, up to the brahmā realms, through his unsurpassed qualities of morality, concentration and wisdom. <i lang=\"pi\">Tilokekacakkhuṃ</i> — He is the sole eye of the three worlds, of brahmās, deities and human beings. <i lang=\"pi\">Dukhamasahānaṃ</i> — Like the great earth, he could endure what is hard to endure. <i lang=\"pi\">Mahesiṃ</i> — He sought and cultivated exceptional qualities: the aggregates of morality, concentration, wisdom, liberation, and knowledge and vision of liberation. <i lang=\"pi\">Taṃ munindakkaṃ</i> — That sun who is lord of sages, the Buddha. <i lang=\"pi\">Ahaṃ</i> — I, your disciple. <i lang=\"pi\">Namāmi</i> — With the three volitions of body, speech and mind, and with a clear, trusting heart, I respectfully lower myself, subdue pride and bow to you, venerable Buddha.</p>"
+    }
+  },
+  "toc": [
+    {
+      "title": "Introduction (Nidānakathā)",
+      "target": "v1-pA",
+      "printed": "A",
+      "depth": 0
+    },
+    {
+      "title": "The Great Homage — Homage to the Buddha",
+      "target": "v1-p1-heading-3",
+      "printed": "1",
+      "depth": 0
+    },
+    {
+      "title": "One Auspicious Night",
+      "target": "v1-p2-heading-2",
+      "printed": "",
+      "depth": 0
+    },
+    {
+      "title": "Direct Knowledge and Inferential Knowledge",
+      "target": "v1-p2-heading-2",
+      "printed": "2",
+      "depth": 1
+    },
+    {
+      "title": "Excerpt from the Upanisā Sutta",
+      "target": "v1-p2-heading-3",
+      "printed": "2",
+      "depth": 1
+    },
+    {
+      "title": "Oral Tradition and Reasoned Reflection",
+      "target": "v1-p6-heading-1",
+      "printed": "6",
+      "depth": 1
+    },
+    {
+      "title": "Direct Knowledge",
+      "target": "v1-p7-heading-1",
+      "printed": "7",
+      "depth": 1
+    },
+    {
+      "title": "What Is an Aggregate Subject to Clinging?",
+      "target": "v1-p8-heading-1",
+      "printed": "8",
+      "depth": 1
+    },
+    {
+      "title": "Such Is Materiality. Such Is Feeling…",
+      "target": "v1-p9-heading-1",
+      "printed": "9",
+      "depth": 1
+    },
+    {
+      "title": "Such Is the Arising of Materiality (as above) Such Is the Arising of Consciousness…",
+      "target": "v1-p12-heading-1",
+      "printed": "12",
+      "depth": 1
+    },
+    {
+      "title": "Contemplating the Arising of the Materiality Aggregate",
+      "target": "v1-p13-heading-1",
+      "printed": "13",
+      "depth": 1
+    },
+    {
+      "title": "Excerpt from the Paṭisambhidāmagga",
+      "target": "v1-p14-heading-2",
+      "printed": "",
+      "depth": 0
+    },
+    {
+      "title": "Five Past Causes",
+      "target": "v1-p14-heading-2",
+      "printed": "14",
+      "depth": 1
+    },
+    {
+      "title": "Five Present Results",
+      "target": "v1-p15-heading-1",
+      "printed": "15",
+      "depth": 1
+    },
+    {
+      "title": "Five Present Causes",
+      "target": "v1-p16-heading-1",
+      "printed": "16",
+      "depth": 1
+    },
+    {
+      "title": "Five Future Results",
+      "target": "v1-p16-heading-2",
+      "printed": "16",
+      "depth": 1
+    },
+    {
+      "title": "How to Delimit the Time Period",
+      "target": "v1-p17-heading-1",
+      "printed": "17",
+      "depth": 1
+    },
+    {
+      "title": "It Should Be Known in Part (Ekadesato jānitabbaṃ)",
+      "target": "v1-p17-heading-2",
+      "printed": "17",
+      "depth": 1
+    },
+    {
+      "title": "Is It Possible to Know and See in This Way?",
+      "target": "v1-p18-heading-1",
+      "printed": "18",
+      "depth": 1
+    },
+    {
+      "title": "Arising Should Be Seen (Nibbatti passitabbā)",
+      "target": "v1-p19-heading-1",
+      "printed": "19",
+      "depth": 1
+    },
+    {
+      "title": "Brief Instructions for Contemplation",
+      "target": "v1-p20-heading-1",
+      "printed": "20",
+      "depth": 1
+    },
+    {
+      "title": "What Kind of Kamma Is It?",
+      "target": "v1-p22-heading-1",
+      "printed": "22",
+      "depth": 1
+    },
+    {
+      "title": "Pause and Consider",
+      "target": "v1-p24-heading-1",
+      "printed": "24",
+      "depth": 1
+    },
+    {
+      "title": "Contemplating the Past and Future through Inferential Knowledge",
+      "target": "v1-p25-heading-1",
+      "printed": "25",
+      "depth": 1
+    },
+    {
+      "title": "Encouragement",
+      "target": "v1-p27-heading-1",
+      "printed": "27",
+      "depth": 1
+    },
+    {
+      "title": "Excerpt from the Pāli of the Paṭisambhidāmagga",
+      "target": "v1-p28-heading-1",
+      "printed": "28",
+      "depth": 1
+    },
+    {
+      "title": "Points to Note in Brief",
+      "target": "v1-p29-heading-1",
+      "printed": "29",
+      "depth": 1
+    },
+    {
+      "title": "Five Ways the Materiality Aggregate Arises",
+      "target": "v1-p31-heading-1",
+      "printed": "31",
+      "depth": 1
+    },
+    {
+      "title": "Five Ways the Materiality Aggregate Passes Away",
+      "target": "v1-p31-heading-2",
+      "printed": "31",
+      "depth": 1
+    },
+    {
+      "title": "A Note by the Venerable Sayadaw of Pyay",
+      "target": "v1-p32-heading-1",
+      "printed": "32",
+      "depth": 1
+    },
+    {
+      "title": "Points to Note Carefully",
+      "target": "v1-p33-heading-1",
+      "printed": "33",
+      "depth": 1
+    },
+    {
+      "title": "Inferential Contemplation in Knowledge of Dissolution",
+      "target": "v1-p34-heading-1",
+      "printed": "34",
+      "depth": 1
+    },
+    {
+      "title": "Inclining towards Cessation",
+      "target": "v1-p37-heading-1",
+      "printed": "37",
+      "depth": 1
+    },
+    {
+      "title": "Objects of Knowledge of Dissolution",
+      "target": "v1-p37-heading-2",
+      "printed": "37",
+      "depth": 1
+    },
+    {
+      "title": "The Known and the Knowing",
+      "target": "v1-p38-heading-1",
+      "printed": "38",
+      "depth": 1
+    },
+    {
+      "title": "Such Is the Passing Away of Materiality (as above) Such Is the Passing Away of Consciousness…",
+      "target": "v1-p39-heading-1",
+      "printed": "39",
+      "depth": 1
+    },
+    {
+      "title": "Cessation through Non-Arising",
+      "target": "v1-p40-heading-1",
+      "printed": "40",
+      "depth": 1
+    },
+    {
+      "title": "Excerpt from the Āsavakkhaya Sutta",
+      "target": "v1-p42-heading-1",
+      "printed": "42",
+      "depth": 1
+    },
+    {
+      "title": "Commentarial Explanations — First Explanation",
+      "target": "v1-p43-heading-1",
+      "printed": "43",
+      "depth": 1
+    },
+    {
+      "title": "Commentary — Second Explanation",
+      "target": "v1-p44-heading-1",
+      "printed": "44",
+      "depth": 1
+    },
+    {
+      "title": "Commentary — Third Explanation",
+      "target": "v1-p46-heading-1",
+      "printed": "46",
+      "depth": 1
+    },
+    {
+      "title": "Commentary — Fourth Explanation, the View of Some Teachers",
+      "target": "v1-p46-heading-2",
+      "printed": "46",
+      "depth": 1
+    },
+    {
+      "title": "Commentary — Fifth Explanation",
+      "target": "v1-p46-heading-3",
+      "printed": "46",
+      "depth": 1
+    },
+    {
+      "title": "Excerpts from the Khadirapatta Sutta and the Kūṭāgāra Sutta",
+      "target": "v1-p47-heading-1",
+      "printed": "47",
+      "depth": 1
+    },
+    {
+      "title": "Truth in the Round and Truth beyond the Round",
+      "target": "v1-p49-heading-1",
+      "printed": "49",
+      "depth": 1
+    },
+    {
+      "title": "The Noble Truth of Suffering",
+      "target": "v1-p50-heading-1",
+      "printed": "50",
+      "depth": 1
+    },
+    {
+      "title": "What Is an Aggregate Subject to Clinging?",
+      "target": "v1-p50-heading-2",
+      "printed": "50",
+      "depth": 1
+    },
+    {
+      "title": "Direct Knowledge and Insight",
+      "target": "v1-p52-heading-1",
+      "printed": "52",
+      "depth": 1
+    }
+  ],
+  "notesHtml": "<p id=\"en-homage-note\"><strong>Translator’s note.</strong> The Pāli reading <i lang=\"pi\">dukhamasahānaṃ</i> is provisional. The Burmese explanation compares the Buddha’s endurance to that of the great earth. <i lang=\"pi\">Nibbattaṃ</i> occurs in the explanation and has no separate word in the four-line verse. <a href=\"#en-homage-ref\">Return to the verse</a></p>"
+}
