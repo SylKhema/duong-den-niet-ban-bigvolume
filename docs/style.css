@@ -4,3 +4,14 @@
 #hub-reader{min-width:0}.book-page,.book-notes{max-width:100%;min-width:0;overflow-wrap:anywhere}#hub-reader table{max-width:100%;overflow-x:auto}#hub-reader img{max-width:100%;height:auto}.book-notes pre{white-space:pre-wrap;overflow-wrap:anywhere}
 
 .download-row{flex-wrap:wrap}.download-row>div{flex:1 1 250px}.download-row>a{font-size:13px}
+
+#hub-language[hidden] { display: none; }
+.parallel-row { display: grid; grid-template-columns: repeat(2,minmax(0,1fr)); gap: 1.25rem; }
+.parallel-row > div { min-width: 0; }
+.parallel-row table { display: block; max-width: 100%; overflow-x: auto; }
+.english-gap { padding: .5rem 0; }
+.english-row .source-cover-image, .parallel-row .source-cover-image { max-width: 100%; height: auto; }
+@media (max-width: 800px) {
+  .parallel-row { grid-template-columns: 1fr; gap: 0; }
+  #hub-language { max-width: 7rem; }
+}
