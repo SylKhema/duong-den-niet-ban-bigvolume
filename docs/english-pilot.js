@@ -18,6 +18,7 @@ function englishUrl(mode, hash = location.hash) {
 
 function configureEnglishPilot() {
   if (!preview) return;
+  document.body.classList.add('english-preview');
   const selector = document.querySelector('#hub-language');
   selector.hidden = false;
   selector.value = language;
@@ -123,6 +124,10 @@ function englishBook(book) {
     }
     previousHadEnglish = true;
     const section = wrapper.querySelector('.read-section');
+    const vietnameseIds = new Set([...section.querySelectorAll('[id]')].map(node => node.id));
+    const englishTemplate = document.createElement('template');
+    englishTemplate.innerHTML = Object.values(groups).join('');
+    const englishIds = new Set([...englishTemplate.content.querySelectorAll('[id]')].map(node => node.id));
     const aligned = [];
     const leading = [];
     let current;
@@ -147,7 +152,7 @@ function englishBook(book) {
       if (englishOnly) {
         row.id = key;
         for (const node of vi.querySelectorAll('[id]')) {
-          if (node.id !== key && ![...en.querySelectorAll('[id]')].some(x => x.id === node.id)) {
+          if (node.id !== key && !englishIds.has(node.id)) {
             const anchor = document.createElement('span');
             anchor.id = node.id;
             row.append(anchor);
@@ -155,7 +160,7 @@ function englishBook(book) {
         }
       } else {
         for (const heading of en.querySelectorAll('[id]')) {
-          if ([...vi.querySelectorAll('[id]')].some(x => x.id === heading.id)) heading.removeAttribute('id');
+          if (vietnameseIds.has(heading.id)) heading.removeAttribute('id');
         }
         row.append(vi);
       }

@@ -15,3 +15,10 @@
   .parallel-row { grid-template-columns: 1fr; gap: 0; }
   #hub-language { max-width: 7rem; }
 }
+
+@media (max-width: 800px) {
+  .english-preview header { display: grid; grid-template-columns: auto minmax(0,1fr) auto auto; gap: .4rem; }
+  .english-preview .header-links, .english-preview .wordmark small { display: none; }
+  .english-preview .wordmark { min-width: 0; font-size: .7rem; }
+  .english-preview #hub-resume { padding: .4rem; }
+}
