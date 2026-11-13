@@ -12,3 +12,10 @@
 .feedback-paragraph:has(.tablewrap) > [data-feedback-paragraph] { margin-top: 6px; }
 #feedback-dialog [hidden] { display: none !important; }
 @media print { [data-feedback-paragraph] { display: none !important; } }
+
+.feedback-paragraph.feedback-selected > .feedback-text {
+  background: #fff3cd;
+  outline: 2px solid #c29a52;
+  border-radius: 3px;
+}
+.mini-feedback-floating[hidden] { display: none; }

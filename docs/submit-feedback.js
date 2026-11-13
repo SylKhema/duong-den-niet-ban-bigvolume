@@ -21,6 +21,8 @@
   function clearContext() {
     context = undefined;
     field('location').textContent = '';
+    field('feedback-excerpt').textContent = '';
+    field('feedback-selection').hidden = true;
     receipt = 'GY-' + crypto.randomUUID();
   }
 
@@ -38,6 +40,8 @@
       pdfPage: Number(params.get('pdf')),
       excerpt: (params.get('excerpt') || '').slice(0, 2400),
     };
+    field('feedback-excerpt').textContent = context.excerpt;
+    field('feedback-selection').hidden = !context.excerpt;
     field('location').textContent = 'Vị trí được chọn · ' + context.printed + (context.pdfPage ? ' · PDF ' + context.pdfPage : '');
   }
 
