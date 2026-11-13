@@ -27,9 +27,12 @@ function configureReadingLanguage(){
  Object.entries(labels).forEach(([id,label])=>document.getElementById(id).textContent=label);
  document.querySelector('#menu').ariaLabel='Toggle table of contents';
  document.querySelector('#tree').ariaLabel='English table of contents';
- document.querySelector('.search').firstChild.textContent='Search English / Pāli';
+ document.querySelector('.search').firstChild.textContent='Search books';
  document.querySelector('#search').placeholder='Search the English translation…';
- document.querySelector('#scope').hidden=true;
+ const scope=document.querySelector('#scope');
+ scope.setAttribute('aria-label','Search scope');
+ scope.options[0].textContent='Current volume';
+ scope.options[1].textContent='All 9 volumes';
 }
 const englishVolumeData={};
 function loadEnglishVolume(number){return englishVolumeData[number]??=get('data/english-M0'+number+'.json');}
@@ -114,14 +117,4 @@ async function englishRoute(serial){
  main.querySelectorAll('[data-page]').forEach(page=>readerObserver.observe(page));
  obs=readerObserver;
 }
-async function englishSearch(){
- const query=norm($('#search').value.trim());
- if(!query){$('#results').textContent='';return;}
- const number=current;
- const data=await loadEnglishVolume(number);
- if(query!==norm($('#search').value.trim())||current!==number)return;
- const results=Object.values(data.pages).flatMap(page=>Object.entries(page.paragraphs)
-  .filter(([,text])=>norm(page.title+' '+text).includes(query))
-  .map(([id,text])=>'<a href="#cuon-'+number+'/'+id+'-en">'+esc(page.title)+'<small>'+esc(text.slice(0,150))+'</small></a>'));
- $('#results').innerHTML=results.slice(0,70).join('')||'No results in the English edition.';
-}
+

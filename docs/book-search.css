@@ -1,0 +1,53 @@
+.book-links {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0 1.1rem;
+  margin-top: auto;
+}
+.search-link, .search-launch {
+  display: inline-flex;
+  align-items: center;
+  gap: .45em;
+}
+.search-launch {
+  justify-content: center;
+  flex: 0 0 auto;
+  min-width: 42px;
+  min-height: 40px;
+  white-space: nowrap;
+}
+.search-link svg, .search-launch svg { flex: 0 0 auto; }
+.search-launch-label[lang="en"], html[lang="en"] .search-launch-label[lang="vi"] { display: none; }
+html[lang="en"] .search-launch-label[lang="en"] { display: inline; }
+[data-surface="big"] .header-links { margin-inline-start: 0; }
+[data-surface="big"] .search-launch { margin-inline-start: auto; }
+[data-surface="mini"] #scope { display: block; }
+
+@media (max-width: 900px) {
+  .search-launch-label,
+  html[lang="en"] .search-launch-label[lang="en"] {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip-path: inset(50%);
+  }
+  [data-surface="mini"] { --mini-header-height: 108px; scroll-padding-top: 118px; }
+  [data-surface="mini"] header { height: var(--mini-header-height); display: flex; flex-wrap: wrap; justify-content: flex-start; align-content: center; gap: 5px 7px; padding: 6px 12px; }
+  [data-surface="mini"] header .brand { flex: 1 1 calc(100% - 108px); }
+  [data-surface="mini"] #reading-language { max-width: none; padding: 0; }
+  [data-surface="mini"] header :is(button, a:not(.brand)) { font: 11px/1.3 system-ui; padding: 5px; }
+  [data-surface="mini"] :is(header #menu, header .search-launch) { min-height: 40px; padding: 7px; }
+  [data-surface="mini"] aside { top: var(--mini-header-height); }
+  [data-surface="mini"] main { padding-top: 126px; }
+  [data-surface="mini"] article { scroll-margin-top: 0; }
+}
+@media (max-width: 390px) {
+  [data-surface="mini"] { --mini-header-height: 136px; scroll-padding-top: 148px; }
+  [data-surface="mini"] main { padding-top: 153px; }
+  [data-surface="big"] header { gap: 8px; }
+  [data-surface="big"] .header-links { gap: 5px; flex-wrap: wrap; }
+  [data-surface="big"] .search-launch { padding-inline: 7px; }
+}
+@media print { .search-launch { display: none; } }
