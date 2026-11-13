@@ -3,45 +3,98 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Đọc Đường Đến Niết-bàn của Pa-Auk Tawya Sayadaw. Bộ Đại gồm 5 tập, Bộ Tóm Lược gồm 9 cuốn.">
-  <meta name="theme-color" content="#243d32">
-  <title>Đường Đến Niết-bàn · Pa-Auk Tawya Sayadaw</title>
+  <meta name="description" content="Đọc Đường Đến Niết-bàn của Pa-Auk Tawya Sayadaw. Bộ Đại gồm 5 tập, Bộ Tóm Lược gồm 9 cuốn. Read the abridged edition in English.">
+  <meta name="theme-color" content="#1e3e34">
+  <title>Đường Đến Niết-bàn · The Way to Nibbāna</title>
   <link rel="canonical" href="https://nibbanagamini.org/">
   <link rel="icon" href="/favicon.ico">
   <link rel="apple-touch-icon" href="/apple-touch-icon.png">
   <link rel="manifest" href="/site.webmanifest">
-  <link rel="stylesheet" href="./home.css">
-  <script src="./home.js"></script>
+  <link rel="stylesheet" href="/home.css?v=2">
+  <script src="/home.js?v=2"></script>
 </head>
 <body>
-  <main>
-    <header class="intro">
-      <p class="pali" lang="pi">Nibbānagāminipaṭipadā</p>
-      <h1>Đường Đến Niết-bàn</h1>
-      <p class="author">Pa-Auk Tawya Sayadaw</p>
+  <header class="masthead">
+    <div class="shell topbar">
+      <a class="wordmark" href="/" lang="pi">Nibbānagāminipaṭipadā</a>
+      <nav class="language" aria-label="Ngôn ngữ trang chủ / Homepage language">
+        <a href="/?lang=vi" lang="vi">Tiếng Việt</a>
+        <a href="/?lang=en" lang="en">English</a>
+        <a href="/" aria-current="page"><span lang="vi">Song ngữ</span><span lang="en">Bilingual</span></a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="shell">
+    <header class="hero">
+      <img class="emblem" src="/pa-auk-emblem.webp" width="120" height="315" alt="Pa-Auk Tawya">
+      <div>
+        <p class="author">Pa-Auk Tawya Sayadaw</p>
+        <h1><span data-copy="vi" lang="vi">Đường Đến Niết-bàn</span><span data-copy="en" lang="en">The Way to Nibbāna</span></h1>
+        <p class="subtitle"><span data-copy="vi" lang="vi">Hai bộ sách về pháp hành thiền chỉ và minh sát</span><span data-copy="en" lang="en">Two editions on the practice of tranquillity and insight meditation</span></p>
+      </div>
     </header>
-    <nav class="books" aria-label="Chọn bộ sách">
+
+    <nav class="books" aria-label="Chọn bộ sách / Choose an edition">
       <article class="book">
-        <p class="count">5 tập</p>
-        <h2>Bộ Đại</h2>
-        <p>Bản dịch đầy đủ, có mục lục tra cứu và PDF nguyên tác để đối chiếu.</p>
+        <p class="count"><span data-copy="vi" lang="vi">5 tập</span><span data-copy="en" lang="en">5 volumes</span></p>
+        <h2><span data-copy="vi" lang="vi">Bộ Đại</span><span data-copy="en" lang="en">Complete Edition</span></h2>
         <div class="actions">
-          <a class="read" href="./big/">Đọc Bộ Đại <span aria-hidden="true">→</span></a>
-          <a class="download" href="./big/#downloads">Tải sách</a>
+          <a class="action primary" href="/big/" lang="vi">Đọc tiếng Việt</a>
+          <button class="action pending" type="button" disabled aria-describedby="big-english-status" lang="en">Read in English</button>
         </div>
+        <p id="big-english-status" class="availability"><span data-copy="vi" lang="vi">Bản Anh sẽ được bổ sung sau.</span><span data-copy="en" lang="en">English translation not yet available.</span></p>
+        <a class="download" href="/big/#downloads"><span data-copy="vi" lang="vi">Tải sách</span><span data-copy="en" lang="en">Downloads</span></a>
       </article>
-      <article class="book summary">
-        <p class="count">9 cuốn</p>
-        <h2>Bộ Tóm Lược</h2>
-        <p>Bản Mini với ba chế độ đọc Việt, English và Việt–Anh.</p>
+
+      <article class="book mini">
+        <p class="count"><span data-copy="vi" lang="vi">9 cuốn</span><span data-copy="en" lang="en">9 volumes</span></p>
+        <h2><span data-copy="vi" lang="vi">Bộ Tóm Lược</span><span data-copy="en" lang="en">Abridged Edition</span></h2>
         <div class="actions">
-          <a class="read" href="./mini/">Đọc Bộ Tóm Lược <span aria-hidden="true">→</span></a>
-          <a class="download" href="./mini/downloads/">Tải sách</a>
+          <a class="action primary" href="/mini/?lang=vi#cuon-1/M01-cover-P001" lang="vi">Đọc tiếng Việt</a>
+          <a class="action english" href="/mini/?lang=en#cuon-1/M01-cover-P001" lang="en">Read in English</a>
+          <a class="action" href="/mini/?lang=bi#cuon-1/M01-cover-P001"><span data-copy="vi" lang="vi">Việt–Anh</span><span data-copy="en" lang="en">Parallel text</span></a>
         </div>
+        <a class="download" href="/mini/downloads/"><span data-copy="vi" lang="vi">Tải sách</span><span data-copy="en" lang="en">Downloads</span></a>
       </article>
     </nav>
-    <p><a href="./gop-y.html">Góp ý bản dịch</a> · <a href="./hieu-dinh.html">Nhật ký hiệu đính</a></p>
-    <noscript><p>Để mở lại một dấu trang cũ, vào <a href="./big/">Bộ Đại</a> và bật JavaScript để dùng trình đọc.</p></noscript>
+
+    <section class="introductions" aria-labelledby="intro-heading">
+      <h2 id="intro-heading"><span data-copy="vi" lang="vi">Giới thiệu hai bộ sách</span><span data-copy="en" lang="en">About the two editions</span></h2>
+      <p class="source-note"><span data-copy="vi" lang="vi">Tóm ý từ lời dẫn nhập và lời lưu ý của tác giả ở tập đầu mỗi bộ.</span><span data-copy="en" lang="en">Summarized from the author’s introductions and note in the first volume of each edition.</span></p>
+      <table>
+        <thead><tr><th scope="col"><span data-copy="vi" lang="vi">Bộ sách</span><span data-copy="en" lang="en">Edition</span></th><th scope="col" data-copy="vi" lang="vi">Tiếng Việt</th><th scope="col" data-copy="en" lang="en">English</th></tr></thead>
+        <tbody>
+          <tr>
+            <th scope="row"><span data-copy="vi" lang="vi">Bộ Đại</span><span data-copy="en" lang="en">Complete Edition</span></th>
+            <td data-copy="vi" lang="vi">
+              <p>Đáp lời thỉnh cầu của các hành giả, Pa-Auk Tawya Sayadaw biên soạn Bộ Đại để giúp người còn gặp khó khăn về pháp học hoặc pháp hành có thể từng bước thực tập theo <i>Thanh tịnh đạo</i>. Tác giả trình bày giới, định và tuệ theo tiến trình bảy thanh tịnh, dựa trên kinh điển Pāli, chú giải và phụ chú giải. Năm tập trình bày các đề mục thiền chỉ, cách phân định danh và sắc, duyên khởi và minh sát, cùng căn cứ kinh điển của từng phương pháp.</p>
+              <a href="/big/#tap/1/v1-pI">Lời dẫn nhập của tác giả, Tập I, tr. I–K</a>
+            </td>
+            <td data-copy="en" lang="en">
+              <p>At the request of meditators, Pa-Auk Tawya Sayadaw compiled the complete edition to help readers with limited experience in study or practice follow the methods of the <i>Visuddhimagga</i> step by step. He presents virtue, concentration and wisdom through the seven stages of purification, drawing on the Pāli Canon, its commentaries and subcommentaries. The five volumes cover tranquillity meditation, discernment of mentality and materiality, dependent origination and insight, with detailed references to the textual sources.</p>
+              <a href="/big/#tap/1/v1-pI">Author’s introduction, Vol. 1, pp. I–K (Vietnamese)</a>
+            </td>
+          </tr>
+          <tr>
+            <th scope="row"><span data-copy="vi" lang="vi">Bộ Tóm Lược</span><span data-copy="en" lang="en">Abridged Edition</span></th>
+            <td data-copy="vi" lang="vi">
+              <p>Tác giả từng soạn các tập ngắn để hành giả Pa-Auk vừa thực hành vừa ôn tập. Khi các vị xin giải thích thêm những chỗ còn cô đọng, ngài biên soạn Bộ Tóm Lược thành sáu phần, chia thành chín cuốn, từ các đề mục thiền chỉ, sắc và danh đến duyên khởi, ba tướng và minh sát. Ngài lược bớt phần dẫn chứng để sách tiện mang theo và tra đọc, đồng thời chỉ dẫn người muốn tìm hiểu sâu hơn về căn cứ kinh điển trở lại Bộ Đại.</p>
+              <a href="/mini/?lang=vi#cuon-1/M01-front-P003">Lời lưu ý và lời dẫn nhập của tác giả, Cuốn 1</a>
+            </td>
+            <td data-copy="en" lang="en">
+              <p>The Sayadaw first prepared short manuals to help meditators at Pa-Auk review the teachings alongside their practice. When they asked for fuller explanations, he organized the abridged edition into six parts across nine volumes. These cover tranquillity meditation, materiality, mentality, dependent origination, the three characteristics and insight meditation. He reduced the number of textual citations to make the books easier to carry and consult, and points readers to the complete edition for fuller textual explanations.</p>
+              <a href="/mini/?lang=en#cuon-1/M01-front-P003">Author’s note and introduction, Vol. 1 (English)</a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <footer class="foot">
+      <a href="/gop-y.html"><span data-copy="vi" lang="vi">Góp ý bản dịch</span><span data-copy="en" lang="en">Translation feedback (Vietnamese)</span></a>
+      <a href="/hieu-dinh.html"><span data-copy="vi" lang="vi">Nhật ký hiệu đính</span><span data-copy="en" lang="en">Corrections log (Vietnamese)</span></a>
+    </footer>
   </main>
 </body>
 </html>
