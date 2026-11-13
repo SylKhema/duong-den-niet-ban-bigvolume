@@ -1,0 +1,12841 @@
+# Nibbānagāminipaṭipadā · Mini · Cuốn 9 / Volume 9
+Đề mục thiền minh sát (Vipassanākammaṭṭhāna) / Insight Meditation Subjects (Vipassanākammaṭṭhāna)
+Pa-Auk Tawya Sayadaw
+Việt–Anh
+
+## Mục lục / Contents
+
+- [Bìa trước và bìa sau / Front and back covers](#M09-cover-P001)
+- [Trang nhan đề / Title page](#M09-front-P001)
+- [Pháp thí và lời nguyện / The gift of Dhamma and the aspiration](#M09-front-P002)
+- [Mục lục nguyên tác · trang 1 / Original table of contents · page 1](#M09-front-P003)
+- [Mục lục nguyên tác · trang 2 / Original table of contents · page 2](#M09-front-P004)
+- [Mục lục nguyên tác · trang 3 / Original table of contents · page 3](#M09-front-P005)
+- [Mục lục nguyên tác · trang 4 / Original table of contents · page 4](#M09-front-P006)
+- [Mục lục nguyên tác · trang 5 / Original table of contents · page 5](#M09-front-P007)
+- [Mục lục nguyên tác · trang 6 / Original table of contents · page 6](#M09-front-P008)
+- [Mục lục nguyên tác · trang 7 / Original table of contents · page 7](#M09-front-P009)
+- [Mục lục nguyên tác · trang 8 / Original table of contents · page 8](#M09-front-P010)
+- [Đề mục thiền minh sát và tuệ thẩm sát / The meditation subject of insight and comprehension knowledge](#M09-body-P001)
+- [Thẩm sát theo nhóm và minh sát theo phương pháp / Comprehension by groups and insight by method](#M09-body-P002)
+- [Các phương pháp và đối tượng của tuệ minh sát / Methods and objects of insight knowledge](#M09-body-P003)
+- [Các nhóm đối tượng của tuệ minh sát, tiếp theo / Groups of objects of insight knowledge, continued](#M09-body-P004)
+- [Các đối tượng còn lại và ba hạng chúng sinh / The remaining objects and three kinds of beings](#M09-body-P005)
+- [Căn cơ, sở thích và cách Đức Phật chỉ dạy / Faculties, preferences and how the Buddha taught](#M09-body-P006)
+- [Phương pháp mười tám giới và bốn sự thật / The method of the eighteen elements and the four truths](#M09-body-P007)
+- [Bốn pháp chân đế và các cách quán minh sát / The four ultimate realities and ways of discerning with insight](#M09-body-P008)
+- [Các cách phân nhóm cùng quy về những pháp chân đế / The methods of grouping concern the same ultimate phenomena](#M09-body-P009)
+- [Bắt đầu với những pháp hiện rõ và dễ quán / Begin with phenomena that are clear and easy to discern](#M09-body-P010)
+- [Quán đầy đủ sau khi đã phân định năm phạm vi / Comprehensive discernment after defining the five domains](#M09-body-P011)
+- [Quy định cần theo khi quán minh sát / Guidelines to follow in insight practice](#M09-body-P012)
+- [Minh sát đưa đến xuất khởi / Insight leading to emergence](#M09-body-P013)
+- [Ý nghĩa của sự bắt đầu và các trường hợp xuất khởi / The meaning of beginning and the cases of emergence](#M09-body-P014)
+- [Xuất khởi từ sắc, danh và năm uẩn / Emergence from materiality, mentality and the five aggregates](#M09-body-P015)
+- [Bắt đầu quán nội phần và ngoại phần / Beginning with internal and external contemplation](#M09-body-P016)
+- [Bắt đầu từ sắc hoặc danh và xuất khởi / Beginning with materiality or mentality and emerging](#M09-body-P017)
+- [Chọn pháp hiện rõ để bắt đầu quán / Choosing clearly apparent phenomena to begin contemplation](#M09-body-P018)
+- [Không bỏ sót sắc, danh, nội phần và ngoại phần / Including materiality, mentality, the internal and the external](#M09-body-P019)
+- [Những điều cần nhớ và ba đặc tính / Points to remember and the three characteristics](#M09-body-P020)
+- [Bắt đầu quán theo từng đặc tính và xuất khởi / Beginning with each characteristic and emerging](#M09-body-P021)
+- [Luân phiên quán ba đặc tính. Ánh sáng vô ngã / Contemplating the three characteristics in turn. The light of non-self](#M09-body-P022)
+- [Phá khối sắc và danh để thấy vô ngã / Breaking up the compactness of materiality and mentality to see non-self](#M09-body-P023)
+- [Căn cứ của minh sát và hai phương pháp quán / The basis of insight and two methods of contemplation](#M09-body-P024)
+- [Hai cách quán và các chi Duyên khởi / Two methods of contemplation and the factors of dependent origination](#M09-body-P025)
+- [Quán nhân và quả cùng các nhóm pháp / Contemplating causes and effects and groups of phenomena](#M09-body-P026)
+- [Quán bất tịnh, quá khứ và vị lai / Contemplating unattractiveness, the past and the future](#M09-body-P027)
+- [Tuệ minh sát và thắng trí / Insight knowledge and direct knowledge](#M09-body-P028)
+- [Đối tượng nhớ lại bằng tuệ minh sát / Objects recollected through insight knowledge](#M09-body-P029)
+- [Phân biệt hai cách nhớ lại đời trước / Distinguishing the two ways of recollecting former lives](#M09-body-P030)
+- [Quán các uẩn quá khứ / Discerning past aggregates](#M09-body-P031)
+- [Một chìa khóa quan trọng / An important key](#M09-body-P032)
+- [Nhận diện cảnh cận tử / Discerning the near-death object](#M09-body-P033)
+- [Nhận diện cảnh cận tử / Discerning the near-death object](#M09-body-P034)
+- [Bắt đầu minh sát từ đối tượng dễ nhận diện / Beginning insight with what is easy to discern](#M09-body-P035)
+- [Quán ba đặc tướng của sắc / Contemplating the three characteristics of materiality](#M09-body-P036)
+- [Sự biến mất của sắc và danh / The disappearance of materiality and mentality](#M09-body-P037)
+- [Sự biến mất của sắc và danh / The disappearance of materiality and mentality](#M09-body-P038)
+- [Cách quán minh sát danh pháp / How to contemplate mental phenomena with insight](#M09-body-P039)
+- [Quán các lộ tâm qua sáu môn / Contemplating cognitive processes at the six doors](#M09-body-P040)
+- [Thứ tự quán của hành giả lấy thiền chỉ làm cỗ xe / The order for a practitioner who takes serenity as the vehicle](#M09-body-P041)
+- [Sự hỗ trợ giữa ba tuệ tùy quán / Mutual support among the three contemplative knowledges](#M09-body-P042)
+- [Tùy quán vô thường và tùy quán khổ / Contemplation of impermanence and suffering](#M09-body-P043)
+- [Hiện tại theo đời và phương pháp năm uẩn / Life-span present and the five-aggregate method](#M09-body-P044)
+- [Phương pháp năm uẩn / The five-aggregate method](#M09-body-P045)
+- [Quán từng uẩn từ cận hiện tại đến trọn một đời / Discerning each aggregate from the momentary present to an entire life](#M09-body-P046)
+- [Quán từng uẩn và quán chung sắc danh / Discerning each aggregate and discerning materiality and mentality together](#M09-body-P047)
+- [Luân phiên quán sắc danh và mở rộng sang ba thời / Alternating materiality and mentality and extending to the three times](#M09-body-P048)
+- [Đối tượng của minh sát qua các đời / The objects of insight across lives](#M09-body-P049)
+- [Trình tự quán các đời và các uẩn / The sequence of discerning lives and aggregates](#M09-body-P050)
+- [Quán đủ mười một phương diện và Kinh Vô ngã tướng / Discerning all eleven aspects and the Discourse on the Characteristic of Not-self](#M09-body-P051)
+- [Mười một phương diện của sắc trong Kinh Vô ngã tướng / The eleven aspects of materiality in the Discourse on the Characteristic of Not-self](#M09-body-P052)
+- [Quán sắc không phải của ta, không phải là ta, không phải tự ngã của ta / Discerning materiality as not mine, not what I am, and not my self](#M09-body-P053)
+- [Sắc và danh thô, tế, hạ liệt, thù thắng, xa và gần / Gross, subtle, inferior, superior, far and near materiality and mentality](#M09-body-P054)
+- [Danh pháp tế và các phân loại hạ liệt, thù thắng, xa, gần / Subtle mental phenomena and the classifications inferior, superior, far and near](#M09-body-P055)
+- [Quán gồm đủ các loại sắc danh / Discernment encompassing all classes of materiality and mentality](#M09-body-P056)
+- [Tu tập bất tịnh và bất tịnh ở thân sống / Cultivating foulness and foulness in a living body](#M09-body-P057)
+- [Từ ba mươi hai phần thân đến các nhóm sắc / From the thirty-two bodily parts to material groups](#M09-body-P058)
+- [Căn nhà thân uẩn đầy các loài trùng / The house of the bodily aggregates filled with worms](#M09-body-P059)
+- [Tính bất tịnh của sắc chân đế / The foul nature of ultimate materiality](#M09-body-P060)
+- [Bất tịnh ngoài thân và bất tịnh của tử thi / External Foulness and Foulness of the Dead](#M09-body-P061)
+- [Bất tịnh ngoài thân và bất tịnh của tử thi / External Foulness and Foulness of the Dead](#M09-body-P062)
+- [Cách quán / Method of Contemplation](#M09-body-P063)
+- [Cách quán / Method of Contemplation](#M09-body-P064)
+- [Cách quán / Method of Contemplation](#M09-body-P065)
+- [Một điểm đặc biệt và các chi duyên khởi / A Special Point and the Factors of Dependent Origination](#M09-body-P066)
+- [Các chi duyên khởi / The Factors of Dependent Origination](#M09-body-P067)
+- [Một số cách quán / Some Patterns of Contemplation](#M09-body-P068)
+- [Bốn mươi cách quán theo đuôi -to / Forty Modes of Contemplation in -to](#M09-body-P069)
+- [1. Là vô thường / 1. As Impermanent](#M09-body-P070)
+- [2–4. Là tan rã, dao động và dễ vỡ / 2–4. As Disintegrating, Unsteady, and Fragile](#M09-body-P071)
+- [4–6. Là dễ vỡ, không bền và có tính biến đổi / 4–6. As Fragile, Unlasting, and Subject to Change](#M09-body-P072)
+- [7–10. Là không có lõi, tiêu hoại, phải chết và hữu vi / 7–10. As Coreless, Perishing, Subject to Death, and Conditioned](#M09-body-P073)
+- [10. Là hữu vi / 10. As Conditioned](#M09-body-P074)
+- [Đặc tướng khổ: hai mươi lăm mục / The Characteristic of Suffering: Twenty-Five Items](#M09-body-P075)
+- [Khổ và ba loại khổ / Suffering and its three kinds](#M09-body-P076)
+- [Quán là bệnh và là tai họa / Contemplating as disease and as calamity](#M09-body-P077)
+- [Quán là ung nhọt / Contemplating as a boil](#M09-body-P078)
+- [Quán là mũi tên và là chứng bệnh / Contemplating as a dart and as an affliction](#M09-body-P079)
+- [Quán là tai ách và là mối nguy / Contemplating as adversity and as danger](#M09-body-P080)
+- [Quán là hiểm họa, tai ương và không có sự che chở / Contemplating as menace, calamity, and without protection](#M09-body-P081)
+- [Quán là không có nơi ẩn náu và không có chỗ quy y / Contemplating as without shelter and without refuge](#M09-body-P082)
+- [Quán là kẻ sát nhân và là gốc tai họa / Contemplating as a murderer and as the root of calamity](#M09-body-P083)
+- [Quán là mối bất lợi / Contemplating as a drawback](#M09-body-P084)
+- [Quán là hữu lậu và là mồi của Māra / Contemplating as subject to the taints and as Māra's bait](#M09-body-P085)
+- [Năm loại Māra / The five kinds of Māra](#M09-body-P086)
+- [Mồi của Māra, sinh, già, bệnh, sầu, bi và não / Māra’s bait, birth, aging, illness, sorrow, lamentation, and despair](#M09-body-P087)
+- [Sầu, bi, não và tính nhiễm ô / Sorrow, lamentation, despair, and liability to defilement](#M09-body-P088)
+- [Năm phương diện của đặc tướng vô ngã / Five aspects of the characteristic of non-self](#M09-body-P089)
+- [Quán là xa lạ và là trống không / Contemplating as alien and as void](#M09-body-P090)
+- [Quán là trống không và là rỗng tuếch / Contemplating as void and as hollow](#M09-body-P091)
+- [Nguyên nhân của vô thường, khổ và vô ngã / Why phenomena are impermanent, suffering and non-self](#M09-body-P092)
+- [Minh sát theo phương pháp gồm 200 cách / Methodical insight in 200 ways](#M09-body-P093)
+- [Sự tu tập tuệ có thể viên mãn / The development of wisdom can be fulfilled](#M09-body-P094)
+- [Phương pháp quán minh sát bảy cách về sắc / The sevenfold method of insight contemplation of materiality](#M09-body-P095)
+- [Chia tuổi thọ và ngày đêm thành các thời đoạn / Dividing the lifespan and each day and night into periods](#M09-body-P096)
+- [Quán sắc theo động tác trong ngày / Contemplating materiality by activities during the day](#M09-body-P097)
+- [Quán sắc do vật thực và do thời tiết / Contemplating nutriment- and temperature-produced materiality](#M09-body-P098)
+- [Quán sắc do nghiệp và sắc do tâm sinh / Contemplating kamma- and consciousness-produced materiality](#M09-body-P099)
+- [Quán sắc theo quy ước và bảy cách quán danh / Conventional materiality and the seven ways of contemplating mentality](#M09-body-P100)
+- [Quán theo nhóm / Contemplating by grouping](#M09-body-P101)
+- [Tâm minh sát trước và tâm minh sát sau / Earlier and later insight consciousness](#M09-body-P102)
+- [Lộ đổng lực ý môn minh sát / The insight mind-door impulsion process](#M09-body-P103)
+- [Quán theo cặp / Contemplating by pairs](#M09-body-P104)
+- [Quán theo từng bước và theo chuỗi tiếp nối / Contemplating by successive steps and in serial order](#M09-body-P105)
+- [Quán tâm nối tiếp và từ bỏ tà kiến, ngã mạn / Contemplating successive mind moments and abandoning views and conceit](#M09-body-P106)
+- [7. Làm cạn sự ưa thích / 7. Exhausting Attachment](#M09-body-P107)
+- [Ưu tiên một đặc tướng và đạt sự thuần thục / Giving priority to one characteristic and gaining familiarity](#M09-body-P108)
+- [Kết thúc chương Trí thẩm sát / End of the chapter on comprehension knowledge](#M09-body-P109)
+- [Chương Trí sinh diệt / Chapter on Knowledge of Arising and Passing Away](#M09-body-P110)
+- [Trí sinh diệt theo cách phân danh sắc và năm uẩn / Knowledge of Arising and Passing Away by Mentality-Materiality and the Five Aggregates](#M09-body-P111)
+- [Quán năm uẩn trong ba thời, nội và ngoại / Contemplating the Five Aggregates in Three Periods, Internally and Externally](#M09-body-P112)
+- [Cách tu tập trí sinh diệt rộng / Detailed Development of Knowledge of Arising and Passing Away](#M09-body-P113)
+- [Quán sự sinh khởi của sắc uẩn / Contemplating the Arising of the Materiality Aggregate](#M09-body-P114)
+- [Sắc do thời tiết và vật thực sinh, thọ và tưởng lúc tái tục / Temperature- and Nutriment-Born Materiality, Feeling and Perception at Rebirth-Linking](#M09-body-P115)
+- [Tưởng uẩn và hành uẩn lúc tái tục / The Perception and Formations Aggregates at Rebirth-Linking](#M09-body-P116)
+- [Hành uẩn và thức uẩn lúc tái tục / The Formations and Consciousness Aggregates at Rebirth-Linking](#M09-body-P117)
+- [2. Quán riêng sự hoại diệt / 2. Contemplating Passing Away Separately](#M09-body-P118)
+- [Diệt sau khi sinh và diệt do không sinh lại / Cessation After Arising and Cessation Through Non-Arising](#M09-body-P119)
+- [Quán sự diệt do không sinh lại của sắc uẩn / Contemplating Cessation Through Non-Arising in the Materiality Aggregate](#M09-body-P120)
+- [Quán sự diệt của sắc / Contemplating the cessation of materiality](#M09-body-P121)
+- [Cách quán thọ uẩn thuộc nhãn thức / How to contemplate the feeling aggregate associated with eye-consciousness](#M09-body-P122)
+- [Quán sinh diệt của sắc uẩn / Contemplating the arising and vanishing of the materiality aggregate](#M09-body-P123)
+- [Sinh diệt của sắc uẩn và thọ thuộc nhãn thức / Arising and vanishing of materiality and feeling associated with eye-consciousness](#M09-body-P124)
+- [Sinh diệt của thọ thuộc nhãn thức / Arising and vanishing of feeling associated with eye-consciousness](#M09-body-P125)
+- [Sinh diệt của thọ và lời giải thích / Arising and vanishing of feeling and explanatory notes](#M09-body-P126)
+- [Nhân quả trong các đời quá khứ và vị lai / Causes and results in past and future lives](#M09-body-P127)
+- [Các lộ ý môn và sự phân biệt hành với nghiệp / Mind-door processes and the distinction between formations and kamma](#M09-body-P128)
+- [Hành, năng lực nghiệp và các nhóm cần quán / Formations, the power of kamma, and the groups to contemplate](#M09-body-P129)
+- [Duyên khởi, phương pháp thứ nhất / Dependent origination, the first method](#M09-body-P130)
+- [Công thức duyên khởi / The formula of dependent origination](#M09-body-P131)
+- [Tùy quán tính sinh và tùy quán tính diệt / Contemplation of the nature of arising and vanishing](#M09-body-P132)
+- [Tùy quán tính diệt và cả tính sinh lẫn tính diệt / Contemplating vanishing and contemplating both arising and vanishing](#M09-body-P133)
+- [Những lợi ích có thể đạt được / Benefits that can be attained](#M09-body-P134)
+- [Bốn Thánh đế hiển lộ / The four truths become evident](#M09-body-P135)
+- [Các sự thật hiển lộ khi quán sinh và diệt / The truths become apparent through contemplating arising and passing away](#M09-body-P136)
+- [Đạo đế hiệp thế và năm chi đạo hiệp thế / The mundane truth of the path and the five mundane path factors](#M09-body-P137)
+- [Năm chi đạo trong tuệ minh sát / The five path factors in insight knowledge](#M09-body-P138)
+- [Các pháp duyên khởi hiển lộ / How the phenomena of dependent origination become apparent](#M09-body-P139)
+- [Các pháp duyên sinh và bốn phương pháp / Dependently arisen phenomena and the four methods](#M09-body-P140)
+- [Dòng tâm tương tục / The continuum of consciousness](#M09-body-P141)
+- [Phương pháp thấy sự tiếp nối và sai biệt / The methods of discerning continuity and diversity](#M09-body-P142)
+- [Phương pháp thấy nhân và quả không có chủ ý / The method of discerning the absence of agency in cause and effect](#M09-body-P143)
+- [Phương pháp thấy quy luật và năm đặc tướng / The method of discerning regularity and the five characteristics](#M09-body-P144)
+- [Đặc tướng vô ngã và đặc tướng vô thường / The characteristics of non-self and impermanence](#M09-body-P145)
+- [Đặc tướng khổ, đặc tướng riêng và đặc tướng hữu vi / Suffering, individual characteristics and the characteristic of the conditioned](#M09-body-P146)
+- [Trình tự tu tập minh sát sinh diệt / The sequence of insight practice in arising and passing away](#M09-body-P147)
+- [Hiện tại theo dòng tương tục và hiện tại sát-na / The present by continuity and the momentary present](#M09-body-P148)
+- [Tuệ minh sát còn non và các tùy phiền não / Tender insight knowledge and its imperfections](#M09-body-P149)
+- [Những người có hoặc không có tùy phiền não minh sát / Those in whom the imperfections of insight do or do not arise](#M09-body-P150)
+- [1. Obhāsa — ánh sáng / 1. Obhāsa—Light](#M09-body-P151)
+- [Ánh sáng và thức nhận biết sắc / Light and the Consciousness That Knows Materiality](#M09-body-P152)
+- [Ánh sáng do tâm và thời tiết sinh / Light From Mind-Born and Temperature-Born Materiality](#M09-body-P153)
+- [Vì sao lại giải thích ánh sáng ở giai đoạn này? / Why Is Light Explained Again at This Stage?](#M09-body-P154)
+- [Ánh sáng và sự đi chệch đường minh sát / Light and Deviation From the Course of Insight](#M09-body-P155)
+- [Cách trở lại đường minh sát / How to Return to the Course of Insight](#M09-body-P156)
+- [2. Trí và 3. Hỷ / 2. Knowledge and 3. Rapture](#M09-body-P157)
+- [4. Passaddhi — an tịnh minh sát / 4. Passaddhi—Insight Tranquillity](#M09-body-P158)
+- [5. Lạc, 6. Tín và 7. Tinh tấn / 5. Happiness, 6. Confidence, and 7. Energy](#M09-body-P159)
+- [8. Niệm và 9. Xả / 8. Mindfulness and 9. Equanimity](#M09-body-P160)
+- [Xả minh sát và xả hướng tâm / Insight Equanimity and Adverting Equanimity](#M09-body-P161)
+- [Tám hiện tượng làm chỗ nương cho tùy phiền não / Eight Phenomena That Serve as Bases for Corruptions](#M09-body-P162)
+- [Cách vượt qua và 10. Nikanti — ưa thích minh sát / How to Overcome Them and 10. Nikanti—Attachment to Insight](#M09-body-P163)
+- [Nhận diện và quán sự ưa thích minh sát / Discerning and Contemplating Attachment to Insight](#M09-body-P164)
+- [Tri kiến thanh tịnh về đạo lộ / Purification by Knowledge and Vision of the Way](#M09-body-P165)
+- [Bốn phép tùy quán và bốn niệm xứ / The four contemplations and four establishments of mindfulness](#M09-body-P166)
+- [Quán thọ, tâm và pháp / Contemplating feeling, mind, and phenomena](#M09-body-P167)
+- [Các cách phân loại trong pháp tùy quán / Classifications used in contemplation of phenomena](#M09-body-P168)
+- [Quán các uẩn trong oai nghi và tỉnh giác / Contemplating the aggregates in postures and clear comprehension](#M09-body-P169)
+- [Kết thúc chương tuệ sinh diệt / End of the chapter on knowledge of arising and vanishing](#M09-body-P170)
+- [Chương Tuệ hoại diệt / Chapter on knowledge of dissolution](#M09-body-P171)
+- [Chỉ lấy sự hoại diệt làm cảnh / Taking only dissolution as the object](#M09-body-P172)
+- [Khi các nhóm sắc biến mất / When material groups disappear](#M09-body-P173)
+- [Từ tướng của các hành đến tuệ hoại diệt / From the signs of formations to knowledge of dissolution](#M09-body-P174)
+- [Vì sao sự sinh, trụ và tướng không còn hiện rõ / Why arising, persistence, and signs are no longer evident](#M09-body-P175)
+- [Thấy rõ các pháp chân đế đang hoại diệt / Clearly seeing ultimate phenomena dissolving](#M09-body-P176)
+- [Minh sát trở lại chính tuệ đang quán / Applying insight again to the knowledge that contemplates](#M09-body-P177)
+- [Mẫu quán cảnh và tuệ quán / Patterns for contemplating the object and contemplating knowledge](#M09-body-P178)
+- [Sức thấy sự hoại diệt / The power to see dissolution](#M09-body-P179)
+- [Có thể ưu tiên quán điều mình ưa thích / Giving priority to the contemplation one prefers](#M09-body-P180)
+- [Quán sự tan rã và chuyển sang niệm hơi thở / Contemplating dissolution and turning to mindfulness of breathing](#M09-body-P181)
+- [Niệm hơi thở — Bộ bốn thứ nhất / Mindfulness of breathing — First tetrad](#M09-body-P182)
+- [Bộ bốn thứ nhất và chuẩn bị quán danh sắc / The first tetrad and preparation for contemplating mentality and materiality](#M09-body-P183)
+- [Niệm hơi thở — Bộ bốn thứ hai / Mindfulness of breathing — Second tetrad](#M09-body-P184)
+- [Biết rõ hỷ trong thiền chỉ và minh sát / Clearly knowing rapture in serenity and insight](#M09-body-P185)
+- [Biết rõ lạc và làm lắng dịu tâm hành / Clearly knowing pleasure and calming mental formation](#M09-body-P186)
+- [Niệm hơi thở — Bộ bốn thứ ba / Mindfulness of breathing — Third tetrad](#M09-body-P187)
+- [Biết rõ tâm và làm tâm hân hoan / Clearly knowing the mind and gladdening it](#M09-body-P188)
+- [Định tâm trong thiền chỉ và minh sát / Concentrating the mind in serenity and insight](#M09-body-P189)
+- [Định sát-na trong minh sát / Momentary concentration in insight](#M09-body-P190)
+- [Lưu ý về định sát-na và giải thoát tâm / A point concerning momentary concentration and liberating the mind](#M09-body-P191)
+- [Giải thoát tâm bằng các phép quán minh sát / Liberating the mind through insight contemplations](#M09-body-P192)
+- [Niệm hơi thở — Bộ bốn thứ tư / Mindfulness of breathing — Fourth tetrad](#M09-body-P193)
+- [Quán vô thường, ly tham, diệt và xả ly / Contemplations of impermanence, dispassion, cessation and relinquishment](#M09-body-P194)
+- [Phạm vi thực hành của bốn bộ bốn / The scope of practice of the four tetrads](#M09-body-P195)
+- [Lợi ích của niệm hơi thở / Benefits of Mindfulness of Breathing](#M09-body-P196)
+- [Từ tuệ hiện khởi là đáng sợ đến tuệ hành xả / From Knowledge of Fearfulness to Equanimity About Formations](#M09-body-P197)
+- [Tuệ quán nhàm chán, tuệ muốn thoát khỏi và tuệ quán xét lại / Disenchantment, Desire for Deliverance, and Re-observation](#M09-body-P198)
+- [Tâm minh sát an trú trên sự hoại diệt / Insight Consciousness Settles on Dissolution](#M09-body-P199)
+- [Con đường cần đi với niệm vững mạnh / The Course to Follow With Strong Mindfulness](#M09-body-P200)
+- [Ưu tiên cảnh và đặc tướng thấy rõ / Prioritizing the Object and Characteristic Seen Clearly](#M09-body-P201)
+- [Quán danh pháp và thành tựu xả / Contemplating Mental Phenomena and Attaining Equanimity](#M09-body-P202)
+- [Tuệ hành xả / Knowledge of Equanimity About Formations](#M09-body-P203)
+- [Tiến đến Tri kiến thanh tịnh / Towards Purification by Knowledge and Vision](#M09-body-P204)
+- [Từ tuệ hành xả đến tuệ Thánh đạo / From Equanimity About Formations to Noble Path Knowledge](#M09-body-P205)
+- [Làm chín muồi tuệ hành xả / Maturing Equanimity About Formations](#M09-body-P206)
+- [Quán từng pháp và thấy thế gian là trống không / Contemplating Phenomena Individually and Seeing the World as Empty](#M09-body-P207)
+- [Người mà vua Chết không thể thấy / One Whom the King of Death Cannot See](#M09-body-P208)
+- [Năm phép phản khán và lời kết / Five Reviews and Closing Words](#M09-body-P209)
+- [Miến 210 — trang trắng / Burmese page 210 — blank page](#M09-index-P001)
+- [Chỉ mục theo thứ tự chữ cái / Alphabetical index](#M09-index-P002)
+- [Chỉ mục theo thứ tự chữ cái / Alphabetical index](#M09-index-P003)
+- [Chỉ mục theo thứ tự chữ cái / Alphabetical index](#M09-index-P004)
+- [Chỉ mục theo thứ tự chữ cái / Alphabetical index](#M09-index-P005)
+- [Chỉ mục theo vần Miến / Index in Burmese alphabetical order](#M09-index-P006)
+- [Chỉ mục theo vần Miến / Index in Burmese alphabetical order](#M09-index-P007)
+- [Chỉ mục theo vần Miến / Index in Burmese alphabetical order](#M09-index-P008)
+- [Chỉ mục theo vần Miến / Index in Burmese alphabetical order](#M09-index-P009)
+- [Chỉ mục theo vần Miến / Index in Burmese alphabetical order](#M09-index-P010)
+
+<a id="M09-cover-P001"></a>
+## Bìa trước và bìa sau / Front and back covers
+Bìa / Cover
+
+**VI**
+Nibbānagāminipaṭipadā — Đường đến Niết-bàn (bản lược), Cuốn 9. Phần đề mục thiền minh sát (Vipassanākammaṭṭhāna). Thiền sư Pa-Auk Tawya Sayadaw.
+
+**EN**
+Nibbānagāminipaṭipadā — The Practice Leading to Nibbāna (Abridged), Volume 9. Insight Meditation Subjects (Vipassanākammaṭṭhāna). Pa-Auk Tawya Sayadaw.
+
+**VI**
+Yo ca vassasataṃ jīve, apassaṃ udayabbayaṃ.
+Ekāhaṃ jīvitaṃ seyyo, passato udayabbayaṃ.
+
+**EN**
+Yo ca vassasataṃ jīve, apassaṃ udayabbayaṃ.
+Ekāhaṃ jīvitaṃ seyyo, passato udayabbayaṃ.
+
+**VI**
+Có người sống trọn một trăm năm mà không thấy biết bằng tuệ minh sát sự sinh diệt (udayabbaya) của các pháp danh sắc thuộc năm uẩn. So với người ấy sống suốt một trăm năm, sống chỉ một ngày, một hôm, một buổi sáng của người thật sự thấy biết bằng tuệ minh sát sự sinh diệt của các pháp danh sắc thuộc năm uẩn thì thù thắng, cao quý hơn. (Dhammapada, kệ 113.)
+
+**EN**
+One might live for a full hundred years without knowing and seeing, with insight wisdom, the arising and passing away (udayabbaya) of the material and mental phenomena of the five aggregates. Better and nobler than that person’s hundred-year life is just one day, one single day, one morning of life for one who truly knows and sees, with insight wisdom, the arising and passing away of the material and mental phenomena of the five aggregates. (Dhammapada, verse 113.)
+
+**VI**
+Yo ca vassasataṃ jīve, apassaṃ amataṃ padaṃ.
+Ekāhaṃ jīvitaṃ seyyo, passato amataṃ padaṃ.
+
+**EN**
+Yo ca vassasataṃ jīve, apassaṃ amataṃ padaṃ.
+Ekāhaṃ jīvitaṃ seyyo, passato amataṃ padaṃ.
+
+**VI**
+Có người sống trọn một trăm năm mà không thấy biết pháp Niết-bàn cao quý, bất tử. So với người ấy sống suốt một trăm năm, sống chỉ một ngày, một hôm, một buổi sáng của người thấy biết pháp Niết-bàn cao quý, bất tử thì thù thắng, cao quý hơn. (Dhammapada, kệ 114.)
+
+**EN**
+One might live for a full hundred years without knowing and seeing the noble Deathless, Nibbāna. Better and nobler than that person’s hundred-year life is just one day, one single day, one morning of life for one who knows and sees the noble Deathless, Nibbāna. (Dhammapada, verse 114.)
+
+**VI**
+Yo ca vassasataṃ jīve, apassaṃ dhammamuttamaṃ.
+Ekāhaṃ jīvitaṃ seyyo, passato dhammamuttamaṃ.
+
+**EN**
+Yo ca vassasataṃ jīve, apassaṃ dhammamuttamaṃ.
+Ekāhaṃ jīvitaṃ seyyo, passato dhammamuttamaṃ.
+
+**VI**
+Có người sống trọn một trăm năm mà không thấy biết pháp siêu thế cao quý. So với người ấy sống suốt một trăm năm, sống chỉ một ngày, một hôm, một buổi sáng của người thật sự thấy biết pháp siêu thế cao quý thì thù thắng, cao quý hơn. (Dhammapada, kệ 115.)
+
+**EN**
+One might live for a full hundred years without knowing and seeing the noble supramundane Dhamma. Better and nobler than that person’s hundred-year life is just one day, one single day, one morning of life for one who truly knows and sees the noble supramundane Dhamma. (Dhammapada, verse 115.)
+
+
+<a id="M09-front-P001"></a>
+## Trang nhan đề / Title page
+Đầu sách / Front matter - 1
+
+**VI**
+Nibbānagāminipaṭipadā — Đường đến Niết-bàn (bản lược), Cuốn 9. Phần đề mục thiền minh sát (Vipassanākammaṭṭhāna). Thiền sư Pa-Auk Tawya Sayadaw.
+
+**EN**
+Nibbānagāminipaṭipadā — The Practice Leading to Nibbāna (Abridged), Volume 9. Insight Meditation Subjects (Vipassanākammaṭṭhāna). Pa-Auk Tawya Sayadaw.
+
+
+<a id="M09-front-P002"></a>
+## Pháp thí và lời nguyện / The gift of Dhamma and the aspiration
+Đầu sách / Front matter - 2
+
+**VI**
+Sabbadānaṃ dhammadānaṃ jināti,
+Sabbarasaṃ dhammaraso jināti;
+Sabbaratiṃ dhammarati jināti,
+Taṇhakkhayo sabbadukkhaṃ jināti.
+
+**EN**
+Sabbadānaṃ dhammadānaṃ jināti,
+Sabbarasaṃ dhammaraso jināti;
+Sabbaratiṃ dhammarati jināti,
+Taṇhakkhayo sabbadukkhaṃ jināti.
+
+**VI**
+Pháp thí thắng mọi sự bố thí.
+Vị Pháp thắng mọi hương vị.
+Niềm vui trong Pháp thắng mọi niềm vui.
+Sự đoạn tận ái thắng mọi khổ đau.
+
+**EN**
+The gift of Dhamma surpasses every gift.
+The taste of Dhamma surpasses every taste.
+Delight in Dhamma surpasses every delight.
+The ending of craving overcomes all suffering.
+
+**VI**
+Ciraṃ tiṭṭhatu saddhammo, dhamme hontu sagāravā.
+
+**EN**
+Ciraṃ tiṭṭhatu saddhammo, dhamme hontu sagāravā.
+
+**VI**
+Nguyện lời giáo huấn và giáo pháp của Đức Phật trường tồn. Nguyện mọi người tôn kính ba phương diện của Chánh pháp.
+
+**EN**
+May the Buddha’s teaching and dispensation long endure. May all hold the three aspects of the true Dhamma in respect.
+
+
+<a id="M09-front-P003"></a>
+## Mục lục nguyên tác · trang 1 / Original table of contents · page 1
+Đầu sách / Front matter - 3
+
+**VI**
+Namo tassa bhagavato arahato sammāsambuddhassa.
+
+**EN**
+Namo tassa bhagavato arahato sammāsambuddhassa.
+
+**VI**
+Phần đề mục thiền minh sát. Mục lục.
+
+**EN**
+Insight Meditation Subjects. Contents.
+
+**VI**
+Phần tuệ quán theo nhóm (sammasanañāṇa) — 1
+
+**EN**
+Section on comprehension knowledge (sammasanañāṇa) — 1
+
+**VI**
+Quán theo nhóm (kalāpasammasana) — minh sát theo phương pháp suy rộng (nayavipassanā) — 2
+
+**EN**
+Comprehension by groups (kalāpasammasana) — insight by inference (nayavipassanā) — 2
+
+**VI**
+Đối tượng được tuệ minh sát quán — 3
+
+**EN**
+The object contemplated by insight knowledge — 3
+
+**VI**
+Để nâng đỡ ba loại chúng sinh — 5
+
+**EN**
+For the uplifting of the three kinds of beings — 5
+
+**VI**
+Điều cần lưu ý — 8
+
+**EN**
+Points to keep in mind — 8
+
+**VI**
+Bắt đầu từ chỗ rõ ràng, dễ quán — 10
+
+**EN**
+Start where the phenomena are clear and easy to discern — 10
+
+**VI**
+Những quy định cần tuân theo — 12
+
+**EN**
+Rules to be observed — 12
+
+**VI**
+Minh sát dẫn đến xuất khởi (vuṭṭhānagāminīvipassanā) — 16
+
+**EN**
+Insight leading to emergence (vuṭṭhānagāminīvipassanā) — 16
+
+**VI**
+Điều cốt yếu cần ghi nhớ — 20
+
+**EN**
+The essential point to remember — 20
+
+**VI**
+Ba đặc tướng — 20
+
+**EN**
+The three characteristics — 20
+
+**VI**
+Ánh sáng rực rỡ của vô ngã — 22
+
+**EN**
+The radiance of not-self — 22
+
+**VI**
+Quán theo nhóm và minh sát tuần tự từng pháp — 24
+
+**EN**
+Comprehension by groups and successive insight into individual phenomena — 24
+
+**VI**
+Các chi duyên khởi — 25
+
+**EN**
+The factors of dependent origination — 25
+
+**VI**
+Tuệ minh sát và thắng trí — 28
+
+**EN**
+Insight knowledge and direct knowledge — 28
+
+**VI**
+Một điểm then chốt — 31
+
+**EN**
+A key point — 31
+
+**VI**
+Hãy phân định rồi bắt đầu quán minh sát từ chỗ dễ quán — 35
+
+**EN**
+Define the phenomena, then begin insight where discernment is easy — 35
+
+**VI**
+Quan điểm về sự chấm dứt của sắc và danh — 37
+
+**EN**
+The view on the cessation of materiality and mentality — 37
+
+**VI**
+Cách quán minh sát các danh pháp — 39
+
+**EN**
+How to contemplate mental phenomena with insight — 39
+
+**VI**
+Trường hợp hành giả lấy thiền chỉ làm cỗ xe — 41
+
+**EN**
+The case of a practitioner whose vehicle is serenity — 41
+
+**VI**
+Hãy ưu tiên quán đặc tướng mình ưa thích — 41
+
+**EN**
+Give priority to contemplating the characteristic you favour — 41
+
+
+<a id="M09-front-P004"></a>
+## Mục lục nguyên tác · trang 2 / Original table of contents · page 2
+Đầu sách / Front matter - 4
+
+**VI**
+Hiện tại theo thời kỳ (addhāpaccuppanna) — 44
+
+**EN**
+The present by period (addhāpaccuppanna) — 44
+
+**VI**
+Phương pháp năm uẩn — 44
+
+**EN**
+The method of the five aggregates — 44
+
+**VI**
+Hãy quán cả sắc và danh cùng nhau — 47
+
+**EN**
+Contemplate materiality and mentality together as well — 47
+
+**VI**
+Quá khứ, hiện tại và vị lai — 48
+
+**EN**
+Past, present and future — 48
+
+**VI**
+Đối tượng quán trong Kinh Đặc Tướng Vô Ngã — 51
+
+**EN**
+The field of contemplation in the Discourse on the Characteristic of Not-Self — 51
+
+**VI**
+Thô và tế, hạ liệt và cao quý, xa và gần — 54
+
+**EN**
+Gross and subtle, inferior and superior, far and near — 54
+
+**VI**
+Tu tập quán bất tịnh — 57
+
+**EN**
+Development of foulness contemplation — 57
+
+**VI**
+Bất tịnh có thức — 57
+
+**EN**
+Foulness in what is associated with consciousness — 57
+
+**VI**
+Căn nhà năm uẩn đầy giòi bọ — 59
+
+**EN**
+The house of the aggregates, full of maggots — 59
+
+**VI**
+Tính bất tịnh của sắc chân đế — 60
+
+**EN**
+The foul nature of ultimate materiality — 60
+
+**VI**
+Bất tịnh không có thức — tử thi bất tịnh — 61
+
+**EN**
+Foulness in what is devoid of consciousness — the foulness of a corpse — 61
+
+**VI**
+Phương pháp và trình tự quán — 63
+
+**EN**
+The method and sequence of contemplation — 63
+
+**VI**
+Một điểm đặc biệt — 66
+
+**EN**
+A particular point — 66
+
+**VI**
+Các chi duyên khởi — 66
+
+**EN**
+The factors of dependent origination — 66
+
+**VI**
+Một số ví dụ về đối tượng quán — 68
+
+**EN**
+Some examples of fields of contemplation — 68
+
+**VI**
+Bốn mươi cách quán với hậu tố -to — 69
+
+**EN**
+Forty modes of contemplation with the suffix -to — 69
+
+**VI**
+Mười phương diện của đặc tướng vô thường — 69
+
+**EN**
+Ten aspects of the characteristic of impermanence — 69
+
+**VI**
+Aniccato — là vô thường — 69
+
+**EN**
+Aniccato — as impermanent — 69
+
+**VI**
+Palokato — là tan rã — 71
+
+**EN**
+Palokato — as disintegrating — 71
+
+**VI**
+Calato — là dao động — 71
+
+**EN**
+Calato — as unstable — 71
+
+**VI**
+Pabhaṅguto — là dễ tan vỡ — 71
+
+**EN**
+Pabhaṅguto — as fragile — 71
+
+**VI**
+Addhuvato — là không bền — 72
+
+**EN**
+Addhuvato — as non-lasting — 72
+
+**VI**
+Vipariṇāmadhammato — là pháp phải biến đổi — 72
+
+**EN**
+Vipariṇāmadhammato — as subject to change — 72
+
+**VI**
+Asārakato — là không có lõi — 73
+
+**EN**
+Asārakato — as coreless — 73
+
+**VI**
+Vibhavato — là tiêu hoại — 73
+
+**EN**
+Vibhavato — as subject to dissolution — 73
+
+
+<a id="M09-front-P005"></a>
+## Mục lục nguyên tác · trang 3 / Original table of contents · page 3
+Đầu sách / Front matter - 5
+
+**VI**
+Maraṇadhammato — là pháp phải chết (maccu) — 73
+
+**EN**
+Maraṇadhammato — as subject to death (maccu) — 73
+
+**VI**
+Saṅkhatato — là hữu vi — 73
+
+**EN**
+Saṅkhatato — as conditioned — 73
+
+**VI**
+Hai mươi lăm phương diện của đặc tướng khổ — 75
+
+**EN**
+Twenty-five aspects of the characteristic of suffering — 75
+
+**VI**
+Dukkhato — là khổ — 75
+
+**EN**
+Dukkhato — as suffering — 75
+
+**VI**
+Rogato — như bệnh — 77
+
+**EN**
+Rogato — as a disease — 77
+
+**VI**
+Aghato — như tai họa — 77
+
+**EN**
+Aghato — as an affliction — 77
+
+**VI**
+Gaṇḍato — như ung nhọt — 78
+
+**EN**
+Gaṇḍato — as a boil — 78
+
+**VI**
+Sallato — như mũi tên — 79
+
+**EN**
+Sallato — as a dart — 79
+
+**VI**
+Ābādhato — như bệnh hoạn — 79
+
+**EN**
+Ābādhato — as an ailment — 79
+
+**VI**
+Upaddavato — như hoạn nạn — 80
+
+**EN**
+Upaddavato — as a calamity — 80
+
+**VI**
+Bhayato — là đáng sợ — 80
+
+**EN**
+Bhayato — as fearful — 80
+
+**VI**
+Ītito — như tai ương — 81
+
+**EN**
+Ītito — as a plague — 81
+
+**VI**
+Upasaggato — như hiểm họa — 81
+
+**EN**
+Upasaggato — as a menace — 81
+
+**VI**
+Atāṇato — là không có chỗ che chở — 81
+
+**EN**
+Atāṇato — as without protection — 81
+
+**VI**
+Aleṇato — là không có chỗ ẩn náu — 82
+
+**EN**
+Aleṇato — as without shelter — 82
+
+**VI**
+Asaraṇato — là không có chỗ nương tựa — 82
+
+**EN**
+Asaraṇato — as without refuge — 82
+
+**VI**
+Vadhakato — như kẻ sát hại — 83
+
+**EN**
+Vadhakato — as a killer — 83
+
+**VI**
+Aghamūlato — là gốc tai họa — 83
+
+**EN**
+Aghamūlato — as the root of affliction — 83
+
+**VI**
+Ādīnavato — là nguy hại — 84
+
+**EN**
+Ādīnavato — as dangerous — 84
+
+**VI**
+Sāsavato — là còn lậu hoặc — 85
+
+**EN**
+Sāsavato — as subject to the taints — 85
+
+**VI**
+Mārāmisato — là mồi của Māra — 85
+
+**EN**
+Mārāmisato — as Māra’s bait — 85
+
+**VI**
+Jātidhammato, jarādhammato, byādhidhammato — là pháp phải sinh, phải già, phải bệnh — 87
+
+**EN**
+Jātidhammato, jarādhammato, byādhidhammato — as subject to birth, ageing and illness — 87
+
+**VI**
+Sokadhammato, paridevadhammato, upāyāsadhammato — là pháp phải sầu, bi, não — 87
+
+**EN**
+Sokadhammato, paridevadhammato, upāyāsadhammato — as subject to sorrow, lamentation and despair — 87
+
+**VI**
+Saṅkilesikadhammato — là pháp dẫn đến ô nhiễm — 88
+
+**EN**
+Saṅkilesikadhammato — as liable to defilement — 88
+
+**VI**
+Năm phương diện của đặc tướng vô ngã — 89
+
+**EN**
+Five aspects of the characteristic of not-self — 89
+
+
+<a id="M09-front-P006"></a>
+## Mục lục nguyên tác · trang 4 / Original table of contents · page 4
+Đầu sách / Front matter - 6
+
+**VI**
+Suññato và anattato — là rỗng không và vô ngã — 89
+
+**EN**
+Suññato and anattato — as void and not-self — 89
+
+**VI**
+Anattato — là vô ngã — 89
+
+**EN**
+Anattato — as not-self — 89
+
+**VI**
+Suññato — là rỗng không — 89
+
+**EN**
+Suññato — as void — 89
+
+**VI**
+Parato — là xa lạ — 90
+
+**EN**
+Parato — as alien — 90
+
+**VI**
+Rittato — là trống rỗng — 90
+
+**EN**
+Rittato — as empty — 90
+
+**VI**
+Tucchato — là rỗng tuếch — 91
+
+**EN**
+Tucchato — as hollow — 91
+
+**VI**
+Nguyên do của vô thường, khổ và vô ngã — 92
+
+**EN**
+Why phenomena are impermanent, suffering and not-self — 92
+
+**VI**
+Minh sát theo phương pháp suy rộng với hai trăm cách phân tích — 93
+
+**EN**
+Insight by inference with two hundred variations — 93
+
+**VI**
+Có thể làm viên mãn sự tu tập tuệ — 94
+
+**EN**
+The development of wisdom can be fulfilled — 94
+
+**VI**
+Cách quán minh sát theo bảy phương diện về sắc (rūpasattaka) — 95
+
+**EN**
+How to practise insight according to the sevenfold method for materiality (rūpasattaka) — 95
+
+**VI**
+Cách quán sắc từ lúc thọ sinh đến lúc bỏ thân (ādānanikkhepa) — 95
+
+**EN**
+How to contemplate materiality from taking up to laying down the body (ādānanikkhepa) — 95
+
+**VI**
+Cách quán sắc theo các giai đoạn tuổi đời (vayovuḍḍhatthagama) — 95
+
+**EN**
+How to contemplate materiality through the stages of life (vayovuḍḍhatthagama) — 95
+
+**VI**
+Cách quán sắc do vật thực sinh — 98
+
+**EN**
+How to contemplate nutriment-born materiality — 98
+
+**VI**
+Cách quán sắc do thời tiết sinh — 98
+
+**EN**
+How to contemplate temperature-born materiality — 98
+
+**VI**
+Cách quán sắc do nghiệp sinh — 99
+
+**EN**
+How to contemplate kamma-born materiality — 99
+
+**VI**
+Cách quán sắc do tâm sinh — 99
+
+**EN**
+How to contemplate consciousness-born materiality — 99
+
+**VI**
+Cách quán sắc theo tính tự nhiên của pháp (dhammatā) — 100
+
+**EN**
+How to contemplate materiality according to its natural order (dhammatā) — 100
+
+**VI**
+Cách quán theo bảy phương diện về danh (arūpasattaka) — 100
+
+**EN**
+How to contemplate according to the sevenfold method for mentality (arūpasattaka) — 100
+
+**VI**
+Cách quán theo nhóm — quán chung các pháp đã gom lại — 101
+
+**EN**
+How to contemplate by groups — contemplating the collected phenomena together — 101
+
+**VI**
+Tâm minh sát trước và tâm minh sát sau — 102
+
+**EN**
+Earlier and later insight consciousness — 102
+
+**VI**
+Lộ tốc hành ý môn minh sát — 103
+
+**EN**
+The mind-door impulsion process of insight — 103
+
+**VI**
+Yamaka — cách quán theo cặp — 104
+
+**EN**
+Yamaka — contemplation in pairs — 104
+
+**VI**
+Cách quán theo sát-na — 105
+
+**EN**
+Contemplation by moments — 105
+
+**VI**
+Cách quán theo trình tự — 105
+
+**EN**
+Contemplation in sequence — 105
+
+**VI**
+Diṭṭhiugghāṭana — cách quán để nhổ bỏ kiến — 106
+
+**EN**
+Diṭṭhiugghāṭana — contemplation for uprooting views — 106
+
+
+<a id="M09-front-P007"></a>
+## Mục lục nguyên tác · trang 5 / Original table of contents · page 5
+Đầu sách / Front matter - 7
+
+**VI**
+Mānaugghāṭana — cách quán để nhổ bỏ mạn — 106
+
+**EN**
+Mānaugghāṭana — contemplation for uprooting conceit — 106
+
+**VI**
+Nikantipariyādāna — cách quán để dứt sự ưa thích do ái, để nó không sinh khởi — 107
+
+**EN**
+Nikantipariyādāna — contemplation to exhaust attachment through craving, so it does not arise — 107
+
+**VI**
+Đã là người thuần thục — 108
+
+**EN**
+One has become proficient — 108
+
+**VI**
+Phần tuệ sinh diệt (udayabbayañāṇa) — 111
+
+**EN**
+Section on knowledge of arising and passing away (udayabbayañāṇa) — 111
+
+**VI**
+Phương pháp hai nhóm sắc và danh cùng phương pháp năm uẩn — 111
+
+**EN**
+The twofold method of materiality and mentality together with the five-aggregate method — 111
+
+**VI**
+Quá khứ, vị lai, hiện tại, nội phần và ngoại phần — 112
+
+**EN**
+Past, future, present, internal and external — 112
+
+**VI**
+Cách quán rộng về tuệ sinh diệt — 113
+
+**EN**
+How to develop knowledge of arising and passing away in detail — 113
+
+**VI**
+Samudayadhammānupassī — udayadassana — cách quán riêng sự sinh — 113
+
+**EN**
+Samudayadhammānupassī — udayadassana — how to contemplate arising separately — 113
+
+**VI**
+Sắc uẩn — 114
+
+**EN**
+The material aggregate — 114
+
+**VI**
+Thọ uẩn lúc tái tục — 115
+
+**EN**
+The feeling aggregate at rebirth-linking — 115
+
+**VI**
+Tưởng uẩn lúc tái tục — 115
+
+**EN**
+The perception aggregate at rebirth-linking — 115
+
+**VI**
+Hành uẩn lúc tái tục (= tư) — 116
+
+**EN**
+The formations aggregate at rebirth-linking (= volition) — 116
+
+**VI**
+Hành uẩn lúc tái tục (= 34 trừ thọ, tưởng và thức, còn 31) — 116
+
+**EN**
+The formations aggregate at rebirth-linking (= 34 minus feeling, perception and consciousness, leaving 31) — 116
+
+**VI**
+Thức uẩn lúc tái tục — 117
+
+**EN**
+The consciousness aggregate at rebirth-linking — 117
+
+**VI**
+Vayadhammānupassī — vayadassana — cách quán riêng sự diệt — 118
+
+**EN**
+Vayadhammānupassī — vayadassana — how to contemplate passing away separately — 118
+
+**VI**
+Uppādanirodha — sự diệt của pháp đã sinh — 119
+
+**EN**
+Uppādanirodha — cessation of what has arisen — 119
+
+**VI**
+Anuppādanirodha — sự diệt do không còn sinh — 119
+
+**EN**
+Anuppādanirodha — cessation through non-arising — 119
+
+**VI**
+Cách quán sắc uẩn — 120
+
+**EN**
+An example of contemplating the material aggregate — 120
+
+**VI**
+Cách quán nhãn thức và thọ uẩn — 122
+
+**EN**
+An example of contemplating eye-consciousness and the feeling aggregate — 122
+
+**VI**
+Samudayavayadhammānupassī — udayavayadassana — cách quán sinh và diệt — 122
+
+**EN**
+Samudayavayadhammānupassī — udayavayadassana — how to contemplate arising and passing away — 122
+
+**VI**
+Thấy sự sinh và diệt của sắc uẩn — 123
+
+**EN**
+Seeing the arising and passing away of the material aggregate — 123
+
+**VI**
+Cách quán nhãn thức và thọ uẩn — 124
+
+**EN**
+An example of contemplating eye-consciousness and the feeling aggregate — 124
+
+**VI**
+Những điểm giải thích — 126
+
+**EN**
+Explanatory points — 126
+
+
+<a id="M09-front-P008"></a>
+## Mục lục nguyên tác · trang 6 / Original table of contents · page 6
+Đầu sách / Front matter - 8
+
+**VI**
+Hành và nghiệp hữu — 128
+
+**EN**
+Formations and kamma existence — 128
+
+**VI**
+Hãy quán minh sát tất cả — 129
+
+**EN**
+Contemplate all of them with insight — 129
+
+**VI**
+Phương pháp duyên khởi thứ nhất — 130
+
+**EN**
+The first method of dependent origination — 130
+
+**VI**
+Samudayadhammānupassī — quán tính sinh khởi — 132
+
+**EN**
+Samudayadhammānupassī — contemplating the nature of arising — 132
+
+**VI**
+Vayadhammānupassī — quán tính hoại diệt — 132
+
+**EN**
+Vayadhammānupassī — contemplating the nature of passing away — 132
+
+**VI**
+Samudayavayadhammānupassī — quán tính sinh và diệt — 133
+
+**EN**
+Samudayavayadhammānupassī — contemplating the nature of arising and passing away — 133
+
+**VI**
+Những kết quả có thể đạt được — 134
+
+**EN**
+The results that can be attained — 134
+
+**VI**
+Bốn Thánh đế hiện rõ thế nào — 135
+
+**EN**
+How the four truths become clear — 135
+
+**VI**
+Paccayato udayabbayadassana — thấy sinh diệt theo duyên — 135
+
+**EN**
+Paccayato udayabbayadassana — seeing arising and passing away according to conditions — 135
+
+**VI**
+Khaṇato udayadassana — thấy sự sinh theo sát-na — 136
+
+**EN**
+Khaṇato udayadassana — seeing arising moment by moment — 136
+
+**VI**
+Paccayato vayadassana — thấy sự diệt theo duyên — 136
+
+**EN**
+Paccayato vayadassana — seeing passing away according to conditions — 136
+
+**VI**
+Khaṇato vayadassana — thấy sự diệt theo sát-na — 136
+
+**EN**
+Khaṇato vayadassana — seeing passing away moment by moment — 136
+
+**VI**
+Paccayato udayabbayadassana — thấy sinh diệt theo duyên — 136
+
+**EN**
+Paccayato udayabbayadassana — seeing arising and passing away according to conditions — 136
+
+**VI**
+Đạo đế hiệp thế — năm chi đạo hiệp thế — 137
+
+**EN**
+The mundane truth of the path — the five mundane path factors — 137
+
+**VI**
+Các pháp duyên khởi hiện rõ thế nào — 139
+
+**EN**
+How the phenomena of dependent origination become clear — 139
+
+**VI**
+Paccayato udayadassana — thấy sự sinh theo duyên — 139
+
+**EN**
+Paccayato udayadassana — seeing arising according to conditions — 139
+
+**VI**
+Paccayato vayadassana — thấy sự diệt theo duyên — 139
+
+**EN**
+Paccayato vayadassana — seeing passing away according to conditions — 139
+
+**VI**
+Khaṇato udayabbayadassana — thấy sinh diệt theo sát-na — 139
+
+**EN**
+Khaṇato udayabbayadassana — seeing arising and passing away moment by moment — 139
+
+**VI**
+Bốn phương pháp hiện rõ thế nào — 140
+
+**EN**
+How the four methods become clear — 140
+
+**VI**
+Paccayato udayadassana — thấy sự sinh theo duyên — 140
+
+**EN**
+Paccayato udayadassana — seeing arising according to conditions — 140
+
+**VI**
+Khaṇato udayadassana — thấy sự sinh theo sát-na — 142
+
+**EN**
+Khaṇato udayadassana — seeing arising moment by moment — 142
+
+**VI**
+Paccayato udayabbayadassana — thấy sinh diệt theo duyên — 143
+
+**EN**
+Paccayato udayabbayadassana — seeing arising and passing away according to conditions — 143
+
+**VI**
+Paccayato udayadassana — thấy sự sinh theo duyên — 144
+
+**EN**
+Paccayato udayadassana — seeing arising according to conditions — 144
+
+**VI**
+Năm đặc tính hiện rõ thế nào — 144
+
+**EN**
+How the five characteristics become clear — 144
+
+**VI**
+Paccayato udayadassana — thấy sự sinh theo duyên — 144
+
+**EN**
+Paccayato udayadassana — seeing arising according to conditions — 144
+
+
+<a id="M09-front-P009"></a>
+## Mục lục nguyên tác · trang 7 / Original table of contents · page 7
+Đầu sách / Front matter - 9
+
+**VI**
+Khaṇato udayabbayadassana — thấy sinh diệt theo sát-na — 145
+
+**EN**
+Khaṇato udayabbayadassana — seeing arising and passing away moment by moment — 145
+
+**VI**
+Trình tự thực hành minh sát về sinh diệt — 147
+
+**EN**
+The sequence of insight practice for arising and passing away — 147
+
+**VI**
+Phần các tùy phiền não minh sát (upakkilesa) — 149
+
+**EN**
+Section on the imperfections of insight (upakkilesa) — 149
+
+**VI**
+Obhāsa — ánh sáng — 151
+
+**EN**
+Obhāsa — illumination — 151
+
+**VI**
+Vì sao phải giải thích lại? — 154
+
+**EN**
+Why is further explanation needed? — 154
+
+**VI**
+Cách trở lại con đường đúng — 156
+
+**EN**
+How to return to the correct path — 156
+
+**VI**
+Ñāṇa — tuệ minh sát — 157
+
+**EN**
+Ñāṇa — insight knowledge — 157
+
+**VI**
+Pīti — hỷ minh sát — 157
+
+**EN**
+Pīti — insight joy — 157
+
+**VI**
+Passaddhi — an tịnh minh sát — 158
+
+**EN**
+Passaddhi — insight tranquillity — 158
+
+**VI**
+Sukha — lạc minh sát — 159
+
+**EN**
+Sukha — insight happiness — 159
+
+**VI**
+Adhimokkha — tín — 159
+
+**EN**
+Adhimokkha — faith — 159
+
+**VI**
+Paggaha — tinh tấn — 159
+
+**EN**
+Paggaha — energy — 159
+
+**VI**
+Upaṭṭhāna — niệm — 160
+
+**EN**
+Upaṭṭhāna — mindfulness — 160
+
+**VI**
+Upekkhā — xả minh sát và xả hướng tâm — 160
+
+**EN**
+Upekkhā — insight equanimity and adverting equanimity — 160
+
+**VI**
+Cách tu tập để vượt qua — 163
+
+**EN**
+How to practise to overcome them — 163
+
+**VI**
+Nikanti — sự ưa thích minh sát — 163
+
+**EN**
+Nikanti — attachment to insight — 163
+
+**VI**
+Phần thanh tịnh do tri kiến về đạo lộ hành trì — tuệ minh sát bậc cao — 165
+
+**EN**
+Section on purification by knowledge and vision of the way — higher insight knowledge — 165
+
+**VI**
+Bốn phép tùy quán — cách đi vào bốn niệm xứ — 166
+
+**EN**
+The four contemplations — entering the four establishments of mindfulness — 166
+
+**VI**
+Đối tượng quán trong phần các oai nghi và tỉnh giác — 168
+
+**EN**
+The field of contemplation in the sections on postures and clear comprehension — 168
+
+**VI**
+Phần tuệ hoại diệt (bhaṅgañāṇa) — 171
+
+**EN**
+Section on knowledge of dissolution (bhaṅgañāṇa) — 171
+
+**VI**
+Tiến đến tuệ hoại diệt — 171
+
+**EN**
+Proceeding to knowledge of dissolution — 171
+
+**VI**
+Điều cần lưu ý — 172
+
+**EN**
+Points to keep in mind — 172
+
+**VI**
+Các nhóm sắc đã biến mất — 173
+
+**EN**
+The material groups have disappeared — 173
+
+
+<a id="M09-front-P010"></a>
+## Mục lục nguyên tác · trang 8 / Original table of contents · page 8
+Đầu sách / Front matter - 10
+
+**VI**
+Lại quán minh sát chính tuệ đang quán minh sát — minh sát lại (paṭivipassanā) — 177
+
+**EN**
+Contemplating again with insight the very knowledge that is contemplating with insight — insight into insight (paṭivipassanā) — 177
+
+**VI**
+Một số ví dụ về đối tượng quán — 178
+
+**EN**
+Some examples of fields of contemplation — 178
+
+**VI**
+Năng lực thấy sự hoại diệt — 179
+
+**EN**
+The power of seeing dissolution — 179
+
+**VI**
+Có thể ưu tiên quán theo một trong hai cách mình ưa thích — 180
+
+**EN**
+One may give priority to either of the two modes one favours — 180
+
+**VI**
+Niệm hơi thở — bộ bốn thứ nhất — 182
+
+**EN**
+Mindfulness of breathing — the first tetrad — 182
+
+**VI**
+Niệm hơi thở — bộ bốn thứ hai — 184
+
+**EN**
+Mindfulness of breathing — the second tetrad — 184
+
+**VI**
+Niệm hơi thở — bộ bốn thứ ba — 187
+
+**EN**
+Mindfulness of breathing — the third tetrad — 187
+
+**VI**
+Một điểm cần đặc biệt lưu ý — 191
+
+**EN**
+A point requiring special attention — 191
+
+**VI**
+Niệm hơi thở — bộ bốn thứ tư — 193
+
+**EN**
+Mindfulness of breathing — the fourth tetrad — 193
+
+**VI**
+Hãy hiểu những lợi ích và phẩm tính — 196
+
+**EN**
+Understand the benefits and qualities — 196
+
+**VI**
+Từ tuệ kinh sợ đến tuệ hành xả — 197
+
+**EN**
+From knowledge of fearfulness to knowledge of equanimity towards formations — 197
+
+**VI**
+Tuệ hiện khởi là đáng sợ (bhayatupaṭṭhānañāṇa) — 197
+
+**EN**
+Knowledge of appearance as fearful (bhayatupaṭṭhānañāṇa) — 197
+
+**VI**
+Tuệ quán nguy hại (ādīnavānupassanāñāṇa) — 197
+
+**EN**
+Knowledge of contemplation of danger (ādīnavānupassanāñāṇa) — 197
+
+**VI**
+Tuệ quán nhàm chán (nibbidānupassanāñāṇa) — 198
+
+**EN**
+Knowledge of contemplation of disenchantment (nibbidānupassanāñāṇa) — 198
+
+**VI**
+Tuệ muốn thoát khỏi (muñcitukamyatāñāṇa) — 198
+
+**EN**
+Knowledge of desire for deliverance (muñcitukamyatāñāṇa) — 198
+
+**VI**
+Tuệ quán xét lại (paṭisaṅkhānupassanāñāṇa) — 198
+
+**EN**
+Knowledge of contemplation by re-observation (paṭisaṅkhānupassanāñāṇa) — 198
+
+**VI**
+Con đường phải đi với niệm vững chắc — 200
+
+**EN**
+The path to be followed with strong mindfulness — 200
+
+**VI**
+Tiến đến phần tri kiến thanh tịnh — 205
+
+**EN**
+Proceeding to the section on purification by knowledge and vision — 205
+
+**VI**
+Từ tuệ hành xả đến tuệ Thánh đạo — 205
+
+**EN**
+From knowledge of equanimity towards formations to noble path knowledge — 205
+
+**VI**
+Hãy quán cho đến khi thấy tính rỗng không — 207
+
+**EN**
+Contemplate until emptiness is seen — 207
+
+**VI**
+Người mà Tử thần không thể thấy — 208
+
+**EN**
+One whom the King of Death cannot see — 208
+
+
+<a id="M09-body-P001"></a>
+## Đề mục thiền minh sát và tuệ thẩm sát / The meditation subject of insight and comprehension knowledge
+Miến / Burmese 1
+
+**VI**
+Namo tassa bhagavato arahato sammāsambuddhassa.
+
+**EN**
+Namo tassa bhagavato arahato sammāsambuddhassa.
+
+**VI**
+Thanh tịnh do tri kiến về đạo và phi đạo (maggāmaggañāṇadassanavisuddhi)
+
+**EN**
+Purification by knowledge and vision of path and not-path (maggāmaggañāṇadassanavisuddhi)
+
+**VI**
+Chương Tuệ thẩm sát (sammasanañāṇa)
+
+**EN**
+Chapter on comprehension knowledge (sammasanañāṇa)
+
+**VI**
+Tuệ minh sát đã thoát khỏi các tùy phiền não minh sát và đang đi theo con đường đúng đắn, theo lối minh sát đã có từ xưa, là đạo dự bị đi trước Thánh đạo. Mười tùy phiền não minh sát, bắt đầu bằng ánh sáng, không phải là đạo dự bị đi trước Thánh đạo, không phải con đường minh sát đúng đắn. Như vậy, tuệ hiểu rõ và phân biệt chính xác cả đạo dự bị là con đường minh sát đúng đắn đi trước Thánh đạo, lẫn phi đạo, tức điều không phải con đường minh sát đúng đắn, được gọi là thanh tịnh do tri kiến về đạo và phi đạo. Vì tuệ ấy biết rõ “đây là con đường đúng, đây là con đường sai”, nên gọi là tuệ trong sạch khỏi các tùy phiền não minh sát. (ဝိသုဒ္ဓိ၊၂၊၂၄၁။)
+
+**EN**
+Insight wisdom that has become free of the imperfections of insight and follows the right way, the ancient course of insight, is the preliminary path that precedes the noble path. The ten imperfections of insight, beginning with illumination, are not the preliminary path preceding the noble path, and are not the right way of insight. Thus knowledge that clearly and accurately distinguishes both the preliminary path, the right way of insight preceding the noble path, and not-path, that which is not the right way of insight, is called purification by knowledge and vision of path and not-path. Because that knowledge sees, “This is the right way. This is the wrong way,” it is called knowledge purified of the imperfections of insight. (ဝိသုဒ္ဓိ၊၂၊၂၄၁။)
+
+
+<a id="M09-body-P002"></a>
+## Thẩm sát theo nhóm và minh sát theo phương pháp / Comprehension by groups and insight by method
+Miến / Burmese 2
+
+**VI**
+Hành giả đã thành tựu sự thanh tịnh do tri kiến về đạo và phi đạo hãy bắt đầu nỗ lực thực hành minh sát theo phương pháp (nayavipassanā), còn gọi là thẩm sát theo nhóm (kalāpasammasana). (ဝိသုဒ္ဓိ၊၂၊၂၄၁။)
+
+**EN**
+A practitioner who has accomplished purification by knowledge and vision of path and not-path should begin striving to practise insight by method (nayavipassanā), also called comprehension by groups (kalāpasammasana). (ဝိသုဒ္ဓိ၊၂၊၂၄၁။)
+
+**VI**
+Thẩm sát theo nhóm (kalāpasammasana) — Gom các sắc pháp và danh pháp thành từng nhóm theo quá khứ, vị lai, hiện tại, bên trong, bên ngoài v.v., rồi lần lượt đặt lên chúng ba đặc tính và quán xét bằng minh sát. Phương pháp ấy gọi là thẩm sát theo nhóm. Tên gọi này là cách dùng của các vị trưởng lão ở đảo Jambudīpa.
+
+**EN**
+Comprehension by groups (kalāpasammasana) — Grouping material and mental phenomena according to past, future, present, internal, external and so forth, then successively applying the three characteristics and contemplating them with insight. This method is called comprehension by groups. This designation is the usage of the elders dwelling in Jambudīpa.
+
+**VI**
+Minh sát theo phương pháp (nayavipassanā) — Như chính Đức Phật đã thuyết giảng trong Kinh Vô ngã tướng và các bài pháp khác ở nhiều nơi, bắt đầu bằng “Yaṃ kiñci rūpaṃ atītānāgatapaccuppannaṃ”, các pháp được gọi là thủ uẩn hiện hữu theo mười một phương diện: quá khứ, vị lai, hiện tại, bên trong, bên ngoài, thô, tế, hạ liệt, thù thắng, xa và gần. Đó là —
+
+**EN**
+Insight by method (nayavipassanā) — As the Buddha himself taught in the Discourse on the Characteristic of Not-self and in other teachings on different occasions, beginning with “Yaṃ kiñci rūpaṃ atītānāgatapaccuppannaṃ”, the phenomena called clinging aggregates are present in eleven aspects: past, future, present, internal, external, gross, subtle, inferior, superior, far and near. They are —
+
+**VI**
+1. Tập hợp sắc pháp, tức sắc uẩn.
+
+**EN**
+1. The collection of material phenomena, the materiality aggregate.
+
+**VI**
+2. Tập hợp thọ, tức thọ uẩn.
+
+**EN**
+2. The collection of feelings, the feeling aggregate.
+
+**VI**
+3. Tập hợp tưởng, tức tưởng uẩn.
+
+**EN**
+3. The collection of perceptions, the perception aggregate.
+
+**VI**
+4. Tập hợp hành, tức hành uẩn.
+
+**EN**
+4. The collection of formations, the formations aggregate.
+
+**VI**
+5. Tập hợp thức, tức thức uẩn.
+
+**EN**
+5. The collection of consciousnesses, the consciousness aggregate.
+
+**VI**
+1. Chia các pháp ấy thành năm nhóm theo từng tập hợp, lần lượt đặt lên chúng ba đặc tính và quán xét bằng minh sát, tức phương pháp…
+
+**EN**
+1. Dividing these phenomena into five groups according to each collection, successively applying the three characteristics and contemplating them with insight, that is, the method…
+
+
+<a id="M09-body-P003"></a>
+## Các phương pháp và đối tượng của tuệ minh sát / Methods and objects of insight knowledge
+Miến / Burmese 3
+
+**VI**
+… năm uẩn.
+
+**EN**
+… of the five aggregates.
+
+**VI**
+2. Chia thành mười hai nhóm rồi quán xét bằng minh sát, tức phương pháp mười hai xứ.
+
+**EN**
+2. Dividing them into twelve groups and contemplating them with insight, the method of the twelve bases.
+
+**VI**
+3. Chia thành mười tám nhóm rồi quán xét bằng minh sát, tức phương pháp mười tám giới.
+
+**EN**
+3. Dividing them into eighteen groups and contemplating them with insight, the method of the eighteen elements.
+
+**VI**
+Những phương pháp quán minh sát như vậy gọi là minh sát theo phương pháp. Tên gọi “minh sát theo phương pháp” là cách dùng của các vị trưởng lão ở đảo Sīhaḷa. (မဟာဋီ၊၂၊၃၈၆။)
+
+**EN**
+These ways of discerning with insight are called insight by method. The designation “insight by method” is the usage of the elders dwelling on the island of Sīhaḷa. (မဟာဋီ၊၂၊၃၈၆။)
+
+**VI**
+Đối tượng được quán của tuệ minh sát
+
+**EN**
+The objects discerned by insight knowledge
+
+**VI**
+1. Sáu loại pháp sinh ở các môn tương ứng cùng với môn và cảnh, tức pháp thuộc nhãn môn, nhĩ môn, tỷ môn, thiệt môn, thân môn và ý môn.
+
+**EN**
+1. The six kinds of phenomena arising at the respective doors together with their doors and objects, namely phenomena at the eye, ear, nose, tongue, body and mind doors.
+
+**VI**
+2. Năm uẩn, tức sắc uẩn, thọ uẩn, tưởng uẩn, hành uẩn và thức uẩn.
+
+**EN**
+2. The five aggregates: materiality, feeling, perception, formations and consciousness.
+
+**VI**
+3. Sáu môn, tức nhãn môn, nhĩ môn, tỷ môn, thiệt môn, thân môn và ý môn.
+
+**EN**
+3. The six doors: eye, ear, nose, tongue, body and mind.
+
+**VI**
+4. Sáu cảnh, tức cảnh sắc, thinh, khí, vị, xúc và pháp.
+
+**EN**
+4. The six objects: visible form, sound, odour, taste, tangible objects and mental objects.
+
+**VI**
+5. Sáu thức, tức nhãn thức, nhĩ thức, tỷ thức, thiệt thức, thân thức và ý thức.
+
+**EN**
+5. The six consciousnesses: eye, ear, nose, tongue, body and mind consciousness.
+
+**VI**
+6. Sáu xúc, tức nhãn xúc, nhĩ xúc, tỷ xúc, thiệt xúc, thân xúc và ý xúc.
+
+**EN**
+6. The six contacts: eye, ear, nose, tongue, body and mind contact.
+
+**VI**
+7. Thọ sinh do nhãn xúc, thọ sinh do nhĩ xúc, thọ sinh do tỷ xúc…
+
+**EN**
+7. Feeling born of eye contact, feeling born of ear contact, feeling born of nose contact…
+
+
+<a id="M09-body-P004"></a>
+## Các nhóm đối tượng của tuệ minh sát, tiếp theo / Groups of objects of insight knowledge, continued
+Miến / Burmese 4
+
+**VI**
+… thọ sinh do thiệt xúc, thọ sinh do thân xúc và thọ sinh do ý xúc. Đó là sáu thọ.
+
+**EN**
+… feeling born of tongue contact, feeling born of body contact and feeling born of mind contact. These are the six feelings.
+
+**VI**
+8. Sáu tưởng, tức sắc tưởng, thinh tưởng, khí tưởng, vị tưởng, xúc tưởng và pháp tưởng.
+
+**EN**
+8. The six perceptions: perception of visible form, sound, odour, taste, tangible objects and mental objects.
+
+**VI**
+9. Sáu tư, tức tư đối với cảnh sắc, thinh, khí, vị, xúc và pháp.
+
+**EN**
+9. The six volitions: volition regarding visible form, sound, odour, taste, tangible objects and mental objects.
+
+**VI**
+10. Sáu ái, tức sắc ái, thinh ái, khí ái, vị ái, xúc ái và pháp ái.
+
+**EN**
+10. The six cravings: craving for visible form, sound, odour, taste, tangible objects and mental objects.
+
+**VI**
+11. Sáu tầm, tức tầm đối với cảnh sắc, thinh, khí, vị, xúc và pháp.
+
+**EN**
+11. The six applied thoughts: applied thought on visible form, sound, odour, taste, tangible objects and mental objects.
+
+**VI**
+12. Sáu tứ, tức tứ đối với cảnh sắc, thinh, khí, vị, xúc và pháp.
+
+**EN**
+12. The six sustained thoughts: sustained thought on visible form, sound, odour, taste, tangible objects and mental objects.
+
+**VI**
+13. Sáu giới, tức địa giới, thủy giới, hỏa giới, phong giới, hư không giới và thức giới.
+
+**EN**
+13. The six elements: earth, water, fire, wind, space and consciousness.
+
+**VI**
+14. Mười kasiṇa.
+
+**EN**
+14. The ten kasiṇas.
+
+**VI**
+15. Ba mươi hai phần thân.
+
+**EN**
+15. The thirty-two bodily parts.
+
+**VI**
+16. Mười hai xứ.
+
+**EN**
+16. The twelve bases.
+
+**VI**
+17. Mười tám giới.
+
+**EN**
+17. The eighteen elements.
+
+**VI**
+18. Hai mươi hai quyền.
+
+**EN**
+18. The twenty-two faculties.
+
+**VI**
+19. Ba giới, tức dục giới, sắc giới và vô sắc giới.
+
+**EN**
+19. The three elements: sense sphere, fine-material sphere and immaterial sphere.
+
+**VI**
+20. Chín hữu: dục hữu, sắc hữu, vô sắc hữu, hữu tưởng hữu, vô tưởng hữu, phi tưởng phi phi tưởng hữu, nhất uẩn hữu (chúng sinh vô tưởng), tứ uẩn hữu (bốn cõi vô sắc) và ngũ uẩn hữu (mười một cõi dục và mười lăm cõi sắc).
+
+**EN**
+20. Nine kinds of existence: sense-sphere existence, fine-material existence, immaterial existence, percipient existence, non-percipient existence, neither-percipient-nor-non-percipient existence, one-aggregate existence (non-percipient beings), four-aggregate existence (the four immaterial planes) and five-aggregate existence (the eleven sense-sphere and fifteen fine-material planes).
+
+**VI**
+21. Bốn thiền sắc giới.
+
+**EN**
+21. The four fine-material jhānas.
+
+
+<a id="M09-body-P005"></a>
+## Các đối tượng còn lại và ba hạng chúng sinh / The remaining objects and three kinds of beings
+Miến / Burmese 5
+
+**VI**
+22. Bốn vô lượng, tức từ, bi, hỷ và xả.
+
+**EN**
+22. The four immeasurables: loving-kindness, compassion, appreciative joy and equanimity.
+
+**VI**
+23. Bốn thiền chứng vô sắc.
+
+**EN**
+23. The four immaterial attainments.
+
+**VI**
+24. Mười hai chi duyên khởi.
+
+**EN**
+24. The twelve factors of dependent origination.
+
+**VI**
+Hãy ghi nhớ các tập hợp pháp này là những đối tượng được quán. (ဝိသုဒ္ဓိ၊၂၊၂၄၃-၂၄၄။)
+
+**EN**
+Remember that these collections of phenomena are the objects discerned. (ဝိသုဒ္ဓိ၊၂၊၂၄၃-၂၄၄။)
+
+**VI**
+Để nâng đỡ ba hạng chúng sinh
+
+**EN**
+To support three kinds of beings
+
+**VI**
+Những chúng sinh đáng được hướng dẫn và đang chờ đến lúc giải thoát có ba hạng. Vì muốn nâng đỡ cả ba hạng chúng sinh ấy, Đức Phật đã chỉ dạy các phương pháp quán minh sát khác nhau, bắt đầu bằng phương pháp năm uẩn.
+
+**EN**
+There are three kinds of beings fit to be guided who are awaiting liberation. To support all three kinds, the Buddha taught different ways of discerning with insight, beginning with the method of the five aggregates.
+
+**VI**
+Tu tập minh sát bằng phương pháp năm uẩn có thể đạt đến quả A-la-hán. Tu tập minh sát bằng phương pháp mười hai xứ cũng có thể đạt đến quả A-la-hán. Tu tập minh sát bằng phương pháp mười tám giới cũng có thể đạt đến quả A-la-hán. Nếu chỉ tu tập đề mục thiền minh sát bằng một phương pháp cũng có thể thành tựu kết quả mong muốn là quả A-la-hán, vì sao Đức Phật thuyết giảng nhiều phương pháp thay vì chỉ một phương pháp? Câu trả lời là Ngài thuyết giảng để nâng đỡ ba hạng chúng sinh.
+
+**EN**
+Developing insight by the method of the five aggregates can lead to arahant fruition. Developing insight by the method of the twelve bases can also lead to arahant fruition. Developing insight by the method of the eighteen elements can likewise lead to arahant fruition. If developing the meditation subject of insight by only one method can accomplish the desired result of arahant fruition, why did the Buddha teach a variety of methods? The answer is that he taught them to support three kinds of beings.
+
+**VI**
+1. Rūpasammūḷha — chúng sinh mê mờ về sắc pháp.
+
+**EN**
+1. Rūpasammūḷha — beings bewildered about material phenomena.
+
+**VI**
+2. Arūpasammūḷha — chúng sinh mê mờ về danh pháp.
+
+**EN**
+2. Arūpasammūḷha — beings bewildered about mental phenomena.
+
+**VI**
+3. Ubhayasammūḷha — chúng sinh mê mờ về cả sắc lẫn danh.
+
+**EN**
+3. Ubhayasammūḷha — beings bewildered about both materiality and mentality.
+
+
+<a id="M09-body-P006"></a>
+## Căn cơ, sở thích và cách Đức Phật chỉ dạy / Faculties, preferences and how the Buddha taught
+Miến / Burmese 6
+
+**VI**
+1. Tikkhindriya — chúng sinh có các quyền sắc bén.
+
+**EN**
+1. Tikkhindriya — beings with sharp faculties.
+
+**VI**
+2. Majjhimindriya — chúng sinh có các quyền ở mức trung bình.
+
+**EN**
+2. Majjhimindriya — beings with faculties of medium strength.
+
+**VI**
+3. Mudindriya — chúng sinh có các quyền yếu.
+
+**EN**
+3. Mudindriya — beings with weak faculties.
+
+**VI**
+1. Saṅkhittaruci — chúng sinh ưa phương pháp vắn tắt.
+
+**EN**
+1. Saṅkhittaruci — beings who prefer a concise method.
+
+**VI**
+2. Majjhimaruci — chúng sinh ưa phương pháp vừa phải, không quá tóm lược cũng không quá rộng.
+
+**EN**
+2. Majjhimaruci — beings who prefer a moderate method, neither very brief nor extensive.
+
+**VI**
+3. Vitthāraruci — chúng sinh ưa phương pháp trình bày rộng.
+
+**EN**
+3. Vitthāraruci — beings who prefer an extensive method.
+
+**VI**
+Như vậy, trong số những chúng sinh đáng được hướng dẫn đang chờ đến lúc giải thoát có ba hạng theo mỗi phương diện. Để nâng đỡ ba hạng ấy, Đức Phật đã trình bày giáo pháp bằng những phương pháp khác nhau.
+
+**EN**
+Thus, among the beings fit to be guided who await liberation there are three kinds in each respect. To support those kinds, the Buddha presented his teaching by various methods.
+
+**VI**
+1. (a) Người mê mờ về danh pháp, arūpasammūḷha.
+(b) Người có các quyền sắc bén, tikkhindriya.
+(c) Người ưa phương pháp vắn tắt, saṅkhittaruci.
+Để nâng đỡ những người này, Ngài chỉ dạy cách quán minh sát theo phương pháp năm uẩn trong các bài pháp như Kinh Vô ngã tướng.
+
+**EN**
+1. (a) A person bewildered about mental phenomena, arūpasammūḷha.
+(b) A person with sharp faculties, tikkhindriya.
+(c) A person who prefers a concise method, saṅkhittaruci.
+To support such people, he taught how to discern with insight by the method of the five aggregates in discourses such as the Discourse on the Characteristic of Not-self.
+
+**VI**
+2. (a) Người mê mờ về sắc pháp, rūpasammūḷha.
+(b) Người có các quyền trung bình, majjhimindriya.
+(c) Người ưa cách thực hành vừa phải, không quá tóm lược cũng không quá rộng, majjhimaruci.
+Để nâng đỡ những người này, Ngài thuyết giảng, chỉ dạy và khuyên bảo cách quán minh sát theo phương pháp mười hai xứ.
+
+**EN**
+2. (a) A person bewildered about material phenomena, rūpasammūḷha.
+(b) A person with faculties of medium strength, majjhimindriya.
+(c) A person who prefers a moderate course, neither very brief nor extensive, majjhimaruci.
+To support such people, he taught, showed and instructed them how to discern with insight by the method of the twelve bases.
+
+
+<a id="M09-body-P007"></a>
+## Phương pháp mười tám giới và bốn sự thật / The method of the eighteen elements and the four truths
+Miến / Burmese 7
+
+**VI**
+3. (a) Người mê mờ về cả sắc lẫn danh, ubhayasammūḷha.
+(b) Người có các quyền yếu, mudindriya.
+(c) Người ưa phương pháp trình bày rộng, vitthāraruci.
+Để nâng đỡ những người này, Ngài chỉ dạy cách quán minh sát theo phương pháp mười tám giới.
+
+**EN**
+3. (a) A person bewildered about both materiality and mentality, ubhayasammūḷha.
+(b) A person with weak faculties, mudindriya.
+(c) A person who prefers an extensive method, vitthāraruci.
+To support such people, he taught them how to discern with insight by the method of the eighteen elements.
+
+**VI**
+Để có thể phân định đặc tính vô ngã một cách thuận lợi và dễ dàng, Ngài cũng dạy cách quán minh sát theo phương pháp thuyết về các quyền.
+
+**EN**
+So that the characteristic of not-self can be defined readily and easily, he also taught how to discern with insight by the method of the teaching on the faculties.
+
+**VI**
+1. Pavatti — sự sinh khởi của các pháp thuộc khổ đế, tức năm thủ uẩn.
+
+**EN**
+1. Pavatti — the occurrence of the phenomena of the truth of suffering, the five clinging aggregates.
+
+**VI**
+2. Pavattihetu — các nhân của những pháp thuộc khổ đế ấy.
+
+**EN**
+2. Pavattihetu — the causes of those phenomena of the truth of suffering.
+
+**VI**
+3. Nivatti — sự diệt của những pháp thuộc khổ đế và tập đế ấy.
+
+**EN**
+3. Nivatti — the cessation of those phenomena of the truths of suffering and its origin.
+
+**VI**
+4. Nivattihetu — sự thực hành làm nhân cho sự diệt của những pháp thuộc khổ đế và tập đế ấy.
+
+**EN**
+4. Nivattihetu — the practice that is the cause for the cessation of those phenomena of the truths of suffering and its origin.
+
+**VI**
+Chỉ khi tự mình trực chứng bốn điều này bằng tuệ chánh kiến thì các cách quán minh sát nêu trên mới có thể đem lại lợi ích là đạo, quả và Niết-bàn. Để người nghe hiểu rằng nếu chưa tự mình trực chứng bốn điều ấy bằng tuệ chánh kiến thì chưa thể thành tựu kết quả là đạo, quả và Niết-bàn, Đức Phật cũng dạy và chỉ dẫn các cách quán minh sát liên quan đến phương pháp thuyết về các đế và phương pháp thuyết về duyên khởi. (မဟာဋီ၊၂၊၈၄-၈၅။)
+
+**EN**
+Only when one directly realizes these four matters for oneself through the wisdom of right view can the foregoing ways of discerning with insight bring the benefit of path, fruition and Nibbāna. To make it known that without directly realizing the four for oneself through the wisdom of right view one cannot accomplish the result of path, fruition and Nibbāna, the Buddha also taught and instructed in ways of discerning with insight related to the methods of teaching the truths and teaching dependent origination. (မဟာဋီ၊၂၊၈၄-၈၅။)
+
+
+<a id="M09-body-P008"></a>
+## Bốn pháp chân đế và các cách quán minh sát / The four ultimate realities and ways of discerning with insight
+Miến / Burmese 8
+
+**VI**
+Điều cần lưu ý
+
+**EN**
+A point to keep in mind
+
+**VI**
+Có bốn pháp chân đế, tức tâm, tâm sở, sắc và Niết-bàn. Trong đó, tâm, tâm sở và sắc là những pháp chân đế vô thường, khổ và vô ngã. Pháp cao quý Niết-bàn là pháp chân đế thường, lạc và vô ngã.
+
+**EN**
+There are four ultimate realities: consciousness, mental factors, materiality and Nibbāna. Of these, consciousness, mental factors and materiality are ultimate phenomena that are impermanent, suffering and not-self. The sublime reality of Nibbāna is ultimate reality that is permanent, blissful and not-self.
+
+**VI**
+Người thiện mong cầu pháp cao quý Niết-bàn, pháp chân đế thứ tư, vượt trội với những phẩm tính thường, lạc và vô ngã, phải phân định tâm, tâm sở và sắc là các pháp chân đế thứ nhất, thứ hai và thứ ba, cùng với các nhân của chúng. Rồi vị ấy phải đặt lên chúng ba đặc tính và chuyên cần quán minh sát.
+
+**EN**
+A good person longing for sublime Nibbāna, the fourth ultimate reality, distinguished by the qualities of permanence, bliss and not-self, should define consciousness, mental factors and materiality, the first, second and third ultimate realities, together with their causes. One should then apply the three characteristics to them and diligently discern them with insight.
+
+**VI**
+Khi quán như vậy —
+
+**EN**
+When discerning in this way —
+
+**VI**
+1. Chia tâm và tâm sở thành một nhóm danh, chia sắc pháp thành một nhóm sắc. Dù quán xét bằng minh sát theo phương pháp hai nhóm sắc và danh như vậy, vẫn có thể đạt đến đạo, quả và Niết-bàn.
+
+**EN**
+1. Arrange consciousness and mental factors as one group of mentality, and material phenomena as one group of materiality. Contemplating with insight by this method of the two groups of materiality and mentality can lead to path, fruition and Nibbāna.
+
+**VI**
+2. Chia sắc pháp thành một nhóm, chia danh pháp thành bốn nhóm thọ, tưởng, hành và thức. Dù quán xét bằng minh sát theo phương pháp năm uẩn, vẫn có thể đạt đến đạo, quả và Niết-bàn.
+
+**EN**
+2. Arrange material phenomena as one group and mental phenomena in four groups: feeling, perception, formations and consciousness. Contemplating with insight by the method of the five aggregates can lead to path, fruition and Nibbāna.
+
+**VI**
+3. Lại chia chính sắc và danh ấy thành mười hai nhóm. Dù quán xét bằng minh sát theo phương pháp mười hai xứ, vẫn có thể đạt đến đạo, quả và Niết-bàn.
+
+**EN**
+3. Again, arrange the same materiality and mentality in twelve groups. Contemplating with insight by the method of the twelve bases can lead to path, fruition and Nibbāna.
+
+**VI**
+4. Lại chia chính sắc và danh ấy thành mười tám nhóm. Dù quán xét bằng minh sát theo phương pháp mười tám giới, vẫn có thể đạt đến đạo, quả và Niết-bàn…
+
+**EN**
+4. Again, arrange the same materiality and mentality in eighteen groups. Contemplating with insight by the method of the eighteen elements can lead to path, fruition and Nibbāna…
+
+
+<a id="M09-body-P009"></a>
+## Các cách phân nhóm cùng quy về những pháp chân đế / The methods of grouping concern the same ultimate phenomena
+Miến / Burmese 9
+
+**VI**
+… như vậy.
+
+**EN**
+… in this way.
+
+**VI**
+5. Lại chia chính sắc và danh ấy thành hai mươi hai nhóm theo phương pháp thuyết về các quyền. Dù quán xét các quyền hiệp thế bằng minh sát, vẫn có thể đạt đến đạo, quả và Niết-bàn.
+
+**EN**
+5. Again, arrange the same materiality and mentality in twenty-two groups according to the method of the teaching on the faculties. Contemplating the mundane faculties with insight can lead to path, fruition and Nibbāna.
+
+**VI**
+6. Lại chia chính sắc và danh ấy theo mười hai chi. Dù quán xét bằng minh sát theo phương pháp thuyết duyên khởi, vẫn có thể đạt đến đạo, quả và Niết-bàn.
+
+**EN**
+6. Again, divide the same materiality and mentality according to the twelve factors. Contemplating them with insight by the method of teaching dependent origination can lead to path, fruition and Nibbāna.
+
+**VI**
+7. Lại theo phương pháp thuyết về các đế, chia thành hai nhóm, một nhóm khổ đế và một nhóm tập đế. Dù quán xét bằng minh sát theo cách ấy, vẫn có thể đạt đến đạo, quả và Niết-bàn.
+
+**EN**
+7. Again, according to the method of teaching the truths, arrange them in two groups, one of the truth of suffering and one of the truth of its origin. Contemplating them with insight in this way can lead to path, fruition and Nibbāna.
+
+**VI**
+Như vậy, sắc và danh, năm uẩn, mười hai xứ, mười tám giới, hai mươi hai quyền, mười hai chi duyên khởi, các pháp thuộc khổ đế và tập đế, được quán xét làm đối tượng của tuệ minh sát để đạt đến Niết-bàn, đều là tâm, tâm sở và sắc. Dù cách quán có khác, các pháp chân đế làm đối tượng của tuệ minh sát vẫn là những pháp ấy.
+
+**EN**
+Thus materiality and mentality, the five aggregates, twelve bases, eighteen elements, twenty-two faculties, twelve factors of dependent origination, and the phenomena of the truths of suffering and its origin, contemplated as objects of insight knowledge for reaching Nibbāna, are all consciousness, mental factors and materiality. The modes of discernment differ, while the ultimate phenomena that are the objects of insight knowledge are the same.
+
+**VI**
+Vì vậy, hành giả muốn bắt đầu nỗ lực minh sát phải đã có cả hai tuệ phân định danh sắc (nāmarūpaparicchedañāṇa) và phân biệt duyên (paccayapariggahañāṇa) đối với đối tượng của tuệ minh sát —
+
+**EN**
+Therefore a practitioner wishing to begin striving in insight should already have both knowledge of defining mentality-materiality (nāmarūpaparicchedañāṇa) and knowledge of discerning conditions (paccayapariggahañāṇa) regarding the objects of insight knowledge —
+
+**VI**
+1. Đã phân định sắc và danh.
+
+**EN**
+1. Having defined materiality and mentality.
+
+**VI**
+2. Đã phân định các nhân.
+
+**EN**
+2. Having defined the causes.
+
+**VI**
+Đối với các hành là danh sắc cùng nhân và quả đã được phân định như thế, nên bắt đầu quán xét bằng minh sát từ pháp nào…
+
+**EN**
+Among the formations thus defined, namely mentality-materiality together with causes and effects, with which phenomena should contemplation by insight begin…
+
+
+<a id="M09-body-P010"></a>
+## Bắt đầu với những pháp hiện rõ và dễ quán / Begin with phenomena that are clear and easy to discern
+Miến / Burmese 10
+
+**VI**
+… đó là câu hỏi cần đặt ra. Câu trả lời như sau.
+
+**EN**
+… that is the question to ask. The answer is as follows.
+
+**VI**
+Yepi ca sammasanupagā, tesu ye yassa pākaṭā honti, sukhena pariggahaṃ gacchanti, tesu tena sammasanaṃ ārabhitabbaṃ. (ဝိသုဒ္ဓိ၊၂၊၂၄၄။)
+
+**EN**
+Yepi ca sammasanupagā, tesu ye yassa pākaṭā honti, sukhena pariggahaṃ gacchanti, tesu tena sammasanaṃ ārabhitabbaṃ. (ဝိသုဒ္ဓိ၊၂၊၂၄၄။)
+
+**VI**
+Ye rūpārūpadhammā yassāti yogino, tesu tena sammasanaṃ ārabhitabbaṃ yathāpākaṭaṃ vipassanābhinivesoti katvā. Pacchā pana anupaṭṭhahantepi upāyena upaṭṭhāpetvā anavasesatova sammasitabbā. (မဟာဋီ၊၂၊၃၉၁။)
+
+**EN**
+Ye rūpārūpadhammā yassāti yogino, tesu tena sammasanaṃ ārabhitabbaṃ yathāpākaṭaṃ vipassanābhinivesoti katvā. Pacchā pana anupaṭṭhahantepi upāyena upaṭṭhāpetvā anavasesatova sammasitabbā. (မဟာဋီ၊၂၊၃၉၁။)
+
+**VI**
+Trong các sắc pháp và danh pháp hiệp thế thích hợp để quán xét bằng minh sát dưới ba đặc tính, những sắc pháp và danh pháp nào hiện rõ trong trí của hành giả, có thể phân định và quán một cách thuận lợi, dễ dàng, không khó nhọc, thì vị ấy hãy nỗ lực thẩm sát, quán xét bằng minh sát các pháp ấy dưới ba đặc tính. (ဝိသုဒ္ဓိ၊၂၊၂၄၄။)
+
+**EN**
+Among the mundane material and mental phenomena suitable for contemplation by insight under the three characteristics, whichever material and mental phenomena are clear to the practitioner’s knowledge and can readily and easily be defined and discerned without difficulty, those are the phenomena in which the practitioner should undertake comprehension and insight contemplation under the three characteristics. (ဝိသုဒ္ဓိ၊၂၊၂၄၄။)
+
+**VI**
+(a) Lời chỉ dạy rằng hành giả hãy nỗ lực thẩm sát, quán xét bằng minh sát dưới ba đặc tính các sắc pháp và danh pháp hiện rõ, có thể phân định và quán một cách thuận lợi, dễ dàng, không khó nhọc, được Chú giải sư nói với ý rằng minh sát có thể bắt đầu bằng tác ý đến những sắc pháp và danh pháp đang hiện rõ.
+
+**EN**
+(a) The commentator says that the practitioner should undertake comprehension and insight contemplation under the three characteristics of material and mental phenomena that are clear and can readily and easily be defined and discerned without difficulty. The intention is that insight may begin by attending to the material and mental phenomena that are clear.
+
+**VI**
+(b) Tuy vậy, về sau, những sắc pháp và danh pháp chưa hiện rõ trong trí…
+
+**EN**
+(b) Later, however, material and mental phenomena that have not yet appeared clearly to knowledge…
+
+
+<a id="M09-body-P011"></a>
+## Quán đầy đủ sau khi đã phân định năm phạm vi / Comprehensive discernment after defining the five domains
+Miến / Burmese 11
+
+**VI**
+… cũng phải dùng phương tiện thích hợp làm cho chúng hiện rõ trong trí. Rồi hãy quán xét bằng minh sát cho đầy đủ, không bỏ sót, bằng cách đặt ba đặc tính lên các sắc pháp, danh pháp, pháp nhân và pháp quả. (မဟာဋီ၊၂၊၃၉၁။)
+
+**EN**
+… must also be made clear to knowledge by appropriate means. Then contemplate them comprehensively by insight, without exception, applying the three characteristics to material and mental phenomena, their causes and their effects. (မဟာဋီ၊၂၊၃၉၁။)
+
+**VI**
+Lời Chú giải sư nêu trên nói đến —
+
+**EN**
+The commentator’s words above refer to —
+
+**VI**
+1. Rūpapariggaha — phân định sắc pháp.
+
+**EN**
+1. Rūpapariggaha — defining material phenomena.
+
+**VI**
+2. Arūpapariggaha — phân định danh pháp.
+
+**EN**
+2. Arūpapariggaha — defining mental phenomena.
+
+**VI**
+3. Rūpārūpapariggaha — phân định sắc và danh.
+
+**EN**
+3. Rūpārūpapariggaha — defining materiality and mentality.
+
+**VI**
+4. Paccayapariggaha — phân định các nhân của sắc và danh hiện tại.
+
+**EN**
+4. Paccayapariggaha — defining the causes of present materiality and mentality.
+
+**VI**
+5. Addhānapariggaha — phân định các nhân của sắc và danh quá khứ và vị lai.
+
+**EN**
+5. Addhānapariggaha — defining the causes of past and future materiality and mentality.
+
+**VI**
+Cần lưu ý rằng lời ấy chỉ được nói cho hành giả đã thấu suốt năm sự phân định này đến tận cùng.
+
+**EN**
+Bear in mind that those words are spoken for a practitioner who has fully mastered these five kinds of defining.
+
+**VI**
+1. Chưa biết sắc pháp đến mức thấy chân đế.
+
+**EN**
+1. One has not known material phenomena down to the ultimate level.
+
+**VI**
+2. Chưa biết danh pháp đến mức thấy chân đế.
+
+**EN**
+2. One has not known mental phenomena down to the ultimate level.
+
+**VI**
+3. Chưa biết sắc và danh đến mức thấy chân đế.
+
+**EN**
+3. One has not known materiality and mentality down to the ultimate level.
+
+**VI**
+4. Chưa biết các nhân của sắc và danh hiện tại.
+
+**EN**
+4. One has not known the causes of present materiality and mentality.
+
+**VI**
+5. Chưa biết các nhân của sắc và danh quá khứ và vị lai.
+
+**EN**
+5. One has not known the causes of past and future materiality and mentality.
+
+**VI**
+Đối với hành giả mới đến thiền viện để ngồi thiền, vẫn mang theo cả khối không biết như vậy, lời ấy không phải chỉ dạy rằng cứ quán những gì hiện rõ, dễ quán theo ý mình mà chưa phân biệt chế định với chân đế…
+
+**EN**
+For a practitioner newly arrived at the meditation monastery to sit, still carrying this whole mass of not knowing, those words do not instruct one simply to discern whatever appears clear and easy as one pleases, without distinguishing concepts from ultimate phenomena…
+
+
+<a id="M09-body-P012"></a>
+## Quy định cần theo khi quán minh sát / Guidelines to follow in insight practice
+Miến / Burmese 12
+
+**VI**
+… Cần lưu ý rằng đó không phải là lời dạy bảo cứ quán theo ý mình khi chưa phân biệt chế định và chân đế.
+
+**EN**
+… Bear in mind that they are not words instructing one to discern as one pleases without distinguishing concepts and ultimate phenomena.
+
+**VI**
+Tuy nhiên, có người chỉ căn cứ lời Chú giải sư nêu trên và mục (a) của lời Sớ giải sư, rồi chỉ dạy rằng minh sát chỉ cần quán những gì hiện rõ. Họ không xét đến mục (b) của lời Sớ giải sư. Nhưng chính vị thầy Mahāṭīkā, tại မဟာဋီ၊၂၊၃၅၈, đã dẫn Kinh Aparijānana trong Tương ưng Sáu xứ thuộc Tương ưng bộ (သံ၊၂၊၂၄၉-၂၅၀) và xác định rằng phải quán tất cả sắc pháp và danh pháp để biết phân biệt bằng ba loại liễu tri (pariññā). Phải quán minh sát đầy đủ không sót. Hãy đọc lời xác định của Chú giải dưới đây.
+
+**EN**
+Some, however, look only at the commentator’s statement above and subsection (a) of the subcommentator’s statement, and then teach that insight requires discerning only what is clear. They leave subsection (b) of the subcommentator’s statement out of consideration. Yet the teacher of the Mahāṭīkā himself, at မဟာဋီ၊၂၊၃၅၈, cites the Aparijānana Sutta in the Connected Discourses on the Six Bases of the Saṃyutta Nikāya (သံ၊၂၊၂၄၉-၂၅၀) and determines that all material and mental phenomena must be discerned and distinguished through the three kinds of full understanding (pariññā). They must be discerned by insight comprehensively, without omission. Read the determination of the commentary below.
+
+**VI**
+Theo các bài pháp Đức Phật thuyết ở nhiều nơi như Kinh Vô ngã tướng, và theo lời chỉ dạy của các Chú giải và Sớ giải nêu trên, cần quán minh sát tất cả các hành là sắc, danh, nhân và quả thuộc quá khứ, vị lai, hiện tại, bên trong và bên ngoài. Vậy phải quán minh sát theo phương pháp nào và theo quy định nào? Chú giải Aṭṭhasālinī, trang 270–271, và Thanh tịnh đạo, quyển hai, trang 300–301, trong phần liệt kê các loại minh sát đưa đến xuất khởi (vuṭṭhānagāminī vipassanā), giải thích các quy định phải tuân theo trong minh sát. Sau đây trình bày tiếp lời giải thích của Chú giải Aṭṭhasālinī.
+
+**EN**
+According to teachings the Buddha delivered on various occasions, such as the Discourse on the Characteristic of Not-self, and according to the instructions of the foregoing commentaries and subcommentaries, all formations, namely materiality, mentality, causes and effects, past, future, present, internal and external, must be discerned by insight. By what method and according to what guidelines should one discern with insight? The Aṭṭhasālinī commentary, pages 270–271, and the Visuddhimagga, volume two, pages 300–301, in their enumeration of the kinds of insight leading to emergence (vuṭṭhānagāminī vipassanā), explain the guidelines to follow in insight. The explanation of the Aṭṭhasālinī commentary is given next.
+
+
+<a id="M09-body-P013"></a>
+## Minh sát đưa đến xuất khởi / Insight leading to emergence
+Miến / Burmese 13
+
+**VI**
+Idhekacco āditova ajjhattaṃ pañcasu khandhesu abhinivisati. Abhinivisitvā te aniccādito passati. Yasmā pana na suddhaajjhattadassanamatteneva maggavuṭṭhānaṃ hoti, bahiddhāpi daṭṭhabbameva. Tasmā parassa khandhepi anupādinnasaṅkhārepi “aniccaṃ dukkhamanattā”ti passati. So kālena ajjhattaṃ sammasati, kālena bahiddhāti. Tassevaṃ sammasato ajjhattaṃ sammasanakāle vipassanā maggena saddhiṃ ghaṭiyati. Evaṃ ajjhattaṃ abhinivisitvā ajjhattaṃ vuṭṭhāti nāma. Sace panassa bahiddhā sammasanakāle vipassanā maggena saddhiṃ ghaṭiyati, evaṃ ajjhattaṃ abhinivisitvā bahiddhā vuṭṭhāti nāma. Esa nayo bahiddhā abhinivisitvā bahiddhā ca ajjhattañca vuṭṭhānepi.
+
+**EN**
+Idhekacco āditova ajjhattaṃ pañcasu khandhesu abhinivisati. Abhinivisitvā te aniccādito passati. Yasmā pana na suddhaajjhattadassanamatteneva maggavuṭṭhānaṃ hoti, bahiddhāpi daṭṭhabbameva. Tasmā parassa khandhepi anupādinnasaṅkhārepi “aniccaṃ dukkhamanattā”ti passati. So kālena ajjhattaṃ sammasati, kālena bahiddhāti. Tassevaṃ sammasato ajjhattaṃ sammasanakāle vipassanā maggena saddhiṃ ghaṭiyati. Evaṃ ajjhattaṃ abhinivisitvā ajjhattaṃ vuṭṭhāti nāma. Sace panassa bahiddhā sammasanakāle vipassanā maggena saddhiṃ ghaṭiyati, evaṃ ajjhattaṃ abhinivisitvā bahiddhā vuṭṭhāti nāma. Esa nayo bahiddhā abhinivisitvā bahiddhā ca ajjhattañca vuṭṭhānepi.
+
+**VI**
+Một người ở đây bắt đầu với năm uẩn bên trong. Sau khi bắt đầu, vị ấy thấy chúng là vô thường v.v. Vì đạo xuất khởi không xảy ra chỉ do thấy riêng bên trong nên cũng phải thấy bên ngoài. Do đó, vị ấy thấy cả các uẩn của người khác lẫn các hành không do nghiệp chấp thủ là vô thường, khổ, vô ngã. Khi thì vị ấy thẩm sát bên trong, khi thì bên ngoài. Trong khi thẩm sát như vậy, nếu minh sát nối với đạo lúc đang thẩm sát bên trong, đó gọi là bắt đầu từ bên trong và xuất khởi từ bên trong. Nếu minh sát nối với đạo lúc đang thẩm sát bên ngoài, đó gọi là bắt đầu từ bên trong và xuất khởi từ bên ngoài. Cũng theo cách ấy, có trường hợp bắt đầu từ bên ngoài rồi xuất khởi từ bên ngoài hoặc từ bên trong.
+
+**EN**
+One person here begins with the five aggregates internally. After beginning, one sees them as impermanent and so forth. Since emergence by the path does not occur through seeing only the internal, the external must also be seen. Therefore one sees the aggregates of others and formations not clung to as impermanent, suffering and not-self. At times one comprehends internally, at times externally. While comprehending in this way, if insight joins the path during internal comprehension, this is called beginning internally and emerging internally. If insight joins the path during external comprehension, this is called beginning internally and emerging externally. The same method applies to beginning externally and emerging either externally or internally.
+
+**VI**
+Aparo āditova rūpe abhinivisati. Abhinivisitvā bhūtarūpañca upādārūpañca paricchinditvā aniccādito passati. Yasmā pana na suddharūpadassanamatteneva vuṭṭhānaṃ hoti, arūpampi daṭṭhabbameva. Tasmā taṃ rūpaṃ ārammaṇaṃ katvā uppannaṃ vedanaṃ saññaṃ saṅkhāre viññāṇañca “idaṃ arūpan”ti paricchinditvā aniccādito passati. So kālena rūpaṃ sammasati, kālena arūpaṃ. Tassevaṃ sammasato rūpasammasanakāle vipassanā maggena saddhiṃ ghaṭiyati. Evaṃ rūpe abhinivisitvā rūpā vuṭṭhāti nāma. Sace panassa arūpasammasanakāle vipassanā maggena saddhiṃ ghaṭiyati, evaṃ rūpe abhinivisitvā arūpā vuṭṭhāti nāma. Esa nayo arūpe abhinivisitvā arūpā ca rūpā ca vuṭṭhānepi.
+
+**EN**
+Aparo āditova rūpe abhinivisati. Abhinivisitvā bhūtarūpañca upādārūpañca paricchinditvā aniccādito passati. Yasmā pana na suddharūpadassanamatteneva vuṭṭhānaṃ hoti, arūpampi daṭṭhabbameva. Tasmā taṃ rūpaṃ ārammaṇaṃ katvā uppannaṃ vedanaṃ saññaṃ saṅkhāre viññāṇañca “idaṃ arūpan”ti paricchinditvā aniccādito passati. So kālena rūpaṃ sammasati, kālena arūpaṃ. Tassevaṃ sammasato rūpasammasanakāle vipassanā maggena saddhiṃ ghaṭiyati. Evaṃ rūpe abhinivisitvā rūpā vuṭṭhāti nāma. Sace panassa arūpasammasanakāle vipassanā maggena saddhiṃ ghaṭiyati, evaṃ rūpe abhinivisitvā arūpā vuṭṭhāti nāma. Esa nayo arūpe abhinivisitvā arūpā ca rūpā ca vuṭṭhānepi.
+
+**VI**
+Người khác bắt đầu với sắc. Sau khi bắt đầu, vị ấy phân định sắc đại chủng và sắc y sinh rồi thấy chúng là vô thường v.v. Vì xuất khởi không xảy ra chỉ do thấy riêng sắc, nên cũng phải thấy danh. Do đó, vị ấy phân định thọ, tưởng, hành và thức sinh khởi khi lấy sắc ấy làm cảnh, biết “đây là danh”, rồi thấy chúng là vô thường v.v. Khi thì vị ấy thẩm sát sắc, khi thì thẩm sát danh. Trong khi thẩm sát như vậy, nếu minh sát nối với đạo lúc đang thẩm sát sắc, đó gọi là bắt đầu từ sắc và xuất khởi từ sắc. Nếu minh sát nối với đạo lúc đang thẩm sát danh, đó gọi là bắt đầu từ sắc và xuất khởi từ danh. Cũng theo cách ấy, có trường hợp bắt đầu từ danh rồi xuất khởi từ danh hoặc từ sắc.
+
+**EN**
+Another person begins with materiality. After beginning, one defines the great essentials and derived materiality and sees them as impermanent and so forth. Since emergence does not occur through seeing materiality alone, mentality must also be seen. Therefore one defines feeling, perception, formations and consciousness that have arisen taking that materiality as object, knowing “this is mentality”, and sees them as impermanent and so forth. At times one comprehends materiality, at times mentality. While comprehending in this way, if insight joins the path during comprehension of materiality, this is called beginning with materiality and emerging from materiality. If insight joins the path during comprehension of mentality, this is called beginning with materiality and emerging from mentality. The same method applies to beginning with mentality and emerging either from mentality or from materiality.
+
+**VI**
+“Yaṃ kiñci samudayadhammaṃ sabbaṃ taṃ nirodhadhamman”ti evaṃ abhinivisitvā evameva vuṭṭhānakāle pana ekappahārena pañcahi khandhehi vuṭṭhāti nāmāti ayaṃ tikkhavipassakassa mahāpaññassa bhikkhuno vipassanā. (အဘိ၊ဋ္ဌ၊၁၊၂၇၀-၂၇၁။)
+
+**EN**
+“Yaṃ kiñci samudayadhammaṃ sabbaṃ taṃ nirodhadhamman”ti evaṃ abhinivisitvā evameva vuṭṭhānakāle pana ekappahārena pañcahi khandhehi vuṭṭhāti nāmāti ayaṃ tikkhavipassakassa mahāpaññassa bhikkhuno vipassanā. (အဘိ၊ဋ္ဌ၊၁၊၂၇၀-၂၇၁။)
+
+**VI**
+“Bất cứ pháp nào có bản chất sinh khởi, tất cả pháp ấy đều có bản chất diệt.” Bắt đầu như vậy, khi xuất khởi, vị ấy xuất khởi khỏi cả năm uẩn trong một lần. Đây là minh sát của vị Tỳ-khưu có đại tuệ, có minh sát sắc bén. (အဘိ၊ဋ္ဌ၊၁၊၂၇၀-၂၇၁။)
+
+**EN**
+“Whatever is subject to arising is all subject to cessation.” Beginning in this way, at emergence one emerges from all five aggregates in a single stroke. This is the insight of a bhikkhu of great wisdom whose insight is sharp. (အဘိ၊ဋ္ဌ၊၁၊၂၇၀-၂၇၁။)
+
+
+<a id="M09-body-P014"></a>
+## Ý nghĩa của sự bắt đầu và các trường hợp xuất khởi / The meaning of beginning and the cases of emergence
+Miến / Burmese 14
+
+**VI**
+Abhinivesoti ca vipassanāya pubbabhāge kattabbanāmarūpaparicchedo veditabbo. Tasmā paṭhamaṃ rūpapariggahaṇaṃ rūpe abhiniveso. Esa nayo sesesupi. (မဟာဋီ၊၂၊၄၇၀။)
+
+**EN**
+Abhinivesoti ca vipassanāya pubbabhāge kattabbanāmarūpaparicchedo veditabbo. Tasmā paṭhamaṃ rūpapariggahaṇaṃ rūpe abhiniveso. Esa nayo sesesupi. (မဟာဋီ၊၂၊၄၇၀။)
+
+**VI**
+Abhinivesa chỉ tuệ phân định danh sắc (nāmarūpaparicchedañāṇa), tức sự phân biệt danh sắc bằng trí cần thực hiện ở giai đoạn trước minh sát. Do đó, trước hết phân biệt và phân định sắc pháp bằng trí gọi là rūpe abhinivesa, tức bắt đầu tác ý minh sát với sắc pháp. Những trường hợp bắt đầu còn lại cũng theo cách ấy. (မဟာဋီ၊၂၊၄၇၀။) Việc phân biệt bằng trí các hành thuộc khổ đế và tập đế, vốn là đối tượng của tuệ minh sát, được gọi là abhinivesa.
+
+**EN**
+Abhinivesa means knowledge of defining mentality-materiality (nāmarūpaparicchedañāṇa), the distinguishing of mentality-materiality by knowledge to be carried out at the stage preceding insight. Thus initially distinguishing and defining material phenomena by knowledge is called rūpe abhinivesa, beginning insight attention with material phenomena. The other cases of beginning follow the same method. (မဟာဋီ၊၂၊၄၇၀။) The distinguishing by knowledge of the formations belonging to the truths of suffering and its origin, which are the objects of insight knowledge, is called abhinivesa.
+
+**VI**
+Đối với Thánh đạo siêu thế —
+
+**EN**
+As regards the supramundane noble path —
+
+**VI**
+1. Có trường hợp bắt đầu tác ý minh sát với các hành bên trong rồi xuất khởi từ các hành bên trong.
+
+**EN**
+1. There is the case of beginning insight attention with internal formations and emerging from internal formations.
+
+**VI**
+2. Có trường hợp bắt đầu tác ý minh sát với bên trong rồi xuất khởi từ các hành bên ngoài.
+
+**EN**
+2. There is the case of beginning insight attention with the internal and emerging from external formations.
+
+**VI**
+3. Có trường hợp bắt đầu tác ý minh sát với bên ngoài rồi xuất khởi từ bên ngoài.
+
+**EN**
+3. There is the case of beginning insight attention with the external and emerging from the external.
+
+**VI**
+4. Có trường hợp bắt đầu tác ý minh sát với bên ngoài rồi xuất khởi từ bên trong.
+
+**EN**
+4. There is the case of beginning insight attention with the external and emerging from the internal.
+
+**VI**
+5. Có trường hợp bắt đầu tác ý minh sát với sắc pháp rồi xuất khởi từ sắc pháp.
+
+**EN**
+5. There is the case of beginning insight attention with material phenomena and emerging from material phenomena.
+
+
+<a id="M09-body-P015"></a>
+## Xuất khởi từ sắc, danh và năm uẩn / Emergence from materiality, mentality and the five aggregates
+Miến / Burmese 15
+
+**VI**
+6. Có trường hợp bắt đầu tác ý minh sát với sắc pháp rồi xuất khởi từ danh pháp.
+
+**EN**
+6. There is the case of beginning insight attention with material phenomena and emerging from mental phenomena.
+
+**VI**
+7. Có trường hợp bắt đầu tác ý minh sát với danh pháp rồi xuất khởi từ danh pháp.
+
+**EN**
+7. There is the case of beginning insight attention with mental phenomena and emerging from mental phenomena.
+
+**VI**
+8. Có trường hợp bắt đầu tác ý minh sát với danh pháp rồi xuất khởi từ sắc pháp.
+
+**EN**
+8. There is the case of beginning insight attention with mental phenomena and emerging from material phenomena.
+
+**VI**
+9. Có trường hợp xuất khởi khỏi cả năm uẩn trong cùng một lần. (အဘိ၊ဋ္ဌ၊၁၊၂၇၀။)
+
+**EN**
+9. There is the case of emerging from all five aggregates in a single stroke. (အဘိ၊ဋ္ဌ၊၁၊၂၇၀။)
+
+**VI**
+1. Trong Giáo pháp này, có hành giả ngay từ đầu nỗ lực tác ý và quán năm uẩn bên trong. Sau khi tác ý và quán như vậy, vị ấy lần lượt đặt ba đặc tính vô thường, khổ, vô ngã lên năm uẩn bên trong ấy, rồi quán xét bằng minh sát. Chỉ quán minh sát riêng năm uẩn bên trong thì minh sát đưa đến xuất khởi (vuṭṭhānagāminī vipassanā) không thể sinh. Đó là minh sát đi cùng dòng tâm lộ đạo, chuyển ngay một lần từ cảnh các hành sang Niết-bàn. Do đó cũng phải quán minh sát năm uẩn bên ngoài. Vì vậy, hãy quán năm uẩn của người khác cũng như các hành không do nghiệp chấp thủ thuộc vật vô tri, lần lượt đặt lên chúng ba đặc tính vô thường, khổ, vô ngã, để thấy rõ bằng tuệ minh sát. Hành giả ấy có khi quán xét bên trong bằng minh sát, lần lượt đặt lên đó ba đặc tính. Có khi vị ấy quán xét bên ngoài bằng minh sát, lần lượt đặt lên đó ba đặc tính. Khi vị hành giả ấy quán xét như vậy, tuệ minh sát có thể nối với tuệ Thánh đạo trong lúc quán xét bên trong bằng minh sát. (Khi tuệ minh sát kết thúc, tuệ Thánh đạo…
+
+**EN**
+1. In this Teaching a practitioner, from the very start of exertion, attends to and discerns the five aggregates internally. Having attended to and discerned them, one successively applies the three characteristics of impermanence, suffering and not-self to those internal five aggregates and contemplates them with insight. If one discerns only the five internal aggregates with insight, insight leading to emergence (vuṭṭhānagāminī vipassanā) cannot arise. This is the insight that occurs together with the path cognitive process, which shifts in a single stroke from formations as object to Nibbāna. Thus one must also discern the five external aggregates with insight. Therefore discern the five aggregates of other persons as well as the formations not clung to of inanimate things, successively applying the three characteristics of impermanence, suffering and not-self so they are seen with insight knowledge. At times that practitioner contemplates internally with insight, successively applying the three characteristics. At times one contemplates externally with insight, successively applying the three characteristics. When that practitioner contemplates in this way, insight knowledge may join noble path knowledge while one is contemplating internally with insight. (At the end of insight knowledge, noble path knowledge…
+
+
+<a id="M09-body-P016"></a>
+## Bắt đầu quán nội phần và ngoại phần / Beginning with internal and external contemplation
+Miến / Burmese 16
+
+**VI**
+… sinh khởi, nghĩa là như vậy.) Trường hợp này gọi là bắt đầu tác ý đến nội phần rồi xuất khởi từ nội phần. (Nghĩa là minh sát đưa đến xuất khởi sinh khởi.)
+
+**EN**
+… arises, that is the meaning.) This is called beginning by attending to the internal and emerging from the internal. (That is, insight leading to emergence arises.)
+
+**VI**
+[Minh sát đưa đến xuất khởi (vuṭṭhānagāminivipassanā) — Dòng tâm minh sát thoát khỏi cảnh các hành và tiến thẳng một mạch đến Niết-bàn, nơi thoát khỏi các hành. Đây là tên chung của ba tuệ, tức hành xả tuệ, thuận thứ tuệ và chuyển tánh tuệ, vốn được gọi là minh sát đạt đến đỉnh (sikhāppattavipassanā), đã đạt tới chóp đỉnh của sự tiến thẳng một mạch ấy, thoát khỏi cảnh các hành và hướng đến Niết-bàn, nơi thoát khỏi các hành.] (Visuddhi II, 299. Mahāṭī II, 469.)
+
+**EN**
+[Insight leading to emergence (vuṭṭhānagāminivipassanā) — The stream of insight consciousness emerges from formations as object and runs straight, in a single course, to Nibbāna, which is free from formations. This is the collective name for the three knowledges, equanimity about formations, conformity and change of lineage, called insight that has reached its crest (sikhāppattavipassanā). They have reached the crest of that single course, emerging from formations as object and heading straight to Nibbāna, which is free from formations.] (Visuddhi II, 299. Mahāṭī II, 469.)
+
+**VI**
+2. Trường hợp khác — Hành giả bắt đầu nỗ lực từ nội phần, quán minh sát luân phiên nội phần rồi ngoại phần. Nếu tuệ minh sát nối liền với Thánh đạo tuệ trong khi đang quán ngoại phần, trường hợp này gọi là bắt đầu tác ý đến nội phần rồi xuất khởi từ ngoại phần.
+
+**EN**
+2. Another case — The meditator who begins with the internal alternates insight contemplation of the internal and the external. If the insight knowledge joins directly with noble path knowledge while the meditator is contemplating the external, this is called beginning by attending to the internal and emerging from the external.
+
+**VI**
+3–4. Trường hợp bắt đầu tác ý đến ngoại phần rồi xuất khởi từ ngoại phần hoặc từ nội phần cũng theo cùng cách ấy.
+
+**EN**
+3–4. The same method applies to beginning by attending to the external and emerging from the external or from the internal.
+
+**VI**
+5. (Vì nội phần có hai loại là sắc và danh, và ngoại phần cũng có hai loại là sắc và danh.) Một hành giả khác ngay từ khi mới nỗ lực tu tập, trong hai đề mục là đề mục thiền sắc và đề mục thiền danh, bắt đầu tác ý đến sắc pháp. (Nghĩa là bắt đầu nhận diện từ sắc pháp.) Sau khi tác ý như vậy, vị ấy dùng trí phân biệt để biết rõ riêng từng loại sắc đại chủng, tức bốn đại, và từng loại trong 24 sắc y sinh, rồi quán cho thấy bằng tuệ minh sát, luân phiên áp dụng ba đặc tính…
+
+**EN**
+5. (For the internal comprises two kinds, materiality and mentality, and the external likewise comprises materiality and mentality.) Another meditator, from the very start of exerting effort, begins by attending to material phenomena, out of the two meditation subjects, materiality and mentality. (That is, the meditator starts by discerning material phenomena.) Having attended thus, the meditator distinguishes with knowledge each kind of primary materiality, that is, the four great elements, and each of the 24 kinds of derived materiality, so as to know them distinctly, and sees with insight knowledge by applying the three characteristics in turn…
+
+
+<a id="M09-body-P017"></a>
+## Bắt đầu từ sắc hoặc danh và xuất khởi / Beginning with materiality or mentality and emerging
+Miến / Burmese 17
+
+**VI**
+… Nhưng chỉ quán minh sát riêng sắc pháp thì minh sát đưa đến xuất khởi không thể sinh khởi. Do đó, cũng phải quán minh sát danh pháp, luân phiên áp dụng ba đặc tính. Vì vậy, hãy dùng trí phân biệt rõ thọ, tưởng, nhóm tâm sở thuộc hành uẩn và thức sinh khởi lấy sắc pháp ấy làm cảnh, biết rằng “đây là danh pháp”, rồi quán để thấy bằng tuệ minh sát, luân phiên áp dụng ba đặc tính là vô thường, khổ và vô ngã. Hành giả ấy khi thì quán minh sát sắc pháp, luân phiên áp dụng ba đặc tính, khi thì quán minh sát danh pháp, luân phiên áp dụng ba đặc tính. Khi hành giả quán như vậy, nếu tuệ minh sát nối liền với Thánh đạo tuệ ngay trong lúc đang quán sắc pháp, trường hợp ấy gọi là bắt đầu tác ý và quán từ sắc pháp, rồi xuất khởi từ sắc pháp.
+
+**EN**
+… But insight leading to emergence cannot arise merely by contemplating material phenomena alone with insight. Mental phenomena must also be contemplated with insight by applying the three characteristics in turn. Therefore distinguish with knowledge the feeling, perception, group of mental factors belonging to the formations aggregate, and consciousness that arise taking that materiality as their object, knowing “these are mental phenomena”, and see with insight knowledge by applying the three characteristics, impermanence, suffering and non-self, in turn. That meditator at times contemplates material phenomena with insight, applying the three characteristics in turn, and at times contemplates mental phenomena with insight, applying the three characteristics in turn. If, as the meditator contemplates in this way, insight knowledge joins directly with noble path knowledge while material phenomena are being contemplated, this is called beginning by attending to and contemplating material phenomena and emerging from material phenomena.
+
+**VI**
+6. Nếu tuệ minh sát của hành giả ấy nối liền với Thánh đạo tuệ trong lúc đang quán danh pháp, trường hợp này gọi là bắt đầu tác ý đến sắc pháp rồi xuất khởi từ danh pháp.
+
+**EN**
+6. If that meditator’s insight knowledge joins directly with noble path knowledge while mental phenomena are being contemplated, this is called beginning by attending to material phenomena and emerging from mental phenomena.
+
+**VI**
+7–8. Hãy hiểu cùng phương pháp ấy đối với trường hợp bắt đầu tác ý đến danh pháp rồi xuất khởi từ danh pháp hoặc từ sắc pháp.
+
+**EN**
+7–8. Understand the same method for beginning by attending to mental phenomena and emerging from mental phenomena or from material phenomena.
+
+**VI**
+9. “Yaṃ kiñci samudayadhammaṃ, sabbaṃ taṃ nirodhadhammaṃ” — “Bất cứ pháp nào có tính sinh khởi, tất cả pháp ấy đều có tính diệt.” Hãy biết rằng khi tác ý như vậy và minh sát đưa đến xuất khởi sinh khởi, vị ấy xuất khởi từ cả năm uẩn cùng một lúc. Minh sát này là minh sát sắc bén, là minh sát của vị tỳ-khưu có tuệ lớn…
+
+**EN**
+9. “Yaṃ kiñci samudayadhammaṃ, sabbaṃ taṃ nirodhadhammaṃ” — “Whatever is subject to arising is all subject to cessation.” Know that when one attends in this way and insight leading to emergence arises, one emerges from all five aggregates at once. This is keen insight, the insight of a bhikkhu of great wisdom…
+
+
+<a id="M09-body-P018"></a>
+## Chọn pháp hiện rõ để bắt đầu quán / Choosing clearly apparent phenomena to begin contemplation
+Miến / Burmese 18
+
+**VI**
+… vị tỳ-khưu đại tuệ có minh sát sắc bén. (Abhi-a I, 270–271.)
+
+**EN**
+… a bhikkhu of great wisdom who has keen insight. (Abhi-a I, 270–271.)
+
+**VI**
+Một phán quyết cùng mẫu mực và cùng ý nghĩa với phán quyết trong Chú giải Aṭṭhasālinī vừa dẫn cũng có ở trang 300, tập II của Thanh tịnh đạo, và trong phần giải kinh Kaḷāra thuộc Chú giải Tương ưng, Thiên Nhân duyên. (Saṃ-a II, 59.) Tuy câu chữ hơi khác nhau, ý nghĩa hoàn toàn giống nhau. Vị luận sư Thanh tịnh đạo đã viết phán quyết tường tận như vậy, như đã trình bày ở trên. Trong chương tư duy tuệ (sammasanañāṇa), có người hiểu rằng chỉ cần quán những gì hiện rõ mà không phân biệt chế định với chân đế, không tách chế định với chân đế, dựa vào lời sau đây —
+
+**EN**
+A ruling in the same form and with the same meaning as the ruling just cited from the Aṭṭhasālinī commentary also occurs on page 300 in volume II of the Visuddhimagga and in the explanation of the Kaḷāra Sutta in the Nidāna division of the Saṃyutta commentary. (Saṃ-a II, 59.) Although the wording differs slightly, the meaning is entirely the same. The Visuddhimagga commentator has set out that ruling in precise detail, as shown above. In the chapter on comprehension knowledge (sammasanañāṇa), some take the following words to mean that one need only contemplate what appears clearly, without distinguishing concept from ultimate reality or separating concept from ultimate reality —
+
+**VI**
+Yepi ca sammasanupagā, tesu ye yassa pākaṭā honti, sukhena pariggahaṃ gacchanti, tesu tena sammasanaṃ ārabhitabbaṃ. (Visuddhi II, 244.)
+
+**EN**
+Yepi ca sammasanupagā, tesu ye yassa pākaṭā honti, sukhena pariggahaṃ gacchanti, tesu tena sammasanaṃ ārabhitabbaṃ. (Visuddhi II, 244.)
+
+**VI**
+Nghĩa là, trong các sắc pháp và danh pháp hiệp thế thích hợp để quán minh sát bằng cách áp dụng ba đặc tính, những sắc pháp và danh pháp nào hiện rõ trong trí của hành giả ấy và có thể được nhận diện dễ dàng, thuận lợi, không nhọc công, thì hành giả ấy hãy bắt đầu nỗ lực quán các sắc pháp và danh pháp ấy, thực hành tư duy bằng cách luân phiên áp dụng ba đặc tính. (Visuddhi II, 244.)
+
+**EN**
+That is, among mundane material and mental phenomena suitable for insight contemplation by applying the three characteristics, whatever material and mental phenomena are clear to that meditator’s knowledge and can be discerned comfortably, easily and without strain, the meditator should begin making the effort to comprehend those material and mental phenomena by applying the three characteristics in turn. (Visuddhi II, 244.)
+
+**VI**
+Người thiện đang học nên tự suy xét và thẩm định lời ấy được trình bày với ý nghĩa nào. Thật ra, vị luận sư đang nói cho người đã thông suốt và thành thạo cả năm loại nhận diện (pariggaha) rồi mới chuyển sang phần minh sát, tức chương tư duy tuệ…
+
+**EN**
+The good person who is learning should personally reflect and examine what meaning was intended by these words. In fact the commentator is addressing someone who has gained thorough mastery of the five kinds of discernment (pariggaha) and has then moved on to the insight section, the chapter on comprehension knowledge…
+
+
+<a id="M09-body-P019"></a>
+## Không bỏ sót sắc, danh, nội phần và ngoại phần / Including materiality, mentality, the internal and the external
+Miến / Burmese 19
+
+**VI**
+… Vị luận sư chỉ dạy người mới bắt đầu nỗ lực minh sát nên bắt đầu từ những sắc pháp và danh pháp dễ nhận diện. Theo lời giải thích của Đại sớ, sau khi đã quán minh sát các sắc pháp và danh pháp dễ nhận diện bằng pháp hành tư duy, cũng phải dùng phương tiện thích hợp làm cho sắc và danh chưa dễ hiện ra trong trí trở nên rõ ràng, rồi áp dụng ba đặc tính mà quán minh sát. Lý do là —
+
+**EN**
+… The commentator is only instructing someone beginning the work of insight to start with material and mental phenomena that are easy to discern. According to the explanation of the Great Subcommentary, after contemplating the readily discernible material and mental phenomena with insight through comprehension, one must also use appropriate means to bring into clear view the material and mental phenomena that do not readily appear to knowledge, then apply the three characteristics and contemplate them with insight. The reasons are —
+
+**VI**
+1. Chỉ quán minh sát riêng sắc pháp, tức sắc đại chủng và sắc y sinh, thì không thể đạt Thánh đạo.
+2. Chỉ quán minh sát riêng danh pháp, tức bốn danh uẩn, thì không thể đạt Thánh đạo.
+3. Chỉ quán minh sát riêng năm uẩn nội phần thì không thể đạt Thánh đạo.
+4. Chỉ quán minh sát riêng năm uẩn ngoại phần thì không thể đạt Thánh đạo.
+
+**EN**
+1. By contemplating only material phenomena, that is, primary and derived materiality, with insight, one cannot reach the noble path.
+2. By contemplating only mental phenomena, that is, the four mental aggregates, with insight, one cannot reach the noble path.
+3. By contemplating only the five internal aggregates with insight, one cannot reach the noble path.
+4. By contemplating only the five external aggregates with insight, one cannot reach the noble path.
+
+**VI**
+Chính vì các lý do ấy mà vị luận sư tự nêu và giải thích đến đủ 24 nhóm pháp làm cảnh cho tuệ minh sát, cần quán bằng tư duy tuệ, như đã trình bày ở trang 3–4 của sách này. Trong số rất nhiều pháp như vậy, nếu hỏi nên bắt đầu công việc minh sát từ pháp nào, lời chỉ dạy chỉ nói rằng hãy bắt đầu quán minh sát từ pháp dễ nhận diện. Nhưng theo lời giải thích của Đại sớ, về sau…
+
+**EN**
+For those very reasons the commentator himself sets out and explains all 24 groups of phenomena that serve as objects of insight knowledge and are to be contemplated by comprehension knowledge, as presented on pages 3–4 of this book. With so many phenomena, the question arises which one to begin with in the work of insight. The instruction simply says to begin insight contemplation with phenomena that are easy to discern. But according to the explanation of the Great Subcommentary, later on…
+
+
+<a id="M09-body-P020"></a>
+## Những điều cần nhớ và ba đặc tính / Points to remember and the three characteristics
+Miến / Burmese 20
+
+**VI**
+… hãy ghi nhớ rằng phải tiếp tục quán minh sát cho đến khi bao quát hết các pháp chân đế còn lại.
+
+**EN**
+… remember that one must continue insight contemplation until all the remaining ultimate phenomena are covered.
+
+**VI**
+Những điều chính cần ghi nhớ
+
+**EN**
+The essential points to remember
+
+**VI**
+Khi quán minh sát —
+1. Khi thì nội phần, tức năm uẩn nội phần.
+2. Khi thì ngoại phần, tức năm uẩn ngoại phần của chúng sinh sống, cùng các sắc pháp không do nghiệp chấp thủ thuộc vật vô tri.
+3. Khi thì sắc pháp, tức sắc đại chủng và sắc y sinh.
+4. Khi thì danh pháp, tức bốn danh uẩn.
+5. Khi thì đặc tính vô thường.
+6. Khi thì đặc tính khổ.
+7. Khi thì đặc tính vô ngã.
+
+**EN**
+When contemplating with insight —
+1. At times the internal, that is, the five internal aggregates.
+2. At times the external, that is, the five external aggregates of living beings, together with non-clung-to material phenomena in inanimate things.
+3. At times material phenomena, that is, primary materiality and derived materiality.
+4. At times mental phenomena, that is, the four mental aggregates.
+5. At times the characteristic of impermanence.
+6. At times the characteristic of suffering.
+7. At times the characteristic of non-self.
+
+**VI**
+Phải luân phiên áp dụng các phương diện ấy mà quán minh sát. Hãy ghi nhớ rằng cách tu tập này có phương pháp nhất định, phải phân biệt rõ chế định với chân đế và quán theo đúng đối tượng. Không lấy chế định làm đối tượng để quán minh sát. Chỉ lấy chân đế làm đối tượng thích hợp cho minh sát.
+
+**EN**
+These aspects are to be applied in turn in insight contemplation. Remember that this practice follows a definite method, distinguishes concept from ultimate reality, and discerns the appropriate objects. A concept is unsuitable as an object of insight contemplation. Only ultimate reality is a suitable object for insight contemplation.
+
+**VI**
+Ba đặc tính
+
+**EN**
+The three characteristics
+
+**VI**
+Eko āditova aniccato saṅkhāre sammasati. Yasmā pana na aniccato sammasanamatteneva vuṭṭhānaṃ hoti, dukkhato pi anattato pi sammasitabbam eva. Tasmā dukkhato pi anattato pi sammasati. Tassevaṃ paṭipannassa aniccato sammasanakāle vuṭṭhānaṃ hoti. Ayaṃ aniccato abhinivisitvā aniccato vuṭṭhāti nāma.
+
+**EN**
+Eko āditova aniccato saṅkhāre sammasati. Yasmā pana na aniccato sammasanamatteneva vuṭṭhānaṃ hoti, dukkhato pi anattato pi sammasitabbam eva. Tasmā dukkhato pi anattato pi sammasati. Tassevaṃ paṭipannassa aniccato sammasanakāle vuṭṭhānaṃ hoti. Ayaṃ aniccato abhinivisitvā aniccato vuṭṭhāti nāma.
+
+**VI**
+Sace panassa dukkhato anattato sammasanakāle vuṭṭhānaṃ hoti, ayaṃ aniccato abhinivisitvā dukkhato anattato…
+
+**EN**
+Sace panassa dukkhato anattato sammasanakāle vuṭṭhānaṃ hoti, ayaṃ aniccato abhinivisitvā dukkhato anattato…
+
+
+<a id="M09-body-P021"></a>
+## Bắt đầu quán theo từng đặc tính và xuất khởi / Beginning with each characteristic and emerging
+Miến / Burmese 21
+
+**VI**
+… vuṭṭhāti nāma. Esa nayo dukkhato anattato abhinivisitvā sesavuṭṭhānesupi. (Visuddhi II, 301.)
+
+**EN**
+… vuṭṭhāti nāma. Esa nayo dukkhato anattato abhinivisitvā sesavuṭṭhānesupi. (Visuddhi II, 301.)
+
+**VI**
+1. Khi mới bắt đầu tu tập minh sát, một hành giả quán các hành là vô thường, nhìn để dùng trí thấy rõ bản tính sinh rồi diệt. Tuy nhiên, chỉ quán là vô thường thì minh sát đưa đến xuất khởi không thể sinh. Cũng phải quán là khổ, nhìn để dùng trí thấy rõ sự bức bách, áp bức không ngừng do sinh và diệt, và quán là vô ngã, nhìn để dùng trí thấy rõ rằng không có tự ngã chắc thật và cốt lõi nào đứng vững, kiên cố, không bị hủy hoại. Vì vậy, vị ấy cũng quán là khổ và là vô ngã. Trong dòng tương tục của hành giả đang thực hành và quán như vậy, nếu minh sát đưa đến xuất khởi sinh khi đang quán các hành là vô thường, thì gọi là bắt đầu tác ý đến vô thường và xuất khởi từ các hành theo phương diện vô thường.
+
+**EN**
+1. At the very beginning of developing insight, a meditator contemplates formations as impermanent, examining so as to see with knowledge their nature of arising and then passing away. However, insight leading to emergence cannot arise merely through contemplating impermanence. One must also contemplate suffering, examining so as to see with knowledge the continual oppression and affliction of arising and passing away, and contemplate non-self, examining so as to see with knowledge the absence of any enduring, solid, indestructible self or core. Therefore the meditator also contemplates them as suffering and as non-self. If in the continuum of the meditator who practises and contemplates in this way, insight leading to emergence arises while contemplating formations as impermanent, this is called beginning by attending to impermanence and emerging from formations by way of impermanence.
+
+**VI**
+2–3. Nếu minh sát đưa đến xuất khởi sinh trong dòng tương tục của vị ấy khi quán là khổ hoặc vô ngã, thì gọi là bắt đầu tác ý đến vô thường rồi xuất khởi từ các hành theo phương diện khổ hoặc vô ngã.
+
+**EN**
+2–3. If insight leading to emergence arises in that person’s continuum while contemplating as suffering or as non-self, this is called beginning by attending to impermanence and emerging from formations by way of suffering or by way of non-self.
+
+**VI**
+Hãy hiểu theo cùng cách ấy đối với các trường hợp xuất khởi còn lại, khi bắt đầu tác ý đến các hành là khổ hoặc là vô ngã. (Visuddhi II, 301.)
+
+**EN**
+Understand in the same way the other cases of emergence when one begins by attending to formations as suffering or as non-self. (Visuddhi II, 301.)
+
+
+<a id="M09-body-P022"></a>
+## Luân phiên quán ba đặc tính. Ánh sáng vô ngã / Contemplating the three characteristics in turn. The light of non-self
+Miến / Burmese 22
+
+**VI**
+Theo phán quyết trong Chú giải vừa nêu, hãy ghi nhớ rằng hành giả phải luân phiên quán các hành bằng minh sát —
+1. Khi thì là vô thường.
+2. Khi thì là khổ.
+3. Khi thì là vô ngã.
+
+**EN**
+According to the ruling in the commentary above, remember that the meditator must contemplate formations with insight in turn —
+1. At times as impermanent.
+2. At times as suffering.
+3. At times as non-self.
+
+**VI**
+Ánh sáng vô ngã
+
+**EN**
+The light of non-self
+
+**VI**
+Đặc tính vô thường và đặc tính khổ đều hiển hiện trong thế gian, dù chư Phật xuất hiện hay không xuất hiện. Đặc tính vô ngã không thể hiển hiện trong thế gian nếu chư Phật không xuất hiện. Chỉ trong thời kỳ chư Phật xuất hiện, đặc tính vô ngã ấy mới hiển hiện. Ngay cả những bậc thiện trí có thần lực và uy lực lớn, những vị Bồ-tát đã thành tựu địa vị đạo sĩ như đạo sĩ Sarabhaṅga, cũng chỉ có thể giảng các hành bằng cách nêu chúng là vô thường và khổ. Các ngài không thể nêu chúng là vô ngã mà giảng giải. Nếu các bậc thiện trí ấy có thể nêu các hành là vô ngã và giảng giải cho hội chúng đến trước mặt mình, thì hội chúng ấy hẳn đã có thể thấu suốt và biết Thánh đạo tuệ và Thánh quả tuệ. Thật vậy, khả năng nêu và giảng đặc tính vô ngã không thuộc phạm vi của bất cứ cá nhân hay chúng sinh nào khác, mà chỉ thuộc phạm vi của các Đức Phật Chánh Đẳng Giác, bậc Nhất thiết trí…
+
+**EN**
+The characteristics of impermanence and suffering are evident in the world whether Buddhas arise or do not arise. The characteristic of non-self cannot become evident in the world apart from the arising of Buddhas. That characteristic becomes evident only at the time when Buddhas arise. Even wise and good persons of great power and might, Bodhisattas who became accomplished seers such as the seer Sarabhaṅga, could explain formations by presenting them as impermanent and suffering. They could not present and explain them as non-self. If those great and wise persons could present formations as non-self and explain this to an assembly that came before them, that assembly would have been able to penetrate and know noble path and fruition knowledge. The capacity to present and teach the characteristic of non-self is outside the domain of any other person or being and belongs only to the domain of the omniscient, perfectly awakened Buddhas…
+
+
+<a id="M09-body-P023"></a>
+## Phá khối sắc và danh để thấy vô ngã / Breaking up the compactness of materiality and mentality to see non-self
+Miến / Burmese 23
+
+**VI**
+… Vì vậy, đặc tính vô ngã là đặc tính khó hiện rõ. Do đó, khi Đức Phật thuyết giảng đặc tính vô ngã, Ngài giảng kèm với —
+1. Đặc tính vô thường.
+2. Đặc tính khổ.
+3. Hoặc cả hai đặc tính vô thường và khổ. (Abhi-a II, 46–47.)
+
+**EN**
+… Therefore the characteristic of non-self is a characteristic that is hard to make evident. Accordingly, when the Buddha teaches the characteristic of non-self, he teaches it together with —
+1. The characteristic of impermanence.
+2. The characteristic of suffering.
+3. Or both the characteristics of impermanence and suffering. (Abhi-a II, 46–47.)
+
+**VI**
+Nānādhātuyo vinibbhujjitvā ghanavinibbhoge kate anattalakkhaṇaṃ yāthāvasarasato upaṭṭhāti. (Abhi-a II, 47.)
+
+**EN**
+Nānādhātuyo vinibbhujjitvā ghanavinibbhoge kate anattalakkhaṇaṃ yāthāvasarasato upaṭṭhāti. (Abhi-a II, 47.)
+
+**VI**
+Khi dùng trí phân tách, phá vỡ từng sắc giới và danh giới khác nhau, từng pháp một, cho đến chân đế, và có thể phá vỡ các khối sắc và khối danh (rūpaghana, nāmaghana), thì đặc tính vô ngã, ánh sáng vô ngã, hiện rõ trong trí hành giả theo đúng bản tính riêng của nó. (Abhi-a II, 47.)
+
+**EN**
+When the distinct material and mental elements are analysed and broken up by knowledge one by one down to the ultimate level, so that the compactness of materiality and mentality (rūpaghana, nāmaghana) is broken up, the characteristic of non-self, the light of non-self, becomes evident in the meditator’s knowledge in accordance with its own actual nature. (Abhi-a II, 47.)
+
+**VI**
+Chỉ khi có thể dùng trí phân tích các khối sắc và danh, nhất là các nhóm sắc và nhóm danh, rồi nhận diện từng pháp chân đế bằng tuệ minh sát theo đặc tính, phận sự, biểu hiện và nhân gần, có thể dùng trí phân biệt, quán và thấy chúng, thì các khối sắc và khối danh mới được phá vỡ. Chỉ khi các khối được phá vỡ, trí mới đạt đến chân đế. Chỉ khi trí đạt đến chân đế, ánh sáng vô ngã mới hiển hiện rạng rỡ. Chỉ khi ba đặc tính vô thường, khổ và vô ngã…
+
+**EN**
+Only when one can analyse compact materiality and mentality, in particular material and mental groups, and discern each ultimate phenomenon with insight knowledge in terms of characteristic, function, manifestation and proximate cause, distinguishing, contemplating and seeing them with knowledge, will the compactness of materiality and mentality be broken up. Only when the compactness is broken up does knowledge reach ultimate reality. Only when knowledge reaches ultimate reality does the light of non-self shine forth clearly. Only when the three characteristics of impermanence, suffering and non-self…
+
+
+<a id="M09-body-P024"></a>
+## Căn cứ của minh sát và hai phương pháp quán / The basis of insight and two methods of contemplation
+Miến / Burmese 24
+
+**VI**
+… được quán bằng tuệ minh sát cho hiện rõ trong trí và được thấy trực tiếp, mới có thể đạt Thánh đạo. Vì vậy, hãy xét những lời quả quyết sau —
+
+**EN**
+… are contemplated with insight knowledge, made evident to knowledge and seen, can one reach the noble path. Thus consider the following assertions —
+
+**VI**
+1. Không cần quán cho thấy các nhóm sắc và nhóm danh.
+2. Các vị đệ tử không thể quán các nhóm sắc và nhóm danh.
+3. Các vị đệ tử không thể phân tích các nhóm sắc và nhóm danh thành các giới.
+4. Các vị đệ tử không thể quán sắc chân đế và danh chân đế mà Đức Phật đã giảng.
+5. Chỉ các Đức Phật Chánh Đẳng Giác, bậc Nhất thiết trí, mới có thể biết các sắc pháp và danh pháp mà Đức Phật đã giảng. Đó chỉ là phạm vi của chư Phật.
+6. Chỉ các vị A-la-hán mới có thể biết sắc và danh ấy.
+
+**EN**
+1. There is no need to contemplate until material and mental groups are seen.
+2. Disciples cannot contemplate material and mental groups.
+3. Disciples cannot analyse material and mental groups into elements.
+4. Disciples cannot contemplate the ultimate materiality and mentality taught by the Buddha.
+5. Only omniscient, perfectly awakened Buddhas can know the material and mental phenomena taught by the Buddha. That is the domain of Buddhas alone.
+6. Only arahants can know such materiality and mentality.
+
+**VI**
+Hãy nhớ rằng những lời quả quyết và quan điểm như vậy đi lệch khỏi ý nghĩa của lời dạy và không có căn cứ kinh điển. Chỉ khi phân tích được các nhóm sắc và danh thành các giới, trí mới đạt đến chân đế. Niết-bàn là pháp có thể chứng đạt khi đi từ lĩnh vực chân đế. Hãy lưu ý rằng không thể đi từ lĩnh vực chế định mà chứng đạt pháp ấy.
+
+**EN**
+Remember that assertions and views of this kind deviate from the intended meaning of the teaching and lack textual support. Only when material and mental groups can be analysed into elements does knowledge reach ultimate reality. Nibbāna is a Dhamma that can be attained by proceeding from the domain of ultimate reality. Bear in mind that it cannot be attained by proceeding from the domain of concepts.
+
+**VI**
+Quán theo nhóm và minh sát từng pháp
+
+**EN**
+Comprehension by groups and insight into phenomena individually
+
+**VI**
+Samūhaggahaṇavasena pavattaṃ kalāpasammasanaṃ. Phassādiekekadhammaggahaṇavasena pavattā anupadadhammavipassanā. (Mūlaṭī I, 109.)
+
+**EN**
+Samūhaggahaṇavasena pavattaṃ kalāpasammasanaṃ. Phassādiekekadhammaggahaṇavasena pavattā anupadadhammavipassanā. (Mūlaṭī I, 109.)
+
+**VI**
+Minh sát có hai loại, minh sát theo phương pháp nhóm (nayavipassanā), gọi là quán theo nhóm (kalāpasammasana), và minh sát từng pháp (anupadadhammavipassanā). Có thể xếp các hành thành hai nhóm theo sắc và danh, năm nhóm theo năm uẩn, mười hai nhóm theo mười hai xứ, mười tám nhóm theo mười tám giới, mười hai nhóm theo các chi duyên khởi, và những cách khác…
+
+**EN**
+There are two kinds of insight, insight by the method of grouping (nayavipassanā), called comprehension by groups (kalāpasammasana), and insight into phenomena individually (anupadadhammavipassanā). Formations may be arranged into two groups according to materiality and mentality, five groups according to the five aggregates, twelve groups according to the twelve bases, eighteen groups according to the eighteen elements, twelve groups according to the factors of dependent origination, and in other ways…
+
+
+<a id="M09-body-P025"></a>
+## Hai cách quán và các chi Duyên khởi / Two methods of contemplation and the factors of dependent origination
+Miến / Burmese 25
+
+**VI**
+… Khi quán bao quát các sắc pháp và danh pháp theo các cách phân nhóm như vậy, lấy cảnh theo từng cụm, từng tập hợp, từng nhóm, thì gọi là quán theo nhóm, tức phương pháp minh sát theo nhóm. [Theo phương pháp này, lấy chung làm cảnh các sắc pháp hiện hữu trong 42 phần thuộc sáu môn, rồi luân phiên áp dụng ba đặc tính mà quán minh sát. Tương tự, đối với các sắc pháp quá khứ, hiện tại và vị lai, nội phần và ngoại phần, hãy quán gộp và dần dần luân phiên áp dụng ba đặc tính. Đối với danh pháp, có thể lấy chung các danh pháp hiện hữu trong một sát-na tâm, hoặc xếp riêng thành nhóm thọ, nhóm tưởng, nhóm hành và nhóm thức để quán minh sát. Áp dụng tương tự đối với quá khứ, vị lai, hiện tại, nội phần, ngoại phần và các trường hợp còn lại.]
+
+**EN**
+… When material and mental phenomena are contemplated collectively by such arrangements, taking clusters, collections or groups as objects, this is called comprehension by groups, the grouped method of insight. [In this method take collectively as object the material phenomena present in the 42 divisions at the six doors, then contemplate with insight by applying the three characteristics in turn. Likewise, contemplate past, present and future materiality, internal and external, collectively, and gradually apply the three characteristics in turn. For mental phenomena, one can take together the mental phenomena present in a single mind moment, or arrange them separately into groups of feeling, perception, formations and consciousness and contemplate them with insight. The same applies to past, future, present, internal, external and the remaining cases.]
+
+**VI**
+Cách tách riêng từng sắc pháp, như địa đại, thủy đại, hỏa đại và phong đại, trong mỗi nhóm sắc để quán minh sát, và cách lấy riêng từng tâm và tâm sở như xúc, thọ, tưởng, tư, trong nhóm tâm và tâm sở ở mỗi sát-na tâm để quán minh sát, gọi là phương pháp minh sát từng pháp (anupadadhammavipassanā).
+
+**EN**
+The method of contemplating with insight each material phenomenon separately, such as earth, water, fire and air in each material group, and the method of taking individually the consciousness and mental factors, such as contact, feeling, perception and volition, within the group of consciousness and mental factors at each mind moment, are called the method of insight into phenomena individually (anupadadhammavipassanā).
+
+**VI**
+Trong hai phương pháp minh sát ấy, Thanh tịnh đạo dạy rằng hành giả mới bắt đầu nỗ lực đối với các pháp minh sát nên khởi đầu với phương pháp minh sát theo nhóm, gọi là quán theo nhóm. (Visuddhi II, 241.)
+
+**EN**
+Of those two methods of insight, the Visuddhimagga instructs a meditator beginning to work on the phenomena to be contemplated with insight to start with the grouped method of insight, called comprehension by groups. (Visuddhi II, 241.)
+
+**VI**
+Các chi Duyên khởi
+
+**EN**
+The factors of dependent origination
+
+**VI**
+Thanh tịnh đạo giải thích rằng các chi Duyên khởi cũng có mặt trong danh sách các pháp làm cảnh cho tuệ minh sát, bắt đầu bằng lời “dvādasa paṭiccasamuppādaṅgāni”, tức mười hai chi Duyên khởi. (Visuddhi II, 243.)
+
+**EN**
+The Visuddhimagga explains that the factors of dependent origination are also included in the objects of insight knowledge, beginning with the words “dvādasa paṭiccasamuppādaṅgāni”, the twelve factors of dependent origination. (Visuddhi II, 243.)
+
+
+<a id="M09-body-P026"></a>
+## Quán nhân và quả cùng các nhóm pháp / Contemplating causes and effects and groups of phenomena
+Miến / Burmese 26
+
+**VI**
+Sapaccayanāmarūpavasena tilakkhaṇaṃ āropetvā vipassanāpaṭipāṭiyā “aniccaṃ dukkhaṃ anattā”ti sammasanto vicarati. (M-a I, 281.)
+
+**EN**
+Sapaccayanāmarūpavasena tilakkhaṇaṃ āropetvā vipassanāpaṭipāṭiyā “aniccaṃ dukkhaṃ anattā”ti sammasanto vicarati. (M-a I, 281.)
+
+**VI**
+Chú giải Mūlapaṇṇāsa vừa dẫn cũng chỉ dạy quán minh sát danh và sắc cùng các duyên của chúng bằng cách áp dụng ba đặc tính theo thứ tự các tuệ minh sát.
+
+**EN**
+The commentary to the Mūlapaṇṇāsa just cited also instructs one to contemplate mentality and materiality together with their conditions with insight by applying the three characteristics in the sequence of insight knowledges.
+
+**VI**
+Theo những lời chỉ dạy ấy, hãy nhìn cho thấy bằng trí tính chất liên hệ nhân quả giữa các chi Duyên khởi —
+1. Khi thì các pháp nhân.
+2. Khi thì các pháp quả.
+Với cả hai, khi thì nhìn cho trí thấy tính vô thường, khi thì tính khổ, khi thì tính vô ngã, và quán luân phiên là vô thường, là khổ và là vô ngã.
+
+**EN**
+Following these instructions, examine so as to see with knowledge the causal relationship among the factors of dependent origination —
+1. At times the causal phenomena.
+2. At times the resultant phenomena.
+For both, look with knowledge at times to see impermanence, at times suffering and at times non-self, and contemplate them in turn as impermanent, as suffering and as non-self.
+
+**VI**
+Tóm gọn các lời chỉ dạy ở trên, khi quán minh sát, hành giả phải quán —
+1. Khi thì nội phần.
+2. Khi thì ngoại phần. Trong đó —
+3. Khi thì sắc pháp.
+4. Khi thì danh pháp.
+5. Khi thì các pháp nhân.
+6. Khi thì các pháp quả.
+7. Khi thì là vô thường.
+8. Khi thì là khổ.
+9. Khi thì là vô ngã.
+10. Khi thì là bất tịnh…
+
+**EN**
+To gather together the preceding instructions, when contemplating with insight, the meditator is to contemplate —
+1. At times the internal.
+2. At times the external. Within these —
+3. At times material phenomena.
+4. At times mental phenomena.
+5. At times causal phenomena.
+6. At times resultant phenomena.
+7. At times as impermanent.
+8. At times as suffering.
+9. At times as non-self.
+10. At times as unattractive…
+
+
+<a id="M09-body-P027"></a>
+## Quán bất tịnh, quá khứ và vị lai / Contemplating unattractiveness, the past and the future
+Miến / Burmese 27
+
+**VI**
+… luân phiên áp dụng các đặc tính mà quán minh sát. Lại nữa —
+
+**EN**
+… applying the characteristics in turn in insight contemplation. Further —
+
+**VI**
+Asubhā bhāvetabbā rāgassa pahānāya. (Udānapāḷi, Khu I, 120.)
+
+**EN**
+Asubhā bhāvetabbā rāgassa pahānāya. (Udānapāḷi, Khu I, 120.)
+
+**VI**
+Trong kinh Meghiya vừa dẫn, Đức Phật dạy tu tập bất tịnh để đoạn trừ tham. Tương tự, trong kinh Vijaya (Khu I, 308), Ngài cũng dạy tu tập bất tịnh để cắt đứt tham tận gốc. Pháp tu bất tịnh ấy thuộc lĩnh vực quán khổ trong ba đặc tính. Đây là cách quán minh sát đối với năm uẩn hiện tại.
+
+**EN**
+In the Meghiya Sutta just cited, the Buddha instructed that unattractiveness be developed for abandoning lust. Similarly, in the Vijaya Sutta (Khu I, 308) he also instructed that unattractiveness be developed for cutting lust off at its root. That development of unattractiveness falls under contemplation of suffering among the three characteristics. This is the method of insight contemplation regarding the five present aggregates.
+
+**VI**
+Lại nữa, trong các bài pháp về ba vòng như kinh Vô ngã tướng, Đức Phật chỉ dạy quán minh sát cả năm uẩn quá khứ và năm uẩn vị lai, bắt đầu bằng lời “yaṃ kiñci rūpaṃ atītānāgatapaccuppannaṃ”, tức bất cứ sắc nào thuộc quá khứ, vị lai hay hiện tại. Theo lời chỉ dạy ấy, hãy ghi nhớ rằng phải quán minh sát các uẩn quá khứ và vị lai theo cùng phương pháp quán các uẩn hiện tại. Do đó, tính tất cả —
+11. Khi thì quá khứ.
+12. Khi thì vị lai.
+Hãy ghi nhớ rằng cũng phải quán minh sát các pháp ấy.
+
+**EN**
+Further, in discourses with the three rounds of exposition, such as the Discourse on the Characteristic of Non-self, the Buddha instructed one to contemplate with insight both the five past aggregates and the five future aggregates, beginning with “yaṃ kiñci rūpaṃ atītānāgatapaccuppannaṃ”, that is, whatever materiality is past, future or present. In accordance with those instructions, remember that past and future aggregates must be contemplated with insight by the same method as present aggregates. Accordingly, counting all the items —
+11. At times the past.
+12. At times the future.
+Remember that these phenomena also are to be contemplated with insight.
+
+**VI**
+Đó là những điều quan trọng liên quan đến công việc minh sát mà hành giả nên biết trước. Lại nữa, các sắc pháp và danh pháp ấy có thể xếp thành năm nhóm theo năm uẩn, mười hai nhóm theo mười hai xứ…
+
+**EN**
+These are important points concerning the work of insight that meditators should know beforehand. Again, those material and mental phenomena can be arranged into five groups according to the five aggregates and twelve groups according to the twelve bases…
+
+
+<a id="M09-body-P028"></a>
+## Tuệ minh sát và thắng trí / Insight knowledge and direct knowledge
+Miến / Burmese 28
+
+**VI**
+… mười tám nhóm theo mười tám giới, mười hai chi theo Duyên khởi, và có thể quán minh sát bằng từng phương pháp như vậy. Trong sách này, cách quán minh sát chủ yếu được trình bày theo phương pháp hai pháp sắc và danh, gom sắc vào một nhóm và danh vào một nhóm.
+
+**EN**
+… eighteen groups according to the eighteen elements and twelve factors according to dependent origination, and insight may be practised using each of these methods. In this book, the method chiefly presented is insight contemplation according to the two kinds, materiality and mentality, placing materiality in one group and mentality in another.
+
+**VI**
+Tuệ minh sát và thắng trí
+
+**EN**
+Insight knowledge and direct knowledge
+
+**VI**
+Về việc quán quá khứ và vị lai, một số vị thầy cho rằng chỉ khi đạt thắng trí (abhiññā), đặc biệt là thắng trí nhớ các đời trước (pubbenivāsānussati), mới có thể quán quá khứ và vị lai. Có hai cách quán quá khứ và vị lai, quán bằng thắng trí nhớ các đời trước và quán bằng tuệ minh sát. Trong Pāli thuộc Tương ưng Uẩn và trong Chú giải của bài kinh ấy có lời sau đây —
+
+**EN**
+Regarding contemplation of the past and future, some teachers hold that one can contemplate them only after attaining direct knowledge (abhiññā), particularly the direct knowledge of recollection of former lives (pubbenivāsānussati). There are two ways of contemplating the past and future, by direct knowledge of recollection of former lives and by insight knowledge. The Pāli of the Connected Discourses on the Aggregates and the commentary to the discourse contain the following —
+
+**VI**
+Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā anekavihitaṃ pubbenivāsaṃ anussaramānā anussaranti, sabbe te pañcupādānakkhandhe anussaranti etesaṃ vā aññataraṃ. Katame pañca —
+1. “Evaṃrūpo ahosiṃ atītamaddhānan”ti iti vā hi, bhikkhave, anussaramāno rūpaṃyeva anussarati.
+2. “Evaṃvedano ahosiṃ atītamaddhānan”ti iti vā hi, bhikkhave, anussaramāno vedanaṃyeva anussarati.
+3. “Evaṃsañño ahosiṃ atītamaddhānan”ti. Pe.
+4. “Evaṃsaṅkhāro ahosiṃ atītamaddhānan”ti. Pe.
+5. “Evaṃviññāṇo ahosiṃ atītamaddhānan”ti iti vā hi, bhikkhave, anussaramāno viññāṇaṃyeva anussarati. (Saṃ II, 71.)
+
+**EN**
+Ye hi keci, bhikkhave, samaṇā vā brāhmaṇā vā anekavihitaṃ pubbenivāsaṃ anussaramānā anussaranti, sabbe te pañcupādānakkhandhe anussaranti etesaṃ vā aññataraṃ. Katame pañca —
+1. “Evaṃrūpo ahosiṃ atītamaddhānan”ti iti vā hi, bhikkhave, anussaramāno rūpaṃyeva anussarati.
+2. “Evaṃvedano ahosiṃ atītamaddhānan”ti iti vā hi, bhikkhave, anussaramāno vedanaṃyeva anussarati.
+3. “Evaṃsañño ahosiṃ atītamaddhānan”ti. Pe.
+4. “Evaṃsaṅkhāro ahosiṃ atītamaddhānan”ti. Pe.
+5. “Evaṃviññāṇo ahosiṃ atītamaddhānan”ti iti vā hi, bhikkhave, anussaramāno viññāṇaṃyeva anussarati. (Saṃ II, 71.)
+
+**VI**
+Pubbenivāsanti na kho idaṃ abhiññāvasena anussaraṇaṃ sandhāya vuttaṃ.
+
+**EN**
+Pubbenivāsanti na kho idaṃ abhiññāvasena anussaraṇaṃ sandhāya vuttaṃ.
+
+
+<a id="M09-body-P029"></a>
+## Đối tượng nhớ lại bằng tuệ minh sát / Objects recollected through insight knowledge
+Miến / Burmese 29
+
+**VI**
+Vipassanāvasena pana pubbenivāsaṃ anussarante samaṇabrāhmaṇe sandhāyetaṃ vuttaṃ. Tenevāha — “Sabbe te pañcupādānakkhandhe anussaranti etesaṃ vā aññataraṃ”ti. Abhiññāvasena hi samanussarantassa khandhāpi upādānakkhandhāpi khandhapaṭibaddhāpi paññattipi ārammaṇaṃ hotiyeva. Rūpaṃyeva anussaratīti evaṃ anussaranto na aññaṃ kiñci sattaṃ vā puggalaṃ vā anussarati. Atīte pana niruddhaṃ rūpakkhandhameva anussarati. Vedanādīsupi eseva nayo. (Saṃ-a II, 266, mục 79.)
+
+**EN**
+Vipassanāvasena pana pubbenivāsaṃ anussarante samaṇabrāhmaṇe sandhāyetaṃ vuttaṃ. Tenevāha — “Sabbe te pañcupādānakkhandhe anussaranti etesaṃ vā aññataraṃ”ti. Abhiññāvasena hi samanussarantassa khandhāpi upādānakkhandhāpi khandhapaṭibaddhāpi paññattipi ārammaṇaṃ hotiyeva. Rūpaṃyeva anussaratīti evaṃ anussaranto na aññaṃ kiñci sattaṃ vā puggalaṃ vā anussarati. Atīte pana niruddhaṃ rūpakkhandhameva anussarati. Vedanādīsupi eseva nayo. (Saṃ-a II, 266, mục 79.)
+
+**VI**
+Này các tỳ-khưu … một số người được gọi là sa-môn và bà-la-môn ở đời, nếu muốn, có thể dùng trí lần theo và nhớ lại dòng uẩn của nhiều đời trước, không chỉ một đời. Khi nhớ lại như vậy, tất cả những sa-môn và bà-la-môn ấy, nếu muốn, có thể nhớ lại cả năm thủ uẩn hoặc bất kỳ một uẩn nào trong năm thủ uẩn ấy.
+
+**EN**
+Bhikkhus … some persons in the world called ascetics and brahmins can, if they wish, follow back with knowledge and recollect the continuum of aggregates in many previous lives, not just one. In recollecting in this way, all those ascetics and brahmins can, if they wish, recollect the five aggregates subject to clinging or any one of those five aggregates.
+
+**VI**
+Này các tỳ-khưu … những sa-môn và bà-la-môn ấy —
+1. Có thể dùng trí lần theo và nhớ lại rằng “Trong thời quá khứ, sắc pháp có tính chất như vậy đã từng sinh khởi.”
+2. “Trong thời quá khứ, thọ có tính chất như vậy đã từng sinh khởi.” Pe.
+3. “Trong thời quá khứ, tưởng có tính chất như vậy đã từng sinh khởi.” Pe.
+4. “Trong thời quá khứ, hành có tính chất như vậy đã từng sinh khởi.” Pe.
+5. “Trong thời quá khứ, thức có tính chất như vậy đã từng sinh khởi…
+
+**EN**
+Bhikkhus … those ascetics and brahmins —
+1. Can follow back with knowledge and recollect that “In the past, material phenomena of such a nature had arisen.”
+2. “In the past, feeling of such a nature had arisen.” Pe.
+3. “In the past, perception of such a nature had arisen.” Pe.
+4. “In the past, formations of such a nature had arisen.” Pe.
+5. “In the past, consciousness of such a nature had arisen…
+
+
+<a id="M09-body-P030"></a>
+## Phân biệt hai cách nhớ lại đời trước / Distinguishing the two ways of recollecting former lives
+Miến / Burmese 30
+
+**VI**
+… ” — cũng có thể dùng trí lần theo và nhớ lại như vậy, nếu họ muốn nhớ lại. (Saṃ II, 71, Khajjanīya Sutta.)
+
+**EN**
+… ” — they can likewise follow back with knowledge and recollect in this way, if they wish to recollect. (Saṃ II, 71, Khajjanīya Sutta.)
+
+**VI**
+Pubbenivāsa có nghĩa là có thể dùng trí lần theo và nhớ lại dòng uẩn từng hiện hữu trước đây. Khi dùng từ ấy, Đức Phật không có ý nói đến việc dùng năng lực của túc trú tùy niệm thắng trí để lần theo và nhớ lại dòng uẩn từng hiện hữu trước đây. Thực ra, Ngài thuyết bài kinh này chỉ nhằm đến các sa-môn và bà-la-môn dùng năng lực của tuệ minh sát để lần theo bằng trí và nhớ lại dòng uẩn đã từng sinh khởi, từng hiện hữu trước đây. Chính vì thế mà Đức Phật đích thân dạy “Họ có thể dùng trí lần theo và nhớ lại năm thủ uẩn, hoặc bất kỳ một uẩn nào trong năm thủ uẩn ấy.” Điểm phân biệt là thế này. Nếu dùng năng lực của thắng trí để lần theo bằng trí và nhớ lại dòng uẩn đã từng sinh khởi và hiện hữu trước đây, thì túc trú tùy niệm thắng trí ấy —
+
+**EN**
+Pubbenivāsa means being able to follow back with knowledge and recollect the continuum of aggregates that formerly existed. In using this word the Buddha did not intend recollection by following back a former continuum of aggregates through the power of direct knowledge of recollection of former lives. Rather, he taught this discourse with reference solely to the ascetics and brahmins who, through the power of insight knowledge, follow back and recollect with knowledge the continuum of aggregates that had arisen and existed before. It is for that very reason that the Buddha himself said, “They can follow back with knowledge and recollect the five aggregates subject to clinging or any one of those five aggregates.” The distinction is as follows. If through the power of direct knowledge one follows back with knowledge and recollects the continuum of aggregates that formerly arose and existed, that direct knowledge of recollection of former lives —
+
+**VI**
+1. Có thể nhớ và biết cả năm uẩn bao gồm các pháp siêu thế. (Nghĩa là có thể biết năm uẩn bao gồm các pháp siêu thế từng sinh trong dòng tương tục của các bậc Thánh thiện, kể cả các Đức Phật thời quá khứ.)
+2. Cũng có thể nhớ và biết năm thủ uẩn. (Nghĩa là trong đó không bao gồm các pháp siêu thế.)
+3. Cũng có thể nhớ và biết những gì liên hệ với các uẩn, như dòng họ, hình dáng, thức ăn, lạc, khổ và những điều tương tự.
+
+**EN**
+1. Can recollect and know the five aggregates including supramundane phenomena. (That is, it can know the five aggregates including supramundane phenomena that formerly arose in the continua of noble and good persons, including Buddhas of the past.)
+2. It can also recollect and know the five aggregates subject to clinging. (That is, these do not include supramundane phenomena.)
+3. It can also recollect and know what is connected with the aggregates, such as lineage, appearance, food, pleasure, pain and the like.
+
+
+<a id="M09-body-P031"></a>
+## Quán các uẩn quá khứ / Discerning past aggregates
+Miến / Burmese 31
+
+**VI**
+4. Cũng có thể nhớ và biết các loại chế định như tên gọi, danh xưng.
+
+**EN**
+4. One can also recall and know kinds of concepts such as names and designations.
+
+**VI**
+Nhưng tuệ minh sát không thể biết các mục (1), (3) và (4) nêu trên. Tuệ ấy chỉ có thể lần theo thứ tự mà biết những pháp làm đối tượng quán, tức năm thủ uẩn ở mục (2).
+
+**EN**
+Insight knowledge cannot know items (1), (3), and (4) mentioned above. It can know in sequence only the phenomena that are its objects of contemplation, namely the five aggregates subject to clinging in item (2).
+
+**VI**
+Rūpayeva anussarati, nghĩa là dùng tuệ lần theo thứ tự mà nhớ lại chỉ sắc pháp. Khi nhớ lại dòng uẩn quá khứ theo thứ tự bằng tuệ minh sát như vậy, hành giả không dùng tuệ lần theo thứ tự để nhớ một hữu tình hay một người nào khác với pháp chân đế, tức một tự ngã. Hành giả chỉ dùng tuệ lần theo thứ tự để nhớ sắc uẩn đã diệt trong quá khứ. Với thọ v.v. cũng vậy. Hãy ghi nhớ. (Saṃ. A. 2, 266, đoạn 79.)
+
+**EN**
+Rūpayeva anussarati means that one follows the sequence with knowledge and recalls only material phenomena. In thus recalling the succession of past aggregates in order with insight knowledge, one does not follow the sequence with knowledge to recall a being or person distinct from ultimate phenomena, that is, a self. One follows the sequence with knowledge and recalls only the materiality aggregate that ceased in the past. The same applies to feeling and the rest. Bear this in mind. (Saṃ. A. 2, 266, paragraph 79.)
+
+**VI**
+Do đó, hãy ghi nhớ rằng người mới hành thiền có thể dùng tuệ minh sát để quán và thấy năm thủ uẩn quá khứ. Ở đây, tuệ minh sát cũng bao gồm tuệ phân định danh sắc và tuệ liễu tri duyên.
+
+**EN**
+Thus, bear in mind that a beginning meditator can discern and see the five past aggregates subject to clinging with insight knowledge. Here, insight knowledge also includes knowledge of the delimitation of mentality and materiality and knowledge of discerning conditions.
+
+**VI**
+Một chìa khóa quan trọng
+
+**EN**
+An important key
+
+**VI**
+Có thể dùng tuệ lần theo thứ tự để nhớ lại và nhận diện năm uẩn quá khứ là một công việc đặc biệt quan trọng trong việc nhận diện các nhân quá khứ. Nếu chưa biết cách nhận diện năm uẩn quá khứ thì không thể nhận diện bằng bất cứ phương pháp nào các nhân quá khứ vốn nằm trong năm uẩn quá khứ và là một phần của chúng.
+
+**EN**
+Being able to follow the sequence with knowledge, recall, and discern the five past aggregates is a particularly important part of discerning past causes. If one does not yet know how to discern the five past aggregates, there is no way to discern the past causes included in those aggregates as part of them.
+
+
+<a id="M09-body-P032"></a>
+## Một chìa khóa quan trọng / An important key
+Miến / Burmese 32
+
+**VI**
+Tương tự, không thể nhận diện bằng bất cứ phương pháp nào cách các quả quá khứ tương ứng sinh do các nhân quá khứ tương ứng, hay cách các quả hiện tại sinh do các nhân quá khứ tương ứng. Cũng vậy, nếu không thể nhận diện năm uẩn vị lai thì không thể nhận diện bằng bất cứ phương pháp nào cách quả vị lai sinh do nhân hiện tại, hoặc do nhân quá khứ tương ứng, hay cách quả vị lai tương ứng sinh do nhân vị lai tương ứng. Đó là vì các quả vị lai và các nhân vị lai chỉ là một phần của năm uẩn vị lai.
+
+**EN**
+Likewise, there is no way to discern how the corresponding past results arise from the corresponding past causes, or how present results arise from the corresponding past causes. Similarly, if one cannot discern the five future aggregates, there is no way to discern how future results arise from present causes or from the corresponding past causes, or how the corresponding future results arise from the corresponding future causes. This is because future results and future causes are only part of the five future aggregates.
+
+**VI**
+Để tìm các nhân và quả quá khứ, các nhân và quả vị lai, một chìa khóa quan trọng là có thể nhận diện một trong ba loại tướng hiện ra lúc cận tử, khi hấp hối, là nghiệp, nghiệp tướng và thú tướng. Tướng ấy hiện ra và được thấy do năng lực của nghiệp sắp cho quả, nên nó là chìa khóa đặc biệt quan trọng để tìm nghiệp sắp cho quả, nghiệp đã cho quả hoặc nghiệp đang cho quả. Đó là tướng hiện ra tương ứng ở một trong sáu môn lúc cận tử, khi hấp hối, đặc biệt là tướng hiện ra nơi yếu tố trong sáng của tâm hữu phần, tức ý môn, lúc cận tử. Chỉ khi nhận diện được sáu môn ấy, nhất là ý môn, mới có thể nhận diện tiếp cảnh tướng hiện ra nơi môn thích hợp. Chỉ khi nhận diện được tướng ấy mới có thể nhận diện nghiệp cho quả và vô minh
+
+**EN**
+An important key to finding past causes and results and future causes and results is the ability to discern one of the three kinds of signs that appear near death, at the time of dying, namely kamma, a kamma sign, and a destination sign. The sign appears and is seen through the power of the kamma about to give its result, so it is an especially important key to finding the kamma about to give, that has given, or that is giving its result. It is the sign that appears at the corresponding one of the six doors near death, at the time of dying, especially the sign that appears at the clear element of the life-continuum mind, the mind-door, near death. Only by discerning those six doors, especially the mind-door, can one go on to discern the object-sign appearing at the relevant door. Only if one can discern that sign can one discern the kamma that gives the result and the ignorance,
+
+
+<a id="M09-body-P033"></a>
+## Nhận diện cảnh cận tử / Discerning the near-death object
+Miến / Burmese 33
+
+**VI**
+ái và thủ vây quanh nghiệp ấy.
+
+**EN**
+craving, and clinging surrounding that kamma.
+
+**VI**
+Đặc biệt, chỉ khi có thể nhận diện yếu tố trong sáng của tâm hữu phần, tức ý môn, mới có thể nhận diện các dòng tâm lộ sinh xen giữa các tâm hữu phần ấy. Những nhân gọi là vô minh, ái, thủ, hành và nghiệp chỉ là các pháp nằm trong những dòng tâm lộ ấy. Chúng chỉ là những phần của các tâm lộ ấy.
+
+**EN**
+In particular, only by discerning the clear element of the life-continuum mind, the mind-door, can one discern the successions of cognitive processes that arise in between. The causes called ignorance, craving, clinging, formations, and kamma are simply phenomena included in those successions of cognitive processes. They are only parts of those cognitive processes.
+
+**VI**
+Để tìm các nhân quá khứ, biết cách nhận diện cảnh của tốc hành tâm cận tử trong quá khứ là điều vô cùng quan trọng. Muốn nhận diện được cảnh của tốc hành tâm cận tử ấy, điều vô cùng quan trọng là có thể nhận diện yếu tố trong sáng của tâm hữu phần, tức ý môn, hiện diện lúc hấp hối trong đời quá khứ ấy. Chỉ khi nhận diện được như vậy mới có thể nhận diện:
+
+**EN**
+To find past causes, knowing how to discern the object of the past death-proximate impulsions is extremely important. For discerning the object of those death-proximate impulsions, it is extremely important to be able to discern the clear element of the life-continuum mind, the mind-door, present at the time of dying in that past life. Only by discerning in this way can one discern:
+
+**VI**
+1. Cảnh của các tốc hành tâm cận tử hiện ra ở yếu tố trong sáng của tâm hữu phần ấy, tức ý môn.
+
+**EN**
+1. The object of the death-proximate impulsions that appears at that clear element of the life-continuum mind, the mind-door.
+
+**VI**
+2. Các dòng tâm lộ, gồm cả những tốc hành tâm cận tử, sinh xen giữa các tâm hữu phần ấy, tức ý môn.
+
+**EN**
+2. The successions of cognitive processes, including the death-proximate impulsions, that arise in between those moments of life-continuum, the mind-door.
+
+**VI**
+3. Nghiệp làm nhân khiến cảnh ấy hiện ra.
+
+**EN**
+3. The kamma that causes that object to appear.
+
+**VI**
+4. Vô minh, ái và thủ khiến nghiệp ấy sinh.
+
+**EN**
+4. The ignorance, craving, and clinging that bring that kamma about.
+
+**VI**
+Tương tự, nếu một người mới hành thiền vẫn còn một đời vị lai, người ấy cần nhận diện cảnh của các tốc hành tâm cận tử hiện ra khi hấp hối lúc cận tử trong đời hiện tại này. Muốn nhận diện được như vậy, lúc hấp hối
+
+**EN**
+Similarly, if a beginning meditator still has a future life, that meditator must discern the object of the death-proximate impulsions that appears at the time of dying near death in this present life. To be able to discern it, at the time of dying
+
+
+<a id="M09-body-P034"></a>
+## Nhận diện cảnh cận tử / Discerning the near-death object
+Miến / Burmese 34
+
+**VI**
+trước hết phải biết nhận diện yếu tố trong sáng của tâm hữu phần, tức ý môn, đang sinh. Chỉ khi nhận diện được như vậy mới có thể nhận diện cảnh của tốc hành tâm cận tử hiện ra nơi ý môn ấy, nghiệp sắp cho quả khiến cảnh ấy hiện ra, và vô minh, ái, thủ làm nhân hỗ trợ cho nghiệp ấy.
+
+**EN**
+one must first know how to discern the clear element of the life-continuum mind, the mind-door, then arising. Only then can one discern the object of the death-proximate impulsions appearing at that mind-door, the kamma about to give its result that makes the object appear, and the ignorance, craving, and clinging that support that kamma as causes.
+
+**VI**
+Tương tự, đối với người mới hành thiền vẫn còn hành trình luân hồi trong vị lai, để tìm sự nối tiếp nhân quả, tức các pháp duyên khởi, qua các đời vị lai, cần nhận diện cảnh của tốc hành tâm cận tử hiện ra tại ý môn gần tử tâm vị lai ấy. Tướng ấy hiện ra do nghiệp sẽ tạo nên một đời vị lai kế tiếp. Vì vậy, nghiệp làm tướng ấy hiện ra chính là một nhân của các uẩn vị lai, bắt đầu từ đời vị lai thứ hai. Các tướng ấy có thể hiện ra do nghiệp quá khứ gọi là aparāpariya, do nghiệp đã tạo và vun bồi trong hiện tại, hoặc do nghiệp vị lai sắp cho quả, thuộc các nghiệp sẽ tạo và vun bồi trước tử tâm vị lai ấy. Dựa trên tướng ấy mà tìm, hành giả sẽ dễ dàng tìm thấy nghiệp ấy. Cũng có thể tìm thấy vô minh, ái và thủ hỗ trợ cho nghiệp ấy. Muốn nhận diện được như vậy, đặc biệt cần có khả năng nhận diện sáu môn lúc hấp hối, nhất là yếu tố trong sáng của tâm hữu phần, tức ý môn.
+
+**EN**
+Likewise, for a beginning meditator who still has a journey through saṃsāra ahead, finding the succession of causes and results, the phenomena of dependent origination, across future lives requires discerning the object of the death-proximate impulsions that appears at the mind-door close to that future death consciousness. That sign appears because of kamma that will bring about another future life. Thus the kamma that causes that sign to appear is a cause of the future aggregates from the second future life onward. These signs may appear due to past kamma called aparāpariya, due to kamma performed and cultivated in the present, or due to future kamma about to give its result among the kammas performed and cultivated before that future death consciousness. By searching on the basis of that sign, the meditator will easily find the kamma. The meditator can also find the ignorance, craving, and clinging that support it. To discern in this manner, it is especially necessary to be able to discern the six doors at the time of dying, particularly the clear element of the life-continuum mind, the mind-door.
+
+**VI**
+Do đó, khả năng nhận diện các uẩn quá khứ và vị lai không chỉ là điều quan trọng
+
+**EN**
+Thus, the ability to discern the past and future aggregates is important
+
+
+<a id="M09-body-P035"></a>
+## Bắt đầu minh sát từ đối tượng dễ nhận diện / Beginning insight with what is easy to discern
+Miến / Burmese 35
+
+**VI**
+và cần thiết để minh sát các uẩn quá khứ và vị lai. Đó còn là điều kiện đặc biệt quan trọng để nhận diện các pháp duyên khởi và minh sát những pháp do duyên khởi.
+
+**EN**
+and necessary for insight into the past and future aggregates. It is also a particularly important requirement for discerning the phenomena of dependent origination and contemplating dependently arisen phenomena with insight.
+
+**VI**
+Hãy bắt đầu minh sát từ đối tượng dễ nhận diện
+
+**EN**
+Begin insight with what is easy to discern
+
+**VI**
+Theo nguyên tắc rằng khi bắt đầu minh sát, hành giả có thể bắt đầu với sắc pháp hoặc danh pháp dễ nhận diện và dễ hiện rõ trong tuệ, trước hết sách này trình bày cách bắt đầu minh sát từ danh sắc đang có mặt trong hiện tại.
+
+**EN**
+According to the rule that at the beginning of insight one can start with material or mental phenomena that are easy to discern and readily apparent to knowledge, this book first presents how to begin insight with mentality and materiality now present.
+
+**VI**
+Hiền giả, trước tiên hãy tuần tự phát triển định mình đã đạt đến mức cao nhất. Nếu có thể phát triển định đến tứ thiền, hãy tái lập định tứ thiền ấy mỗi lần ngồi thiền. Nếu là hành giả thuần minh sát và chỉ thực hành đề mục tứ đại, hãy lấy bốn đại làm cảnh và phát triển định đến khi ánh sáng và năng lực trở nên mạnh mẽ.
+
+**EN**
+Good practitioner, first develop the concentration you have already attained, stage by stage, to its highest level. If you can develop concentration to the fourth jhāna, reestablish that fourth-jhāna concentration each time you sit in meditation. If you are a pure-insight practitioner and have worked only on the four-elements meditation subject, take the four great elements as the object and develop concentration until the light and strength become powerful.
+
+**VI**
+Vì sách này trình bày đề mục sắc trước, và vì bắt đầu từ sắc pháp rồi chuyển sang minh sát sẽ dễ dàng hơn, hãy bắt đầu minh sát từ sắc pháp.
+
+**EN**
+Since this book presents the materiality meditation subject first, and since it is easier to begin with material phenomena and proceed to insight, begin insight with material phenomena.
+
+**VI**
+Trước tiên, đối với sắc chân thật hiện diện trong sáu môn và 42 phần:
+
+**EN**
+First, with regard to the real materiality present in the six doors and 42 parts:
+
+**VI**
+(a) Hoặc quán gộp 54 hay 44 loại sắc pháp hiện diện ở từng môn;
+
+**EN**
+(a) Either comprehend together the 54 or 44 kinds of material phenomena present at each door;
+
+**VI**
+(b) Hoặc quán gộp các sắc pháp, như 44 loại sắc pháp hiện diện ở từng phần;
+
+**EN**
+(b) Or comprehend together the material phenomena, such as the 44 kinds present in each part;
+
+
+<a id="M09-body-P036"></a>
+## Quán ba đặc tướng của sắc / Contemplating the three characteristics of materiality
+Miến / Burmese 36
+
+**VI**
+(c) Hoặc quán gộp tất cả sắc pháp hiện diện trong sáu môn và 42 phần:
+
+**EN**
+(c) Or comprehend together all the material phenomena present in the six doors and 42 parts:
+
+**VI**
+1. Lấy sự kiện các sắc pháp ấy diệt sau khi sinh làm cảnh, dùng tuệ nhìn cho thấy rõ và quán nhiều lần là vô thường. Quán đi quán lại, khi thì bên trong, khi thì bên ngoài. Khi quán như vậy, ở bên ngoài hãy dần mở rộng từ gần đến xa, cho đến vô lượng thế giới, và quán đi quán lại nhiều lần.
+
+**EN**
+1. Take as object the fact that those material phenomena cease after arising. Look with knowledge until it is clearly seen and contemplate them many times as impermanent. Contemplate repeatedly, now internally and now externally. In contemplating externally in this manner, extend the range little by little from near to far, as far as innumerable world systems, and contemplate again and again.
+
+**VI**
+2. Dùng tuệ nhìn cho thấy rõ tính chất luôn bị bức bách, áp đảo bởi sự sinh và diệt của các sắc pháp ấy, rồi quán đi quán lại nhiều lần là khổ. Hãy quán đi quán lại nhiều lần, khi thì bên trong, khi thì bên ngoài, từ gần đến xa. Hãy mở rộng tuệ đến vô lượng thế giới mà quán.
+
+**EN**
+2. Look with knowledge until you see clearly how those material phenomena are incessantly oppressed and afflicted by their arising and cessation, and contemplate them again and again as suffering. Contemplate repeatedly, now internally and now externally, from near to far. Extend your knowledge as far as innumerable world systems and contemplate.
+
+**VI**
+3. Lấy làm cảnh tính chất các sắc pháp ấy không có cốt lõi gọi là tự ngã, một thực thể trường tồn, rắn chắc, đứng vững và không tan rã. Dùng tuệ nhìn cho thấy rõ rồi quán đi quán lại nhiều lần là vô ngã. Hãy quán khi thì bên trong, khi thì bên ngoài. Dần dần mở rộng từng ít một từ gần đến xa, cho đến vô lượng thế giới, và quán khi thì bên trong, khi thì bên ngoài.
+
+**EN**
+3. Take as object the absence in those material phenomena of the essence called self, a lasting, solid, stable core that does not disintegrate. Look with knowledge until this is clearly seen and contemplate them again and again as non-self. Contemplate now internally and now externally. Gradually extend the range bit by bit from near to far, as far as innumerable world systems, contemplating now internally and now externally.
+
+**VI**
+[Ghi chú — Các sắc không thật không thích hợp để áp dụng ba đặc tướng rồi quán minh sát. Do đó, từ thời điểm này, từ phần này trở đi, hãy tạm dừng việc xem xét và phân tích các sắc không thật.]
+
+**EN**
+[Note — Non-real material phenomena are unsuitable for insight contemplation by applying the three characteristics. Therefore, from this point and this section onward, set aside the examination and analysis of non-real material phenomena.]
+
+**VI**
+Khi quán minh sát như vậy, áp dụng ba đặc tướng cho hai dòng tương tục bên trong và bên ngoài, luân phiên quán thật nhanh, hãy quán cho đến khi thấy sự sinh diệt diễn ra rất nhanh và thật rõ. Còn việc quán là vô thường,
+
+**EN**
+When practising insight in this manner, applying the three characteristics to the two continuities, internal and external, and alternating very swiftly, contemplate until arising and cessation are seen to occur very quickly and distinctly. As for contemplating as impermanent,
+
+
+<a id="M09-body-P037"></a>
+## Sự biến mất của sắc và danh / The disappearance of materiality and mentality
+Miến / Burmese 37
+
+**VI**
+quán là khổ, và quán là vô ngã thì hãy quán tương đối chậm. Dùng tuệ quán sao cho thấy sinh diệt nhanh hết mức có thể. Chỉ áp dụng các đặc tướng tương đối chậm.
+
+**EN**
+contemplating as suffering, and contemplating as non-self, contemplate rather slowly. Contemplate with knowledge so as to see arising and cessation as rapidly as possible. Apply the characteristics rather slowly.
+
+**VI**
+Đừng lấy sự sinh diệt của các hạt nhỏ là các nhóm sắc làm cảnh rồi áp dụng các đặc tướng. Hãy phân tích các nhóm sắc thành các giới và dùng tuệ nhìn cho thấy chỉ các sắc pháp chân đế đang sinh diệt. Khi thấy được, hãy áp dụng các đặc tướng và quán minh sát.
+
+**EN**
+Do not take the arising and cessation of the tiny particles, the material groups, as object and apply the characteristics to that. Analyze the material groups into elements and look with knowledge to see the individual ultimate material phenomena arising and ceasing. When you see that, apply the characteristics and practise insight.
+
+**VI**
+Hãy coi chừng sự biến mất của sắc và danh
+
+**EN**
+Beware of the disappearance of materiality and mentality
+
+**VI**
+Các nhóm sắc chỉ là những khối, tập hợp và tổ hợp nhỏ nhất vẫn còn thuộc chế định, chẳng hạn chế định tập hợp. Chế định không hiện hữu thực sự nên không chịu được sự quan sát lâu. Khi một người mới hành thiền chuyên cần tu tập một đề mục, người ấy thường thấy các nhóm sắc tùy theo ba-la-mật của mình. Bấy giờ, nếu không thể nhận diện các pháp chân đế có trong từng nhóm sắc, như đất, nước, lửa, gió, sắc, hương, vị và dưỡng chất, và vì không nhận diện được nên tuệ chưa đạt đến chân đế, mà lại nhìn sự sinh diệt của các nhóm sắc ấy, áp dụng đặc tướng và quán là vô thường, khổ hay vô ngã, thì do các chế định ấy không chịu được việc bị nghiền nát lâu bằng tuệ, tức không chịu được sự quan sát lâu, chẳng bao lâu người mới hành thiền thường sẽ không còn thấy các nhóm sắc. Khi không còn thấy các nhóm sắc như vậy, năng lực của định tu tập vẫn chưa suy giảm nhiều, nên người ấy còn có thể thấy khối trắng, mảng trắng, khối trong sáng,
+
+**EN**
+Material groups are still only the smallest conceptual lumps, clusters, and combinations, such as concepts of a collection. Since a concept does not actually exist, it cannot withstand prolonged observation. When a beginning meditator diligently develops a meditation subject, the meditator often sees material groups in accordance with their perfections. At that point, if unable to discern the ultimate phenomena present in each material group, such as earth, water, fire, air, colour, odour, taste, and nutritive essence, and therefore knowledge has not reached the ultimate, but the meditator observes the arising and cessation of those groups, applies the characteristic, and contemplates as impermanent, suffering, or non-self, the concepts cannot withstand being pulverized for long by knowledge, that is, they cannot withstand prolonged observation. Before long, the beginning meditator often ceases to see the material groups. When the groups are no longer seen in this way, the power of concentration developed in meditation has not yet diminished greatly, so the meditator can still see a white mass, a white field, a clear mass,
+
+
+<a id="M09-body-P038"></a>
+## Sự biến mất của sắc và danh / The disappearance of materiality and mentality
+Miến / Burmese 38
+
+**VI**
+hoặc mảng trong sáng, thấy dưới dạng một khối, một cục hay cả một mảng lớn. Nếu chuyên chú quán mảng trong sáng hoặc mảng trắng ấy cho tâm an tĩnh, dính sát và trụ nơi đó, tâm có thể an tĩnh, dính sát và trụ nơi cảnh ấy. Một số người mới hành thiền gọi trạng thái như vậy là «sắc diệt». Nếu nới lỏng đôi chút cái tâm đang an tĩnh, dính sát và trụ nơi cảnh ấy thì tâm lại có thể rơi vào hữu phần. Một số người gọi ngay cả việc rơi vào hữu phần như vậy là «danh diệt», vì không biết cảnh đang quán trong hiện tại nên cho rằng không còn biết gì. Họ thường cho rằng chính những hiện tượng như thế đã được thấy bằng tuệ. Hãy cẩn trọng.
+
+**EN**
+or a clear field, seen as a mass, a lump, or a whole large field. If one focuses on that clear or white field so that the mind settles calmly and adheres to it, the mind can settle calmly and adhere to that object. Some beginning meditators call such a condition “the cessation of materiality.” If one relaxes slightly the mind that has settled calmly and adhered to the object, it can fall back into the life-continuum. Some call even that fall into the life-continuum “the cessation of mentality,” supposing they no longer know anything because they do not know the object presently being contemplated. They tend to suppose that phenomena of this sort have been seen with knowledge. Be mindful.
+
+**VI**
+Hãy đặc biệt lưu ý những lời đã trình bày ở trên:
+
+**EN**
+Pay particular attention to the statements presented above:
+
+**VI**
+1. Chỉ quán minh sát riêng năm uẩn bên trong;
+
+**EN**
+1. Contemplating only the five internal aggregates with insight;
+
+**VI**
+2. Chỉ quán minh sát riêng năm uẩn bên ngoài, và trong đó:
+
+**EN**
+2. Contemplating only the five external aggregates with insight, and therein:
+
+**VI**
+3. Chỉ quán minh sát riêng sắc pháp;
+
+**EN**
+3. Contemplating only material phenomena with insight;
+
+**VI**
+4. Chỉ quán minh sát riêng danh pháp. Những lời dạy nói rằng làm như vậy thì không thể đạt đến Thánh đạo. (Abhi. A. 1, 270–271.)
+
+**EN**
+4. Contemplating only mental phenomena with insight. The statements say that by doing these one cannot attain the noble path. (Abhi. A. 1, 270–271.)
+
+**VI**
+5. Những lời dạy nói rằng nếu không biết rành rẽ bằng ba loại liễu tri sự nối tiếp nhân quả, tức các pháp duyên khởi, thì không thể thoát luân hồi, tức không thể đạt Thánh đạo. (Dī. 2, 47.)
+
+**EN**
+5. The statements say that without distinctly knowing the succession of causes and results, the phenomena of dependent origination, by the three kinds of full understanding, one cannot escape saṃsāra, that is, one cannot attain the noble path. (Dī. 2, 47.)
+
+**VI**
+6. Những lời dạy nói rằng nếu không biết rành rẽ bằng ba loại liễu tri trọn cả năm thủ uẩn, tức sắc pháp và danh pháp, thì không thể thoát khỏi khổ luân hồi
+
+**EN**
+6. The statements say that without distinctly knowing all five aggregates subject to clinging, material and mental phenomena, by the three kinds of full understanding, one cannot escape the suffering of saṃsāra
+
+
+<a id="M09-body-P039"></a>
+## Cách quán minh sát danh pháp / How to contemplate mental phenomena with insight
+Miến / Burmese 39
+
+**VI**
+(Saṃ. 2, 249).
+
+**EN**
+(Saṃ. 2, 249).
+
+**VI**
+Hãy đặc biệt lưu ý những lời dạy trích từ Chánh tạng Pāli, Chú giải và Phụ chú giải này.
+
+**EN**
+Pay particular attention to these statements drawn from the Pāli Canon, the commentaries, and the subcommentaries.
+
+**VI**
+Cũng hãy lưu ý rằng nếu nhận diện trở lại bốn đại hiện diện trong mảng trong sáng ấy, hoặc nhận diện giới hư không, thì chẳng bao lâu có thể thấy lại các hạt nhóm sắc.
+
+**EN**
+Also note that if one discerns again the four great elements present in that clear field, or discerns the space element, one can soon see the particles of material groups again.
+
+**VI**
+[Ghi chú — Khi quán minh sát sắc pháp, hãy quán minh sát cả các sắc vô mạng, gọi là anupādinnaka-sarīra.]
+
+**EN**
+[Note — In contemplating material phenomena with insight, include lifeless material phenomena, termed anupādinnaka-sarīra, in the contemplation.]
+
+**VI**
+Cách quán minh sát danh pháp
+
+**EN**
+How to contemplate mental phenomena with insight
+
+**VI**
+Sau khi quán minh sát sắc pháp và đạt mức tương đối thỏa đáng, hãy chuyển sang quán minh sát danh pháp. Tốt hơn là chuyển sang quán danh pháp khi đã có thể quán minh sát sắc pháp, chuyển qua chuyển lại một cách nhanh nhẹn.
+
+**EN**
+After contemplating material phenomena with insight to a fairly satisfactory degree, switch to contemplating mental phenomena with insight. It is better to switch to contemplating mental phenomena when one can contemplate material phenomena with insight and shift back and forth swiftly.
+
+**VI**
+Vì trước kia đã nhận diện danh pháp theo từng xứ và môn, khi quán minh sát cũng hãy bắt đầu quán danh pháp theo từng xứ và môn. Đối với các nhóm tâm thuộc lộ cùng các pháp tương ưng, cũng như các nhóm tâm hữu phần hiện diện xen giữa hai lộ, hãy lấy tính chất mỗi nhóm tâm sinh rồi diệt, từng sát-na, làm cảnh và quán «vô thường, vô thường». Hãy quán hết các lộ như lộ nhãn môn, từng lộ tốc hành thiện và từng lộ tốc hành bất thiện. Hãy quán cả hai dòng tương tục bên trong và bên ngoài. Trước tiên, từ gần
+
+**EN**
+Since mental phenomena were previously discerned according to base and door, begin contemplating them according to base and door in insight as well. For groups of cognitive-process consciousness with their associated phenomena and for groups of life-continuum consciousness present between one process and the next, take as object the fact that each group of consciousness arises and then ceases, moment by moment, and contemplate “impermanent, impermanent.” Contemplate all processes such as the eye-door process, each process with wholesome impulsions and each process with unwholesome impulsions. Contemplate both the internal and external continuities. First, beginning nearby,
+
+
+<a id="M09-body-P040"></a>
+## Quán các lộ tâm qua sáu môn / Contemplating cognitive processes at the six doors
+Miến / Burmese 40
+
+**VI**
+hãy quán nhiều lần, khi thì bên trong, khi thì bên ngoài. Khi đã thành thục, hãy dần mở rộng từng ít một, quán gộp cả 31 cõi hoặc quán gộp đến vô lượng thế giới. Hãy quán đi quán lại nhiều lần, khi thì bên trong, khi thì bên ngoài. Khi đã thỏa đáng về đặc tướng vô thường, hãy dùng tuệ nhìn cho thấy tính chất luôn bị sự sinh diệt của các danh pháp ấy bức bách và áp đảo. Cũng hãy quán đi quán lại nhiều lần «khổ, khổ». Khi lại đạt đến mức tương đối thỏa đáng về đặc tướng khổ ấy, hãy lấy làm cảnh sự vắng mặt trong các danh pháp của một tự ngã vững chắc, một thực thể cốt lõi không tan rã, tồn tại bền chắc, và quán «vô ngã, vô ngã». Trong cả hai dòng tương tục, bên trong và bên ngoài, hãy quán hết các nhóm tốt với tốc hành thiện và các nhóm xấu với tốc hành bất thiện trong cả sáu nhóm, bắt đầu từ nhóm cảnh sắc. Khi quán danh pháp như vậy:
+
+**EN**
+contemplate many times, now internally and now externally. Once skilled, extend the range little by little, comprehending the 31 planes together or comprehending as far as innumerable world systems. Contemplate again and again, now internally and now externally. When satisfied with the characteristic of impermanence, look with knowledge until you see how these mental phenomena are constantly oppressed and afflicted by arising and ceasing. Likewise, contemplate again and again, “suffering, suffering.” When fairly satisfied with that characteristic of suffering, take as object the absence in mental phenomena of a firm self, an enduring, stable core that does not disintegrate, and contemplate “non-self, non-self.” In both the internal and external continuities, contemplate all the good groups with wholesome impulsions and bad groups with unwholesome impulsions across all six groups, beginning with the visible-object group. When contemplating mental phenomena in this way:
+
+**VI**
+1. Các lộ nhãn môn và lộ ý môn lấy cảnh sắc làm cảnh;
+
+**EN**
+1. Eye-door and mind-door processes that take a visible object;
+
+**VI**
+2. Các lộ nhĩ môn và lộ ý môn lấy cảnh thinh làm cảnh;
+
+**EN**
+2. Ear-door and mind-door processes that take a sound object;
+
+**VI**
+3. Các lộ tỷ môn và lộ ý môn lấy cảnh hương làm cảnh;
+
+**EN**
+3. Nose-door and mind-door processes that take an odour object;
+
+**VI**
+4. Các lộ thiệt môn và lộ ý môn lấy cảnh vị làm cảnh;
+
+**EN**
+4. Tongue-door and mind-door processes that take a taste object;
+
+**VI**
+5. Các lộ thân môn và lộ ý môn lấy cảnh xúc làm cảnh;
+
+**EN**
+5. Body-door and mind-door processes that take a tangible object;
+
+**VI**
+6. Các lộ ý môn lấy cảnh pháp làm cảnh.
+
+**EN**
+6. Mind-door processes that take a mental object.
+
+**VI**
+Hãy quán đầy đủ các lộ này theo thứ tự, như đã trình bày trong các bảng ở phần đề mục danh. Hãy quán đi quán lại nhiều lần.
+
+**EN**
+Contemplate these processes fully in sequence, as presented in the tables in the section on the mentality meditation subject. Contemplate again and again.
+
+
+<a id="M09-body-P041"></a>
+## Thứ tự quán của hành giả lấy thiền chỉ làm cỗ xe / The order for a practitioner who takes serenity as the vehicle
+Miến / Burmese 41
+
+**VI**
+Nếu người mới hành thiền là hành giả lấy thiền chỉ làm cỗ xe, tốt hơn là bắt đầu minh sát từ các danh pháp hiện diện trong lộ tâm nhập thiền mà mình đã đạt. Ví dụ, hãy nhập sơ thiền. Xuất khỏi sơ thiền ấy, hãy bắt đầu quán minh sát các danh pháp hiện diện trong lộ tâm nhập sơ thiền, lần lượt áp dụng từng đặc tướng trong ba đặc tướng. Cũng quán minh sát theo cùng cách đối với các danh pháp hiện diện trong lộ tâm nhập nhị thiền v.v. Hãy quán minh sát đầy đủ các danh pháp hiện diện trong những lộ tâm nhập thiền mình đã đạt. Hãy lần lượt áp dụng ba đặc tướng và quán đi quán lại nhiều lần. Khi đã đạt mức thỏa đáng, hãy quán minh sát các danh pháp hiện diện trong sáu nhóm theo thứ tự, bắt đầu từ lộ nhãn môn và lộ ý môn lấy cảnh sắc, lần lượt áp dụng từng đặc tướng trong ba đặc tướng.
+
+**EN**
+If the beginning meditator is a practitioner who takes serenity as the vehicle, it is better to begin insight with the mental phenomena present in the jhāna-attainment cognitive process one has attained. For example, enter the first jhāna. On emerging from that first jhāna, begin contemplating with insight the mental phenomena present in the first-jhāna attainment process, applying the three characteristics in turn. In the same way, contemplate the mental phenomena present in the second-jhāna attainment process and so on. Contemplate with insight all the mental phenomena present in the jhāna-attainment processes one has attained. Apply the three characteristics in turn and contemplate again and again. When satisfied, contemplate with insight the mental phenomena present in all six groups in order, beginning with the eye-door and mind-door processes that take a visible object, applying the three characteristics in turn.
+
+**VI**
+Hãy ưu tiên quán đặc tướng thích hợp với mình
+
+**EN**
+Give priority to contemplating the characteristic that suits you
+
+**VI**
+Evaṃ saṅkhāre anattato passantassa diṭṭhisamugghāṭanaṃ nāma hoti. Aniccato passantassa mānasamugghāṭanaṃ nāma hoti. Dukkhato passantassa nikantipariyādānaṃ nāma hoti. Kuto ayaṃ vipassanā attano attano ṭhāneyeva tiṭṭhatīti. (Vism. Mahāṭī. 2, 464.) Khi thấy các hành là vô ngã như vậy thì gọi là nhổ tận gốc kiến. Khi thấy là vô thường thì gọi là nhổ tận gốc mạn. Khi thấy là khổ thì gọi là dứt sạch sự ưa thích. Do đâu mà mỗi phép minh sát này chỉ đứng ở vị trí riêng của mình?
+
+**EN**
+Evaṃ saṅkhāre anattato passantassa diṭṭhisamugghāṭanaṃ nāma hoti. Aniccato passantassa mānasamugghāṭanaṃ nāma hoti. Dukkhato passantassa nikantipariyādānaṃ nāma hoti. Kuto ayaṃ vipassanā attano attano ṭhāneyeva tiṭṭhatīti. (Vism. Mahāṭī. 2, 464.) For one who sees formations thus as non-self, this is called the uprooting of views. For one who sees them as impermanent, it is called the uprooting of conceit. For one who sees them as suffering, it is called the exhaustion of attachment. Why does each of these insights stand in its own place?
+
+**VI**
+Người mới hành thiền cần tu tập và khảo sát bằng minh sát để trở nên thuần thục và có năng lực vững mạnh trong việc áp dụng ba đặc tướng cho các pháp hữu vi. Khi tu tập và khảo sát như vậy, chỉ khi hai tuệ tùy quán kia trợ giúp một tuệ tùy quán bằng năng lực của duyên y chỉ mạnh (upanissaya), thì tuệ tùy quán ấy
+
+**EN**
+A beginning meditator must cultivate and investigate with insight to become proficient and strong in applying the three characteristics to conditioned phenomena. In cultivating and investigating in this way, only when the other two contemplative knowledges assist one contemplative knowledge by the power of the decisive-support condition (upanissaya) does that contemplative knowledge
+
+
+<a id="M09-body-P042"></a>
+## Sự hỗ trợ giữa ba tuệ tùy quán / Mutual support among the three contemplative knowledges
+Miến / Burmese 42
+
+**VI**
+trở nên sắc bén, thuần thục và trong sạch. Chỉ tuệ tùy quán đã trở nên sắc bén, thuần thục và trong sạch như vậy mới có thể phá tan phiền não.
+
+**EN**
+become sharp, mature, and purified. Only contemplative knowledge thus sharpened, matured, and purified can break up defilements.
+
+**VI**
+Tuệ tùy quán vô ngã, khi nhận được sức hỗ trợ đặc biệt của tuệ tùy quán vô thường và tuệ tùy quán khổ qua năng lực duyên y chỉ mạnh, trở nên sắc bén, thuần thục và trong sạch. Vì vậy, người mới hành thiền đã nhiều lần nghiền nát các pháp hữu vi bằng tuệ tùy quán vô thường và tuệ tùy quán khổ, hãy tiếp tục nghiền nát nhiều lần các pháp hữu vi ấy bằng tuệ tùy quán vô ngã. Hãy ưu tiên quán vô ngã. Khi ấy tuệ tùy quán vô ngã có thể chín muồi, sắc bén, thuần thục và trong sạch. Tuệ tùy quán vô ngã đã chín muồi, sắc bén, thuần thục và trong sạch như vậy có thể loại bỏ sự chấp kiến bám chặt vào các pháp hữu vi ấy. Tất cả tà kiến đều dựa vào ngã kiến và có ngã kiến làm nền tảng, làm nhân. Tuệ tùy quán vô ngã đối lập trực tiếp với ngã kiến. Do đó, tùy quán vô ngã có thể loại bỏ sự chấp kiến.
+
+**EN**
+Knowledge of contemplation of non-self, receiving the exceptional strength of support from knowledge of contemplation of impermanence and knowledge of contemplation of suffering through the power of the decisive-support condition, becomes sharp, mature, and purified. Therefore, a beginning meditator who has repeatedly pulverized conditioned phenomena by knowledge of contemplation of impermanence and knowledge of contemplation of suffering should repeatedly pulverize those same conditioned phenomena by knowledge of contemplation of non-self. Give priority to contemplating non-self. Then knowledge of contemplation of non-self can become ripe, sharp, mature, and purified. Knowledge of contemplation of non-self thus ripened, sharpened, matured, and purified can dispel the grasping of views firmly attached to those conditioned phenomena. All wrong views rest on self-view and have self-view as their foundation and cause. Knowledge of contemplation of non-self is directly opposed to self-view. Therefore, contemplation of non-self can dispel the grasping of views.
+
+**VI**
+Lại nữa, tuệ tùy quán vô thường, khi nhận được sức hỗ trợ đặc biệt của tuệ tùy quán khổ và tuệ tùy quán vô ngã qua năng lực duyên y chỉ mạnh, trở nên sắc bén, thuần thục và trong sạch. Vì vậy, người mới hành thiền đã nhiều lần nghiền nát các pháp hữu vi bằng tuệ tùy quán khổ và tuệ tùy quán vô ngã, hãy tiếp tục nghiền nát nhiều lần các pháp hữu vi ấy bằng tuệ tùy quán
+
+**EN**
+Again, knowledge of contemplation of impermanence, receiving the exceptional strength of support from knowledge of contemplation of suffering and knowledge of contemplation of non-self through the power of the decisive-support condition, becomes sharp, mature, and purified. Therefore, a beginning meditator who has repeatedly pulverized conditioned phenomena by knowledge of contemplation of suffering and knowledge of contemplation of non-self should repeatedly pulverize those same conditioned phenomena by knowledge of contemplation
+
+
+<a id="M09-body-P043"></a>
+## Tùy quán vô thường và tùy quán khổ / Contemplation of impermanence and suffering
+Miến / Burmese 43
+
+**VI**
+vô thường. Hãy ưu tiên quán vô thường. Khi ấy tuệ tùy quán vô thường có thể chín muồi, sắc bén, thuần thục và trong sạch. Tuệ tùy quán vô thường đã chín muồi, sắc bén, thuần thục và trong sạch như vậy có thể loại bỏ mạn bám chặt vào các pháp hữu vi ấy. Khi sự chấp các pháp hữu vi là thường, tức tính thường còn, hiện rõ, người ta có thể vênh váo vì mạn, chẳng hạn trước người khác, «Kvaṃ nīcaṃ, kvaṃ uccaṃ», «Đây là chỗ thấp, đây là chỗ cao.»
+
+**EN**
+of impermanence. Give priority to contemplating impermanence. Then knowledge of contemplation of impermanence can become ripe, sharp, mature, and purified. Knowledge of contemplation of impermanence thus ripened, sharpened, matured, and purified can dispel conceit firmly attached to those conditioned phenomena. When grasping conditioned phenomena as permanent, that is, the idea of permanence, is manifest, one can become puffed up with conceit before others, for example, “Kvaṃ nīcaṃ, kvaṃ uccaṃ,” “Here is what is low, and here is what is high.”
+
+**VI**
+Lại nữa, tuệ tùy quán khổ, khi nhận được sức hỗ trợ đặc biệt của tuệ tùy quán vô thường và tuệ tùy quán vô ngã qua năng lực duyên y chỉ mạnh, trở nên sắc bén, thuần thục và trong sạch. Vì vậy, người mới hành thiền đã nhiều lần nghiền nát các pháp hữu vi bằng tuệ tùy quán vô thường và tuệ tùy quán vô ngã, hãy tiếp tục nghiền nát nhiều lần các pháp hữu vi ấy bằng tuệ tùy quán khổ. Hãy ưu tiên quán khổ. Khi tuệ tùy quán khổ ấy chín muồi, sắc bén, thuần thục và trong sạch, tuệ tùy quán khổ đã chín muồi, sắc bén, thuần thục và trong sạch như vậy có thể làm cạn kiệt sự chấp do ái, tức sự ưa thích do ái, đang bám chặt vào các pháp hữu vi ấy với ý nghĩ «của tôi, của tôi». Chỉ khi lạc tưởng, tức sự ghi nhận «là lạc», hiện rõ đối với các pháp hữu vi ấy thì ái chấp, tức sự chấp do ái, mới có thể hiện rõ và nắm lấy các pháp hữu vi ấy với ý nghĩ «của tôi, của tôi». Tuệ tùy quán khổ
+
+**EN**
+Again, knowledge of contemplation of suffering, receiving the exceptional strength of support from knowledge of contemplation of impermanence and knowledge of contemplation of non-self through the power of the decisive-support condition, becomes sharp, mature, and purified. Therefore, a beginning meditator who has repeatedly pulverized conditioned phenomena by knowledge of contemplation of impermanence and knowledge of contemplation of non-self should repeatedly pulverize those same conditioned phenomena by knowledge of contemplation of suffering. Give priority to contemplating suffering. When that knowledge of contemplation of suffering is ripe, sharp, mature, and purified, the knowledge of contemplation of suffering thus ripened, sharpened, matured, and purified can exhaust the grasping of craving, the delight associated with craving, that adheres firmly to those conditioned phenomena as “mine, mine.” Only when the perception of pleasure, the recognition “it is pleasant,” is manifest regarding those conditioned phenomena can craving's grasping, the grasping through craving, manifest and take hold of those conditioned phenomena as “mine, mine.” Knowledge of contemplation of suffering
+
+
+<a id="M09-body-P044"></a>
+## Hiện tại theo đời và phương pháp năm uẩn / Life-span present and the five-aggregate method
+Miến / Burmese 44
+
+**VI**
+đối lập trực tiếp với sự chấp và sự ưa thích do ái ấy. Vì vậy, tuệ tùy quán khổ có thể làm cạn kiệt sự chấp do ái. (Vism. 2, 464. Mahāṭī. 2, 405–406.)
+
+**EN**
+is directly opposed to that grasping and delight of craving. Therefore, knowledge of contemplation of suffering can exhaust the grasping of craving. (Vism. 2, 464. Mahāṭī. 2, 405–406.)
+
+**VI**
+Vì vậy, sau khi đã tu tập thành thạo cả ba đặc tướng, hãy ưu tiên quán một đặc tướng mình ưa thích trong thời gian khá lâu. Nếu năng lực của tuệ tùy quán ấy chưa mạnh, hãy lại quán hai đặc tướng kia. Tuệ minh sát chỉ có thể loại bỏ phiền não bằng sự đoạn trừ từng phần. Chỉ tuệ Thánh đạo mới có thể đoạn trừ tận gốc, không dư sót. Để đạt đến Thánh đạo, hãy nỗ lực làm cho các tuệ minh sát chín muồi.
+
+**EN**
+Therefore, after developing proficiency in all three characteristics, give priority to contemplating one characteristic of your preference for a fairly long time. If the strength of that contemplative knowledge is weak, contemplate the other two characteristics again. Insight knowledge can abandon defilements only by abandoning them factor by factor. Only noble path knowledge can eradicate them without remainder. To reach the noble path, strive to mature the insight knowledges.
+
+**VI**
+Hiện tại theo đời (addhā-paccuppanna)
+
+**EN**
+Life-span present (addhā-paccuppanna)
+
+**VI**
+Đối với các sắc pháp và danh pháp đã sinh, đang sinh và sẽ sinh trong suốt một đời, từ tái tục cho đến tử tâm:
+
+**EN**
+As for the material and mental phenomena that have arisen, are arising, and will arise throughout one life, from rebirth-linking to death consciousness:
+
+**VI**
+1. Áp dụng lần lượt ba đặc tướng cho riêng sắc.
+
+**EN**
+1. Apply the three characteristics in turn to materiality alone.
+
+**VI**
+2. Áp dụng lần lượt ba đặc tướng cho riêng danh.
+
+**EN**
+2. Apply the three characteristics in turn to mentality alone.
+
+**VI**
+Hãy quán minh sát thật thường xuyên, đi quán lại nhiều lần. Cần quán nhiều lượt theo mỗi phép tùy quán. Hãy quán đi quán lại nhiều lần, khi thì bên trong, khi thì bên ngoài, khi thì vô thường, khi thì khổ, khi thì vô ngã.
+
+**EN**
+Contemplate with insight very frequently, again and again. It is necessary to contemplate many times in each mode of contemplation. Contemplate again and again, now internally, now externally, now as impermanent, now as suffering, and now as non-self.
+
+**VI**
+Phương pháp năm uẩn
+
+**EN**
+The five-aggregate method
+
+**VI**
+Hiền giả, hãy nhớ lại rằng trước kia mình đã nhận diện danh pháp theo từng xứ và môn. Đặc biệt hãy nhớ lại các bảng trong phần đề mục danh.
+
+**EN**
+Good practitioner, recall that you previously discerned mental phenomena according to base and door. In particular, recall the tables in the section on the mentality meditation subject.
+
+
+<a id="M09-body-P045"></a>
+## Phương pháp năm uẩn / The five-aggregate method
+Miến / Burmese 45
+
+**VI**
+Trước hết, hãy nhớ lại lộ nhãn môn và lộ ý môn với tốc hành đại thiện tương ưng trí, câu hữu hỷ, v.v. Những pháp hiện diện trong mỗi nhóm tâm gồm:
+
+**EN**
+First, recall the eye-door and mind-door processes with great wholesome impulsions associated with knowledge and accompanied by joy, and so on. The phenomena present in each group of consciousness are:
+
+**VI**
+1. Sắc làm chỗ nương (54) và cảnh sắc là sắc uẩn;
+
+**EN**
+1. The supporting material phenomena (54) and the visible object are the materiality aggregate;
+
+**VI**
+2. Từng thọ là thọ uẩn;
+
+**EN**
+2. Each feeling is the feeling aggregate;
+
+**VI**
+3. Từng tưởng là tưởng uẩn;
+
+**EN**
+3. Each perception is the perception aggregate;
+
+**VI**
+4. Từng nhóm các tâm sở hành còn lại là hành uẩn;
+
+**EN**
+4. Each group of the remaining mental factors that are formations is the formations aggregate;
+
+**VI**
+5. Từng tâm hay thức biết cảnh là thức uẩn.
+
+**EN**
+5. Each knowing consciousness, or cognizance, is the consciousness aggregate.
+
+**VI**
+Như vậy cũng hãy quán minh sát sắc pháp thành một phần và danh pháp thành bốn phần. Hãy lần lượt áp dụng ba đặc tướng mà quán.
+
+**EN**
+Thus also contemplate with insight material phenomena as one part and mental phenomena as four parts. Contemplate by applying the three characteristics in turn.
+
+**VI**
+1. Các lộ nhãn môn cùng lộ ý môn còn lại cũng lấy cảnh sắc làm cảnh;
+
+**EN**
+1. The remaining eye-door and mind-door processes that likewise take a visible object;
+
+**VI**
+2. Các lộ nhĩ môn cùng lộ ý môn lấy cảnh thinh làm cảnh;
+
+**EN**
+2. Ear-door and mind-door processes that take a sound object;
+
+**VI**
+3. Các lộ tỷ môn cùng lộ ý môn lấy cảnh hương làm cảnh;
+
+**EN**
+3. Nose-door and mind-door processes that take an odour object;
+
+**VI**
+4. Các lộ thiệt môn cùng lộ ý môn lấy cảnh vị làm cảnh;
+
+**EN**
+4. Tongue-door and mind-door processes that take a taste object;
+
+**VI**
+5. Các lộ thân môn cùng lộ ý môn lấy cảnh xúc làm cảnh;
+
+**EN**
+5. Body-door and mind-door processes that take a tangible object;
+
+**VI**
+6. Các lộ ý môn lấy cảnh pháp làm cảnh.
+
+**EN**
+6. Mind-door processes that take a mental object.
+
+**VI**
+Đối với từng lộ trong số này, cũng hãy quán minh sát theo phương pháp năm uẩn. Trong từng hàng của các bảng đã trình bày ở phần đề mục danh, từ lộ ý môn theo sau ngũ môn cho đến lộ ý môn thuần túy:
+
+**EN**
+For each of these processes, likewise practise insight by the five-aggregate method. In every row of the tables presented in the section on the mentality meditation subject, from the mind-door processes that follow the five doors to the bare mind-door processes:
+
+**VI**
+1. Nếu xuyên suốt riêng sắc, xuyên suốt cả hàng;
+
+**EN**
+1. If penetrating materiality alone, penetrate the whole row;
+
+**VI**
+2. Nếu xuyên suốt riêng thọ, xuyên suốt cả hàng;
+
+**EN**
+2. If penetrating feeling alone, penetrate the whole row;
+
+**VI**
+3. Nếu xuyên suốt riêng tưởng, xuyên suốt cả hàng;
+
+**EN**
+3. If penetrating perception alone, penetrate the whole row;
+
+
+<a id="M09-body-P046"></a>
+## Quán từng uẩn từ cận hiện tại đến trọn một đời / Discerning each aggregate from the momentary present to an entire life
+Miến / Burmese 46
+
+**VI**
+4. Quán xuyên suốt, không bỏ sót, riêng các tâm sở thuộc hành.
+
+**EN**
+4. Discern thoroughly without omission the mental factors belonging to formations separately.
+
+**VI**
+5. Quán xuyên suốt, không bỏ sót, riêng tâm biết, tức thức.
+
+**EN**
+5. Discern thoroughly without omission the knowing consciousness, that is, consciousness, separately.
+
+**VI**
+Hãy quán minh sát bằng cách lần lượt đặt lên chúng ba đặc tính. Khi quán như vậy, hãy quán cả những sát-na hữu phần xen giữa các lộ tâm theo phương pháp năm uẩn. Cũng quán tương tự đối với các lộ ý môn lấy cảnh pháp làm đối tượng.
+
+**EN**
+Discern with insight, successively applying the three characteristics. When discerning in this way, include the life-continuum moments between cognitive processes, using the method of the five aggregates. Discern likewise in mind-door processes that take mental objects as their object.
+
+**VI**
+Khi đã quán minh sát bên trong bằng phương pháp năm uẩn đến mức tương đối nhuần nhuyễn, hãy quán minh sát bên ngoài theo cùng cách. Từ gần đến xa, hãy quán đi quán lại nhiều lần, luân phiên bên trong và bên ngoài. Lấy ba mươi mốt cõi làm phạm vi và mở rộng tuệ quán đến các thế giới vô tận.
+
+**EN**
+Once reasonably proficient in discerning internally with insight by the method of the five aggregates, discern externally with insight in the same way. From near to far, discern repeatedly, alternating internally and externally. Take the thirty-one planes as the scope and extend insight knowledge to the endless world systems.
+
+**VI**
+Dù quán minh sát theo phương pháp hai nhóm sắc danh hay theo phương pháp năm uẩn, hãy nỗ lực quán đến mức thấy hiện tại sát-na (khaṇapaccuppanna). Để tuệ thấy rõ và trong sáng đến mức hiện tại sát-na, hãy quán xen cả các danh pháp hữu phần giữa các lộ tâm cho đến mức hiện tại sát-na.
+
+**EN**
+Whether discerning with insight by the method of the two groups of materiality and mentality or by the method of the five aggregates, strive to discern down to the momentary present (khaṇapaccuppanna). So that knowledge and vision can reach the momentary present clearly and distinctly, include the mental phenomena of the life-continuum between the cognitive processes and discern them down to the momentary present.
+
+**VI**
+Khi đã tương đối nhuần nhuyễn trong việc quán minh sát hiện tại theo phương pháp năm uẩn, hãy tiếp tục quán năm uẩn từ tái tục đến tử, gọi là hiện tại theo một đời (addhāpaccuppanna). Quán xuyên suốt, không bỏ sót, từ tái tục đến tử —
+
+**EN**
+Once reasonably proficient in discerning the present with insight by the method of the five aggregates, continue discerning the five aggregates from rebirth-linking to death, called the present by life span (addhāpaccuppanna). Discern thoroughly, without omission, from rebirth-linking to death —
+
+**VI**
+1. riêng sắc
+
+**EN**
+1. materiality separately
+
+**VI**
+2. riêng thọ
+
+**EN**
+2. feeling separately
+
+**VI**
+3. riêng tưởng
+
+**EN**
+3. perception separately
+
+**VI**
+4. riêng các tâm sở thuộc hành
+
+**EN**
+4. the mental factors belonging to formations separately
+
+**VI**
+5. riêng tâm biết, tức thức
+
+**EN**
+5. the knowing consciousness, that is, consciousness, separately
+
+
+<a id="M09-body-P047"></a>
+## Quán từng uẩn và quán chung sắc danh / Discerning each aggregate and discerning materiality and mentality together
+Miến / Burmese 47
+
+**VI**
+Hãy quán minh sát trong cả tâm lộ và tâm ngoài lộ bằng cách lần lượt đặt lên chúng ba đặc tính. Cần quán nhiều lần là vô thường, nhiều lần là khổ và nhiều lần là vô ngã. Khi quán như vậy, hãy quán xuyên suốt từng uẩn từ tái tục đến tử. Ví dụ, sau khi quán minh sát xuyên suốt, thật kỹ sắc uẩn từ tái tục đến tử, mới chuyển sang thọ uẩn và quán tương tự. Hãy luân phiên quán đi quán lại bên trong và bên ngoài.
+
+**EN**
+Discern with insight in both process and process-freed consciousness, successively applying the three characteristics. Discern many times as impermanent, many times as suffering and many times as not-self. When discerning in this way, discern each aggregate thoroughly from rebirth-linking to death. For example, after discerning the materiality aggregate closely and thoroughly with insight from rebirth-linking to death, proceed to the feeling aggregate and discern it likewise. Discern repeatedly, alternating internally and externally.
+
+**VI**
+Cũng hãy quán chung sắc và danh
+
+**EN**
+Also discern materiality and mentality together
+
+**VI**
+Khi đã tương đối nhuần nhuyễn trong việc quán minh sát theo phương pháp hai nhóm sắc danh hay theo phương pháp năm uẩn, có thể quán sắc và danh cùng nhau. Trước hết, hãy quán lại minh sát riêng sắc và riêng danh cho thuần thục, cả bên trong lẫn bên ngoài. Khi đã có thể quán nhanh nhạy, luân phiên qua lại, trước hết hãy quán theo từng xứ và môn, trong mỗi sát-na tâm như trình bày trong các bảng ở phần đề mục thiền về danh —
+
+**EN**
+Once reasonably proficient in discerning with insight by the method of the two groups of materiality and mentality or by the method of the five aggregates, one can discern materiality and mentality together. First, again discern materiality separately and mentality separately with insight until proficient, both internally and externally. Once able to discern nimbly, alternating back and forth, first discern by base and door, in each mind-moment, as set out in the tables in the section on the meditation subject of mentality —
+
+**VI**
+1. Sắc vật nương và sắc làm cảnh.
+
+**EN**
+1. The material basis and the material object.
+
+**VI**
+2. Nhóm danh pháp gồm tâm và tâm sở của mỗi sát-na tâm.
+
+**EN**
+2. The group of mental phenomena consisting of consciousness and mental factors in each mind-moment.
+
+**VI**
+Lấy bản chất tan rã, diệt mất theo từng nhóm của sắc và danh ấy làm cảnh, hoặc lấy chính sự sinh và diệt làm cảnh, rồi quán minh sát bằng cách lần lượt đặt lên chúng ba đặc tính.
+
+**EN**
+Take as the object the nature of the breakup and disappearance of those groups of materiality and mentality, or take their very arising and passing away as the object, and discern with insight by successively applying the three characteristics.
+
+**VI**
+Ở sát-na hướng ngũ môn, tức sát-na hướng tâm đến cảnh, 54 sắc vật nương và cảnh sắc sinh diệt, và 11 danh pháp cũng sinh diệt. Hãy nhận diện những bản chất như vậy trong từng sát-na, theo từng nhóm sắc và danh…
+
+**EN**
+At five-door adverting, the mind-moment of adverting to the object, the 54 material phenomena of the physical basis and the visible object arise and cease, and the 11 mental phenomena also arise and cease. In each mind-moment discern natures of this kind, group by group of materiality and mentality…
+
+
+<a id="M09-body-P048"></a>
+## Luân phiên quán sắc danh và mở rộng sang ba thời / Alternating materiality and mentality and extending to the three times
+Miến / Burmese 48
+
+**VI**
+… để thấy sự sinh diệt của chúng, rồi lần lượt quán một lượt là vô thường, một lượt là khổ, một lượt là vô ngã. Hãy quán theo từng xứ và môn. Hãy quán ở cả sáu môn. Hãy quán đầy đủ các lộ tốc hành thiện và các lộ tốc hành bất thiện theo các bảng trong phần đề mục thiền về danh. Quán đi quán lại, luân phiên một lượt bên trong, một lượt bên ngoài. Theo cách này, hãy quán —
+
+**EN**
+… so as to see their arising and passing away. Then discern them in succession, one round as impermanent, one round as suffering and one round as not-self. Discern by each base and door. Discern at all six doors. Discern comprehensively the wholesome and unwholesome impulsion processes, as shown in the tables in the section on the meditation subject of mentality. Discern repeatedly, alternating one round internally and one round externally. In this manner, discern —
+
+**VI**
+1. riêng sắc
+
+**EN**
+1. materiality separately
+
+**VI**
+2. riêng danh
+
+**EN**
+2. mentality separately
+
+**VI**
+3. sắc và danh cùng nhau
+
+**EN**
+3. materiality and mentality together
+
+**VI**
+Sau khi đã đặt ba đặc tính và quán luân phiên đi quán lại bên trong và bên ngoài, hãy tiếp tục quán minh sát theo cách tương tự từ tái tục đến tử: (1) riêng sắc, (2) riêng danh, (3) sắc và danh cùng nhau. Hãy quán chúng đúng như chúng đã sinh, đang sinh và sẽ sinh. Tương tự, tiếp tục quán minh sát từ tái tục đến tử theo phương pháp năm uẩn.
+
+**EN**
+After successively applying the three characteristics and discerning repeatedly, alternating internally and externally, continue discerning with insight likewise from rebirth-linking to death: (1) materiality separately, (2) mentality separately, and (3) materiality and mentality together. Discern them just as they have arisen, are arising and will arise. Likewise continue discerning with insight from rebirth-linking to death using the method of the five aggregates.
+
+**VI**
+Quá khứ, hiện tại và vị lai
+
+**EN**
+Past, present and future
+
+**VI**
+Khi đã quán xét nhiều lần và tương đối nhuần nhuyễn các sắc pháp và danh pháp từ tái tục đến tử, gọi là hiện tại theo một đời (addhāpaccuppanna), bằng phương pháp hai nhóm sắc danh hoặc phương pháp năm uẩn, hãy tiếp tục mở rộng tuệ minh sát đến sắc danh quá khứ, hiện tại và vị lai.
+
+**EN**
+Once you have repeatedly contemplated and become reasonably proficient in discerning the material and mental phenomena from rebirth-linking to death, called the present by life span (addhāpaccuppanna), by the method of the two groups of materiality and mentality or the method of the five aggregates, extend discernment with insight to materiality and mentality past, present and future.
+
+**VI**
+Aniccādivasena vividhehi ākārehi dhamme passatīti vipassanā. (အဘိ၊ဋ္ဌ၊၁၊၁၇၅။)
+
+**EN**
+Aniccādivasena vividhehi ākārehi dhamme passatīti vipassanā. (အဘိ၊ဋ္ဌ၊၁၊၁၇၅။)
+
+**VI**
+Vì thấy các hành theo những phương diện khác nhau, như vô thường, khổ, vô ngã v.v.…
+
+**EN**
+Because it sees formations in various ways, such as impermanence, suffering and not-self…
+
+
+<a id="M09-body-P049"></a>
+## Đối tượng của minh sát qua các đời / The objects of insight across lives
+Miến / Burmese 49
+
+**VI**
+… nên gọi là minh sát. (အဘိ၊ဋ္ဌ၊၁၊၁၇၅။)
+
+**EN**
+… it is called insight. (အဘိ၊ဋ္ဌ၊၁၊၁၇၅။)
+
+**VI**
+Theo các Đại Chú giải, chỉ sự tu tập và quán xét các hành chân đế bằng cách đặt ba đặc tính lên chúng mới được gọi là minh sát. Cần ghi nhớ rằng nếu hành giả chưa thấy đến mức sắc danh chân đế, chưa phân biệt chế định và chân đế, mà quán ghi nhận các khối chế định thô, thì việc ấy chưa thể gọi là minh sát.
+
+**EN**
+According to the great commentaries, it is the development and contemplation of ultimate formations by applying the three characteristics to them that is called insight. Bear in mind that, if a practitioner has not seen down to ultimate materiality and mentality or distinguished concepts from ultimate phenomena, contemplating and noting gross conceptual masses cannot yet be called insight.
+
+**VI**
+Trong những đời quá khứ mà mình có thể phân định và quán được, hãy quán từ tái tục đến tử của đời ấy. Lại quán từ tái tục đến tử của một đời quá khứ tiếp theo, cho đến từ tái tục đến tử của đời quá khứ liền trước. Sau đó, quán từ tái tục đến tử của đời hiện tại. Kế đến, quán từ tái tục đến tử của đời vị lai thứ nhất, rồi nếu còn có đời vị lai, từ tái tục đến tử của đời vị lai thứ hai. Cứ như vậy, từ tái tục đến tử của những đời vị lai mình có thể quán được, hãy quán các pháp có mặt trong các đời ấy —
+
+**EN**
+In the past lives that you are able to define and discern, discern from rebirth-linking to death of the life in question. Again discern from rebirth-linking to death in the next past life, up to rebirth-linking and death in the immediately preceding past life. Then discern from rebirth-linking to death of the present life. Next discern from rebirth-linking to death of the first future life and, if there is a further future life, from rebirth-linking to death of the second future life. In this way discern from rebirth-linking to death of as many future lives as you are able, discerning the phenomena present in those lives —
+
+**VI**
+1. Đặt lần lượt ba đặc tính lên riêng sắc.
+
+**EN**
+1. Successively apply the three characteristics to materiality separately.
+
+**VI**
+2. Đặt lần lượt ba đặc tính lên riêng danh.
+
+**EN**
+2. Successively apply the three characteristics to mentality separately.
+
+**VI**
+3. Đặt lần lượt ba đặc tính lên sắc và danh cùng nhau.
+
+**EN**
+3. Successively apply the three characteristics to materiality and mentality together.
+
+**VI**
+Hãy quán minh sát như vậy nhiều lần, luân phiên qua lại. Quán một lượt bên trong rồi một lượt bên ngoài. Đối với người vẫn chưa hiểu rõ, cách quán sẽ được trình bày lại. Nếu người thiện đang học có thể phân định sắc, danh, nhân và quả, tức các hành, đến đời quá khứ thứ năm —
+
+**EN**
+Discern with insight in this way many times, alternating back and forth. Discern one round internally and one round externally. For anyone still unclear, the method of discernment will be set out again. If the good learner can define materiality, mentality, causes and effects, that is, formations, as far back as the fifth past life —
+
+
+<a id="M09-body-P050"></a>
+## Trình tự quán các đời và các uẩn / The sequence of discerning lives and aggregates
+Miến / Burmese 50
+
+**VI**
+1. Từ tái tục đến tử của đời quá khứ thứ năm.
+
+**EN**
+1. From rebirth-linking to death of the fifth past life.
+
+**VI**
+2. Từ tái tục đến tử của đời quá khứ thứ tư.
+
+**EN**
+2. From rebirth-linking to death of the fourth past life.
+
+**VI**
+3. Từ tái tục đến tử của đời quá khứ thứ ba.
+
+**EN**
+3. From rebirth-linking to death of the third past life.
+
+**VI**
+4. Từ tái tục đến tử của đời quá khứ thứ hai.
+
+**EN**
+4. From rebirth-linking to death of the second past life.
+
+**VI**
+5. Từ tái tục đến tử của đời quá khứ thứ nhất.
+
+**EN**
+5. From rebirth-linking to death of the first past life.
+
+**VI**
+6. Từ tái tục đến tử của đời hiện tại. Nếu còn đời vị lai…
+
+**EN**
+6. From rebirth-linking to death of the present life. If there is a future life…
+
+**VI**
+7. Từ tái tục đến tử của đời vị lai thứ nhất. Nếu còn đời vị lai nữa…
+
+**EN**
+7. From rebirth-linking to death of the first future life. If there is still another future life…
+
+**VI**
+8. Từ tái tục đến tử của đời vị lai thứ hai.
+
+**EN**
+8. From rebirth-linking to death of the second future life.
+
+**VI**
+Cứ như vậy, từ đời quá khứ xa nhất có thể phân định được đến đời hiện tại, rồi từ đời hiện tại đến đời vị lai cuối cùng —
+
+**EN**
+In this way, from the farthest past life you can define up to the present, and from the present to the last future life —
+
+**VI**
+1. riêng sắc
+
+**EN**
+1. materiality separately
+
+**VI**
+2. riêng danh
+
+**EN**
+2. mentality separately
+
+**VI**
+3. sắc và danh cùng nhau
+
+**EN**
+3. materiality and mentality together
+
+**VI**
+Hãy chuyên cần quán minh sát bằng cách lần lượt đặt ba đặc tính lên chúng. Có khi quán bên trong, có khi quán bên ngoài, có khi quán luân phiên bên trong và bên ngoài. Tương tự, theo phương pháp năm uẩn —
+
+**EN**
+Diligently discern with insight by successively applying the three characteristics. Sometimes discern internally, sometimes externally, and sometimes alternately internally and externally. Likewise, by the method of the five aggregates —
+
+**VI**
+1. riêng sắc
+
+**EN**
+1. materiality separately
+
+**VI**
+2. riêng thọ
+
+**EN**
+2. feeling separately
+
+**VI**
+3. riêng tưởng
+
+**EN**
+3. perception separately
+
+**VI**
+4. riêng các tâm sở thuộc hành
+
+**EN**
+4. the mental factors belonging to formations separately
+
+**VI**
+5. riêng tâm biết, tức thức
+
+**EN**
+5. the knowing consciousness, that is, consciousness, separately
+
+**VI**
+Có khi quán là vô thường, có khi là khổ, có khi là vô ngã, luân phiên bên trong và bên ngoài. Hãy quán nhiều lần, lặp đi lặp lại, luân phiên qua lại…
+
+**EN**
+Sometimes discern as impermanent, sometimes as suffering, and sometimes as not-self, alternating internally and externally. Discern repeatedly, many times, alternating back and forth…
+
+
+<a id="M09-body-P051"></a>
+## Quán đủ mười một phương diện và Kinh Vô ngã tướng / Discerning all eleven aspects and the Discourse on the Characteristic of Not-self
+Miến / Burmese 51
+
+**VI**
+… Khi quán như vậy —
+
+**EN**
+… When discerning in this way —
+
+**VI**
+1. Dù là sắc, thọ, tưởng, hành và thức thô (oḷārika).
+
+**EN**
+1. Whether it is gross (oḷārika) materiality, feeling, perception, formations or consciousness.
+
+**VI**
+2. Dù là sắc, thọ, tưởng, hành và thức tế (sukhuma).
+
+**EN**
+2. Whether it is subtle (sukhuma) materiality, feeling, perception, formations or consciousness.
+
+**VI**
+3. Dù là sắc, thọ, tưởng, hành và thức hạ liệt (hīna).
+
+**EN**
+3. Whether it is inferior (hīna) materiality, feeling, perception, formations or consciousness.
+
+**VI**
+4. Dù là sắc, thọ, tưởng, hành và thức thù thắng (paṇīta).
+
+**EN**
+4. Whether it is superior (paṇīta) materiality, feeling, perception, formations or consciousness.
+
+**VI**
+5. Dù là sắc, thọ, tưởng, hành và thức xa (dūra).
+
+**EN**
+5. Whether it is far (dūra) materiality, feeling, perception, formations or consciousness.
+
+**VI**
+6. Dù là sắc, thọ, tưởng, hành và thức gần (santika).
+
+**EN**
+6. Whether it is near (santika) materiality, feeling, perception, formations or consciousness.
+
+**VI**
+Dù là sắc, thọ, tưởng, hành hay thức nào, hãy quán minh sát tất cả. Khi có thể quán như vậy, hành giả đã biết quán minh sát năm uẩn, tức sắc, thọ, tưởng, hành và thức, theo mười một phương diện: quá khứ, vị lai, hiện tại, bên trong, bên ngoài, thô, tế, hạ liệt, thù thắng, xa và gần. Khi ấy cũng đã biết cách quán theo Kinh Vô ngã tướng dưới đây.
+
+**EN**
+Whatever materiality, feeling, perception, formations or consciousness there may be, discern them all with insight. When able to discern in this way, one has learned to discern with insight the five aggregates, namely materiality, feeling, perception, formations and consciousness, in the eleven aspects of past, future, present, internal, external, gross, subtle, inferior, superior, far and near. One then also knows how to discern in the way set out in the Discourse on the Characteristic of Not-self below.
+
+**VI**
+Cách quán theo Kinh Vô ngã tướng
+
+**EN**
+Discernment according to the Discourse on the Characteristic of Not-self
+
+**VI**
+1. Tasmātiha bhikkhave yaṃ kiñci rūpaṃ atītānāgatapaccuppannaṃ ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā paṇītaṃ vā yaṃ dūre santike vā, sabbaṃ rūpaṃ “netaṃ mama, nesohamasmi, na meso attā”ti evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.
+
+**EN**
+1. Tasmātiha bhikkhave yaṃ kiñci rūpaṃ atītānāgatapaccuppannaṃ ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā paṇītaṃ vā yaṃ dūre santike vā, sabbaṃ rūpaṃ “netaṃ mama, nesohamasmi, na meso attā”ti evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ.
+
+
+<a id="M09-body-P052"></a>
+## Mười một phương diện của sắc trong Kinh Vô ngã tướng / The eleven aspects of materiality in the Discourse on the Characteristic of Not-self
+Miến / Burmese 52
+
+**VI**
+2. Yā kāci vedanā. Pe.
+
+**EN**
+2. Yā kāci vedanā. Pe.
+
+**VI**
+3. Yā kāci saññā. Pe.
+
+**EN**
+3. Yā kāci saññā. Pe.
+
+**VI**
+4. Ye keci saṅkhārā. Pe.
+
+**EN**
+4. Ye keci saṅkhārā. Pe.
+
+**VI**
+5. Yaṃ kiñci viññāṇaṃ. Pe. (သံ၊၂၊၅၆။)
+
+**EN**
+5. Yaṃ kiñci viññāṇaṃ. Pe. (သံ၊၂၊၅၆။)
+
+**VI**
+“Netaṃ mama, nesohamasmi, na meso attā”ti samanupassāmīti aniccaṃ dukkhaṃ anattāti samanupassāmi. (မ၊၄၊၂၃၂။)
+
+**EN**
+“Netaṃ mama, nesohamasmi, na meso attā”ti samanupassāmīti aniccaṃ dukkhaṃ anattāti samanupassāmi. (မ၊၄၊၂၃၂။)
+
+**VI**
+Này các Tỳ-khưu… vì năm uẩn là vô thường, khổ và vô ngã như vậy, nên trong Giáo pháp cao quý này, các thiện nam tử hãy quán —
+
+**EN**
+Bhikkhus… since the five aggregates are thus impermanent, suffering and not-self, in this sublime Teaching the sons of good families should discern —
+
+**VI**
+1. Tất cả sắc pháp quá khứ.
+
+**EN**
+1. All material phenomena that are past.
+
+**VI**
+2. Tất cả sắc pháp vị lai.
+
+**EN**
+2. All material phenomena that are future.
+
+**VI**
+3. Tất cả sắc pháp hiện tại.
+
+**EN**
+3. All material phenomena that are present.
+
+**VI**
+4. Tất cả sắc pháp bên trong.
+
+**EN**
+4. All material phenomena that are internal.
+
+**VI**
+5. Tất cả sắc pháp bên ngoài.
+
+**EN**
+5. All material phenomena that are external.
+
+**VI**
+6. Tất cả sắc pháp thô (oḷārika).
+
+**EN**
+6. All material phenomena that are gross (oḷārika).
+
+**VI**
+7. Tất cả sắc pháp tế (sukhuma).
+
+**EN**
+7. All material phenomena that are subtle (sukhuma).
+
+**VI**
+8. Tất cả sắc pháp hạ liệt (hīna).
+
+**EN**
+8. All material phenomena that are inferior (hīna).
+
+**VI**
+9. Tất cả sắc pháp thù thắng (paṇīta).
+
+**EN**
+9. All material phenomena that are superior (paṇīta).
+
+**VI**
+10. Tất cả sắc pháp xa (dūra).
+
+**EN**
+10. All material phenomena that are far (dūra).
+
+**VI**
+11. Tất cả sắc pháp gần (santika).
+
+**EN**
+11. All material phenomena that are near (santika).
+
+**VI**
+Đối với tất cả sắc pháp hiện hữu theo mười một phương diện ấy —
+
+**EN**
+Regarding all material phenomena present in these eleven aspects —
+
+**VI**
+(a) Netaṃ mama — sắc pháp này không phải của ta, tức là khổ.
+
+**EN**
+(a) Netaṃ mama — this materiality is not mine, that is, it is suffering.
+
+**VI**
+(b) Nesohamasmi — sắc pháp này không phải là ta, tức là vô thường.
+
+**EN**
+(b) Nesohamasmi — this materiality is not what I am, that is, it is impermanent.
+
+
+<a id="M09-body-P053"></a>
+## Quán sắc không phải của ta, không phải là ta, không phải tự ngã của ta / Discerning materiality as not mine, not what I am, and not my self
+Miến / Burmese 53
+
+**VI**
+(c) Na meso attā — sắc pháp này không phải tự ngã của ta, tức là vô ngã.
+
+**EN**
+(c) Na meso attā — this materiality is not my self, that is, it is not-self.
+
+**VI**
+Như vậy hãy quán bằng ánh sáng của tuệ minh sát, đúng như thật, không đảo ngược, các sắc pháp hiện hữu theo mười một phương diện ấy, phá vỡ và xuyên thấu các khối kết chặt của sắc và danh.
+
+**EN**
+Thus discern with the light of insight knowledge, accurately and without distortion, the material phenomena present in these eleven aspects, breaking up and penetrating the compactness of materiality and mentality.
+
+**VI**
+Nếu diễn nghĩa theo cách khác thì như sau —
+
+**EN**
+The meaning can alternatively be rendered as follows —
+
+**VI**
+Này các Tỳ-khưu… vì năm uẩn là vô thường, khổ và vô ngã như vậy, nên trong Giáo pháp cao quý này, các thiện nam tử hãy quán —
+
+**EN**
+Bhikkhus… since the five aggregates are thus impermanent, suffering and not-self, in this sublime Teaching the sons of good families should discern —
+
+**VI**
+1. Dù là sắc pháp quá khứ.
+
+**EN**
+1. Whether it is materiality that is past.
+
+**VI**
+2. Dù là sắc pháp vị lai.
+
+**EN**
+2. Whether it is materiality that is future.
+
+**VI**
+3. Dù là sắc pháp hiện tại.
+
+**EN**
+3. Whether it is materiality that is present.
+
+**VI**
+4. Dù là sắc pháp bên trong.
+
+**EN**
+4. Whether it is materiality that is internal.
+
+**VI**
+5. Dù là sắc pháp bên ngoài.
+
+**EN**
+5. Whether it is materiality that is external.
+
+**VI**
+6. Dù là sắc pháp thô (oḷārika).
+
+**EN**
+6. Whether it is materiality that is gross (oḷārika).
+
+**VI**
+7. Dù là sắc pháp tế (sukhuma).
+
+**EN**
+7. Whether it is materiality that is subtle (sukhuma).
+
+**VI**
+8. Dù là sắc pháp hạ liệt (hīna).
+
+**EN**
+8. Whether it is materiality that is inferior (hīna).
+
+**VI**
+9. Dù là sắc pháp thù thắng (paṇīta).
+
+**EN**
+9. Whether it is materiality that is superior (paṇīta).
+
+**VI**
+10. Dù là sắc pháp xa (dūra).
+
+**EN**
+10. Whether it is materiality that is far (dūra).
+
+**VI**
+11. Dù là sắc pháp gần (santika).
+
+**EN**
+11. Whether it is materiality that is near (santika).
+
+**VI**
+Đối với tất cả sắc pháp hiện hữu theo mười một phương diện ấy —
+
+**EN**
+Regarding all material phenomena present in these eleven aspects —
+
+**VI**
+(a) Netaṃ mama — sắc pháp này không phải của ta, tức là khổ.
+
+**EN**
+(a) Netaṃ mama — this materiality is not mine, that is, it is suffering.
+
+**VI**
+(b) Nesohamasmi — sắc pháp này không phải là ta, tức là vô thường.
+
+**EN**
+(b) Nesohamasmi — this materiality is not what I am, that is, it is impermanent.
+
+**VI**
+(c) Na meso attā — sắc pháp này không phải tự ngã của ta…
+
+**EN**
+(c) Na meso attā — this materiality is not my self…
+
+
+<a id="M09-body-P054"></a>
+## Sắc và danh thô, tế, hạ liệt, thù thắng, xa và gần / Gross, subtle, inferior, superior, far and near materiality and mentality
+Miến / Burmese 54
+
+**VI**
+… tức là vô ngã.
+
+**EN**
+… that is, it is not-self.
+
+**VI**
+Như vậy hãy quán bằng ánh sáng của tuệ minh sát, đúng như thật, không đảo ngược, các sắc pháp hiện hữu theo mười một phương diện ấy, phá vỡ và xuyên thấu các khối kết chặt của sắc và danh. (သံ၊၂၊၅၆။)
+
+**EN**
+Thus discern with the light of insight knowledge, accurately and without distortion, the material phenomena present in these eleven aspects, breaking up and penetrating the compactness of materiality and mentality. (သံ၊၂၊၅၆။)
+
+**VI**
+Hãy quán tương tự đối với bốn danh uẩn là thọ, tưởng, hành và thức. Hãy hiểu phần diễn nghĩa theo cùng cách.
+
+**EN**
+Discern likewise with respect to the four mental aggregates, namely feeling, perception, formations and consciousness. Understand the rendering of their meaning in the same way.
+
+**VI**
+Thô và tế, hạ liệt và thù thắng, xa và gần
+
+**EN**
+Gross and subtle, inferior and superior, far and near
+
+**VI**
+Khi quán như vậy, nếu muốn phân chia sắc và danh theo thô, tế v.v. để quán, cũng có thể quán như sau.
+
+**EN**
+When discerning in this way, if you wish to distinguish materiality and mentality as gross, subtle and so forth, you can discern as follows.
+
+**VI**
+1. Mười hai sắc, gồm năm sắc tịnh sắc (pasādarūpa) và bảy sắc cảnh giới (gocararūpa), gọi là sắc thô vì dễ hiện rõ và dễ thấy đối với trí của hành giả đang quán, nên được xem là thô.
+
+**EN**
+1. The twelve material phenomena, consisting of the five sensitivities (pasādarūpa) and seven objective fields (gocararūpa), are called gross materiality because they readily appear and are easily seen by the knowledge of the practitioner who discerns, and thus are regarded as gross.
+
+**VI**
+2. Mười sáu sắc còn lại gọi là sắc tế vì khó hiện rõ và khó thấy đối với trí của hành giả đang quán, nên được xem là vi tế.
+
+**EN**
+2. The remaining sixteen material phenomena are called subtle materiality because they do not readily appear and are difficult to see by the knowledge of the practitioner who discerns, and thus are regarded as subtle.
+
+**VI**
+3. Trong các danh pháp, thọ, tưởng, hành và thức bất thiện được gọi là thô vì dễ hiện rõ và dễ thấy đối với trí của hành giả đang quán.
+
+**EN**
+3. Among mental phenomena, unwholesome feeling, perception, formations and consciousness are called gross because they readily appear and are easily seen by the knowledge of the practitioner who discerns.
+
+**VI**
+4. Thọ, tưởng, hành và thức thiện, cũng như các danh pháp ở hướng ngũ môn, ngũ thức, tiếp thọ, quan sát, xác định, đăng ký, hướng ý môn, đăng ký…
+
+**EN**
+4. Wholesome feeling, perception, formations and consciousness, as well as the mental phenomena at five-door adverting, the five sense consciousnesses, receiving, investigating, determining, registration, mind-door adverting, registration…
+
+
+<a id="M09-body-P055"></a>
+## Danh pháp tế và các phân loại hạ liệt, thù thắng, xa, gần / Subtle mental phenomena and the classifications inferior, superior, far and near
+Miến / Burmese 55
+
+**VI**
+… tái tục, hữu phần, tử và tốc hành duy tác v.v., tức thọ, tưởng, hành và thức thuộc quả và duy tác, gọi chung là vô ký, được gọi là tế vì khó hiện rõ và khó thấy đối với trí của hành giả đang quán. (Các cách phân loại còn lại xin xem Chú giải Thanh tịnh đạo, quyển hai, trang 104–105 v.v.)
+
+**EN**
+… rebirth-linking, life-continuum, death and functional impulsion and so forth, namely resultant and functional feeling, perception, formations and consciousness, collectively called indeterminate, are called subtle because they do not readily appear and are difficult to see by the knowledge of the practitioner who discerns. (For the remaining classifications, see the Visuddhimagga commentary, volume two, pages 104–105 and so forth.)
+
+**VI**
+5. Sắc pháp do nghiệp bất thiện sinh là hạ liệt.
+
+**EN**
+5. Material phenomena produced by unwholesome kamma are inferior.
+
+**VI**
+6. Sắc pháp do nghiệp thiện sinh là thù thắng.
+
+**EN**
+6. Material phenomena produced by wholesome kamma are superior.
+
+**VI**
+7. Danh pháp thô là hạ liệt.
+
+**EN**
+7. Gross mental phenomena are inferior.
+
+**VI**
+8. Danh pháp tế là thù thắng.
+
+**EN**
+8. Subtle mental phenomena are superior.
+
+**VI**
+9. Sắc tế khó hiện rõ và khó thấy đối với trí của hành giả đang quán. Do xa trí ấy, chúng được gọi là xa.
+
+**EN**
+9. Subtle material phenomena do not readily appear and are difficult to see by the knowledge of the practitioner who discerns. Being far from that knowledge, they are called far.
+
+**VI**
+10. Sắc thô dễ hiện rõ và dễ thấy đối với trí của hành giả đang quán. Do gần trí ấy, chúng được gọi là gần.
+
+**EN**
+10. Gross material phenomena readily appear and are easily seen by the knowledge of the practitioner who discerns. Being near to that knowledge, they are called near.
+
+**VI**
+11. Thọ, tưởng, hành và thức bất thiện gọi là xa vì xa thọ, tưởng, hành và thức quả và duy tác, tức vô ký, và cũng xa thọ, tưởng, hành và thức thiện. Tương tự, thọ, tưởng, hành và thức thiện và vô ký gọi là xa vì xa thọ, tưởng, hành và thức bất thiện.
+
+**EN**
+11. Unwholesome feeling, perception, formations and consciousness are called far because they are far from resultant and functional, that is, indeterminate, feeling, perception, formations and consciousness, and also far from wholesome feeling, perception, formations and consciousness. Likewise, wholesome and indeterminate feeling, perception, formations and consciousness are called far because they are far from unwholesome feeling, perception, formations and consciousness.
+
+**VI**
+12. Thọ, tưởng, hành và thức bất thiện gọi là gần vì gần thọ, tưởng, hành và thức bất thiện. Tương tự, thọ, tưởng, hành và thức thiện và vô ký gọi là gần vì gần thọ, tưởng, hành và thức thiện và vô ký.
+
+**EN**
+12. Unwholesome feeling, perception, formations and consciousness are called near because they are near to unwholesome feeling, perception, formations and consciousness. Likewise, wholesome and indeterminate feeling, perception, formations and consciousness are called near because they are near to wholesome and indeterminate feeling, perception, formations and consciousness.
+
+
+<a id="M09-body-P056"></a>
+## Quán gồm đủ các loại sắc danh / Discernment encompassing all classes of materiality and mentality
+Miến / Burmese 56
+
+**VI**
+Các pháp được gọi bằng những tên riêng như vậy. Về những cách phân biệt khác, hãy xem Thanh tịnh đạo, quyển hai, trang 106–107.
+
+**EN**
+They receive these respective designations. For other ways of distinguishing them, see the Visuddhimagga, volume two, pages 106–107.
+
+**VI**
+Đối với các pháp hiện hữu trong ba thời quá khứ, vị lai, hiện tại và trong hai dòng tương tục bên trong và bên ngoài —
+
+**EN**
+As to the phenomena present in the three times, past, future and present, and in the two continua, internal and external —
+
+**VI**
+1. Các sắc pháp có mặt trong sáu môn và bốn mươi hai phần thân.
+
+**EN**
+1. The material phenomena present at the six doors and in the forty-two bodily parts.
+
+**VI**
+2. Các nhóm danh pháp trong lộ tốc hành thiện và lộ tốc hành bất thiện, cùng các nhóm danh pháp ngoài lộ là tái tục, hữu phần và tử.
+
+**EN**
+2. The groups of mental phenomena in wholesome and unwholesome impulsion processes, together with the process-freed groups of mental phenomena, namely rebirth-linking, life-continuum and death.
+
+**VI**
+Nếu có thể chia chúng thành hai nhóm theo phương pháp sắc danh, hoặc thành năm nhóm theo phương pháp năm uẩn, và quán minh sát xuyên suốt từ quá khứ đến hiện tại, từ hiện tại đến cuối vị lai, thì trong những sắc danh ấy đã bao gồm cả sắc danh thô, tế, hạ liệt, thù thắng, xa và gần, không còn sót. Do đó, như đã trình bày ở trên —
+
+**EN**
+If one can divide them into two groups by the method of materiality and mentality, or into five groups by the method of the five aggregates, and discern with insight thoroughly from past to present and from present to the end of the future, then gross, subtle, inferior, superior, far and near materiality and mentality are all included, without omission. Therefore, as set out above —
+
+**VI**
+1. riêng sắc
+
+**EN**
+1. materiality separately
+
+**VI**
+2. riêng danh
+
+**EN**
+2. mentality separately
+
+**VI**
+3. sắc và danh cùng nhau
+
+**EN**
+3. materiality and mentality together
+
+**VI**
+Cũng có thể quán minh sát theo phương pháp hai nhóm sắc danh như vậy. Chẳng hạn, hai vợ chồng bà Bà-la-môn Pañcaggadāyikā chia các hành thành hai nhóm sắc và danh, rồi quán xét bằng minh sát theo phương pháp hai nhóm ấy và an lập trong đạo và quả Bất lai. (ဓမ္မပဒဋ္ဌ၊၂၊၃၆၉။)
+
+**EN**
+One can likewise discern with insight by this method of the two groups of materiality and mentality. For instance, the brahmin woman Pañcaggadāyikā and her husband divided formations into the two groups of materiality and mentality, contemplated them with insight by the method of those two groups, and became established in the path and fruition of non-return. (ဓမ္မပဒဋ္ဌ၊၂၊၃၆၉။)
+
+**VI**
+Lại nữa, nếu chia sắc danh ấy thành năm nhóm theo phương pháp năm uẩn và quán minh sát, thì như các vị trưởng lão có tên trong nhóm năm vị được nhắc đến trong Kinh Vô ngã tướng…
+
+**EN**
+Again, if one divides that materiality and mentality into five groups by the method of the five aggregates and discerns them with insight, then, like the elders of the group of five named in the Discourse on the Characteristic of Not-self…
+
+
+<a id="M09-body-P057"></a>
+## Tu tập bất tịnh và bất tịnh ở thân sống / Cultivating foulness and foulness in a living body
+Miến / Burmese 57
+
+**VI**
+… có thể đạt đến quả A-la-hán. (သံ၊၂၊၅၅။)
+
+**EN**
+… one can reach arahant fruition. (သံ၊၂၊၅၅။)
+
+**VI**
+Nếu có khả năng, việc quán riêng sắc và danh thô, tế, hạ liệt, thù thắng, xa và gần trong cả ba thời quá khứ, vị lai, hiện tại và trong cả hai dòng tương tục bên trong và bên ngoài thì càng tốt.
+
+**EN**
+If one is able, it is better still to discern gross, subtle, inferior, superior, far and near material and mental phenomena separately throughout the three times, past, future and present, and in both continua, internal and external.
+
+**VI**
+Tu tập bất tịnh (asubhabhāvanā)
+
+**EN**
+Cultivation of foulness (asubhabhāvanā)
+
+**VI**
+Trong Kinh Girimānanda (အံ၊၃၊၃၄၃), Đức Phật dạy nỗ lực tu tập tưởng bất tịnh (asubhasaññā). Savijjāṇaka-asubha là tu tập bất tịnh ở thân sống. Trong Kinh Meghiya, Ngài cũng dạy “asubhā bhāvetabbā rāgassa pahānāya”, tức hãy nỗ lực tu tập bất tịnh để đoạn trừ tham. (ဥဒါန၊၁၂၀။) Trong Kinh Vijaya (သုတ္တနိပါတ၊၃၀၇-၃၀၈), Đức Phật dạy tu tập savijjāṇaka-asubha, bất tịnh ở thân sống, và avijjāṇaka-asubha, bất tịnh ở xác chết. Tu tập bất tịnh ấy chính là nền tảng của quán khổ (dukkhānupassanā).
+
+**EN**
+In the Girimānanda Sutta (အံ၊၃၊၃၄၃), the Buddha teaches one to strive to develop the perception of foulness (asubhasaññā). Savijjāṇaka-asubha is cultivating foulness in a living body. In the Meghiya Sutta he also teaches, “asubhā bhāvetabbā rāgassa pahānāya”, that is, strive to cultivate foulness to abandon lust. (ဥဒါန၊၁၂၀။) In the Vijaya Sutta (သုတ္တနိပါတ၊၃၀၇-၃၀၈), the Buddha teaches cultivation of savijjāṇaka-asubha, foulness of a living body, and avijjāṇaka-asubha, foulness of a corpse. That cultivation of foulness is the basis for contemplation of suffering (dukkhānupassanā).
+
+**VI**
+Bất tịnh ở thân sống (savijjāṇaka-asubha)
+
+**EN**
+Foulness in a living body (savijjāṇaka-asubha)
+
+**VI**
+Khi lấy tính chất bất tịnh đáng ghê tởm của ba mươi hai phần thân hiện hữu trong dòng tương tục của các chúng sinh còn sống làm cảnh và tác ý tu tập bất tịnh, có hai cách quán. Một là quán để đạt thiền theo phương pháp tác ý tính đáng ghê tởm (paṭikkūlamanasikāra). Hai là quán để thấy tính bất tịnh, bất lợi của căn nhà thân uẩn, gọi là quán sự nguy hại (ādīnavānupassanā). Đối với ba mươi hai phần thân có mặt trong dòng tương tục bên trong, có thể lấy cả ba mươi hai phần, một số phần, hoặc từng phần riêng lẻ làm cảnh và tác ý tính đáng ghê tởm…
+
+**EN**
+When taking as object the repulsive, foul nature of the thirty-two bodily parts present in the continua of living beings and attending to it to cultivate foulness, there are two ways to discern. The first is to discern for attaining jhāna by attention to repulsiveness (paṭikkūlamanasikāra). The second is to discern so as to see the foulness and danger of the house of the bodily aggregates, called contemplation of danger (ādīnavānupassanā). With the thirty-two bodily parts present in the internal continuum, one can take all thirty-two, several of them, or each part separately as object and attend to its repulsive nature…
+
+
+<a id="M09-body-P058"></a>
+## Từ ba mươi hai phần thân đến các nhóm sắc / From the thirty-two bodily parts to material groups
+Miến / Burmese 58
+
+**VI**
+… tức tính chất đáng ghê tởm, thì có thể đạt định sơ thiền. Tương tự, nếu tác ý đến các phần thân bên ngoài, có thể đạt cận định. Điều này đã được giải thích ở phần trước. Ở đây chỉ trình bày cách quán sắc trong ba mươi hai phần thân ấy theo quán sự nguy hại —
+
+**EN**
+… that is, its repulsive, disgusting nature, one can reach first-jhāna concentration. Likewise, if one attends to the bodily parts externally, one can reach access concentration. This was explained earlier. Here only the way of discerning materiality in these thirty-two bodily parts by contemplation of danger is presented —
+
+**VI**
+Lấy tính đáng ghê tởm của ba mươi hai phần thân làm cảnh và quán “bất tịnh, bất tịnh”. Dùng tuệ thấy rõ tính bất tịnh đáng ghê tởm. Quán đi quán lại, luân phiên trong cả hai dòng tương tục bên trong và bên ngoài. Hãy mở rộng dần phạm vi quán tùy khả năng.
+
+**EN**
+Take the repulsive nature of the thirty-two bodily parts as object and discern “foul, foul”. Clearly see its repulsive, foul nature with knowledge. Discern repeatedly, alternating in both the internal and external continua. Gradually extend the scope of discernment as far as you are able.
+
+**VI**
+Khi ấy, do năng lực của tuệ đã được rèn luyện mạnh trong lĩnh vực sắc và danh chân đế, có khi đang quán luân phiên tính bất tịnh đáng ghê tởm của ba mươi hai phần thân trong cả hai dòng tương tục bên trong và bên ngoài thì chẳng bao lâu ba mươi hai phần thân biến mất, chỉ thấy những hạt nhóm sắc. Điều ấy là do năng lực của tuệ đã được rèn luyện trong lĩnh vực chân đế. Nếu khi quán luân phiên tính bất tịnh của ba mươi hai phần thân trong cả hai dòng tương tục mà các hạt nhóm sắc chưa dễ hiện ra, hãy quán các phần thân ấy riêng từng phần hay gộp chung, hướng sự quán đến chỗ thấy bốn đại có mặt trong các phần thân ấy. Do năng lực của tuệ tu tập đã được rèn luyện, sẽ dễ dàng thấy những hạt nhóm sắc. Khi thấy các nhóm sắc, hãy phân tích chúng bằng trí đến mức chân đế, như đã trình bày trong phần đề mục thiền về sắc. Rồi hãy tiếp tục quán minh sát các sắc chân đế ấy bằng cách lần lượt đặt lên chúng ba đặc tính.
+
+**EN**
+At that point, owing to the power of knowledge well trained in the domain of ultimate materiality and mentality, while one alternately discerns the repulsive foulness of the thirty-two bodily parts in both the internal and external continua, before long the thirty-two parts may disappear and only particles of material groups become visible. This is owing to the power of knowledge trained in the domain of ultimate realities. If the particles of material groups do not readily appear when alternately discerning the foulness of the thirty-two parts in both continua, discern those parts separately or together, directing discernment so as to see the four great elements present in those bodily parts. Through the power of developed, trained knowledge, the particles of material groups will readily become evident. When the material groups are seen, analyze them by knowledge down to the ultimate level, as explained in the section on the meditation subject of materiality. Then continue discerning those ultimate material phenomena with insight, successively applying the three characteristics.
+
+
+<a id="M09-body-P059"></a>
+## Căn nhà thân uẩn đầy các loài trùng / The house of the bodily aggregates filled with worms
+Miến / Burmese 59
+
+**VI**
+Quán luân phiên bên trong và bên ngoài. Khi đã tương đối nhuần nhuyễn trong việc tu tập bất tịnh theo cách ấy, hãy phân định bốn đại trong từng phần thân và quán minh sát các sắc chân đế trong từng nhóm sắc.
+
+**EN**
+Discern alternately internally and externally. Once reasonably proficient in cultivating foulness in this way, define the four great elements in each bodily part and discern with insight the ultimate material phenomena in the respective material groups.
+
+**VI**
+Căn nhà thân uẩn đầy các loài trùng
+
+**EN**
+The house of the bodily aggregates filled with worms
+
+**VI**
+Lại nữa, một phương pháp quán bất tịnh ở thân sống (savijjāṇaka-asubha) được trình bày trong Kinh Pheṇapiṇḍūpama và Chú giải của kinh ấy. Căn nhà thân uẩn lớn này đầy các loài trùng. Căn nhà thân uẩn này là chỗ cư trú và sinh sản của nhiều loài trùng, là chỗ chúng thải phân, thải nước tiểu, là bệnh xá và là nghĩa địa của chúng. Hãy lấy tính chất đáng ghê tởm của căn nhà thân uẩn đầy những vật bất tịnh, đáng ghê tởm ấy làm cảnh, rồi quán “bất tịnh, bất tịnh”. Quán luân phiên, đi quán lại bên trong và bên ngoài. (သံ၊ဋ္ဌ၊၂၊၂၉၄။)
+
+**EN**
+Another method of discerning foulness in a living body (savijjāṇaka-asubha) is given in the Pheṇapiṇḍūpama Sutta and its commentary. This great house of the bodily aggregates is filled with various kinds of worms. This house of the bodily aggregates is their dwelling and breeding place, where they excrete and urinate, their infirmary and their cemetery. Take as object the repulsive nature of this house of the bodily aggregates filled with impure, disgusting things, and discern “foul, foul”. Discern repeatedly, alternating internally and externally. (သံ၊ဋ္ဌ၊၂၊၂၉၄။)
+
+**VI**
+Khi đã quán nhiều lần như vậy, do năng lực của tuệ đã được rèn luyện trong lĩnh vực chân đế, chẳng bao lâu có thể thấy các nhóm sắc. Lúc ấy, hãy phân định các sắc pháp chân đế có trong những nhóm sắc ấy, rồi đặt ba đặc tính lên các sắc chân đế ấy và quán minh sát một lần nữa. Nếu các nhóm sắc chưa dễ hiện ra nhưng việc tu tập bất tịnh ấy đã tương đối nhuần nhuyễn, hãy lấy các loài trùng hoặc căn nhà thân uẩn lớn đầy các loài trùng làm cảnh, rồi bắt đầu phân định bốn đại trong các loài trùng hoặc…
+
+**EN**
+When you have discerned in this way many times, owing to the power of knowledge trained in the domain of ultimate realities, before long the material groups may become visible. At that point, define the ultimate material phenomena in those groups, then apply the three characteristics to those ultimate material phenomena and discern with insight again. If the material groups do not readily appear but you have become reasonably proficient in that cultivation of foulness, take the worms or the great house of the bodily aggregates filled with worms as object and begin defining the four great elements in those worms or…
+
+
+<a id="M09-body-P060"></a>
+## Tính bất tịnh của sắc chân đế / The foul nature of ultimate materiality
+Miến / Burmese 60
+
+**VI**
+… trong căn nhà thân uẩn đầy các loài trùng ấy. Do năng lực của tuệ đã được rèn luyện trong lĩnh vực chân đế, chẳng bao lâu có thể thấy các nhóm sắc. Hãy phân định các sắc chân đế trong những nhóm sắc ấy và quán minh sát một lần nữa. Hãy quán cả bên trong lẫn bên ngoài.
+
+**EN**
+… in the house of the bodily aggregates filled with worms. Through the power of knowledge trained in the domain of ultimate realities, one can soon find the material groups. Define the ultimate material phenomena in those material groups and discern again with insight. Discern both internally and externally.
+
+**VI**
+Trong các sắc pháp chân đế cũng có —
+
+**EN**
+Among ultimate material phenomena there are also —
+
+**VI**
+1. Duggandha — có mùi hôi.
+
+**EN**
+1. Duggandha — having a foul smell.
+
+**VI**
+2. Asuci — bất tịnh, có tính đáng ghê tởm.
+
+**EN**
+2. Asuci — impure, with a repulsive nature.
+
+**VI**
+3. Byādhi — có tính bệnh hoạn.
+
+**EN**
+3. Byādhi — having the nature of illness.
+
+**VI**
+4. Jarā — có sự già cỗi, tức có thời kỳ chín muồi.
+
+**EN**
+4. Jarā — having ageing, that is, having a period of maturation.
+
+**VI**
+5. Maraṇa — có sự chết và tan hoại, tức có thời kỳ tan hoại. (သံ၊ဋ္ဌ၊၃၊၅၉။ သံ၊ဋ္ဌ၊၂၊၂၉၄။)
+
+**EN**
+5. Maraṇa — having death and breakup, that is, having a period of dissolution. (သံ၊ဋ္ဌ၊၃၊၅၉။ သံ၊ဋ္ဌ၊၂၊၂၉၄။)
+
+**VI**
+Những tính bất tịnh này hiện hữu rõ ràng. Hãy dùng tuệ minh sát để thấy tính bất tịnh ấy rồi quán “bất tịnh, bất tịnh”. Hãy quán luân phiên một lượt bên trong, một lượt bên ngoài.
+
+**EN**
+These foul qualities are plainly present. Use insight knowledge to see that foul nature and discern “foul, foul”. Discern alternately, one round internally and one round externally.
+
+**VI**
+Như vậy, đối với bất tịnh ở thân sống (savijjāṇaka-asubha), hãy phân chia và quán ba loại tính bất tịnh —
+
+**EN**
+Thus, as to foulness in a living body (savijjāṇaka-asubha), distinguish and discern three kinds of foulness —
+
+**VI**
+1. Tính bất tịnh đáng ghê tởm của ba mươi hai phần thân.
+
+**EN**
+1. The repulsive foulness of the thirty-two bodily parts.
+
+**VI**
+2. Tính bất tịnh đáng ghê tởm của căn nhà thân uẩn đầy các loài trùng.
+
+**EN**
+2. The repulsive foulness of the house of the bodily aggregates filled with worms.
+
+**VI**
+3. Tính bất tịnh đáng ghê tởm của các sắc pháp chân đế.
+
+**EN**
+3. The repulsive foulness of ultimate material phenomena.
+
+
+<a id="M09-body-P061"></a>
+## Bất tịnh ngoài thân và bất tịnh của tử thi / External Foulness and Foulness of the Dead
+Miến / Burmese 61
+
+**VI**
+Puna caparaṃ, bhikkhave, bhikkhu seyyathāpi passeyya sarīraṃ sivathikāya chaḍḍitaṃ ekāhamataṃ vā dvīhamataṃ vā tīhamataṃ vā uddhumātakaṃ vinīlakaṃ vipubbakajātaṃ. So imameva kāyaṃ upasaṃharati: “Ayampi kho kāyo evaṃdhammo evaṃbhāvī evaṃanatīto”ti. (Dī. 2.235.)
+
+**EN**
+Puna caparaṃ, bhikkhave, bhikkhu seyyathāpi passeyya sarīraṃ sivathikāya chaḍḍitaṃ ekāhamataṃ vā dvīhamataṃ vā tīhamataṃ vā uddhumātakaṃ vinīlakaṃ vipubbakajātaṃ. So imameva kāyaṃ upasaṃharati: “Ayampi kho kāyo evaṃdhammo evaṃbhāvī evaṃanatīto”ti. (Dī. 2.235.)
+
+**VI**
+Này các tỳ-khưu, lại nữa, nếu vị tỳ-khưu hành thiền thấy một tử thi bị bỏ tại bãi tha ma, chết đã một ngày, hai ngày hay ba ngày, trương phồng, biến sắc xanh tím, chảy mủ nhớp nhúa, vị ấy lấy trí đối chiếu ngay thân mình: “Thân này của ta cũng có tính chất như thế, sẽ thành như thế, không vượt khỏi tính chất ấy.” (Dī. 2.235, Mahāsatipaṭṭhānasutta.)
+
+**EN**
+Bhikkhus, further, if a meditating bhikkhu sees a corpse discarded in a charnel ground, dead for one, two, or three days, bloated, livid, and oozing filthy pus, he applies this with knowledge to his very own body: “This body of mine too is of such a nature, will become like that, and cannot escape that nature.” (Dī. 2.235, Mahāsatipaṭṭhānasutta.)
+
+**VI**
+Dīyabhāṇakamahāsivatthero pana “navasivathikā ādīnavānupassanāvasena vuttā”ti āha. (Dī. A. 2.394, Maj. A. 1.305.)
+
+**EN**
+Dīyabhāṇakamahāsivatthero pana “navasivathikā ādīnavānupassanāvasena vuttā”ti āha. (Dī. A. 2.394, Maj. A. 1.305.)
+
+**VI**
+Trưởng lão A-la-hán Mahāsiva, vị thông thuộc Dīghanikāya, nói rằng Đức Phật đã dạy chín phép tu bất tịnh liên hệ đến bãi tha ma theo cách quán sự nguy hại (ādīnavānupassanā). (Dī. A. 2.394, Maj. A. 1.305.)
+
+**EN**
+The arahant elder Mahāsiva, a reciter of the Dīghanikāya, says that the Buddha taught the nine foulness meditations connected with the charnel ground by way of contemplating danger (ādīnavānupassanā). (Dī. A. 2.394, Maj. A. 1.305.)
+
+**VI**
+Theo chính văn Pāli và chú giải trên, hành giả muốn tu bất tịnh ngoài thân phải chọn một tử thi…
+
+**EN**
+According to the Pāli text and commentary above, a meditator who wishes to develop external foulness must select a corpse…
+
+
+<a id="M09-body-P062"></a>
+## Bất tịnh ngoài thân và bất tịnh của tử thi / External Foulness and Foulness of the Dead
+Miến / Burmese 62
+
+**VI**
+…để quán. Khi tu bất tịnh theo thiền chỉ đến định sơ thiền, nam hành giả phải quán tử thi nam, nữ hành giả phải quán tử thi nữ. Trong phần minh sát này, khi quán sự nguy hại, không cần lựa chọn tử thi nam hay nữ. Cùng giới hay khác giới đều được. Trong thiền chỉ, hành giả chuyên chú vào tử thi bên ngoài cho đến sơ thiền. Khi đạt tợ tướng, tham ái có thể xen vào và làm rối loạn, nên chỉ tu với tử thi cùng giới.
+
+**EN**
+…to contemplate. When developing foulness as serenity meditation up to first-jhāna concentration, a male meditator should contemplate a male corpse and a female meditator a female corpse. In this insight section, when contemplating danger, there is no need to choose a male or female corpse. Either the same or a different sex is suitable. In serenity meditation one concentrates on an external corpse until the first jhāna. When the counterpart sign is reached, lust may intrude and disturb the practice, so one develops it with a corpse of the same sex.
+
+**VI**
+Quán sự nguy hại (ādīnavānupassanā). Trong phần minh sát này, hành giả quán để thấy khuyết điểm của năm uẩn nơi mình và người khác. Vì quán qua lại giữa nội phần và ngoại phần, và vì quán sự nguy hại là phương pháp quán để thấy khuyết điểm, hành giả có thể lấy bất cứ tử thi bất tịnh nào mà mình có thể nắm được tướng, dù cùng giới hay khác giới.
+
+**EN**
+Contemplation of danger (ādīnavānupassanā). In this insight section one contemplates to see the drawbacks of the five aggregates in oneself and others. Because one contemplates internally and externally in turn, and because contemplation of danger is a method for seeing drawbacks, one can take any foul corpse whose sign one can apprehend, whether of the same or a different sex.
+
+**VI**
+Trong Vijayasutta (Suttanipāta 307–308) có lời chỉ dạy bốn hội chúng, gồm tỳ-khưu, tỳ-khưu-ni, nam cư sĩ và nữ cư sĩ, tu bất tịnh dựa trên tử thi của Sirimā. Trong thiền chỉ, hành giả phải chuyên chú duy nhất vào tử thi bên ngoài, đặc biệt chỉ một tử thi, cho đến khi đạt thiền. Trong minh sát, hành giả quán qua lại nội và ngoại để thấy khuyết điểm và nguy hại. Đó là sự khác nhau giữa tu bất tịnh theo thiền chỉ và theo minh sát.
+
+**EN**
+The Vijayasutta (Suttanipāta 307–308) records an instruction to the four assemblies—bhikkhus, bhikkhunīs, laymen, and laywomen—to develop foulness based on Sirimā’s corpse. In serenity one focuses exclusively on an external corpse, specifically on a single corpse, until jhāna is reached. In insight one alternates between internal and external contemplation to see drawbacks and danger. This is the distinction between developing foulness in serenity and in insight.
+
+
+<a id="M09-body-P063"></a>
+## Cách quán / Method of Contemplation
+Miến / Burmese 63
+
+**VI**
+Khi có thể quán minh sát sắc pháp và danh pháp, tức năm uẩn, trong ba thời quá khứ, vị lai, hiện tại, và trong hai dòng tương tục nội và ngoại, luân phiên đặt chúng dưới ba đặc tướng, ánh sáng rực rỡ sẽ lóe chiếu do trí minh sát của thiện nhân đang tu minh sát. Hoặc nếu khi ngồi thiền, hành giả tái lập định tứ thiền mình đã đạt, ánh sáng rực rỡ cũng sẽ lóe chiếu do trí tương ưng với định tứ thiền đó. Bởi lẽ cơ hội quán bất tịnh ngoài thân, tức bất tịnh của tử thi, đã đến sau khi từng bước thiết lập định và từng bước tiến qua minh sát. Nếu ánh sáng của trí ấy hơi mờ và yếu, hãy tái lập định từng bước. Khi ánh sáng do trí đi cùng định ấy lại rực lên, lóe chiếu, có thể quán bất tịnh ngoài thân.
+
+**EN**
+When one can contemplate with insight the material and mental phenomena, namely the five aggregates, of the three periods—past, future, and present—and of the two continuities, internal and external, repeatedly applying the three characteristics in turn, brilliant light will flash forth through the insight knowledge of the good person developing insight. Or if, when sitting down to meditate, one reestablishes the fourth-jhāna concentration one has already attained, brilliant light will likewise flash forth through the knowledge associated with that concentration. The occasion for contemplating external foulness, the foulness of a corpse, has arisen after concentration has been developed step by step and insight has likewise been progressed through in stages. If the light of that knowledge is a little dim and weak, reestablish concentration step by step. When the light arising from the knowledge associated with it again flashes brilliantly, external foulness can be contemplated.
+
+**VI**
+Khi ánh sáng lóe chiếu rực rỡ nhờ trí thiền chỉ hoặc trí minh sát, dùng ánh sáng của trí ấy hướng đến một tử thi mình từng thấy và còn nhớ rõ. Như rọi đèn pin, hãy rọi ánh sáng của trí ấy vào tử thi rồi quán. Tính bất tịnh ghê tởm, nhớp nhúa sẽ hiện rõ trong trí. Nếu là tử thi trương phồng, rỉ mủ…
+
+**EN**
+When the light flashes brilliantly through serenity knowledge or insight knowledge, use that light of knowledge to take as object a corpse one has seen and remembers distinctly. Shine the light of knowledge on it as one would shine a flashlight and contemplate it. Its repulsive, filthy foulness will be apparent to knowledge. If it is a corpse that is bloated and oozing pus…
+
+
+<a id="M09-body-P064"></a>
+## Cách quán / Method of Contemplation
+Miến / Burmese 64
+
+**VI**
+…thì rất tốt. Hãy tác ý tính bất tịnh ghê tởm, nhớp nhúa ấy và quán tử thi: “Bất tịnh, bất tịnh.” Khi tướng bất tịnh hiện rõ trong trí và tâm tu tập an trú vững trên cảnh bất tịnh ấy, lại dùng trí hướng về thân mình và quán. Thấy bằng trí rằng chính thân mình cũng đang chết, trương phồng và bất tịnh như tử thi bên ngoài ấy. Khi thấy tướng tử thi của mình trương phồng, nhớp nhúa, hãy quán: “Bất tịnh, bất tịnh.”
+
+**EN**
+…so much the better. Attend to its repulsive, filthy foulness and contemplate the corpse: “Foul, foul.” When the appearance of foulness is clear to knowledge and the meditative mind is firmly settled on that object of foulness, direct knowledge back to your own body and contemplate it. See with knowledge that your own body too is dead, bloated, and foul like that external corpse. When you see your own corpse bloated and filthy, contemplate: “Foul, foul.”
+
+**VI**
+Nếu đã hướng trí quán mà tướng bất tịnh nơi mình vẫn không hiện, hãy trở lại quán bất tịnh bên ngoài, rồi quay về quán bên trong. Thực tập như thế nhiều lần, có thể thấy tướng bất tịnh bên trong. Nếu vẫn chưa thấy, hãy hướng trí từ hiện tại về tương lai và quán dần từng bước. Khi ấy sẽ dễ thấy tính bất tịnh của thân mình lúc chết. Cách quán này sẽ dễ đối với hành giả đã quán được tính liên hệ nhân quả giữa nhân hiện tại và quả tương lai, tức các pháp duyên khởi.
+
+**EN**
+If you direct knowledge to contemplate but the appearance of foulness in your own body still does not emerge, return to external foulness and then contemplate internally again. By practising in this way many times you can come to see the appearance of internal foulness. If it is still unseen, direct knowledge from the present towards the future and contemplate gradually, step by step. Then you will readily see the foulness of your own body when dead. This approach is easy for a meditator who has discerned the causal relationship between present causes and future effects, the phenomena of dependent origination.
+
+**VI**
+Khi thấy tính bất tịnh của thân mình bằng trí, tức bằng ánh sáng của trí, hãy quán nội rồi ngoại luân phiên: “Bất tịnh, bất tịnh.” Khi quán như thế, hãy dần mở rộng sang những người mà mình từng tham ái hoặc đang tham ái và quán qua lại nội và ngoại: “Bất tịnh.”
+
+**EN**
+When you see the foulness of your own body with knowledge, that is, with the light of knowledge, contemplate internally and externally in turn: “Foul, foul.” In doing so, gradually extend contemplation to people for whom you have felt or now feel lust, alternating between internal and external: “Foul.”
+
+
+<a id="M09-body-P065"></a>
+## Cách quán / Method of Contemplation
+Miến / Burmese 65
+
+**VI**
+Khi đã quán nhiều lần “Bất tịnh, bất tịnh” cả nội lẫn ngoại, do sức minh sát đã tu trước đây hoặc do đã thực hành nhiều trong lĩnh vực chân đế, hành giả có thể thấy các nhóm sắc trong những tử thi nội và ngoại. Hoặc các tử thi bất tịnh có thể dần tan rã và hiện trong trí dưới dạng đống xương hay đống bột xương. Nếu dần hướng trí đến tương lai của tử thi ấy thì trí có thể thấy đến lúc chỉ còn xương, đống xương hoặc bột xương. Ở bất cứ giai đoạn nào cũng quán “Bất tịnh, bất tịnh.” Nếu dễ dàng tìm thấy các hạt nhóm sắc, hãy nhận diện sắc pháp chân đế trong các nhóm sắc ấy, đặc biệt sắc do thời tiết sinh, rồi đặt chúng dưới các đặc tướng và quán minh sát.
+
+**EN**
+When “Foul, foul” has been contemplated internally and externally many times, through the power of previously developed insight or through extensive practice in the domain of ultimate reality, one may see the material groups in the internal and external corpses. Or the foul corpses may gradually disintegrate and appear to knowledge as heaps of bones or powdered bones. If one gradually directs knowledge towards the future of that corpse, the reach of knowledge may extend to bones, a heap of bones, or bone powder. At every stage contemplate “Foul, foul.” If the minute material groups can readily be found, discern the ultimate material phenomena in those groups, particularly temperature-produced materiality, then apply the characteristics and contemplate with insight.
+
+**VI**
+Nếu chưa dễ thấy các hạt nhóm sắc, hãy bắt đầu nhận diện bốn đại trong các tử thi bất tịnh nội và ngoại ấy. Khi đó sẽ bắt đầu thấy những nhóm sắc trong các tử thi ấy. Phân tích các hạt nhóm sắc ấy thành các giới thì có thể thấy những nhóm tám sắc do thời tiết sinh nối tiếp phát sinh do hỏa giới có trong từng nhóm sắc. Hãy nhận diện các sắc pháp ấy rồi tiếp tục quán minh sát. Chuyển từ tu bất tịnh sang minh sát theo cách này khi đã tu bất tịnh đến mức thuần thục thích hợp.
+
+**EN**
+If the minute material groups are not yet easily seen, begin to discern the four great elements in those foul internal and external corpses. The material groups in those corpses will then begin to appear. Analyzing the minute material groups into elements, one can see the temperature-produced octads of materiality that arise in succession from the fire element present in each group. Discern those material phenomena and continue insight contemplation. Make this transition from foulness meditation to insight when the practice of foulness has reached an appropriate degree of mastery.
+
+
+<a id="M09-body-P066"></a>
+## Một điểm đặc biệt và các chi duyên khởi / A Special Point and the Factors of Dependent Origination
+Miến / Burmese 66
+
+**VI**
+Nếu tử thi mà hành giả hướng trí lấy làm cảnh vẫn đang ở giai đoạn bị giòi ăn, khi một số hành giả dùng trí nhận diện bốn đại trong tử thi ấy, ngoài các nhóm tám sắc do thời tiết sinh, họ còn thấy các nhóm sắc trong và đục khác nhau, một số có sắc thần kinh (pasādarūpa). Đó là vì hành giả thấy xen lẫn cả các nhóm sắc của giòi sống bám trên tử thi. Các sắc thần kinh trong suốt và sắc pháp do bốn nguồn sinh mà hành giả thấy thuộc về những con giòi ấy.
+
+**EN**
+If the corpse taken as object is still at the stage where maggots are eating it, when some meditators discern the four great elements in that corpse with knowledge, they see, in addition to temperature-produced material octads, various transparent and opaque groups, some containing sensitive materiality (pasādarūpa). This is because they see, intermixed, the material groups of the living maggots infesting the corpse. The transparent sensitive materiality and the material phenomena originating from the four sources that they see belong to those maggots.
+
+**VI**
+Khi thấy các nhóm sắc trong các tử thi nội và ngoại, hãy phân tích các nhóm sắc ấy thành các giới, đặt sắc pháp chân đế dưới các đặc tướng và quán minh sát nhiều lần.
+
+**EN**
+When you see material groups in internal and external corpses, analyze those groups into their elements, apply the characteristics to the ultimate material phenomena, and repeatedly contemplate them with insight.
+
+**VI**
+Các chi duyên khởi. Dựa vào Paṭisambhidāmagga, Visuddhimagga, quyển hai, trang 244, trong phần trí thẩm sát (sammasanañāṇa), liệt kê các chi duyên khởi trong những đối tượng của trí minh sát thẩm sát các đặc tướng (lakkhaṇasammasana). Do đó hành giả cũng phải quán minh sát các chi duyên khởi.
+
+**EN**
+The factors of dependent origination. Drawing on the Paṭisambhidāmagga, the Visuddhimagga, volume two, page 244, lists the factors of dependent origination among the objects of insight knowledge that comprehends the characteristics (lakkhaṇasammasana), in its section on comprehension knowledge (sammasanañāṇa). Therefore the meditator should also contemplate the factors of dependent origination with insight.
+
+
+<a id="M09-body-P067"></a>
+## Các chi duyên khởi / The Factors of Dependent Origination
+Miến / Burmese 67
+
+**VI**
+Thiện nhân hãy nhớ lại cách đã nhận diện nhân và quả theo lời dạy duyên khởi thuận: “Avijjāpaccayā saṅkhārā — do vô minh làm duyên, các hành sinh khởi,” v.v. Rồi quán minh sát các chi ấy theo đúng cách đã nhận diện chúng.
+
+**EN**
+The good person should recall how causes and effects were discerned in accordance with the forward teaching of dependent origination: “Avijjāpaccayā saṅkhārā—with ignorance as condition, formations arise,” and so on. Then contemplate those factors with insight as they were discerned.
+
+**VI**
+Nếu lấy đời hiện tại làm trung tâm: (1) vô minh và các hành thuộc quá khứ; (2) thức, danh-sắc, sáu xứ, xúc, thọ, ái, thủ và hữu thuộc hiện tại; (3) sinh, già và chết thuộc vị lai.
+
+**EN**
+If the present life is taken as the center: (1) ignorance and formations are past; (2) consciousness, mentality-materiality, the six sense bases, contact, feeling, craving, clinging, and becoming are present; (3) birth, aging, and death are future.
+
+**VI**
+Nếu lấy đời quá khứ thứ nhất làm trung tâm: (1) vô minh và các hành thuộc đời quá khứ thứ hai; (2) thức, danh-sắc, sáu xứ, xúc, thọ, ái, thủ và hữu thuộc đời quá khứ thứ nhất; (3) sinh, già và chết thuộc hiện tại.
+
+**EN**
+If the first past life is taken as the center: (1) ignorance and formations are in the second past life; (2) consciousness, mentality-materiality, the six sense bases, contact, feeling, craving, clinging, and becoming are in the first past life; (3) birth, aging, and death are in the present life.
+
+**VI**
+Nếu lấy đời vị lai thứ nhất làm trung tâm: (1) vô minh và các hành thuộc hiện tại; (2) thức, danh-sắc, sáu xứ, xúc, thọ, ái, thủ và hữu thuộc đời vị lai thứ nhất; (3) sinh, già và chết thuộc đời vị lai thứ hai.
+
+**EN**
+If the first future life is taken as the center: (1) ignorance and formations are in the present life; (2) consciousness, mentality-materiality, the six sense bases, contact, feeling, craving, clinging, and becoming are in the first future life; (3) birth, aging, and death are in the second future life.
+
+**VI**
+Tương tự như thế, hãy hiểu lần lượt các đời quá khứ và vị lai. Mỗi lần liên hệ ba đời theo nhân quả, rồi quán lặp lại.
+
+**EN**
+Understand the successive past and future lives in the same way. Link three lives at a time by cause and effect, and contemplate repeatedly.
+
+
+<a id="M09-body-P068"></a>
+## Một số cách quán / Some Patterns of Contemplation
+Miến / Burmese 68
+
+**VI**
+1. Do vô minh sinh khởi, các hành sinh khởi. Vô minh (sinh–diệt) là vô thường. Các hành (sinh–diệt) là vô thường.
+
+**EN**
+1. With the arising of ignorance, formations arise. Ignorance (arising and passing away) is impermanent. Formations (arising and passing away) are impermanent.
+
+**VI**
+Hãy quán vô minh và các hành đã sinh, đang sinh và sẽ sinh trong dòng danh-sắc của mình theo cách đã nhận diện ở phương pháp duyên khởi thứ nhất. Ở đây, vô minh thường thuộc các lộ tâm qua ý môn nhóm tham đi cùng tà kiến. Các hành có thể là hành thiện hay hành bất thiện, cũng thuộc các lộ tâm qua ý môn. Đối với thiện nhân, nếu chỉ xét riêng đời hiện tại này, các hành được vun bồi trong đời quá khứ là hành thiện. Hãy quán chúng đúng như chúng đã sinh khởi trong đời ấy, theo sinh và diệt. Cũng quán tương tự theo đặc tướng khổ và vô ngã.
+
+**EN**
+Contemplate the ignorance and formations that have arisen, are arising, and will arise in your own continuity of mentality-materiality, as discerned under the first method of dependent origination. Here ignorance usually occurs in mind-door cognitive processes of the group rooted in greed with wrong view. Formations may be wholesome or unwholesome, likewise in mind-door cognitive processes. For the good person, if one considers this present life in particular, the formations cultivated in the previous life were wholesome formations. Contemplate them in terms of arising and passing away, just as they occurred in that life. Likewise contemplate the characteristics of suffering and non-self.
+
+**VI**
+2. Do các hành sinh khởi, thức tái tục sinh khởi. Các hành (sinh–diệt) là vô thường. Thức tái tục (sinh–diệt) là vô thường.
+
+**EN**
+2. With the arising of formations, rebirth-linking consciousness arises. Formations (arising and passing away) are impermanent. Rebirth-linking consciousness (arising and passing away) is impermanent.
+
+**VI**
+Tương tự, hãy quán hết các thức quả, gồm mọi tâm qua sáu môn như nhãn thức, v.v., cùng thức hữu phần và thức tử. Với các chi duyên khởi còn lại cũng quán đến sinh, già và chết theo cách đã nhận diện nhân và quả trong phương pháp duyên khởi thứ nhất. Quán minh sát cả nhân lẫn quả, luân phiên đặt từng loại dưới ba đặc tướng.
+
+**EN**
+Likewise contemplate all resultant consciousnesses, including all consciousness through the six doors such as eye-consciousness and so forth, as well as life-continuum consciousness and death consciousness. Contemplate the remaining factors of dependent origination up to birth, aging, and death, as causes and effects were discerned under the first method of dependent origination. Contemplate both cause and effect with insight, applying the three characteristics to each in turn.
+
+**VI**
+Theo cách trình bày của Kinh, chỉ các pháp quả trong thức, danh-sắc, sáu xứ, xúc và thọ được nhắm đến (Mahāṭī. 2.323). Tuy vậy, chỉ khi quán quan hệ nhân quả giữa nhân và quả…
+
+**EN**
+According to the discourse method, only resultant phenomena among consciousness, mentality-materiality, the six sense bases, contact, and feeling are intended (Mahāṭī. 2.323). However, it is only when contemplating the causal relationship between cause and effect…
+
+
+<a id="M09-body-P069"></a>
+## Bốn mươi cách quán theo đuôi -to / Forty Modes of Contemplation in -to
+Miến / Burmese 69
+
+**VI**
+…mới chỉ quán các pháp quả ấy. Khi quán minh sát, nếu theo cách tu đầy đủ mà quán chung cả hướng tâm ngũ môn, xác định, tốc hành, hướng tâm ý môn và tốc hành trong một lộ tâm, cũng không có lỗi, vì nhằm không bỏ sót các giới chân đế. Hãy quán từ các đời quá khứ nối tiếp cho đến tận vị lai, trong phạm vi có thể quán được. Luân phiên quán nội và ngoại. Khi quán ngoại, hãy quán chung, tránh phân biệt từng cá nhân hay chúng sinh.
+
+**EN**
+…that one contemplates those resultant phenomena alone. In insight contemplation, if, following a thorough method of development, one includes five-door adverting, determining, impulsion, mind-door adverting, and impulsion within the relevant cognitive process, there is no fault, since the purpose is to leave out none of the ultimate elements. Contemplate from successive past lives to the end of the future as far as you are able. Contemplate internally and externally in turn. Contemplate the external in general, without distinguishing particular individuals or beings.
+
+**VI**
+Trong phần thẩm sát đặc tướng này, Visuddhimagga (2.246) trình bày bốn mươi cách tu hay bốn mươi cách quán theo đuôi -to, dẫn Paṭisambhidāmagga (411). Để dễ ghi nhớ, Đại trưởng lão Mahāvisuddhārāma soạn kệ trong Paramatthasarūpabhedanī, phân riêng mười mục về đặc tướng vô thường, hai mươi lăm mục về đặc tướng khổ và năm mục về đặc tướng vô ngã. Dưới đây trình bày ba đặc tướng thành ba nhóm theo các bài kệ ấy.
+
+**EN**
+In this section on comprehension of the characteristics, the Visuddhimagga (2.246) presents forty ways of developing contemplation, or forty modes in -to, citing the Paṭisambhidāmagga (411). To make them easy to remember, the great elder Mahāvisuddhārāma composed verses in his Paramatthasarūpabhedanī, distinguishing ten items for the characteristic of impermanence, twenty-five for suffering, and five for non-self. The three characteristics are presented below in three groups following those verses.
+
+**VI**
+Đặc tướng vô thường: mười mục. Rūpaṃ aniccaṃ palokaṃ, calaṃ pabhaṅgu addhuvaṃ; vipariṇāmaṃ asārakaṃ, vibhavaṃ maccu saṅkhataṃ.
+
+**EN**
+The characteristic of impermanence: ten items. Rūpaṃ aniccaṃ palokaṃ, calaṃ pabhaṅgu addhuvaṃ; vipariṇāmaṃ asārakaṃ, vibhavaṃ maccu saṅkhataṃ.
+
+**VI**
+1. Aniccato — là vô thường. Anaccantikatāya ādiantavantatāya ca aniccato. (Visuddhi. 2.247.)
+
+**EN**
+1. Aniccato—as impermanent. Anaccantikatāya ādiantavantatāya ca aniccato. (Visuddhi. 2.247.)
+
+
+<a id="M09-body-P070"></a>
+## 1. Là vô thường / 1. As Impermanent
+Miến / Burmese 70
+
+**VI**
+Anaccantikatāyāti accantikatābhāvato, asassatattātipi attho. Sassatā hi accantikā, pariyāyakoṭiyā abhāvato. (Mahāṭī. 2.394.)
+
+**EN**
+Anaccantikatāyāti accantikatābhāvato, asassatattātipi attho. Sassatā hi accantikā, pariyāyakoṭiyā abhāvato. (Mahāṭī. 2.394.)
+
+**VI**
+[Danh và sắc có hai đầu mút: đầu trước là sinh, đầu sau là diệt. Chúng được gọi là sát-na sinh và sát-na diệt. Danh và sắc không thường hằng để có thể vượt qua đầu sau, tức sát-na diệt. Vì không vượt qua được đầu sau là sát-na diệt và vì có đầu trước là sát-na sinh và đầu sau là sát-na diệt, chúng là các pháp vô thường.
+
+**EN**
+[Mentality and materiality have two limits: the earlier limit of arising and the later limit of dissolution. These are called the arising moment and the dissolution moment. Mentality and materiality are not eternal so as to pass beyond the later limit, the dissolution moment. Because they cannot pass beyond that later limit, and because they have the earlier limit of arising and the later limit of dissolution, they are impermanent phenomena.
+
+**VI**
+Hãy quán thành năm nhóm theo năm uẩn: sắc, thọ, tưởng, hành và thức. Dùng trí minh sát thấy rõ đặc tính không kéo dài đã nói trên nơi sắc pháp (thọ pháp, tưởng pháp, hành pháp và thức pháp), rồi quán là vô thường.
+
+**EN**
+Contemplate in five groups according to the five aggregates: materiality, feeling, perception, formations, and consciousness. See clearly with insight knowledge the foregoing quality of not enduring in material phenomena (feeling, perception, formations, and consciousness), and contemplate them as impermanent.
+
+**VI**
+Nói ở đây rằng chúng không vượt khỏi sát-na sinh có nghĩa là sắc pháp và danh pháp chưa hề có trước khi đến sát-na sinh, cũng chẳng có trạng thái chờ sẵn để sinh. Sau thời diệt, chúng cũng không đi đâu để nằm chồng chất như những tử thi bị bỏ ở một nơi. Chỉ giữa hai sự “không có”, tức không có trước khi sinh và không có sau khi đã sinh, chúng mới xuất hiện trong chốc lát theo các sát-na sinh, trụ, diệt. Danh và sắc được gọi là vô thường vì chúng không tồn tại vượt ngoài sát-na sinh và sát-na diệt, và vì chúng có hai giới hạn ấy.] Vì vậy, hãy quán “aniccaṃ”: có tính chất không bền, là vô thường.
+
+**EN**
+Saying here that they do not go beyond the arising moment means that material and mental phenomena do not yet exist before the arising moment and are not waiting somewhere ready to arise. After the time of dissolution they do not go elsewhere to lie in heaps like discarded corpses. Only between the two absences—absence before arising and absence after having arisen—do they appear briefly in the phases of arising, presence, and dissolution. Mentality and materiality are termed impermanent because they do not endure outside the limits of arising and dissolution and because they have those limits.] Thus contemplate “aniccaṃ”: having the nature of not lasting, impermanent.
+
+
+<a id="M09-body-P071"></a>
+## 2–4. Là tan rã, dao động và dễ vỡ / 2–4. As Disintegrating, Unsteady, and Fragile
+Miến / Burmese 71
+
+**VI**
+2. Palokato — là tan rã. Byādhijarāmaraṇehi palujjanatāya palokato. (Visuddhi. 2.247.) Do bệnh, già và chết, chúng đổ vỡ, rạn nứt và hoại diệt, nên có tính chất tan rã hoàn toàn. Hãy quán “palokaṃ”: có tính chất tan rã.
+
+**EN**
+2. Palokato—as disintegrating. Byādhijarāmaraṇehi palujjanatāya palokato. (Visuddhi. 2.247.) Through sickness, aging, and death they break apart, split, and perish, and thus are liable to utter disintegration. Contemplate “palokaṃ”: of a nature to disintegrate.
+
+**VI**
+3. Calato — là dao động. Byādhijarāmaraṇehi ceva lābhālābhādīhi ca lokadhammehi pacalitatāya calato. (Visuddhi. 2.247.)
+
+**EN**
+3. Calato—as unsteady. Byādhijarāmaraṇehi ceva lābhālābhādīhi ca lokadhammehi pacalitatāya calato. (Visuddhi. 2.247.)
+
+**VI**
+Lokadhammā lābhādihetukā anunayapaṭighā. Tehi, byādhiādīhi ca anavaṭṭhitatā pacalitatā. (Mahāṭī. 2.396.)
+
+**EN**
+Lokadhammā lābhādihetukā anunayapaṭighā. Tehi, byādhiādīhi ca anavaṭṭhitatā pacalitatā. (Mahāṭī. 2.396.)
+
+**VI**
+Yêu và ghét có nguyên nhân là các pháp thế gian như được lợi và mất lợi. Do các pháp thế gian ấy, những xao động của tâm như yêu và ghét nổi lên. Do bệnh, già và chết, cũng như do được lợi, mất lợi và các pháp thế gian khác, danh-sắc không ổn định và dao động theo nhiều cách. Hãy quán “calaṃ”: không ổn định, lay động và dao động.
+
+**EN**
+Attraction and aversion have their causes in worldly conditions such as gain and loss. Owing to those worldly conditions, disturbances of mind such as attraction and aversion arise. Through sickness, aging, and death, and through gain, loss, and the other worldly conditions, mentality-materiality is unstable and liable to agitation in many ways. Contemplate “calaṃ”: unstable, shifting, and unsteady.
+
+**VI**
+4. Pabhaṅguto — là dễ vỡ. Upakkamena ceva sarasena ca pabhaṅgupagamanasīlatāya pabhaṅguto. (Visuddhi. 2.247.)
+
+**EN**
+4. Pabhaṅguto—as fragile. Upakkamena ceva sarasena ca pabhaṅgupagamanasīlatāya pabhaṅguto. (Visuddhi. 2.247.)
+
+
+<a id="M09-body-P072"></a>
+## 4–6. Là dễ vỡ, không bền và có tính biến đổi / 4–6. As Fragile, Unlasting, and Subject to Change
+Miến / Burmese 72
+
+**VI**
+Do tác động của chính mình, tác động của người khác hoặc do bản tính của chúng, các pháp thường đi đến vỡ vụn và hư hoại. Pabhaṅgu: có tính chất dễ vỡ vụn và hư hoại.
+
+**EN**
+Through one’s own intervention, the intervention of others, or their own inherent nature, phenomena are liable to break apart and perish. Pabhaṅgu: having the nature of readily breaking apart and perishing.
+
+**VI**
+5. Addhuvato — là không bền. Sabbāvatthānipātitāya, thirabhāvassa ca abhāvato addhuvato. (Visuddhi. 2.247.)
+
+**EN**
+5. Addhuvato—as unlasting. Sabbāvatthānipātitāya, thirabhāvassa ca abhāvato addhuvato. (Visuddhi. 2.247.)
+
+**VI**
+Như trái cây rụng bất chợt khi chưa đến lúc, các pháp có tính rơi rụng ở mọi giai đoạn của đời sống, như tuổi thơ non nớt và tuổi vui đùa. Ngay cả khi chưa rơi rụng, do mọi duyên tác động, chúng cũng thiếu sự bền chắc để có thể tồn tại lâu dài. Addhuvaṃ: không có tính bền chắc.
+
+**EN**
+Like fruit that drops suddenly before its time, phenomena are liable to fall away at all stages of life, such as tender childhood and the playful years. Even when they have not fallen away, owing to all the circumstances acting on them they lack the stability needed to last. Addhuvaṃ: devoid of stability.
+
+**VI**
+6. Vipariṇāmadhammato — là có tính biến đổi. Jarāya ceva maraṇena cāti dvedhā pariṇāmapakatitāya vipariṇāmadhammato. (Visuddhi. 2.247.)
+
+**EN**
+6. Vipariṇāmadhammato—as subject to change. Jarāya ceva maraṇena cāti dvedhā pariṇāmapakatitāya vipariṇāmadhammato. (Visuddhi. 2.247.)
+
+**VI**
+Chúng có tính biến đổi qua hai hiện tượng: già (jarā), tức thời trụ, và chết (maraṇa), tức thời diệt. Vipariṇāmaṃ: có tính biến đổi. Ý nói sự chuyển sang già, có tính trụ, và sang chết, có tính diệt, sau giai đoạn sinh.
+
+**EN**
+They have the nature of changing by two occurrences: aging (jarā), the phase of presence, and death (maraṇa), the phase of dissolution. Vipariṇāmaṃ: having the nature of change. This means the transition from arising to aging, which is of the nature of presence, and to death, which is of the nature of dissolution.
+
+
+<a id="M09-body-P073"></a>
+## 7–10. Là không có lõi, tiêu hoại, phải chết và hữu vi / 7–10. As Coreless, Perishing, Subject to Death, and Conditioned
+Miến / Burmese 73
+
+**VI**
+7. Asārakato — là không có lõi. Dubbalatāya, pheggu viya sukhabhañjanīyatāya ca asārakato. (Visuddhi. 2.247.) Vì yếu ớt và tự nhiên hư hoại, và vì dễ gãy như gỗ giác, asārakaṃ: không có lõi bền chắc.
+
+**EN**
+7. Asārakato—as coreless. Dubbalatāya, pheggu viya sukhabhañjanīyatāya ca asārakato. (Visuddhi. 2.247.) Because they are weak and perish of themselves, and because they are easily broken like sapwood, asārakaṃ: without a firm core.
+
+**VI**
+8. Vibhavato — là tiêu hoại. Vigatabhavatāya, vibhavasambhūtatāya ca vibhavato. (Visuddhi. 2.248.)
+
+**EN**
+8. Vibhavato—as perishing. Vigatabhavatāya, vibhavasambhūtatāya ca vibhavato. (Visuddhi. 2.248.)
+
+**VI**
+Đã sinh thì chúng phải hoại và chấm dứt, nên không có sự lớn thêm, tăng thêm hay sinh sôi. Chúng cũng xuất hiện do ái đối với phi hữu (vibhavataṇhā) và kiến chấp phi hữu (vibhavadiṭṭhi), vốn hướng đến tiêu hoại và mất đi, như có ái và kiến làm cha sinh ra. Vibhavaṃ: có tính tiêu mất.
+
+**EN**
+Once arisen, they perish and come to an end, without growth, increase, or proliferation. They also arise dependent on craving for non-existence (vibhavataṇhā) and the view of non-existence (vibhavadiṭṭhi), which incline to destruction and loss, as if having craving and view for their father. Vibhavaṃ: having the nature of being lost.
+
+**VI**
+9. Maraṇadhammato, tức maccu — là phải chết. Maraṇapakatitāya maraṇadhammato. (Visuddhi. 2.248.) Vì có tính chết, tức tính hoại diệt, maraṇadhammaṃ hay maccu: có tính chết, tức có tính hoại diệt.
+
+**EN**
+9. Maraṇadhammato, or maccu—as subject to death. Maraṇapakatitāya maraṇadhammato. (Visuddhi. 2.248.) Because they are liable to death, that is, to dissolution, maraṇadhammaṃ or maccu: having the nature of death, that is, dissolution.
+
+**VI**
+10. Saṅkhatato — là hữu vi. Hetupaccayehi abhisaṅkhatatāya saṅkhatato. (Visuddhi. 2.248.) Vì các nhân trực tiếp làm sinh khởi, tức các nhân sản sinh…
+
+**EN**
+10. Saṅkhatato—as conditioned. Hetupaccayehi abhisaṅkhatatāya saṅkhatato. (Visuddhi. 2.248.) Because the direct causes of arising, that is, the producing causes…
+
+
+<a id="M09-body-P074"></a>
+## 10. Là hữu vi / 10. As Conditioned
+Miến / Burmese 74
+
+**VI**
+…và các nhân tăng cường, hỗ trợ, tức các duyên, cùng nhau tạo tác, saṅkhataṃ có tính được các nhân tạo tác lặp đi lặp lại.
+
+**EN**
+…and the strengthening and supporting causes, that is, the conditions, fashion them together, saṅkhataṃ has the nature of being repeatedly fashioned by causes.
+
+**VI**
+Những nguyên nhân trực tiếp sinh sắc pháp ở đây là nghiệp, tức nhân sản sinh, nhân trực tiếp. Những nhân thuộc vòng phiền não, tức vô minh, ái và thủ, là những nhân hỗ trợ, tăng cường cho nghiệp quá khứ ấy. Các phiền não trong vòng này trợ nghiệp thiện bằng các năng lực duyên như cận y duyên. Chúng trợ nghiệp bất thiện bằng các năng lực duyên như cận y duyên, cũng như bằng các duyên như câu sinh duyên.
+
+**EN**
+The causes directly producing material phenomena here are kamma, the producing cause, the direct cause. The causes belonging to the round of defilements, namely ignorance, craving, and clinging, are causes that support and strengthen that past kamma. The defilements in this round assist wholesome kamma through conditional powers such as decisive support. They assist unwholesome kamma both through conditional powers such as decisive support and through conditions such as conascence.
+
+**VI**
+Tâm, thời tiết và vật thực cũng là những nhân hỗ trợ, tăng cường cho sắc pháp. Tâm, thời tiết và vật thực trực tiếp làm sinh một số sắc do tâm, thời tiết và vật thực sinh, và hỗ trợ một số sắc khác. Tuy vậy, cách chúng làm sinh sắc khác với cách năng lực nghiệp làm sinh sắc do nghiệp sinh. Tâm trợ sắc do tâm sinh bằng các năng lực như câu sinh. Thời tiết trợ sắc do thời tiết sinh bằng các năng lực như cận y. Vật thực trợ sắc do vật thực sinh bằng các năng lực như vật thực duyên. Vì vậy, hãy ghi nhận rằng các nhân ấy được gọi là nhân hỗ trợ vì chúng không phải năng lực nghiệp, vốn được gọi là nhân sản sinh.
+
+**EN**
+Consciousness, temperature, and nutriment are also causes that strengthen and support material phenomena. Consciousness, temperature, and nutriment directly produce some materiality originating respectively from consciousness, temperature, and nutriment, and support some other materiality. Their way of producing materiality, however, differs from the way the power of kamma produces kamma-born materiality. Consciousness assists consciousness-born materiality through powers such as conascence. Temperature assists temperature-born materiality through powers such as decisive support. Nutriment assists nutriment-born materiality through powers such as nutriment condition. Thus understand that these are called supporting causes because they are distinct from the power of kamma, which is called a producing cause.
+
+**VI**
+Nhân trực tiếp, nhân sản sinh của các danh pháp quả là nghiệp. Hãy hiểu các nhân thuộc vòng phiền não, tức vô minh, ái và thủ, theo cùng cách đã nói về sắc. Các nhân hiện tại của mọi danh pháp thiện, bất thiện và vô ký…
+
+**EN**
+The direct cause, the producing cause, of resultant mental phenomena is kamma. Understand the causes belonging to the round of defilements, namely ignorance, craving, and clinging, in the same way as explained for materiality. The present causes of all wholesome, unwholesome, and indeterminate mental phenomena…
+
+
+<a id="M09-body-P075"></a>
+## Đặc tướng khổ: hai mươi lăm mục / The Characteristic of Suffering: Twenty-Five Items
+Miến / Burmese 75
+
+**VI**
+…như vật, cảnh và xúc, cần được hiểu là những nhân hỗ trợ.
+
+**EN**
+…such as basis, object, and contact, should be understood as supporting causes.
+
+**VI**
+Dùng trí thấy rõ các tính chất trên nơi sắc pháp (thọ pháp, tưởng pháp, hành pháp và thức pháp) đang quán, rồi lần lượt quán là vô thường, là tan rã, v.v. Đến đây hết mười mục của đặc tướng vô thường.
+
+**EN**
+See the foregoing qualities clearly with knowledge in the material phenomena (feeling, perception, formations, and consciousness) one is contemplating, and contemplate them in turn as impermanent, as disintegrating, and so forth. This concludes the ten items of the characteristic of impermanence.
+
+**VI**
+Đặc tướng khổ: hai mươi lăm mục. Dukkhaṃ rogābādhaṃ gaṇḍaṃ, sallāghāto upaddavaṃ; bhayītupasaggā tāṇaṃ, aleṇāsaraṇaṃ vadhaṃ; aghamūlaṃ ādīnavaṃ, sāsavaṃ māraāmisaṃ; jātijaraṃ byādhisokaṃ, paridevupāyāsaṃ; saṅkilesasabhāvakaṃ.
+
+**EN**
+The characteristic of suffering: twenty-five items. Dukkhaṃ rogābādhaṃ gaṇḍaṃ, sallāghāto upaddavaṃ; bhayītupasaggā tāṇaṃ, aleṇāsaraṇaṃ vadhaṃ; aghamūlaṃ ādīnavaṃ, sāsavaṃ māraāmisaṃ; jātijaraṃ byādhisokaṃ, paridevupāyāsaṃ; saṅkilesasabhāvakaṃ.
+
+**VI**
+1. Dukkhato — là khổ. Uppādavayapaṭipīḷanatāya, dukkhavatthutāya ca dukkhato. (Visuddhi. 2.247.)
+
+**EN**
+1. Dukkhato—as suffering. Uppādavayapaṭipīḷanatāya, dukkhavatthutāya ca dukkhato. (Visuddhi. 2.247.)
+
+**VI**
+Uppādavayapaṭipīḷanatāyāti uppādena, vayena ca pati pati so so sattasantāno vibādhanasabhāvattā, tehi vā sayameva vibādhetabbattā. Udayabbayavanto hi dhammā abhiṇhaṃ tehi paṭipīḷitāva hontīti yā pīḷanā “saṅkhāradukkhatā”ti vuccati. Dukkhavatthutāyāti tividhassāpi dukkhassa, saṃsāradukkhassa ca adhiṭṭhānabhāvato. (Mahāṭī. 2.394–395.)
+
+**EN**
+Uppādavayapaṭipīḷanatāyāti uppādena, vayena ca pati pati so so sattasantāno vibādhanasabhāvattā, tehi vā sayameva vibādhetabbattā. Udayabbayavanto hi dhammā abhiṇhaṃ tehi paṭipīḷitāva hontīti yā pīḷanā “saṅkhāradukkhatā”ti vuccati. Dukkhavatthutāyāti tividhassāpi dukkhassa, saṃsāradukkhassa ca adhiṭṭhānabhāvato. (Mahāṭī. 2.394–395.)
+
+**VI**
+[Danh-sắc, đối với người có đủ danh-sắc ấy, do sự sinh khởi…
+
+**EN**
+[Mentality and materiality, in the person endowed with them, through arising…
+
+
+<a id="M09-body-P076"></a>
+## Khổ và ba loại khổ / Suffering and its three kinds
+Miến / Burmese 76
+
+**VI**
+do sự bức bách của sinh hoặc sự bức bách của diệt, vốn gây đau đớn và áp chế trong từng sát-na. Nói cách khác, do chính danh sắc của mình là đối tượng bị sự sinh diệt ấy bức bách, tức do danh sắc luôn chịu đau đớn và áp chế bởi sự sinh diệt:
+
+**EN**
+because of the pressure of arising or the pressure of ceasing, which afflicts and oppresses at each moment. In other words, because one's own mentality and materiality are subject to the pressure of arising and ceasing, that is, because mentality and materiality are constantly afflicted and oppressed by arising and ceasing:
+
+**VI**
+(a) Khổ khổ (dukkhadukkha), tức khổ thọ;
+
+**EN**
+(a) Suffering as pain (dukkhadukkha), namely painful feeling;
+
+**VI**
+(b) Hoại khổ (vipariṇāmadukkha), tức lạc thọ (lạc khi còn, khổ khi mất);
+
+**EN**
+(b) Suffering due to change (vipariṇāmadukkha), namely pleasant feeling (pleasant while it lasts, painful when it ceases);
+
+**VI**
+(c) Hành khổ (saṅkhāradukkha), tức xả thọ và danh sắc còn lại ngoài thọ.
+
+**EN**
+(c) Suffering due to formations (saṅkhāradukkha), namely neutral feeling and the remaining mentality and materiality apart from feeling.
+
+**VI**
+Cũng vì là chỗ nương, là nền tảng của cả ba loại khổ ấy, hay nói cách khác, của khổ nghèo túng trong vòng luân hồi, nên gọi là dukkha, cái khổ tệ hại và khốn cùng.
+
+**EN**
+It is also a basis, a foundation, for these three kinds of suffering taken together, or, in other words, for the misery in the round of saṃsāra. Thus it is called dukkha, wretched and miserable suffering.
+
+**VI**
+Hành khổ. Mọi pháp hữu vi hiện diện trong ba cõi đều có thể mang tên hành khổ. Tuy nhiên, khổ thọ và lạc thọ đã mang tên riêng là khổ khổ và hoại khổ. Vì vậy, ở đây, xả thọ và tất cả pháp hữu vi thuộc ba cõi còn lại ngoài thọ được gọi là hành khổ. Tất cả các pháp hữu vi danh sắc thuộc ba cõi ấy có tên hành khổ vì ở chúng hiện rõ sự khổ của cái bị tạo tác (saṅkhatadukkha), tức phải có cái tạo tác mới sinh khởi, và vì chúng luôn chịu đau đớn và áp chế bởi sự bức bách của sinh diệt. (Vism. 2, 270. Mahāṭī. 2, 392.)
+
+**EN**
+Suffering due to formations. All conditioned phenomena present in the three planes can be called suffering due to formations. However, painful and pleasant feelings already have the distinct names suffering as pain and suffering due to change. Hence here neutral feeling and all the conditioned phenomena of the three planes remaining apart from feeling are called suffering due to formations. All such conditioned mental and material phenomena of the three planes are called suffering due to formations because the suffering of being conditioned (saṅkhatadukkha) is evident in them, in that they have to be brought about in order to arise, and because they are constantly afflicted and oppressed by arising and ceasing. (Vism. 2, 270. Mahāṭī. 2, 392.)
+
+
+<a id="M09-body-P077"></a>
+## Quán là bệnh và là tai họa / Contemplating as disease and as calamity
+Miến / Burmese 77
+
+**VI**
+2. Rogato — là bệnh
+
+**EN**
+2. Rogato — as disease
+
+**VI**
+Paccayāyattavuttitāya, rogamūlatāya ca rogato. (Vism. 2, 247.)
+
+**EN**
+Paccayāyattavuttitāya, rogamūlatāya ca rogato. (Vism. 2, 247.)
+
+**VI**
+Vì danh sắc quả chỉ có thể trụ và hiện hữu khi được các nhân tương ứng hỗ trợ, nên chúng phải nương các nhân thích hợp tương ứng mà trụ. Nói cách khác, vì chúng phải nương các nhân thích hợp tương ứng mà trụ, và vì chúng giống như bệnh yāpya, nguồn gốc của các chứng đau nhức và bệnh kéo dài, nên chúng là roga, thứ bệnh gây đau đớn và khốn khổ.
+
+**EN**
+Resultant mentality and materiality can remain and be present only when assisted by the corresponding causes, so their continuance depends on the appropriate causes. In other words, because their continuance depends on the corresponding appropriate causes, and because they resemble a yāpya illness, the source of persistent aches and sicknesses, they are roga, a disease that causes pain and misery.
+
+**VI**
+[Vì danh sắc là nền tảng của mọi thứ bệnh thân và bệnh tâm nên nói chúng giống như bệnh yāpya.]
+
+**EN**
+[Since mentality and materiality are a basis for all kinds of physical and mental disease, they are said to resemble a yāpya illness.]
+
+**VI**
+3. Aghato — là tai họa
+
+**EN**
+3. Aghato — as calamity
+
+**VI**
+Vigarahitatāya, avaḍḍhiāvahanatāya, aghavatthutāya ca aghato. (Vism. 2, 247.)
+
+**EN**
+Vigarahitatāya, avaḍḍhiāvahanatāya, aghavatthutāya ca aghato. (Vism. 2, 247.)
+
+**VI**
+Vì bị Đức Phật và các bậc Thánh quở trách như các pháp bất thiện, vì gây tổn hại lớn đến lợi ích và sự phát triển của nhiều hữu tình, và vì là nền tảng cho các pháp bất thiện được gọi là agha, nên chúng là agha, thứ tai họa gây tổn hại và bất lợi.
+
+**EN**
+Because they are reproached by the Buddha and the noble ones as unwholesome phenomena are, because they bring great harm to the welfare and development of many beings, and because they are a basis for unwholesome phenomena called agha, they are agha, a calamity that brings harm and disadvantage.
+
+
+<a id="M09-body-P078"></a>
+## Quán là ung nhọt / Contemplating as a boil
+Miến / Burmese 78
+
+**VI**
+4. Gaṇḍato — là ung nhọt
+
+**EN**
+4. Gaṇḍato — as a boil
+
+**VI**
+Dukkhatāsūlayogitāya, kilesāsucipaggharaṇatāya, uppādajarābhaṅgehi uddhumātapakkapabhinnatāya ca gaṇḍato. (Vism. 2, 247.)
+
+**EN**
+Dukkhatāsūlayogitāya, kilesāsucipaggharaṇatāya, uppādajarābhaṅgehi uddhumātapakkapabhinnatāya ca gaṇḍato. (Vism. 2, 247.)
+
+**VI**
+Vì chúng đi cùng sự đau nhói như bị đâm, tức tính khổ có ba loại là khổ khổ, hoại khổ và hành khổ. Vì chúng làm cho chất bẩn là phiền não như tham, vốn bất tịnh và đáng ghê, dần dần rỉ ra, tùy trường hợp qua sức của cảnh hoặc sức tương ưng, tức cùng sinh khởi. Và vì do tính sinh mà cái trước đó chưa có nay đột nhiên xuất hiện, như sưng phồng, do tính già trong khi trụ mà chín muồi, như mưng mủ, và do tính tan rã lúc diệt mà vỡ nứt và hư hoại. Vì vậy chúng là gaṇḍa, ung nhọt sưng phồng và lở vỡ.
+
+**EN**
+They are accompanied by a stabbing pain, the suffering that is of three kinds, suffering as pain, suffering due to change, and suffering due to formations. They cause the filth of defilements such as lust, which is impure and repulsive, to ooze out little by little, through the power of the object or through the power of association, that is, arising together, as applicable. And through the nature of arising, what was absent before suddenly appears, like a swelling. Through the nature of aging while it persists, it ripens, like a boil coming to a head. Through the nature of dissolution at cessation, it breaks open and falls apart. Thus they are gaṇḍa, a boil that swells and ruptures.
+
+**VI**
+Kilesāsucipaggharaṇatāya. Câu «tùy trường hợp, do sức của cảnh hoặc sức tương ưng, tức cùng sinh khởi, làm chất bẩn là phiền não như tham, vốn bất tịnh và đáng ghê, dần dần rỉ ra» chỉ sự sinh khởi của tham v.v. về sau khi lấy tham v.v. đã sinh trước đó làm cảnh, và sự sinh khởi của phiền não như tham cùng với tâm và các tâm sở sinh khởi khi lấy một cảnh có thể làm tham hoặc phiền não sinh làm cảnh. Hãy hiểu rằng chất mủ rỉ ra từ danh sắc ở đây cũng giống như mủ rỉ ra từ một ung nhọt thông thường.
+
+**EN**
+Kilesāsucipaggharaṇatāya. The phrase “they cause the filth of defilements such as lust, which is impure and repulsive, to ooze out little by little, through the power of the object or through the power of association, that is, arising together, as applicable” refers to later lust and so on arising with earlier lust and so on as object, and to defilements such as lust arising together with consciousness and mental factors that arise taking an object capable of giving rise to lust or defilement. Understand that the pus oozing from mentality and materiality here is like the pus oozing from an ordinary boil.
+
+
+<a id="M09-body-P079"></a>
+## Quán là mũi tên và là chứng bệnh / Contemplating as a dart and as an affliction
+Miến / Burmese 79
+
+**VI**
+5. Sallato — là mũi tên
+
+**EN**
+5. Sallato — as a dart
+
+**VI**
+Pīḷājanakatāya, antotudanatāya, dunnīharaṇīyatāya ca sallato. (Vism. 2, 247.)
+
+**EN**
+Pīḷājanakatāya, antotudanatāya, dunnīharaṇīyatāya ca sallato. (Vism. 2, 247.)
+
+**VI**
+[(a) Vì chúng gây đau đớn và áp chế do sinh và diệt.
+
+**EN**
+[(a) Because they cause affliction and oppression by arising and ceasing.
+
+**VI**
+(b) Cũng như khổ thọ v.v. đâm xuyên vào bên trong thân, các pháp hữu vi này đâm xuyên bằng sinh và diệt khi chúng rơi vào ngôi nhà của các uẩn được coi là tự ngã.
+
+**EN**
+(b) Just as painful feeling and so forth pierce into the body, these formations pierce by arising and ceasing when they fall inside the house of the aggregates regarded as self.
+
+**VI**
+(c) Vì khó nhổ bỏ mũi tên là cái khổ của danh sắc hữu vi nếu thiếu chiếc nhíp là Thánh đạo.]
+
+**EN**
+(c) Because it is hard to extract the dart of suffering due to conditioned mentality and materiality without the tweezers of the noble path.]
+
+**VI**
+Salla là mũi tên đâm xuyên gây hại.
+
+**EN**
+Salla is a harmful, piercing dart.
+
+**VI**
+6. Ābādhato — là chứng bệnh
+
+**EN**
+6. Ābādhato — as an affliction
+
+**VI**
+Aseribhāvajanakatāya, ābādhapadaṭṭhānatāya ca ābādhato. (Vism. 2, 247.)
+
+**EN**
+Aseribhāvajanakatāya, ābādhapadaṭṭhānatāya ca ābādhato. (Vism. 2, 247.)
+
+**VI**
+[(1) Người bệnh nặng không thể tự mình thực hiện đủ bốn oai nghi. Người ấy có các hoạt động của thân nhờ nương vào người khác, khi được họ phục vụ, nâng đỡ hay trở mình v.v. Cũng vậy, các uẩn không thể tự sinh bằng sức mình mà phải nương vào các nhân, ví như những người khác ấy. Chúng gây nên tình trạng lệ thuộc như vậy. (2) Chúng cũng là nguyên nhân của mọi chứng bệnh gây áp chế hết sức nặng nề.]
+
+**EN**
+[(1) A seriously ill person cannot manage all four postures unaided. Bodily activity depends on others, who attend to, lift, or turn the patient, and so on. Likewise the aggregates cannot arise by their own power but depend on causes, like those other people. They bring about this state of dependence. (2) They are also the cause of all very oppressive illnesses.]
+
+
+<a id="M09-body-P080"></a>
+## Quán là tai ách và là mối nguy / Contemplating as adversity and as danger
+Miến / Burmese 80
+
+**VI**
+Ābādha là chứng bệnh áp đảo và bức bách.
+
+**EN**
+Ābādha is an overpowering, oppressive illness.
+
+**VI**
+7. Upaddavato — là tai ách
+
+**EN**
+7. Upaddavato — as adversity
+
+**VI**
+Aviditānaṃyeva vipulānaṃ anatthānaṃ āvahanato, sabbupaddavavatthutāya ca upaddavato. (Vism. 2, 247.)
+
+**EN**
+Aviditānaṃyeva vipulānaṃ anatthānaṃ āvahanato, sabbupaddavavatthutāya ca upaddavato. (Vism. 2, 247.)
+
+**VI**
+[(1) Vì chúng đem đến những tai hại lớn lao và nhiều thứ trái nghịch, như hiểm họa do vua chúa, tai họa do vua chúa, hiểm họa do trộm cướp, bệnh, chết và các cõi khổ, trong lúc người ta không biết đến các hiểm họa ấy và cũng không biết suy xét về chúng, như những đứa trẻ bé bỏng. (2) Vì chúng là nền tảng và chỗ nương của mọi thứ tai ách bám theo và bức bách.]
+
+**EN**
+[(1) Because they bring great harm and many adversities, such as dangers and calamities from rulers, dangers from thieves, illness, death, and states of deprivation, when people are unaware of these dangers and do not know how to reflect on them, like small children. (2) Because they are the basis and ground of all adversities that beset and oppress.]
+
+**VI**
+Upaddava là tai ách bám theo và bức bách dữ dội.
+
+**EN**
+Upaddava is adversity that besets and oppresses severely.
+
+**VI**
+8. Bhayato — là mối nguy
+
+**EN**
+8. Bhayato — as danger
+
+**VI**
+Sabbabhayānaṃ ākaratāya, dukkhūpasamasaṅkhātassa paramassāsassa paṭipakkhabhūtatāya ca bhayato. (Vism. 2, 247.)
+
+**EN**
+Sabbabhayānaṃ ākaratāya, dukkhūpasamasaṅkhātassa paramassāsassa paṭipakkhabhūtatāya ca bhayato. (Vism. 2, 247.)
+
+**VI**
+[(1) Vì các uẩn là chỗ sinh và nơi chứa mọi thứ hiểm họa, dù là hiểm họa xảy đến trong đời hiện tại trước mắt hay hiểm họa xảy đến ở đời sau. (2) Vì chúng đối nghịch với pháp Nibbāna cao quý, sự an ổn tột bậc, được gọi là sự lắng dịu mọi khổ đau.]
+
+**EN**
+[(1) Because the aggregates are the source and storehouse of all dangers, whether dangers encountered in this visible present life or dangers encountered in the life beyond. (2) Because they are opposed to the noble reality of Nibbāna, the supreme relief known as the subsiding of all suffering.]
+
+**VI**
+Bhaya là mối nguy lớn, nhiều bề trái nghịch với an lạc v.v., hay là hiểm họa đáng sợ, gây kinh hãi.
+
+**EN**
+Bhaya is a great danger, contrary in many ways to happiness and the like, or a terrifying and dreadful threat.
+
+
+<a id="M09-body-P081"></a>
+## Quán là hiểm họa, tai ương và không có sự che chở / Contemplating as menace, calamity, and without protection
+Miến / Burmese 81
+
+**VI**
+9. Ītito — là hiểm họa
+
+**EN**
+9. Ītito — as menace
+
+**VI**
+Anekabyasanāvahanatāya ītito. (Vism. 2, 247.)
+
+**EN**
+Anekabyasanāvahanatāya ītito. (Vism. 2, 247.)
+
+**VI**
+Vì các uẩn đem đến nhiều thứ hư hoại khác nhau nên gọi là īti, hiểm họa đáng kinh sợ.
+
+**EN**
+Because the aggregates bring many kinds of ruin, they are called īti, a terrifying menace.
+
+**VI**
+10. Upasaggato — là tai ương
+
+**EN**
+10. Upasaggato — as calamity
+
+**VI**
+Anekehi anatthehi anubaddhatāya, dosupasaṭṭhatāya, upasaggo viya anadhivāsanārahatāya ca upasaggato. (Vism. 2, 247.)
+
+**EN**
+Anekehi anatthehi anubaddhatāya, dosupasaṭṭhatāya, upasaggo viya anadhivāsanārahatāya ca upasaggato. (Vism. 2, 247.)
+
+**VI**
+[(1) Vì chúng liên tục bị nhiều loại bất lợi đeo bám, như quyến thuộc suy vong v.v. ở bên ngoài, và đau ốm, bệnh tật v.v. ở bên trong. (2) Vì những lỗi như tham bám vào chúng qua sức của cảnh hoặc sức tương ưng. (3) Vì chúng không thể chịu đựng được, như những tai hại, dịch bệnh v.v. do dạ-xoa, loài phi nhân và các vị trời ác đem đến, làm phát sinh.]
+
+**EN**
+[(1) Because they are continually beset by many kinds of harm, such as the ruin of relatives externally, and pain and disease internally. (2) Because faults such as lust adhere to them through the power of the object or the power of association. (3) Because they are intolerable, like the harm, epidemics, and so on brought or caused by ogres, nonhuman beings, and malevolent deities.]
+
+**VI**
+Upasagga là tai ương đeo bám và áp chế.
+
+**EN**
+Upasagga is a calamity that clings and oppresses.
+
+**VI**
+11. Atāṇato — không có sự che chở
+
+**EN**
+11. Atāṇato — as without protection
+
+**VI**
+Atāyanatāya ceva, alabbhaneyyakhematāya ca atāṇato. (Vism. 2, 247.)
+
+**EN**
+Atāyanatāya ceva, alabbhaneyyakhematāya ca atāṇato. (Vism. 2, 247.)
+
+
+<a id="M09-body-P082"></a>
+## Quán là không có nơi ẩn náu và không có chỗ quy y / Contemplating as without shelter and without refuge
+Miến / Burmese 82
+
+**VI**
+[(1) Các uẩn sau khi sinh chỉ có diệt, vì không thể che chở chúng khỏi diệt một khi đã sinh. (2) Dù có bám vào các uẩn với ước muốn được che chở, cũng không thể đạt được an ổn, tức không thể có được sự thoát khỏi hiểm nguy.]
+
+**EN**
+[(1) Once arisen, the aggregates must cease, because they cannot be protected from cessation after they arise. (2) Even if one clings to the aggregates wishing for protection, security cannot be obtained, that is, freedom from danger cannot be gained.]
+
+**VI**
+Atāṇa là mối nguy vì thiếu sự che chở.
+
+**EN**
+Atāṇa is danger through lack of protection.
+
+**VI**
+12. Aleṇato — không có nơi ẩn náu
+
+**EN**
+12. Aleṇato — as without shelter
+
+**VI**
+Allīyituṃ anarahatāya, allīnānampi ca leṇakiccākāritāya aleṇato. (Vism. 2, 247.)
+
+**EN**
+Allīyituṃ anarahatāya, allīnānampi ca leṇakiccākāritāya aleṇato. (Vism. 2, 247.)
+
+**VI**
+[(1) Vì không thích hợp bám vào các uẩn khi sợ khổ và mong nương tựa. (2) Vì với những người sợ khổ, mong nương tựa và bám vào thân uẩn, tức các uẩn, chúng không làm phận sự của nơi ẩn náu, là làm cho khổ biến mất.]
+
+**EN**
+[(1) Because the aggregates are unfit to be clung to when one fears suffering and wishes to take shelter. (2) Because for those who fear suffering, wish to take shelter, and cling to the body of aggregates, that is, the aggregates, they do not perform the function of a hiding place, which is to make suffering disappear.]
+
+**VI**
+Aleṇa là mối nguy vì thiếu nơi ẩn náu.
+
+**EN**
+Aleṇa is danger through lack of shelter.
+
+**VI**
+13. Asaraṇato — không có chỗ quy y
+
+**EN**
+13. Asaraṇato — as without refuge
+
+**VI**
+Nissitānaṃ bhayasārakattābhāvena asaraṇato. (Vism. 2, 247.)
+
+**EN**
+Nissitānaṃ bhayasārakattābhāvena asaraṇato. (Vism. 2, 247.)
+
+**VI**
+Vì các uẩn không có tính xua tan, loại bỏ hiểm nguy và đau khổ như sinh, già, bệnh, chết cho những người sợ các hiểm nguy và đau khổ như sinh, già, bệnh, chết mà nương tựa vào chúng:
+
+**EN**
+Because the aggregates do not have the nature of dispelling and removing dangers and sufferings such as birth, aging, sickness, and death for those who turn to them in fear of dangers and sufferings such as birth, aging, sickness, and death:
+
+
+<a id="M09-body-P083"></a>
+## Quán là kẻ sát nhân và là gốc tai họa / Contemplating as a murderer and as the root of calamity
+Miến / Burmese 83
+
+**VI**
+Asaraṇa là mối nguy vì thiếu chỗ quy y.
+
+**EN**
+Asaraṇa is danger through lack of refuge.
+
+**VI**
+14. Vadhakato — là kẻ sát nhân
+
+**EN**
+14. Vadhakato — as a murderer
+
+**VI**
+Mittamukhapaccattho viya vissāsaghātitāya vadhakato. (Vism. 2, 248.)
+
+**EN**
+Mittamukhapaccattho viya vissāsaghātitāya vadhakato. (Vism. 2, 248.)
+
+**VI**
+Vì chúng thường giết người đã đặt lòng tin nơi chúng, như một kẻ thù mang vẻ mặt tươi cười của người bạn. Vadha hay vadhaka là kẻ sát nhân, giết hữu tình được gọi theo chế định quy ước là người, trời hay Phạm thiên, bằng cách làm cho dòng tương tục có ba sát-na mỗi lần sinh bị đứt trong một thời gian ngắn, trong chốc lát.
+
+**EN**
+Because they kill those who place their trust in them, like an enemy with the smiling face of a friend. Vadha or vadhaka is a murderer, who kills a being conventionally called a human, deva, or Brahmā by cutting off the continuity, with its three instants in each occurrence, in a short time, in a moment.
+
+**VI**
+Các pháp sắc, thọ, tưởng, hành và thức này là nhân của khổ, thay vì là nhân của an lạc. Vì thường giết người có lòng tin bị chúng gây nên như vậy, các uẩn là vissāsaghātī, những kẻ sát nhân giết người đã tin cậy. Thật vậy, do sức của sự chấp thủ đối với các uẩn, «etaṃ mama», «đây là của tôi», hữu tình đi đến chỗ hủy hoại. Bởi các uẩn gọi là khổ đế sinh do tham ái gọi là tập đế. Nói cách khác, vì các uẩn có tính giết người đã tin cậy, chúng giết người ấy. Do đó gọi là vissāsaghātī. (Mahāṭī. 2, 393.)
+
+**EN**
+These phenomena of materiality, feeling, perception, formations, and consciousness are a cause of suffering instead of a cause of well-being. Since they kill the person whose trust they thus engender, the aggregates are vissāsaghātī, murderers who kill those who have trusted them. Indeed, through the power of clinging to the aggregates as “etaṃ mama,” “this is mine,” beings come to ruin. This is because the aggregates, called the truth of suffering, arise through craving, called the truth of origin. In other words, the aggregates kill the person who has trusted them because it is their nature to kill those who trust. Thus they are called vissāsaghātī. (Mahāṭī. 2, 393.)
+
+**VI**
+15. Aghamūlato — là gốc tai họa
+
+**EN**
+15. Aghamūlato — as the root of calamity
+
+**VI**
+Aghahetutāya aghamūlato. (Vism. 2, 248.)
+
+**EN**
+Aghahetutāya aghamūlato. (Vism. 2, 248.)
+
+**VI**
+Aghassa pāpassa hetuttā aghahetuto. (Mahāṭī. 2, 393.)
+
+**EN**
+Aghassa pāpassa hetuttā aghahetuto. (Mahāṭī. 2, 393.)
+
+
+<a id="M09-body-P084"></a>
+## Quán là mối bất lợi / Contemplating as a drawback
+Miến / Burmese 84
+
+**VI**
+Vì là nguồn gốc của điều ác bất thiện thô bạo, chúng là aghamūla, nguồn gốc của sự tổn hại và khốn khổ.
+
+**EN**
+Because they are the source of coarse, unwholesome evil, they are aghamūla, the root of harm and misery.
+
+**VI**
+16. Ādīnavato — là mối bất lợi
+
+**EN**
+16. Ādīnavato — as a drawback
+
+**VI**
+Pavattidukkhatāya, dukkhassa ca ādīnavatāya ādīnavato. Atha vā ādīnaṃ vāti gacchati pavattatīti ādīnavo. Kapaṇamanussassetaṃ adhivacanaṃ. Khandhāpi ca kapaṇāyevāti ādīnavasadisatāya ādīnavato. (Vism. 2, 248.)
+
+**EN**
+Pavattidukkhatāya, dukkhassa ca ādīnavatāya ādīnavato. Atha vā ādīnaṃ vāti gacchati pavattatīti ādīnavo. Kapaṇamanussassetaṃ adhivacanaṃ. Khandhāpi ca kapaṇāyevāti ādīnavasadisatāya ādīnavato. (Vism. 2, 248.)
+
+**VI**
+Pavattidukkhatāyāti bhavapavattidukkhabhāvato. Bhavapavatti ca pañcannaṃ khandhānaṃ aniccādiākārena pavattanameva. So ca ādīnavo. Yathāha “Yaṃ bhikkhave pañcupādānakkhandhā aniccā dukkhā vipariṇāmadhammā, ayaṃ bhikkhave pañcasu upādānakkhandhesu ādīnavo”ti. Tenāha “Dukkhassa ca ādīnavatāyā”ti. Ādīnoti bhāvappadhāno niddeso yathā “Kemajjhā”ti. Ativiya kapaṇoti attho. Bhummatthe hi ayaṃ ā-kāro. (Mahāṭī. 2, 396.)
+
+**EN**
+Pavattidukkhatāyāti bhavapavattidukkhabhāvato. Bhavapavatti ca pañcannaṃ khandhānaṃ aniccādiākārena pavattanameva. So ca ādīnavo. Yathāha “Yaṃ bhikkhave pañcupādānakkhandhā aniccā dukkhā vipariṇāmadhammā, ayaṃ bhikkhave pañcasu upādānakkhandhesu ādīnavo”ti. Tenāha “Dukkhassa ca ādīnavatāyā”ti. Ādīnoti bhāvappadhāno niddeso yathā “Kemajjhā”ti. Ativiya kapaṇoti attho. Bhummatthe hi ayaṃ ā-kāro. (Mahāṭī. 2, 396.)
+
+**VI**
+[(1) Sự diễn tiến của năm uẩn theo các phương diện vô thường v.v. gọi là bhavapavatti, sự diễn tiến của đời sống. Chính sự diễn tiến theo các phương diện vô thường v.v. ấy cũng gọi là ādīnava, mối bất lợi của các uẩn. Đức Phật đã dạy như vậy: «Này các Tỳ-khưu … năm thủ uẩn là vô thường, khổ, có tính biến đổi. Này các Tỳ-khưu … chính tính vô thường, khổ, biến đổi ấy là mối bất lợi của năm thủ uẩn». Do vậy, vì có khổ trong sự diễn tiến của đời sống, tức sự diễn tiến của năm uẩn theo các phương diện vô thường v.v.,
+
+**EN**
+[(1) The continuation of the five aggregates in the modes of impermanence and so forth is called bhavapavatti, the continuation of existence. That very continuation in the modes of impermanence and so forth is also called ādīnava, the drawback of the aggregates. For the Buddha taught thus: “Bhikkhus … the five aggregates subject to clinging are impermanent, suffering, and subject to change. Bhikkhus … that very impermanence, suffering, and liability to change is the drawback in the five aggregates subject to clinging.” Thus, because of suffering in the continuation of existence, that is, the continuation of the five aggregates in the modes of impermanence and so forth,
+
+
+<a id="M09-body-P085"></a>
+## Quán là hữu lậu và là mồi của Māra / Contemplating as subject to the taints and as Māra's bait
+Miến / Burmese 85
+
+**VI**
+và (2) vì khổ đế là năm uẩn có mối bất lợi là vô thường, khổ, có tính biến đổi, nên gọi là ādīnava, tức mối tai hại và bất lợi.]
+
+**EN**
+and (2) because the truth of suffering, the five aggregates, has the drawback of being impermanent, suffering, and subject to change, they are called ādīnava, a danger and drawback.]
+
+**VI**
+[Theo một cách giải thích khác, người nghèo túng tột bậc gọi là ādīnava vì quá nghèo túng nên phải sống cơ cực. Năm uẩn cũng giống như người nghèo túng tột bậc không có chỗ cậy nhờ, gọi là ādīnava.] Ādīnava là người nghèo túng tột bậc, không có chỗ cậy nhờ. (Có nghĩa là các uẩn đã sinh không có chỗ cậy nhờ để khỏi diệt khi đến sát-na diệt.)
+
+**EN**
+[By another explanation, a person in extreme poverty is called ādīnava because their extreme destitution makes for a life of hardship. The five aggregates likewise resemble a destitute person with nowhere to turn, called ādīnava.] Ādīnava is a destitute person with nowhere to turn. (This means that once arisen, the aggregates have nothing to rely on to prevent their cessation when the moment of cessation arrives.)
+
+**VI**
+17. Sāsavato — là hữu lậu
+
+**EN**
+17. Sāsavato — as subject to the taints
+
+**VI**
+Āsavapadaṭṭhānatāya sāsavato. (Vism. 2, 248.)
+
+**EN**
+Āsavapadaṭṭhānatāya sāsavato. (Vism. 2, 248.)
+
+**VI**
+Āsavānaṃ ārammaṇādinā paccayabhāvato āsavapadaṭṭhānatā. (Mahāṭī. 2, 393.)
+
+**EN**
+Āsavānaṃ ārammaṇādinā paccayabhāvato āsavapadaṭṭhānatā. (Mahāṭī. 2, 393.)
+
+**VI**
+Các phiền não làm nhân gốc của danh sắc, gọi là vô minh, ái và thủ, chính là các pháp lậu hoặc. Vì các pháp danh sắc thuộc năm uẩn hỗ trợ bằng các năng lực duyên, như cảnh duyên, nên các lậu hoặc ấy sinh khởi. Như vậy, vì các pháp danh sắc thuộc năm uẩn là nhân gần nhất của các lậu hoặc, chúng là sāsava, nơi sinh sôi của bốn lậu hoặc.
+
+**EN**
+The defilements that are the root causes of mentality and materiality, called ignorance, craving, and clinging, are the taints themselves. Since the mental and material phenomena of the five aggregates assist by the power of conditions, such as the object condition, those taints arise. Thus, because the mental and material phenomena of the five aggregates are the proximate cause of the taints, they are sāsava, the breeding ground for the four taints.
+
+**VI**
+18. Mārāmisato — là mồi của Māra
+
+**EN**
+18. Mārāmisato — as Māra’s bait
+
+**VI**
+Maccumārakilesamārānaṃ āmisabhūtatāya mārāmisato. (Vism. 2, 248.)
+
+**EN**
+Maccumārakilesamārānaṃ āmisabhūtatāya mārāmisato. (Vism. 2, 248.)
+
+
+<a id="M09-body-P086"></a>
+## Năm loại Māra / The five kinds of Māra
+Miến / Burmese 86
+
+**VI**
+Maccumārassa adhiṭṭhānabhāvena, kilesamārassa paccayabhāvena saṃvattanato āmisabhūtato. Khandhāpi khandhānaṃ āmisabhūtā paccayabhāvena saṃvattanato. Tathevetaṃ abhisaṅkhāre. Devaputtamārassa pana “mametan”ti abhimānavasena āmisabhāveti khandhādimārānaṃ kathaṃ yathārahaṃ āmisabhūtatā vattabbā. (Mahāṭī. 2, 393.)
+
+**EN**
+Maccumārassa adhiṭṭhānabhāvena, kilesamārassa paccayabhāvena saṃvattanato āmisabhūtato. Khandhāpi khandhānaṃ āmisabhūtā paccayabhāvena saṃvattanato. Tathevetaṃ abhisaṅkhāre. Devaputtamārassa pana “mametan”ti abhimānavasena āmisabhāveti khandhādimārānaṃ kathaṃ yathārahaṃ āmisabhūtatā vattabbā. (Mahāṭī. 2, 393.)
+
+**VI**
+[Có năm loại Māra, tức thiên tử Māra, phiền não Māra, uẩn Māra, tử Māra và hành Māra. Trong đó, Chú giải trực tiếp giải thích hai loại là phiền não Māra và tử Māra. Vị soạn Phụ chú giải lớn giải thích rõ vì sao có thể áp dụng thích hợp cho cả năm loại Māra.
+
+**EN**
+[There are five kinds of Māra, namely Māra as a deity, Māra as defilement, Māra as the aggregates, Māra as death, and Māra as kamma-formations. Of these, the commentary explains two directly, Māra as defilement and Māra as death. The author of the Great Subcommentary clearly explains how this applies, as appropriate, to all five kinds of Māra.
+
+**VI**
+Các uẩn cũng là chỗ nương của tử Māra, tức sự chết. (Nếu không có uẩn thì không thể chết.) Các uẩn cũng là nhân để các phiền não Māra, gọi là vô minh, ái và thủ, bám vào mà sinh, và là nhân cho chúng tăng trưởng. Chính các uẩn làm duyên cho các uẩn, khiến các uẩn tăng trưởng, nên chính các uẩn cũng là thức ăn, mồi nhử (āmisa) của các uẩn. Do đó, chính các uẩn cũng là nhân để các uẩn bám vào mà sinh, và là nhân cho chúng tăng trưởng. Hành Māra, tức hành thiện và hành bất thiện có thể tạo tác một đời sống mới, cũng nằm ngay trong các uẩn ấy. Do các hành ấy, các uẩn sinh khởi. Do bám vào các uẩn, các hành ấy cũng sinh khởi. Những pháp gọi là hành ở đây cũng chỉ là các danh uẩn mang tên hành thiện và hành bất thiện. Còn thiên tử Māra thì hãy hiểu tính chất làm mồi qua sức của ý nghĩ kiêu mạn «etaṃ mama, mametaṃ», «tất cả những pháp này là của tôi». Do đó, đối với uẩn Māra v.v. cũng vậy, chính các uẩn này
+
+**EN**
+The aggregates are also the basis for Māra as death, namely dying. (In the absence of aggregates there can be no death.) They are also a cause for the defilements called ignorance, craving, and clinging, which are Māra as defilement, to arise by attaching to them, and a cause for their increase. The aggregates themselves condition the aggregates and make them increase, so the aggregates themselves are also the food, the bait (āmisa), for the aggregates. The aggregates themselves are thus a cause for the aggregates to arise through attachment and to increase. Māra as kamma-formations, namely the wholesome and unwholesome formations that can bring about a new existence, is included in those very aggregates. Due to these formations the aggregates arise. Due to attachment to the aggregates those formations too arise. What are called kamma-formations here are just the mental aggregates termed wholesome and unwholesome formations. As for Māra as a deity, understand the status of bait through the force of the conceited thought “etaṃ mama, mametaṃ,” “all these phenomena are mine.” Thus, for Māra as the aggregates and so on, these very aggregates likewise
+
+
+<a id="M09-body-P087"></a>
+## Mồi của Māra, sinh, già, bệnh, sầu, bi và não / Māra’s bait, birth, aging, illness, sorrow, lamentation, and despair
+Miến / Burmese 87
+
+**VI**
+cũng đáng gọi là mồi, tùy theo trường hợp thích hợp. Do đó, vì năm uẩn là chỗ ăn, chỗ nuốt, là phạm vi hoạt động của năm loại Māra là thiên tử Māra, phiền não Māra, uẩn Māra, tử Māra và hành Māra, nên gọi là mārāmisa, thức ăn và mồi của phiền não Māra và tử Māra, hay thức ăn, mồi và phạm vi hoạt động của cả năm loại Māra.]
+
+**EN**
+deserve to be called bait, as appropriate. Thus, because the five aggregates are the food, prey, and domain of the five Māras, Māra as a deity, Māra as defilement, Māra as the aggregates, Māra as death, and Māra as kamma-formations, they are called mārāmisa, food and bait for Māra as defilement and Māra as death, or food, bait, and domain of all five Māras.]
+
+**VI**
+19. Jātidhammato — có tính sinh
+
+**EN**
+19. Jātidhammato — as subject to birth
+
+**VI**
+20. Jarādhammato — có tính già
+
+**EN**
+20. Jarādhammato — as subject to aging
+
+**VI**
+21. Byādhidhammato — có tính bệnh
+
+**EN**
+21. Byādhidhammato — as subject to illness
+
+**VI**
+Jāti-jarā-byādhi-maraṇapakatitāya jāti-jarā-byādhi-maraṇadhammato. (Vism. 2, 248.)
+
+**EN**
+Jāti-jarā-byādhi-maraṇapakatitāya jāti-jarā-byādhi-maraṇadhammato. (Vism. 2, 248.)
+
+**VI**
+[Vì chúng có tính sinh, tức xuất hiện, tính già, tức biến đổi trong khi trụ, tính bệnh, và tính chết, tức tan rã.]
+
+**EN**
+[Because they have the nature of birth, namely arising, the nature of aging, namely alteration while persisting, the nature of illness, and the nature of death, namely dissolution.]
+
+**VI**
+19. Jāti là tính sinh khởi mỗi khi có sinh khởi.
+
+**EN**
+19. Jāti means having the nature of arising whenever there is arising.
+
+**VI**
+20. Jarā là tính hao mòn và suy giảm.
+
+**EN**
+20. Jarā means having the nature of wearing away and decline.
+
+**VI**
+21. Byādhi là tính đau ốm.
+
+**EN**
+21. Byādhi means having the nature of illness.
+
+**VI**
+(Maraṇadhammato, có tính chết, đã nằm trong mười phương diện của đặc tướng vô thường.)
+
+**EN**
+(Maraṇadhammato, being subject to death, is already included in the ten aspects of the characteristic of impermanence.)
+
+**VI**
+22. Sokadhammato — có tính sầu
+
+**EN**
+22. Sokadhammato — as subject to sorrow
+
+**VI**
+23. Paridevadhammato — có tính bi
+
+**EN**
+23. Paridevadhammato — as subject to lamentation
+
+**VI**
+24. Upāyāsadhammato — có tính não
+
+**EN**
+24. Upāyāsadhammato — as subject to despair
+
+**VI**
+Soka-parideva-upāyāsahetutāya soka-parideva-upāyāsadhammato. (Vism. 2, 248.)
+
+**EN**
+Soka-parideva-upāyāsahetutāya soka-parideva-upāyāsadhammato. (Vism. 2, 248.)
+
+
+<a id="M09-body-P088"></a>
+## Sầu, bi, não và tính nhiễm ô / Sorrow, lamentation, despair, and liability to defilement
+Miến / Burmese 88
+
+**VI**
+Vì các uẩn là nhân cho sầu, bi và não sinh khởi:
+
+**EN**
+Because the aggregates are causes for sorrow, lamentation, and despair to arise:
+
+**VI**
+22. Soka là tính lo buồn, sầu khổ.
+
+**EN**
+22. Soka means having the nature of worry and sorrow.
+
+**VI**
+23. Parideva là tính than van, khóc lóc.
+
+**EN**
+23. Parideva means having the nature of lamenting and weeping.
+
+**VI**
+24. Upāyāsa là tính sầu khổ dữ dội, đến mức thở dài.
+
+**EN**
+24. Upāyāsa means having the nature of intense distress, to the point of sighing.
+
+**VI**
+25. Saṅkilesikadhammato — có tính nhiễm ô
+
+**EN**
+25. Saṅkilesikadhammato — as liable to defilement
+
+**VI**
+Taṇhādiṭṭhiduccaritasaṅkilesānaṃ visayadhammatāya saṅkilesikadhammato. (Vism. 2, 248.)
+
+**EN**
+Taṇhādiṭṭhiduccaritasaṅkilesānaṃ visayadhammatāya saṅkilesikadhammato. (Vism. 2, 248.)
+
+**VI**
+Saṅkilesattayappahānena tadekadesānaṃ vasena kilesavatthūnaṃ saṅgaho daṭṭhabbo. Tādisakā hi dhammā tadanatiṭṭhānato saṅkilesikā ce. Tattha duṭṭhi, taṇhā, eḷādisu (duṭṭhitaṇhāeḷādisu — Sī.) sarīrassa, saṅkilesassa ca saṅgaho daṭṭhabbo. (Mahāṭī. 2, 393.)
+
+**EN**
+Saṅkilesattayappahānena tadekadesānaṃ vasena kilesavatthūnaṃ saṅgaho daṭṭhabbo. Tādisakā hi dhammā tadanatiṭṭhānato saṅkilesikā ce. Tattha duṭṭhi, taṇhā, eḷādisu (duṭṭhitaṇhāeḷādisu — Sī.) sarīrassa, saṅkilesassa ca saṅgaho daṭṭhabbo. (Mahāṭī. 2, 393.)
+
+**VI**
+Vì các uẩn là phạm vi của ba pháp nhiễm ô, gọi là nhiễm ô do ái, nhiễm ô do kiến và nhiễm ô do ác hạnh, là những phiền não làm ô nhiễm dòng tâm hay hữu tình mà chúng bám vào, nên gọi là saṅkilesikadhamma, có tính nhiễm ô: có tính làm tăng trưởng ba sự ô nhiễm là ái, kiến, ác hạnh, hay sự ô nhiễm là mười phiền não.
+
+**EN**
+Because the aggregates are the domain of the three defiling phenomena, called defilement by craving, by views, and by misconduct, defilements that pollute the mental continuity or the being to which they adhere, they are called saṅkilesikadhamma, liable to defilement. They have the nature of fostering the three defilements, craving, views, and misconduct, or defilement in the form of the ten defilements.
+
+**VI**
+Hãy nghiên cứu các tính chất này đến mức thỏa đáng. Sau đó hãy chia danh sắc thành năm theo phương pháp năm uẩn. Đối với từng uẩn, dùng tuệ thấy rõ ý nghĩa tương ứng và quán «khổ, khổ», «bệnh, bệnh», v.v.
+
+**EN**
+Study these qualities to a satisfactory degree. Then divide mentality and materiality into five according to the five-aggregate method. For each aggregate, see the corresponding meaning clearly with knowledge and contemplate “suffering, suffering,” “disease, disease,” and so forth.
+
+
+<a id="M09-body-P089"></a>
+## Năm phương diện của đặc tướng vô ngã / Five aspects of the characteristic of non-self
+Miến / Burmese 89
+
+**VI**
+Anattā ca paro ritto, tuccho suññoti tādisā; vedanādayo khandhāpi, tatheva pañcakāpi vā.
+
+**EN**
+Anattā ca paro ritto, tuccho suññoti tādisā; vedanādayo khandhāpi, tatheva pañcakāpi vā.
+
+**VI**
+Suññato và anattato — là rỗng không và là vô ngã
+
+**EN**
+Suññato and anattato — as empty and as non-self
+
+**VI**
+Sāmi-nivāsī-kāraka-vedaka-adhiṭṭhāyakavirahitatāya suññato. Sayañca assāmikādibhāvatāya anattato. (Vism. 2, 247.)
+
+**EN**
+Sāmi-nivāsī-kāraka-vedaka-adhiṭṭhāyakavirahitatāya suññato. Sayañca assāmikādibhāvatāya anattato. (Vism. 2, 247.)
+
+**VI**
+1. Anattato — là vô ngã
+
+**EN**
+1. Anattato — as non-self
+
+**VI**
+[(1) Ngã là chủ nhân, sở hữu ngôi nhà các uẩn.
+
+**EN**
+[(1) The self as owner, possessing the house of the aggregates.
+
+**VI**
+(2) Ngã là người cư trú, dù ngôi nhà các uẩn đổi mới thì tự nó vẫn không thay đổi mà theo đó cư trú trong mỗi đời.
+
+**EN**
+(2) The self as resident, which remains unaltered even when the house of the aggregates changes and follows it to reside in each life.
+
+**VI**
+(3) Ngã là người làm, thực hiện tất cả các công việc cần làm.
+
+**EN**
+(3) The self as agent, carrying out all the tasks to be performed.
+
+**VI**
+(4) Ngã là người cảm thọ, trải nghiệm đối tượng.
+
+**EN**
+(4) The self as experiencer, experiencing the object.
+
+**VI**
+(5) Ngã là người điều khiển, phân xử và quyết định mọi công việc.
+
+**EN**
+(5) The self as controller, judging and deciding all affairs.
+
+**VI**
+Vì chính năm uẩn không có các tính chất như chủ nhân, người cư trú, người làm, người cảm thọ hay người điều khiển,] nên gọi là anattā, vô ngã, tức không phải là cái ngã làm chủ nhân, người cư trú, người làm, người cảm thọ hay người điều khiển.
+
+**EN**
+Because the five aggregates themselves have no such nature as owner, resident, agent, experiencer, or controller,] they are called anattā, non-self, that is, they are no self as owner, resident, agent, experiencer, or controller.
+
+**VI**
+2. Suññato — là rỗng không
+
+**EN**
+2. Suññato — as empty
+
+**VI**
+Vì trong mỗi uẩn đều vắng bóng cái ngã làm chủ nhân, người cư trú, người làm, người cảm thọ hay người điều khiển, nên gọi là suñña, rỗng không cái ngã làm chủ nhân, người cư trú, người làm, người cảm thọ hay người điều khiển.
+
+**EN**
+Because each aggregate is devoid of a self as owner, resident, agent, experiencer, or controller, it is called suñña, empty of any self as owner, resident, agent, experiencer, or controller.
+
+
+<a id="M09-body-P090"></a>
+## Quán là xa lạ và là trống không / Contemplating as alien and as void
+Miến / Burmese 90
+
+**VI**
+3. Parato — là xa lạ
+
+**EN**
+3. Parato — as alien
+
+**VI**
+Avasatāya, avidheyyatāya ca parato. (Vism. 2, 247.)
+
+**EN**
+Avasatāya, avidheyyatāya ca parato. (Vism. 2, 247.)
+
+**VI**
+Avasatāyāti avasavattanato. Yathā parasantako puriso parassa vasaṃ na gacchati, evaṃ subhasukhādibhāvena vase vattetuṃ asakkuṇeyyato. Avidheyyatāyāti “mā jīratu, mā mīyatū”tiādinā vidhātuṃ asakkuṇeyyato. (Mahāṭī. 2, 392.)
+
+**EN**
+Avasatāyāti avasavattanato. Yathā parasantako puriso parassa vasaṃ na gacchati, evaṃ subhasukhādibhāvena vase vattetuṃ asakkuṇeyyato. Avidheyyatāyāti “mā jīratu, mā mīyatū”tiādinā vidhātuṃ asakkuṇeyyato. (Mahāṭī. 2, 392.)
+
+**VI**
+Các uẩn chỉ sinh khởi phù hợp với các nhân, như đã trình bày ở phần sự nối tiếp nhân quả, tức các pháp duyên khởi. Cũng như người thuộc quyền của mình thì không phải làm theo ý của người khác, các uẩn không chiều theo ý ta, dù ta mong chúng đừng sinh khổ thọ v.v., chỉ sinh lạc thọ v.v., hay đẹp đẽ và đáng ưa. Vì chúng không theo ý muốn, và vì không thể ra lệnh cho chúng «đừng già, đừng bệnh, đừng chết» v.v., nên chúng là para, người xa lạ không đặt lòng tin cậy nơi ta.
+
+**EN**
+The aggregates arise only in accordance with their causes, as explained in the section on the succession of causes and results, the phenomena of dependent origination. Just as a person who is master of himself does not have to obey someone else’s wishes, the aggregates do not conform to our wishes, even though we wish them to give rise to no painful feeling and the like, to give rise only to pleasant feeling and the like, or to be attractive and beautiful. Because they do not conform to our wishes, and because they cannot be commanded, “Do not age, do not fall ill, do not die,” and so forth, they are para, a stranger who places no trust in us.
+
+**VI**
+4. Rittato — là trống không
+
+**EN**
+4. Rittato — as void
+
+**VI**
+Yathāparikappitehi dhuvasubhasukha-attabhāvehi rittatāya rittato. (Vism. 2, 247.)
+
+**EN**
+Yathāparikappitehi dhuvasubhasukha-attabhāvehi rittatāya rittato. (Vism. 2, 247.)
+
+
+<a id="M09-body-P091"></a>
+## Quán là trống không và là rỗng tuếch / Contemplating as void and as hollow
+Miến / Burmese 91
+
+**VI**
+[Ngoài Giáo pháp, những người theo tà kiến quan niệm rằng các pháp sắc và danh thuộc năm uẩn là (1) dhuva, thường bền, (2) subha, đẹp đẽ, (3) sukha, an lạc, và (4) atta, tự ngã. Tuy nhiên, các pháp sắc và danh thuộc năm uẩn luôn luôn vắng những tính chất thường bền, đẹp đẽ, an lạc và tự ngã mà những người theo tà kiến ấy gán cho chúng. Vì thế,] ritta nghĩa là các pháp vốn hoàn toàn trống không, tuyệt nhiên không có cốt lõi nào gọi là thường bền, đẹp đẽ, an lạc hay tự ngã.
+
+**EN**
+[Outside the Dispensation, adherents of wrong views imagine that the material and mental phenomena of the five aggregates are (1) dhuva, lasting, (2) subha, beautiful, (3) sukha, pleasant, and (4) atta, a self. Yet the material and mental phenomena of the five aggregates are always devoid of the permanence, beauty, pleasure and selfhood that those adherents of wrong views ascribe to them. Therefore,] ritta means phenomena intrinsically void, entirely without any core called permanence, beauty, pleasure or self.
+
+**VI**
+5. Tucchato — là rỗng tuếch
+
+**EN**
+5. Tucchato — as hollow
+
+**VI**
+Rittatāyeva tucchato, appakattā vā. Appakampi hi loke tucchanti vuccati. (Vism. 2, 247.)
+
+**EN**
+Rittatāyeva tucchato, appakattā vā. Appakampi hi loke tucchanti vuccati. (Vism. 2, 247.)
+
+**VI**
+(Trong các pháp sắc và danh thuộc năm uẩn không có các tính chất thường bền, đẹp đẽ, an lạc và cốt lõi tự ngã được gọi là dhuva, subha, sukha và atta. Vì không có những tính chất ấy, các pháp sắc và danh thuộc năm uẩn là tuccha, các pháp rỗng tuếch. Theo một cách khác, tuy các pháp sắc và danh thuộc năm uẩn vắng các tính chất thường bền, đẹp đẽ, an lạc và tự ngã, chúng quả thật hiện hữu theo thực tính chân đế. Chúng hiện hữu dưới dạng có sinh rồi có diệt. Thọ mạng của các pháp chân đế sinh rồi diệt ấy rất, rất ngắn. Các pháp chân đế sắc và danh chỉ có cơ hội hiện hữu trong một khoảng thời gian cực ngắn. Vì chỉ có cơ hội hiện hữu trong một khoảng cực ngắn, chúng cũng là tuccha, các pháp rỗng tuếch. Quả thật, ở đời người ta cũng gọi cái ít ỏi là tuccha.
+
+**EN**
+(Within the material and mental phenomena of the five aggregates there is no permanence, beauty, pleasure or core of self called dhuva, subha, sukha and atta. Because they are devoid of these qualities, the material and mental phenomena of the five aggregates are tuccha, hollow phenomena. In another sense, although devoid of permanence, beauty, pleasure and selfhood, the material and mental phenomena of the five aggregates do indeed exist in their ultimate nature. They exist in the mode of arising and ceasing. The lifespan of the ultimate phenomena that arise and cease is very, very short. Ultimate material and mental phenomena have the opportunity to exist for only an extremely brief time. Because they have the opportunity to exist for only an extremely brief time, they too are tuccha, hollow phenomena. Indeed, in the world people also call what is scant tuccha.
+
+
+<a id="M09-body-P092"></a>
+## Nguyên nhân của vô thường, khổ và vô ngã / Why phenomena are impermanent, suffering and non-self
+Miến / Burmese 92
+
+**VI**
+Từ ấy được dùng theo nghĩa như vậy. Vì thế các pháp sắc và danh thuộc năm uẩn) là tuccha, rỗng tuếch vì vắng thường bền, đẹp đẽ, an lạc và tự ngã. Hoặc là tuccha, những pháp rỗng tuếch vì ít ỏi, nhỏ bé.
+
+**EN**
+The word is used in this sense. Thus the material and mental phenomena of the five aggregates) are tuccha, hollow through the absence of permanence, beauty, pleasure and self. Or they are tuccha, hollow phenomena on account of their scantness and smallness.
+
+**VI**
+Rūpaṃ, bhikkhave, aniccaṃ. Yopi hetu yopi paccayo rūpassa uppādāya, sopi anicco. Aniccasambhūtaṃ, bhikkhave, rūpaṃ kuto niccaṃ bhavissati? (Saṃ. 2, 20, Sahetuaniccasutta.)
+
+**EN**
+Rūpaṃ, bhikkhave, aniccaṃ. Yopi hetu yopi paccayo rūpassa uppādāya, sopi anicco. Aniccasambhūtaṃ, bhikkhave, rūpaṃ kuto niccaṃ bhavissati? (Saṃ. 2, 20, Sahetuaniccasutta.)
+
+**VI**
+Này các tỳ-khưu … sắc là vô thường. Có nhân trực tiếp làm sắc sinh khởi, tức hetu hay janaka, nhân sinh. Cũng có duyên hỗ trợ, tức paccaya hay upatthambhaka, duyên nâng đỡ. Chính nhân duyên ấy cũng vô thường. Này các tỳ-khưu … làm sao sắc hiện khởi do nhân vô thường lại có thể là thường? (Saṃ. 2, 20.)
+
+**EN**
+Bhikkhus … materiality is impermanent. There is a direct cause that brings materiality into being, a hetu or janaka, a productive cause. There is also a supporting condition, a paccaya or upatthambhaka. That very cause or condition is itself impermanent. Bhikkhus … how could materiality that comes into being from impermanent causes be permanent? (Saṃ. 2, 20.)
+
+**VI**
+Theo lời Đức Phật dạy trong những bài kinh như trên, chính các nhân sinh ra năm uẩn, như vô minh, ái, thủ, hành và nghiệp, là các pháp vô thường, khổ và vô ngã. Vì thế, quả của chúng, tức năm uẩn sắc và danh, cũng chỉ có thể là các pháp vô thường, khổ và vô ngã. Hành giả cần quán nhiều lần để tuệ thấy rằng chính các nhân là vô thường, khổ và vô ngã, và các quả cũng chỉ là vô thường, khổ và vô ngã.
+
+**EN**
+As the Buddha taught in discourses such as the one above, the very causes that produce the five aggregates, such as ignorance, craving, clinging, formations and kamma, are impermanent, suffering and non-self. Thus their effects, the five material and mental aggregates, can only be impermanent, suffering and non-self as well. The meditator must contemplate repeatedly until knowledge sees that the causes themselves are impermanent, suffering and non-self and that their effects too can only be impermanent, suffering and non-self.
+
+
+<a id="M09-body-P093"></a>
+## Minh sát theo phương pháp gồm 200 cách / Methodical insight in 200 ways
+Miến / Burmese 93
+
+**VI**
+Như vậy, đối với sắc uẩn hoặc đối với từng uẩn: 1. Quán vô thường (aniccānupassanā), 10 cách. 2. Quán khổ (dukkhānupassanā), 25 cách. 3. Quán vô ngã (anattānupassanā), 5 cách. Tổng cộng có 40 cách tu tập.
+
+**EN**
+Thus, for the materiality aggregate, or for each aggregate: 1. Contemplation of impermanence (aniccānupassanā), 10 ways. 2. Contemplation of suffering (dukkhānupassanā), 25 ways. 3. Contemplation of non-self (anattānupassanā), 5 ways. In all there are 40 modes of development.
+
+**VI**
+Vì có 40 cách tu tập đối với từng uẩn, nên tuệ thẩm sát được gọi là nayavipassanā, minh sát theo phương pháp, có 200 cách đối với cả năm uẩn.
+
+**EN**
+Since there are 40 modes of development for each aggregate, comprehension knowledge, called nayavipassanā, methodical insight, has 200 modes for all five aggregates.
+
+**VI**
+Các thiện nhân hãy quán mỗi hàng của các bảng trong phần thiền danh, cho lộ nhãn môn và các lộ tương ứng, trước hết lấy riêng vô thường đối với từng nhóm năm uẩn, đủ cả năm uẩn trong mỗi hàng. Quán tất cả sáu lộ, bắt đầu từ lộ sắc cảnh. Quán một lượt bên trong và một lượt bên ngoài. Sau đó lần lượt thêm từng cách, cho đủ 40 cách tu tập. Tổng cộng phải quán 40 lượt.
+
+**EN**
+Good people, contemplate each row of the tables in the section on mentality meditation, for eye-door processes and the corresponding processes, first taking impermanence alone for each set of five aggregates, all five aggregates in every row. Contemplate all six processes, beginning with the process with visible form as its object. Contemplate one round internally and one round externally. Then add the modes one by one until all 40 modes of development are complete. There are 40 rounds of contemplation in all.
+
+**VI**
+Cũng vậy, từ quá khứ nối tiếp cho đến tận tương lai, hãy quán theo phương pháp năm uẩn, lần lượt thêm và quán đủ 40 phép tùy quán, từng phép một. Tổng cộng cũng có 40 lượt. Càng quán đi quán lại được nhiều lần càng tốt. Quán cả bên trong lẫn bên ngoài.
+
+**EN**
+Likewise, from the succession in the past all the way to the end of the future, contemplate by the five-aggregate method, adding and contemplating all 40 contemplations, one at a time. There are 40 rounds here too. The more often you can repeat the contemplation, the better. Contemplate both internally and externally.
+
+**VI**
+Nếu muốn, quý vị cũng có thể quán đủ 40 lượt ấy theo phương pháp hai nhóm sắc và danh. Đối với cả sáu loại lộ tâm như lộ nhãn môn, hãy dùng phương pháp hai nhóm sắc và danh và quán một lượt bên trong, một lượt bên ngoài.
+
+**EN**
+If you wish, you may also contemplate the 40 rounds by the twofold method of materiality and mentality. For all six types of cognitive process, such as the eye-door process, use the twofold method of materiality and mentality and contemplate one round internally and one round externally.
+
+
+<a id="M09-body-P094"></a>
+## Sự tu tập tuệ có thể viên mãn / The development of wisdom can be fulfilled
+Miến / Burmese 94
+
+**VI**
+Sau đó, cũng có thể quán theo phương pháp hai nhóm sắc và danh từ quá khứ nối tiếp cho đến tận tương lai. Quán cả bên trong lẫn bên ngoài. Hãy quán đi quán lại nhiều lần.
+
+**EN**
+Then the twofold method of materiality and mentality may also be used to contemplate from the succession in the past all the way to the end of the future. Contemplate both internally and externally. Contemplate again and again many times.
+
+**VI**
+Evaṃ kālena rūpaṃ kālena arūpaṃ sammasitvāpi tilakkhaṇaṃ āropetvā anukkamena paṭipajjamāno eko paññābhāvanaṃ sampādeti. (Vism. 2, 252.)
+
+**EN**
+Evaṃ kālena rūpaṃ kālena arūpaṃ sammasitvāpi tilakkhaṇaṃ āropetvā anukkamena paṭipajjamāno eko paññābhāvanaṃ sampādeti. (Vism. 2, 252.)
+
+**VI**
+Anukkamenāti udayabbayañāṇādikānukkamena paññābhāvanaṃ sampādeti arahattaṃ adhigacchati. (Mahāṭī. 2, 405.)
+
+**EN**
+Anukkamenāti udayabbayañāṇādikānukkamena paññābhāvanaṃ sampādeti arahattaṃ adhigacchati. (Mahāṭī. 2, 405.)
+
+**VI**
+Như vậy, hành giả có thể dùng phương pháp năm uẩn, hoặc nếu có khả năng, phương pháp 12 xứ và 18 giới, hoặc phương pháp hai nhóm sắc và danh: 1. Khi thì quán riêng sắc. 2. Khi thì quán riêng danh. 3. Khi thì quán sắc và danh thành từng cặp, từng đôi.
+
+**EN**
+Thus the meditator may use the method of the five aggregates, or, if capable, the methods of the 12 bases and the 18 elements, or the twofold method of materiality and mentality: 1. At times contemplate materiality alone. 2. At times contemplate mentality alone. 3. At times contemplate materiality and mentality together in pairs.
+
+**VI**
+Một cách khác: 1. Khi thì quán riêng sắc. 2. Khi thì quán riêng thọ. 3. Khi thì quán riêng tưởng. 4. Khi thì quán riêng hành. 5. Khi thì quán riêng thức. 6. Khi thì quán bên trong. 7. Khi thì quán bên ngoài,
+
+**EN**
+Another way: 1. At times contemplate materiality alone. 2. At times contemplate feeling alone. 3. At times contemplate perception alone. 4. At times contemplate formations alone. 5. At times contemplate consciousness alone. 6. At times contemplate internally. 7. At times contemplate externally,
+
+
+<a id="M09-body-P095"></a>
+## Phương pháp quán minh sát bảy cách về sắc / The sevenfold method of insight contemplation of materiality
+Miến / Burmese 95
+
+**VI**
+8. Khi thì quán quá khứ, tương lai, hiện tại, bên trong và bên ngoài. 9. Khi thì áp dụng tướng vô thường. 10. Khi thì áp dụng tướng khổ. 11. Khi thì áp dụng tướng vô ngã.
+
+**EN**
+8. At times contemplate past, future, present, internal and external. 9. At times apply the characteristic of impermanence. 10. At times apply the characteristic of suffering. 11. At times apply the characteristic of non-self.
+
+**VI**
+Nếu có thể quán minh sát sâu rộng như thế, sau khi quán xét theo cách ấy, hành giả có thể tu tập theo đúng thứ tự các tuệ minh sát, làm cho sự tu tập tuệ viên mãn, tức là có thể đạt quả A-la-hán. Nếu sự tu tập chưa viên mãn thì cần quán đi quán lại nhiều lần. Nếu vẫn chưa thể viên mãn, có thể chuyển sang quán theo phương pháp bảy cách về sắc và bảy cách về danh.
+
+**EN**
+If the meditator can contemplate insight extensively in this way, then after examining in this manner, they can practise in the proper sequence of the successive insight knowledges and bring the development of wisdom to fulfilment, that is, attain the fruit of arahantship. If the development is still incomplete, repeated contemplation is required. If it still cannot be fulfilled, the meditator can switch to the sevenfold method for materiality and the sevenfold method for mentality.
+
+**VI**
+Ādānanikkhepato vayovuḍḍhatthaṅgamito, āhārato ca ututo kammato cāpi cittato, sammatito satta rūpāni vipassati. (Vism. 2, 253.)
+
+**EN**
+Ādānanikkhepato vayovuḍḍhatthaṅgamito, āhārato ca ututo kammato cāpi cittato, sammatito satta rūpāni vipassati. (Vism. 2, 253.)
+
+**VI**
+1. Quán sắc từ lúc nhận lấy đến lúc đặt xuống (ādānanikkheparūpa). Áp dụng lần lượt cả ba tướng và quán minh sát các pháp sắc hiện hữu từ lúc tái tục cho đến lúc tử. Quán một lượt bên trong và một lượt bên ngoài.
+
+**EN**
+1. Contemplating materiality from taking up to laying down (ādānanikkheparūpa). Apply all three characteristics in turn and contemplate with insight the material phenomena present from rebirth-linking to death. Contemplate one round internally and one round externally.
+
+**VI**
+2. Quán sắc theo sự trưởng thành và chấm dứt ở các lứa tuổi (vayovuḍḍhatthaṅgamarūpa). Quán sự chấm dứt từng chặng của sắc phát triển theo tuổi. Hãy định tuổi thọ của quý vị là 100 năm theo mức ấn định thông thường. Tuổi thọ thực có thể chênh lệch đôi chút.
+
+**EN**
+2. Contemplating materiality by growth and cessation in the stages of life (vayovuḍḍhatthaṅgamarūpa). Contemplate the cessation in successive stages of the materiality that develops with age. Following the usual estimate, set your lifespan at 100 years. The actual lifespan may be slightly more or less.
+
+
+<a id="M09-body-P096"></a>
+## Chia tuổi thọ và ngày đêm thành các thời đoạn / Dividing the lifespan and each day and night into periods
+Miến / Burmese 96
+
+**VI**
+Chia 100 năm theo các cách sau:
+1. Thành 3 phần (33–34–33), mỗi phần khoảng 33 năm.
+2. Thành 10 phần, mỗi phần 10 năm.
+3. Thành 20 phần, mỗi phần 5 năm.
+4. Thành 25 phần, mỗi phần 4 năm.
+5. Thành 33 phần, mỗi phần 3 năm.
+6. Thành 50 phần, mỗi phần 2 năm.
+7. Thành 100 phần, mỗi phần 1 năm.
+8. Thành 300 phần, mỗi phần 1 mùa.
+9. Thành 600 phần, mỗi phần 2 tháng.
+10. Thành 2.400 phần, mỗi phần 1 nửa tháng (pakkha), tức 15 ngày.
+
+**EN**
+Divide the 100 years as follows:
+1. Into 3 portions (33–34–33), about 33 years each.
+2. Into 10 portions of 10 years each.
+3. Into 20 portions of 5 years each.
+4. Into 25 portions of 4 years each.
+5. Into 33 portions of 3 years each.
+6. Into 50 portions of 2 years each.
+7. Into 100 portions of 1 year each.
+8. Into 300 portions of 1 season each.
+9. Into 600 portions of 2 months each.
+10. Into 2,400 portions of 1 half-month (pakkha), that is, 15 days each.
+
+**VI**
+Hãy lần lượt áp dụng cả ba tướng đối với các pháp sắc sinh khởi trong từng thời đoạn ấy và quán minh sát từng phần theo thứ tự. Quán cho đến khi hiểu rõ rằng sắc hiện hữu trong một phần không chuyển sang phần kế tiếp. Hãy quán để thấy chúng diệt đi ngay trong từng thời đoạn ấy. Sau đó, đối với các pháp sắc hiện hữu trong một ngày:
+
+**EN**
+Apply all three characteristics in turn to the material phenomena arising in each of those periods and contemplate them with insight, one portion after another. Contemplate until you understand clearly that the materiality present in one portion does not pass into the next. Contemplate so as to see it cease within each respective period. Then, for the material phenomena present within a single day:
+
+**VI**
+1. Có thể chia thành hai phần, một phần ban ngày và một phần ban đêm. 2. Có thể chia ban ngày thành ba phần, sáng, trưa và chiều, và chia ban đêm thành ba canh, purimayāma, majjhimayāma và pacchimayāma, tức canh đầu đêm, canh nửa đêm và canh gần sáng. [Nghĩa là chia một ngày thành sáu phần.]
+
+**EN**
+1. Divide it into two portions, one for daytime and one for nighttime. 2. Divide the daytime into three portions, morning, midday and evening, and the night into three watches, purimayāma, majjhimayāma and pacchimayāma, the first watch of the night, the midnight watch and the watch before dawn. [This means dividing a single day into six portions.]
+
+**VI**
+Hãy lần lượt áp dụng cả ba tướng vào các pháp sắc hiện hữu trong mỗi thời đoạn ấy và quán minh sát. (Trong khoảng thời gian 100 năm đã phân chia như trên, hãy chia từng ngày, ngày này qua ngày khác, thành sáu phần để quán. Hãy lưu ý rằng việc quán này không chỉ giới hạn vào một ngày.)
+
+**EN**
+Apply all three characteristics in turn to the material phenomena present in each of those periods and contemplate them with insight. (Within the 100-year period divided as above, divide every single day, day after day, into six parts for contemplation. Bear in mind that this contemplation is not confined to a single day.)
+
+
+<a id="M09-body-P097"></a>
+## Quán sắc theo động tác trong ngày / Contemplating materiality by activities during the day
+Miến / Burmese 97
+
+**VI**
+Sau khi quán minh sát như thế, trong từng phần của sáu thời đoạn của một ngày, hãy quán các pháp sắc hiện hữu ở đó: 1. Sắc sinh khi đi tới. 2. Sắc sinh khi đi lui. 3. Sắc sinh khi nhìn thẳng. 4. Sắc sinh khi nhìn sang bên.
+
+**EN**
+After contemplating insight in this way, for each of the six periods of the day, contemplate the material phenomena present in it: 1. Materiality arising when going forward. 2. Materiality arising when going back. 3. Materiality arising when looking straight ahead. 4. Materiality arising when looking to the side.
+
+**VI**
+Hãy lần lượt áp dụng cả ba tướng vào từng loại sắc ấy và quán minh sát. (Hãy quán như thế đối với từng ngày trong thời gian đã ấn định là 100 năm.)
+
+**EN**
+Apply all three characteristics in turn to each of these kinds of materiality and contemplate them with insight. (Contemplate in this way on each day of the period set at 100 years.)
+
+**VI**
+Sau đó, trong từng ngày, hãy quán các khoảnh khắc của những động tác như đi tới và đi lui, thuộc phần oai nghi và phần tỉnh giác: 1. Sắc sinh khi nhấc chân lên khỏi mặt đất. 2. Sắc sinh khi đưa chân đã nhấc tới trước, cho đến ngang chân trụ. 3. Sắc sinh khi đưa chân đang bước vượt qua chân trụ. Theo một cách khác, sắc sinh khi đưa chân tránh gai, khúc gỗ v.v. 4. Sắc sinh khi hạ xuống chân đã đưa qua phía trước chân trụ. 5. Sắc sinh khi đặt chân ấy xuống mặt đất. 6. Khi sắp bước thêm một bước, trước khi nhấc chân,
+
+**EN**
+Then, on each day, contemplate the moments of such actions as going forward and going back, dealt with under postures and clear comprehension: 1. Materiality arising when lifting the foot from the ground. 2. Materiality arising when carrying the lifted foot forward as far as the supporting foot. 3. Materiality arising when carrying the advancing foot past the supporting foot. Alternatively, materiality arising when moving the foot aside to avoid thorns, sticks and the like. 4. Materiality arising when lowering the foot that has been carried past the supporting foot. 5. Materiality arising when setting that foot on the ground. 6. When about to take another step, before lifting the foot,
+
+
+<a id="M09-body-P098"></a>
+## Quán sắc do vật thực và do thời tiết / Contemplating nutriment- and temperature-produced materiality
+Miến / Burmese 98
+
+**VI**
+sắc sinh vào lúc ấn chân xuống đất.
+
+**EN**
+the materiality arising when pressing the foot against the ground.
+
+**VI**
+Phân biệt riêng các pháp sắc sinh trong từng khoảnh khắc thuộc sáu loại trên, nhấc, đưa tới, đưa qua, hạ, đặt và ấn. Lần lượt áp dụng cả ba tướng rồi quán minh sát. (Hãy hiểu chỉ dẫn này theo phương pháp upalakkhaṇa, tức nêu một trường hợp để chỉ các trường hợp tương tự. Cũng như đối với động tác tiến tới, hãy áp dụng các tướng và quán minh sát sắc hiện hữu ở từng khoảnh khắc của các oai nghi và các hoạt động thuộc tỉnh giác trong suốt ngày.) Trong thời gian đã ấn định và phân chia thành 100 năm, hãy quán mọi chuyển động của thân thực sự xảy ra, ngày này qua ngày khác.
+
+**EN**
+Distinguish the material phenomena arising in each of the six kinds of moment above, lifting, carrying forward, carrying across, lowering, setting down and pressing. Apply all three characteristics in turn and contemplate with insight. (Understand this instruction as an upalakkhaṇa, an illustration of corresponding cases. As with moving forward, apply the characteristics and contemplate with insight the materiality present in every moment of the postures and the activities dealt with under clear comprehension throughout the day.) In the period fixed and divided into 100 years, contemplate every bodily movement that actually occurs, day after day.
+
+**VI**
+3. Quán sắc do vật thực (āhāramayarūpa)
+
+**EN**
+3. Contemplating materiality in relation to nutriment (āhāramayarūpa)
+
+**VI**
+1. Sắc thuộc bốn dòng tương tục sinh khi đói, do bốn nhân là nghiệp, tâm, thời tiết và vật thực. 2. Sắc thuộc bốn dòng tương tục sinh khi đã ăn và đã no. Trong từng ngày, hãy lần lượt áp dụng các tướng và quán minh sát các pháp sắc thuộc bốn dòng tương tục sinh vào hai thời điểm ấy.
+
+**EN**
+1. Materiality of the four continuities arising when hungry, produced by the four causes of kamma, consciousness, temperature and nutriment. 2. Materiality of the four continuities arising after eating and becoming full. Each day, apply the characteristics in turn and contemplate with insight the material phenomena of the four continuities arising at those two times.
+
+**VI**
+4. Quán sắc do thời tiết (utumayarūpa)
+
+**EN**
+4. Contemplating materiality in relation to temperature (utumayarūpa)
+
+**VI**
+Trong từng ngày: 1. Các pháp sắc thuộc bốn dòng tương tục sinh lúc nóng. 2. Các pháp sắc thuộc bốn dòng tương tục sinh lúc lạnh.
+
+**EN**
+On each day: 1. Material phenomena of the four continuities arising when it is hot. 2. Material phenomena of the four continuities arising when it is cold.
+
+
+<a id="M09-body-P099"></a>
+## Quán sắc do nghiệp và sắc do tâm sinh / Contemplating kamma- and consciousness-produced materiality
+Miến / Burmese 99
+
+**VI**
+Hãy lần lượt áp dụng các tướng vào các pháp sắc ấy và quán minh sát.
+
+**EN**
+Apply the characteristics in turn to these material phenomena and contemplate them with insight.
+
+**VI**
+5. Quán sắc do nghiệp (kammajarūpa)
+
+**EN**
+5. Contemplating kamma-produced materiality (kammajarūpa)
+
+**VI**
+Trong từng ngày: 1. Nhãn môn (cakkhudvāra), 54 loại sắc sinh ở mắt. 2. Nhĩ môn (sotadvāra), 54 loại sắc sinh ở tai. 3. Tỷ môn (ghānadvāra), 54 loại sắc sinh ở mũi. 4. Thiệt môn (jivhādvāra), 54 loại sắc sinh ở lưỡi. 5. Thân môn (kāyadvāra), 44 loại sắc sinh ở thân. 6. Ý môn (manodvāra), 54 loại sắc sinh ở tim.
+
+**EN**
+On each day: 1. Eye door (cakkhudvāra), the 54 kinds of materiality arising in the eye. 2. Ear door (sotadvāra), the 54 kinds arising in the ear. 3. Nose door (ghānadvāra), the 54 kinds arising in the nose. 4. Tongue door (jivhādvāra), the 54 kinds arising in the tongue. 5. Body door (kāyadvāra), the 44 kinds arising in the body. 6. Mind door (manodvāra), the 54 kinds arising in the heart.
+
+**VI**
+Hãy quán để tuệ thấy rằng những pháp sắc ấy không chuyển từ môn này sang môn khác, mà tan rã và chấm dứt ngay tại môn tương ứng. Rồi áp dụng các tướng và quán minh sát. Hãy quán minh sát các pháp sắc hiện hữu ở từng môn ấy, ngày này qua ngày khác.
+
+**EN**
+Contemplate so that knowledge sees that these material phenomena do not pass from one door to another, but dissolve and cease at their respective doors. Then apply the characteristics and contemplate them with insight. Contemplate with insight the material phenomena present at those respective doors, day after day.
+
+**VI**
+6. Quán sắc do tâm sinh (cittasamuṭṭhānarūpa)
+
+**EN**
+6. Contemplating consciousness-produced materiality (cittasamuṭṭhānarūpa)
+
+**VI**
+Trong từng ngày: 1. Somanassita, các pháp sắc thuộc bốn dòng tương tục sinh vào lúc vui mừng. 2. Domanassita, các pháp sắc thuộc bốn dòng tương tục sinh vào lúc bất an, buồn rầu. Hãy lần lượt áp dụng cả ba tướng và quán minh sát tất cả các pháp sắc thuộc bốn dòng tương tục sinh như vậy, ngày này qua ngày khác.
+
+**EN**
+On each day: 1. Somanassita, material phenomena of the four continuities arising at times of gladness. 2. Domanassita, material phenomena of the four continuities arising at times of mental distress and sadness. Apply all three characteristics in turn and contemplate with insight all the material phenomena of the four continuities arising in this way, day after day.
+
+
+<a id="M09-body-P100"></a>
+## Quán sắc theo quy ước và bảy cách quán danh / Conventional materiality and the seven ways of contemplating mentality
+Miến / Burmese 100
+
+**VI**
+7. Quán sắc theo quy ước (sammatarūpa)
+
+**EN**
+7. Contemplating conventional materiality (sammatarūpa)
+
+**VI**
+Anindriyabaddha nghĩa là không gắn với các căn, như mạng căn thuộc sắc do nghiệp. Cần quán các pháp sắc thuộc nhóm thuần tám do thời tiết sinh, hiện hữu trong thế giới vô tri, chẳng hạn sắt, đồng, thiếc, chì, vàng, bạc, ngọc trai, hồng ngọc, mắt mèo, đá đỏ, đá pha lê, san hô, vườn, vườn hoa, bụi, cây, nước, đất, rừng và núi. Các thiện nhân hãy dùng ánh sáng của tuệ phát sinh nhờ minh sát để phân tích bốn đại hiện hữu trong các vật vô tri ấy như vàng, bạc, hồng ngọc, cây, nước, đất, rừng và núi. Khi tuệ thấy các hạt nhóm sắc, hãy phân tích tám hoặc chín loại sắc chân đế hiện hữu trong các nhóm ấy. Hãy lần lượt áp dụng cả ba tướng vào những sắc chân đế ấy rồi quán minh sát.
+
+**EN**
+Anindriyabaddha means unconnected with the faculties, such as the life faculty of kamma-produced materiality. Contemplate the material phenomena of the pure octad produced by temperature that occur in the inanimate world, for example iron, copper, tin, lead, gold, silver, pearls, rubies, cat’s-eye gems, red stones, crystals, coral, gardens, flower gardens, dust, trees, water, earth, forests and mountains. Good people, use the light of knowledge that arises from insight to analyse the four great elements present in those inanimate objects such as gold, silver, rubies, trees, water, earth, forests and mountains. When knowledge sees the particles that are material groups, analyse the eight or nine types of ultimate materiality present in those groups. Apply all three characteristics in turn to those ultimate material phenomena and contemplate them with insight.
+
+**VI**
+[Ghi chú — Các pháp sắc từ số 1 đến số 6 là sắc thuộc thế giới hữu tình. Hãy quán cả dòng tương tục bên trong lẫn bên ngoài. Sắc theo quy ước ở số 7 là sắc vô tri, không do thủ. Hãy quán ở thế giới vô tri bên ngoài.]
+
+**EN**
+[Note — The material phenomena from Nos. 1 through 6 are materiality of the animate world. Contemplate both the internal and the external continua. Conventional materiality in No. 7 is inanimate, non-clung-to materiality. Contemplate it in the external inanimate world.]
+
+**VI**
+Phương pháp bảy cách quán danh (arūpasattaka)
+
+**EN**
+The sevenfold method for contemplating mentality (arūpasattaka)
+
+**VI**
+Bảy phương pháp quán minh sát danh là: (1) theo nhóm (kalāpa), (2) theo cặp (yamaka), (3) theo từng bước (satika), (4) theo chuỗi tiếp nối (paṭipāṭi), (5) bằng cách loại bỏ tà kiến (diṭṭhiugghāṭana),
+
+**EN**
+The seven methods for insight contemplation of mentality are: (1) by grouping (kalāpa), (2) by pairs (yamaka), (3) by successive steps (satika), (4) in serial order (paṭipāṭi), (5) by uprooting wrong view (diṭṭhiugghāṭana),
+
+
+<a id="M09-body-P101"></a>
+## Quán theo nhóm / Contemplating by grouping
+Miến / Burmese 101
+
+**VI**
+(6) bằng cách nhổ tận gốc ngã mạn (mānasamugghāṭana), và (7) bằng cách đoạn trừ sự ưa thích (nikantipariyādāna). Có bảy phương pháp như vậy.
+
+**EN**
+(6) by uprooting conceit (mānasamugghāṭana), and (7) by exhausting attachment (nikantipariyādāna). There are these seven methods.
+
+**VI**
+1. Quán theo nhóm (kalāpa), tức gom lại để quán
+
+**EN**
+1. Contemplating by grouping (kalāpa), that is, gathering together for contemplation
+
+**VI**
+Hãy lần lượt áp dụng các tướng vô thường, khổ và vô ngã vào các pháp sắc hiện hữu ở bảy phạm vi thuộc phương pháp bảy cách quán sắc ở trên. Dùng tâm minh sát sau để quán trở lại tâm đang quán minh sát ấy, lần lượt áp dụng các tướng vô thường, khổ và vô ngã. Phương pháp quán minh sát này gọi là quán theo nhóm.
+
+**EN**
+Apply in turn the characteristics of impermanence, suffering and non-self to the material phenomena present in the seven domains of the sevenfold method for materiality described above. With subsequent insight consciousness, turn back to contemplate the consciousness doing that insight contemplation, applying in turn the characteristics of impermanence, suffering and non-self. This method of insight contemplation is called contemplation by grouping.
+
+**VI**
+Hãy gom các pháp sắc hiện hữu ở bảy phạm vi đã trình bày trong phương pháp bảy cách quán sắc, bắt đầu bằng sắc từ lúc nhận lấy đến lúc đặt xuống, thành một nhóm, không còn chia thành bảy phạm vi, rồi quán sắc đã gom ấy là vô thường. Dùng tâm minh sát sau quán trở lại tâm minh sát đang quán vô thường ấy là vô thường. Dùng tâm minh sát sau quán trở lại tâm minh sát đang quán vô thường ấy là khổ. Lại dùng tâm minh sát sau quán minh sát trở lại tâm minh sát đang quán vô thường ấy là vô ngã.
+
+**EN**
+Gather together into a single group the material phenomena in the seven domains described in the sevenfold method for materiality, beginning with materiality from taking up to laying down, without dividing them into seven domains, and contemplate the materiality so grouped as impermanent. With subsequent insight consciousness, turn back to contemplate the insight consciousness contemplating impermanence as impermanent. With subsequent insight consciousness, turn back to contemplate the insight consciousness contemplating impermanence as suffering. With subsequent insight consciousness, again turn back to contemplate with insight the insight consciousness contemplating impermanence as non-self.
+
+**VI**
+Kế đến, quán minh sát các pháp sắc hiện hữu ở bảy phạm vi ấy là khổ. Dùng tâm minh sát sau quán minh sát trở lại tâm minh sát đang quán khổ ấy là vô thường. Quán minh sát là khổ. Quán minh sát là vô ngã.
+
+**EN**
+Next, contemplate with insight the material phenomena present in those seven domains as suffering. With subsequent insight consciousness, turn back to contemplate with insight the insight consciousness contemplating suffering as impermanent. Contemplate with insight as suffering. Contemplate with insight as non-self.
+
+**VI**
+Kế đến, quán minh sát các pháp sắc hiện hữu ở bảy phạm vi ấy là vô ngã. Dùng tâm minh sát sau quán minh sát trở lại tâm minh sát đang quán vô ngã ấy là vô thường. Quán minh sát là khổ. Quán minh sát là vô ngã. Phương pháp quán như vậy được gọi là quán theo nhóm
+
+**EN**
+Next, contemplate with insight the material phenomena present in those seven domains as non-self. With subsequent insight consciousness, turn back to contemplate with insight the insight consciousness contemplating non-self as impermanent. Contemplate with insight as suffering. Contemplate with insight as non-self. This way of contemplating is called contemplation by grouping
+
+
+<a id="M09-body-P102"></a>
+## Tâm minh sát trước và tâm minh sát sau / Earlier and later insight consciousness
+Miến / Burmese 102
+
+**VI**
+(kalāpa). Đó là cách gom các pháp sắc của bảy phạm vi rồi quán minh sát.
+
+**EN**
+(kalāpa). It is the way of gathering together the material phenomena of the seven domains and contemplating them with insight.
+
+**VI**
+Chú giải phần Phân tích về Tuệ nói rằng tâm quán minh sát, đối với phàm nhân và bậc hữu học, chỉ gồm các lộ đổng lực đại thiện qua ý môn. (အဘိ၊ဓ၊၂၊၃၈၈။)
+
+**EN**
+The commentary to the Analysis of Knowledge says that for ordinary people and trainees, the consciousness contemplating with insight consists only of mind-door cognitive processes with great wholesome impulsions. (အဘိ၊ဓ၊၂၊၃၈၈။)
+
+**VI**
+Sekkhā vā puthujjanā vā kusalaṃ aniccato dukkhato anattato vipassanti. Kusale niruddhe vipāko tadārammaṇatā uppajjati. (Paṭṭhāna 1, 133.)
+
+**EN**
+Sekkhā vā puthujjanā vā kusalaṃ aniccato dukkhato anattato vipassanti. Kusale niruddhe vipāko tadārammaṇatā uppajjati. (Paṭṭhāna 1, 133.)
+
+**VI**
+Các thiện nhân bậc Thánh hữu học cũng như các thiện nhân phàm nhân quán minh sát pháp thiện là vô thường, khổ và vô ngã. Khi pháp thiện, tức đổng lực thiện minh sát, đã diệt, tâm quả dục giới làm nhiệm vụ đăng ký sinh khởi sau đổng lực thiện minh sát ấy. (Paṭṭhāna 1, 133.)
+
+**EN**
+Good people who are noble trainees, as well as good people who are ordinary persons, contemplate wholesome phenomena with insight as impermanent, suffering and non-self. When the wholesome phenomenon, that is, the wholesome insight impulsion, has ceased, sense-sphere resultant registration arises after that wholesome insight impulsion. (Paṭṭhāna 1, 133.)
+
+**VI**
+Taṃ kusalassa javanassa ārammaṇabhūtaṃ vipassitakusalaṃ ārammaṇaṃ katvā uppajjatīti attho. (အဘိ၊ဓ၊၃၊၄၃၆။)
+
+**EN**
+Taṃ kusalassa javanassa ārammaṇabhūtaṃ vipassitakusalaṃ ārammaṇaṃ katvā uppajjatīti attho. (အဘိ၊ဓ၊၃၊၄၃၆။)
+
+**VI**
+Tâm quả dục giới lấy chính pháp thiện đã được quán làm cảnh. Pháp thiện ấy là cảnh của đổng lực thiện minh sát. Tâm quả dục giới sinh khởi, làm nhiệm vụ đăng ký, bằng cách lấy chính pháp thiện đã được đổng lực thiện minh sát quán làm cảnh. (အဘိ၊ဓ၊၃၊၄၃၆။)
+
+**EN**
+The sense-sphere resultant consciousness takes as its object the very wholesome phenomenon that was contemplated. That wholesome phenomenon was the object of the wholesome insight impulsion. The sense-sphere resultant consciousness arises performing the function of registration, taking as its object the very wholesome phenomenon contemplated by the wholesome insight impulsion. (အဘိ၊ဓ၊၃၊၄၃၆။)
+
+**VI**
+Theo các đoạn kinh văn trên, hãy ghi nhớ rằng sau các đổng lực minh sát còn non yếu có thể có tâm đăng ký.
+
+**EN**
+According to the passages quoted above, remember that registration can occur after insight impulsions that are still weak.
+
+
+<a id="M09-body-P103"></a>
+## Lộ đổng lực ý môn minh sát / The insight mind-door impulsion process
+Miến / Burmese 103
+
+**VI**
+Tilakkhaṇārammaṇikavipassanāya tadārammaṇaṃ na labbhati. Vuṭṭhānagāminiyā balavavipassanāya tadārammaṇaṃ na labbhati. (အဘိ၊ဓ၊၂၊၁၄၇။)
+
+**EN**
+Tilakkhaṇārammaṇikavipassanāya tadārammaṇaṃ na labbhati. Vuṭṭhānagāminiyā balavavipassanāya tadārammaṇaṃ na labbhati. (အဘိ၊ဓ၊၂၊၁၄၇။)
+
+**VI**
+Theo lời giải thích của Chú giải ở trên, hãy ghi nhớ rằng sau các đổng lực minh sát mạnh, mãnh liệt, không có tâm đăng ký. Do đó, sau các đổng lực minh sát có thể có hai trường hợp, có tâm đăng ký hoặc không có tâm đăng ký. Các lộ đổng lực ý môn minh sát ấy như sau.
+
+**EN**
+According to the explanation in the commentary above, remember that there is no registration after strong, powerful insight impulsions. Thus two cases are possible after insight impulsions, with registration or without registration. Those insight mind-door impulsion processes are as follows.
+
+**VI**
+Lộ đổng lực ý môn minh sát
+
+**EN**
+The insight mind-door impulsion process
+
+**VI**
+Phần đề mục thiền minh sát
+
+**EN**
+Insight meditation subjects
+
+**VI**
+Namo tassa bhagavato arahato sammāsambuddhassa.
+
+**EN**
+Namo tassa bhagavato arahato sammāsambuddhassa.
+
+**VI**
+Thanh tịnh do tri kiến về đạo và phi đạo (maggāmaggañāṇadassanavisuddhi)
+
+**EN**
+Purification by knowledge and vision of path and not-path (maggāmaggañāṇadassanavisuddhi)
+
+**VI**
+Chương Tuệ thẩm sát (sammasanañāṇa)
+
+**EN**
+Chapter on comprehension knowledge (sammasanañāṇa)
+
+**VI**
+Tuệ minh sát đã thoát khỏi các tùy phiền não minh sát và đang đi theo con đường đúng đắn, theo lối minh sát đã có từ xưa, là đạo dự bị đi trước Thánh đạo. Mười tùy phiền não minh sát, bắt đầu bằng ánh sáng, không phải là đạo dự bị đi trước Thánh đạo, không phải con đường minh sát đúng đắn. Như vậy, tuệ hiểu rõ và phân biệt chính xác cả đạo dự bị là con đường minh sát đúng đắn đi trước Thánh đạo, lẫn phi đạo, tức điều không phải con đường minh sát đúng đắn, được gọi là thanh tịnh do tri kiến về đạo và phi đạo. Vì tuệ ấy biết rõ “đây là con đường đúng, đây là con đường sai”, nên gọi là tuệ trong sạch khỏi các tùy phiền não minh sát. (ဝိသုဒ္ဓိ၊၂၊၂၄၁။)
+
+**EN**
+Insight wisdom that has become free of the imperfections of insight and follows the right way, the ancient course of insight, is the preliminary path that precedes the noble path. The ten imperfections of insight, beginning with illumination, are not the preliminary path preceding the noble path, and are not the right way of insight. Thus knowledge that clearly and accurately distinguishes both the preliminary path, the right way of insight preceding the noble path, and not-path, that which is not the right way of insight, is called purification by knowledge and vision of path and not-path. Because that knowledge sees, “This is the right way. This is the wrong way,” it is called knowledge purified of the imperfections of insight. (ဝိသုဒ္ဓိ၊၂၊၂၄၁။)
+
+**VI**
+Hãy ghi nhớ rằng toàn bộ lộ đổng lực ý môn ấy, cùng với các tâm sở tương ưng, được gọi theo lối dùng quy ước (vohāra) là: 1. Tâm quán vô thường, tâm quán khổ, tâm quán vô ngã v.v. 2. Tâm thứ nhất, tâm thứ hai v.v. 3. Tâm trước, tâm sau v.v.
+
+**EN**
+Remember that this whole mind-door impulsion process, together with its associated mental factors, is designated in conventional usage (vohāra) as: 1. Consciousness contemplating impermanence, consciousness contemplating suffering, consciousness contemplating non-self and so forth. 2. First consciousness, second consciousness and so forth. 3. Earlier consciousness, later consciousness and so forth.
+
+**VI**
+Lý do là cảnh của lộ ý môn minh sát thứ nhất là các pháp sắc hiện hữu ở bảy phạm vi. Cảnh của lộ đổng lực ý môn minh sát thứ hai là chính lộ đổng lực ý môn minh sát thứ nhất,
+
+**EN**
+The reason is that the object of the first insight mind-door process is the material phenomena present in the seven domains. The object of the second insight mind-door impulsion process is the first insight mind-door impulsion process itself,
+
+
+<a id="M09-body-P104"></a>
+## Quán theo cặp / Contemplating by pairs
+Miến / Burmese 104
+
+**VI**
+tức là các pháp danh. Trong cùng một lộ đổng lực có một cảnh duy nhất, thật hết sức khó có chuyện một số tâm lấy sắc làm cảnh còn một số tâm lấy danh làm cảnh. Do đó, hãy ghi nhớ rằng lộ tâm lấy sắc làm cảnh là một lộ, và lộ tâm lấy danh làm cảnh là một lộ khác. Cũng hãy ghi nhớ rằng những cách gọi như tâm trước và tâm sau là cách gọi quy ước cho toàn bộ lộ tâm. Tâm đăng ký có thể có hoặc có thể không. Nếu có tâm đăng ký, nó sinh theo cách đăng ký cảnh quá khứ hoặc đăng ký hữu nhân.
+
+**EN**
+that is, mental phenomena. Within one and the same impulsion process with a single object, it is extremely difficult for some consciousnesses to take materiality as their object and others to take mentality as their object. Therefore remember that the process taking materiality as its object is one process, and the process taking mentality as its object is another. Remember also that such expressions as earlier consciousness and later consciousness are conventional terms for the entire process. Registration may or may not be present. If registration occurs, it can occur as registration of a past object or as rooted registration.
+
+**VI**
+2. Yamaka — quán theo cặp
+
+**EN**
+2. Yamaka — contemplating by pairs
+
+**VI**
+Quán sắc từ lúc nhận lấy đến lúc đặt xuống là vô thường. Rồi dùng tâm sau quán riêng tâm đã quán ấy là vô thường, là khổ và là vô ngã. (Khi quán sắc là khổ và khi quán sắc là vô ngã, hãy hiểu theo cùng phương pháp.)
+
+**EN**
+Contemplate materiality from taking up to laying down as impermanent. Then with later consciousness contemplate the consciousness that contemplated it, separately as impermanent, as suffering and as non-self. (Understand the same method when contemplating materiality as suffering and when contemplating it as non-self.)
+
+**VI**
+Hãy hiểu cùng phương pháp đối với sắc theo sự trưởng thành và chấm dứt ở các lứa tuổi, sắc do vật thực, sắc do thời tiết, sắc do nghiệp, sắc do tâm sinh và sắc theo quy ước. Trong phương pháp theo nhóm, sắc hiện hữu ở bảy phạm vi được gom thành một phạm vi, không phân chia. Trong phương pháp theo cặp này, hãy chia thành từng phạm vi riêng rồi quán. Sự khác nhau chỉ ở đó. Tuy quán riêng từng phạm vi, cần quán kỹ lưỡng trong mỗi phạm vi. Đặc biệt, với sắc theo sự trưởng thành và chấm dứt ở các lứa tuổi, hãy quán như đã chia ở phần bảy cách quán sắc: quán sắc thời kỳ thứ nhất, rồi quán lại tuệ quán, tức tâm quán. Quán sắc thời kỳ thứ hai, rồi quán lại tuệ quán, tức tâm quán. Tiếp tục như vậy theo các chặng tuổi đã phân định, khi thì quán sắc, khi thì quán tâm minh sát đã quán sắc ấy. Hãy quán kỹ lưỡng. Đối với các loại sắc khác cũng hiểu theo cùng cách.
+
+**EN**
+Understand the same method for materiality in terms of growth and cessation in the stages of life, nutriment-produced materiality, temperature-produced materiality, kamma-produced materiality, consciousness-produced materiality and conventional materiality. In the grouping method, the material phenomena in the seven domains are gathered into a single domain without division. In this method of pairs, divide them into individual domains and contemplate. The difference lies there. Although contemplated separately by domain, each domain should be contemplated thoroughly. In particular, with materiality in terms of growth and cessation in the stages of life, follow the divisions given in the sevenfold method for materiality: contemplate the materiality of the first age period, then contemplate the contemplating knowledge, that is, the contemplating consciousness. Contemplate the materiality of the second age period, then contemplate the contemplating knowledge, that is, the contemplating consciousness. Continue in this way through the successive ages already delimited, contemplating the materiality and then the insight consciousness that contemplated it. Contemplate thoroughly. Understand the other kinds of materiality in the same way.
+
+
+<a id="M09-body-P105"></a>
+## Quán theo từng bước và theo chuỗi tiếp nối / Contemplating by successive steps and in serial order
+Miến / Burmese 105
+
+**VI**
+3. Quán theo từng bước (satika)
+
+**EN**
+3. Contemplating by successive steps (satika)
+
+**VI**
+Sau khi quán sắc từ lúc nhận lấy đến lúc đặt xuống là vô thường: 1. Dùng tâm thứ hai, tức lộ đổng lực ý môn minh sát thứ hai, để quán tâm thứ nhất đã quán như vậy, tức lộ đổng lực ý môn minh sát thứ nhất. 2. Dùng tâm thứ ba quán tâm thứ hai. 3. Dùng tâm thứ tư quán tâm thứ ba. 4. Dùng tâm thứ năm quán tâm thứ tư là vô thường. (Quán là khổ. Quán là vô ngã. Quán lần lượt từng tướng.)
+
+**EN**
+After contemplating materiality from taking up to laying down as impermanent: 1. Use the second consciousness, that is, the second insight mind-door impulsion process, to contemplate the first consciousness that contemplated in that way, that is, the first insight mind-door impulsion process. 2. Use the third consciousness to contemplate the second. 3. Use the fourth consciousness to contemplate the third. 4. Use the fifth consciousness to contemplate the fourth as impermanent. (Contemplate as suffering. Contemplate as non-self. Contemplate each characteristic in turn.)
+
+**VI**
+Khi quán sắc từ lúc nhận lấy đến lúc đặt xuống là khổ và là vô ngã, hãy hiểu theo cùng phương pháp. Cũng hãy hiểu như vậy đối với các loại sắc bắt đầu bằng sắc theo sự trưởng thành và chấm dứt ở các lứa tuổi. Khi quán sắc theo từng cách trong bảy cách quán sắc, đối với mỗi trường hợp hãy quán những lộ đổng lực ý môn minh sát đã quán sắc ấy theo bốn bước, từng nhóm bốn bước. Đó chính là dùng lộ tâm minh sát sau để quán lộ tâm minh sát trước.
+
+**EN**
+Understand the same method when contemplating materiality from taking up to laying down as suffering and as non-self. Understand it likewise for the kinds of materiality beginning with materiality in terms of growth and cessation in the stages of life. When contemplating materiality in each of the seven ways for materiality, in every case contemplate in four successive steps the insight mind-door impulsion processes that contemplated that materiality, four steps at a time. This is precisely the contemplation of an earlier insight process by a later insight process.
+
+**VI**
+4. Quán theo chuỗi tiếp nối (paṭipāṭi)
+
+**EN**
+4. Contemplating in serial order (paṭipāṭi)
+
+**VI**
+Sau khi quán sắc từ lúc nhận lấy đến lúc đặt xuống là vô thường: 1. Dùng tâm thứ hai quán tâm thứ nhất đã quán như vậy là vô thường. 2. Dùng tâm thứ ba quán tâm thứ hai. 3. Dùng tâm thứ tư quán tâm thứ ba. 4. Dùng tâm thứ năm quán tâm thứ tư. 5. Dùng tâm thứ sáu quán tâm thứ năm. 6. Dùng tâm thứ bảy quán tâm thứ sáu,
+
+**EN**
+After contemplating materiality from taking up to laying down as impermanent: 1. Use the second consciousness to contemplate as impermanent the first consciousness that contemplated in that way. 2. Use the third consciousness to contemplate the second. 3. Use the fourth consciousness to contemplate the third. 4. Use the fifth consciousness to contemplate the fourth. 5. Use the sixth consciousness to contemplate the fifth. 6. Use the seventh consciousness to contemplate the sixth,
+
+
+<a id="M09-body-P106"></a>
+## Quán tâm nối tiếp và từ bỏ tà kiến, ngã mạn / Contemplating successive mind moments and abandoning views and conceit
+Miến / Burmese 106
+
+**VI**
+7. Dùng tâm thứ tám quán tâm thứ bảy.
+
+**EN**
+7. Contemplate the seventh consciousness by means of the eighth.
+
+**VI**
+8. Dùng tâm thứ chín quán tâm thứ tám.
+
+**EN**
+8. Contemplate the eighth consciousness by means of the ninth.
+
+**VI**
+9. Dùng tâm thứ mười quán tâm thứ chín.
+
+**EN**
+9. Contemplate the ninth consciousness by means of the tenth.
+
+**VI**
+10. Dùng tâm thứ mười một quán tâm thứ mười. Cứ tuần tự quán là vô thường.
+
+**EN**
+10. Contemplate the tenth consciousness by means of the eleventh. Continue to contemplate them successively as impermanent.
+
+**VI**
+[Cũng nên tu tập thẩm sát là khổ và cũng nên tu tập thẩm sát là vô ngã. Hãy hiểu tương tự khi thẩm sát chính sắc thuộc nhóm có dưỡng chất là thứ tám (ojāṭṭhamakarūpa) là khổ hay vô ngã, và khi thẩm sát sắc thuộc nhóm có phong đại là thứ tám (vāyoaṭṭhamakarūpa), v.v., là vô thường, khổ hay vô ngã.]
+
+**EN**
+[One should also develop comprehension as suffering and develop comprehension as non-self. Understand in the same way the comprehension of the nutriment-octad materiality itself (ojāṭṭhamakarūpa) as suffering or non-self, and the comprehension of wind-octad materiality (vāyoaṭṭhamakarūpa) and so on as impermanent, suffering, or non-self.]
+
+**VI**
+5. Diṭṭhiugghāṭana — cách quán nhằm nhổ bỏ tà kiến. Khi nhiều lần quán minh sát các pháp hành theo tính vô ngã, tức là vô ngã, tà kiến được nhổ bỏ. Trí quán vô ngã, được nâng đỡ bởi năng lực cận y duyên mạnh mẽ của trí quán vô thường và trí quán khổ, có thể nhổ bỏ tà kiến, tức ngã kiến.
+
+**EN**
+5. Diṭṭhiugghāṭana—a way of contemplating to uproot wrong view. When one repeatedly contemplates formations with insight in terms of their nature of non-self, that is, as non-self, wrong view is uprooted. Knowledge that contemplates non-self, supported by the strong decisive-support condition of the knowledges that contemplate impermanence and suffering, can uproot wrong view, namely the view of self.
+
+**VI**
+6. Mānugghāṭana — cách quán nhằm nhổ bỏ ngã mạn. Khi nhiều lần quán minh sát các pháp hành theo tính vô thường, tức là vô thường, ngã mạn được từ bỏ. Trí quán vô thường, được nâng đỡ bởi năng lực cận y duyên mạnh mẽ của trí quán khổ và trí quán vô ngã, có thể từ bỏ ngã mạn.
+
+**EN**
+6. Mānugghāṭana—a way of contemplating to uproot conceit. When one repeatedly contemplates formations with insight in terms of their impermanent nature, that is, as impermanent, conceit is abandoned. Knowledge that contemplates impermanence, supported by the strong decisive-support condition of the knowledges that contemplate suffering and non-self, can abandon conceit.
+
+
+<a id="M09-body-P107"></a>
+## 7. Làm cạn sự ưa thích / 7. Exhausting Attachment
+Miến / Burmese 107
+
+**VI**
+7. Nikantipariyādāna — cách quán làm cạn ái luyến và ngăn nó sinh khởi. Khi nhiều lần quán minh sát các pháp hành theo tính khổ, tức là khổ, sự ưa thích vi tế gọi là ái sẽ cạn. Trí quán khổ nhận được sự nâng đỡ, trợ lực đặc biệt của cận y duyên mạnh mẽ từ trí quán vô thường và trí quán vô ngã, nên có thể làm cạn ái. Do đó ái không còn sinh khởi.
+
+**EN**
+7. Nikantipariyādāna—a way of contemplating to exhaust craving and attachment and prevent their arising. When one repeatedly contemplates formations with insight in terms of suffering, that is, as suffering, the subtle attachment known as craving is exhausted. Knowledge that contemplates suffering receives exceptional support through the strong decisive-support condition of the knowledges that contemplate impermanence and non-self, and can therefore exhaust craving. Thus craving no longer arises.
+
+**VI**
+Điểm cần ghi nhớ. Nếu chỉ quán các pháp hành là vô ngã, trí quán vô ngã không thể nhổ bỏ tà kiến. Nếu chỉ quán là khổ, trí quán khổ không thể làm cạn ái. Nếu chỉ quán là vô thường, trí quán vô thường không thể nhổ bỏ ngã mạn. Hãy ghi nhớ rằng chỉ khi một trí quán được hai trí quán còn lại nâng đỡ thì trí quán ấy mới có thể nhổ bỏ hoặc đoạn trừ phiền não tương ứng. (Xem Visuddhi. 2.262–264 và Mahāṭī. 2.415–416.)
+
+**EN**
+A point to note. When formations are contemplated solely as non-self, knowledge that contemplates non-self cannot uproot wrong view. When they are contemplated solely as suffering, knowledge that contemplates suffering cannot exhaust craving. When they are contemplated solely as impermanent, knowledge that contemplates impermanence cannot uproot conceit. Remember that only when one contemplation knowledge receives support from the other two can it uproot or eradicate the corresponding defilement. (See Visuddhi. 2.262–264 and Mahāṭī. 2.415–416.)
+
+**VI**
+Theo các chỉ dẫn trên, thiện nhân hãy quán minh sát nhiều lần các pháp hành trong ba thời và hai dòng tương tục, luân phiên đặt chúng dưới ba đặc tướng theo cách phân thành hai là danh và sắc, cách phân thành năm uẩn, cách phân theo các chi duyên khởi, v.v. Sau đó, đối với các pháp hành ấy:
+
+**EN**
+Following these instructions, the good person should repeatedly contemplate with insight the formations in the three periods and the two continuities, applying the three characteristics in turn by way of the twofold classification as mentality and materiality, the five aggregates, the factors of dependent origination, and so on. Then, as regards those formations:
+
+**VI**
+1. Có thể ưu tiên riêng đặc tướng vô ngã.
+
+**EN**
+1. One may give priority to non-self alone.
+
+**VI**
+2. Có thể ưu tiên riêng đặc tướng vô thường.
+
+**EN**
+2. One may give priority to impermanence alone.
+
+
+<a id="M09-body-P108"></a>
+## Ưu tiên một đặc tướng và đạt sự thuần thục / Giving priority to one characteristic and gaining familiarity
+Miến / Burmese 108
+
+**VI**
+3. Có thể ưu tiên riêng đặc tướng khổ.
+
+**EN**
+3. One may give priority to suffering alone.
+
+**VI**
+Hãy quán minh sát nhiều lần theo ít nhất một trong ba cách ấy. Khi tri kiến quán vô ngã của hành giả đã chín muồi đối với các pháp hành trong ba thời quá khứ, vị lai và hiện tại, và hai dòng tương tục nội và ngoại, làm sao tưởng về một tự ngã trong các pháp hành ấy còn có chỗ nương đứng trong tri kiến ấy? Tương tự, khi tri kiến quán vô thường của hành giả đã chín muồi đối với các pháp hành ấy, làm sao tưởng chúng là thường còn có chỗ nương đứng trong tri kiến ấy? Cũng vậy, làm sao ngọn cờ ngã mạn vươn cao “ta, ta” còn có chỗ nương đứng? Ngọn cờ ngã mạn chỉ có thể xen vào một dòng tương tục có tưởng về sự thường còn.
+
+**EN**
+Contemplate with insight repeatedly in at least one of these ways. When a meditator's knowledge contemplating non-self has matured regarding formations in the three periods of past, future, and present, and the two continuities, internal and external, how could the perception of a self in those formations still find a footing in that knowledge? Likewise, when a meditator's knowledge contemplating impermanence has matured regarding those formations, how could the perception of permanence in them still find a footing in that knowledge? Likewise, how could the banner of conceit that rises up as “I, I” find a footing? The banner of conceit can intrude only into a continuity where the perception of permanence is present.
+
+**VI**
+Tương tự, trong dòng tương tục của hành giả có tri kiến quán khổ đã chín muồi đối với các pháp hành ấy, làm sao tưởng các pháp hành ấy là lạc còn có chỗ nương đứng? Ái và ưa thích bám víu vào các pháp hành ấy chỉ có thể tìm được chỗ nương đứng trong dòng tương tục có tưởng chúng là lạc. Vì vậy, ái và ưa thích không còn tìm được chỗ nương đứng trong dòng tương tục của thiện nhân có tri kiến quán khổ đã chín muồi.
+
+**EN**
+Likewise, in the continuity of a meditator whose knowledge contemplating suffering has matured regarding those formations, how could the perception of those formations as pleasure still find a footing? Craving and attachment that cling to those formations can find a footing only in a continuity where those formations are perceived as pleasure. Thus craving and attachment can no longer find a footing in the continuity of a good person whose knowledge contemplating suffering has matured.
+
+**VI**
+Đã đạt sự thuần thục. Sattavato panassa rūpakammaṭṭhānepi arūpakammaṭṭhānepi paguṇaṃ hoti. (Visuddhi. 2.264.)
+
+**EN**
+Familiarity has been attained. Sattavato panassa rūpakammaṭṭhānepi arūpakammaṭṭhānepi paguṇaṃ hoti. (Visuddhi. 2.264.)
+
+
+<a id="M09-body-P109"></a>
+## Kết thúc chương Trí thẩm sát / End of the chapter on comprehension knowledge
+Miến / Burmese 109
+
+**VI**
+Khi hành giả có thể thành thạo tu tập cả phương pháp quán bảy cách đối với sắc và phương pháp quán bảy cách đối với vô sắc trong hai dòng tương tục nội và ngoại, hành giả đã có thể thực hành thành thạo cả đề mục sắc và đề mục danh.
+
+**EN**
+When the meditator can proficiently develop both the sevenfold contemplation of materiality and the sevenfold contemplation of immateriality in the two continuities, internal and external, the meditator has become proficient in both the materiality and mentality meditation subjects.
+
+**VI**
+Nếu có khả năng quán trong cả ba thời quá khứ, vị lai, hiện tại và cả hai dòng tương tục nội, ngoại, thì đó là sự tinh cần vượt mức thông thường.
+
+**EN**
+If one is able to contemplate in all three periods, past, future, and present, and in both continuities, internal and external, that is diligence beyond the ordinary measure.
+
+**VI**
+Hết chương Trí thẩm sát (sammasanañāṇa).
+
+**EN**
+End of the chapter on comprehension knowledge (sammasanañāṇa).
+
+
+<a id="M09-body-P110"></a>
+## Chương Trí sinh diệt / Chapter on Knowledge of Arising and Passing Away
+Miến / Burmese 110
+
+**VI**
+Chương Trí sinh diệt (udayabbayañāṇa)
+
+**EN**
+Chapter on Knowledge of Arising and Passing Away (udayabbayañāṇa)
+
+
+<a id="M09-body-P111"></a>
+## Trí sinh diệt theo cách phân danh sắc và năm uẩn / Knowledge of Arising and Passing Away by Mentality-Materiality and the Five Aggregates
+Miến / Burmese 111
+
+**VI**
+Đối tượng của trí sinh diệt là các uẩn, xứ, giới, đế và các chi duyên khởi. Trong các chi duyên khởi, chỉ những chi từ vô minh đến hữu là đối tượng của trí quán sinh diệt. (Paṭisaṃ. 52.)
+
+**EN**
+The objects of knowledge of arising and passing away are the aggregates, bases, elements, truths, and factors of dependent origination. Among the factors of dependent origination, only the factors from ignorance through becoming are objects of the knowledge contemplating arising and passing away. (Paṭisaṃ. 52.)
+
+**VI**
+Thiện nhân muốn phát triển trí sinh diệt trước hết hãy quán trong hiện tại:
+
+**EN**
+A good person wishing to develop knowledge of arising and passing away should first contemplate in the present:
+
+**VI**
+1. Riêng sắc (luân phiên nội và ngoại).
+
+**EN**
+1. Materiality alone (internally and externally in turn).
+
+**VI**
+2. Riêng danh (luân phiên nội và ngoại).
+
+**EN**
+2. Mentality alone (internally and externally in turn).
+
+**VI**
+3. Danh và sắc cùng nhau (luân phiên nội và ngoại).
+
+**EN**
+3. Mentality and materiality together (internally and externally in turn).
+
+**VI**
+Hãy nhiều lần quán minh sát, khi thì đặt dưới đặc tướng vô thường, khi thì dưới đặc tướng khổ, khi thì dưới đặc tướng vô ngã. Như đã trình bày trong các bảng thuộc phần đề mục danh, trong từng hàng của cả sáu loại lộ tâm, bắt đầu với lộ nhãn môn, khi quán riêng sắc cũng như khi quán riêng danh, hãy quán đến khi tri kiến đạt tới hiện tại sát-na. Cũng vậy, trong từng hàng trình bày ở các bảng thuộc phần đề mục danh, theo cách phân năm uẩn…
+
+**EN**
+Contemplate repeatedly with insight, applying now the characteristic of impermanence, now that of suffering, and now that of non-self. As presented in the tables in the section on mentality meditation, in each row of all six types of cognitive processes beginning with the eye-door process, contemplate both materiality separately and mentality separately until knowledge reaches the momentary present. Likewise, for each row in the tables in the mentality meditation section, by way of the five aggregates…
+
+
+<a id="M09-body-P112"></a>
+## Quán năm uẩn trong ba thời, nội và ngoại / Contemplating the Five Aggregates in Three Periods, Internally and Externally
+Miến / Burmese 112
+
+**VI**
+1. Riêng sắc.
+
+**EN**
+1. Materiality alone.
+
+**VI**
+2. Riêng thọ.
+
+**EN**
+2. Feeling alone.
+
+**VI**
+3. Riêng tưởng.
+
+**EN**
+3. Perception alone.
+
+**VI**
+4. Riêng hành.
+
+**EN**
+4. Formations alone.
+
+**VI**
+5. Riêng thức.
+
+**EN**
+5. Consciousness alone.
+
+**VI**
+Khi thì đặt dưới đặc tướng vô thường, khi thì dưới đặc tướng khổ, khi thì dưới đặc tướng vô ngã, hãy nhiều lần quán minh sát cho đến hiện tại sát-na. Quán luân phiên nội và ngoại.
+
+**EN**
+Applying now the characteristic of impermanence, now that of suffering, and now that of non-self, contemplate repeatedly with insight up to the momentary present. Contemplate internally and externally in turn.
+
+**VI**
+Tương tự, đối với các chi duyên khởi là vô minh, hành, thức, danh sắc, sáu xứ, xúc, thọ, ái, thủ và hữu (= nghiệp hữu + sinh hữu), lúc này chỉ lấy sự sinh diệt của chính các chi ấy làm cảnh. Chưa cần phân theo nhân và quả. Lần lượt đặt chúng dưới ba đặc tướng rồi quán minh sát. Hãy quán đến hiện tại sát-na.
+
+**EN**
+Likewise, for the factors of dependent origination—ignorance, formations, consciousness, mentality-materiality, the six sense bases, contact, feeling, craving, clinging, and becoming (= kamma-becoming + rebirth-becoming)—at this stage take only the arising and passing away of those factors as object. The distinction into cause and effect comes later. Apply the three characteristics in turn and contemplate with insight. Contemplate up to the momentary present.
+
+**VI**
+Quá khứ – vị lai – hiện tại – nội – ngoại. Khi có thể quán minh sát nhiều lần các pháp hành ấy trong hiện tại cho đến hiện tại sát-na, trí đã trong sáng. Khi ấy, hãy quán từ các đời quá khứ nối tiếp mà mình đã quán đến hiện tại, và từ hiện tại đến tận vị lai:
+
+**EN**
+Past, future, present, internal, external. When one can repeatedly contemplate these formations in the present up to the momentary present with insight, knowledge has become clear. Then contemplate from the successive past lives already discerned up to the present, and from the present to the end of the future:
+
+**VI**
+1. Riêng sắc.
+
+**EN**
+1. Materiality alone.
+
+**VI**
+2. Riêng danh.
+
+**EN**
+2. Mentality alone.
+
+**VI**
+3. Danh và sắc cùng nhau. Lại nữa:
+
+**EN**
+3. Mentality and materiality together. Then again:
+
+**VI**
+1. Riêng sắc.
+
+**EN**
+1. Materiality alone.
+
+**VI**
+2. Riêng thọ.
+
+**EN**
+2. Feeling alone.
+
+
+<a id="M09-body-P113"></a>
+## Cách tu tập trí sinh diệt rộng / Detailed Development of Knowledge of Arising and Passing Away
+Miến / Burmese 113
+
+**VI**
+3. Riêng tưởng.
+
+**EN**
+3. Perception alone.
+
+**VI**
+4. Riêng hành.
+
+**EN**
+4. Formations alone.
+
+**VI**
+5. Riêng thức.
+
+**EN**
+5. Consciousness alone.
+
+**VI**
+Theo cách phân hai là danh sắc và cách phân năm uẩn như vậy, hãy quán minh sát nhiều lần, luân phiên nội và ngoại:
+
+**EN**
+Using the twofold classification into mentality-materiality and the classification into five aggregates, repeatedly contemplate with insight, internally and externally in turn:
+
+**VI**
+1. Khi thì đặt dưới đặc tướng vô thường.
+
+**EN**
+1. At times, apply the characteristic of impermanence.
+
+**VI**
+2. Khi thì đặt dưới đặc tướng khổ.
+
+**EN**
+2. At times, apply the characteristic of suffering.
+
+**VI**
+3. Khi thì đặt dưới đặc tướng vô ngã.
+
+**EN**
+3. At times, apply the characteristic of non-self.
+
+**VI**
+Cần quán vô thường nhiều lần, quán khổ nhiều lần, quán vô ngã nhiều lần. Sau khi đã quán nhiều lần, có thể ưu tiên đặc tướng mình quán rõ nhất và quán một thời gian khá lâu. Khi đã đạt mức thuần thục, khi sự sinh diệt của các pháp hành ấy hiện ra hết sức rõ ràng và nhanh chóng trong trí, cho đến hiện tại sát-na, có thể chuyển sang cách tu tập trí sinh diệt rộng.
+
+**EN**
+One needs to contemplate impermanence many times, suffering many times, and non-self many times. After doing so one can give priority to the characteristic one sees most clearly and contemplate it for a considerable time. When proficiency has been reached, and the arising and passing away of those formations appears exceptionally clearly and rapidly to knowledge up to the momentary present, one may move on to the detailed method of developing knowledge of arising and passing away.
+
+**VI**
+1. Samudayadhammānupassī = udayadassana — cách quán riêng sự sinh. Trong phần thực hành của Mahāsatipaṭṭhānasutta, Đức Phật dạy quán theo ba cách ở mỗi niệm xứ:
+
+**EN**
+1. Samudayadhammānupassī = udayadassana—contemplating arising separately. In the practice section of the Mahāsatipaṭṭhānasutta, the Buddha instructed contemplation in three ways for each establishment of mindfulness:
+
+**VI**
+1. Samudayadhammānupassī — quán tính sinh khởi.
+
+**EN**
+1. Samudayadhammānupassī—contemplating the nature of arising.
+
+**VI**
+2. Vayadhammānupassī — quán tính hoại diệt.
+
+**EN**
+2. Vayadhammānupassī—contemplating the nature of passing away.
+
+**VI**
+3. Samudayavayadhammānupassī — quán tính sinh khởi và hoại diệt. Ý nghĩa của lời chỉ dạy ấy cũng…
+
+**EN**
+3. Samudayavayadhammānupassī—contemplating the nature of arising and passing away. The meaning of this instruction was also…
+
+
+<a id="M09-body-P114"></a>
+## Quán sự sinh khởi của sắc uẩn / Contemplating the Arising of the Materiality Aggregate
+Miến / Burmese 114
+
+**VI**
+…được Tôn giả Sāriputta, bậc đại tướng Chánh pháp, trình bày trong chính văn Paṭisambhidāmagga, bắt đầu bằng “Avijjāsamudayā rūpasamudayo — do vô minh sinh khởi, sắc sinh khởi.” Theo những lời chỉ dạy ấy, hành giả hãy tu tập cách quán trí sinh diệt rộng.
+
+**EN**
+…explained by the venerable Sāriputta, the great general of the Dhamma, in the text of the Paṭisambhidāmagga, beginning “Avijjāsamudayā rūpasamudayo—with the arising of ignorance, materiality arises.” Following these instructions the meditator should develop the detailed contemplation of arising and passing away.
+
+**VI**
+Ở đây trình bày mẫu quán sắc uẩn và bốn danh uẩn, bắt đầu bằng thọ uẩn lúc tái tục. Thiện nhân đã thành thạo cách quán mối liên hệ nhân quả, tức pháp duyên khởi theo phương pháp thứ nhất, sẽ có thể áp dụng tương tự để quán năm uẩn có trong từng sát-na tâm còn lại, tức từng sát-na tâm được trình bày trong các bảng của phần đề mục danh. Cần thấy rõ bằng trí và quán mối liên hệ nhân quả ở đây theo mô hình của phương pháp duyên khởi thứ nhất.
+
+**EN**
+Here the materiality aggregate and the four mental aggregates, beginning with the feeling aggregate at rebirth-linking, are given as examples. A good person already proficient in contemplating the causal connection, namely dependent origination according to the first method, will be able to apply the same pattern to contemplate the five aggregates present in each of the remaining mind moments, namely the individual mind moments presented in the tables in the section on mentality meditation. One should clearly see with knowledge and contemplate the causal relationship here according to the pattern of the first method of dependent origination.
+
+**VI**
+Sắc uẩn
+
+**EN**
+The materiality aggregate
+
+**VI**
+1. Do vô minh (20) sinh khởi, sắc tái tục (do nghiệp sinh) sinh khởi.
+
+**EN**
+1. With the arising of ignorance (20), rebirth-linking materiality (kamma-born) arises.
+
+**VI**
+2. Do ái (20) sinh khởi, ″.
+
+**EN**
+2. With the arising of craving (20), ″.
+
+**VI**
+3. Do thủ (20) sinh khởi, ″.
+
+**EN**
+3. With the arising of clinging (20), ″.
+
+**VI**
+4. Do hành (34) sinh khởi, ″.
+
+**EN**
+4. With the arising of formations (34), ″.
+
+**VI**
+5. Do nghiệp (= năng lực nghiệp của 34) sinh khởi, sắc tái tục (do nghiệp sinh) sinh khởi.
+
+**EN**
+5. With the arising of kamma (= the kammic potency of the 34), rebirth-linking materiality (kamma-born) arises.
+
+**VI**
+* Tính sinh khởi của sắc do nghiệp sinh lúc tái tục.
+
+**EN**
+* The nature of arising of kamma-born materiality at rebirth-linking.
+
+**VI**
+6. Do tâm sinh khởi, sắc do tâm sinh sinh khởi.
+
+**EN**
+6. With the arising of consciousness, consciousness-born materiality arises.
+
+**VI**
+* Tính sinh khởi của sắc do tâm sinh.
+
+**EN**
+* The nature of arising of consciousness-born materiality.
+
+**VI**
+7. Do thời tiết sinh khởi, sắc do thời tiết sinh sinh khởi.
+
+**EN**
+7. With the arising of temperature, temperature-born materiality arises.
+
+
+<a id="M09-body-P115"></a>
+## Sắc do thời tiết và vật thực sinh, thọ và tưởng lúc tái tục / Temperature- and Nutriment-Born Materiality, Feeling and Perception at Rebirth-Linking
+Miến / Burmese 115
+
+**VI**
+* Tính sinh khởi của sắc do thời tiết sinh.
+
+**EN**
+* The nature of arising of temperature-born materiality.
+
+**VI**
+8. Do vật thực sinh khởi, sắc do vật thực sinh sinh khởi.
+
+**EN**
+8. With the arising of nutriment, nutriment-born materiality arises.
+
+**VI**
+* Tính sinh khởi của sắc do vật thực sinh.
+
+**EN**
+* The nature of arising of nutriment-born materiality.
+
+**VI**
+[Ghi chú. Ở sát-na tái tục chỉ có sắc do nghiệp sinh. Đặc biệt, vào tiểu sát-na sinh của tái tục chỉ có sắc do nghiệp sinh. Sắc do tâm, thời tiết và vật thực sinh chưa có. Chúng được nêu ở đây cho sắc uẩn có ở những sát-na tâm về sau.]
+
+**EN**
+[Note. At the rebirth-linking moment only kamma-born materiality is present. Specifically, at the arising submoment of rebirth-linking there is only kamma-born materiality. Consciousness-born, temperature-born, and nutriment-born materiality are yet to arise. They are included here for the materiality aggregate present at later mind moments.]
+
+**VI**
+Thọ uẩn lúc tái tục
+
+**EN**
+Feeling aggregate at rebirth-linking
+
+**VI**
+1. Do vô minh (20) sinh khởi, thọ lúc tái tục sinh khởi.
+
+**EN**
+1. With the arising of ignorance (20), feeling at rebirth-linking arises.
+
+**VI**
+2. ái (20)  ″  ″
+
+**EN**
+2. craving (20)  ″  ″
+
+**VI**
+3. thủ (20)  ″  ″
+
+**EN**
+3. clinging (20)  ″  ″
+
+**VI**
+4. hành (34)  ″  ″
+
+**EN**
+4. formations (34)  ″  ″
+
+**VI**
+5. Do nghiệp (= năng lực nghiệp của 34) sinh khởi, thọ lúc tái tục sinh khởi.
+
+**EN**
+5. With the arising of kamma (= the kammic potency of the 34), feeling at rebirth-linking arises.
+
+**VI**
+6. vật (= sắc ý vật)  ″  ″
+
+**EN**
+6. basis (= heart-base)  ″  ″
+
+**VI**
+7. cảnh (= cảnh của tâm tái tục)  ″  ″
+
+**EN**
+7. object (= object of rebirth-linking consciousness)  ″  ″
+
+**VI**
+8. xúc (= 34 − thọ = 33)  ″  ″
+
+**EN**
+8. contact (= 34 − feeling = 33)  ″  ″
+
+**VI**
+* Tính sinh khởi của thọ lúc tái tục.
+
+**EN**
+* The nature of arising of feeling at rebirth-linking.
+
+**VI**
+Tưởng uẩn lúc tái tục
+
+**EN**
+Perception aggregate at rebirth-linking
+
+**VI**
+1. Do vô minh (20) sinh khởi, tưởng lúc tái tục sinh khởi.
+
+**EN**
+1. With the arising of ignorance (20), perception at rebirth-linking arises.
+
+**VI**
+2. ái (20)  ″  ″
+
+**EN**
+2. craving (20)  ″  ″
+
+**VI**
+3. thủ (20)  ″  ″
+
+**EN**
+3. clinging (20)  ″  ″
+
+**VI**
+4. hành (34)  ″  ″
+
+**EN**
+4. formations (34)  ″  ″
+
+
+<a id="M09-body-P116"></a>
+## Tưởng uẩn và hành uẩn lúc tái tục / The Perception and Formations Aggregates at Rebirth-Linking
+Miến / Burmese 116
+
+**VI**
+5. Do nghiệp (= năng lực nghiệp của 34) sinh khởi, tưởng lúc tái tục sinh khởi.
+
+**EN**
+5. With the arising of kamma (= the kammic potency of the 34), perception at rebirth-linking arises.
+
+**VI**
+6. vật (= sắc ý vật)  ″  ″
+
+**EN**
+6. basis (= heart-base)  ″  ″
+
+**VI**
+7. cảnh (= cảnh của tâm tái tục)  ″  ″
+
+**EN**
+7. object (= object of rebirth-linking consciousness)  ″  ″
+
+**VI**
+8. xúc (= 34 − tưởng = 33)  ″  ″
+
+**EN**
+8. contact (= 34 − perception = 33)  ″  ″
+
+**VI**
+* Tính sinh khởi của tưởng lúc tái tục.
+
+**EN**
+* The nature of arising of perception at rebirth-linking.
+
+**VI**
+Hành uẩn lúc tái tục (= tư)
+
+**EN**
+Formations aggregate at rebirth-linking (= volition)
+
+**VI**
+1. Do vô minh (20) sinh khởi, hành lúc tái tục sinh khởi.
+
+**EN**
+1. With the arising of ignorance (20), formations at rebirth-linking arises.
+
+**VI**
+2. ái (20)  ″  ″
+
+**EN**
+2. craving (20)  ″  ″
+
+**VI**
+3. thủ (20)  ″  ″
+
+**EN**
+3. clinging (20)  ″  ″
+
+**VI**
+4. hành (34)  ″  ″
+
+**EN**
+4. formations (34)  ″  ″
+
+**VI**
+5. Do nghiệp (= năng lực nghiệp của 34) sinh khởi, hành lúc tái tục sinh khởi.
+
+**EN**
+5. With the arising of kamma (= the kammic potency of the 34), formations at rebirth-linking arises.
+
+**VI**
+6. vật (= sắc ý vật)  ″  ″
+
+**EN**
+6. basis (= heart-base)  ″  ″
+
+**VI**
+7. cảnh (= cảnh của tâm tái tục)  ″  ″
+
+**EN**
+7. object (= object of rebirth-linking consciousness)  ″  ″
+
+**VI**
+8. xúc (= 34 − tư = 33)  ″  ″
+
+**EN**
+8. contact (= 34 − volition = 33)  ″  ″
+
+**VI**
+* Tính sinh khởi của hành lúc tái tục.
+
+**EN**
+* The nature of arising of formations at rebirth-linking.
+
+**VI**
+Hành uẩn lúc tái tục (= 34 − thọ, tưởng và thức = 31)
+
+**EN**
+Formations aggregate at rebirth-linking (= 34 − feeling, perception, and consciousness = 31)
+
+**VI**
+1. Do vô minh (20) sinh khởi, hành lúc tái tục sinh khởi.
+
+**EN**
+1. With the arising of ignorance (20), formations at rebirth-linking arises.
+
+**VI**
+2. ái (20)  ″  ″
+
+**EN**
+2. craving (20)  ″  ″
+
+**VI**
+3. thủ (20)  ″  ″
+
+**EN**
+3. clinging (20)  ″  ″
+
+**VI**
+4. hành (34)  ″  ″
+
+**EN**
+4. formations (34)  ″  ″
+
+**VI**
+5. Do nghiệp (= năng lực nghiệp của 34) sinh khởi, hành lúc tái tục sinh khởi.
+
+**EN**
+5. With the arising of kamma (= the kammic potency of the 34), formations at rebirth-linking arises.
+
+**VI**
+6. vật (= sắc ý vật)  ″  ″
+
+**EN**
+6. basis (= heart-base)  ″  ″
+
+**VI**
+7. cảnh (= cảnh của tâm tái tục)  ″  ″
+
+**EN**
+7. object (= object of rebirth-linking consciousness)  ″  ″
+
+
+<a id="M09-body-P117"></a>
+## Hành uẩn và thức uẩn lúc tái tục / The Formations and Consciousness Aggregates at Rebirth-Linking
+Miến / Burmese 117
+
+**VI**
+8. ba danh uẩn còn lại  ″  ″
+
+**EN**
+8. the three remaining mental aggregates  ″  ″
+
+**VI**
+* Tính sinh khởi của hành lúc tái tục.
+
+**EN**
+* The nature of arising of formations at rebirth-linking.
+
+**VI**
+[Ba danh uẩn còn lại là thọ uẩn, tưởng uẩn và thức uẩn. Về danh pháp, trong 34 pháp, 31 tâm sở ngoài ba uẩn ấy thuộc về phía quả. Xúc cũng có trong số đó. Vì vậy chỉ ba pháp còn lại, thọ, tưởng và thức, ở phía nhân.]
+
+**EN**
+[The three remaining mental aggregates are the feeling, perception, and consciousness aggregates. Of the 34 mental phenomena, the 31 mental factors apart from those three aggregates belong on the side of the effect. Contact is among them. Hence only the other three phenomena, feeling, perception, and consciousness, stand on the side of the cause.]
+
+**VI**
+Thức uẩn lúc tái tục
+
+**EN**
+Consciousness aggregate at rebirth-linking
+
+**VI**
+1. Do vô minh (20) sinh khởi, thức lúc tái tục sinh khởi.
+
+**EN**
+1. With the arising of ignorance (20), consciousness at rebirth-linking arises.
+
+**VI**
+2. ái (20)  ″  ″
+
+**EN**
+2. craving (20)  ″  ″
+
+**VI**
+3. thủ (20)  ″  ″
+
+**EN**
+3. clinging (20)  ″  ″
+
+**VI**
+4. hành (34)  ″  ″
+
+**EN**
+4. formations (34)  ″  ″
+
+**VI**
+5. nghiệp (= năng lực nghiệp của 34)  ″  ″
+
+**EN**
+5. kamma (= the kammic potency of the 34)  ″  ″
+
+**VI**
+6. danh sắc  ″  ″
+
+**EN**
+6. mentality-materiality  ″  ″
+
+**VI**
+* Tính sinh khởi của thức lúc tái tục.
+
+**EN**
+* The nature of arising of consciousness at rebirth-linking.
+
+**VI**
+Danh = các tâm sở tương ưng (= 33).
+
+**EN**
+Mentality = the associated mental factors (= 33).
+
+**VI**
+Sắc = sắc ý vật trong 30 sắc + sắc làm cảnh.
+
+**EN**
+Materiality = heart-base materiality among the 30 material phenomena + materiality as object.
+
+**VI**
+Cứ theo phương pháp này, hãy quán năm uẩn ở từng sát-na tâm được trình bày trong các bảng phần đề mục danh: năm uẩn lúc hữu phần, năm uẩn lúc tử, năm uẩn lúc hướng tâm ngũ môn, năm uẩn lúc nhãn thức, v.v. Cách quán này không khó đối với những thiện nhân đã thành thạo nhận diện nhân và quả theo phương pháp duyên khởi thứ nhất.
+
+**EN**
+Follow this method to contemplate the five aggregates at each mind moment presented in the tables in the section on mentality meditation: the five aggregates at life-continuum, the five aggregates at death, the five aggregates at five-door adverting, the five aggregates at eye-consciousness, and so on. This mode of contemplation presents little difficulty for good people already proficient in discerning causes and effects by the first method of dependent origination.
+
+
+<a id="M09-body-P118"></a>
+## 2. Quán riêng sự hoại diệt / 2. Contemplating Passing Away Separately
+Miến / Burmese 118
+
+**VI**
+Điểm cần ghi nhớ. Con số 20 ghi cho vô minh, ái và thủ chỉ là một mẫu. Con số 34 ghi cho hành cũng chỉ là một mẫu. Hãy nhận diện và tu tập đúng theo những gì đã sinh, đang sinh và sẽ sinh trong dòng danh sắc của mình. Số tâm và tâm sở có thể thay đổi. Các hành có thể thay đổi giữa thiện và bất thiện. Hãy quán từ các đời quá khứ nối tiếp đến tận vị lai, trong phạm vi có thể quán được.
+
+**EN**
+A point to note. The figure 20 given for ignorance, craving, and clinging is only an example. The figure 34 given for formations is likewise only an example. Discern and develop contemplation in accordance with what has arisen, is arising, and will arise in your own continuity of mentality-materiality. The number of consciousnesses and mental factors may vary. Formations may vary between wholesome and unwholesome. Contemplate from successive past lives to the end of the future as far as you are able.
+
+**VI**
+2. Vayadhammānupassī = vayadassana — cách quán riêng sự hoại diệt.
+
+**EN**
+2. Vayadhammānupassī = vayadassana—contemplating passing away separately.
+
+**VI**
+Avijjānirodhā rūpanirodhoti paccayanirodhena rūpakkhandhassa vayaṃ passati. (Paṭisaṃ. 54.)
+
+**EN**
+Avijjānirodhā rūpanirodhoti paccayanirodhena rūpakkhandhassa vayaṃ passati. (Paṭisaṃ. 54.)
+
+**VI**
+Avijjānirodhā rūpanirodhoti aggamaggakkhaṇena avijjāya anuppādanirodhato anāgatassa rūpassa anuppādanirodho hoti paccayābhāve abhāvato. (Mahāṭī. 2.421.)
+
+**EN**
+Avijjānirodhā rūpanirodhoti aggamaggakkhaṇena avijjāya anuppādanirodhato anāgatassa rūpassa anuppādanirodho hoti paccayābhāve abhāvato. (Mahāṭī. 2.421.)
+
+**VI**
+Hành giả đã dùng tuệ nhãn minh sát thấy thật rõ sự sinh khởi của các quả như sắc do các nhân như vô minh sinh khởi. Khi các nhân như vô minh chấm dứt do A-la-hán đạo, không sinh lại nữa, tức chấm dứt theo tính diệt do không sinh lại (anuppādanirodha), thì các quả như sắc cũng chấm dứt và không sinh lại theo tính ấy. Nếu hướng trí minh sát về tương lai, quán các sát-na của A-la-hán đạo và thời kỳ sau tâm tử lúc viên tịch, hành giả sẽ dễ thấy điều ấy. Ở đây, thiện nhân cũng cần biết về…
+
+**EN**
+The meditator has seen very distinctly, with the eye of insight wisdom, how effects such as materiality arise because causes such as ignorance arise. When the causes such as ignorance cease through the arahant path, never to arise again, that is, they cease by cessation through non-arising (anuppādanirodha), effects such as materiality also cease, never to arise again, in the same way. If the meditator directs insight knowledge towards the future and contemplates the moment of the arahant path and the period after the death consciousness at final Nibbāna, this will be readily seen. Here the good person should also understand…
+
+
+<a id="M09-body-P119"></a>
+## Diệt sau khi sinh và diệt do không sinh lại / Cessation After Arising and Cessation Through Non-Arising
+Miến / Burmese 119
+
+**VI**
+…diệt sau khi sinh (uppādanirodha) và diệt do không sinh lại (anuppādanirodha).
+
+**EN**
+…cessation after arising (uppādanirodha) and cessation through non-arising (anuppādanirodha).
+
+**VI**
+Uppādanirodha. Các pháp hành làm nhân và các pháp hành làm quả đều là các pháp hành diệt sau khi đã sinh. Vì tính vô thường, các pháp hành ấy vừa mới sinh liền diệt, ngay ở hiện tại sát-na. Sự sinh rồi diệt ấy được gọi là diệt sau khi sinh. Bao lâu các nhân còn tiếp tục trợ lực, các quả cũng tiếp tục nối nhau trong suốt thời gian ấy, tức sinh rồi diệt theo tính diệt sau khi sinh. (Hãy ghi nhớ rằng các nhân cũng là các pháp hành làm quả sinh do những nhân tương ứng của chúng.) Vì đã diệt mà các nhân vẫn còn, chúng lại sinh rồi diệt. Do tính chất ấy, đây được gọi là diệt sau khi sinh, tức sự diệt vẫn còn có lần sinh sau. Cũng thường gọi là diệt từng sát-na (khaṇikanirodha).
+
+**EN**
+Uppādanirodha. Formations that are causes and formations that are effects alike pass away once they have arisen. Because of impermanence those formations arise and immediately dissolve, in the momentary present. This arising followed by dissolution is called cessation after arising. As long as the causes continue to render assistance, the effects continue in succession throughout that period, arising and ceasing according to the nature of cessation after arising. (Remember that the causes too are resultant formations that have arisen from their respective causes.) After cessation, the causes are still present, so there is further arising and ceasing. For that reason it is called cessation after arising, a cessation still followed by renewed arising. It is also commonly called momentary cessation (khaṇikanirodha).
+
+**VI**
+Anuppādanirodha. Dự lưu đạo, Nhất lai đạo và Bất lai đạo đoạn trừ không dư sót các phiền não tương ứng. Trí A-la-hán đạo, gọi là đạo tối thượng (aggamagga), đoạn trừ không dư sót các phiền não còn lại, như vô minh. Khi các trí Thánh đạo, cho đến trí A-la-hán đạo, đã đoạn trừ không dư sót các phiền não tương ứng, những phiền não ấy tuyệt nhiên không còn cơ hội sinh lại trong dòng danh sắc. Chúng chấm dứt hoàn toàn, không dư sót, theo cách diệt rồi không sinh lại. Sự chấm dứt không sinh lại như thế được gọi là anuppādanirodha.
+
+**EN**
+Anuppādanirodha. The stream-entry path, once-return path, and non-return path eradicate their respective defilements without remainder. The knowledge of the arahant path, called the supreme path (aggamagga), eradicates the remaining defilements such as ignorance without remainder. When the noble path knowledges, up through the knowledge of the arahant path, have eradicated their respective defilements without remainder, those defilements have no further opportunity to arise in the continuity of mentality-materiality. They cease completely, without remainder, never arising again. Such cessation without further arising is called anuppādanirodha.
+
+
+<a id="M09-body-P120"></a>
+## Quán sự diệt do không sinh lại của sắc uẩn / Contemplating Cessation Through Non-Arising in the Materiality Aggregate
+Miến / Burmese 120
+
+**VI**
+Khi các nhân như vô minh đã chấm dứt theo tính diệt do không sinh lại, tức anuppādanirodha, thì các quả như sắc, vốn có thể tiếp tục sinh khởi trong tương lai sau tâm tử lúc viên tịch nếu nhân vẫn còn, cũng không còn cơ hội tiếp tục sinh. Chúng chấm dứt theo tính diệt do không sinh lại. Điều này cũng được gọi là anuppādanirodha. Chúng chấm dứt vì khi các nhân vắng mặt, các quả cũng vắng mặt.
+
+**EN**
+When causes such as ignorance have ceased by cessation through non-arising, anuppādanirodha, the effects such as materiality, which could continue to arise in the future after the death consciousness at final Nibbāna if the causes still remained, likewise have no further opportunity to arise. They cease by cessation through non-arising. This too is called anuppādanirodha. They cease because, in the absence of the causes, the effects too are absent.
+
+**VI**
+Hành giả nên hướng trí minh sát về tương lai cho đến A-la-hán đạo mà mình sẽ đạt và về tương lai cho đến tâm tử lúc viên tịch, rồi dùng trí minh sát quán cho thấy rõ tính diệt do không sinh lại ấy. Khi đã thực sự thấy bằng tuệ nhãn minh sát rằng vì các nhân chấm dứt theo tính diệt do không sinh lại, các quả cũng chấm dứt theo tính diệt do không sinh lại, hãy tiếp tục theo cách quán dưới đây.
+
+**EN**
+The meditator should direct insight knowledge towards the future up to the arahant path one will attain and towards the future up to the death consciousness at final Nibbāna, and contemplate with insight knowledge so as to see clearly that nature of cessation through non-arising. Once one has truly seen with the eye of insight wisdom that, because the causes cease through non-arising, the effects also cease through non-arising, continue with the following mode of contemplation.
+
+**VI**
+Cách quán sắc uẩn
+
+**EN**
+Pattern of contemplation for the materiality aggregate
+
+**VI**
+1. Do vô minh diệt, sắc (do nghiệp sinh) diệt.
+
+**EN**
+1. With the cessation of ignorance, (kamma-born) materiality ceases.
+
+**VI**
+2. Do ái diệt, sắc (do nghiệp sinh) diệt.
+
+**EN**
+2. With the cessation of craving, (kamma-born) materiality ceases.
+
+**VI**
+3. Do thủ diệt, sắc (do nghiệp sinh) diệt.
+
+**EN**
+3. With the cessation of clinging, (kamma-born) materiality ceases.
+
+**VI**
+4. Do hành diệt, sắc (do nghiệp sinh) diệt.
+
+**EN**
+4. With the cessation of formations, (kamma-born) materiality ceases.
+
+**VI**
+5. Do nghiệp diệt, sắc (do nghiệp sinh) diệt.
+
+**EN**
+5. With the cessation of kamma, (kamma-born) materiality ceases.
+
+**VI**
+[Ở đây là diệt do không sinh lại. Sắc vị lai chấm dứt vì diệt rồi không sinh lại.]
+
+**EN**
+[This is cessation through non-arising. Future materiality ceases by cessation without arising again.]
+
+
+<a id="M09-body-P121"></a>
+## Quán sự diệt của sắc / Contemplating the cessation of materiality
+Miến / Burmese 121
+
+**VI**
+* Tính diệt của sắc do nghiệp sinh là tính hoại diệt. (Uppādanirodha.)
+
+**EN**
+* The cessation of kamma-produced materiality is its dissolution. (Uppādanirodha.)
+
+**VI**
+6. Do tâm diệt, sắc do tâm sinh diệt. (Anuppādanirodha.)
+
+**EN**
+6. With the cessation of consciousness, consciousness-produced materiality ceases. (Anuppādanirodha.)
+
+**VI**
+* Tính diệt của sắc do tâm sinh là tính hoại diệt. (Uppādanirodha.)
+
+**EN**
+* The cessation of consciousness-produced materiality is its dissolution. (Uppādanirodha.)
+
+**VI**
+7. Do nhiệt độ diệt, sắc do nhiệt độ sinh diệt. (Anuppādanirodha.)
+
+**EN**
+7. With the cessation of temperature, temperature-produced materiality ceases. (Anuppādanirodha.)
+
+**VI**
+* Tính diệt của sắc do nhiệt độ sinh là tính hoại diệt. (Uppādanirodha.)
+
+**EN**
+* The cessation of temperature-produced materiality is its dissolution. (Uppādanirodha.)
+
+**VI**
+8. Do vật thực diệt, sắc do vật thực sinh diệt. (Anuppādanirodha.)
+
+**EN**
+8. With the cessation of nutriment, nutriment-produced materiality ceases. (Anuppādanirodha.)
+
+**VI**
+* Tính diệt của sắc do vật thực sinh là tính hoại diệt. (Uppādanirodha.)
+
+**EN**
+* The cessation of nutriment-produced materiality is its dissolution. (Uppādanirodha.)
+
+**VI**
+Người mới hành thiền phải quán cho biết rõ hai loại diệt trong cách quán này: anuppādanirodha, sự diệt mà sau đó không còn sinh trở lại, và uppādanirodha, sự diệt mà sau đó còn sinh trở lại. Trong Chánh tạng Paṭisambhidāmagga (53), uppādanirodha được gọi là vipariṇāmalakkhaṇa, đặc tướng biến đổi. Đó là sự tan rã ở sát-na diệt của các pháp hữu vi. Với cách quán này cũng vậy, trong cả sáu nhóm, bắt đầu từ nhóm cảnh sắc, hãy chia thành năm uẩn ở từng nhóm tâm đã trình bày trong các bảng ở phần đề mục danh (như đã trình bày ở phương pháp thứ nhất về duyên khởi), và quán đầy đủ các lộ tốc hành thiện và bất thiện. Hãy quán khi thì bên trong, khi thì bên ngoài. Để có mẫu cho phương diện danh uẩn trong cách quán ấy, sau đây trình bày một cách quán thọ uẩn thuộc nhãn thức.
+
+**EN**
+The beginning meditator must contemplate so as to distinguish clearly the two kinds of cessation in this mode of contemplation: anuppādanirodha, cessation without subsequent arising, and uppādanirodha, cessation after which there is subsequent arising. In the canonical Paṭisambhidāmagga (53), uppādanirodha is called vipariṇāmalakkhaṇa, the characteristic of change. It is the dissolution of formations at the moment of dissolution. In this method of contemplation too, in all six groups beginning with the visible-object group, divide each group of consciousness shown in the tables in the section on the mentality meditation subject into five aggregates (as explained in the first method of dependent origination), and contemplate all the wholesome and unwholesome impulsion processes. Contemplate now internally, now externally. To give a model for the mental aggregates in this contemplation, a way to contemplate the feeling aggregate associated with eye-consciousness follows.
+
+
+<a id="M09-body-P122"></a>
+## Cách quán thọ uẩn thuộc nhãn thức / How to contemplate the feeling aggregate associated with eye-consciousness
+Miến / Burmese 122
+
+**VI**
+1. Do vô minh diệt, thọ thuộc nhãn thức diệt.
+
+**EN**
+1. With the cessation of ignorance, feeling associated with eye-consciousness ceases.
+
+**VI**
+2. Do ái diệt, thọ thuộc nhãn thức diệt.
+
+**EN**
+2. With the cessation of craving, feeling associated with eye-consciousness ceases.
+
+**VI**
+3. Do thủ diệt, thọ thuộc nhãn thức diệt.
+
+**EN**
+3. With the cessation of clinging, feeling associated with eye-consciousness ceases.
+
+**VI**
+4. Do hành diệt, thọ thuộc nhãn thức diệt.
+
+**EN**
+4. With the cessation of formations, feeling associated with eye-consciousness ceases.
+
+**VI**
+5. Do nghiệp diệt, thọ thuộc nhãn thức diệt.
+
+**EN**
+5. With the cessation of kamma, feeling associated with eye-consciousness ceases.
+
+**VI**
+6. Do nhãn vật diệt, thọ thuộc nhãn thức diệt.
+
+**EN**
+6. With the cessation of eye-base, feeling associated with eye-consciousness ceases.
+
+**VI**
+7. Do cảnh sắc diệt, thọ thuộc nhãn thức diệt.
+
+**EN**
+7. With the cessation of visible object, feeling associated with eye-consciousness ceases.
+
+**VI**
+8. Do nhãn xúc (= 7) diệt, thọ thuộc nhãn thức diệt.
+
+**EN**
+8. With the cessation of eye-contact (= 7), feeling associated with eye-consciousness ceases.
+
+**VI**
+9. Do ánh sáng diệt, thọ thuộc nhãn thức diệt.
+
+**EN**
+9. With the cessation of light, feeling associated with eye-consciousness ceases.
+
+**VI**
+10. Do tác ý diệt, thọ thuộc nhãn thức diệt. (Anuppādanirodha.)
+
+**EN**
+10. With the cessation of attention, feeling associated with eye-consciousness ceases. (Anuppādanirodha.)
+
+**VI**
+* Tính diệt của thọ thuộc nhãn thức là tính hoại diệt. (Uppādanirodha.)
+
+**EN**
+* The cessation of feeling associated with eye-consciousness is its dissolution. (Uppādanirodha.)
+
+**VI**
+Tùy khả năng của mình, hãy quán theo cùng mẫu từ các đời quá khứ liên tiếp cho đến cuối các đời vị lai.
+
+**EN**
+As far as you are able, contemplate according to the same pattern from successive past lives to the end of future lives.
+
+**VI**
+3. Samudayavayadhammānupassī — tùy quán tính sinh và diệt
+
+**EN**
+3. Samudayavayadhammānupassī — contemplating the nature of arising and vanishing
+
+**VI**
+Udayavayadassana — cách quán thấy sinh diệt.
+
+**EN**
+Udayavayadassana — the method of seeing arising and vanishing.
+
+**VI**
+Samudayadhammānupassī vā kāyasmiṃ viharati, vayadhammānupassī vā kāyasmiṃ viharati, samudayavayadhammānupassī vā kāyasmiṃ viharati. (Mahāsatipaṭṭhānasutta, Mahā. 173.)
+
+**EN**
+Samudayadhammānupassī vā kāyasmiṃ viharati, vayadhammānupassī vā kāyasmiṃ viharati, samudayavayadhammānupassī vā kāyasmiṃ viharati. (Mahāsatipaṭṭhānasutta, Mahā. 173.)
+
+**VI**
+Avijjāsamudayā rūpasamudayoti, pe, avijjānirodhā rūpanirodho. (Paṭis. 53, 54.)
+
+**EN**
+Avijjāsamudayā rūpasamudayoti, pe, avijjānirodhā rūpanirodho. (Paṭis. 53, 54.)
+
+
+<a id="M09-body-P123"></a>
+## Quán sinh diệt của sắc uẩn / Contemplating the arising and vanishing of the materiality aggregate
+Miến / Burmese 123
+
+**VI**
+Tesaṃ vasena evaṃ rūpassa udayo, evaṃ rūpassa vayo, evaṃ rūpaṃ udeti, evaṃ rūpaṃ vetīti paccayato ceva khaṇato ca vitthārena manasikāraṃ karoti. (Vism. 2, 267.)
+
+**EN**
+Tesaṃ vasena evaṃ rūpassa udayo, evaṃ rūpassa vayo, evaṃ rūpaṃ udeti, evaṃ rūpaṃ vetīti paccayato ceva khaṇato ca vitthārena manasikāraṃ karoti. (Vism. 2, 267.)
+
+**VI**
+Theo lời chỉ dẫn trong Chánh tạng Pāli và Chú giải như vậy, hiền giả đang thực hành phương pháp tu tập chi tiết tuệ sinh diệt cần nhìn bằng tuệ minh sát cho thấy rõ quả sinh do nhân sinh và quả diệt do nhân diệt, rồi tu tập lặp đi lặp lại, nối nhân với quả. Để quán như vậy:
+
+**EN**
+Following the instructions in the Pāli Canon and commentaries, the good practitioner training in the detailed method of developing knowledge of arising and vanishing should look with insight knowledge to see clearly how results arise because causes arise and cease because causes cease. Then practise this repeatedly, relating causes and results. To contemplate in this manner:
+
+**VI**
+Sapaccayanāmarūpadassanaṃ tilakkhaṇaṃ āropetvā vipassanāpaṭipāṭiyā “aniccaṃ dukkhaṃ anattā”ti sammasanto vicarati. (Ma. A. 1, 281.)
+
+**EN**
+Sapaccayanāmarūpadassanaṃ tilakkhaṇaṃ āropetvā vipassanāpaṭipāṭiyā “aniccaṃ dukkhaṃ anattā”ti sammasanto vicarati. (Ma. A. 1, 281.)
+
+**VI**
+Theo các chỉ dẫn của Chú giải như vậy, cần lần lượt áp dụng ba đặc tướng cho cả nhân và quả để quán minh sát. Do đó, ở đây trình bày cách quán minh sát nối nhân với quả và áp dụng đặc tướng vô thường. Đối với cách quán minh sát áp dụng riêng đặc tướng khổ và đặc tướng vô ngã, hãy hiểu theo cùng một cách.
+
+**EN**
+In accordance with such instructions from the commentaries, contemplate with insight, applying the three characteristics in turn to both causes and results. Thus the method presented here relates causes and results and applies the characteristic of impermanence. Understand in the same way how to contemplate with insight applying the characteristics of suffering and non-self separately.
+
+**VI**
+Thấy sự sinh và diệt của sắc uẩn
+
+**EN**
+Seeing the arising and vanishing of the materiality aggregate
+
+**VI**
+1. Do vô minh sinh, sắc do nghiệp sinh sinh. Do vô minh diệt, sắc do nghiệp sinh diệt.
+
+**EN**
+1. With the arising of ignorance, kamma-produced materiality arises. With the cessation of ignorance, kamma-produced materiality ceases.
+
+**VI**
+Vô minh — (sinh–diệt) vô thường. Sắc do nghiệp sinh — (sinh–diệt) vô thường.
+
+**EN**
+Ignorance — (arising–ceasing) impermanent. Kamma-produced materiality — (arising–ceasing) impermanent.
+
+**VI**
+2. Do ái sinh, sắc do nghiệp sinh sinh. Do ái diệt, sắc do nghiệp sinh diệt.
+
+**EN**
+2. With the arising of craving, kamma-produced materiality arises. With the cessation of craving, kamma-produced materiality ceases.
+
+
+<a id="M09-body-P124"></a>
+## Sinh diệt của sắc uẩn và thọ thuộc nhãn thức / Arising and vanishing of materiality and feeling associated with eye-consciousness
+Miến / Burmese 124
+
+**VI**
+Ái — (sinh–diệt) vô thường. Sắc do nghiệp sinh — (sinh–diệt) vô thường.
+
+**EN**
+Craving — (arising–ceasing) impermanent. Kamma-produced materiality — (arising–ceasing) impermanent.
+
+**VI**
+3. Do thủ sinh, sắc do nghiệp sinh sinh. Do thủ diệt, sắc do nghiệp sinh diệt.
+
+**EN**
+3. With the arising of clinging, kamma-produced materiality arises. With the cessation of clinging, kamma-produced materiality ceases.
+
+**VI**
+Thủ — (sinh–diệt) vô thường. Sắc do nghiệp sinh — (sinh–diệt) vô thường.
+
+**EN**
+Clinging — (arising–ceasing) impermanent. Kamma-produced materiality — (arising–ceasing) impermanent.
+
+**VI**
+4. Do hành sinh, sắc do nghiệp sinh sinh. Do hành diệt, sắc do nghiệp sinh diệt.
+
+**EN**
+4. With the arising of formations, kamma-produced materiality arises. With the cessation of formations, kamma-produced materiality ceases.
+
+**VI**
+Hành — (sinh–diệt) vô thường. Sắc do nghiệp sinh — (sinh–diệt) vô thường.
+
+**EN**
+Formations — (arising–ceasing) impermanent. Kamma-produced materiality — (arising–ceasing) impermanent.
+
+**VI**
+5. Do nghiệp sinh, sắc do nghiệp sinh sinh. Do nghiệp diệt, sắc do nghiệp sinh diệt.
+
+**EN**
+5. With the arising of kamma, kamma-produced materiality arises. With the cessation of kamma, kamma-produced materiality ceases.
+
+**VI**
+Nghiệp (= tư) — (sinh–diệt) vô thường. Sắc do nghiệp sinh — (sinh–diệt) vô thường.
+
+**EN**
+Kamma (= volition) — (arising–ceasing) impermanent. Kamma-produced materiality — (arising–ceasing) impermanent.
+
+**VI**
+6. Do tâm sinh, sắc do tâm sinh sinh. Do tâm diệt, sắc do tâm sinh diệt.
+
+**EN**
+6. With the arising of consciousness, consciousness-produced materiality arises. With the cessation of consciousness, consciousness-produced materiality ceases.
+
+**VI**
+Tâm — (sinh–diệt) vô thường. Sắc do tâm sinh — (sinh–diệt) vô thường.
+
+**EN**
+Consciousness — (arising–ceasing) impermanent. Consciousness-produced materiality — (arising–ceasing) impermanent.
+
+**VI**
+7. Do nhiệt độ sinh, sắc do nhiệt độ sinh sinh. Do nhiệt độ diệt, sắc do nhiệt độ sinh diệt.
+
+**EN**
+7. With the arising of temperature, temperature-produced materiality arises. With the cessation of temperature, temperature-produced materiality ceases.
+
+**VI**
+Nhiệt độ — (sinh–diệt) vô thường. Sắc do nhiệt độ sinh — (sinh–diệt) vô thường.
+
+**EN**
+Temperature — (arising–ceasing) impermanent. Temperature-produced materiality — (arising–ceasing) impermanent.
+
+**VI**
+8. Do vật thực sinh, sắc do vật thực sinh sinh. Do vật thực diệt, sắc do vật thực sinh diệt.
+
+**EN**
+8. With the arising of nutriment, nutriment-produced materiality arises. With the cessation of nutriment, nutriment-produced materiality ceases.
+
+**VI**
+Vật thực — (sinh–diệt) vô thường. Sắc do vật thực sinh — (sinh–diệt) vô thường.
+
+**EN**
+Nutriment — (arising–ceasing) impermanent. Nutriment-produced materiality — (arising–ceasing) impermanent.
+
+**VI**
+Cách quán thọ uẩn thuộc nhãn thức
+
+**EN**
+How to contemplate the feeling aggregate associated with eye-consciousness
+
+**VI**
+1. Do vô minh sinh, thọ thuộc nhãn thức sinh. Do vô minh diệt, thọ thuộc nhãn thức diệt.
+
+**EN**
+1. With the arising of ignorance, feeling associated with eye-consciousness arises. With the cessation of ignorance, feeling associated with eye-consciousness ceases.
+
+**VI**
+Vô minh — (sinh–diệt) vô thường. Thọ thuộc nhãn thức — (sinh–diệt) vô thường.
+
+**EN**
+Ignorance — (arising–ceasing) impermanent. Feeling associated with eye-consciousness — (arising–ceasing) impermanent.
+
+
+<a id="M09-body-P125"></a>
+## Sinh diệt của thọ thuộc nhãn thức / Arising and vanishing of feeling associated with eye-consciousness
+Miến / Burmese 125
+
+**VI**
+2. Do ái sinh, thọ thuộc nhãn thức sinh. Do ái diệt, thọ thuộc nhãn thức diệt.
+
+**EN**
+2. With the arising of craving, feeling associated with eye-consciousness arises. With the cessation of craving, feeling associated with eye-consciousness ceases.
+
+**VI**
+Ái — (sinh–diệt) vô thường. Thọ thuộc nhãn thức — (sinh–diệt) vô thường.
+
+**EN**
+Craving — (arising–ceasing) impermanent. Feeling associated with eye-consciousness — (arising–ceasing) impermanent.
+
+**VI**
+3. Do thủ sinh, thọ thuộc nhãn thức sinh. Do thủ diệt, thọ thuộc nhãn thức diệt.
+
+**EN**
+3. With the arising of clinging, feeling associated with eye-consciousness arises. With the cessation of clinging, feeling associated with eye-consciousness ceases.
+
+**VI**
+Thủ — (sinh–diệt) vô thường. Thọ thuộc nhãn thức — (sinh–diệt) vô thường.
+
+**EN**
+Clinging — (arising–ceasing) impermanent. Feeling associated with eye-consciousness — (arising–ceasing) impermanent.
+
+**VI**
+4. Do hành sinh, thọ thuộc nhãn thức sinh. Do hành diệt, thọ thuộc nhãn thức diệt.
+
+**EN**
+4. With the arising of formations, feeling associated with eye-consciousness arises. With the cessation of formations, feeling associated with eye-consciousness ceases.
+
+**VI**
+Hành — (sinh–diệt) vô thường. Thọ thuộc nhãn thức — (sinh–diệt) vô thường.
+
+**EN**
+Formations — (arising–ceasing) impermanent. Feeling associated with eye-consciousness — (arising–ceasing) impermanent.
+
+**VI**
+5. Do nghiệp sinh, thọ thuộc nhãn thức sinh. Do nghiệp diệt, thọ thuộc nhãn thức diệt.
+
+**EN**
+5. With the arising of kamma, feeling associated with eye-consciousness arises. With the cessation of kamma, feeling associated with eye-consciousness ceases.
+
+**VI**
+Nghiệp (= tư) — (sinh–diệt) vô thường. Thọ thuộc nhãn thức — (sinh–diệt) vô thường.
+
+**EN**
+Kamma (= volition) — (arising–ceasing) impermanent. Feeling associated with eye-consciousness — (arising–ceasing) impermanent.
+
+**VI**
+6. Do nhãn vật sinh, thọ thuộc nhãn thức sinh. Do nhãn vật diệt, thọ thuộc nhãn thức diệt.
+
+**EN**
+6. With the arising of eye-base, feeling associated with eye-consciousness arises. With the cessation of eye-base, feeling associated with eye-consciousness ceases.
+
+**VI**
+Nhãn vật — (sinh–diệt) vô thường. Thọ thuộc nhãn thức — (sinh–diệt) vô thường.
+
+**EN**
+Eye-base — (arising–ceasing) impermanent. Feeling associated with eye-consciousness — (arising–ceasing) impermanent.
+
+**VI**
+7. Do cảnh sắc sinh, thọ thuộc nhãn thức sinh. Do cảnh sắc diệt, thọ thuộc nhãn thức diệt.
+
+**EN**
+7. With the arising of visible object, feeling associated with eye-consciousness arises. With the cessation of visible object, feeling associated with eye-consciousness ceases.
+
+**VI**
+Cảnh sắc — (sinh–diệt) vô thường. Thọ thuộc nhãn thức — (sinh–diệt) vô thường.
+
+**EN**
+Visible object — (arising–ceasing) impermanent. Feeling associated with eye-consciousness — (arising–ceasing) impermanent.
+
+
+<a id="M09-body-P126"></a>
+## Sinh diệt của thọ và lời giải thích / Arising and vanishing of feeling and explanatory notes
+Miến / Burmese 126
+
+**VI**
+8. Do nhãn xúc sinh, thọ thuộc nhãn thức sinh. Do nhãn xúc diệt, thọ thuộc nhãn thức diệt.
+
+**EN**
+8. With the arising of eye-contact, feeling associated with eye-consciousness arises. With the cessation of eye-contact, feeling associated with eye-consciousness ceases.
+
+**VI**
+Nhãn xúc — (sinh–diệt) vô thường. Thọ thuộc nhãn thức — (sinh–diệt) vô thường.
+
+**EN**
+Eye-contact — (arising–ceasing) impermanent. Feeling associated with eye-consciousness — (arising–ceasing) impermanent.
+
+**VI**
+9. Do ánh sáng sinh, thọ thuộc nhãn thức sinh. Do ánh sáng diệt, thọ thuộc nhãn thức diệt.
+
+**EN**
+9. With the arising of light, feeling associated with eye-consciousness arises. With the cessation of light, feeling associated with eye-consciousness ceases.
+
+**VI**
+Ánh sáng — (sinh–diệt) vô thường. Thọ thuộc nhãn thức — (sinh–diệt) vô thường.
+
+**EN**
+Light — (arising–ceasing) impermanent. Feeling associated with eye-consciousness — (arising–ceasing) impermanent.
+
+**VI**
+10. Do tác ý (= hướng ngũ môn — 11) sinh, thọ thuộc nhãn thức sinh. Do tác ý diệt, thọ thuộc nhãn thức diệt.
+
+**EN**
+10. With the arising of attention (= five-door adverting — 11), feeling associated with eye-consciousness arises. With the cessation of attention, feeling associated with eye-consciousness ceases.
+
+**VI**
+Tác ý — (sinh–diệt) vô thường. Thọ thuộc nhãn thức — (sinh–diệt) vô thường.
+
+**EN**
+Attention — (arising–ceasing) impermanent. Feeling associated with eye-consciousness — (arising–ceasing) impermanent.
+
+**VI**
+Lời giải thích
+
+**EN**
+Explanatory notes
+
+**VI**
+Đối với hiền giả đã thành thạo và thỏa đáng trong phương pháp thứ nhất về duyên khởi, chừng ấy cũng đủ để nắm cách quán này. Hãy chia thành năm uẩn trong từng nhóm tâm đã trình bày ở các bảng phần đề mục danh, và quán theo phương pháp tu tập tuệ sinh diệt chi tiết này.
+
+**EN**
+For the good practitioner who has become proficient and reached a satisfactory level in the first method of dependent origination, this much suffices to grasp this method of contemplation. Divide each group of consciousness shown in the tables of the mentality meditation section into the five aggregates, and contemplate according to this detailed method of developing knowledge of arising and vanishing.
+
+**VI**
+Trong các cách quán này, cũng có thể dùng tuệ minh sát nhìn cho thấy rõ sự liên hệ nhân quả giữa các nhân của đời quá khứ thứ nhất và các quả hiện tại. Cũng có thể quán các nhân của đời quá khứ thứ hai với các quả của đời quá khứ thứ nhất, và sự liên hệ nhân quả giữa các nhân hiện tại và các quả vị lai,
+
+**EN**
+In these methods, one can also look with insight knowledge so as to see clearly the causal connection between causes of the first past life and present results. One can also contemplate causes of the second past life and results of the first past life, and the causal connection between present causes and future results,
+
+
+<a id="M09-body-P127"></a>
+## Nhân quả trong các đời quá khứ và vị lai / Causes and results in past and future lives
+Miến / Burmese 127
+
+**VI**
+dùng tuệ minh sát nhìn cho thấy rõ. Theo cách đã trình bày trong phương pháp thứ nhất ở phần duyên khởi, dùng tuệ minh sát nhìn cho thấy rõ sự liên hệ nhân quả giữa các nhân và quả tương ứng. Đây là các cách quán có thể áp dụng cho bao nhiêu đời quá khứ và vị lai liên tiếp mà mình đã nhận diện được.
+
+**EN**
+looking with insight knowledge so as to see clearly. As presented in the first method in the dependent origination section, look with insight knowledge to see clearly the causal relationship between the corresponding causes and results. These methods can be used to contemplate as many successive past and future lives as one has discerned.
+
+**VI**
+Cũng có thể quán bằng cách chia thành hai nhóm như sau: nhóm vô minh, ái và thủ cùng thuộc phiền não luân, và nhóm hành và nghiệp cùng thuộc nghiệp luân.
+
+**EN**
+One may also contemplate by dividing them into two groups: ignorance, craving, and clinging, which belong to the round of defilements, and formations and kamma, which belong to the round of kamma.
+
+**VI**
+Nếu các nhân ấy thuộc đời quá khứ thứ nhất thì trước tiên hãy nhận diện tâm hữu phần trong sáng, tức ý môn, của đời quá khứ thứ nhất. Sau đó dùng tuệ minh sát quán cho thấy rõ sự sinh diệt, tức tính vô thường, của các nhân ấy sinh xen giữa các tâm hữu phần trong sáng đó. Hãy hiểu tương tự với các đời quá khứ và vị lai liên tiếp. Như đã trình bày trong phần duyên khởi, vô minh, ái và thủ:
+
+**EN**
+If those causes belong to the first past life, first discern the clear life-continuum mind, the mind-door, of the first past life. Then contemplate with insight knowledge to see clearly the arising and vanishing, the impermanent nature, of the causes that arise between those clear life-continuum moments. Understand successive past and future lives in the same way. As explained in the dependent origination section, ignorance, craving, and clinging:
+
+**VI**
+Hướng ý môn (1) | Tốc hành (7) | Na cảnh có hỷ (2) | / Na cảnh không hỷ (2)
+12 | 34 | 34 | / 12
+
+**EN**
+Mind-door adverting (1) | Impulsion (7) | Registration with joy (2) | / Registration without joy (2)
+12 | 34 | 34 | / 12
+
+**VI**
+thường sinh trong lộ ý môn như vậy. Có lộ tương ưng hỷ, cũng có lộ không tương ưng hỷ. Có lộ có na cảnh, cũng có lộ không có. Đôi khi có thể có na cảnh không hỷ, cũng có thể có na cảnh có hỷ, tùy trường hợp. Đối với hiền giả còn là phàm nhân, vô minh, ái và thủ thường
+
+**EN**
+generally arise in a mind-door process of this kind. There are processes accompanied by joy and processes unaccompanied by joy. Some have registration and some do not. There can sometimes be registration without joy, and there can also be registration with joy, as appropriate. For good practitioners who are still ordinary people, ignorance, craving, and clinging generally
+
+
+<a id="M09-body-P128"></a>
+## Các lộ ý môn và sự phân biệt hành với nghiệp / Mind-door processes and the distinction between formations and kamma
+Miến / Burmese 128
+
+**VI**
+là các tốc hành thuộc nhóm tham đi kèm tà kiến. Hãy dùng tuệ minh sát nhìn cho thấy rõ tính vô thường của các danh pháp có mặt trong lộ ấy, sự sinh diệt cho đến hiện tại sát-na, tức sự sinh diệt ở từng nhóm tâm. Hãy lần lượt áp dụng ba đặc tướng mà quán minh sát. Còn nhóm hành và nghiệp thường sinh theo trình tự lộ dưới đây.
+
+**EN**
+are impulsions of the greed group associated with wrong view. Look with insight knowledge to see clearly the impermanence of the mental phenomena present in that process, their arising and vanishing down to the momentary present, that is, in each group of consciousness. Contemplate with insight, applying the three characteristics in turn. The group of formations and kamma generally arises according to the process sequence below.
+
+**VI**
+Hướng ý môn (1) | Tốc hành (7) | Na cảnh có hỷ (2) | / Na cảnh không hỷ (2)
+12 | 34 | 34 | / 12
+
+**EN**
+Mind-door adverting (1) | Impulsion (7) | Registration with joy (2) | / Registration without joy (2)
+12 | 34 | 34 | / 12
+
+**VI**
+Trong lộ ý môn này, nếu là tâm đại thiện câu hữu hỷ, tương ưng trí, thì có cả hỷ và tuệ. Có 34 danh pháp. Nếu là tâm câu hữu xả, tương ưng trí, thì có tuệ và không có hỷ. Có 33 danh pháp. Có thể có na cảnh hoặc không. Có thể có na cảnh có hỷ hoặc na cảnh không hỷ, tùy trường hợp. Hãy dùng tuệ nhìn cho thấy rõ sự sinh diệt của các danh pháp thuộc hành và nghiệp ấy trong từng nhóm tâm, cho đến hiện tại sát-na. Hãy lần lượt áp dụng ba đặc tướng mà quán minh sát.
+
+**EN**
+In this mind-door process, if there is great wholesome consciousness accompanied by joy and associated with knowledge, both joy and wisdom are present. There are 34 mental phenomena. If there is consciousness accompanied by equanimity and associated with knowledge, wisdom is present and joy is absent. There are 33 mental phenomena. Registration may or may not occur. Registration with joy or registration without joy can occur as appropriate. Look with knowledge to see clearly the arising and vanishing of the mental phenomena of formations and kamma in each group of consciousness, down to the momentary present. Contemplate with insight, applying the three characteristics in turn.
+
+**VI**
+Hành và năng lực nghiệp
+
+**EN**
+Formations and the power of kamma
+
+**VI**
+Năng lực nghiệp là pháp không thích hợp để áp dụng đặc tướng mà quán minh sát. Khi áp dụng đặc tướng để quán minh sát, hãy lấy nhóm hành thiện làm chính. Nói lấy nhóm ấy làm chính là nói riêng đối với loài người. Vì vậy cũng nên biết sự phân biệt giữa hành có thể quán minh sát và năng lực nghiệp. Nếu làm một việc thiện bố thí làm ví dụ,
+
+**EN**
+The power of kamma is a phenomenon unsuitable for insight contemplation by applying the characteristics. When contemplating with insight by applying the characteristics, take the group of wholesome formations as primary. This emphasis is stated specifically for human beings. Therefore one should also know the distinction between formations that can be contemplated with insight and the power of kamma. Taking a wholesome act of giving as an example,
+
+
+<a id="M09-body-P129"></a>
+## Hành, năng lực nghiệp và các nhóm cần quán / Formations, the power of kamma, and the groups to contemplate
+Miến / Burmese 129
+
+**VI**
+xin trình bày như sau:
+
+**EN**
+the explanation is as follows:
+
+**VI**
+1. Trước khi cho: tư sinh trước khi làm việc thiện, tức tư trước (pubbacetanā), là hành. Trong khi cho: tư sinh lúc thực hiện việc thiện, tức tư lúc buông vật thí (muñcacetanā), là năng lực nghiệp.
+
+**EN**
+1. Before giving: the volition arising before the wholesome deed, prior volition (pubbacetanā), is formation. While giving: the volition arising as the wholesome deed is done, volition at relinquishing the gift (muñcacetanā), is the power of kamma.
+
+**VI**
+2. Trong bảy tốc hành sinh khi đang tạo nghiệp, tư đi cùng các tốc hành từ thứ nhất đến thứ sáu là hành. Tư ở tốc hành thứ bảy là năng lực nghiệp.
+
+**EN**
+2. Among the seven impulsions that arise while kamma is being performed, the volition accompanying the first through sixth impulsions is formation. The volition in the seventh impulsion is the power of kamma.
+
+**VI**
+3. Trong các nhóm tâm tốc hành sinh khi đang tạo nghiệp, tư là năng lực nghiệp. Nhóm các pháp tương ưng đi cùng là hành. (Vism. 2, 250–251.)
+
+**EN**
+3. In the groups of impulsion consciousness arising while kamma is being performed, volition is the power of kamma. The group of accompanying associated phenomena is formation. (Vism. 2, 250–251.)
+
+**VI**
+Theo các cách phân chia đã quy định trên, hãy quán gộp bằng minh sát tất cả danh pháp ở từng nhóm tâm trong trọn dòng lộ tâm tốc hành thiện qua ý môn đã sinh hoặc sẽ sinh lúc tạo nghiệp, cho đến hiện tại sát-na. Nếu có thể quán như vậy, hãy hiểu rằng mình đã quán minh sát cả hành và năng lực nghiệp.
+
+**EN**
+In accordance with the distinctions set out above, contemplate together with insight all the mental phenomena in each group of consciousness throughout the wholesome mind-door impulsion process that arose or will arise in the performance of kamma, down to the momentary present. If you can contemplate in this way, understand that you have contemplated both formations and the power of kamma with insight.
+
+**VI**
+Hãy quán minh sát tất cả
+
+**EN**
+Contemplate all of them with insight
+
+**VI**
+Năm uẩn tái tục, năm uẩn hữu phần, năm uẩn tử tâm, năm uẩn hướng ý môn, năm uẩn nhãn thức v.v. Trong mỗi nhóm tâm hiện diện trong các lộ như lộ nhãn môn, như đã trình bày trong các bảng ở phần đề mục danh, hãy chia thành năm uẩn và quán minh sát như trên. Hãy quán cả hai dòng tương tục bên trong và bên ngoài. Khi quán như vậy:
+
+**EN**
+The five rebirth-linking aggregates, the five life-continuum aggregates, the five death-consciousness aggregates, the five mind-door adverting aggregates, the five eye-consciousness aggregates, and so forth. Divide each group of consciousness present in the processes such as the eye-door process, as shown in the tables of the mentality meditation section, into five aggregates, and contemplate with insight as above. Contemplate both the internal and external continuities. In contemplating in this way:
+
+
+<a id="M09-body-P130"></a>
+## Duyên khởi, phương pháp thứ nhất / Dependent origination, the first method
+Miến / Burmese 130
+
+**VI**
+1. Có thể quán bằng cách nối nhân quả giữa quá khứ và hiện tại.
+
+**EN**
+1. One can contemplate by relating causes and results between the past and the present.
+
+**VI**
+2. Có thể quán bằng cách nối nhân quả giữa các đời quá khứ.
+
+**EN**
+2. One can contemplate by relating causes and results between past lives.
+
+**VI**
+3. Có thể quán bằng cách nối nhân quả giữa hiện tại và vị lai.
+
+**EN**
+3. One can contemplate by relating causes and results between the present and the future.
+
+**VI**
+4. Có thể quán bằng cách nối nhân quả giữa các đời vị lai.
+
+**EN**
+4. One can contemplate by relating causes and results between future lives.
+
+**VI**
+Duyên khởi, phương pháp thứ nhất
+
+**EN**
+Dependent origination, the first method
+
+**VI**
+Nāyaṃ, bhikkhave, kāyo tumhākaṃ, napi aññesaṃ. Purāṇamidaṃ, bhikkhave, kammaṃ abhisaṅkhataṃ abhisañcetayitaṃ vedaniyaṃ daṭṭhabbaṃ.
+
+**EN**
+Nāyaṃ, bhikkhave, kāyo tumhākaṃ, napi aññesaṃ. Purāṇamidaṃ, bhikkhave, kammaṃ abhisaṅkhataṃ abhisañcetayitaṃ vedaniyaṃ daṭṭhabbaṃ.
+
+**VI**
+Tatra kho, bhikkhave, sutavā ariyasāvako paṭiccasamuppādaññeva sādhukaṃ yoniso manasi karoti — “Iti imasmiṃ sati idaṃ hoti, imassuppādā idaṃ uppajjati. Imasmiṃ asati idaṃ na hoti, imassa nirodhā idaṃ nirujjhati. Yadidaṃ avijjāpaccayā saṅkhārā, saṅkhārapaccayā viññāṇaṃ, pe, evametassa kevalassa dukkhakkhandhassa samudayo hoti. Avijjāya tveva asesavirāganirodhā saṅkhāranirodho, saṅkhāranirodhā viññāṇanirodho, pe, evametassa kevalassa dukkhakkhandhassa nirodho hotī”ti. (Saṃ. 1, 295, Natumhasutta.)
+
+**EN**
+Tatra kho, bhikkhave, sutavā ariyasāvako paṭiccasamuppādaññeva sādhukaṃ yoniso manasi karoti — “Iti imasmiṃ sati idaṃ hoti, imassuppādā idaṃ uppajjati. Imasmiṃ asati idaṃ na hoti, imassa nirodhā idaṃ nirujjhati. Yadidaṃ avijjāpaccayā saṅkhārā, saṅkhārapaccayā viññāṇaṃ, pe, evametassa kevalassa dukkhakkhandhassa samudayo hoti. Avijjāya tveva asesavirāganirodhā saṅkhāranirodho, saṅkhāranirodhā viññāṇanirodho, pe, evametassa kevalassa dukkhakkhandhassa nirodho hotī”ti. (Saṃ. 1, 295, Natumhasutta.)
+
+**VI**
+Này các Tỳ-khưu … thân sắc và thân danh này, tức toàn thể sắc pháp và danh pháp, chẳng thuộc sở hữu của các con (nghĩa là chẳng phải tự ngã của các con, vì chẳng có tự ngã nào), cũng chẳng thuộc sở hữu của người khác (chẳng phải tự ngã của người khác). Thân sắc và thân danh này là các pháp do cái cũ, cái trước kia, tạo nên. Các pháp ấy do nghiệp thiện và nghiệp bất thiện tạo tác, có tư thiện hay tư bất thiện làm nhân gốc, và là chỗ nương cho cảm thọ.
+
+**EN**
+Bhikkhus … this body of materiality and body of mentality, the whole of material and mental phenomena, belong neither to you (that is, they are no self of yours, since there is no self) nor to others (they are no self of others). This body of materiality and body of mentality consists of phenomena brought about by what is old, what came before. They are formed by wholesome or unwholesome kamma, have wholesome or unwholesome volition as their root cause, and are a basis for feeling.
+
+
+<a id="M09-body-P131"></a>
+## Công thức duyên khởi / The formula of dependent origination
+Miến / Burmese 131
+
+**VI**
+Này các Tỳ-khưu … ở đây vị Thánh đệ tử có kiến văn nhờ nghe học (āgamasuta) và nhờ thực hành (adhigamasuta), hay vị đệ tử của Như Lai là bậc Thánh, khéo tác ý và tu tập chính các pháp duyên khởi, tức sự nối tiếp nhân quả:
+
+**EN**
+Bhikkhus … here the noble disciple learned through hearing the teachings (āgamasuta) and through practice (adhigamasuta), or the disciple of the Tathāgata who is noble, attends carefully to and develops just the phenomena of dependent origination, the succession of causes and results:
+
+**VI**
+«Khi nhân này hiện hữu thì quả này hiện hữu và sinh khởi. Do nhân này hiện hữu và sinh khởi, quả này hiện hữu và sinh khởi. Khi nhân này không hiện hữu thì quả này không hiện hữu. Do nhân này diệt, quả này diệt. Sự nối tiếp nhân quả, tức các pháp duyên khởi ấy, như sau:
+
+**EN**
+“When this cause is present, this result is present and arises. From the presence and arising of this cause, this result is present and arises. When this cause is absent, this result is absent. With the cessation of this cause, this result ceases. The succession of causes and results, the phenomena of dependent origination, is as follows:
+
+**VI**
+Do vô minh sinh, các hành sinh. Do các hành sinh, thức (quả) sinh. pe. Như vậy, cả khối khổ thuần túy này, không xen lẫn an lạc, hiện hữu và sinh khởi.» Vị ấy quán như vậy.
+
+**EN**
+“From the arising of ignorance, formations arise. From the arising of formations, (resultant) consciousness arises. pe. Thus this entire mass of sheer suffering, unmixed with happiness, comes to be and arises.” One contemplates in this way.
+
+**VI**
+«Do chính vô minh diệt không dư sót (nhờ Thánh đạo A-la-hán), các hành diệt. Do các hành diệt, thức (quả) diệt. pe. Như vậy là sự tịch diệt của cả khối khổ thuần túy, không xen lẫn an lạc.» Vị ấy quán như vậy. (Saṃ. 1, 295.)
+
+**EN**
+“With the remainderless cessation of ignorance itself (through the arahant path), formations cease. With the cessation of formations, (resultant) consciousness ceases. pe. Thus comes the complete cessation of the entire mass of sheer suffering, unmixed with happiness.” One contemplates in this way. (Saṃ. 1, 295.)
+
+**VI**
+Theo những lời dạy như vậy, người mới hành thiền cũng có thể quán theo phương pháp thứ nhất về duyên khởi, quán riêng sinh, riêng diệt, hoặc cả sinh và diệt. Hãy quán như vậy.
+
+**EN**
+In accordance with such teachings, a beginning meditator can also use the first method of dependent origination to contemplate arising alone, vanishing alone, or both arising and vanishing. One should contemplate in this way.
+
+
+<a id="M09-body-P132"></a>
+## Tùy quán tính sinh và tùy quán tính diệt / Contemplation of the nature of arising and vanishing
+Miến / Burmese 132
+
+**VI**
+Samudayadhammānupassī — tùy quán tính sinh
+
+**EN**
+Samudayadhammānupassī — contemplating the nature of arising
+
+**VI**
+1. Do vô minh sinh, hành sinh.
+
+**EN**
+1. With the arising of ignorance, formations arise.
+
+**VI**
+2. Do hành sinh, thức tái tục sinh. Do hành sinh, thức hữu phần sinh. Do hành sinh, thức tử sinh. Do hành sinh, nhãn thức sinh. pe.
+
+**EN**
+2. With the arising of formations, rebirth-linking consciousness arises. With the arising of formations, life-continuum consciousness arises. With the arising of formations, death consciousness arises. With the arising of formations, eye-consciousness arises. pe.
+
+**VI**
+Như đã trình bày trong phương pháp thứ nhất về duyên khởi, dùng tuệ nhìn cho thấy rõ sự nối tiếp nhân quả và chỉ quán riêng tính sinh. Hãy quán cả hai dòng tương tục bên trong và bên ngoài. Hãy quán nối nhân với quả trong từng bộ ba đời, từ các đời quá khứ liên tiếp đến hiện tại, và từ hiện tại đến cuối các đời vị lai. Người mới hành thiền đã thỏa đáng trong việc thấy sự nối tiếp nhân quả theo phương pháp thứ nhất về duyên khởi sẽ không còn thấy khó.
+
+**EN**
+As presented in the first method of dependent origination, look with knowledge to see clearly the succession of causes and results and contemplate only the nature of arising. Contemplate both the internal and external continuities. Contemplate relating causes and results in each set of three lives, from successive past lives to the present and from the present to the end of future lives. A beginning meditator who has reached a satisfactory level in seeing the succession of causes and results by the first method of dependent origination will no longer find this difficult.
+
+**VI**
+Vayadhammānupassī — tùy quán tính diệt
+
+**EN**
+Vayadhammānupassī — contemplating the nature of vanishing
+
+**VI**
+Người mới hành thiền đã có tuệ trong sáng về sự nối tiếp nhân quả, như hành sinh do vô minh sinh, cho đến đời cuối cùng trong vị lai, hãy dùng tuệ minh sát nhìn cho thấy rõ rằng vào thời điểm vị lai khi sẽ đạt tuệ Thánh đạo A-la-hán, do Thánh đạo A-la-hán ấy, theo lối quán thuận, tất cả phiền não như vô minh sẽ tịch diệt, không sinh trở lại. Vì sự tịch diệt ấy, tất cả quả như hành cũng diệt, không sinh trở lại. Hãy thấy rõ tính diệt không tái sinh (anuppādanirodha) ấy bằng tuệ minh sát và quán theo mẫu dưới đây.
+
+**EN**
+A beginning meditator whose knowledge of the succession of causes and results, such as formations arising from the arising of ignorance, has become clear as far as the final future life, should look with insight knowledge to see clearly that at the future time of attaining arahant-path knowledge, through that arahant path, in the forward order of contemplation, all defilements such as ignorance will cease without arising again. Because of that cessation, all the results such as formations will likewise cease without arising again. See clearly with insight knowledge that cessation without renewed arising (anuppādanirodha), and contemplate according to the model below.
+
+
+<a id="M09-body-P133"></a>
+## Tùy quán tính diệt và cả tính sinh lẫn tính diệt / Contemplating vanishing and contemplating both arising and vanishing
+Miến / Burmese 133
+
+**VI**
+1. Do vô minh diệt, hành diệt. Do hành diệt, thức tái tục diệt. Do hành diệt, thức hữu phần diệt. Do hành diệt, thức tử diệt. Do hành diệt, nhãn thức diệt. pe.
+
+**EN**
+1. With the cessation of ignorance, formations cease. With the cessation of formations, rebirth-linking consciousness ceases. With the cessation of formations, life-continuum consciousness ceases. With the cessation of formations, death consciousness ceases. With the cessation of formations, eye-consciousness ceases. pe.
+
+**VI**
+Hãy quán như vậy riêng sự diệt. Hãy quán cả ba thời và cả hai dòng tương tục.
+
+**EN**
+Contemplate cessation alone in this manner. Contemplate in all three periods and in both continuities.
+
+**VI**
+Samudayavayadhammānupassī — tùy quán tính sinh và diệt
+
+**EN**
+Samudayavayadhammānupassī — contemplating the nature of arising and vanishing
+
+**VI**
+Dùng tuệ minh sát nhìn cho thấy rõ cả sinh và diệt, tức các tính chất như hành sinh do vô minh sinh và hành diệt do vô minh diệt, rồi quán theo mẫu dưới đây.
+
+**EN**
+Look with insight knowledge to see clearly both arising and vanishing, namely such phenomena as formations arising because ignorance arises and formations ceasing because ignorance ceases. Then contemplate according to the model below.
+
+**VI**
+1. Do vô minh sinh, hành sinh. Do vô minh diệt, hành diệt.
+
+**EN**
+1. With the arising of ignorance, formations arises. With the cessation of ignorance, formations ceases.
+
+**VI**
+Vô minh — (sinh–diệt) vô thường. Hành — (sinh–diệt) vô thường.
+
+**EN**
+Ignorance — (arising–ceasing) impermanent. Formations — (arising–ceasing) impermanent.
+
+**VI**
+2. Do hành sinh, thức tái tục sinh. Do hành diệt, thức tái tục diệt.
+
+**EN**
+2. With the arising of formations, rebirth-linking consciousness arises. With the cessation of formations, rebirth-linking consciousness ceases.
+
+**VI**
+Hành — (sinh–diệt) vô thường. Thức tái tục — (sinh–diệt) vô thường.
+
+**EN**
+Formations — (arising–ceasing) impermanent. Rebirth-linking consciousness — (arising–ceasing) impermanent.
+
+**VI**
+3. Do hành sinh, thức hữu phần sinh. Do hành diệt, thức hữu phần diệt.
+
+**EN**
+3. With the arising of formations, life-continuum consciousness arises. With the cessation of formations, life-continuum consciousness ceases.
+
+**VI**
+Hành — (sinh–diệt) vô thường. Thức hữu phần — (sinh–diệt) vô thường.
+
+**EN**
+Formations — (arising–ceasing) impermanent. Life-continuum consciousness — (arising–ceasing) impermanent.
+
+**VI**
+4. Do hành sinh, nhãn thức sinh. Do hành diệt, nhãn thức diệt.
+
+**EN**
+4. With the arising of formations, eye-consciousness arises. With the cessation of formations, eye-consciousness ceases.
+
+**VI**
+Hành — (sinh–diệt) vô thường. Nhãn thức — (sinh–diệt) vô thường.
+
+**EN**
+Formations — (arising–ceasing) impermanent. Eye-consciousness — (arising–ceasing) impermanent.
+
+
+<a id="M09-body-P134"></a>
+## Những lợi ích có thể đạt được / Benefits that can be attained
+Miến / Burmese 134
+
+**VI**
+Chừng ấy đủ để người mới hành thiền đã thỏa đáng với sự nối tiếp nhân quả theo phương pháp thứ nhất về duyên khởi nắm được cách quán. Hãy quán khắp các đời gọi là nghiệp hữu (kammabhava) và sinh hữu (upapattibhava). Như đã trình bày trong phương pháp thứ nhất ở phần duyên khởi, ở chỗ cần quán cả sáu nhóm thì hãy quán cả sáu nhóm. Hãy quán cả ba thời quá khứ, vị lai và hiện tại, và cả hai dòng tương tục bên trong và bên ngoài. Hãy nối các bộ ba đời với nhau mà quán. Ít nhất hãy quán xuyên suốt một lượt theo mỗi đặc tướng trong ba đặc tướng, từ các đời quá khứ liên tiếp đã nhận diện được cho tới cuối các đời vị lai.
+
+**EN**
+This much suffices for a beginning meditator who has reached a satisfactory level in discerning the succession of causes and results by the first method of dependent origination to grasp the method. Contemplate throughout the lives called kamma-becoming (kammabhava) and rebirth-becoming (upapattibhava). As explained in the first method in the section on dependent origination, wherever all six groups are to be contemplated, contemplate all six. Contemplate in all three periods, past, future, and present, and in both the internal and external continuities. Link the sets of three lives in contemplation. At a minimum, contemplate through the entire range once for each of the three characteristics, from as many successive past lives as you have discerned to the end of future lives.
+
+**VI**
+Những lợi ích có thể đạt được
+
+**EN**
+Benefits that can be attained
+
+**VI**
+Tass'evaṃ manasikaroto “kuto kirime dhammā ahutvā sambhonti, hutvā paṭiventī”ti ñāṇaṃ visadataraṃ hoti. Tass'evaṃ paccayato ceva khaṇato ca dvedhā udayabbayaṃ passato saccapaṭiccasamuppādanayalakkhaṇabhedā pākaṭā honti. (Vism. 2, 267.)
+
+**EN**
+Tass'evaṃ manasikaroto “kuto kirime dhammā ahutvā sambhonti, hutvā paṭiventī”ti ñāṇaṃ visadataraṃ hoti. Tass'evaṃ paccayato ceva khaṇato ca dvedhā udayabbayaṃ passato saccapaṭiccasamuppādanayalakkhaṇabhedā pākaṭā honti. (Vism. 2, 267.)
+
+**VI**
+Dùng tuệ quán thấy rõ quả sinh do nhân sinh gọi là thấy sinh theo duyên (paccayato udayadassana). Dùng tuệ quán thấy rõ quả diệt do nhân diệt gọi là thấy diệt theo duyên (paccayato vayadassana). Dùng tuệ quán thấy rõ quả sinh do nhân sinh và quả diệt do nhân diệt gọi là thấy sinh diệt theo duyên (paccayato udayabbayadassana).
+
+**EN**
+Contemplating with knowledge so as to see clearly that a result arises because its cause arises is called seeing arising according to conditions (paccayato udayadassana). Contemplating with knowledge so as to see clearly that a result ceases because its cause ceases is called seeing vanishing according to conditions (paccayato vayadassana). Contemplating with knowledge so as to see clearly that a result arises because its cause arises and ceases because its cause ceases is called seeing arising and vanishing according to conditions (paccayato udayabbayadassana).
+
+**VI**
+Dùng tuệ quán thấy rõ sự sinh của các pháp hữu vi làm nhân và các pháp hữu vi làm quả ở từng sát-na sinh tương ứng gọi là thấy sinh theo sát-na (khaṇato udayadassana). Đối với chính các pháp hữu vi làm nhân và các pháp hữu vi làm quả ấy,
+
+**EN**
+Contemplating with knowledge so as to see clearly the arising of conditioned causes and conditioned results at their respective moments of arising is called seeing arising according to moments (khaṇato udayadassana). With those same conditioned causes and conditioned results,
+
+
+<a id="M09-body-P135"></a>
+## Bốn Thánh đế hiển lộ / The four truths become evident
+Miến / Burmese 135
+
+**VI**
+dùng tuệ quán thấy rõ sự hoại diệt ở từng sát-na diệt tương ứng gọi là thấy diệt theo sát-na (khaṇato vayadassana). Dùng tuệ quán thấy rõ sự sinh và diệt của chính các pháp hữu vi làm nhân và các pháp hữu vi làm quả ấy trong từng sát-na sinh và sát-na diệt tương ứng, cho đến hiện tại sát-na, gọi là thấy sinh diệt theo sát-na (khaṇato udayabbayadassana), tức cách quán sinh diệt theo sát-na.
+
+**EN**
+contemplating with knowledge so as to see clearly their dissolution at the respective moments of dissolution is called seeing vanishing according to moments (khaṇato vayadassana). Contemplating with knowledge so as to see clearly the arising and vanishing of those same conditioned causes and conditioned results in their respective moments of arising and dissolution, down to the momentary present, is called seeing arising and vanishing according to moments (khaṇato udayabbayadassana), the method of contemplating arising and vanishing moment by moment.
+
+**VI**
+Khi đã tác ý và tu tập như vậy đối với các pháp hữu vi danh sắc làm nhân và quả, áp dụng lần lượt ba đặc tướng bằng hai cách thấy sinh diệt, tức thấy sinh diệt theo duyên và thấy sinh diệt theo sát-na, thì cái thấy của tuệ minh sát đặc biệt trong sáng: «Các pháp hữu vi này trước đó chưa có mà nay đột nhiên sinh khởi. Sau khi sinh, chúng lại diệt mất». Trong tuệ biết của người mới hành thiền thấy sinh diệt theo hai cách ấy:
+
+**EN**
+When one has attended to and cultivated insight into the conditioned mentality and materiality that are causes and results in this way, applying the three characteristics in turn by both ways of seeing arising and vanishing, namely according to conditions and according to moments, the vision of insight knowledge becomes especially clear: “These conditioned phenomena, previously absent, suddenly arise now. Having arisen, they cease and disappear.” In the knowledge of a beginning meditator who sees arising and vanishing in both these ways, the following become evident:
+
+**VI**
+1. Bốn đế;
+
+**EN**
+1. The four truths;
+
+**VI**
+2. Các pháp duyên khởi;
+
+**EN**
+2. The phenomena of dependent origination;
+
+**VI**
+3. Bốn phương pháp;
+
+**EN**
+3. The four methods;
+
+**VI**
+4. Năm đặc tướng.
+
+**EN**
+4. The five characteristics.
+
+**VI**
+Bốn đế hiển lộ như thế nào
+
+**EN**
+How the four truths become evident
+
+**VI**
+1. Paccayato udayadassana — thấy sinh theo duyên. Vì có thể dùng tuệ minh sát thấy quả sinh do nhân sinh, người mới hành thiền thấu hiểu trực tiếp và biết các nhân có khả năng trực tiếp làm cho các quả là những pháp hữu vi danh sắc sinh khởi. Do đó, tập đế hiển lộ trong tuệ biết của người ấy.
+
+**EN**
+1. Paccayato udayadassana — seeing arising according to conditions. By seeing with insight knowledge how results arise because causes arise, the beginning meditator directly penetrates and knows the generative causes that can directly bring about the resultant conditioned mental and material phenomena. Therefore, the truth of origin becomes evident in that meditator’s knowledge.
+
+
+<a id="M09-body-P136"></a>
+## Các sự thật hiển lộ khi quán sinh và diệt / The truths become apparent through contemplating arising and passing away
+Miến / Burmese 136
+
+**VI**
+2. Khaṇato udayadassana — Thấy bằng tuệ minh sát sự sinh khởi của các hành gồm danh, sắc, nhân và quả ở từng sát-na, cho đến mức hiện tại sát-na. Do thấu rõ bằng tuệ minh sát cái khổ do sinh của các hành, khổ đế hiển lộ trong tuệ của hành giả.
+
+**EN**
+2. Khaṇato udayadassana — Seeing with insight the arising, moment by moment, of formations comprising mentality, materiality, causes and effects, down to the momentary present. As insight penetrates the suffering of birth in formations, the truth of suffering becomes apparent to the meditator’s knowledge.
+
+**VI**
+3. Paccayato vayadassana — Thấy bằng tuệ minh sát rằng do nhân diệt nên quả diệt. Do thấu rõ bằng tuệ minh sát rằng khi nhân vắng mặt, không hiện hữu, thì quả tùy thuộc vào nhân ấy, tức quả chỉ có thể sinh khi nhân ấy hiện hữu, cũng không sinh, diệt đế hiển lộ trong tuệ của hành giả. (Đây là anuppādanirodha, sự diệt do không sinh.)
+
+**EN**
+3. Paccayato vayadassana — Seeing with insight that with the cessation of the cause the effect ceases. As insight penetrates that when the cause is absent and does not exist, the effect dependent on it, the effect that can arise only when that cause exists, does not arise, the truth of cessation becomes apparent to the meditator’s knowledge. (This is anuppādanirodha, cessation by non-arising.)
+
+**VI**
+4. Khaṇato vayadassana — Thấy bằng tuệ minh sát sự tan rã của các hành gồm danh, sắc, nhân và quả ở từng sát-na, cho đến mức hiện tại sát-na, tức thấy bằng tuệ minh sát sự tan rã theo sát-na của các hành. Do thấu rõ bằng tuệ minh sát cái khổ do chết, do các hành tiêu tan và hư hoại, chính khổ đế hiển lộ trong tuệ của hành giả. (Ở đây nói đến cái khổ do chết trong từng sát-na.)
+
+**EN**
+4. Khaṇato vayadassana — Seeing with insight the dissolution, moment by moment, of formations comprising mentality, materiality, causes and effects, down to the momentary present, that is, seeing with insight the momentary dissolution of formations. As insight penetrates the suffering of death, the decay and destruction of formations, the truth of suffering itself becomes apparent to the meditator’s knowledge. (This refers to the suffering of death in each moment.)
+
+**VI**
+5. Paccayato udayabbayadassana — Thấy bằng tuệ minh sát sinh và diệt xét theo nhân, tức do nhân sinh nên quả sinh, do nhân diệt nên quả diệt. Khaṇato udayabbayadassana — Thấy bằng tuệ minh sát sự sinh và diệt của các hành gồm sắc, danh, nhân và quả ở từng sát-na, cho đến mức hiện tại sát-na. Cái thấy bằng tuệ sinh diệt theo hai cách này
+
+**EN**
+5. Paccayato udayabbayadassana — Seeing with insight arising and passing away in terms of causes, namely, with the arising of the cause the effect arises, and with the cessation of the cause the effect ceases. Khaṇato udayabbayadassana — Seeing with insight the arising and passing away of formations comprising materiality, mentality, causes and effects, moment by moment, down to the momentary present. Seeing in these two ways by the knowledge of arising and passing away
+
+
+<a id="M09-body-P137"></a>
+## Đạo đế hiệp thế và năm chi đạo hiệp thế / The mundane truth of the path and the five mundane path factors
+Miến / Burmese 137
+
+**VI**
+chính là chánh kiến minh sát. Nói cách khác, đó là nhóm pháp gồm chánh kiến đứng đầu, chánh tư duy, chánh tinh tấn, chánh niệm và chánh định. Nhóm pháp ấy chính là đạo đế hiệp thế. Đạo đế hiệp thế ấy có thể đoạn trừ bằng cách thay thế từng phần bóng tối si mê che khuất các hành gồm sắc, danh, nhân và quả, khiến chúng không được biết. Vì nhóm pháp thuộc đạo đế hiệp thế ấy có thể đoạn trừ yếu tố si mê ấy bằng cách thay thế từng phần, đạo đế hiển lộ trong tuệ của hành giả.
+
+**EN**
+is insight right view itself. In other words, it is the group of phenomena headed by right view, with right intention, right effort, right mindfulness and right concentration. That group of phenomena is the mundane truth of the path. This mundane truth of the path can abandon, by substitution of opposites, the darkness of delusion that conceals formations comprising materiality, mentality, causes and effects, preventing their being known. Because the group of phenomena belonging to the mundane truth of the path can abandon that element of delusion by substitution of opposites, the truth of the path becomes apparent to the meditator’s knowledge.
+
+**VI**
+Một cách khác — Đạo đế hiệp thế gọi là chánh kiến ấy là pháp vô si, làm duyên y chỉ cho sự chứng đắc đạo đế gọi là Thánh đạo siêu thế. Cũng như một ngọn đèn đang cháy tự làm cho chính nó hiện rõ, pháp vô si ấy tự làm cho mình hiện rõ là chánh kiến vô si. (Chánh kiến hiện rõ qua sự biết bốn sự thật.) Vì thế, đạo đế hiển lộ. Khi hiển lộ như vậy, đạo đế ấy chỉ hiển lộ khi có thể xua tan bóng tối gọi là si đang che khuất bốn sự thật, khiến chúng không được biết. Bởi thế chánh kiến ấy có tên là đạo đế hiệp thế. (Vism. 2, 268. Mahāṭī. 2, 423–424.)
+
+**EN**
+Another explanation — The mundane truth of the path called right view is the phenomenon of non-delusion that provides a supporting condition for attaining the truth of the path called the supramundane noble path. Just as a burning lamp makes itself visible, that phenomenon of non-delusion makes itself evident as right view free of delusion. (Right view makes itself evident through knowing the four truths.) Thus the truth of the path becomes apparent. In becoming apparent in this way, it becomes apparent only when it can dispel the darkness called delusion that conceals the four truths and prevents their being known. This is why that right view is called the mundane truth of the path. (Vism. 2, 268. Mahāṭī. 2, 423–424.)
+
+**VI**
+Đạo đế hiệp thế — Năm chi đạo hiệp thế
+
+**EN**
+The mundane truth of the path — The five mundane path factors
+
+**VI**
+1. Tuệ thấu rõ đến mức chân đế các hành gồm sắc, danh, nhân và quả gọi là khổ đế và tập đế, và tuệ thấu rõ tính vô thường, tính khổ và tính vô ngã của các hành ấy,
+
+**EN**
+1. The knowledge that penetrates to the ultimate level the formations comprising materiality, mentality, causes and effects, called the truths of suffering and its origin, and the knowledge that penetrates the impermanence, suffering and non-self of those formations,
+
+
+<a id="M09-body-P138"></a>
+## Năm chi đạo trong tuệ minh sát / The five path factors in insight knowledge
+Miến / Burmese 138
+
+**VI**
+những tuệ minh sát ấy chính là chi đạo chánh kiến hiệp thế.
+
+**EN**
+these insight knowledges constitute the mundane path factor of right view.
+
+**VI**
+2. Tính chất hướng tâm minh sát đến cảnh là các hành ấy, và tính chất hướng tâm minh sát đến cảnh là tính vô thường, tính khổ và tính vô ngã của các hành ấy, là chi đạo chánh tư duy hiệp thế.
+
+**EN**
+2. The directing of insight consciousness towards those formations as its object, and the directing of insight consciousness towards their impermanence, suffering and non-self as its object, constitutes the mundane path factor of right intention.
+
+**VI**
+3. Tính chất nỗ lực để thấu rõ các hành ấy cho đến mức chân đế, và tính chất nỗ lực để thấu rõ tính vô thường, tính khổ và tính vô ngã của các hành ấy, là chi đạo chánh tinh tấn hiệp thế.
+
+**EN**
+3. The exertion to penetrate those formations to the ultimate level, and the exertion to penetrate their impermanence, suffering and non-self, constitutes the mundane path factor of right effort.
+
+**VI**
+4. Tính chất ghi nhớ và nắm giữ các hành ấy, tính chất ghi nhớ và nắm giữ tính vô thường, tính khổ và tính vô ngã của các hành ấy, và tính chất đi sâu vào cảnh là các hành ấy và vào cảnh là tính vô thường, tính khổ và tính vô ngã của chúng, là chi đạo chánh niệm hiệp thế. (Đó là tính chất không quên, không bỏ sót cảnh.)
+
+**EN**
+4. The remembering and holding of those formations, the remembering and holding of their impermanence, suffering and non-self, and the immersion in those formations as object and in their impermanence, suffering and non-self as object, constitutes the mundane path factor of right mindfulness. (It has the nature of neither forgetting nor losing sight of the object.)
+
+**VI**
+5. Tính chất tâm minh sát an trụ vững vàng trên cảnh là các hành ấy, và tính chất tâm minh sát an trụ vững vàng trên một trong các phương diện vô thường, khổ hay vô ngã của các hành ấy, là chi đạo chánh định. (Đây là định sát-na minh sát.)
+
+**EN**
+5. The firm settling of insight consciousness on those formations as object, and the firm settling of insight consciousness on one of their aspects, impermanence, suffering or non-self, constitutes the path factor of right concentration. (This is momentary insight concentration.)
+
+**VI**
+Ở giai đoạn hiệp thế, vì năm chi đạo này và ba chi đạo thuộc giới, tức chánh ngữ, chánh nghiệp và chánh mạng, có cảnh khác nhau, chúng không thể sinh đồng thời trong cùng một sát-na tâm.
+
+**EN**
+At the mundane stage these five path factors and the three path factors of virtue, right speech, right action and right livelihood, have different objects. Thus they cannot arise together in the same moment of consciousness.
+
+
+<a id="M09-body-P139"></a>
+## Các pháp duyên khởi hiển lộ / How the phenomena of dependent origination become apparent
+Miến / Burmese 139
+
+**VI**
+Chỉ năm chi đạo kể trên mới có thể cùng sinh trong một sát-na tâm minh sát.
+
+**EN**
+Only the five path factors described above can arise together in one moment of insight consciousness.
+
+**VI**
+1. Paccayato udayadassana — Thấy quả sinh vì nhân sinh. Do tuệ minh sát thấu rõ «khi nhân này hiện hữu thì quả này hiện khởi», những pháp duyên khởi theo chiều thuận hiển lộ trong tuệ của hành giả đúng như lời dạy: do vô minh sinh nên hành sinh, do hành sinh nên thức sinh, v.v.
+
+**EN**
+1. Paccayato udayadassana — Seeing the arising of an effect because its cause arises. As insight penetrates that “when this cause is present, this effect comes into being,” the phenomena of dependent origination in the forward order become apparent to the meditator’s knowledge, just as taught: with the arising of ignorance, formations arise; with the arising of formations, consciousness arises, and so on.
+
+**VI**
+2. Paccayato vayadassana — Thấy bằng tuệ minh sát rằng vì nhân chấm dứt nên quả chấm dứt. Do tuệ minh sát thấu rõ «vì nhân này chấm dứt nên quả này chấm dứt», những pháp duyên khởi theo chiều nghịch hiển lộ trong tuệ của hành giả đúng như lời dạy: do vô minh diệt nên hành diệt, do hành diệt nên thức diệt, v.v.
+
+**EN**
+2. Paccayato vayadassana — Seeing with insight that because the cause ceases, the effect ceases. As insight penetrates that “because this cause ceases, this effect ceases,” the phenomena of dependent origination in the reverse order become apparent to the meditator’s knowledge, just as taught: with the cessation of ignorance, formations cease; with the cessation of formations, consciousness ceases, and so on.
+
+**VI**
+3. Khaṇato udayabbayadassana — Thấy bằng tuệ minh sát sự sinh và diệt theo từng sát-na, cho đến mức hiện tại sát-na, của các hành gồm hành làm nhân và hành làm quả, tức danh sắc làm nhân và danh sắc làm quả. Do tuệ minh sát thấu rõ tướng hữu vi (saṅkhatalakkhaṇa) là sinh, trụ và diệt (uppāda, ṭhiti, bhaṅga) của các hành ấy, các pháp quả nương vào nhân mà sinh, tức các pháp duyên sinh (paṭiccasamuppanna),
+
+**EN**
+3. Khaṇato udayabbayadassana — Seeing with insight the arising and passing away of formations, moment by moment, down to the momentary present, formations as causes and formations as effects, that is, causal mentality and materiality and resultant mentality and materiality. As insight penetrates the conditioned characteristic (saṅkhatalakkhaṇa) of arising, presence and dissolution (uppāda, ṭhiti, bhaṅga) in these formations, the resultant phenomena that arise in dependence on their causes, that is, dependently arisen phenomena (paṭiccasamuppanna),
+
+
+<a id="M09-body-P140"></a>
+## Các pháp duyên sinh và bốn phương pháp / Dependently arisen phenomena and the four methods
+Miến / Burmese 140
+
+**VI**
+hiển lộ trong tuệ của hành giả. Quả thật, các pháp hữu vi có tính sinh và diệt. Vì các pháp hữu vi ấy chỉ hiện khởi nương vào các nhân, chúng cũng được gọi là pháp duyên sinh. (Nghĩa là, chính các nhân là vô thường, khổ và vô ngã, nên các pháp quả duyên sinh nương các nhân ấy mà hiện khởi cũng là vô thường, khổ và vô ngã.) (Vism. 2, 268. Mahāṭī. 2, 424.)
+
+**EN**
+become apparent to the meditator’s knowledge. Indeed, conditioned phenomena have the nature of arising and passing away. Since those conditioned phenomena come into being only in dependence on causes, they are also called dependently arisen. (This means that because the causes themselves are impermanent, suffering and non-self, the dependently arisen effects that come into being in dependence on those causes are likewise impermanent, suffering and non-self.) (Vism. 2, 268. Mahāṭī. 2, 424.)
+
+**VI**
+Bốn phương pháp hiển lộ như thế nào
+
+**EN**
+How the four methods become apparent
+
+**VI**
+1. Paccayato udayadassana — Thấy bằng tuệ minh sát rằng do nhân sinh nên quả sinh. Do tuệ minh sát thấu rõ sự sinh khởi liên tục, lặp đi lặp lại, của dòng danh sắc trong đó nhân và quả nối liền nhau, phương pháp đồng nhất (ekattanaya), tức thấy dòng danh sắc là một dòng liên tục, hiển lộ trong tuệ của hành giả.
+
+**EN**
+1. Paccayato udayadassana — Seeing with insight that with the arising of a cause its effect arises. As insight penetrates the uninterrupted, recurrent arising of the stream of mentality and materiality in which causes and effects are linked, the method of unity (ekattanaya), seeing the stream of mentality and materiality as one continuous stream, becomes apparent to the meditator’s knowledge.
+
+**VI**
+Trước đó, khi phân biệt nhân và quả trong mối liên hệ của chúng ở phần duyên khởi, tức ở giai đoạn tuệ phân biệt duyên, hành giả đã hiểu rằng dòng danh sắc quá khứ tạo lập các nhân quá khứ và dòng danh sắc hiện tại sinh đi sinh lại liên tục thành một dòng không gián đoạn. Đặc biệt, theo câu «Sabhāvo vāyaṃ cittassa paṇḍaratā» (Mūlaṭī. 1, 25), vì tất cả các tâm đều có tính sáng tỏ, hành giả thấy giới ý thức quá khứ đã tạo lập các nhân quá khứ và giới ý thức hiện tại là một dòng tương tục danh, xét theo phương diện vô thường,
+
+**EN**
+Previously, in discerning causes and effects in their relationship in the section on dependent origination, at the stage of knowledge discerning conditions, the meditator already understood that the past stream of mentality and materiality that established the past causes and the present stream of mentality and materiality arise recurrently as one unbroken stream. In particular, according to the statement “Sabhāvo vāyaṃ cittassa paṇḍaratā” (Mūlaṭī. 1, 25), because all consciousness has the nature of luminosity, the meditator sees the past mind-consciousness element that established the past causes and the present mind-consciousness element as a continuum of mentality, under the aspect of impermanence,
+
+
+<a id="M09-body-P141"></a>
+## Dòng tâm tương tục / The continuum of consciousness
+Miến / Burmese 141
+
+**VI**
+tính khổ và tính vô ngã, và hiểu rằng chúng sinh đi sinh lại không gián đoạn thành một dòng liên tục duy nhất.
+
+**EN**
+suffering and non-self, and understands that they arise recurrently and without interruption as one continuous stream.
+
+**VI**
+Lại nữa, trong suốt một đời, loại tâm sinh khởi nhiều nhất là tâm hữu phần. Theo những lời dạy như «Pabhassaram idaṃ, bhikkhave, cittaṃ» (A. 1, 5), tâm hữu phần ấy sáng trong, chiếu rực, lấp lánh. Các tâm trong lộ thỉnh thoảng sinh xen giữa các tâm hữu phần cũng trong sáng (paṇḍara), thanh tịnh. Tâm hữu phần cũng trong sáng. Khi dùng tuệ minh sát nhìn bao quát dòng tương tục danh của giới ý thức gồm tâm hữu phần và tâm trong lộ, từ quá khứ đến hiện tại và từ hiện tại ngược về quá khứ xa đến mức có thể quán, hành giả thấy bằng tuệ minh sát rằng chúng sinh đi sinh lại không gián đoạn, thành một dòng liên tục dưới dạng vô thường, như những hạt được xâu thành một chuỗi. Bằng tuệ minh sát, hành giả biết giới ý thức quá khứ ấy có phải là giới ý thức của chính mình hay không, và có cùng một dòng liên tục với giới ý thức hiện tại của mình hay không. Đối với tương lai cũng hãy hiểu như vậy.
+
+**EN**
+Again, throughout a lifetime the consciousness that occurs most frequently is life-continuum consciousness. In accordance with such teachings as “Pabhassaram idaṃ, bhikkhave, cittaṃ” (A. 1, 5), that life-continuum consciousness is clear, radiant and sparkling. The process consciousnesses that arise from time to time between life-continuum consciousnesses are likewise bright (paṇḍara) and pure. Life-continuum consciousness is bright too. When the meditator surveys with insight the mental continuum of the mind-consciousness element, comprising life-continuum and process consciousness, from past to present and from the present back as far into the past as can be discerned, the meditator sees with insight that they arise again and again without a break, as a single stream under the aspect of impermanence, like beads strung on a single thread. The meditator knows with insight whether that past mind-consciousness element is their own and whether it belongs to the same continuous stream as their present mind-consciousness element. Understand the future in the same way.
+
+**VI**
+Tuy nhiên, do chưa tác ý sâu rộng đến phương diện vô thường, hành giả có thể chỉ biết ở mức độ nào đó sự sinh diệt cho đến hiện tại sát-na trong một số sát-na tâm, hoặc trong một ít sát-na tâm. Đối với những sát-na tâm khác, hoặc đối với nhiều sát-na tâm, hành giả chưa biết sự sinh diệt cho đến hiện tại sát-na. Giờ đây, ở giai đoạn tuệ sinh diệt này, hành giả cũng biết giới ý thức đang sinh khởi liên tục
+
+**EN**
+However, because the aspect of impermanence has not yet been attended to extensively, the meditator may know only to some degree the arising and passing away down to the momentary present in certain consciousness moments, or in a few such moments. In other consciousness moments, or in many consciousness moments, the meditator does not yet know arising and passing away down to the momentary present. Now at this stage of knowledge of arising and passing away, the meditator also knows that the mind-consciousness element is arising continuously
+
+
+<a id="M09-body-P142"></a>
+## Phương pháp thấy sự tiếp nối và sai biệt / The methods of discerning continuity and diversity
+Miến / Burmese 142
+
+**VI**
+như vậy. Hành giả cũng biết sự sinh diệt trong từng sát-na của giới ý thức ấy dưới phương diện vô thường, khổ và vô ngã, cho đến hiện tại sát-na. Hành giả cũng biết rằng nhân và quả liên kết với nhau, sinh đi sinh lại không gián đoạn dưới phương diện vô thường, khổ và vô ngã. Khi ấy, tuệ minh sát biết và thấy như thế có thể đoạn trừ rất hiệu quả đoạn kiến chấp lầm rằng «người làm là một người, người chịu quả là một người khác». Bởi vì tuệ minh sát thấy sự chấm dứt của các pháp trước gắn liền với sự sinh khởi của các pháp theo sau, tức các pháp sinh kế tiếp. (Vism. 2, 268. Mahāṭī. 2, 424.)
+
+**EN**
+in this way. The meditator also knows the arising and passing away of that mind-consciousness element, moment by moment, under the aspects of impermanence, suffering and non-self, down to the momentary present. The meditator also knows that causes and effects are linked and arise repeatedly without interruption under the aspects of impermanence, suffering and non-self. At that time, the insight knowledge that knows and sees in this way can effectively abandon the annihilationist view that mistakenly holds, “The one who acts is one person, and the one who experiences the result is someone else.” This is because insight knowledge sees that the cessation of earlier phenomena is linked to the arising of subsequent phenomena, that is, the phenomena arising next in succession. (Vism. 2, 268. Mahāṭī. 2, 424.)
+
+**VI**
+2. Khaṇato udayadassana — Thấy bằng tuệ minh sát tính sinh khởi từng sát-na, cho đến hiện tại sát-na, của các hành danh sắc làm nhân và các hành danh sắc làm quả đang sinh khởi nối liền nhau theo quan hệ nhân quả như thế. Do tuệ minh sát thấu rõ rằng các pháp chân đế danh và sắc mới hiện khởi trong từng sát-na, phương pháp sai biệt (nānattanaya) hiển lộ trong tuệ của hành giả. (Tuy xét như dòng tương tục danh sắc thì đó là một dòng liên tục, dòng ấy là một dòng sinh diệt, hoàn toàn không phải là một dòng không sinh diệt. Dòng tương tục danh sắc trước và dòng tương tục danh sắc sau, cũng như danh sắc trước và danh sắc sau, đều khác nhau, riêng biệt. Vì thấy sự tan rã đến hiện tại sát-na, hành giả biết các yếu tố chân đế trước và các yếu tố chân đế sau đều riêng biệt, từng nhóm một. Điều này có nghĩa là tuệ của hành giả đã phân phá tính đặc khối của dòng tương tục (santatighana), của sự kết hợp (samūhaghana) và của phận sự (kiccaghana).)
+
+**EN**
+2. Khaṇato udayadassana — Seeing with insight the momentary arising, down to the momentary present, of the causal and resultant formations of mentality and materiality that arise in causal succession in this way. As insight penetrates that new ultimate mental and material phenomena come into being in each moment, the method of diversity (nānattanaya) becomes apparent to the meditator’s knowledge. (Although there is a single unbroken stream when viewed as a continuum of mentality and materiality, it is a continuum of arising and passing away, never a continuum devoid of arising and passing away. The earlier and later continuities of mentality and materiality, as well as earlier and later mentality and materiality, are distinct and separate. Because the meditator sees dissolution down to the momentary present, they know that earlier and later ultimate elements are distinct, group by group. This means the meditator’s knowledge has broken through the compactness of continuity (santatighana), of combination (samūhaghana) and of function (kiccaghana).)
+
+
+<a id="M09-body-P143"></a>
+## Phương pháp thấy nhân và quả không có chủ ý / The method of discerning the absence of agency in cause and effect
+Miến / Burmese 143
+
+**VI**
+Khi biết và thấy như vậy, hành giả có thể đoạn trừ rất hiệu quả thường kiến chấp lầm rằng «chính người ấy làm, chính người ấy chịu quả». (Vism. 2, 268. Mahāṭī. 2, 424.)
+
+**EN**
+When knowing and seeing in this way, the meditator can effectively abandon the eternalist view that mistakenly holds, “The same person acts and that very person experiences the result.” (Vism. 2, 268. Mahāṭī. 2, 424.)
+
+**VI**
+3. Paccayato udayabbayadassana — Thấy bằng tuệ minh sát rằng vì nhân sinh nên quả sinh, và vì nhân chấm dứt nên quả chấm dứt. Khi nhân hiện hữu, quả hiện khởi. Khi nhân không hiện hữu, quả không hiện hữu. Vì mọi sự diễn ra đúng theo quy luật tự nhiên ấy, tuệ minh sát thấu rõ rằng trong các pháp chân đế sắc và danh, không có sự sinh khởi theo ý muốn của một cá nhân hay một chúng sinh nào. Vì thế phương pháp vô tác ý (abyāpāranaya) hiển lộ trong tuệ của hành giả. (Nghĩa là về phía các nhân, không có chủ ý rằng «ta sẽ làm cho các quả sinh khởi», và về phía các quả, cũng không có chủ ý rằng «khi các nhân sinh khởi, chúng ta, tức các quả, sẽ sinh khởi». Trong vô minh cũng không có chủ ý rằng «ta sẽ làm cho hành sinh khởi». Cũng vậy, trong hành không có chủ ý rằng «ta sẽ làm cho thức sinh khởi». Hãy hiểu theo cách ấy rằng cả hai phía, nhân lẫn quả, đều không có chủ ý.)
+
+**EN**
+3. Paccayato udayabbayadassana — Seeing with insight that because a cause arises its effect arises, and because a cause ceases its effect ceases. When the cause is present, the effect comes into being. When the cause is absent, the effect is absent. Since things happen in accordance with this natural regularity, insight penetrates that among ultimate material and mental phenomena nothing arises according to the wishes of an individual or being. Thus the method of absence of agency (abyāpāranaya) becomes apparent to the meditator’s knowledge. (This means that on the side of the causes there is no intention, “We will bring the effects into being,” and on the side of the effects there is no intention, “When the causes arise, we, the effects, will arise.” In ignorance, too, there is no intention, “I will make formations arise.” Likewise in formations there is no intention, “We will make consciousness arise.” Understand in this way that there is no such intention on either side, in causes or in effects.)
+
+**VI**
+Khi biết và thấy như vậy, tuệ minh sát ấy có thể đoạn trừ rất hiệu quả ngã kiến chấp lầm rằng có một tự ngã tối cao sáng tạo và một tự ngã cá thể được sáng tạo. (Bởi vì tuệ minh sát ấy đều đặn biết và thấy rằng cả nhân lẫn quả đều không có chủ ý và rằng cả nhân lẫn quả chỉ là các nhóm pháp vô thường, các nhóm pháp khổ và các nhóm pháp vô ngã.)
+
+**EN**
+When there is knowing and seeing in this way, that insight knowledge can effectively abandon the self-view that mistakenly holds that there is a supreme self that creates and an individual self that is created. (This is because insight knowledge regularly knows and sees that there is no agency on either side, cause or effect, and that causes and effects alike are simply groups of impermanent phenomena, groups of suffering phenomena and groups of non-self phenomena.)
+
+
+<a id="M09-body-P144"></a>
+## Phương pháp thấy quy luật và năm đặc tướng / The method of discerning regularity and the five characteristics
+Miến / Burmese 144
+
+**VI**
+4. Paccayato udayadassana — Thấy bằng tuệ minh sát rằng vì nhân sinh nên quả sinh. Vì tuệ minh sát thấu rõ sự sinh khởi của quả tương ứng với nhân, hành giả thấy bằng tuệ minh sát rằng quả sinh do nhân. Các quả không sinh tùy tiện, vô trật tự, muốn sinh thế nào thì sinh. Các quả chỉ sinh phù hợp với nhân. Khi có các quả sinh do những nhân như vô minh, ái, thủ, hành và nghiệp, chỉ những quả phù hợp với các nhân ấy mới sinh, tức thức, danh sắc, sáu xứ, xúc và thọ. Hành giả biết và thấy rằng một quả khác, không phù hợp với nhân, không sinh. Vì thế phương pháp quy luật như vậy (evaṃdhammatānaya) hiển lộ.
+
+**EN**
+4. Paccayato udayadassana — Seeing with insight that because a cause arises its effect arises. As insight penetrates the arising of effects that correspond to their causes, the meditator sees with insight that effects arise because of causes. The effects do not arise haphazardly or without order, just any way they might. Effects arise only in conformity with their causes. When effects arise from causes such as ignorance, craving, clinging, formations and kamma, only effects that correspond to these causes arise, namely consciousness, mentality and materiality, the six bases, contact and feeling. The meditator knows and sees that a different effect that does not correspond to its cause does not arise. Thus the method of such regularity (evaṃdhammatānaya) becomes apparent.
+
+**VI**
+Khi biết và thấy như vậy, tuệ minh sát có thể đoạn trừ rất hiệu quả tà kiến phủ nhận hiệu lực của hành động (akiriyadiṭṭhi), bác bỏ nhân là nghiệp, chủ trương rằng «có làm thì cũng không thành hành động». (Vism. 2, 268. Mahāṭī. 2, 424–425.)
+
+**EN**
+When there is knowing and seeing in this way, that insight knowledge can effectively abandon the wrong view denying the efficacy of action (akiriyadiṭṭhi), which rejects kamma as a cause, holding that “even when one acts, it amounts to no action.” (Vism. 2, 268. Mahāṭī. 2, 424–425.)
+
+**VI**
+Năm đặc tướng hiển lộ như thế nào
+
+**EN**
+How the five characteristics become apparent
+
+**VI**
+1. Paccayato udayadassana — Thấy bằng tuệ minh sát rằng do nhân hiện khởi nên quả hiện khởi. Khi nhân hiện hữu, quả sinh khởi. Như vậy, các nhân làm duyên cho các quả chỉ bằng sự hiện hữu của chúng, nên tính chất các pháp hữu vi không tự tác động, không có chủ ý,
+
+**EN**
+1. Paccayato udayadassana — Seeing with insight that because a cause comes into being its effect comes into being. When a cause is present, the effect arises. Thus causes condition their effects by their presence alone, so the absence of agency or intention in conditioned phenomena
+
+
+<a id="M09-body-P145"></a>
+## Đặc tướng vô ngã và đặc tướng vô thường / The characteristics of non-self and impermanence
+Miến / Burmese 145
+
+**VI**
+hiển lộ. Lại nữa, khi nhân không hiện hữu, quả cũng không hiện hữu, nên tính chất các pháp quả hữu vi liên hệ với các nhân duyên của chúng cũng hiển lộ. Do tuệ minh sát thấu rõ rằng các hành không có sự tác động hay chủ ý như vậy và chỉ sinh trong mối liên hệ với các nhân, hành giả biết và thấy rằng không có tự ngã tối cao (paramatta), tức tự ngã sáng tạo, cũng không có tự ngã cá thể (jīva-atta), tức tự ngã được sáng tạo. Vì thế đặc tướng vô ngã hiển lộ trong tuệ của hành giả. Tuệ ấy làm hiển lộ tính trống không của tự ngã.
+
+**EN**
+becomes apparent. Again, when the cause is absent, the effect is also absent, so the fact that conditioned effects are linked to their causes and conditions likewise becomes apparent. As insight penetrates that formations have no such agency or intention and arise only in relation to their causes, the meditator knows and sees that there is no supreme self (paramatta), a creating self, and no individual self (jīva-atta), a created self. Thus the characteristic of non-self becomes apparent to the meditator’s knowledge. That knowledge discloses the emptiness of self.
+
+**VI**
+2. Khaṇato udayabbayadassana — Thấy bằng tuệ minh sát sự sinh diệt ở từng sát-na, tức tính sinh và diệt của các pháp hữu vi gọi là hành làm nhân và hành làm quả. Bằng tuệ minh sát, hành giả thấu rõ rằng các pháp ấy, trước khi sinh, chưa hiện hữu, nay mới sinh đầy đủ rồi đi đến chỗ không còn hiện hữu. (Hành giả dùng tuệ minh sát thấu rõ hai sự không hiện hữu, tức không hiện hữu trước khi sinh và không hiện hữu sau khi sinh rồi diệt, cũng như sự hiện hữu dưới dạng uppāda, ṭhiti và bhaṅga chỉ giữa hai sự không hiện hữu ấy.) Lại nữa, các hành ấy chỉ hiển lộ trong ba giai đoạn sinh, trụ, diệt, tức uppāda, ṭhiti và bhaṅga. Chúng không hiển lộ trước đó hay sau đó. Chúng chỉ có một khởi đầu là uppāda, sinh, và một kết thúc là bhaṅga, diệt. Vì tuệ minh sát thấu rõ các pháp hữu vi có khởi đầu và kết thúc là sinh và diệt như vậy, đặc tướng vô thường hiển lộ trong tuệ của hành giả.
+
+**EN**
+2. Khaṇato udayabbayadassana — Seeing with insight the momentary arising and passing away, the nature of arising and passing away in the conditioned phenomena called causal formations and resultant formations. With insight the meditator penetrates that these phenomena, previously absent before their arising, now come fully into being and then pass into absence. (The meditator penetrates with insight the two absences, absence before arising and absence after arising and passing away, and their manifestation as uppāda, ṭhiti and bhaṅga only between those two absences.) Again, these formations are apparent only in the three phases of arising, presence and dissolution, uppāda, ṭhiti and bhaṅga. They are apparent neither before nor after. They have only a beginning, uppāda or arising, and an end, bhaṅga or dissolution. Because insight penetrates that conditioned phenomena have a beginning and end in arising and passing away in this manner, the characteristic of impermanence becomes apparent to the meditator’s knowledge.
+
+
+<a id="M09-body-P146"></a>
+## Đặc tướng khổ, đặc tướng riêng và đặc tướng hữu vi / Suffering, individual characteristics and the characteristic of the conditioned
+Miến / Burmese 146
+
+**VI**
+3. Vì tuệ minh sát thấu rõ các hành ấy luôn luôn thực sự bị bức bách, hết lần này đến lần khác, bởi hai sự kiện sinh và diệt, nên trong tuệ của hành giả, ngoài đặc tướng vô thường, đặc tướng khổ cũng hiển lộ.
+
+**EN**
+3. As insight penetrates that those formations are continually and truly oppressed, over and over, by the two events of arising and passing away, the characteristic of suffering becomes apparent to the meditator’s knowledge, in addition to the characteristic of impermanence.
+
+**VI**
+4. Vì tuệ minh sát thấu rõ rằng các pháp hữu vi chỉ có thể hiện hữu giữa lúc sinh (uppāda) và lúc diệt (bhaṅga), tức được giới hạn bởi sinh và diệt, nên trong tuệ của hành giả, ngoài đặc tướng vô thường và đặc tướng khổ, đặc tướng riêng (sabhāvalakkhaṇa), tức tính chất và năng lực riêng của mỗi pháp hữu vi, cũng hiển lộ.
+
+**EN**
+4. As insight penetrates that conditioned phenomena can be present only between their arising (uppāda) and dissolution (bhaṅga), that is, that they are bounded by arising and dissolution, the individual characteristic (sabhāvalakkhaṇa), the particular nature and capacity of each conditioned phenomenon, also becomes apparent to the meditator’s knowledge, in addition to the characteristics of impermanence and suffering.
+
+**VI**
+5. Khi các đặc tướng riêng của từng pháp hữu vi hiển lộ trong tuệ của hành giả, đặc tướng hữu vi (saṅkhatalakkhaṇa) cũng hiển lộ, tức tính chất chỉ có thể hiện hữu nhất thời, trong một khoảnh khắc cực ngắn gồm sinh, trụ và diệt. Bởi vì hành giả thấu rõ bằng tuệ minh sát rằng ở ngay lúc sinh (udaya) chưa có tính chất diệt (vaya), và ở ngay lúc diệt (vaya) cũng không có tính chất sinh (udaya).
+
+**EN**
+5. When the individual characteristics of the various conditioned phenomena become apparent to the meditator’s knowledge, the characteristic of the conditioned (saṅkhatalakkhaṇa) becomes apparent as well. This is their capacity to be present only temporarily, in the extremely brief interval of arising, presence and dissolution. This is because the meditator penetrates with insight that at the very moment of arising (udaya) the nature of dissolution (vaya) is absent, and at the very moment of dissolution (vaya) the nature of arising (udaya) is also absent.
+
+**VI**
+Đó là những hiểu biết, những tuệ và những kết quả đặc biệt có được nhờ paccayato udayabbayadassana, tức dùng tuệ minh sát thấy sinh diệt theo nhân, thấy quả hiện khởi khi nhân hiện khởi và quả chấm dứt khi nhân chấm dứt, và nhờ khaṇato udayabbayadassana, tức thấy sinh diệt theo sát-na, thấy các hành sinh và diệt ở từng sát-na riêng biệt.
+
+**EN**
+These are the distinctive understandings, knowledges and benefits obtained through paccayato udayabbayadassana, seeing arising and passing away according to causes with insight, seeing effects come into being when their causes come into being and cease when their causes cease, and through khaṇato udayabbayadassana, seeing arising and passing away according to moments, seeing formations arise and pass away in their individual moments.
+
+
+<a id="M09-body-P147"></a>
+## Trình tự tu tập minh sát sinh diệt / The sequence of insight practice in arising and passing away
+Miến / Burmese 147
+
+**VI**
+(Vism. 2, 268. Mahāṭī. 2, 425.)
+
+**EN**
+(Vism. 2, 268. Mahāṭī. 2, 425.)
+
+**VI**
+Trình tự tu tập minh sát sinh diệt
+
+**EN**
+The sequence of insight practice in arising and passing away
+
+**VI**
+Santativasena hi rūpārūpadhamme udayato, vayato ca manasi karontassa anukkamena bhāvanāya balavuppattikāle ñāṇassa tikkhavisadabhāvappattiyā khaṇato udayabbayā upaṭṭhahantīti. Ayañhi paṭhamaṃ paccayato udayabbayaṃ manasi karonto avijjādike paccayadhamme vissajjetvā udayabbayavante khandhe gahetvā tesaṃ paccayato udayabbayadassanamukhena khaṇatopi udayabbayaṃ manasi karoti.
+
+**EN**
+Santativasena hi rūpārūpadhamme udayato, vayato ca manasi karontassa anukkamena bhāvanāya balavuppattikāle ñāṇassa tikkhavisadabhāvappattiyā khaṇato udayabbayā upaṭṭhahantīti. Ayañhi paṭhamaṃ paccayato udayabbayaṃ manasi karonto avijjādike paccayadhamme vissajjetvā udayabbayavante khandhe gahetvā tesaṃ paccayato udayabbayadassanamukhena khaṇatopi udayabbayaṃ manasi karoti.
+
+**VI**
+Tassa yadā ñāṇaṃ tikkhaṃ visadaṃ hutvā pavattati, tadā rūpārūpadhammā khaṇe khaṇe uppajjantā, bhijjantā ca hutvā upaṭṭhahanti. (Mahāṭī. 2, 422.)
+
+**EN**
+Tassa yadā ñāṇaṃ tikkhaṃ visadaṃ hutvā pavattati, tadā rūpārūpadhammā khaṇe khaṇe uppajjantā, bhijjantā ca hutvā upaṭṭhahanti. (Mahāṭī. 2, 422.)
+
+**VI**
+Các pháp sắc và danh hiện hữu trong một đời, từ tái tục đến tử, được gọi là các pháp hiện tại theo thời kỳ (addhāpaccuppanna). Các pháp danh hiện hữu trong từng lộ tâm, bắt đầu bằng lộ nhãn môn, được gọi là các pháp hiện tại theo dòng tương tục (santatipaccuppanna). Trong mỗi nhóm sắc có hỏa giới, tức thời tiết (utu), làm sinh một dòng sắc nối tiếp qua bốn, năm, sáu thế hệ v.v. Một dòng sắc như vậy được gọi là dòng sắc do một thời tiết sinh. Trong mỗi nhóm sắc cũng có dưỡng chất (ojā). Khi được lửa tiêu hóa do nghiệp sinh và dưỡng chất do vật thực sinh hỗ trợ, dưỡng chất ấy làm sinh một dòng sắc qua bốn, năm, sáu thế hệ v.v. Một dòng sắc như vậy được gọi là dòng sắc do một vật thực sinh. Các dòng sắc do bốn nhân sinh hiện hữu trong phạm vi một thời tiết hoặc một vật thực ấy
+
+**EN**
+The material and mental phenomena occurring in a single lifetime, from rebirth-linking to death, are called phenomena present by period (addhāpaccuppanna). The mental phenomena occurring within each cognitive process, beginning with the eye-door process, are called phenomena present by continuity (santatipaccuppanna). In each material group there is the fire element, or temperature (utu), which produces a succession of materiality extending through four, five, six generations and so forth. Such a material succession is called a succession produced by a single temperature. There is also nutritive essence (ojā) in each material group. When it receives support from the kamma-produced digestive fire and from nutriment-produced nutritive essence, it produces a succession of materiality through four, five, six generations and so forth. Such a material succession is called a succession produced by a single nutriment. The successions of materiality of four origins present within the span of such a single temperature or a single nutriment
+
+
+<a id="M09-body-P148"></a>
+## Hiện tại theo dòng tương tục và hiện tại sát-na / The present by continuity and the momentary present
+Miến / Burmese 148
+
+**VI**
+là các pháp hiện tại theo dòng tương tục. Các pháp danh hiện hữu trong một sát-na tâm gồm đủ ba tiểu sát-na là uppāda, ṭhiti và bhaṅga, và các pháp sắc hiện hữu trong ba giai đoạn uppāda, ṭhiti và bhaṅga của chúng, chính là các pháp danh và sắc gọi là hiện tại sát-na (khaṇapaccuppanna).
+
+**EN**
+are phenomena present by continuity. The mental phenomena present in a single consciousness moment comprising the three submoments of uppāda, ṭhiti and bhaṅga, and the material phenomena present in their three phases of uppāda, ṭhiti and bhaṅga, are the mental and material phenomena called the momentary present (khaṇapaccuppanna).
+
+**VI**
+Trước hết hành giả phải tác ý và tu tập để thấy bằng tuệ minh sát các pháp sắc và danh dưới phương diện sinh và dưới phương diện diệt, xét theo hiện tại tương tục. Khi tu tập bằng cách tác ý như vậy, tuệ tu tập minh sát tuần tự đạt đến sức mạnh và trở nên sắc bén, trong sáng, hết sức thanh tịnh. Khi ấy, các tính chất sinh và diệt của các hành trong từng sát-na riêng biệt hiển lộ trong tuệ của hành giả cho đến mức hiện tại sát-na.
+
+**EN**
+First the meditator must attend and develop insight so as to see material and mental phenomena under the aspects of arising and of dissolution, in terms of the present by continuity. As one develops insight by attending in this way, the knowledge of insight development gradually grows strong and becomes sharp, clear and thoroughly purified. At that point the nature of arising and passing away in formations, in each individual moment, becomes apparent to the meditator’s knowledge down to the momentary present.
+
+**VI**
+Quả thật, ban đầu hành giả tác ý và tu tập paccayato udayabbayadassana, tức sinh diệt theo nhân, chẳng hạn «do vô minh sinh, sắc sinh. Do vô minh diệt, sắc diệt». Trong khi tác ý như vậy, hành giả để sang một bên các nhân như vô minh, tức tạm gác việc quán thấy sự sinh khởi của các quả như sắc do các nhân như vô minh, rồi dùng tuệ minh sát bao quát và nắm lấy các uẩn nhân và uẩn quả mà tính sinh diệt đã hiển lộ. Lấy việc thấy bằng tuệ minh sát rằng các quả sinh do nhân sinh và các quả chấm dứt do nhân chấm dứt, tức paccayato udayabbayadassana, làm cửa ngõ, hành giả cũng tác ý đến các uẩn ấy
+
+**EN**
+Indeed, at first the meditator attends to and develops paccayato udayabbayadassana, arising and passing away according to causes, for example: “With the arising of ignorance, materiality arises. With the cessation of ignorance, materiality ceases.” While attending in this way, the meditator sets aside the causes such as ignorance, that is, sets aside the contemplation of how effects such as materiality arise because of causes such as ignorance, and takes up with insight the causal and resultant aggregates in which arising and passing away have become apparent. Taking as the gateway the insight that effects arise because causes arise and cease because causes cease, namely paccayato udayabbayadassana, the meditator also attends to those aggregates
+
+
+<a id="M09-body-P149"></a>
+## Tuệ minh sát còn non và các tùy phiền não / Tender insight knowledge and its imperfections
+Miến / Burmese 149
+
+**VI**
+theo từng sát-na, tu tập tác ý đến tính sinh và diệt (udayabbaya) của chúng.
+
+**EN**
+moment by moment, cultivating attention to their nature of arising and passing away (udayabbaya).
+
+**VI**
+(Do vô minh sinh, sắc sinh. Do vô minh diệt, sắc diệt. Vô minh sinh diệt, vô thường. Sắc sinh diệt, vô thường. Ý nói đến sự tu tập tác ý theo những cách như vậy.)
+
+**EN**
+(With the arising of ignorance, materiality arises. With the cessation of ignorance, materiality ceases. Ignorance arises and passes away and is impermanent. Materiality arises and passes away and is impermanent. This refers to developing attention in such ways.)
+
+**VI**
+Nhờ tác ý nhiều lần như vậy, tuệ của hành giả đến lúc trở nên sắc bén và trong sáng. Khi đó, các pháp sắc và danh hiển lộ trong tuệ của hành giả như đang sinh rồi diệt trong từng sát-na, từng sát-na một. Khi chúng hiển lộ như vậy, hành giả đạt được tuệ minh sát còn non, tức taruṇavipassanāñāṇa, gọi là quán sinh diệt (udayabbayānupassanā). Hành giả ấy được gọi là người mới bắt đầu quán minh sát (āraddhavipassaka). (Mahāṭī. 2, 422.)
+
+**EN**
+With repeated attention in this way, there comes a time when the meditator’s knowledge becomes sharp and clear. Then material and mental phenomena become apparent to the meditator’s knowledge as arising and passing away in each moment, moment by moment. When they become apparent in this way, the meditator gains tender insight knowledge, taruṇavipassanāñāṇa, called contemplation of arising and passing away (udayabbayānupassanā). Such a meditator is called one who has begun insight (āraddhavipassaka). (Mahāṭī. 2, 422.)
+
+**VI**
+Phần các tùy phiền não (upakkilesa)
+
+**EN**
+The section on imperfections (upakkilesa)
+
+**VI**
+Cho đến khi đạt tuệ minh sát còn non: 1. Paccayato udayabbayadassana — phương pháp quán sinh diệt theo nhân. 2. Khaṇato udayabbayadassana — phương pháp quán sinh diệt theo sát-na.
+
+**EN**
+Until tender insight knowledge is attained: 1. Paccayato udayabbayadassana — the method of contemplating arising and passing away according to causes. 2. Khaṇato udayabbayadassana — the method of contemplating arising and passing away according to moments.
+
+**VI**
+Khi hành giả quán minh sát sâu rộng theo hai phương pháp này, và cả khi sau đó trở lại quán minh sát năm uẩn chấp thủ phân theo quá khứ, tương lai, hiện tại, bên trong, bên ngoài v.v., mười loại tùy phiền não minh sát, tức những pháp làm nhiễm ô minh sát, thường có thể sinh khởi.
+
+**EN**
+While the meditator contemplates extensively by these two methods of insight, and also when they then return to insight contemplation of the five aggregates subject to clinging classified as past, future, present, internal, external and so forth, the ten kinds of insight imperfections, that is, phenomena that defile insight, commonly arise.
+
+
+<a id="M09-body-P150"></a>
+## Những người có hoặc không có tùy phiền não minh sát / Those in whom the imperfections of insight do or do not arise
+Miến / Burmese 150
+
+**VI**
+Vipassanupakkilesā hi paṭivedhappattassa ariyasāvakassa ceva vippaṭipannakassa ca nikkhittakammaṭṭhānassa kusītapuggalassa nuppajjanti. Sammāpaṭipannakassa pana yuttapayuttassa āraddhavipassakassa kulaputtassa uppajjantiyeva. (Vism. 2, 269.)
+
+**EN**
+Vipassanupakkilesā hi paṭivedhappattassa ariyasāvakassa ceva vippaṭipannakassa ca nikkhittakammaṭṭhānassa kusītapuggalassa nuppajjanti. Sammāpaṭipannakassa pana yuttapayuttassa āraddhavipassakassa kulaputtassa uppajjantiyeva. (Vism. 2, 269.)
+
+**VI**
+Mười pháp tùy phiền não làm nhiễm ô minh sát ấy:
+
+**EN**
+These ten imperfections that defile insight:
+
+**VI**
+1. Không sinh trong dòng tương tục của vị Thánh đệ tử đã đạt đến tuệ thể nhập là tuệ đạo và tuệ quả, và cũng không sinh trong dòng tương tục của hành giả đã đạt đến minh sát mạnh mẽ, mãnh liệt, bắt đầu bằng quán yếm ly (nibbidānupassanā). (Mahāṭī. 2, 427.)
+
+**EN**
+1. They do not arise in the continuum of a noble disciple who has reached penetration, the knowledge of path and fruition, nor in the continuum of a meditator who has reached strong and powerful insight, beginning with contemplation of disenchantment (nibbidānupassanā). (Mahāṭī. 2, 427.)
+
+**VI**
+2. Không sinh trong dòng tương tục của người thực hành sai lệch, như làm hư hoại giới, làm hư hoại định hay đi lệch trong sự tu tập tuệ.
+
+**EN**
+2. They do not arise in the continuum of a person whose practice is misguided, for example through a breach of virtue, a breakdown of concentration or a departure from the proper practice of wisdom.
+
+**VI**
+3. Không sinh trong dòng tương tục của hành giả tuy đã nỗ lực nhiều trong các pháp minh sát, nhưng giữa chừng tâm chán nản và thoái lui đối với công việc minh sát, rồi từ bỏ công việc tu tập minh sát.
+
+**EN**
+3. They do not arise in the continuum of a meditator who has worked hard at the practices of insight but has become discouraged and turned back from the work of insight along the way, then abandoned the work of developing insight.
+
+**VI**
+4. Không sinh trong dòng tương tục của người tuy đầy đủ giới v.v. nhưng do biếng nhác mà không nỗ lực tu tập minh sát.
+
+**EN**
+4. They do not arise in the continuum of a person who, though accomplished in virtue and the like, makes no effort to develop insight owing to laziness.
+
+**VI**
+Hãy ghi nhớ rằng chúng không sinh trong dòng tương tục của bốn hạng người này. Lại nữa, hãy ghi nhớ rằng chúng nhất định sinh trong dòng tương tục của thiện nam hoặc tín nữ được gọi là người mới bắt đầu quán minh sát (āraddhavipassaka), là người thực hành đúng đắn, không sai lệch trong sự tu tập giới, định và tuệ, luôn chuyên cần trước sau như một, không ngừng nỗ lực tu tập tuệ. (Vism. 2, 269. Mahāṭī. 2, 427.)
+
+**EN**
+Remember that they do not arise in the continua of these four kinds of persons. Remember also that they invariably arise in the continuum of a man or woman of good family called one who has begun insight (āraddhavipassaka), one who practises correctly, with no deviation in the practice of virtue, concentration and wisdom, is equally devoted at the outset and thereafter, and perseveres in developing wisdom. (Vism. 2, 269. Mahāṭī. 2, 427.)
+
+
+<a id="M09-body-P151"></a>
+## 1. Obhāsa — ánh sáng / 1. Obhāsa—Light
+Miến / Burmese 151
+
+**VI**
+Như đã trình bày ở trên, khi nhiều lần quán minh sát danh, sắc, nhân và quả, tức các pháp hành, bằng cách đặt chúng dưới các đặc tướng theo nhiều phương pháp, trí minh sát trở nên sắc bén. Tâm minh sát tương ưng với trí ấy, tức tâm và các tâm sở minh sát, làm sinh các nhóm tám sắc có dưỡng chất là thứ tám do tâm sinh (cittajaojaṭṭhamaka). Cảnh sắc, tức màu sắc (vaṇṇa), trong các nhóm sắc ấy chiếu rất sáng. Hỏa giới, tức thời tiết, trong từng nhóm tám sắc do tâm sinh lại tiếp tục làm sinh hết nhóm này đến nhóm khác gồm tám sắc có dưỡng chất là thứ tám do thời tiết sinh (utujāojaṭṭhamaka). Sắc cảnh, tức màu sắc trong từng nhóm sắc ấy, cũng chiếu rất sáng.
+
+**EN**
+As presented above, when one repeatedly contemplates mentality, materiality, causes, and effects, namely formations, with insight by applying the characteristics in various ways, insight knowledge becomes sharp. The insight consciousness associated with that knowledge, or the insight consciousness together with its mental factors, produces mind-born groups of eight with nutritive essence as the eighth (cittajaojaṭṭhamaka). The visible object, namely color (vaṇṇa), in those groups shines very brightly. The fire element, or temperature, in each mind-born octad produces successive new temperature-born groups of eight with nutritive essence as the eighth (utujāojaṭṭhamaka). The visible object, namely color, in each of these groups also shines very brightly.
+
+**VI**
+Màu sắc do tâm và do thời tiết sinh chiếu mạnh hay yếu tùy sức của trí. Màu sắc do tâm sinh chỉ lan tỏa bên trong. Màu sắc do thời tiết sinh lan tỏa cả bên trong lẫn bên ngoài, càng xa khi trí càng mạnh. Nó có thể lan tỏa đến cả mười ngàn thế giới.
+
+**EN**
+Mind-born and temperature-born color shine strongly or weakly according to the strength of knowledge. Mind-born color spreads internally alone. Temperature-born color spreads internally and externally, the farther the stronger the knowledge. It can spread as far as ten thousand world systems.
+
+**VI**
+Taṃ tasseva paññāyati. Tena phuṭṭhokāse rūpagatampi passati. Passanto ca cakkhuviññāṇena passati, udāhu manoviññāṇenāti vīmaṃsitabbaṃ vadanti. Dibbacakkhulābhino viya taṃ manoviññāṇaviññeyyamevāti vuttaṃ viya dissatīti. (Mahāṭī. 2.429.)
+
+**EN**
+Taṃ tasseva paññāyati. Tena phuṭṭhokāse rūpagatampi passati. Passanto ca cakkhuviññāṇena passati, udāhu manoviññāṇenāti vīmaṃsitabbaṃ vadanti. Dibbacakkhulābhino viya taṃ manoviññāṇaviññeyyamevāti vuttaṃ viya dissatīti. (Mahāṭī. 2.429.)
+
+**VI**
+Ánh sáng ấy chỉ hiện rõ đối với chính hành giả. Khi ánh sáng do trí lan ra bên ngoài, tại những nơi ánh sáng ấy chiếu đến, hành giả còn có thể thấy…
+
+**EN**
+That light is apparent only to the meditator. When the light of knowledge spreads externally, in the places it reaches the meditator can also see…
+
+
+<a id="M09-body-P152"></a>
+## Ánh sáng và thức nhận biết sắc / Light and the Consciousness That Knows Materiality
+Miến / Burmese 152
+
+**VI**
+…sắc cảnh, tức toàn bộ những gì thuộc về sắc hiện diện ở đó. Khi hành giả thấy các sắc cảnh ở ngoại giới như thế, các bậc thầy nói cần xét xem vị ấy thấy bằng nhãn thức hay bằng ý thức. Theo vị thầy của bản Đại phụ chú giải, các thiện nhân đã đạt thắng trí thiên nhãn thấy các sắc cảnh xa gần bằng ý thức gọi là tâm thắng trí thiên nhãn. Tương tự, ở đây các cảnh minh sát cũng chỉ được thấy bằng ý thức gọi là tâm minh sát. Tác giả có vẻ cho rằng cách hiểu ấy hợp lý. (Mahāṭī. 2.429.)
+
+**EN**
+…the visible objects, that is, the material things present there. When the meditator thus sees visible objects in the external world, the teachers say one should investigate whether this seeing is by eye-consciousness or by mind-consciousness. According to the teacher who composed the Great Subcommentary, good people who have attained the direct knowledge of the divine eye see visible objects far and near through mind-consciousness called the direct-knowledge consciousness of the divine eye. Similarly, here the insight objects are seen only through mind-consciousness called insight consciousness. The author appears to regard this explanation as reasonable. (Mahāṭī. 2.429.)
+
+**VI**
+Những lời giải thích và nhận xét trên của vị thầy Đại phụ chú giải đặc biệt đáng lưu tâm đối với hành giả đang quán minh sát.
+
+**EN**
+The above explanations and observations of the teacher of the Great Subcommentary are of particular interest to meditators practising insight.
+
+**VI**
+Nếu chấp nhận rằng có ánh sáng trong tâm minh sát hoặc ánh sáng sinh do trí minh sát, thì cũng phải chấp nhận lời Đức Phật trong Adhicittasutta, còn gọi là Nimittasutta (Aṅ. 1.258), rằng tâm tu tập thiền chỉ và tâm tu tập minh sát, gọi là tăng thượng tâm (adhicitta), có ánh sáng rực rỡ, lóe chiếu (pabhassara). Bởi vì các tâm tu tập thiền chỉ và minh sát gọi là tăng thượng tâm có thể làm sinh các nhóm tám sắc có dưỡng chất là thứ tám do tâm sinh. Mỗi tâm tu tập thiền chỉ và mỗi tâm tu tập minh sát…
+
+**EN**
+If one accepts that there is light in insight consciousness or that light arises through insight knowledge, one should also accept the Buddha’s statement in the Adhicittasutta, also called the Nimittasutta (Aṅ. 1.258), that serenity and insight meditation consciousness, called higher mind (adhicitta), has brilliant, flashing light (pabhassara). For the consciousnesses developing serenity and insight called higher mind can produce mind-born groups of eight with nutritive essence as the eighth. Each individual serenity and insight meditation consciousness…
+
+
+<a id="M09-body-P153"></a>
+## Ánh sáng do tâm và thời tiết sinh / Light From Mind-Born and Temperature-Born Materiality
+Miến / Burmese 153
+
+**VI**
+…có khả năng làm sinh rất nhiều nhóm sắc. Mỗi hỏa giới, tức thời tiết, trong các nhóm tám sắc có dưỡng chất là thứ tám do tâm sinh ấy cũng có thể liên tiếp làm sinh các nhóm tám sắc có dưỡng chất là thứ tám do thời tiết sinh. Màu sắc, tức sắc cảnh trong từng nhóm tám sắc do tâm và do thời tiết sinh ấy, có thể chiếu sáng tùy sức của trí. Trong số các pháp tương ưng cùng sinh với tâm tu tập thiền chỉ và tâm tu tập minh sát gọi là tăng thượng tâm ấy cũng có trí.
+
+**EN**
+…has the power to produce very many material groups. Each fire element, or temperature, in those mind-born groups of eight with nutritive essence as the eighth can in turn produce successive temperature-born groups of eight with nutritive essence as the eighth. The color, namely the visible object, in each mind-born and temperature-born group can shine according to the strength of knowledge. Knowledge is also included among the associated phenomena arising together with serenity and insight meditation consciousness called higher mind.
+
+**VI**
+Vì vậy, thiện nhân hành thiền cần có thể chấp nhận lời Đức Phật rằng các tâm tu tập thiền chỉ và minh sát gọi là tăng thượng tâm có ánh sáng rực rỡ, lóe chiếu. Hãy hiểu rằng tên “ánh sáng” của sắc do tâm sinh và sắc do thời tiết sinh, tức quả, được dùng cho trí, tức nhân, trong những cách gọi “ánh sáng trí thiền chỉ” và “ánh sáng trí minh sát”. Đó là cách nói gọi nhân bằng tên quả (kāraṇūpacāra, cũng gọi là phalūpacāra).
+
+**EN**
+Thus a good meditator should be able to accept the Buddha’s teaching that serenity and insight meditation consciousness called higher mind has brilliant, flashing light. Understand that in the expressions “the light of serenity knowledge” and “the light of insight knowledge,” the name “light,” belonging to the effect, mind-born and temperature-born materiality, is applied to its cause, knowledge. This is figurative usage concerning cause and effect (kāraṇūpacāra, also called phalūpacāra).
+
+**VI**
+Nếu chấp nhận như thế, cũng có thể chấp nhận lời giải thích của Aṅguttaraṭīkā, quyển ba, trong phần chú giải Pacalāyamānasutta (Aṅ. Ṭī. 3.177–178). Như đã trình bày ở phần đầu sách về đề mục thiền chỉ, ánh sáng bắt đầu xuất hiện do tâm tu tập thiền chỉ ngay khi đang thiết lập định, từ giai đoạn định chuẩn bị gần với cận định và an chỉ định. (Đại phụ chú giải và Aṅguttaraṭīkā đều là tác phẩm của cùng một vị thầy, Tôn giả Dhammapāla, gọi là Ācariya Dhammapāla.)
+
+**EN**
+If one accepts this, one can also accept the explanation in the Aṅguttaraṭīkā, volume three, in its commentary on the Pacalāyamānasutta (Aṅ. Ṭī. 3.177–178). As presented earlier in this book in the serenity meditation section, light begins to appear through serenity meditation consciousness during the development of concentration, from the stage of preparatory concentration that approaches access and absorption concentration. (The Great Subcommentary and the Aṅguttaraṭīkā are both works of the same teacher, the venerable Dhammapāla, called Ācariya Dhammapāla.)
+
+
+<a id="M09-body-P154"></a>
+## Vì sao lại giải thích ánh sáng ở giai đoạn này? / Why Is Light Explained Again at This Stage?
+Miến / Burmese 154
+
+**VI**
+Nếu chấp nhận như thế, thì có thể hiểu rằng ánh sáng đã có từ trước khi đạt đến giai đoạn minh sát non yếu của trí sinh diệt. Vì ánh sáng có thể sinh do tâm tu tập thiền chỉ và tâm minh sát gọi là tăng thượng tâm, nên có thể có ánh sáng trong suốt phần định, từ định chuẩn bị gần với cận định và an chỉ định, và cũng có thể có ánh sáng trong suốt phần minh sát, kể từ khi bắt đầu nhận diện danh và sắc. Đó là ánh sáng trí thiền chỉ và ánh sáng trí minh sát.
+
+**EN**
+On this understanding, light can occur before one reaches the stage of tender insight in the knowledge of arising and passing away. Because light can be produced by serenity and insight consciousness called higher mind, it may be present throughout the concentration section, from preparatory concentration close to access and absorption, and throughout the insight section, from the beginning of discerning mentality and materiality. This is the light of serenity knowledge and the light of insight knowledge.
+
+**VI**
+Vì sao lại phải giải thích? Nếu ánh sáng hiện rõ trong suốt quá trình tu tập thiền chỉ và minh sát gọi là tăng thượng tâm, vì sao đến giai đoạn minh sát non yếu của trí sinh diệt mới lại giải thích sự xuất hiện của obhāsa, tức vipassanobhāsa, ánh sáng của trí minh sát? Câu trả lời như sau.
+
+**EN**
+Why explain it again? If light is manifest throughout the development of serenity and insight called higher mind, why is the appearance of obhāsa, namely vipassanobhāsa, the light of insight knowledge, explained again upon reaching the stage of tender insight in the knowledge of arising and passing away? The answer is as follows.
+
+**VI**
+Tattha obhāsoti vipassanobhāso. Tasmiṃ uppanne yogāvacaro “Na vata me ito pubbe evarūpo obhāso uppannapubbo, addhā maggappattosmi phalappattosmī”ti amaggameva “maggo”ti, aphalameva ca “phalan”ti gaṇhāti. Tassa amaggaṃ “maggo”ti aphalaṃ “phalan”ti gaṇhato vipassanāvīthi ukkantā nāma hoti. So attano mūlakammaṭṭhānaṃ vissajjetvā obhāsameva assādento nisīdati. (Visuddhi. 2.270.)
+
+**EN**
+Tattha obhāsoti vipassanobhāso. Tasmiṃ uppanne yogāvacaro “Na vata me ito pubbe evarūpo obhāso uppannapubbo, addhā maggappattosmi phalappattosmī”ti amaggameva “maggo”ti, aphalameva ca “phalan”ti gaṇhāti. Tassa amaggaṃ “maggo”ti aphalaṃ “phalan”ti gaṇhato vipassanāvīthi ukkantā nāma hoti. So attano mūlakammaṭṭhānaṃ vissajjetvā obhāsameva assādento nisīdati. (Visuddhi. 2.270.)
+
+
+<a id="M09-body-P155"></a>
+## Ánh sáng và sự đi chệch đường minh sát / Light and Deviation From the Course of Insight
+Miến / Burmese 155
+
+**VI**
+Trong mười pháp tùy phiền não minh sát ấy, obhāsa là ánh sáng, tức vipassanobhāsa, ánh sáng minh sát, nghĩa là ánh sáng sinh do trí minh sát. Khi ánh sáng của trí minh sát ấy xuất hiện, hành giả nghĩ: “Trong dòng tương tục của ta trước đây chưa từng xuất hiện ánh sáng như thế này. Hôm nay ta đã đạt Thánh đạo, đã đạt Thánh quả.” Hành giả nắm lấy ánh sáng obhāsa vốn không phải Thánh đạo làm Thánh đạo, nắm lấy ánh sáng obhāsa vốn không phải Thánh quả làm Thánh quả. Khi nắm lấy như thế, hành giả đi chệch đường minh sát. Bởi vì hành giả buông bỏ đề mục căn bản của mình, tức công việc tu minh sát, rồi ngồi đó thưởng thức chính ánh sáng obhāsa ấy. (Visuddhi. 2.270.)
+
+**EN**
+Among those ten corruptions of insight, obhāsa is light, namely vipassanobhāsa, the light of insight, meaning light that arises through insight knowledge. When that light of insight knowledge appears, the meditator thinks, “Never before has such light appeared in my continuity. Today I have reached the noble path and the noble fruition.” The meditator takes obhāsa, the light that is not the noble path, to be the noble path, and obhāsa, the light that is not the noble fruition, to be the noble fruition. By apprehending it thus, the meditator deviates from the course of insight. This is because the meditator abandons the fundamental meditation subject, the work of developing insight, and sits enjoying that very light of obhāsa. (Visuddhi. 2.270.)
+
+**VI**
+Theo lời giải thích trên của chú giải Visuddhimagga, ánh sáng xuất hiện trong giai đoạn minh sát non yếu gọi là trí sinh diệt khác với ánh sáng đã xuất hiện trước đây do tâm thiền chỉ và tâm minh sát. Đó là một loại ánh sáng mới, đặc biệt và chưa từng xuất hiện. Tùy người, nó có thể lan ra trong khoảng một căn phòng, hoặc lan đầy cả bầu trời.
+
+**EN**
+According to the foregoing explanation in the Visuddhimagga commentary, the light appearing at the stage of tender insight called knowledge of arising and passing away differs from the light that previously appeared through serenity and insight meditation consciousness. It is a new, distinctive light not previously experienced. Depending on the person, it may spread over an area the size of a room or fill the whole sky.
+
+**VI**
+Nếu xem chính ánh sáng ấy là đạo hay quả, hoặc là ánh sáng phát ra từ trí đạo và trí quả, rồi…
+
+**EN**
+If one takes that very light to be the path or fruition, or to be light emanating from path and fruition knowledge, and then…
+
+
+<a id="M09-body-P156"></a>
+## Cách trở lại đường minh sát / How to Return to the Course of Insight
+Miến / Burmese 156
+
+**VI**
+…dừng tu minh sát và thưởng thức ánh sáng obhāsa ấy, thì sự ưa thích, tức nikanti, mới là tùy phiền não. Khi do ánh sáng ấy mà ngã mạn hay tà kiến sinh khởi, thì chúng mới là tùy phiền não. Vì vậy, ánh sáng obhāsa là chỗ nương của các tùy phiền não. Chính ái, tức nikanti, ngã mạn và tà kiến sinh khi lấy ánh sáng ấy làm cảnh mới là các tùy phiền não.
+
+**EN**
+…stops developing insight and takes delight in that light of obhāsa, the delight, namely nikanti, is what constitutes a corruption. When conceit or wrong view arises on account of the light, that is what constitutes a corruption. Thus the light of obhāsa is the basis for those corruptions. Craving, namely nikanti, conceit, and wrong view that arise taking it as object are the corruptions themselves.
+
+**VI**
+“Etaṃ mama, esohamasmi, eso me attā — Ánh sáng obhāsa này là của tôi. Ánh sáng obhāsa này là tôi. Ánh sáng obhāsa này là tự ngã của tôi.” Khi chấp thủ như thế thì ái, ngã mạn và tà kiến sinh khởi.
+
+**EN**
+“Etaṃ mama, esohamasmi, eso me attā—This light of obhāsa is mine. This light of obhāsa is what I am. This light of obhāsa is my self.” When one grasps in this way, craving, conceit, and wrong view arise.
+
+**VI**
+Cách trở lại đường đúng. Trước hết hãy nhận diện bốn đại trong ánh sáng obhāsa. Khi có thể phân biệt được bằng trí từng nhóm bốn đại, hãy tiếp tục quán để thấy cả giới hư không. Khi đó chỉ còn thấy các hạt nhóm sắc. Đó là những hạt nhóm sắc cực kỳ vi tế. Hãy dùng trí phân tích các nhóm sắc ấy để phá khối tưởng (ghana), nhận diện sắc pháp chân đế.
+
+**EN**
+How to return to the right course. First discern the four great elements in the light of obhāsa. When you can distinguish with knowledge each group of the four great elements, continue contemplating so as to see the space element as well. Then you will see only minute material groups. They are extremely subtle material groups. Analyze those groups with knowledge to break up compactness (ghana), and discern the ultimate material phenomena.
+
+**VI**
+Các hạt nhóm sắc mang tên obhāsa lan tỏa bên trong là các nhóm tám sắc có dưỡng chất là thứ tám do tâm và do thời tiết sinh. Các nhóm sắc lan tỏa ra ngoài là các nhóm tám sắc có dưỡng chất là thứ tám do thời tiết sinh. Hãy nhận diện các sắc pháp chân đế do tâm và thời tiết sinh ấy, phân biệt chúng bằng trí, rồi luân phiên đặt chúng dưới ba đặc tướng và…
+
+**EN**
+The minute material groups called obhāsa that spread internally are mind-born and temperature-born groups of eight with nutritive essence as the eighth. Those spreading externally are temperature-born groups of eight with nutritive essence as the eighth. Discern these ultimate material phenomena produced by mind and temperature, distinguish them with knowledge, apply the three characteristics in turn, and…
+
+
+<a id="M09-body-P157"></a>
+## 2. Trí và 3. Hỷ / 2. Knowledge and 3. Rapture
+Miến / Burmese 157
+
+**VI**
+…quán minh sát. Như vậy hành giả đã trở lại đường minh sát. Sau đó tiếp tục quán minh sát như trước đối với sắc, danh, nhân và quả, tức các pháp hành đang quán dở.
+
+**EN**
+…contemplate them with insight. In this way the meditator returns to the course of insight. Then continue to contemplate with insight as before the materiality, mentality, causes, and effects, namely the formations whose contemplation was under way.
+
+**VI**
+2. Ñāṇa — trí minh sát. Khi hành giả nỗ lực phát triển trí sinh diệt đến mức cao nhất, trí minh sát có khả năng đặt các pháp hành dưới các đặc tướng và quán xét chúng sinh khởi sắc bén, nhanh nhạy, trong sáng và tinh khiết như vũ khí kim cang do vua trời Sakka phóng ra. (Visuddhi. 2.271.)
+
+**EN**
+2. Ñāṇa—insight knowledge. As the meditator strives to bring knowledge of arising and passing away to its highest development, the insight knowledge able to apply the characteristics to formations and examine them arises sharp, swift, clear, and pure, like the thunderbolt hurled by Sakka, king of the gods. (Visuddhi. 2.271.)
+
+**VI**
+3. Pīti — hỷ minh sát. Hỷ là sự hoan hỷ và vui mừng sinh cùng trí minh sát. Có năm loại hỷ:
+
+**EN**
+3. Pīti—rapture in insight. Rapture is the delight and gladness that arises together with insight knowledge. There are five kinds of rapture:
+
+**VI**
+1. Khuddikāpīti — hỷ nhỏ, có thể làm dựng lông và nổi da gà.
+
+**EN**
+1. Khuddikāpīti—minor rapture, which can make the hairs stand on end and raise gooseflesh.
+
+**VI**
+2. Khaṇikāpīti — hỷ chớp nhoáng, thỉnh thoảng lóe lên như tia chớp.
+
+**EN**
+2. Khaṇikāpīti—momentary rapture, which flashes from time to time like lightning.
+
+**VI**
+3. Okkantikāpīti — hỷ tràn xuống, từng đợt dâng lên trong thân như sóng.
+
+**EN**
+3. Okkantikāpīti—showering rapture, which surges in the body in waves.
+
+**VI**
+4. Ubbegāpīti — hỷ nâng bổng, có thể làm thân nhấc lên cao và bay.
+
+**EN**
+4. Ubbegāpīti—uplifting rapture, which can raise the body and make it fly.
+
+**VI**
+5. Pharaṇāpīti — hỷ thấm nhuần, làm các sắc thù thắng do tâm sinh lan khắp, tràn đầy và thấm vào toàn thân.
+
+**EN**
+5. Pharaṇāpīti—pervading rapture, which causes superior mind-born materiality to spread through, fill, and permeate the whole body.
+
+
+<a id="M09-body-P158"></a>
+## 4. Passaddhi — an tịnh minh sát / 4. Passaddhi—Insight Tranquillity
+Miến / Burmese 158
+
+**VI**
+Trong giai đoạn minh sát non yếu này, năm loại hỷ ấy thường xuất hiện trong dòng tương tục của hành giả. Đặc biệt, hỷ thấm nhuần thường xuất hiện rất mạnh. (Visuddhi. 2.272.)
+
+**EN**
+At this stage of tender insight the five kinds of rapture often occur in the meditator’s continuity. Pervading rapture in particular often arises very strongly. (Visuddhi. 2.272.)
+
+**VI**
+4. Passaddhi là sự an tịnh của tâm và các tâm sở sinh cùng tâm minh sát. Khi hành giả ngồi tác ý các pháp làm đối tượng minh sát ở nơi thích hợp để ngồi và trú, lúc ấy thân và tâm không bị nóng bức, nặng nề hay thô cứng. Hành giả thích thú với cảnh tu tập. Tâm và các tâm sở không bị bệnh hoạn hay cong vạy. Các trạng thái thực sự xuất hiện là sự an tịnh, sự nhẹ nhàng của tâm và các tâm sở, tức khả năng nhanh chóng chuyển qua lại khi quán minh sát: khi sắc, khi danh, khi nhân, khi quả, khi nội, khi ngoại, khi quá khứ, khi vị lai, khi hiện tại, khi vô thường, khi khổ, khi vô ngã, v.v. Cũng xuất hiện tính mềm mại, dễ sử dụng vào công việc tu tập, trong sạch khỏi phiền não, thành thạo trong tu tập và ngay thẳng. [Ý nói cả mười hai tâm sở thành sáu cặp, từ kāyapassaddhi và cittapassaddhi đến kāyujukatā và cittujukatā, đều hiện rõ cùng trí minh sát.] (Visuddhi. 2.272.)
+
+**EN**
+4. Passaddhi is the tranquillity of consciousness and its mental factors arising together with insight consciousness. When the meditator sits attending to the phenomena that are the objects of insight in a place suitable for sitting and staying, there is no distress, heaviness, or stiffness in body or mind. The meditation object is agreeable. The mind and mental factors are free of sickness and crookedness. What arises is tranquillity and lightness of mind and mental factors, meaning the ability to shift swiftly back and forth in insight contemplation: now materiality, now mentality, now cause, now effect, now internal, now external, now past, now future, now present, now impermanence, now suffering, now non-self, and so on. There also arise pliancy, wieldiness for meditation, purity from defilements, proficiency in meditation, and rectitude. [This means all twelve mental factors in six pairs, from kāyapassaddhi and cittapassaddhi to kāyujukatā and cittujukatā, occur conspicuously together with insight knowledge.] (Visuddhi. 2.272.)
+
+
+<a id="M09-body-P159"></a>
+## 5. Lạc, 6. Tín và 7. Tinh tấn / 5. Happiness, 6. Confidence, and 7. Energy
+Miến / Burmese 159
+
+**VI**
+5. Sukha — lạc minh sát. Tâm sở lạc, sự an vui của tâm, sinh cùng trí minh sát. Toàn bộ thân sắc của hành giả tràn ngập sắc thù thắng do tâm minh sát tương ưng với lạc ấy làm sinh, và sắc ấy lan tỏa khắp thân. Ý nói sắc do tâm thù thắng sinh lan khắp toàn thân. (Visuddhi. 2.272.)
+
+**EN**
+5. Sukha—insight happiness. The mental factor of happiness, ease of mind, arises with insight knowledge. The meditator’s entire material body is suffused with superior materiality produced by the insight consciousness associated with that happiness, and it spreads throughout the body. This means that superior mind-born materiality pervades the whole body. (Visuddhi. 2.272.)
+
+**VI**
+6. Adhimokkha — tín. Trong dòng tương tục của hành giả cũng sinh khởi tín đối với công việc tu tập minh sát, gọi là adhimokkha. Tín ấy rất mạnh và kiên cố, có khả năng quyết định dứt khoát và làm cho tâm minh sát cùng các tâm sở tương ưng với trí minh sát rất trong sáng. Đặc biệt, đây là tín đối với ba học cao quý là giới, định và tuệ.
+
+**EN**
+6. Adhimokkha—confidence. In the meditator’s continuity there also arises confidence in the work of developing insight, called adhimokkha. It is very strong and firm, able to resolve decisively and render very clear the insight consciousness and mental factors associated with insight knowledge. In particular, this is confidence in the three noble trainings of virtue, concentration, and wisdom.
+
+**VI**
+7. Paggaha — tinh tấn. Trong dòng tương tục của hành giả, cùng với trí minh sát, cũng sinh khởi tinh tấn vững vàng, không chùng xuống hay lùi lại, được củng cố bởi sức tu tập trước đó. Nó nâng đỡ mạnh mẽ các pháp tương ưng là tâm và các tâm sở tu tập minh sát, đề cao chúng, bảo vệ chúng khỏi tính lười biếng trong việc tu tập và nâng đỡ công việc ấy. Tinh tấn ấy gọi là paggaha…
+
+**EN**
+7. Paggaha—energy. In the meditator’s continuity, together with insight knowledge, there also arises firm energy, neither slackening nor retreating, strengthened by the power of prior development. It strongly supports and upholds the associated phenomena, the consciousness and mental factors of insight meditation, protecting them from laziness in the work of development and sustaining that work. This energy is called paggaha…
+
+
+<a id="M09-body-P160"></a>
+## 8. Niệm và 9. Xả / 8. Mindfulness and 9. Equanimity
+Miến / Burmese 160
+
+**VI**
+…và tinh tấn ấy cũng đang sinh khởi.
+
+**EN**
+…and that energy too is arising.
+
+**VI**
+8. Upaṭṭhāna — niệm. Lúc ấy, trong dòng tương tục của hành giả, niệm sinh cùng trí minh sát đang tu tập. Niệm ghi nhận rõ ràng tính vô thường, tính khổ, tính vô ngã và tính bất tịnh của các pháp hành, nên bám chắc vào các pháp hành làm cảnh của trí minh sát. Vì sạch cấu uế của các pháp đối nghịch, tức các chướng ngại, niệm khiến các chướng ngại ấy không thể lay động nó. Niệm vững chắc trên các pháp hành làm cảnh, như núi đá không lay chuyển hay cột đá chôn sâu.
+
+**EN**
+8. Upaṭṭhāna—mindfulness. At that time, in the meditator’s continuity, mindfulness arises together with the insight knowledge being developed. By clearly distinguishing and noting the impermanent, suffering, non-self, and foul nature of formations, mindfulness adheres firmly to the formations that are objects of insight knowledge. Being free of the defilement of its opposites, the hindrances, it cannot be shaken by them. Mindfulness stands firm on the formations that are its objects, like an unmoving rocky mountain or a stone pillar embedded deep in the ground.
+
+**VI**
+Hành giả hướng đến bất cứ cảnh nào trong sắc, danh, nhân và quả, tức các pháp hành, đều có thể đưa cảnh ấy vào tâm, tác ý và tu tập thẩm sát minh sát từng pháp riêng. Các cảnh ấy hiện rõ trước sức niệm của hành giả. Ý nói hành giả có thể quán bất kỳ pháp hành nào mình muốn quán. Ở giai đoạn này, nếu muốn, hành giả có thể theo phương pháp minh sát quán từng pháp (anupadadhamma-vipassanā) mà quán các pháp hành từng pháp một. (Visuddhi. 2.272.)
+
+**EN**
+Whichever object among materiality, mentality, causes, and effects, namely formations, the meditator turns to, it can be brought to mind, attended to, and individually comprehended in insight practice. Those objects are vividly present before the meditator’s powerful mindfulness. This means the meditator can contemplate any formation they wish. At this stage, if desired, the meditator can contemplate formations one by one by the method of insight into successive individual phenomena (anupadadhamma-vipassanā). (Visuddhi. 2.272.)
+
+**VI**
+9. Upekkhā — xả minh sát và xả hướng tâm. Đối với những cảnh sắc, danh, nhân và quả ấy, tức các pháp hành, tâm tu tập minh sát được giữ ở mức quân bình bởi…
+
+**EN**
+9. Upekkhā—insight equanimity and adverting equanimity. With regard to those objects—materiality, mentality, causes, and effects, namely formations—the insight meditation consciousness is kept in balance by…
+
+
+<a id="M09-body-P161"></a>
+## Xả minh sát và xả hướng tâm / Insight Equanimity and Adverting Equanimity
+Miến / Burmese 161
+
+**VI**
+…tâm sở trung tánh (tatramajjhattatā) tương ưng với trí minh sát. Đó gọi là xả minh sát (vipassanupekkhā). Tâm sở tư đi cùng tâm hướng ý môn, tức tâm suy xét và xác định đứng ngay trước tốc hành minh sát, được gọi là xả hướng tâm (āvajjanupekkhā), vì trong lúc suy xét tính vô thường, tính khổ, tính vô ngã và tính bất tịnh của các pháp hành, nó sinh với năng lực nhìn các cảnh pháp hành một cách quân bình.
+
+**EN**
+…the mental factor of neutrality (tatramajjhattatā) associated with insight knowledge. This is called insight equanimity (vipassanupekkhā). The mental factor volition associated with mind-door adverting, the reviewing and determining consciousness just before insight impulsion, is called adverting equanimity (āvajjanupekkhā), because when examining the impermanent, suffering, non-self, and foul nature of formations, it arises with the capacity to regard those objects of formations impartially.
+
+**VI**
+Lúc ấy, trong dòng tương tục của hành giả, hay đối với trí minh sát, tính sinh diệt của các pháp hành, tức sự sinh và sự hoại diệt, hiện ra hết sức rõ ràng. Vì hiện rõ như thế, khi quán minh sát các pháp hành không còn cần nỗ lực đặc biệt. Hành giả đã đạt đến mức có thể giữ tâm quân bình và an tịnh, có thể quán một cách nhẹ nhàng, đều đặn. Do tính sinh diệt của các pháp hành hiện rõ như thế, tính quân bình và thản nhiên của tâm sở trung tánh trong khi quán sinh diệt được gọi là xả minh sát trong phần minh sát non yếu này.
+
+**EN**
+At that time, in the meditator’s continuity, or to insight knowledge, the nature of arising and passing away of formations, namely their arising and dissolution, is exceedingly clear. Because it is so clear, special effort is no longer needed in insight contemplation of formations. The meditator has reached a stage at which balance and calm can be maintained and contemplation proceeds easily and evenly. Because the arising and passing away of formations is so clear, the balance and evenness of the mental factor of neutrality when contemplating arising and passing away is called insight equanimity in this section on tender insight.
+
+**VI**
+Tuy vậy, sự sinh diệt ấy là tính sinh diệt của các pháp hành. Hãy ghi nhớ rằng các chú giải dùng cách nói “xả đối với các pháp hành” thay cho “xả đối với sự sinh diệt”. Khi ấy, trong dòng tương tục của hành giả, xả minh sát rất mạnh. Xả hướng tâm cũng rất mạnh. Lúc ấy xả hướng tâm sinh khởi sắc bén và chói sáng như vũ khí kim cang do vua trời Sakka phóng ra. (Visuddhi. 2.273.)
+
+**EN**
+That arising and passing away is the arising and passing away of formations. Note that the commentaries use the expression “equanimity regarding formations” in place of “equanimity regarding arising and passing away.” At that time, in the meditator’s continuity, insight equanimity is strong. Adverting equanimity is also strong. At that time adverting equanimity arises sharp and brilliant like the thunderbolt hurled by Sakka, king of the gods. (Visuddhi. 2.273.)
+
+
+<a id="M09-body-P162"></a>
+## Tám hiện tượng làm chỗ nương cho tùy phiền não / Eight Phenomena That Serve as Bases for Corruptions
+Miến / Burmese 162
+
+**VI**
+Trong các tùy phiền não được liệt kê ở đây, các pháp từ mục 2 là trí đến mục 9 là xả là chỗ nương của tùy phiền não. Tám pháp này, tức trí, hỷ, an tịnh, lạc, tín, tinh tấn, niệm và xả, là các tâm sở hành sinh cùng trí minh sát của hành giả đang quán minh sát. Chúng đều có trong 34 danh pháp gồm tâm và các tâm sở sinh cùng trí minh sát trong một sát-na tâm. Đối với phàm nhân và bậc hữu học, các pháp ấy chỉ thuộc tốc hành thiện minh sát, nên chúng không phải chính các tùy phiền não. Tuy vậy, khi lấy các pháp ấy làm cảnh:
+
+**EN**
+Of the corruptions listed here, the phenomena from number 2, knowledge, to number 9, equanimity, are bases for corruptions. These eight phenomena—knowledge, rapture, tranquillity, happiness, confidence, energy, mindfulness, and equanimity—are mental formations arising with insight knowledge in a meditator practising insight. All are included among the 34 mental phenomena, consciousness and mental factors, arising together with insight knowledge in a single mind moment. For ordinary people and trainees, those phenomena belong to wholesome insight impulsion, so they are distinct from the corruptions themselves. However, when those phenomena are taken as objects:
+
+**VI**
+“Etaṃ mama, esohamasmi, eso me attā — Pháp này là của tôi. Pháp này là tôi. Pháp này là tự ngã của tôi.” (Đây là trí của tôi. Đây là hỷ của tôi…)
+
+**EN**
+“Etaṃ mama, esohamasmi, eso me attā—This phenomenon is mine. This phenomenon is what I am. This phenomenon is my self.” (This is my knowledge. This is my rapture…)
+
+**VI**
+Khi chấp thủ như thế, ái, ngã mạn và tà kiến sinh khởi. Chính ái, ngã mạn và tà kiến ấy là các tùy phiền não.
+
+**EN**
+When one grasps in this way, craving, conceit, and wrong view arise. Those very craving, conceit, and wrong view are the corruptions.
+
+**VI**
+Khi chấp từng pháp ấy, từ trí, hỷ, v.v., đến xả, là trí đạo và trí quả thì hành giả lại đi chệch đường minh sát. Hành giả bỏ đề mục căn bản của mình, tức công việc tu tập minh sát, rồi ngồi ưa thích một pháp trong số trí, hỷ, v.v., đến xả, xem nó là đạo hay quả, dù nó không phải đạo hay quả thực sự. Do đó đường minh sát bị chệch hướng.
+
+**EN**
+When one grasps any of those phenomena, from knowledge and rapture through to equanimity, as path and fruition knowledge, one again deviates from the course of insight. The meditator abandons the fundamental meditation subject, the work of developing insight, and sits delighting in one of the phenomena from knowledge and rapture through to equanimity, taking it for the path or fruition though it is neither. Consequently the course of insight is diverted.
+
+
+<a id="M09-body-P163"></a>
+## Cách vượt qua và 10. Nikanti — ưa thích minh sát / How to Overcome Them and 10. Nikanti—Attachment to Insight
+Miến / Burmese 163
+
+**VI**
+Các pháp từ trí, hỷ, v.v., đến xả, sinh tương ưng với tốc hành minh sát lấy tướng vô thường, tướng khổ hay tướng vô ngã của các pháp hành làm cảnh. Một số pháp như xả hướng tâm lại sinh tương ưng với tâm hướng ý môn đứng ngay trước tốc hành minh sát. Chúng sinh theo trình tự lộ tốc hành qua ý môn dưới đây:
+
+**EN**
+The phenomena from knowledge and rapture through to equanimity arise associated with insight impulsion that takes the appearance of impermanence, suffering, or non-self in formations as object. Some phenomena, such as adverting equanimity, arise associated with mind-door adverting immediately preceding insight impulsion. They arise in the following sequence of the mind-door impulsion process:
+
+**VI**
+Hướng ý môn (1 lần) | Tốc hành (7 lần) | Đăng ký hữu nhân / đăng ký vô nhân (2 lần)
+12 | 34 | 34 / 12
+
+**EN**
+
+Mind-door adverting (once) | Impulsion (7 times) | Rooted registration / rootless registration (twice)
+12 | 34 | 34 / 12
+
+**VI**
+Có khi đến đăng ký, có khi không. Hãy dùng trí phân tích các lộ tốc hành minh sát qua ý môn ấy đến khi phá được từng khối danh. Dùng trí minh sát thấy rõ tính sinh diệt ở mỗi sát-na tâm, rồi luân phiên đặt dưới ba đặc tướng và quán minh sát.
+
+**EN**
+Sometimes registration occurs and sometimes it does not. Analyze those mind-door insight impulsion processes with knowledge until each compact mass of mentality is broken up. See clearly with insight knowledge the arising and passing away at each mind moment, then apply the three characteristics in turn and contemplate with insight.
+
+**VI**
+10. Nikanti — ưa thích minh sát. Nikanti là sự ưa thích minh sát, một sự dính mắc và say mê minh sát rất vi tế. Do tu tập minh sát có các pháp từ ánh sáng cho đến xả làm nét đặc biệt, trong dòng tương tục của hành giả sinh một sự say mê minh sát vi tế, lấy sự dính mắc vào minh sát làm nhiệm vụ và hiện ra như trạng thái an tĩnh. Sự vi tế và tướng an tĩnh của nikanti ấy…
+
+**EN**
+10. Nikanti—attachment to insight. Nikanti is attachment to insight, a very subtle clinging and infatuation with insight. Because the development of insight is distinguished by the phenomena from illumination through equanimity, subtle infatuation with insight arises in the meditator’s continuity, functioning as clinging to insight and appearing as quietness. The subtlety and quiet appearance of that attachment…
+
+
+<a id="M09-body-P164"></a>
+## Nhận diện và quán sự ưa thích minh sát / Discerning and Contemplating Attachment to Insight
+Miến / Burmese 164
+
+**VI**
+…sinh do minh sát đã trở nên cực kỳ sắc bén. Do hành giả không nhận ra nikanti ấy là phiền não, việc dùng trí nhận diện nó là phiền não cũng trở nên khó khăn.
+
+**EN**
+…arise because insight has become exceedingly sharp. Because the meditator fails to recognize this attachment as a defilement, discerning it with knowledge as a defilement becomes difficult.
+
+**VI**
+Trong dòng tương tục của hành giả thường sinh tâm trạng như thế này: “Sự thích thú, say mê và vui mừng trong việc tu minh sát như thế này trước đây chưa từng sinh trong dòng tương tục của ta. Chắc chắn hôm nay ta đã đạt đạo và quả.” Hành giả có thể hiểu đó là sự vui mừng hớn hở do say mê tu minh sát mà không nhận ra chính sự ưa thích vi tế. Tuy vậy, có thể dùng trí minh sát sắc bén nhận diện sự ưa thích ấy.
+
+**EN**
+A state of mind such as this often arises in the meditator’s continuity: “Such delight, fascination, and joy in the development of insight have never arisen before in my continuity. Surely today I have reached the path and fruition.” The meditator may understand it as great joy in developing insight and fail to recognize the subtle attachment itself. Nevertheless, that attachment can be discerned by sharp insight knowledge.
+
+**VI**
+Nikanti là pháp tương ưng với tâm căn tham đi cùng thọ hỷ, nên có thể sinh theo nhóm tham đi cùng tà kiến hoặc nhóm tham đi cùng ngã mạn. Vì ngã mạn là tâm sở chỉ tương ưng đôi khi (kadāci), có lúc cũng không có ngã mạn. Do tương ưng với thọ hỷ, hỷ có mặt.
+
+**EN**
+Nikanti is associated with greed-rooted consciousness accompanied by pleasant feeling, so it may arise in the group rooted in greed with wrong view or the group rooted in greed with conceit. Because conceit is a mental factor associated only occasionally (kadāci), at times conceit is absent. Because it is accompanied by pleasant feeling, rapture is present.
+
+**VI**
+Hướng ý môn (1 lần) | Tốc hành (7 lần) | Đăng ký hữu nhân / đăng ký vô nhân (2 lần)
+12 | 34 | 34 / 33 / 12
+
+**EN**
+
+Mind-door adverting (once) | Impulsion (7 times) | Rooted registration / rootless registration (twice)
+12 | 34 | 34 / 33 / 12
+
+**VI**
+Có khi đến đăng ký, có khi không. Khi đến đăng ký, có thể là tâm đăng ký đại quả đi cùng thọ hỷ hoặc tâm suy đạc vô nhân đi cùng thọ hỷ, tùy trường hợp. Hãy dùng trí phân tích lộ tốc hành qua ý môn có sự ưa thích vi tế này cho đến khi phá từng khối danh. Sau đó nhận diện các danh pháp cùng sinh với nikanti, lần lượt đặt dưới ba đặc tướng và tu tập thẩm sát minh sát.
+
+**EN**
+Sometimes registration occurs and sometimes it does not. When it occurs, it may be a great resultant registration consciousness accompanied by pleasant feeling or a rootless investigating consciousness accompanied by pleasant feeling, as appropriate. Analyze with knowledge the mind-door impulsion process containing this subtle attachment until each compact mass of mentality is broken up. Then discern the mental phenomena occurring together with nikanti, apply the three characteristics in turn, and develop insight comprehension.
+
+
+<a id="M09-body-P165"></a>
+## Tri kiến thanh tịnh về đạo lộ / Purification by Knowledge and Vision of the Way
+Miến / Burmese 165
+
+**VI**
+Sự ưa thích này cũng là tùy phiền não. Nếu lấy chính sự ưa thích ấy làm cảnh rồi chấp thủ: “Etaṃ mama, esohamasmi, eso me attā — Của tôi, là tôi, là tự ngã của tôi,” thì các tùy phiền não là ái, ngã mạn và tà kiến lại có thể sinh. Do đó nó cũng là chỗ nương của tùy phiền não. Vì vậy, nikanti mang cả hai tên: tùy phiền não và chỗ nương của tùy phiền não. (Trích Visuddhi. 2.269–274 và Mahāṭī. 2.427–434.)
+
+**EN**
+This attachment is also a corruption. If one takes that very attachment as object and grasps it as “Etaṃ mama, esohamasmi, eso me attā—Mine, what I am, my self,” the corruptions of craving, conceit, and wrong view may again arise. Thus it is also a basis for corruptions. Therefore nikanti bears both names: corruption and basis for corruption. (Extracted from Visuddhi. 2.269–274 and Mahāṭī. 2.427–434.)
+
+**VI**
+Phần tri kiến thanh tịnh về đạo lộ (paṭipadāñāṇadassanavisuddhi) — giai đoạn trí minh sát bậc cao.
+
+**EN**
+The section on purification by knowledge and vision of the way (paṭipadāñāṇadassanavisuddhi)—the higher stage of insight knowledge.
+
+**VI**
+Đối với các pháp từ ánh sáng cho đến sự ưa thích, đối với sắc pháp và danh pháp đã trình bày trong cách quán bảy phần về sắc và cách quán bảy phần về vô sắc, cũng như đối với sắc pháp và danh pháp đã nhận diện theo từng môn và xứ ở phần trước:
+
+**EN**
+With regard to the phenomena from illumination through attachment, the material and mental phenomena presented in the sevenfold contemplation of materiality and the sevenfold contemplation of immateriality, and the material and mental phenomena discerned by the respective doors and bases in the earlier section:
+
+**VI**
+1. Theo hai phần là danh và sắc.
+
+**EN**
+1. By the twofold classification into mentality and materiality.
+
+**VI**
+2. Theo năm uẩn.
+
+**EN**
+2. By the five aggregates.
+
+**VI**
+3. Theo mười hai xứ.
+
+**EN**
+3. By the twelve bases.
+
+**VI**
+4. Theo mười tám giới.
+
+**EN**
+4. By the eighteen elements.
+
+**VI**
+Dùng phương pháp mình ưa thích trong các phương pháp ấy, hãy nhận diện rõ bằng trí tính sinh và diệt của các pháp chân đế, cho đến hiện tại sát-na. Hãy quán minh sát nhiều lần bằng cách luân phiên đặt chúng dưới ba đặc tướng. Quán trong cả ba thời, quá khứ, vị lai và hiện tại, và cả hai dòng tương tục, nội và ngoại. Cần lặp lại cách quán ấy nhiều lần. Hãy cố gắng làm cho tri kiến về các pháp hành ở hiện tại sát-na trở nên trong sáng. Ba đặc tướng…
+
+**EN**
+Using the method one prefers among these, clearly discern with knowledge the arising and passing away of ultimate phenomena up to the momentary present. Repeatedly contemplate with insight by applying the three characteristics in turn. Contemplate in all three periods, past, future, and present, and in both continuities, internal and external. This contemplation needs to be repeated many times. Strive to clarify knowledge of formations in the momentary present. The three characteristics…
+
+
+<a id="M09-body-P166"></a>
+## Bốn phép tùy quán và bốn niệm xứ / The four contemplations and four establishments of mindfulness
+Miến / Burmese 166
+
+**VI**
+đối với mỗi đặc tướng cũng hãy nỗ lực nhiều lần, hết lần này đến lần khác, để tuệ thấy ngày càng trong sáng.
+
+**EN**
+for each characteristic, keep making repeated efforts so that the vision of knowledge becomes ever clearer.
+
+**VI**
+Bốn phép tùy quán liên hệ với bốn niệm xứ như thế nào
+
+**EN**
+How the four contemplations relate to the four establishments of mindfulness
+
+**VI**
+1. Khi quán minh sát như vậy, trước hết lấy riêng sắc làm chính và ưu tiên quán sắc, rồi tiếp tục quán minh sát danh. Làm như vậy gọi là tu tập thân tùy quán niệm xứ.
+
+**EN**
+1. When contemplating with insight in this way, first take materiality alone as the main subject and give it priority, then continue to contemplate mentality with insight. This is called developing the establishment of mindfulness through contemplation of the body.
+
+**VI**
+2. Khi quán minh sát danh pháp, như đã giải thích ở phần đề mục danh v.v., người mới hành thiền sắp tu tập ba loại niệm xứ, bắt đầu từ thọ tùy quán, phải làm theo quy định: “Saṅkhittena vā vitthārena vā pariggahite rūpakammaṭṭhāne” (Ma. A. 1, 280), tức phải nhận diện xong đề mục sắc, theo cách tóm tắt hay chi tiết. Vị ấy phải nhận diện cùng nhau sắc làm chỗ nương và sắc làm cảnh của các danh pháp có thọ đứng đầu. Sau khi nhận diện như vậy, nếu ưu tiên nhận diện thọ và quán minh sát các danh pháp thì gọi là tu tập thọ tùy quán niệm xứ. Mẫu quán gồm:
+
+**EN**
+2. When contemplating mental phenomena with insight, as explained in the mentality meditation section and elsewhere, the beginning meditator about to develop the three kinds of establishment of mindfulness beginning with contemplation of feeling must follow the rule, “Saṅkhittena vā vitthārena vā pariggahite rūpakammaṭṭhāne” (Ma. A. 1, 280), that is, the materiality meditation subject must already have been discerned, whether in brief or in detail. The meditator must discern together the supporting materiality and the object materiality of the mental phenomena headed by feeling. Having discerned these, if one gives priority to discerning feeling and contemplates the mental phenomena with insight, this is called developing the establishment of mindfulness through contemplation of feeling. The pattern of contemplation is:
+
+**VI**
+(a) Vật; (b) cảnh; (c) thọ, tức tất cả danh pháp có thọ đứng đầu.
+
+**EN**
+(a) Base; (b) object; (c) feeling, that is, all the mental phenomena headed by feeling.
+
+**VI**
+(a) Vật — sinh diệt — vô thường; (b) cảnh — sinh diệt — vô thường; (c) thọ — sinh diệt — vô thường.
+
+**EN**
+(a) Base — arising and vanishing — impermanent; (b) object — arising and vanishing — impermanent; (c) feeling — arising and vanishing — impermanent.
+
+**VI**
+Theo cách ấy, trong mỗi nhóm tâm thuộc lộ đã nhận diện theo từng xứ và môn, và trong các nhóm tâm hữu phần đến mức mình có thể,
+
+**EN**
+In this way, in every group of process consciousness discerned by base and door, and in the groups of life-continuum consciousness as far as one is able,
+
+
+<a id="M09-body-P167"></a>
+## Quán thọ, tâm và pháp / Contemplating feeling, mind, and phenomena
+Miến / Burmese 167
+
+**VI**
+hãy quán ba mục ấy. Khi quán như vậy, như đã trình bày trong các bảng của phần đề mục danh, hãy quán xuyên suốt cả hàng, từ hướng ngũ môn đến na cảnh của lộ ý môn. Trong từng nhóm tâm:
+
+**EN**
+contemplate those three items. In doing so, as shown in the tables of the mentality meditation section, contemplate through the entire row, from five-door adverting to the registration of the mind-door process. In each group of consciousness:
+
+**VI**
+(a) Quán riêng sắc làm vật nương; (b) quán riêng sắc làm cảnh; (c) quán riêng thọ, tức các danh pháp có thọ đứng đầu.
+
+**EN**
+(a) Contemplate the supporting materiality alone; (b) contemplate the object materiality alone; (c) contemplate feeling alone, that is, the mental phenomena headed by feeling.
+
+**VI**
+Hãy nhìn cho thấy rõ sinh diệt và quán là vô thường. Cũng quán tương tự khi áp dụng đặc tướng khổ và vô ngã. Hãy quán cả ba thời và cả hai dòng tương tục. Hãy mở rộng quán tùy theo sức tuệ.
+
+**EN**
+Look to see arising and vanishing clearly and contemplate as impermanent. Contemplate likewise when applying the characteristics of suffering and non-self. Contemplate in all three periods and in both continuities. Extend the contemplation as far as your knowledge permits.
+
+**VI**
+3. Trong ba cách nhận diện đề mục danh, nếu ưu tiên tâm biết cảnh, tức thức, rồi sau khi nhận diện danh pháp thì quán minh sát, gọi là tu tập tâm tùy quán niệm xứ. Mẫu quán gồm:
+
+**EN**
+3. In the three methods of discerning the mentality meditation subject, if one gives priority to the mind that knows the object, namely consciousness, and then contemplates with insight after discerning the mental phenomena, this is called developing the establishment of mindfulness through contemplation of mind. The pattern is:
+
+**VI**
+(a) Vật; (b) cảnh; (c) thức, tức nhận diện và quán minh sát tất cả danh pháp có tâm biết cảnh, tức thức, đứng đầu.
+
+**EN**
+(a) Base; (b) object; (c) consciousness, that is, discern and contemplate with insight all the mental phenomena headed by the mind that knows the object, namely consciousness.
+
+**VI**
+4. Khi quán minh sát danh pháp, nếu ưu tiên xúc (cetanā), nhận diện các danh pháp rồi tu tập minh sát, gọi là tu tập pháp tùy quán niệm xứ. Mẫu quán gồm:
+
+**EN**
+4. In contemplating mental phenomena with insight, if one gives priority to contact (cetanā), discerns the mental phenomena, and then develops insight, this is called developing the establishment of mindfulness through contemplation of phenomena. The pattern is:
+
+**VI**
+(a) Vật; (b) cảnh; (c) xúc, tức tất cả các danh pháp có xúc đứng đầu.
+
+**EN**
+(a) Base; (b) object; (c) contact, that is, all the mental phenomena headed by contact.
+
+
+<a id="M09-body-P168"></a>
+## Các cách phân loại trong pháp tùy quán / Classifications used in contemplation of phenomena
+Miến / Burmese 168
+
+**VI**
+Hãy quán minh sát các pháp này bằng cách lần lượt áp dụng ba đặc tướng.
+
+**EN**
+Contemplate these phenomena with insight, applying the three characteristics in turn.
+
+**VI**
+Một cách khác, khi chia các pháp sắc và danh thành hai phần theo phương pháp danh sắc và quán minh sát, thì sau khi quán minh sát sắc pháp, lúc quán danh pháp, nếu nhận diện danh pháp với thọ đứng đầu rồi quán minh sát, đó là thọ tùy quán niệm xứ. Nếu nhận diện danh pháp với tâm biết cảnh, tức thức, đứng đầu rồi quán minh sát, đó là tâm tùy quán niệm xứ. Nếu nhận diện danh pháp với xúc đứng đầu rồi quán minh sát, đó là pháp tùy quán niệm xứ. Lại nữa:
+
+**EN**
+Alternatively, when one divides material and mental phenomena into two parts by the mentality-and-materiality method and contemplates with insight, after contemplating material phenomena with insight, one then contemplates mental phenomena. If one discerns the mental phenomena with feeling at their head and contemplates them with insight, that falls under establishment of mindfulness through contemplation of feeling. If one discerns them with the mind that knows the object, namely consciousness, at their head and contemplates them with insight, that falls under establishment of mindfulness through contemplation of mind. If one discerns them with contact at their head and contemplates them with insight, that falls under establishment of mindfulness through contemplation of phenomena. Again:
+
+**VI**
+1. Chia danh sắc thành 5 phần theo phương pháp năm uẩn;
+
+**EN**
+1. Divide mentality and materiality into five parts by the five-aggregate method;
+
+**VI**
+2. Chia danh sắc thành 12 phần theo phương pháp mười hai xứ;
+
+**EN**
+2. Divide mentality and materiality into twelve parts by the twelve-base method;
+
+**VI**
+3. Chia danh sắc thành 18 phần theo phương pháp mười tám giới;
+
+**EN**
+3. Divide mentality and materiality into eighteen parts by the eighteen-element method;
+
+**VI**
+4. Chia danh sắc theo 12 chi, theo phương pháp duyên khởi;
+
+**EN**
+4. Divide mentality and materiality into twelve factors by the method of dependent origination;
+
+**VI**
+5. Theo phương pháp năm triền cái;
+
+**EN**
+5. By the five-hindrance method;
+
+**VI**
+6. Theo phương pháp bảy giác chi;
+
+**EN**
+6. By the seven-awakening-factor method;
+
+**VI**
+7. Chia thành hai phần là khổ đế và tập đế, theo phương pháp thuyết về các đế.
+
+**EN**
+7. Divide into two parts, the truth of suffering and the truth of origin, according to the method of teaching the truths.
+
+**VI**
+Khi quán minh sát bằng những cách như vậy, cũng gọi là tu tập chính pháp tùy quán niệm xứ.
+
+**EN**
+Contemplating with insight by such methods is also called developing the establishment of mindfulness through contemplation of phenomena.
+
+**VI**
+Cách quán ở phần oai nghi và phần tỉnh giác
+
+**EN**
+The pattern of contemplation in the sections on postures and clear comprehension
+
+**VI**
+Cách nhận diện năm uẩn, tức sắc pháp và danh pháp, trong phần oai nghi gồm đi, đứng, ngồi, nằm, và trong các mục tỉnh giác khác nhau như tiến tới, lui lại, co và duỗi,
+
+**EN**
+The method of discerning the five aggregates, namely material and mental phenomena, in the section on the four postures of walking, standing, sitting, and lying down, and in the various passages on clear comprehension, such as going forward, going back, bending, and stretching,
+
+
+<a id="M09-body-P169"></a>
+## Quán các uẩn trong oai nghi và tỉnh giác / Contemplating the aggregates in postures and clear comprehension
+Miến / Burmese 169
+
+**VI**
+đã trình bày ở phần đề mục danh v.v. Hãy nhận diện trở lại chính năm uẩn ấy, tức sắc pháp và danh pháp:
+
+**EN**
+has already been presented in the mentality meditation section and elsewhere. Discern again those same five aggregates, namely material and mental phenomena:
+
+**VI**
+1. Hoặc chia thành hai phần theo phương pháp danh và sắc;
+
+**EN**
+1. Either dividing them into two parts by the mentality-and-materiality method;
+
+**VI**
+2. Hoặc chia thành năm phần theo phương pháp năm uẩn;
+
+**EN**
+2. Or dividing them into five parts by the five-aggregate method;
+
+**VI**
+3. Hoặc chia thành mười hai phần theo phương pháp mười hai xứ;
+
+**EN**
+3. Or dividing them into twelve parts by the twelve-base method;
+
+**VI**
+4. Hoặc chia thành mười tám phần theo phương pháp mười tám giới;
+
+**EN**
+4. Or dividing them into eighteen parts by the eighteen-element method;
+
+**VI**
+5. Hoặc chia thành mười hai chi theo phương pháp duyên khởi.
+
+**EN**
+5. Or dividing them into twelve factors by the method of dependent origination.
+
+**VI**
+Hãy quán minh sát bằng những cách như vậy. Nếu quán minh sát theo phương pháp chia thành danh và sắc:
+
+**EN**
+Contemplate with insight by such methods. If contemplating with insight by the method of dividing into mentality and materiality:
+
+**VI**
+1. Quán riêng sắc; 2. quán riêng danh; 3. quán gộp sắc với danh.
+
+**EN**
+1. Contemplate materiality alone; 2. contemplate mentality alone; 3. contemplate materiality and mentality together.
+
+**VI**
+Hãy lần lượt áp dụng ba đặc tướng mà quán minh sát. Hãy quán cả ba thời và cả hai dòng tương tục. Sau khi nhìn thấy sinh diệt của danh sắc đến hiện tại sát-na trong năm uẩn, tức sắc pháp và danh pháp, có mặt trong từng mục oai nghi như đi, và từng mục tỉnh giác, ở cả ba thời quá khứ, vị lai, hiện tại và cả hai dòng tương tục bên trong và bên ngoài, hãy áp dụng các đặc tướng để quán minh sát. Khi đã có thể làm vậy, hãy tiếp tục quán minh sát theo phương pháp thứ nhất về duyên khởi:
+
+**EN**
+Contemplate with insight, applying the three characteristics in turn. Contemplate in all three periods and in both continuities. Having seen the arising and vanishing of mentality and materiality down to the momentary present in the five aggregates, namely material and mental phenomena, present in each posture passage such as walking and each passage on clear comprehension, in all three periods of past, future, and present and in both the internal and external continuities, apply the characteristics and contemplate with insight. Once able to do that, continue contemplating with insight by the first method of dependent origination:
+
+**VI**
+1. Quán cách các quả như hành sinh do các nhân như vô minh sinh;
+
+**EN**
+1. Contemplate how results such as formations arise because causes such as ignorance arise;
+
+**VI**
+2. Quán cách các quả như hành diệt do các nhân như vô minh diệt;
+
+**EN**
+2. Contemplate how results such as formations cease because causes such as ignorance cease;
+
+
+<a id="M09-body-P170"></a>
+## Kết thúc chương tuệ sinh diệt / End of the chapter on knowledge of arising and vanishing
+Miến / Burmese 170
+
+**VI**
+3. Quán cách các quả như hành sinh do các nhân như vô minh sinh và cách các quả như hành diệt do các nhân như vô minh diệt. Dùng tuệ nhìn cho thấy rõ tính sinh diệt của cả hai, các nhân và các quả, rồi lần lượt áp dụng ba đặc tướng và quán minh sát theo từng trường hợp. Hãy quán cả ba thời và cả hai dòng tương tục.
+
+**EN**
+3. Contemplate how results such as formations arise because causes such as ignorance arise and how results such as formations cease because causes such as ignorance cease. Look with knowledge to see clearly the arising and vanishing of both, causes and results, then contemplate with insight in each case, applying the three characteristics in turn. Contemplate in all three periods and in both continuities.
+
+**VI**
+Sau khi quán nhiều lần như vậy, khi thích hợp cũng hãy quán tính bất tịnh của các pháp hữu vi danh sắc ấy. Sau khi quán thành thạo cả ba đặc tướng, có thể ưu tiên quán một đặc tướng mình ưa thích. Trong các phương pháp như phương pháp danh sắc và phương pháp năm uẩn cũng vậy, hãy ưu tiên đối tượng mình ưa thích và quán đi quán lại nhiều lần.
+
+**EN**
+After contemplating repeatedly in this way, when appropriate also contemplate the unattractive nature of those conditioned mental and material phenomena. After becoming proficient in contemplating all three characteristics, one may give priority to a characteristic of one's preference. Likewise, in methods such as the mentality-and-materiality method and the five-aggregate method, give priority to the object of your preference and contemplate it again and again.
+
+**VI**
+Hết chương Tuệ sinh diệt.
+
+**EN**
+End of the chapter on knowledge of arising and vanishing.
+
+
+<a id="M09-body-P171"></a>
+## Chương Tuệ hoại diệt / Chapter on knowledge of dissolution
+Miến / Burmese 171
+
+**VI**
+Tiến đến tuệ hoại diệt
+
+**EN**
+Toward knowledge of dissolution
+
+**VI**
+Khi quán minh sát các pháp hữu vi một cách thuần thục trong cả bốn oai nghi, các tuệ tu tập trước và sau nối tiếp nhau. Vì vậy, tuệ minh sát trở nên rất mạnh, có năng lực, sắc bén, tinh tế, thuần thục và ngày càng trong sạch. Khi tuệ minh sát đã trở nên sắc bén, tinh tế, thuần thục và trong sạch như vậy, nếu không còn tác ý đến sự sinh của các pháp hữu vi ấy mà chỉ chuyên chú tác ý đến sự diệt:
+
+**EN**
+When one contemplates conditioned phenomena proficiently with insight in all four postures, the earlier and later knowledges developed in meditation follow one another in succession. Insight knowledge thus becomes very strong, powerful, sharp, subtle, mature, and increasingly purified. When insight knowledge has thus become sharp, subtle, mature, and purified, if one no longer attends to the arising of those formations and attends exclusively to their dissolution:
+
+**VI**
+Ñāṇe tikkhe vahante saṅkhāresu lahuṃ upaṭṭhahantesu uppādaṃ vā ṭhitiṃ vā pavattaṃ vā nimittaṃ vā na sampāpuṇāti. Khayavayabhedanirodheyeva sati santiṭṭhati. (Vism. 2, 277.)
+
+**EN**
+Ñāṇe tikkhe vahante saṅkhāresu lahuṃ upaṭṭhahantesu uppādaṃ vā ṭhitiṃ vā pavattaṃ vā nimittaṃ vā na sampāpuṇāti. Khayavayabhedanirodheyeva sati santiṭṭhati. (Vism. 2, 277.)
+
+**VI**
+Na sampāpuṇātīti aggahaṇato. (Mahāṭī. 2, 439.)
+
+**EN**
+Na sampāpuṇātīti aggahaṇato. (Mahāṭī. 2, 439.)
+
+**VI**
+1. Uppāda — sự sinh khởi của các pháp hữu vi, tức phương diện sinh.
+
+**EN**
+1. Uppāda — the arising of formations, the phase of arising.
+
+**VI**
+2. Ṭhiti — sự trụ của các pháp hữu vi, tức phương diện trụ.
+
+**EN**
+2. Ṭhiti — the persistence of formations, the phase of presence.
+
+**VI**
+3. Nimitta — tướng của các pháp hữu vi, như nhóm sắc.
+
+**EN**
+3. Nimitta — the sign of formations, such as material groups.
+
+**VI**
+4. Pavatta — upādinnakapavatta, tức do các pháp nhân sinh,
+
+**EN**
+4. Pavatta — upādinnakapavatta, that is, owing to the arising of causal phenomena,
+
+
+<a id="M09-body-P172"></a>
+## Chỉ lấy sự hoại diệt làm cảnh / Taking only dissolution as the object
+Miến / Burmese 172
+
+**VI**
+nên các pháp quả sinh.
+
+**EN**
+the resultant phenomena arise.
+
+**VI**
+Vì không tác ý đến các mục ấy, tuệ minh sát không còn đạt đến chúng. Các tuệ minh sát tu tập trước đó hỗ trợ mạnh mẽ các tuệ minh sát về sau bằng năng lực duyên y chỉ mạnh (upanissaya). Niệm đi cùng các tuệ về sau đã nhận được năng lực đặc biệt ấy an trụ vững chắc chỉ nơi tính tận, diệt, tan rã và chấm dứt của các pháp hữu vi. (Lời này nêu niệm để nói đến tuệ.) Khi ấy:
+
+**EN**
+By not attending to those items, insight knowledge no longer reaches them. Earlier insight knowledges developed in meditation provide strong support for the later insight knowledges through the power of the decisive-support condition (upanissaya). Mindfulness associated with those later knowledges, which have received that exceptional power, is firmly established solely in the exhaustion, vanishing, breakup, and cessation of formations. (Here mindfulness is mentioned to indicate knowledge.) At that time:
+
+**VI**
+1. Aniccaṃ khayaṭṭhena — lấy sự tận, diệt, tan rã và chấm dứt của các pháp hữu vi làm cảnh, dùng tuệ nhìn cho thấy rõ và quán «vô thường, vô thường».
+
+**EN**
+1. Aniccaṃ khayaṭṭhena — take the exhaustion, vanishing, breakup, and cessation of formations as object, see it clearly with knowledge, and contemplate “impermanent, impermanent.”
+
+**VI**
+2. Dukkhaṃ bhayaṭṭhena — vì các pháp hữu vi cứ tận, diệt, tan rã, chấm dứt và biến mất, hãy lấy tính đáng sợ và hiểm nguy ấy làm cảnh, dùng tuệ nhìn cho thấy rõ và quán «khổ, khổ».
+
+**EN**
+2. Dukkhaṃ bhayaṭṭhena — because formations keep being exhausted, vanishing, breaking up, ceasing, and disappearing, take this fearful and dangerous nature as object, see it clearly with knowledge, and contemplate “suffering, suffering.”
+
+**VI**
+3. Anattā asārakaṭṭhena — lấy việc các pháp hữu vi không có tự ngã làm cốt lõi vững chắc làm cảnh, dùng tuệ nhìn cho thấy rõ và quán «vô ngã, vô ngã».
+
+**EN**
+3. Anattā asārakaṭṭhena — take the lack of a self as a firm core in formations as object, see it clearly with knowledge, and contemplate “non-self, non-self.”
+
+**VI**
+4. Khi thích hợp, cũng quán tính bất tịnh.
+
+**EN**
+4. When appropriate, also contemplate the unattractive nature.
+
+**VI**
+Điều cần lưu ý
+
+**EN**
+A point to bear in mind
+
+**VI**
+Khi chỉ lấy sự diệt của các pháp hữu vi làm cảnh và áp dụng đặc tướng để quán minh sát như vậy, hãy thấy sự hoại diệt của các pháp hữu vi nhanh đến mức mình có thể. Còn khi áp dụng đặc tướng để quán minh sát là vô thường, hay là khổ, hay là vô ngã, hãy quán tương đối chậm.
+
+**EN**
+When taking only the dissolution of formations as object and applying a characteristic in insight contemplation in this way, see the dissolution of formations as fast as you can. When applying a characteristic in insight contemplation as impermanent, suffering, or non-self, contemplate rather slowly.
+
+
+<a id="M09-body-P173"></a>
+## Khi các nhóm sắc biến mất / When material groups disappear
+Miến / Burmese 173
+
+**VI**
+Hãy thấy sự hoại diệt của nhiều lộ tâm, hay nhiều nhóm tâm, hay nhiều sắc pháp theo nhiều sát-na, nhanh đến mức mình có thể. Không cần rượt theo và áp dụng đặc tướng vô thường cho từng sự diệt mà mình thấy được ở mỗi nhóm tâm và mỗi sát-na sắc. Hãy lấy sự diệt của nhiều nhóm tâm và của sắc trong nhiều sát-na làm cảnh, rồi áp dụng đặc tướng tương đối chậm, chẳng hạn «vô thường, vô thường». Cũng làm như vậy với khổ và vô ngã. Nghĩa là hãy quán để thấy thật nhanh chính sự diệt của các pháp hữu vi. Riêng việc áp dụng đặc tướng thì quán tương đối chậm và thong thả. Hãy quán đi quán lại nhiều lần trong cả ba thời và cả hai dòng tương tục, dùng phương pháp danh sắc, phương pháp năm uẩn, v.v.
+
+**EN**
+See the dissolution of many cognitive processes, many groups of consciousness, or material phenomena over many moments, as fast as you can. There is no need to chase each dissolution you can see in each group of consciousness and each material moment in order to apply the characteristic of impermanence. Take as object the dissolution of many groups of consciousness and materiality over many moments, then apply the characteristic rather slowly, for example, “impermanent, impermanent.” Do likewise for suffering and non-self. In other words, contemplate to see the dissolution of formations itself very quickly. Apply the characteristic rather slowly and at ease. Contemplate again and again in all three periods and both continuities, using the mentality-and-materiality method, the five-aggregate method, and so forth.
+
+**VI**
+Các nhóm sắc đã biến mất
+
+**EN**
+Material groups have disappeared
+
+**VI**
+Nimittanti saṅkhāranimittaṃ, yaṃ saṅkhārānaṃ samūhādighanavasena, santatiparicchedena ca saviggahānaṃ viya upaṭṭhānaṃ, taṃ saṅkhāranimittaṃ. (Mahāṭī. 2, 439.)
+
+**EN**
+Nimittanti saṅkhāranimittaṃ, yaṃ saṅkhārānaṃ samūhādighanavasena, santatiparicchedena ca saviggahānaṃ viya upaṭṭhānaṃ, taṃ saṅkhāranimittaṃ. (Mahāṭī. 2, 439.)
+
+**VI**
+Từ chương Kiến thanh tịnh, phần tuệ phân định danh sắc, người mới hành thiền đã tu tập minh sát, dùng tuệ đập tan các khối sắc và khối danh (rūpaghana và nāmaghana) để thấy các sắc pháp và danh pháp. Nay vị ấy đã đến chương Tuệ hoại diệt. Trước khi đạt tuệ hoại diệt, ở từng chương, vị ấy vẫn còn thấy:
+
+**EN**
+From the chapter on purification of view, in the section on knowledge of the delimitation of mentality and materiality, the beginning meditator has developed insight, using knowledge to break up the masses of materiality and mentality (rūpaghana and nāmaghana) so as to see material and mental phenomena. The meditator has now reached the chapter on knowledge of dissolution. Before reaching knowledge of dissolution, in the respective chapters the meditator could still see:
+
+**VI**
+1. Uppāda — vẫn thấy sự sinh, tính xuất hiện của các pháp hữu vi, tức danh sắc hữu vi làm nhân và danh sắc hữu vi làm quả.
+
+**EN**
+1. Uppāda — one could still see arising, the nature of appearing, in formations, namely conditioned mentality and materiality as causes and as results.
+
+**VI**
+2. Ṭhiti — vẫn thấy tính trụ tạm thời, tức tính già, của các pháp hữu vi ấy.
+
+**EN**
+2. Ṭhiti — one could still see the temporary persistence, the nature of aging, of those formations.
+
+
+<a id="M09-body-P174"></a>
+## Từ tướng của các hành đến tuệ hoại diệt / From the signs of formations to knowledge of dissolution
+Miến / Burmese 174
+
+**VI**
+3. Pavatta — vẫn thấy các pháp có tính diễn tiến của đời sống, gọi là upādinnakapavatta (Mahāṭī. 2, 439) hay bhavapavatti (Mahāṭī. 2, 447), tức sự hiện hữu của quả do sự hiện hữu của các nhân.
+
+**EN**
+3. Pavatta — one could still see phenomena of the nature of the continuation of existence, called upādinnakapavatta (Mahāṭī. 2, 439) or bhavapavatti (Mahāṭī. 2, 447), the manifestation of resultant phenomena owing to the manifestation of their causes.
+
+**VI**
+4. Nimitta — tuy đã dùng tuệ phá vỡ các khối sắc và khối danh gọi là rūpaghana và nāmaghana, và đang tu tập để tuệ thấy đạt đến chân đế, đôi khi vẫn còn một số nhóm sắc và nhóm danh mà tuệ chưa theo kịp, chưa thấu suốt. Đó là do các nhóm sắc và nhóm danh sinh khởi cực kỳ nhiều và cực kỳ nhanh. Trong các nhóm sắc và nhóm danh mà tuệ chưa theo kịp, chưa thấu suốt, những khối và cụm danh sắc như khối do tập hợp và khối do phận sự chưa vỡ. Vì vậy, vẫn còn thấy chúng theo từng nhóm sắc và nhóm danh, tức từng khối và từng cụm rất nhỏ. Đây là thấy tướng, các dấu hiệu làm chỗ nương cho các pháp hữu vi.
+
+**EN**
+4. Nimitta — although one has broken up the masses of materiality and mentality called rūpaghana and nāmaghana with knowledge, and is practising so that the vision of knowledge reaches the ultimate, sometimes a number of material and mental groups still remain that knowledge cannot keep up with or penetrate. This is because the material and mental groups arise exceedingly abundantly and swiftly. In the material and mental groups that knowledge cannot keep up with or penetrate, masses and clusters of mentality and materiality, such as compactness of grouping and compactness of function, have yet to break up. Thus one still tends to see them as individual material and mental groups, that is, as very small masses and clusters. This is seeing the sign, the marks that are a basis for formations.
+
+**VI**
+Tuy nhiên, khi đạt đến chương Tuệ hoại diệt này, vì tuệ minh sát đã trở nên cực kỳ sắc bén, tinh tế và trong sạch, các pháp hữu vi hiện ra hết sức nhanh chóng trong tuệ của người mới hành thiền:
+
+**EN**
+On reaching this chapter on knowledge of dissolution, however, because insight knowledge has become exceptionally sharp, subtle, and purified, formations appear extremely swiftly to the beginning meditator's knowledge:
+
+**VI**
+1. Uppāda — tuệ không theo kịp để nắm bắt tính sinh, tính xuất hiện của các pháp hữu vi.
+
+**EN**
+1. Uppāda — knowledge cannot keep up with and apprehend the arising, the nature of appearing, of formations.
+
+**VI**
+2. Ṭhiti — tuệ không theo kịp để nắm bắt tính trụ, tức tính già, của các pháp hữu vi.
+
+**EN**
+2. Ṭhiti — knowledge cannot keep up with and apprehend the persistence, the nature of aging, of formations.
+
+**VI**
+3. Pavatta — sự hiện hữu và sinh khởi của các uẩn quả như thức, danh sắc, sáu xứ, xúc và thọ do sự hiện hữu và sinh khởi của các nhân như vô minh, ái, thủ, hành và nghiệp,
+
+**EN**
+3. Pavatta — the manifestation and arising of resultant aggregates such as consciousness, mentality and materiality, the six bases, contact, and feeling due to the manifestation and arising of causes such as ignorance, craving, clinging, formations, and kamma,
+
+
+<a id="M09-body-P175"></a>
+## Vì sao sự sinh, trụ và tướng không còn hiện rõ / Why arising, persistence, and signs are no longer evident
+Miến / Burmese 175
+
+**VI**
+gọi là bhavapavatti, tức tính diễn tiến của đời sống, cũng là điều tuệ không theo kịp để nắm bắt. Vì sao?
+
+**EN**
+called bhavapavatti, the nature of the continuation of existence, is also something knowledge cannot keep up with and apprehend. Why?
+
+**VI**
+Na sampāpuṇātīti aggahaṇato (Mahāṭī. 2, 439). Vì tuệ minh sát của người mới hành thiền không còn lấy sinh khởi, tức uppāda, làm cảnh, mà chỉ lấy riêng sự tan rã và diệt làm cảnh, tuệ không thấy sự sinh của các pháp hữu vi ấy mà chỉ thấy sự diệt. Vì vậy, tuệ không còn đạt đến tính sinh, tính xuất hiện hay tính trụ của các pháp hữu vi làm nhân và làm quả. Tuệ chỉ thể nhập và an trụ vững chắc nơi tính tịch diệt và tan rã, tức khaṇikanirodha, của các pháp hữu vi làm nhân và làm quả, những pháp đang tận, tan rã, diệt và biến mất ở từng sát-na. Vì không lấy sự sinh làm cảnh, tuệ minh sát cũng không còn đạt đến sự xuất hiện của nhân và sự xuất hiện của quả, tức tính sinh. Vì vậy, tuệ minh sát cũng không còn đạt đến upādinnakapavatta, tức tính sinh theo duyên (paccayato udayadassana), trong đó quả hiện hữu vì nhân hiện hữu.
+
+**EN**
+Na sampāpuṇātīti aggahaṇato (Mahāṭī. 2, 439). Since the beginning meditator's insight knowledge no longer takes arising, uppāda, as its object, and takes only dissolution and cessation as its object, it sees only the vanishing of those formations. Thus knowledge no longer reaches the arising, appearance, or persistence of conditioned causes and conditioned results. Knowledge penetrates and remains firmly established solely in the nature of cessation and breakup, momentary cessation (khaṇikanirodha), of conditioned causes and results as they are exhausted, break up, cease, and disappear at each moment. Since it does not take arising as its object, insight knowledge no longer reaches the manifestation of causes and the manifestation of results, the nature of arising. Hence insight knowledge no longer reaches upādinnakapavatta, seeing arising according to conditions (paccayato udayadassana), in which the results are present because the causes are present.
+
+**VI**
+4. Nimitta — Lại nữa, ở chương Tuệ hoại diệt, vì tuệ minh sát của người mới hành thiền đã trở nên hết sức sắc bén và tinh tế, vị ấy không còn thấy các khối và cụm sắc mà khối do tập hợp hay khối do phận sự vẫn chưa vỡ. Các hạt nhóm sắc, những khối và cụm nhỏ nhất, dường như có một hình thể hiện hữu do tính liên tục có nhân, và các nhóm danh cũng vậy, được gọi là tướng của các pháp hữu vi vì chúng là dấu hiệu để nhận ra các pháp hữu vi. Tuệ minh sát không còn thấy các tướng của các pháp hữu vi ấy. Bởi tuệ tùy quán hoại diệt chỉ thấy những sắc pháp và danh pháp riêng biệt đang tận, diệt, tan rã, biến mất và chấm dứt,
+
+**EN**
+4. Nimitta — Further, at the chapter on knowledge of dissolution, because the beginning meditator's insight knowledge has become exceedingly sharp and subtle, the meditator no longer sees lumps and clusters of materiality whose compactness of grouping or compactness of function has yet to break up. Particles of material groups, the smallest masses and clusters, appear to have an existing shape owing to causal continuity, and likewise for mental groups. These are called signs of formations because they are marks by which the formations are recognized. Insight knowledge no longer sees those signs of formations. For knowledge contemplating dissolution sees only the individual material and mental phenomena being exhausted, vanishing, breaking up, disappearing, and ceasing,
+
+
+<a id="M09-body-P176"></a>
+## Thấy rõ các pháp chân đế đang hoại diệt / Clearly seeing ultimate phenomena dissolving
+Miến / Burmese 176
+
+**VI**
+tức đang đi đến sự diệt trong từng sát-na. Tuy tuệ minh sát không thấy các khối và cụm gọi là nhóm sắc và nhóm danh, người mới hành thiền ở chương Tuệ hoại diệt này thường thấy các sắc pháp chân đế và danh pháp chân đế hết sức trong sáng và rõ rệt, khác với các chương tuệ trước. Đây chính là đặt chân vào phạm vi của các pháp chân đế riêng biệt.
+
+**EN**
+that is, reaching cessation at each moment. Though insight knowledge does not see the masses and clusters called material groups and mental groups, in this chapter on knowledge of dissolution the beginning meditator can see ultimate material and mental phenomena with exceptional clarity and distinctness, unlike in the preceding chapters on knowledge. This is indeed setting foot in the domain of individual ultimate phenomena.
+
+**VI**
+Bấy giờ, khi đang thấy các pháp hữu vi đã đạt đến mức này tan rã và hoại diệt cực kỳ nhanh chóng, hiền giả hãy quán trong cả ba thời và cả hai dòng tương tục: 1. riêng sắc pháp, 2. riêng danh pháp, 3. sắc và danh cùng nhau.
+
+**EN**
+At that point, while seeing the formations at this stage breaking up and dissolving exceedingly swiftly, the good practitioner should contemplate in all three periods and in both continuities: 1. material phenomena alone, 2. mental phenomena alone, 3. materiality and mentality together.
+
+**VI**
+Hãy lần lượt áp dụng ba đặc tướng và quán minh sát thuần thục. Tương tự, theo phương pháp năm uẩn, hãy tách từng uẩn trong năm thủ uẩn hiện hữu theo mười một phương diện, như quá khứ, vị lai, hiện tại, bên trong, bên ngoài v.v., rồi lần lượt áp dụng ba đặc tướng và quán minh sát thuần thục.
+
+**EN**
+Apply the three characteristics in turn and contemplate with insight proficiently. Likewise, by the five-aggregate method, separate each of the five aggregates subject to clinging present in the eleven modes, such as past, future, present, internal, external, and so forth. Apply the three characteristics in turn and contemplate with insight proficiently.
+
+**VI**
+[Ghi chú — Hãy lưu ý rằng lời này không có nghĩa là các pháp hữu vi chỉ sinh khởi cực kỳ nhanh khi đạt đến chương Tuệ hoại diệt. Tính sát-na của các pháp hữu vi là chúng có thể sinh và diệt nhiều koṭi lần chỉ trong một cái chớp mắt, một tia chớp hay một cái búng tay. Khi các tuệ minh sát chưa sắc bén và tinh tế, người ta chưa biết và chưa thấy tính chất vốn có ấy của các pháp hữu vi.
+
+**EN**
+[Note — Bear in mind that the meaning here is not that formations start arising exceedingly fast only when one reaches the chapter on knowledge of dissolution. It is the momentary nature of formations that they can arise and cease many koṭis of times in the blink of an eye, a flash of lightning, or a snap of the fingers. Before insight knowledges have become sharp and subtle, one does not yet know or see this inherent nature of formations.
+
+
+<a id="M09-body-P177"></a>
+## Minh sát trở lại chính tuệ đang quán / Applying insight again to the knowledge that contemplates
+Miến / Burmese 177
+
+**VI**
+Nay, khi đã đến phần Tuệ hoại diệt, các tuệ minh sát trở nên sắc bén và tinh tế, nên bằng tuệ minh sát người ta biết và thấy các pháp hữu vi tan rã và hoại diệt cực kỳ nhanh chóng. Đó là ý của lời này. Lại nữa, người mới hành thiền chỉ vì không tác ý đến sinh, trụ, diễn tiến và tướng của các pháp hữu vi ấy nên tuệ không theo kịp để nắm bắt chúng. Theo lời này, cũng hãy ghi nhớ rằng nếu tác ý thì vẫn có thể nắm bắt chúng. Kinh điển Udāna (77) cũng ghi lại rằng sau khi thành Phật, Đức Phật vẫn có thể tu tập và quán xét các pháp như hành sinh do vô minh, thức sinh do hành v.v. Các vị trưởng lão dòng Sakya đã ghi lại điều ấy.]
+
+**EN**
+Now, on reaching the section on knowledge of dissolution, insight knowledges have become sharp and subtle, so by insight knowledge one knows and sees formations breaking up and dissolving exceedingly swiftly. That is the meaning here. Furthermore, it is only because the beginning meditator does not attend to the arising, persistence, occurrence, and signs of these formations that knowledge does not keep up with and apprehend them. From this statement also bear in mind that if one attends to them, one can still apprehend them. The Udāna (77) also records that after awakening the Buddha was still able to develop and contemplate such phenomena as formations arising from ignorance and consciousness arising from formations, and so on. The elders of the Sakyan lineage recorded this.]
+
+**VI**
+Dùng minh sát quán trở lại chính tuệ đang quán minh sát, tức paṭivipassanā
+
+**EN**
+Contemplating again with insight the very knowledge that contemplates with insight, paṭivipassanā
+
+**VI**
+Ñātañca ñāṇañca ubhopi vipassati. (Vism. 2, 278.)
+
+**EN**
+Ñātañca ñāṇañca ubhopi vipassati. (Vism. 2, 278.)
+
+**VI**
+Khi người mới hành thiền dùng tuệ minh sát chỉ thấy riêng sự hoại diệt của các pháp hữu vi như vậy, hãy quán minh sát cả hai loại pháp gọi là ñāta và ñāṇa: các pháp hữu vi gọi là ñāta, tức sắc pháp và danh pháp làm nhân và làm quả trong cả ba thời và cả hai dòng tương tục, là những gì được tuệ minh sát quán và biết; và tuệ minh sát đang quán các pháp ñāta ấy, gọi là ñāṇa. Tuệ đang quán minh sát gọi là ñāṇa cũng nằm trong dòng lộ tâm tốc hành thiện qua ý môn. Na cảnh
+
+**EN**
+When the beginning meditator sees only the dissolution of formations with insight knowledge in this way, contemplate both kinds of phenomena called ñāta and ñāṇa with insight. The formations called ñāta are the material and mental phenomena, causes and results in all three periods and in both continuities, that are to be contemplated and known by insight knowledge. The insight knowledge that is contemplating those phenomena called ñāta is called ñāṇa. Contemplating with insight, the knowledge called ñāṇa itself belongs to the succession of wholesome impulsion processes at the mind-door. Registration
+
+
+<a id="M09-body-P178"></a>
+## Mẫu quán cảnh và tuệ quán / Patterns for contemplating the object and contemplating knowledge
+Miến / Burmese 178
+
+**VI**
+có thể sinh hoặc không sinh. Tuy nhiên, ở giai đoạn này, vì đã gần với tuệ minh sát mạnh như tuệ yếm ly (nibbidāñāṇa), nên thường không có na cảnh.
+
+**EN**
+may or may not arise. At this stage, however, since one is close to strong insight knowledge such as knowledge of disenchantment (nibbidāñāṇa), registration is usually absent.
+
+**VI**
+Hướng ý môn | Tốc hành (7 lần) | Na cảnh hữu nhân / na cảnh vô nhân (2 lần)
+12 | 34/33 | 34/33 / 12/11
+
+**EN**
+
+Mind-door adverting | Impulsion (7 occurrences) | Rooted registration / rootless registration (2 occurrences)
+12 | 34/33 | 34/33 / 12/11
+
+**VI**
+Hiền giả hãy quán minh sát cả tuệ minh sát đang quán ấy, tức dòng lộ tâm tốc hành thiện qua ý môn, bằng cách lần lượt áp dụng ba đặc tướng.
+
+**EN**
+The good practitioner should contemplate with insight even that very insight knowledge that is contemplating, namely the succession of wholesome mind-door impulsion processes, applying the three characteristics in turn.
+
+**VI**
+Một vài mẫu quán
+
+**EN**
+Some patterns of contemplation
+
+**VI**
+1. Quán sắc: sắc diệt, vô thường. Tuệ quán cũng diệt, vô thường.
+
+**EN**
+1. Contemplating materiality: materiality dissolves, impermanent. The contemplating knowledge also dissolves, impermanent.
+
+**VI**
+2. Quán danh: danh diệt, vô thường. Tuệ quán cũng diệt, vô thường.
+
+**EN**
+2. Contemplating mentality: mentality dissolves, impermanent. The contemplating knowledge also dissolves, impermanent.
+
+**VI**
+(Quán khổ và vô ngã theo cùng cách.)
+
+**EN**
+(Contemplate suffering and non-self in the same way.)
+
+**VI**
+Khi quán như vậy: 1. lúc quán bên trong; 2. lúc quán bên ngoài; trong đó lại có 3. lúc quán sắc pháp; 4. lúc quán danh pháp; 5. lúc quán các pháp nhân; 6. lúc quán các pháp quả.
+
+**EN**
+When contemplating in this way: 1. sometimes internally; 2. sometimes externally; within these, 3. sometimes material phenomena; 4. sometimes mental phenomena; 5. sometimes causal phenomena; 6. sometimes resultant phenomena.
+
+**VI**
+Hãy lần lượt áp dụng ba đặc tướng mà quán minh sát. Cũng hãy đổi sang quá khứ và vị lai rồi quán minh sát theo cùng cách. Tương tự, theo phương pháp năm uẩn, chia thành năm phần và quán minh sát cả các thủ uẩn hiện hữu theo mười một phương diện. Ở phần này, mẫu quán năm uẩn trong Anattalakkhaṇasutta là một cách quán hết sức quý báu để tuệ minh sát của hiền giả chín muồi thật nhanh.
+
+**EN**
+Contemplate with insight, applying the three characteristics in turn. Shift to the past and the future and contemplate with insight in the same way. Likewise, using the five-aggregate method, divide into five parts and also contemplate with insight the aggregates subject to clinging present in the eleven modes. Here the five-aggregate pattern of contemplation given in the Anattalakkhaṇasutta is a particularly valuable method for the good practitioner's insight knowledge to mature very quickly.
+
+
+<a id="M09-body-P179"></a>
+## Sức thấy sự hoại diệt / The power to see dissolution
+Miến / Burmese 179
+
+**VI**
+Khi quán minh sát các pháp nhân và các pháp quả, ở chương Tuệ hoại diệt này, vì không tác ý đến tính upādinnakapavatta, tức sự hiện hữu của quả do sự hiện hữu của nhân, nên vị ấy không thấy tính ấy. Tuy nhiên, vị ấy đã quán thường xuyên và đã biết, đã thấy bằng tuệ minh sát tính upādinnakapavatta ở các chương Tuệ liễu tri duyên, Tuệ thẩm sát và Tuệ sinh diệt. Vì vậy, ngay trong chương Tuệ hoại diệt này, nếu dùng tuệ minh sát bao quát và lấy các nhân như vô minh, các quả như hành làm cảnh, thì vẫn dễ dàng biết và thấy chúng. Dùng tuệ minh sát, vị ấy cũng có thể thấy tính hoại diệt của các nhân và quả ấy.
+
+**EN**
+When contemplating causal and resultant phenomena with insight in this chapter on knowledge of dissolution, because the meditator does not attend to upādinnakapavatta, the presence of results owing to the presence of causes, the meditator does not see that mode. However, the meditator has already contemplated upādinnakapavatta regularly and known and seen it with insight knowledge in the chapters on knowledge of discerning conditions, comprehension knowledge, and knowledge of arising and vanishing. Thus even in this chapter on knowledge of dissolution, if one surveys with insight knowledge and takes causes such as ignorance and results such as formations as object, one can readily know and see them. With insight knowledge one can also see the dissolving nature of those causes and results.
+
+**VI**
+Sức thấy sự hoại diệt
+
+**EN**
+The power to see dissolution
+
+**VI**
+Người mới hành thiền lần đầu tu tập tuệ tùy quán hoại diệt và mới đến phần tuệ tùy quán hoại diệt, khi tuệ này chưa chín muồi, sẽ chưa phải cứ ngồi thiền là lập tức luôn chỉ thấy sự diệt của các pháp hữu vi. Trước khi đạt tuệ hoại diệt, ở đầu buổi quán vẫn thấy cả sinh lẫn diệt ở mức tương đối. Khi quán minh sát, đến lúc tuệ trở nên sắc bén và tinh tế thì không còn thấy sự sinh của các pháp hữu vi mà chỉ thấy sự diệt. Chỉ đến khi tuệ hoại diệt đạt đỉnh cao, người ấy mới luôn dùng tuệ thấy riêng sự diệt của các pháp hữu vi. (Mahāṭī. 2, 441.)
+
+**EN**
+A beginning meditator who is developing knowledge of contemplation of dissolution for the first time and has just reached the section on that knowledge, while it is still immature, does not immediately and invariably see only the dissolution of formations whenever sitting down. Before reaching knowledge of dissolution, at the beginning of contemplation one still sees both arising and vanishing to some extent. While contemplating with insight, once knowledge becomes sharp and subtle, one no longer sees the arising of formations and sees only their vanishing. Only when knowledge of dissolution reaches its peak does one invariably see solely the dissolution of formations with knowledge. (Mahāṭī. 2, 441.)
+
+**VI**
+Tato pana pubbabhāge anekākāravokārā anupassanā icchitabbā. (Mahāṭī. 2, 441.)
+
+**EN**
+Tato pana pubbabhāge anekākāravokārā anupassanā icchitabbā. (Mahāṭī. 2, 441.)
+
+**VI**
+Để tuệ hoại diệt chín muồi, trước khi đạt đỉnh cao của tuệ ấy,
+
+**EN**
+For knowledge of dissolution to mature, before that knowledge reaches its peak,
+
+
+<a id="M09-body-P180"></a>
+## Có thể ưu tiên quán điều mình ưa thích / Giving priority to the contemplation one prefers
+Miến / Burmese 180
+
+**VI**
+ở giai đoạn đầu cần tu tập minh sát theo nhiều phương pháp. (Mahāṭī. 2, 441.)
+
+**EN**
+in the earlier stage one needs to cultivate insight by various methods. (Mahāṭī. 2, 441.)
+
+**VI**
+Có thể ưu tiên quán điều mình ưa thích
+
+**EN**
+One may give priority to the contemplation one prefers
+
+**VI**
+Ở chương Tuệ hoại diệt này, khi quán minh sát sự diệt của các pháp hữu vi, nếu quán minh sát sắc pháp thuận lợi hơn thì có thể ưu tiên quán sắc pháp. Nếu quán minh sát danh pháp thuận lợi hơn thì cũng có thể ưu tiên quán minh sát danh pháp. Chỉ nên làm như vậy sau khi đã quán minh sát nhiều lần cho thành thạo các mẫu quán. Lại nữa, nếu sức thấy sự diệt trong các danh pháp đã mạnh và các mẫu quán đã đầy đủ, thì nếu muốn có thể chỉ ưu tiên quán minh sát các danh pháp thuộc nhóm tốt trong các lộ tốc hành thiện. Trong đó cũng hãy ưu tiên quán các danh pháp ở các lộ tốc hành thiện qua ý môn. Cũng trong đó, nếu hiền giả là hành giả lấy thiền chỉ làm cỗ xe thì hãy ưu tiên quán minh sát các danh pháp thiền hiện diện trong các lộ tâm nhập thiền. Đối với ba đặc tướng cũng vậy, sau khi đã quán thành thạo cả ba, có thể ưu tiên quán đặc tướng mình ưa thích và quán thuận lợi hơn. Cũng có thể dùng các mẫu quán vật + cảnh + thọ, vật + cảnh + thức, và vật + cảnh + xúc để quán minh sát, kể cả sự hoại diệt của tuệ đang quán. Mẫu quán:
+
+**EN**
+In this chapter on knowledge of dissolution, when contemplating the vanishing of formations with insight, if contemplation of material phenomena goes more readily, one may give it priority. If contemplation of mental phenomena goes more readily, one may likewise give priority to contemplating mental phenomena with insight. One should do this only after having repeatedly contemplated with insight and become proficient in the patterns of contemplation. Further, if the power to see dissolution in mental phenomena has grown strong and the patterns of contemplation have been completed, one may, if desired, give priority to contemplating with insight only the mental phenomena of the good group in wholesome impulsion processes. Among these, also give priority to contemplating mental phenomena in wholesome mind-door impulsion processes. Among these too, if the good practitioner takes serenity as the vehicle, give priority to contemplating with insight the jhāna mental phenomena present in the jhāna-attainment processes. The same applies to the three characteristics. After contemplating all three proficiently, one may give priority to the characteristic one prefers and finds easier to contemplate. One can also contemplate with insight using the patterns base + object + feeling, base + object + consciousness, and base + object + contact, including the dissolution of the very knowledge that contemplates. The pattern is:
+
+**VI**
+1. Quán vật: vật diệt, vô thường. Tuệ quán cũng diệt, vô thường.
+
+**EN**
+1. Contemplate the base: the base dissolves, impermanent. The contemplating knowledge also dissolves, impermanent.
+
+**VI**
+2. Quán cảnh: cảnh diệt, vô thường. Tuệ quán cũng diệt, vô thường.
+
+**EN**
+2. Contemplate the object: the object dissolves, impermanent. The contemplating knowledge also dissolves, impermanent.
+
+**VI**
+3. Quán thọ: thọ diệt, vô thường. Tuệ quán cũng diệt, vô thường.
+
+**EN**
+3. Contemplate feeling: feeling dissolves, impermanent. The contemplating knowledge also dissolves, impermanent.
+
+**VI**
+Với các mẫu vật + cảnh + thức và vật + cảnh + xúc cũng hãy quán tiếp theo cùng cách. Khi áp dụng đặc tướng khổ và vô ngã cũng làm tương tự.
+
+**EN**
+With the patterns base + object + consciousness and base + object + contact, continue contemplating in the same way. Likewise when applying the characteristics of suffering and non-self.
+
+
+<a id="M09-body-P181"></a>
+## Quán sự tan rã và chuyển sang niệm hơi thở / Contemplating dissolution and turning to mindfulness of breathing
+Miến / Burmese 181
+
+**VI**
+Hãy quán. Quán cho đủ cả sáu môn. Quán cả hai dòng tương tục, bên trong và bên ngoài. Quán cả ba thời.
+
+**EN**
+Contemplate. Contemplate all six doors in full. Contemplate in both the internal and the external continua. Contemplate in all three times.
+
+**VI**
+Đối với các cách quán theo oai nghi và tỉnh giác, cũng hãy lấy sự tan rã của các hành hiện hữu trong từng khoảnh khắc của từng oai nghi và từng hoạt động tỉnh giác làm cảnh để quán minh sát.
+
+**EN**
+In the methods of contemplation by postures and clear comprehension, likewise take as the object of insight the dissolution of the formations present at the moments of each posture and each activity dealt with under clear comprehension.
+
+**VI**
+Đối với các chi của duyên khởi, cũng hãy chỉ lấy sự tan rã của chúng làm cảnh, áp dụng các đặc tướng và quán minh sát. Khi quán như vậy, hãy lấy riêng sự tan rã làm cảnh để quán minh sát, sau khi gác lại quan hệ nhân quả như sự sinh khởi của hành do vô minh v.v. Quán cả ba thời và cả hai dòng tương tục. Đôi khi trở lại quán bằng minh sát chính tuệ đang quán. Đó là minh sát đáp lại (paṭivipassanā).
+
+**EN**
+For the factors of dependent origination, likewise take their dissolution alone as object, apply the characteristics and contemplate with insight. In contemplating thus, take only dissolution as object of insight, setting aside causal relationships such as the arising of formations because of ignorance. Contemplate all three times and both continua. At times turn back and contemplate with insight the very knowledge that is contemplating. This is responsive insight (paṭivipassanā).
+
+**VI**
+Từ giai đoạn này cho đến khi đạt Thánh đạo, ở các giai đoạn tuệ hành giả cần quán minh sát sâu rộng: dùng tuệ minh sát thấy sự tan rã của riêng các hành gồm danh, sắc, nhân và quả hiện hữu trong ba thời quá khứ, tương lai và hiện tại, trong hai dòng tương tục bên trong và bên ngoài, và đôi khi thấy sự tan rã của riêng tuệ minh sát đang quán. Hãy lần lượt áp dụng ba đặc tướng.
+
+**EN**
+From this stage until reaching the noble path, in the successive stages of knowledge the meditator must cultivate insight extensively: see with insight the dissolution alone of formations comprising mentality, materiality, causes and effects in the three times, past, future and present, and in the two continua, internal and external, and at times see the dissolution alone of the insight knowledge doing the contemplating. Apply the three characteristics in turn.
+
+**VI**
+Khi quán như vậy, các pháp danh thuộc thiền cũng nằm trong số các pháp danh. Đặc biệt, chúng bao gồm cả bốn tầng thiền niệm hơi thở. Nếu có thể quán minh sát sâu rộng bốn tầng thiền ấy đến mức tuệ tan rã, thì những cách quán trong bốn bộ bốn về niệm hơi thở do Đức Phật dạy cũng được bao hàm. Tuy vậy, vì những người tuệ còn non, các bộ bốn ấy sẽ được trình bày vắn tắt như sau.
+
+**EN**
+In contemplating in this way, jhāna mental phenomena are among the mental phenomena contemplated. In particular, these include the four jhānas of mindfulness of breathing. If the meditator can develop extensive insight into those four jhānas as far as knowledge of dissolution, the modes of contemplation in the four tetrads of mindfulness of breathing taught by the Buddha are also covered. For those whose knowledge is still immature, however, the tetrads are presented briefly as follows.
+
+
+<a id="M09-body-P182"></a>
+## Niệm hơi thở — Bộ bốn thứ nhất / Mindfulness of breathing — First tetrad
+Miến / Burmese 182
+
+**VI**
+1. Dīghaṃ vā assasanto “dīghaṃ assasāmī”ti pajānāti. Dīghaṃ vā passasanto “dīghaṃ passasāmī”ti pajānāti.
+
+**EN**
+1. Dīghaṃ vā assasanto “dīghaṃ assasāmī”ti pajānāti. Dīghaṃ vā passasanto “dīghaṃ passasāmī”ti pajānāti.
+
+**VI**
+2. Rassaṃ vā assasanto “rassaṃ assasāmī”ti pajānāti. Rassaṃ vā passasanto “rassaṃ passasāmī”ti pajānāti.
+
+**EN**
+2. Rassaṃ vā assasanto “rassaṃ assasāmī”ti pajānāti. Rassaṃ vā passasanto “rassaṃ passasāmī”ti pajānāti.
+
+**VI**
+3. “Sabbakāyapaṭisaṃvedī assasissāmī”ti sikkhati. “Sabbakāyapaṭisaṃvedī passasissāmī”ti sikkhati.
+
+**EN**
+3. “Sabbakāyapaṭisaṃvedī assasissāmī”ti sikkhati. “Sabbakāyapaṭisaṃvedī passasissāmī”ti sikkhati.
+
+**VI**
+4. “Passambhayaṃ kāyasaṅkhāraṃ assasissāmī”ti sikkhati. “Passambhayaṃ kāyasaṅkhāraṃ passasissāmī”ti sikkhati. (M. 1, 70.)
+
+**EN**
+4. “Passambhayaṃ kāyasaṅkhāraṃ assasissāmī”ti sikkhati. “Passambhayaṃ kāyasaṅkhāraṃ passasissāmī”ti sikkhati. (M. 1, 70.)
+
+**VI**
+1. Khi thở vào dài, biết rõ «Tôi đang thở vào dài». Khi thở ra dài, biết rõ «Tôi đang thở ra dài».
+
+**EN**
+1. When breathing in long, one clearly knows, “I am breathing in long.” When breathing out long, one clearly knows, “I am breathing out long.”
+
+**VI**
+2. Khi thở vào ngắn, biết rõ «Tôi đang thở vào ngắn». Khi thở ra ngắn, biết rõ «Tôi đang thở ra ngắn». (M. 1, 70.)
+
+**EN**
+2. When breathing in short, one clearly knows, “I am breathing in short.” When breathing out short, one clearly knows, “I am breathing out short.” (M. 1, 70.)
+
+**VI**
+3. Tập như sau: «Tôi sẽ thở vào, biết rõ toàn bộ hơi thở vào, từ đầu, giữa đến cuối». Tập như sau: «Tôi sẽ thở ra, biết rõ toàn bộ hơi thở ra, từ đầu, giữa đến cuối».
+
+**EN**
+3. One trains: “I will breathe in, clearly knowing the whole in-breath, its beginning, middle and end.” One trains: “I will breathe out, clearly knowing the whole out-breath, its beginning, middle and end.”
+
+**VI**
+4. Tập như sau: «Tôi sẽ thở vào, làm lắng dịu thân hành gọi là hơi thở vào thô». «Tôi sẽ thở ra, làm lắng dịu thân hành
+
+**EN**
+4. One trains: “I will breathe in, calming the bodily formation called the coarse in-breath.” “I will breathe out, calming the bodily formation
+
+
+<a id="M09-body-P183"></a>
+## Bộ bốn thứ nhất và chuẩn bị quán danh sắc / The first tetrad and preparation for contemplating mentality and materiality
+Miến / Burmese 183
+
+**VI**
+gọi là hơi thở ra thô». (M. 1, 70.)
+
+**EN**
+called the coarse out-breath.” (M. 1, 70.)
+
+**VI**
+Trong bộ bốn thứ nhất này: 1. Dīgha là dài, tức độ dài của hơi thở vào và hơi thở ra. 2. Rassa là ngắn, tức độ ngắn của hơi thở vào và hơi thở ra. 3. Sabbakāya là toàn bộ, tức toàn bộ đầu, giữa và cuối của hơi thở vào và hơi thở ra. 4. Passambhayaṃ là tập làm cho lắng dịu, vi tế và an tịnh.
+
+**EN**
+In this first tetrad: 1. Dīgha means long, the length of the in-breath and out-breath. 2. Rassa means short, the shortness of the in-breath and out-breath. 3. Sabbakāya means the whole, the whole beginning, middle and end of the in-breath and out-breath. 4. Passambhayaṃ means training to make it calm, subtle and tranquil.
+
+**VI**
+Việc thực hành bộ bốn niệm hơi thở thứ nhất đã được trình bày đầy đủ trong phần đề mục thiền chỉ, đến khi hơi thở lắng dịu và đạt tứ thiền. Bây giờ, đối với các thiện nhân đã thực hành đúng bộ bốn niệm hơi thở thứ nhất cho đến tứ thiền, các cách quán trong bộ bốn thứ hai v.v. sẽ được trình bày vắn tắt tiếp theo.
+
+**EN**
+The practice of the first tetrad of mindfulness of breathing was explained in full in the section on serenity meditation, up to the calming of the breath and attainment of the fourth jhāna. For good people who have practised the first tetrad of mindfulness of breathing in this way up to the fourth jhāna, the modes of contemplation in the second tetrad and following tetrads are now outlined.
+
+**VI**
+Khi các thiện nhân đã luyện định tứ thiền niệm hơi thở mình đạt được cho đến khi thuần thục năm pháp làm chủ, hãy lấy tứ thiền niệm hơi thở làm nền cho minh sát. Nghĩa là, mỗi lần ngồi thiền, trước hết hãy nhập thiền ấy. Khi xuất thiền:
+
+**EN**
+When good people have practised the concentration of the fourth jhāna of mindfulness of breathing they have attained to the point of mastery in five ways, make that fourth jhāna of mindfulness of breathing the basis for insight. That is, each time you sit to meditate, enter that jhāna first. When you emerge:
+
+**VI**
+1. Rūpapariggaha — nhận diện các pháp sắc. 2. Arūpapariggaha — nhận diện các pháp danh. 3. Rūpārūpapariggaha — nhận diện danh sắc. 4. Nāmarūpavavatthāna — phân định danh và sắc,
+
+**EN**
+1. Rūpapariggaha — discern material phenomena. 2. Arūpapariggaha — discern mental phenomena. 3. Rūpārūpapariggaha — discern mentality and materiality. 4. Nāmarūpavavatthāna — distinguish mentality and materiality,
+
+
+<a id="M09-body-P184"></a>
+## Niệm hơi thở — Bộ bốn thứ hai / Mindfulness of breathing — Second tetrad
+Miến / Burmese 184
+
+**VI**
+5. Paccayapariggaha — nhận diện các nhân của danh sắc hiện tại. 6. Addhānapariggaha — nhận diện các nhân của danh sắc quá khứ và tương lai.
+
+**EN**
+5. Paccayapariggaha — discern the causes of present mentality and materiality. 6. Addhānapariggaha — discern the causes of past and future mentality and materiality.
+
+**VI**
+Sau khi tuần tự thực hiện các công việc ấy, khi đã có thể quán minh sát sâu rộng danh sắc cùng với các nhân bằng tuệ thẩm sát, tuệ sinh diệt và tuệ tan rã, hãy tiếp tục thực tập các cách quán thuộc bộ bốn thứ hai và các bộ tiếp theo ở dưới.
+
+**EN**
+Having carried out those tasks in succession, when you can contemplate mentality and materiality together with their causes extensively by the knowledges of comprehension, arising and passing away, and dissolution, continue practising the modes of contemplation in the second and subsequent tetrads below.
+
+**VI**
+Niệm hơi thở — Bộ bốn thứ hai
+
+**EN**
+Mindfulness of breathing — Second tetrad
+
+**VI**
+1. “Pītipaṭisaṃvedī assasissāmī”ti sikkhati. “Pītipaṭisaṃvedī passasissāmī”ti sikkhati. 2. Sukhapaṭisaṃvedī, pe. 3. Cittasaṅkhārapaṭisaṃvedī, pe. 4. Passambhayaṃ cittasaṅkhāraṃ, pe. (Saṃ. 3, 279. Vi. 1, 78.)
+
+**EN**
+1. “Pītipaṭisaṃvedī assasissāmī”ti sikkhati. “Pītipaṭisaṃvedī passasissāmī”ti sikkhati. 2. Sukhapaṭisaṃvedī, pe. 3. Cittasaṅkhārapaṭisaṃvedī, pe. 4. Passambhayaṃ cittasaṅkhāraṃ, pe. (Saṃ. 3, 279. Vi. 1, 78.)
+
+**VI**
+1. Tập như sau: «Tôi sẽ thở vào, biết rõ hỷ». Tập như sau: «Tôi sẽ thở ra, biết rõ hỷ». 2. Biết rõ lạc, pe. 3. Biết rõ tâm hành, pe. 4. Làm lắng dịu tâm hành, pe.
+
+**EN**
+1. One trains: “I will breathe in, clearly knowing rapture.” One trains: “I will breathe out, clearly knowing rapture.” 2. Clearly knowing pleasure, pe. 3. Clearly knowing mental formation, pe. 4. Calming mental formation, pe.
+
+**VI**
+1. Lấy tợ tướng niệm hơi thở làm cảnh, nhập sơ thiền và nhị thiền có hỷ. Khi hành giả nhập thiền chứng, vì đạt được thiền nên đối với tợ tướng niệm hơi thở
+
+**EN**
+1. Taking the counterpart sign of mindfulness of breathing as object, enter the first and second jhānas, which are accompanied by rapture. When the meditator enters the jhāna attainment, owing to the attainment of jhāna, with respect to the counterpart sign of mindfulness of breathing
+
+
+<a id="M09-body-P185"></a>
+## Biết rõ hỷ trong thiền chỉ và minh sát / Clearly knowing rapture in serenity and insight
+Miến / Burmese 185
+
+**VI**
+mà mình đang biết rõ, hành giả lấy cảnh làm căn cứ và biết rõ hỷ của thiền. Khi đang thở và biết rõ hỷ của thiền như vậy, gọi là biết rõ hỷ theo phương diện cảnh. Hãy thở trong khi biết rõ hỷ như vậy. (Đây là phần thiền chỉ.) (Vism. 1, 279.)
+
+**EN**
+which they know clearly, the meditator clearly knows jhāna rapture on the basis of the object. Breathing while clearly knowing jhāna rapture in this way is called clearly knowing rapture in terms of the object. Breathe while clearly knowing rapture in this way. (This is the serenity section.) (Vism. 1, 279.)
+
+**VI**
+Tuệ thấu rõ các pháp chân đế đến mức chân đế, đúng như thực tính của chúng, được gọi là vô si (asammoha). Hành giả hãy nhập sơ thiền niệm hơi thở. Khi xuất thiền, hãy dùng tuệ thấy sự tan rã và biến mất hoàn toàn của hỷ đi cùng thiền ấy, hoặc của tất cả các pháp danh của thiền bằng cách lấy hỷ làm chủ yếu. Hãy lần lượt áp dụng ba đặc tướng và quán xét bằng minh sát. Tương tự, hãy nhập nhị thiền. Khi xuất thiền, hãy dùng tuệ thấy sự tan rã, hủy hoại và biến mất hoàn toàn của hỷ đi cùng nhị thiền, hoặc của tất cả các pháp danh của thiền bằng cách lấy hỷ làm chủ yếu. Hãy lần lượt áp dụng ba đặc tướng và quán xét bằng minh sát. Trong lúc quán minh sát, vì thấu rõ đặc tướng riêng và đặc tướng chung của hỷ ấy, hoặc của các pháp danh của thiền đi cùng hỷ, hành giả biết rõ hỷ theo phương diện vô si, tức theo phương diện không mê lầm. Hãy thở trong khi biết rõ như vậy. (Đây là phần minh sát.) (Vism. 1, 279.)
+
+**EN**
+Knowledge that penetrates ultimate phenomena at the ultimate level, in accordance with their actual nature, is called non-delusion (asammoha). The meditator should enter the first jhāna of mindfulness of breathing. Having emerged, see with knowledge the complete dissolution and disappearance of the rapture accompanying that jhāna, or of all its mental phenomena with rapture taken as predominant. Apply the three characteristics in turn and examine with insight. Likewise enter the second jhāna. Having emerged, see with knowledge the complete dissolution, destruction and disappearance of the rapture accompanying the second jhāna, or of all its mental phenomena with rapture taken as predominant. Apply the three characteristics in turn and examine with insight. During insight contemplation, because the meditator penetrates the individual and common characteristics of that rapture, or of the jhāna mental phenomena together with rapture, the meditator clearly knows rapture in terms of non-delusion, that is, freedom from confusion. Breathe while clearly knowing it in this way. (This is the insight section.) (Vism. 1, 279.)
+
+**VI**
+2. Trong phần thiền chỉ, khi lần lượt nhập riêng sơ thiền, nhị thiền và tam thiền và thở, thì trong phần minh sát,
+
+**EN**
+2. In the serenity section, when one successively enters the first, second and third jhānas separately and breathes, in the insight section,
+
+
+<a id="M09-body-P186"></a>
+## Biết rõ lạc và làm lắng dịu tâm hành / Clearly knowing pleasure and calming mental formation
+Miến / Burmese 186
+
+**VI**
+khi thở và lần lượt quán minh sát lạc đi cùng từng thiền ấy, hoặc các pháp danh của thiền bằng cách lấy lạc làm chủ yếu, lấy sự tan rã của chúng làm cảnh, thì gọi là thở trong khi biết rõ lạc. Hãy thở trong khi biết rõ lạc theo cách ấy. (Vism. 1, 280.)
+
+**EN**
+when one breathes while successively contemplating with insight the pleasure associated with each jhāna, or its mental phenomena with pleasure taken as predominant, taking their dissolution as object, this is called breathing while clearly knowing pleasure. Breathe while clearly knowing pleasure in this way. (Vism. 1, 280.)
+
+**VI**
+3. Trong phần thiền chỉ, khi tuần tự nhập riêng cả bốn tầng thiền niệm hơi thở và thở, thì trong phần minh sát, khi thở và quán minh sát hai pháp thọ và tưởng gọi là tâm hành, hoặc thọ đi cùng tưởng, hoặc tất cả các pháp danh của thiền bằng cách lấy thọ làm chủ yếu, lấy sự tan rã của chúng làm cảnh, thì gọi là thở trong khi biết rõ tâm hành. Hãy thở trong khi biết rõ tâm hành như vậy. Hãy tập để có thể thở như vậy. (Vism. 1, 280.)
+
+**EN**
+3. In the serenity section, when one successively enters each of the four jhānas of mindfulness of breathing and breathes, in the insight section one breathes while contemplating with insight the two phenomena feeling and perception called mental formation, or feeling accompanied by perception, or all jhāna mental phenomena with feeling taken as predominant, taking their dissolution as object. This is called breathing while clearly knowing mental formation. Breathe while clearly knowing mental formation in this way. Train so as to be able to breathe in this way. (Vism. 1, 280.)
+
+**VI**
+4. Trong phần thiền chỉ, khi tuần tự nhập riêng từng tầng trong bốn tầng thiền niệm hơi thở và thở, gọi là thở trong khi làm lắng dịu và chấm dứt các tâm hành thô. Trong phần minh sát, hãy lần lượt nhập từng thiền ấy. Mỗi lần xuất khỏi một thiền, nhận diện các pháp danh của thiền ấy, lấy thọ làm chủ yếu. Khi quán minh sát lấy làm cảnh tính hoàn toàn tan rã, hủy hoại, biến mất và chấm dứt của chúng, tức khaya, vaya, bheda và nirodha, gọi là thở trong khi làm lắng dịu và chấm dứt các tâm hành thô. Hãy tập để có thể thở như vậy. (Vism. 1, 280.)
+
+**EN**
+4. In the serenity section, when one successively enters each of the four jhānas of mindfulness of breathing and breathes, this is called breathing while calming and bringing to cessation the coarse mental formations. In the insight section, enter each of those jhānas in turn. Each time you emerge, discern its mental phenomena with feeling taken as predominant. When one contemplates with insight taking as object their complete decay, passing away, breakup and cessation, that is, khaya, vaya, bheda and nirodha, this is called breathing while calming and bringing to cessation the coarse mental formations. Train so as to be able to breathe in this way. (Vism. 1, 280.)
+
+
+<a id="M09-body-P187"></a>
+## Niệm hơi thở — Bộ bốn thứ ba / Mindfulness of breathing — Third tetrad
+Miến / Burmese 187
+
+**VI**
+Trong pītipaṭisaṃvedī, hỷ được nêu đứng đầu để chỉ thọ. Trong sukhapaṭisaṃvedī, đó là lạc thọ. Trong các bước về tâm hành, hai pháp tưởng và thọ được gọi là tâm hành, nhưng lời dạy lấy thọ đi cùng tưởng làm chủ yếu. Vì vậy, hãy hiểu rằng Đức Phật đã dạy bộ bốn thứ hai theo phương pháp quán thọ (vedanānupassanā). (Vism. 1, 280.)
+
+**EN**
+In pītipaṭisaṃvedī, rapture is taken as predominant to indicate feeling. In sukhapaṭisaṃvedī, it is pleasant feeling. In the steps concerning mental formation, perception and feeling are the two phenomena called mental formation, but the teaching gives prominence to feeling associated with perception. Thus understand that the Buddha taught this second tetrad by way of contemplation of feeling (vedanānupassanā). (Vism. 1, 280.)
+
+**VI**
+Niệm hơi thở — Bộ bốn thứ ba
+
+**EN**
+Mindfulness of breathing — Third tetrad
+
+**VI**
+1. “Cittapaṭisaṃvedī assasissāmī”ti sikkhati. “Cittapaṭisaṃvedī passasissāmī”ti sikkhati. 2. Abhippamodayaṃ cittaṃ, pe. 3. Samādahaṃ cittaṃ, pe. 4. Vimocayaṃ cittaṃ, pe. (Saṃ. 3, 279. Vi. 1, 78.)
+
+**EN**
+1. “Cittapaṭisaṃvedī assasissāmī”ti sikkhati. “Cittapaṭisaṃvedī passasissāmī”ti sikkhati. 2. Abhippamodayaṃ cittaṃ, pe. 3. Samādahaṃ cittaṃ, pe. 4. Vimocayaṃ cittaṃ, pe. (Saṃ. 3, 279. Vi. 1, 78.)
+
+**VI**
+1. Tập như sau: «Tôi sẽ thở vào, biết rõ tâm thiền». Tập như sau: «Tôi sẽ thở ra, biết rõ tâm thiền». 2. Làm tâm hết sức hân hoan, phấn chấn và vui mừng, pe. 3. Đặt tâm vững vàng, quân bình trên cảnh, pe. 4. Giải thoát tâm khỏi các pháp đối nghịch, pe.
+
+**EN**
+1. One trains: “I will breathe in, clearly knowing the jhāna consciousness.” One trains: “I will breathe out, clearly knowing the jhāna consciousness.” 2. Making the mind deeply glad, buoyant and joyful, pe. 3. Establishing the mind firmly and evenly on the object, pe. 4. Liberating the mind from opposing phenomena, pe.
+
+**VI**
+1. Trong phần thiền chỉ, hãy lần lượt nhập từng tầng trong bốn tầng thiền niệm hơi thở và thở. Trong phần minh sát, hãy lần lượt nhập mỗi thiền ấy. Mỗi lần xuất thiền, hãy thấy sự tan rã của tâm thiền ấy, hoặc của tất cả các pháp danh của thiền bằng cách lấy tâm thiền làm chủ yếu,
+
+**EN**
+1. In the serenity section, enter each of the four jhānas of mindfulness of breathing in succession and breathe. In the insight section, enter each of those jhānas in turn. Each time you emerge, see the dissolution of that jhāna consciousness, or of all its mental phenomena with the jhāna consciousness taken as predominant,
+
+
+<a id="M09-body-P188"></a>
+## Biết rõ tâm và làm tâm hân hoan / Clearly knowing the mind and gladdening it
+Miến / Burmese 188
+
+**VI**
+rồi thở trong khi quán minh sát, thì gọi là thở trong khi biết rõ tâm thiền. Hãy tập để có thể thở như vậy. (Vism. 1, 280.)
+
+**EN**
+and then breathe while contemplating with insight. This is called breathing while clearly knowing the jhāna consciousness. Train so as to be able to breathe in this way. (Vism. 1, 280.)
+
+**VI**
+2. Trong phần thiền chỉ, hãy nhập sơ thiền niệm hơi thở có hỷ và thở. Hãy nhập nhị thiền niệm hơi thở có hỷ và thở. Khi nhập các thiền ấy, vì có hỷ đi cùng tâm thiền nên tâm thiền hết sức hân hoan, phấn chấn và vui mừng. Hãy thở trong khi dùng hỷ của thiền như vậy làm cho tâm thiền hết sức hân hoan, phấn chấn và vui mừng. Hãy tập để có thể thở như vậy.
+
+**EN**
+2. In the serenity section, enter the first jhāna of mindfulness of breathing, which is accompanied by rapture, and breathe. Enter the second jhāna of mindfulness of breathing, which is accompanied by rapture, and breathe. On entering those jhānas, the rapture accompanying the jhāna consciousness makes that consciousness deeply glad, buoyant and joyful. Breathe while using jhāna rapture in this way to make the jhāna consciousness deeply glad, buoyant and joyful. Train so as to be able to breathe in this way.
+
+**VI**
+Trong phần minh sát, hãy nhập sơ thiền niệm hơi thở có hỷ. Khi xuất sơ thiền, hãy quán minh sát để thấy sự tan rã của hỷ đi cùng thiền ấy, hoặc của tất cả các pháp danh của thiền bằng cách lấy hỷ làm chủ yếu. Hãy nhập nhị thiền niệm hơi thở có hỷ. Khi xuất thiền, hãy quán minh sát để thấy sự tan rã của hỷ đi cùng thiền ấy, hoặc của tất cả các pháp danh của nhị thiền bằng cách lấy hỷ làm chủ yếu. Trong lúc quán minh sát, vì lấy hỷ đi cùng thiền làm cảnh, tâm minh sát đang quán hỷ ấy cũng hết sức hân hoan, phấn chấn và vui mừng. Hãy tập để có thể thở trong khi làm tâm hết sức hân hoan, phấn chấn và vui mừng như vậy. Hãy thở như vậy. (Vism. 1, 280–281.)
+
+**EN**
+In the insight section, enter the first jhāna of mindfulness of breathing, which is accompanied by rapture. When you emerge from the first jhāna, contemplate with insight to see the dissolution of the rapture accompanying it, or of all its mental phenomena with rapture taken as predominant. Enter the second jhāna of mindfulness of breathing, which is accompanied by rapture. When you emerge, contemplate with insight to see the dissolution of the rapture accompanying it, or of all the mental phenomena of the second jhāna with rapture taken as predominant. During insight contemplation, because the rapture accompanying jhāna is taken as object, the insight consciousness contemplating that rapture is also deeply glad, buoyant and joyful. Train so as to be able to breathe while making the mind deeply glad, buoyant and joyful in this way. Breathe in this way. (Vism. 1, 280–281.)
+
+**VI**
+Hãy hiểu điều ấy như khi gặp một người bạn thân thiết, vui vẻ mà mình rất quý mến, thì niềm vui cũng nở rộ trong dòng tâm tương tục của chính mình, người gặp bạn ấy.
+
+**EN**
+Understand this as when one meets a cheerful and dearly loved friend, and joy blossoms in one’s own continuum, the continuum of the person meeting that friend.
+
+
+<a id="M09-body-P189"></a>
+## Định tâm trong thiền chỉ và minh sát / Concentrating the mind in serenity and insight
+Miến / Burmese 189
+
+**VI**
+3. Samādahaṃ cittaṃ — Thở trong khi đặt tâm vững vàng. Ở đây cũng có hai phần, thiền chỉ và minh sát. Trong phần thiền chỉ, khi nhập sơ thiền niệm hơi thở và thở, khi nhập nhị thiền và thở, khi nhập tam thiền và thở, khi nhập tứ thiền và thở, gọi là thở trong khi đặt tâm thiền vững vàng, quân bình trên cảnh là tợ tướng niệm hơi thở hết sức trong sáng, rực rỡ, vốn là cảnh của các thiền ấy. Hãy tập để có thể thở như vậy. Hãy thở như vậy. (Vism. 1, 281.)
+
+**EN**
+3. Samādahaṃ cittaṃ — Breathing while establishing the mind firmly. Here too there are two parts, serenity and insight. In the serenity section, when one enters the first jhāna of mindfulness of breathing and breathes, enters the second jhāna and breathes, enters the third jhāna and breathes, or enters the fourth jhāna and breathes, this is called breathing while establishing the jhāna consciousness firmly and evenly on the exceedingly clear and radiant counterpart sign of mindfulness of breathing that is the object of those jhānas. Train so as to be able to breathe in this way. Breathe in this way. (Vism. 1, 281.)
+
+**VI**
+[Ghi chú — Trong khi nhập tứ thiền niệm hơi thở, không có hơi thở. Vậy tại sao vẫn chỉ dẫn rằng hãy nhập tứ thiền niệm hơi thở và thở trong khi đặt tâm thiền vững vàng trên cảnh là tợ tướng niệm hơi thở? Câu trả lời như sau: «Assāsapassāse nissāya uppannanimittampettha assāsapassāsasāmaññameva vuttaṃ.» (Mahāṭī. 1, 139.) Theo giải thích này của Phụ chú giải, tợ tướng niệm hơi thở sinh nương vào hơi thở vào và hơi thở ra cũng được gọi chung là niệm hơi thở. Do đó, lấy tợ tướng niệm hơi thở làm cảnh cũng được gọi là lấy chính hơi thở vào và hơi thở ra làm cảnh. Vì thế Chú giải đã giải thích theo cách trên.] Trong phần minh sát có đoạn như sau:
+
+**EN**
+[Note — During attainment of the fourth jhāna of mindfulness of breathing there is no breathing. Why, then, does the instruction say to enter the fourth jhāna of mindfulness of breathing and breathe while establishing jhāna consciousness firmly on the counterpart sign of mindfulness of breathing? The answer is as follows: “Assāsapassāse nissāya uppannanimittampettha assāsapassāsasāmaññameva vuttaṃ.” (Mahāṭī. 1, 139.) According to this explanation in the subcommentary, the counterpart sign of mindfulness of breathing that arises in dependence on the in-breath and out-breath is included under the general designation of mindfulness of breathing. Thus taking the counterpart sign of mindfulness of breathing as object is also called taking the in-breath and out-breath themselves as object. This is why the commentary explains it in the way given above.] In the insight section the following passage occurs:
+
+**VI**
+Tāni vā pana jhānāni samāpajjitvā vuṭṭhāya jhānasampayuttaṃ cittaṃ khayato vayato sammasato vipassanākkhaṇe lakkhaṇapaṭivedhena uppajjati khaṇikacittekaggatā. Evaṃ uppannāya khaṇikacittekaggatāya vasenāpi ārammaṇe cittaṃ samaṃ ādahanto samaṃ ṭhapento “samādahaṃ
+
+**EN**
+Tāni vā pana jhānāni samāpajjitvā vuṭṭhāya jhānasampayuttaṃ cittaṃ khayato vayato sammasato vipassanākkhaṇe lakkhaṇapaṭivedhena uppajjati khaṇikacittekaggatā. Evaṃ uppannāya khaṇikacittekaggatāya vasenāpi ārammaṇe cittaṃ samaṃ ādahanto samaṃ ṭhapento “samādahaṃ
+
+
+<a id="M09-body-P190"></a>
+## Định sát-na trong minh sát / Momentary concentration in insight
+Miến / Burmese 190
+
+**VI**
+cittaṃ assasissāmi passasissāmīti sikkhatī”ti vuccati. (Vism. 1, 281.)
+
+**EN**
+cittaṃ assasissāmi passasissāmīti sikkhatī”ti vuccati. (Vism. 1, 281.)
+
+**VI**
+Khaṇikacittekaggatāti khaṇamattatthitiko samādhi. Sopi hi ārammaṇe nirantaraṃ ekākārena pavattamāno paṭipakkhena anabhibhūto appito viya cittaṃ niccalaṃ ṭhapeti. Tena vuttaṃ “evaṃ uppannāyā”tiādi. (Mahāṭī. 1, 142.)
+
+**EN**
+Khaṇikacittekaggatāti khaṇamattatthitiko samādhi. Sopi hi ārammaṇe nirantaraṃ ekākārena pavattamāno paṭipakkhena anabhibhūto appito viya cittaṃ niccalaṃ ṭhapeti. Tena vuttaṃ “evaṃ uppannāyā”tiādi. (Mahāṭī. 1, 142.)
+
+**VI**
+Hãy nhập sơ thiền niệm hơi thở. Khi xuất thiền, hãy thấy sự tan rã của tâm đi cùng sơ thiền ấy, hoặc của tất cả các pháp danh của thiền bằng cách lấy tâm thiền làm chủ yếu, rồi quán minh sát. Khi quán như vậy, vào lúc minh sát, hành giả thấu rõ các đặc tướng riêng và đặc tướng chung của tâm thiền ấy, hoặc của các pháp danh của thiền đi cùng tâm ấy. Vì hành giả thấu rõ từng sát-na tâm, tâm tu tập minh sát an trụ vững vàng trên phương diện vô thường, khổ hoặc vô ngã của các hành gọi là pháp thuộc thiền. Định đi cùng tuệ minh sát đang an trụ vững vàng như vậy được gọi là nhất tâm sát-na (khaṇikacittekaggatā), tức định sát-na (khaṇikasamādhi). Nhờ định sát-na ấy, hãy thở trong khi đặt tâm tu tập minh sát một cách quân bình, vững vàng trên một trong các phương diện vô thường, khổ hay vô ngã của các hành thuộc thiền đã được nhận diện với tâm thiền làm chủ yếu. Hãy tập để có thể thở như vậy. Đối với nhị thiền và các thiền tiếp theo cũng theo cách ấy. (Vism. 1, 281. Mahāṭī. 1, 142.)
+
+**EN**
+Enter the first jhāna of mindfulness of breathing. Having emerged, see the dissolution of the consciousness associated with that first jhāna, or of all its mental phenomena with the jhāna consciousness taken as predominant, and contemplate with insight. When contemplating in this way, at the moment of insight the meditator clearly penetrates the individual and common characteristics of that jhāna consciousness, or of the jhāna mental phenomena associated with it. Because the meditator penetrates each and every moment of consciousness, the mind developing insight is firmly established on the aspect of impermanence, suffering or non-self in the formations called jhāna phenomena. The concentration accompanying insight knowledge firmly established in this way is called momentary one-pointedness of mind (khaṇikacittekaggatā), that is, momentary concentration (khaṇikasamādhi). With that momentary concentration, breathe while establishing the mind developing insight evenly and firmly on one of the aspects of impermanence, suffering or non-self in the jhāna formations discerned with jhāna consciousness taken as predominant. Train so as to be able to breathe in this way. The same method applies to the second and subsequent jhānas. (Vism. 1, 281. Mahāṭī. 1, 142.)
+
+
+<a id="M09-body-P191"></a>
+## Lưu ý về định sát-na và giải thoát tâm / A point concerning momentary concentration and liberating the mind
+Miến / Burmese 191
+
+**VI**
+Một điều cần đặc biệt lưu ý
+
+**EN**
+A point requiring particular attention
+
+**VI**
+Ở đây, sau khi nhập từng thiền niệm hơi thở và xuất thiền, lúc quán minh sát các hành thuộc thiền, gọi là các pháp thuộc thiền, với tâm thiền làm chủ yếu, định minh sát an trụ vững chắc trên một phương diện như tính vô thường của các hành ấy được gọi là nhất tâm sát-na (khaṇikacittekaggatā), tức định sát-na (khaṇikasamādhi). Hãy lưu ý điểm này. Hãy ghi nhận mức độ cao của định sát-na được nói đến trong phần minh sát.
+
+**EN**
+Here, after entering and emerging from each jhāna of mindfulness of breathing, while contemplating with insight the formations belonging to jhāna, called jhāna phenomena, with jhāna consciousness taken as predominant, insight concentration that is firmly established on one aspect of those formations, such as impermanence, is called momentary one-pointedness of mind (khaṇikacittekaggatā), that is, momentary concentration (khaṇikasamādhi). Pay attention to this point. Note the advanced level of the momentary concentration referred to in the insight section.
+
+**VI**
+4. Vimocayaṃ cittaṃ — Hãy thở trong khi giải thoát tâm khỏi các pháp đối nghịch. Ở đây cũng có hai phần, thiền chỉ và minh sát. Trong phần thiền chỉ, hãy thở trong khi nhập các thiền ấy, giải thoát tâm khỏi các triền cái bằng sơ thiền, khỏi tầm và tứ bằng nhị thiền, khỏi hỷ bằng tam thiền, và khỏi lạc và khổ bằng tứ thiền. Hãy tập, nỗ lực và tu tập nhiều để có thể thở như vậy. (Vism. 1, 281.)
+
+**EN**
+4. Vimocayaṃ cittaṃ — Breathe while liberating the mind from opposing phenomena. Here too there are two parts, serenity and insight. In the serenity section, breathe while entering those jhānas, freeing the mind from the hindrances by the first jhāna, from applied and sustained thought by the second, from rapture by the third, and from pleasure and pain by the fourth. Train, strive and practise repeatedly so as to be able to breathe in this way. (Vism. 1, 281.)
+
+**VI**
+Trong phần minh sát, hãy nhập sơ thiền niệm hơi thở. Sau khi xuất thiền, dùng tuệ minh sát thấy tính tiêu hoại và diệt mất (khaya, vaya) của tâm thiền đi cùng sơ thiền ấy, tức của tất cả các pháp danh của sơ thiền với tâm thiền làm chủ yếu. Hãy áp dụng các đặc tướng và quán minh sát. Tương tự:
+
+**EN**
+In the insight section, enter the first jhāna of mindfulness of breathing. Having emerged, see with insight the nature of decay and passing away (khaya, vaya) of the jhāna consciousness associated with the first jhāna, that is, of all the mental phenomena of the first jhāna with jhāna consciousness taken as predominant. Apply the characteristics and contemplate with insight. Likewise:
+
+**VI**
+Nhập nhị thiền. Pe.
+
+**EN**
+Enter the second jhāna. Pe.
+
+**VI**
+Nhập tam thiền. Pe.
+
+**EN**
+Enter the third jhāna. Pe.
+
+**VI**
+Nhập tứ thiền. Sau khi xuất thiền ấy, đối với tâm thiền đi cùng tứ thiền, tức đối với tất cả các pháp danh của tứ thiền với tâm thiền làm chủ yếu,
+
+**EN**
+Enter the fourth jhāna. Having emerged from it, with respect to the jhāna consciousness associated with the fourth jhāna, that is, to all the mental phenomena of the fourth jhāna with jhāna consciousness taken as predominant,
+
+
+<a id="M09-body-P192"></a>
+## Giải thoát tâm bằng các phép quán minh sát / Liberating the mind through insight contemplations
+Miến / Burmese 192
+
+**VI**
+hãy dùng tuệ minh sát thấy tính tiêu hoại và diệt mất (khaya, vaya) của chúng. Hãy áp dụng các đặc tướng và quán minh sát.
+
+**EN**
+see with insight their nature of decay and passing away (khaya, vaya). Apply the characteristics and contemplate with insight.
+
+**VI**
+Hành giả giải thoát tâm và thở: bằng quán vô thường (aniccānupassanā), giải thoát khỏi tưởng thường. Bằng quán khổ (dukkhānupassanā), giải thoát khỏi tưởng lạc. Bằng quán vô ngã (anattānupassanā), giải thoát khỏi tưởng ngã. Nhờ áp dụng ba đặc tướng và quán minh sát như vậy, bằng quán yếm ly (nibbidānupassanā), tức phương diện nhàm chán, xa lìa các hành, giải thoát khỏi sự ưa thích và say đắm các hành một cách vui sướng. Nhờ nhiều lần áp dụng các đặc tướng và quán giai đoạn tan rã (bhaṅga) của các hành, bằng quán ly tham (virāgānupassanā), tức phương diện không còn say đắm các hành, giải thoát khỏi tham ái bám víu vào các hành. Bằng quán diệt (nirodhānupassanā), quán giai đoạn chấm dứt của các hành, giải thoát khỏi tập khởi. Nhờ nhiều lần áp dụng các đặc tướng vào giai đoạn tan rã (bhaṅga) của các hành và quán minh sát, bằng quán xả ly (paṭinissaggānupassanā), tức phương diện đoạn trừ phiền não bằng cách thay thế từng phần và hướng đến Niết-bàn bằng sự hướng tâm về đó, giải thoát tâm khỏi sự chấp các hành là thường v.v. Khi có thể thở như vậy, gọi là thở trong khi giải thoát tâm khỏi các pháp đối nghịch. Hãy tập, nỗ lực và tu tập nhiều để có thể thở như vậy. (Vism. 1, 281.)
+
+**EN**
+The meditator breathes while liberating the mind: by contemplation of impermanence (aniccānupassanā), from the perception of permanence. By contemplation of suffering (dukkhānupassanā), from the perception of pleasure. By contemplation of non-self (anattānupassanā), from the perception of self. As a result of applying the three characteristics and contemplating with insight in this way, by contemplation of disenchantment (nibbidānupassanā), the aspect of becoming disenchanted with and withdrawing from formations, the meditator is freed from delighting in formations and joyfully taking pleasure in them. By repeatedly applying the characteristics and contemplating the phase of dissolution (bhaṅga) of formations, through contemplation of dispassion (virāgānupassanā), the aspect of no longer being infatuated with formations, the meditator is freed from craving that clings to formations. By contemplation of cessation (nirodhānupassanā), contemplating the phase of cessation of formations, the meditator is freed from origination. By repeatedly applying the characteristics to the phase of dissolution (bhaṅga) of formations and contemplating with insight, through contemplation of relinquishment (paṭinissaggānupassanā), the aspect of abandoning defilements by substitution of opposites and inclining to Nibbāna by turning towards it, the meditator liberates the mind from clinging to formations as permanent and so forth. When one can breathe in this way, it is called breathing while liberating the mind from opposing phenomena. Train, strive and practise repeatedly so as to be able to breathe in this way. (Vism. 1, 281.)
+
+**VI**
+Hãy hiểu rằng Đức Phật đã dạy bộ bốn thứ ba này theo phương diện quán tâm (cittānupassanā). (Vism. 1, 281.)
+
+**EN**
+Understand that the Buddha taught this third tetrad by way of contemplation of consciousness (cittānupassanā). (Vism. 1, 281.)
+
+
+<a id="M09-body-P193"></a>
+## Niệm hơi thở — Bộ bốn thứ tư / Mindfulness of breathing — Fourth tetrad
+Miến / Burmese 193
+
+**VI**
+1. “Aniccānupassī assasissāmī”ti sikkhati. “Aniccānupassī passasissāmī”ti sikkhati. 2. Virāgānupassī, pe. 3. Nirodhānupassī, pe. 4. Paṭinissaggānupassī, pe.
+
+**EN**
+1. “Aniccānupassī assasissāmī”ti sikkhati. “Aniccānupassī passasissāmī”ti sikkhati. 2. Virāgānupassī, pe. 3. Nirodhānupassī, pe. 4. Paṭinissaggānupassī, pe.
+
+**VI**
+1. Tập như sau: «Tôi sẽ thở vào trong khi thường xuyên quán đi quán lại các hành là vô thường». Tập như sau: «Tôi sẽ thở ra trong khi thường xuyên quán đi quán lại các hành là vô thường».
+
+**EN**
+1. One trains: “I will breathe in while repeatedly contemplating formations as impermanent.” One trains: “I will breathe out while repeatedly contemplating formations as impermanent.”
+
+**VI**
+2. Thường xuyên quán đi quán lại giai đoạn tan rã của các hành và Niết-bàn, nơi ly tham, tức quán ly tham (virāgānupassanā). Pe.
+
+**EN**
+2. Repeatedly contemplating the phase of dissolution of formations and Nibbāna, where there is dispassion, that is, contemplation of dispassion (virāgānupassanā). Pe.
+
+**VI**
+3. Thường xuyên quán đi quán lại sự chấm dứt của các hành trong từng sát-na, tức giai đoạn tan rã trong từng sát-na, và Niết-bàn, nơi chấm dứt, tức quán diệt (nirodhānupassanā). Pe.
+
+**EN**
+3. Repeatedly contemplating the momentary cessation of formations, the phase of dissolution in each moment, and Nibbāna, where there is cessation, that is, contemplation of cessation (nirodhānupassanā). Pe.
+
+**VI**
+4. Tuệ minh sát có thể xả bỏ phiền não bằng cách thay thế từng phần. Tuệ Thánh đạo có thể xả bỏ phiền não dứt hẳn bằng cách đoạn tận. Tập như sau: «Tôi sẽ thở vào, thường xuyên quán đi quán lại giai đoạn tan rã của các hành và Niết-bàn, nơi các hành chấm dứt và được xả bỏ, để thành tựu hai tuệ ấy». Pe. Tập như vậy với hơi thở ra. (Saṃ. 3, 279. Vi. 1, 78.)
+
+**EN**
+4. Insight knowledge can relinquish defilements by substitution of opposites. Noble path knowledge can relinquish defilements permanently by eradication. One trains: “I will breathe in while repeatedly contemplating the phase of dissolution of formations and Nibbāna, where formations cease and are relinquished, so as to fulfil those two kinds of knowledge.” Pe. One trains likewise with the out-breath. (Saṃ. 3, 279. Vi. 1, 78.)
+
+**VI**
+Aniccanti pañcakkhandhā. (Vism. 1, 281.)
+
+**EN**
+Aniccanti pañcakkhandhā. (Vism. 1, 281.)
+
+**VI**
+1. Năm uẩn bị chấp thủ, cùng với các nhân của chúng, hiện hữu dưới mười một phương diện là quá khứ, tương lai, hiện tại, bên trong, bên ngoài, thô, tế, thấp kém, cao quý, xa và gần,
+
+**EN**
+1. The five aggregates subject to clinging, together with their causes, are present under eleven aspects: past, future, present, internal, external, gross, subtle, inferior, superior, far and near,
+
+
+<a id="M09-body-P194"></a>
+## Quán vô thường, ly tham, diệt và xả ly / Contemplations of impermanence, dispassion, cessation and relinquishment
+Miến / Burmese 194
+
+**VI**
+là các pháp vô thường. Năm uẩn ấy bao gồm các pháp danh của thiền và các hành tạp (pakiṇṇakasaṅkhāra), tức các hành của danh, sắc và pháp gọi là những hành được kết hợp. Theo cách giảng về các sự thật, đó chính là các pháp thuộc khổ đế và tập đế. Tuệ minh sát thường xuyên quán đi quán lại các hành ấy là vô thường gọi là tuệ quán vô thường. Hãy thở trong khi đầy đủ tuệ quán vô thường ấy, tức hãy tập để có thể thở như vậy.
+
+**EN**
+and are impermanent phenomena. Those five aggregates comprise jhāna mental phenomena and miscellaneous formations (pakiṇṇakasaṅkhāra), formations of mentality, materiality and phenomena called compounded formations. In terms of the teaching on the truths, these are the phenomena of the truths of suffering and its origin. The insight knowledge that repeatedly contemplates those formations as impermanent is called the knowledge of contemplation of impermanence. Breathe while endowed with that knowledge of contemplation of impermanence, that is, train so as to be able to breathe in this way.
+
+**VI**
+2–3–4. Những tuệ minh sát bậc cao, bắt đầu bằng tuệ quán tan rã, có thể làm cho phiền não phai đi, chấm dứt và được xả bỏ bằng cách thay thế từng phần. Chúng cũng có thể hướng về và đi vào chiều hướng Niết-bàn, vì có thể nghiêng về Niết-bàn. Do vậy chúng được gọi là tuệ quán ly tham, tuệ quán diệt và tuệ quán xả ly.
+
+**EN**
+2–3–4. The higher insight knowledges, beginning with knowledge of contemplation of dissolution, can make defilements fade, cease and be relinquished by substitution of opposites. They also turn towards and enter upon the direction of Nibbāna, because they incline to Nibbāna. Hence they are called knowledge of contemplation of dispassion, knowledge of contemplation of cessation and knowledge of contemplation of relinquishment.
+
+**VI**
+Tuệ Thánh đạo làm cho phiền não phai đi, chấm dứt và được xả bỏ dứt hẳn bằng cách đoạn tận. Vì lấy Niết-bàn làm cảnh nên tuệ ấy cũng hướng về và đi vào chiều hướng Niết-bàn. Do vậy, tuệ ấy cũng được gọi là tuệ quán ly tham, tuệ quán diệt và tuệ quán xả ly.
+
+**EN**
+Noble path knowledge makes defilements fade, cease and be relinquished permanently by eradication. Since it takes Nibbāna as object, it also turns towards and enters upon the direction of Nibbāna. Thus it too is called knowledge of contemplation of dispassion, knowledge of contemplation of cessation and knowledge of contemplation of relinquishment.
+
+**VI**
+Hãy thở trong khi thành tựu tuệ quán ly tham, tuệ quán diệt và tuệ quán xả ly ấy. Nghĩa là, hãy thở trong khi quán minh sát, lấy sự tan rã của các hành làm cảnh. Hãy thở trong khi lấy Niết-bàn, nơi các hành chấm dứt, làm cảnh. Hãy tập để có thể thở như vậy. (Xem Vism. 1, 281–282.)
+
+**EN**
+Breathe while fulfilling those knowledges of contemplation of dispassion, of cessation and of relinquishment. That is, breathe while contemplating with insight, taking the dissolution of formations as object. Breathe while taking as object Nibbāna, where formations cease. Train so as to be able to breathe in this way. (See Vism. 1, 281–282.)
+
+
+<a id="M09-body-P195"></a>
+## Phạm vi thực hành của bốn bộ bốn / The scope of practice of the four tetrads
+Miến / Burmese 195
+
+**VI**
+Đức Phật đã dạy bộ bốn niệm hơi thở thứ tư này theo phương diện thuần minh sát. Ba bộ bốn trước được Đức Phật dạy theo phương diện thiền chỉ và minh sát. (Vism. 1, 282.)
+
+**EN**
+The Buddha taught this fourth tetrad of mindfulness of breathing by way of pure insight. He taught the preceding three tetrads by way of serenity and insight. (Vism. 1, 282.)
+
+**VI**
+Yasmā panettha ādimeva catukkaṃ ādikammikassa kammaṭṭhānavasena vuttaṃ, uttarāni pana tīṇi catukkāni ettha pattajjhānassa vedanācittadhammānupassanāvasena vuttāni. (Vism. 1, 269.)
+
+**EN**
+Yasmā panettha ādimeva catukkaṃ ādikammikassa kammaṭṭhānavasena vuttaṃ, uttarāni pana tīṇi catukkāni ettha pattajjhānassa vedanācittadhammānupassanāvasena vuttāni. (Vism. 1, 269.)
+
+**VI**
+Đức Phật dạy bộ bốn thứ nhất theo phương diện đề mục thiền chỉ cho người mới bắt đầu thực hành đề mục niệm hơi thở. Đó chính là niệm xứ quán thân. Đối với người hành thiền đã đạt thiền trong bộ bốn thứ nhất này, Đức Phật dạy ba bộ bốn là bộ thứ hai, thứ ba và thứ tư theo phương diện niệm xứ quán thọ, niệm xứ quán tâm và niệm xứ quán pháp. (Vism. 1, 269.)
+
+**EN**
+The Buddha taught the first tetrad by way of a serenity meditation subject for a beginner practising the meditation subject of mindfulness of breathing. This is the establishment of mindfulness through contemplation of the body. For a meditator who has attained jhāna in this first tetrad, the Buddha taught the three tetrads, the second, third and fourth, by way of the establishments of mindfulness through contemplation of feeling, of mind and of phenomena. (Vism. 1, 269.)
+
+**VI**
+Theo các giải thích này của Chú giải, phải nỗ lực đạt thiền trong bộ bốn thứ nhất rồi mới tuần tự chuyển sang bộ bốn thứ hai, bộ bốn thứ ba và bộ bốn thứ tư. Trong bộ bốn thứ tư, Đức Phật chỉ dẫn quán minh sát cả các hành danh sắc gọi là các hành tạp (pakiṇṇakasaṅkhāra), ngoài các pháp danh của thiền. Vì thế, các thiện nhân hãy quán minh sát tất cả các hành gọi là khổ đế và tập đế.
+
+**EN**
+According to these explanations in the commentary, one must strive to attain jhāna in the first tetrad before progressing in succession to the second, third and fourth tetrads. In the fourth tetrad the Buddha instructs one to contemplate with insight the formations of mentality and materiality called miscellaneous formations (pakiṇṇakasaṅkhāra), in addition to the jhāna mental phenomena. Therefore, good people, contemplate with insight all the formations called the truths of suffering and its origin.
+
+**VI**
+Đối với đề mục niệm hơi thở này, trong bốn bộ bốn như Đức Phật đã dạy, có mười sáu cách cho hơi thở vào và mười sáu cách cho hơi thở ra. Khi có thể thực hành đầy đủ cả ba mươi hai phương diện này,
+
+**EN**
+In this meditation subject of mindfulness of breathing, the four tetrads as taught by the Buddha comprise sixteen modes for the in-breath and sixteen for the out-breath. When one can fully practise all these thirty-two aspects,
+
+
+<a id="M09-body-P196"></a>
+## Lợi ích của niệm hơi thở / Benefits of Mindfulness of Breathing
+Miến / Burmese 196
+
+**VI**
+nếu biết cách thở như Đức Phật đã dạy, có thể đạt được những lợi ích sau.
+
+**EN**
+if one knows how to breathe as the Buddha taught, one can obtain the following benefits.
+
+**VI**
+Lợi ích và công đức. Ānāpānassati, bhikkhave, bhāvitā bahulīkatā cattāro satipaṭṭhāne paripūreti. Cattāro satipaṭṭhānā bhāvitā bahulīkatā satta bojjhaṅge paripūrenti. Satta bojjhaṅgā bhāvitā bahulīkatā vijjāvimuttiṃ paripūrenti. (Ma. 3.124.)
+
+**EN**
+Benefits and merits. Ānāpānassati, bhikkhave, bhāvitā bahulīkatā cattāro satipaṭṭhāne paripūreti. Cattāro satipaṭṭhānā bhāvitā bahulīkatā satta bojjhaṅge paripūrenti. Satta bojjhaṅgā bhāvitā bahulīkatā vijjāvimuttiṃ paripūrenti. (Ma. 3.124.)
+
+**VI**
+Này các tỳ-khưu… Niệm hơi thở, được tu tập đầy đủ theo 32 phương diện và thực hành nhiều lần, làm viên mãn bốn niệm xứ. Bốn niệm xứ, được tu tập đầy đủ và thực hành nhiều lần, làm viên mãn bảy giác chi cao quý. Bảy giác chi cao quý, được tu tập đầy đủ và thực hành nhiều lần, làm viên mãn hai pháp là minh và giải thoát: minh là bốn tuệ Thánh đạo, giải thoát là bốn tuệ Thánh quả. (Ma. 3.124.)
+
+**EN**
+Bhikkhus… Mindfulness of breathing, fully developed in thirty-two aspects and repeatedly practised, fulfills the four establishments of mindfulness. The four establishments of mindfulness, fully developed and repeatedly practised, fulfill the seven noble factors of awakening. The seven noble factors of awakening, fully developed and repeatedly practised, fulfill the two phenomena of true knowledge and liberation: true knowledge is the four noble path knowledges, and liberation is the four noble fruition knowledges. (Ma. 3.124.)
+
+**VI**
+Mong thiện nhân nỗ lực tu tập và thực hành để trở thành người biết cách thở theo ý Đức Phật, bậc có lòng đại bi.
+
+**EN**
+May the good person strive to practise and develop so as to become a person who knows how to breathe in accordance with the intention of the Buddha, the one endowed with great compassion.
+
+**VI**
+Hết chương Tuệ hoại diệt (bhaṅgañāṇa).
+
+**EN**
+End of the chapter on Knowledge of Dissolution (bhaṅgañāṇa).
+
+
+<a id="M09-body-P197"></a>
+## Từ tuệ hiện khởi là đáng sợ đến tuệ hành xả / From Knowledge of Fearfulness to Equanimity About Formations
+Miến / Burmese 197
+
+**VI**
+Hành giả nhiều lần tu tập tuệ quán hoại diệt, lấy sự diệt từng sát-na (khaṇikanirodha), tức sự tan rã và biến mất hoàn toàn của mọi pháp hành hiệp thế thuộc ba cõi, trong quá khứ, vị lai, hiện tại, nội và ngoại, làm cảnh. Khi tuệ quán hoại diệt đã đạt mức cao nhất, thấy sự hoại diệt của các pháp hành liên tục và rõ ràng, cả các pháp hành trong dòng tương tục của hành giả lẫn sự sinh khởi của những pháp ấy trong ba cõi đều hiện ra như bị sự hoại diệt không ngừng bức bách, gây khổ và nguy hại. Bởi tính khổ ấy hiện quá rõ, ngay cả các cõi sắc và vô sắc vốn được cho là an tĩnh, an lạc cũng hiện ra với tính khổ đáng sợ. Trí ấy là tuệ hiện khởi là đáng sợ (bhayatupaṭṭhānañāṇa).
+
+**EN**
+The meditator repeatedly develops knowledge contemplating dissolution, taking as its object momentary cessation (khaṇikanirodha), the complete breaking up and disappearance of all mundane formations of the three planes, past, future, and present, internal and external. When that knowledge has reached its highest development, seeing the dissolution of formations continuously and distinctly, both formations in the meditator’s continuity and the arising of those formations throughout the three planes appear oppressed, afflicted, and endangered by incessant dissolution. Because this suffering is so apparent, even the fine-material and immaterial planes, which are considered peaceful and pleasant, appear with a frightening nature of suffering. This is knowledge of appearance as fearful (bhayatupaṭṭhānañāṇa).
+
+**VI**
+Lại nữa, tuệ minh sát nhiều lần thấy các khuyết điểm của các pháp hành trong ba thời, hai dòng tương tục và ba cõi, tức tính vô thường, khổ, vô ngã, biến đổi và hoại diệt. Trí ấy là tuệ quán nguy hại (ādīnavānupassanāñāṇa).
+
+**EN**
+Furthermore, insight knowledge repeatedly sees the defects of formations in the three periods, the two continuities, and the three planes: impermanence, suffering, non-self, alteration, and dissolution. This is knowledge contemplating danger (ādīnavānupassanāñāṇa).
+
+
+<a id="M09-body-P198"></a>
+## Tuệ quán nhàm chán, tuệ muốn thoát khỏi và tuệ quán xét lại / Disenchantment, Desire for Deliverance, and Re-observation
+Miến / Burmese 198
+
+**VI**
+Khi nhiều lần thấy những khuyết điểm như thế, tuệ minh sát sinh khởi với sự chán lìa mọi pháp hành trong ba thời và ba cõi. Trí ấy là tuệ quán nhàm chán (nibbidānupassanāñāṇa).
+
+**EN**
+When these defects have been seen repeatedly, insight knowledge arises with disenchantment towards all formations in the three periods and three planes. This is knowledge contemplating disenchantment (nibbidānupassanāñāṇa).
+
+**VI**
+Trong dòng tâm của người nam hay người nữ hành thiền đã chán lìa như thế, không còn vui thích dù chỉ một pháp hành trong các pháp hành thuộc ba thời và ba cõi. Họ muốn thoát khỏi tất cả các pháp hành. Tuệ minh sát sinh với tâm muốn thoát khỏi mọi pháp hành ấy là tuệ muốn thoát khỏi (muñcitukamyatāñāṇa).
+
+**EN**
+In the mental continuity of a man or woman meditating who has thus become disenchanted, there is no longer delight in even a single formation among the formations of the three periods and three planes. They wish to escape from all formations. Insight knowledge arising with that desire to escape from all formations is knowledge of desire for deliverance (muñcitukamyatāñāṇa).
+
+**VI**
+Với tâm muốn thoát khỏi mọi pháp hành, lại dùng tuệ minh sát phân biệt và nhận diện tất cả các pháp hành, quán chúng là vô thường, quán là khổ, quán là vô ngã, quán là bất tịnh. Tuệ minh sát quán như thế là tuệ quán xét lại (paṭisaṅkhānupassanāñāṇa). Ở giai đoạn này cũng có thể quán lại theo bốn mươi cách tu, tức bốn mươi cách quán theo đuôi -to, đã trình bày ở phần Tuệ quán theo nhóm. (Xem Visuddhimagga về các cách quán khác.)
+
+**EN**
+With the mind wishing to escape from all formations, again distinguish and discern all formations with insight knowledge, contemplating them as impermanent, contemplating them as suffering, contemplating them as non-self, and contemplating them as foul. Insight knowledge contemplating in this way is knowledge of re-observation (paṭisaṅkhānupassanāñāṇa). At this stage one may again contemplate using the forty modes of development, the forty modes of contemplation in -to, presented in the section on comprehension knowledge. (See the Visuddhimagga for other modes of contemplation.)
+
+**VI**
+Khi đã phân biệt và nhiều lần quán minh sát các pháp hành trong ba thời và ba cõi, luân phiên nội và ngoại, sắc và danh, nhân và quả, vô thường, khổ, vô ngã và bất tịnh, thì sự hoại diệt của các pháp hành ấy hiện rõ và hết sức nhanh chóng trong tuệ minh sát…
+
+**EN**
+When the formations of the three periods and three planes have been distinguished and repeatedly contemplated with insight, alternating internal and external, materiality and mentality, cause and effect, impermanence, suffering, non-self, and foulness, the dissolution of those formations appears very clearly and extremely rapidly to insight knowledge…
+
+
+<a id="M09-body-P199"></a>
+## Tâm minh sát an trú trên sự hoại diệt / Insight Consciousness Settles on Dissolution
+Miến / Burmese 199
+
+**VI**
+…Sự hoại diệt dường như dày đặc hơn. Hãy tiếp tục quán minh sát chính tính hoại diệt ấy, luân phiên đặt dưới ba đặc tướng.
+
+**EN**
+…The dissolutions appear to come thick and fast. Continue contemplating that very dissolution with insight, applying the three characteristics in turn.
+
+**VI**
+Khi có thể quán như thế, dần dần tâm tu tập minh sát đạt đến mức quân bình và thản nhiên đối với các pháp hành, không còn lo sợ hay mong mỏi chúng. Tâm tu tập minh sát an trú vững vàng trên cảnh hoại diệt của chính các pháp hành ấy.
+
+**EN**
+When one can contemplate in this way, the mind developing insight gradually reaches a stage of balance and equanimity regarding formations, with neither fear nor longing for them. The mind developing insight settles firmly on the dissolution of those very formations as its object.
+
+**VI**
+Khi tâm tu tập đã vững, các lộ tâm ngũ môn nhận biết năm cảnh là sắc, thanh, hương, vị và xúc không còn sinh. Phía các danh pháp làm cảnh và phía tuệ minh sát đang quán đều thường chỉ còn các lộ tốc hành qua ý môn. Lúc ấy:
+
+**EN**
+When the meditating mind has become steady, the five-door cognitive processes that know the five objects, visible form, sound, odor, taste, and touch, no longer occur. On both the side of the mental phenomena taken as object and the side of the contemplating insight knowledge, usually only the mind-door impulsion processes occur. At that time:
+
+**VI**
+Trong khi quán minh sát luân phiên nội và ngoại, sắc và danh, và lần lượt áp dụng ba đặc tướng:
+
+**EN**
+While contemplating with insight, alternating internal and external, materiality and mentality, and applying the three characteristics in turn:
+
+**VI**
+Nếu khi quán nội mà tâm tu tập minh sát an trú vững trên cảnh các pháp hành nội, hãy tiếp tục chỉ quán các pháp hành nội. Nếu khi quán ngoại mà tâm tu tập minh sát an trú vững trên cảnh các pháp hành ngoại, hãy tiếp tục chỉ quán các pháp hành ngoại. Nếu cứ đổi qua đổi lại giữa nội và ngoại, định minh sát có thể tan mất.
+
+**EN**
+If, while contemplating internally, the insight meditation consciousness settles firmly on internal formations, continue contemplating only internal formations. If, while contemplating externally, the insight meditation consciousness settles firmly on external formations, continue contemplating only external formations. If one keeps switching back and forth between internal and external, insight concentration can dissipate.
+
+**VI**
+Cũng vậy, nếu khi quán minh sát sắc pháp, tâm tu tập minh sát an trú trên các sắc hành ấy, tức cảnh hoại diệt của các sắc hành ấy…
+
+**EN**
+Likewise, if, while contemplating material phenomena with insight, the insight meditation consciousness settles on those material formations, that is, on the dissolution of those material formations as its object…
+
+
+<a id="M09-body-P200"></a>
+## Con đường cần đi với niệm vững mạnh / The Course to Follow With Strong Mindfulness
+Miến / Burmese 200
+
+**VI**
+…hãy tiếp tục quán minh sát chính các sắc pháp ấy. Nếu khi quán minh sát danh pháp, tâm tu tập minh sát an trú vững trên các danh hành ấy, tức cảnh hoại diệt của các danh hành ấy, hãy tiếp tục quán minh sát chính các danh pháp ấy. Nếu lúc này cứ đổi qua đổi lại giữa sắc và danh, định minh sát có thể tan mất.
+
+**EN**
+…continue contemplating those very material phenomena with insight. If, while contemplating mental phenomena with insight, the insight meditation consciousness settles firmly on those mental formations, that is, on the dissolution of those mental formations as its object, continue contemplating those very mental phenomena with insight. If at this point one keeps switching back and forth between materiality and mentality, insight concentration can dissipate.
+
+**VI**
+Ở giai đoạn này cần đặc biệt nỗ lực với niệm để cân bằng tín với tuệ và tinh tấn với định. Chỉ khi năm căn là tín, tinh tấn, niệm, định và tuệ quân bình mới có thể đạt đến tuệ Thánh đạo và tuệ Thánh quả.
+
+**EN**
+At this stage one should make a special effort with mindfulness to balance confidence with wisdom and energy with concentration. Only when the five faculties of confidence, energy, mindfulness, concentration, and wisdom are balanced can one reach noble path knowledge and noble fruition knowledge.
+
+**VI**
+Khi đang lấy sự hoại diệt của danh pháp làm cảnh và quán minh sát bằng cách luân phiên đặt dưới ba đặc tướng, nếu chưa đạt xả quân bình đối với sự hoại diệt của các pháp hành, dù cách quán đã thành thục từ một lúc trước, hãy ưu tiên quán danh pháp thuộc tốc hành thiện dục giới. Nếu thiện nhân là người lấy thiền chỉ làm cỗ xe, ở giai đoạn này có thể ưu tiên quán danh pháp thuộc thiền, tức các pháp thiền thiện trong tâm nhập thiền. Trong ba đặc tướng, đặc biệt ưu tiên đặt chúng dưới đặc tướng vô ngã mà quán minh sát.
+
+**EN**
+When taking the dissolution of mental phenomena as object and contemplating with insight by applying the three characteristics in turn, if balanced equanimity towards the dissolution of formations has yet to be reached, though the mode of contemplation has been familiar for some time, give priority to contemplating mental phenomena of sense-sphere wholesome impulsion. If the good person takes serenity as their vehicle, at this stage they may give priority to contemplating the jhāna mental phenomena, the wholesome jhāna phenomena in the consciousness of a jhāna attainment. Of the three characteristics, give special priority to applying non-self in insight contemplation.
+
+**VI**
+Trong khi quán như thế, tâm tu tập minh sát sẽ an trú vững trên cảnh hoại diệt của các pháp hành. Khi ấy…
+
+**EN**
+As one contemplates in this way, the insight meditation consciousness will settle firmly on the dissolution of formations as its object. At that time…
+
+
+<a id="M09-body-P201"></a>
+## Ưu tiên cảnh và đặc tướng thấy rõ / Prioritizing the Object and Characteristic Seen Clearly
+Miến / Burmese 201
+
+**VI**
+…hành giả không còn nghe tiếng động bên ngoài. Khi không còn nghe tiếng động, nếu tâm tu tập minh sát an trú vững vàng, bất động trên cảnh hoại diệt của các pháp hành, thì sức tu tập minh sát đã trở nên đặc biệt mạnh.
+
+**EN**
+…the meditator no longer hears external sounds. When sounds are no longer heard and the insight meditation consciousness settles firmly and immovably on the dissolution of formations, the power of insight meditation has become especially strong.
+
+**VI**
+Ở giai đoạn ấy, như đã giải thích trên, hãy quán thử lúc nội, lúc ngoại. Nếu tâm tu tập vững ở nội, hãy quán nội. Nếu tâm tu tập vững ở ngoại, hãy quán ngoại. Nếu tâm tu tập vững nơi sắc pháp, hãy quán sắc pháp. Nếu tâm tu tập vững nơi danh pháp, hãy quán danh pháp. Hãy ưu tiên đặc tướng mình thích hợp.
+
+**EN**
+At that stage, as explained above, try contemplating now internally, now externally. If the meditating mind is steady internally, contemplate internally. If it is steady externally, contemplate externally. If the meditating mind is steady with material phenomena, contemplate material phenomena. If it is steady with mental phenomena, contemplate mental phenomena. Give priority to the characteristic that suits you.
+
+**VI**
+Khi quán như thế, một số hành giả thích quán cả danh và sắc cùng nhau hơn. Một số thích quán riêng sắc hơn. Một số thích quán riêng danh hơn. Một số thích quán là vô thường hơn, một số thích quán là khổ hơn, và một số thích quán là vô ngã hơn.
+
+**EN**
+When contemplating in this way, some meditators prefer to contemplate both mentality and materiality together. Some prefer to contemplate materiality alone. Some prefer to contemplate mentality alone. Some prefer contemplating as impermanent, some prefer contemplating as suffering, and some prefer contemplating as non-self.
+
+**VI**
+Hãy quán các pháp hành mình quán rõ hơn và áp dụng đặc tướng thấy rõ hơn để quán minh sát. Khi quán như thế, một số hành giả có thể hoàn toàn không thấy sự hoại diệt của sắc pháp mà chỉ thấy sự hoại diệt của danh pháp. Khi ấy, chỉ cần đặt sự hoại diệt của danh pháp dưới đặc tướng mà quán. Đừng cố tìm sự hoại diệt của sắc pháp chưa thấy để quán.
+
+**EN**
+Contemplate the formations you see more clearly and apply the characteristic you see more clearly in insight contemplation. In practising this way, some meditators may no longer see the dissolution of material phenomena at all and may see only the dissolution of mental phenomena. At that point, simply apply the characteristic to the dissolution of mental phenomena and contemplate it. Do not make a special search for the unseen dissolution of material phenomena to contemplate.
+
+
+<a id="M09-body-P202"></a>
+## Quán danh pháp và thành tựu xả / Contemplating Mental Phenomena and Attaining Equanimity
+Miến / Burmese 202
+
+**VI**
+Lúc ấy, đối với người lấy thuần minh sát làm cỗ xe, các danh pháp đang diệt thường chỉ là các lộ tốc hành qua ý môn đang quán minh sát và các tâm hữu phần. Hãy dùng tâm sau quán tâm trước, tức dùng tâm minh sát sau quán tâm minh sát trước.
+
+**EN**
+At that time, for one who takes bare insight as their vehicle, the dissolving mental phenomena usually consist of only the mind-door impulsion processes practising insight and the life-continuum consciousnesses. Contemplate the preceding consciousness with the subsequent consciousness, that is, contemplate the preceding insight consciousness with the subsequent insight consciousness.
+
+**VI**
+Nếu là người lấy thiền chỉ làm cỗ xe, các danh pháp đang diệt thường chỉ gồm các danh pháp trong tâm nhập thiền và nhóm danh pháp thuộc tốc hành minh sát. Lúc ấy hãy tiếp tục nhiều lần đặt dưới đặc tướng và quán minh sát cả các danh pháp thiền đang được ưu tiên quán lẫn các danh pháp tốc hành minh sát đang quán. Ở giai đoạn này, người lấy thiền chỉ làm cỗ xe thường tiến triển tốt hơn nếu quán danh pháp thiền mình ưa thích và ưu tiên đặc tướng vô ngã.
+
+**EN**
+For one who takes serenity as their vehicle, the dissolving mental phenomena usually consist of only the mental phenomena in the jhāna attainment consciousness and the group of mental phenomena of insight impulsion. At that time continue repeatedly applying the characteristics and contemplating with insight both the jhāna mental phenomena given priority as objects and the mental phenomena of the insight impulsion that contemplates them. At this stage one who takes serenity as their vehicle often does better by contemplating the jhāna mental phenomena they prefer and giving priority to the characteristic of non-self.
+
+**VI**
+Một số hành giả vẫn thấy sự hoại diệt của cả danh và sắc. Khi ấy, dù quán luân phiên sắc và danh hay quán cả hai cùng nhau, chỉ lấy sự hoại diệt làm cảnh và tiếp tục quán minh sát, ưu tiên đặc tướng mình thích hợp. Thỉnh thoảng cũng quay lại quán minh sát chính trí đang quán.
+
+**EN**
+Some meditators still see the dissolution of both mentality and materiality. At that time, whether contemplating materiality and mentality in turn or together, take only dissolution as object and continue insight contemplation, giving priority to the characteristic that suits you. Occasionally turn back and contemplate with insight the very knowledge that is doing the contemplating.
+
+**VI**
+Khi quán minh sát theo nhiều cách như thế, xả quân bình đối với các pháp hành trong ba cõi dục, sắc và vô sắc sẽ an trú vững vàng. Tính ghê tởm, bất tịnh của các pháp hành cũng hiện rõ vững vàng.
+
+**EN**
+When insight is practised in these various ways, balanced equanimity regarding formations in the three planes, sense-sphere, fine-material, and immaterial, becomes firmly established. The repulsive and foul nature of formations likewise becomes firmly established.
+
+**VI**
+Bhayañca nandiñca vippahāya sabbasaṅkhāresu udāsīno hoti majjhatto. (Visuddhi. 2.294.)
+
+**EN**
+Bhayañca nandiñca vippahāya sabbasaṅkhāresu udāsīno hoti majjhatto. (Visuddhi. 2.294.)
+
+
+<a id="M09-body-P203"></a>
+## Tuệ hành xả / Knowledge of Equanimity About Formations
+Miến / Burmese 203
+
+**VI**
+Do thấy rõ khuyết điểm của các pháp hành, hành giả muốn thoát khỏi chúng. Khi đang quán minh sát bằng cách đặt sự hoại diệt của các pháp hành dưới từng đặc tướng, hành giả không còn thấy một pháp hành nào có thể chấp là “ta, của ta”. Do đó:
+
+**EN**
+Seeing the defects of formations clearly, the meditator wishes to escape from them. While contemplating with insight by applying each characteristic to the dissolution of formations, the meditator sees no formation that can be grasped as “I” or “mine.” Therefore:
+
+**VI**
+1. Từ bỏ một cực đoan là sợ hãi các pháp hành (bhaya).
+
+**EN**
+1. One abandons the extreme of fear of formations (bhaya).
+
+**VI**
+2. Từ bỏ một cực đoan là thích thú và mong cầu các pháp hành (nandi).
+
+**EN**
+2. One abandons the extreme of delight in and longing for formations (nandi).
+
+**VI**
+Sau khi bỏ hai cực đoan này, sự thản nhiên và quân bình đối với tất cả các pháp hành xuất hiện. Trí này của hành giả là tuệ hành xả (saṅkhārupekkhāñāṇa).
+
+**EN**
+After these two extremes are abandoned, impartiality and balance towards all formations arise. This knowledge of the meditator is knowledge of equanimity about formations (saṅkhārupekkhāñāṇa).
+
+**VI**
+Hết chương Tuệ hành xả.
+
+**EN**
+End of the chapter on Knowledge of Equanimity About Formations.
+
+
+<a id="M09-body-P204"></a>
+## Tiến đến Tri kiến thanh tịnh / Towards Purification by Knowledge and Vision
+Miến / Burmese 204
+
+**VI**
+Tiến đến Tri kiến thanh tịnh (ñāṇadassanavisuddhi)
+
+**EN**
+Towards Purification by Knowledge and Vision (ñāṇadassanavisuddhi)
+
+
+<a id="M09-body-P205"></a>
+## Từ tuệ hành xả đến tuệ Thánh đạo / From Equanimity About Formations to Noble Path Knowledge
+Miến / Burmese 205
+
+**VI**
+Tiến đến Tri kiến thanh tịnh. Từ tuệ hành xả đến tuệ Thánh đạo.
+
+**EN**
+Towards Purification by Knowledge and Vision. From equanimity about formations to noble path knowledge.
+
+**VI**
+Khi tuệ hành xả chín muồi và thật sự biết được pháp cao quý Nibbāna là tịch tịnh, là giới không sinh không diệt vì vắng bặt các pháp hành danh sắc, tâm buông bỏ tính sinh khởi của mọi pháp hành, không còn thấy sự hoại diệt của chúng và hướng thẳng vào Nibbāna, giới tịch tịnh, nơi các pháp hành vắng bặt và lắng dịu, không sinh không diệt. (Visuddhi. 2.294.)
+
+**EN**
+When knowledge of equanimity about formations matures and actually knows the noble reality of Nibbāna as peace, as the element that neither arises nor passes away because it is free of mental and material formations, the mind relinquishes the arising of all formations, no longer sees their dissolution, and rushes into Nibbāna alone, the peaceful element where formations are absent and stilled, where there is no arising or passing away. (Visuddhi. 2.294.)
+
+**VI**
+Bao lâu tuệ hành xả chưa thực sự thấy pháp cao quý Nibbāna, giới tịch diệt, theo tính an tịnh (santisukha), tức an lạc tịch tịnh, thì tuệ hành xả chưa chín muồi. Trong lúc ấy chỉ các pháp hành còn là cảnh, nghĩa là trí vẫn chỉ sinh khởi khi lấy sự hoại diệt của các pháp hành làm cảnh. (Visuddhi. 2.295.)
+
+**EN**
+As long as knowledge of equanimity about formations has yet to see the noble reality of Nibbāna, the element of cessation, in its peaceful nature (santisukha), the bliss of peace, equanimity about formations has yet to mature. In the meantime, only formations are its object. That is, the knowledge still occurs taking only the dissolution of formations as its object. (Visuddhi. 2.295.)
+
+**VI**
+Khi ấy, để tuệ hành xả chín muồi, hãy quán:
+
+**EN**
+At that time, for knowledge of equanimity about formations to mature, contemplate:
+
+**VI**
+1. Khi thì các sắc pháp.
+
+**EN**
+1. At times, material phenomena.
+
+**VI**
+2. Khi thì các danh pháp.
+
+**EN**
+2. At times, mental phenomena.
+
+**VI**
+3. Khi thì nội.
+
+**EN**
+3. At times, internally.
+
+**VI**
+4. Khi thì ngoại.
+
+**EN**
+4. At times, externally.
+
+
+<a id="M09-body-P206"></a>
+## Làm chín muồi tuệ hành xả / Maturing Equanimity About Formations
+Miến / Burmese 206
+
+**VI**
+5. Khi thì đặt dưới đặc tướng vô thường.
+
+**EN**
+5. At times, apply the characteristic of impermanence.
+
+**VI**
+6. Khi thì đặt dưới đặc tướng khổ.
+
+**EN**
+6. At times, apply the characteristic of suffering.
+
+**VI**
+7. Khi thì đặt dưới đặc tướng vô ngã. Hãy nhiều lần quán minh sát.
+
+**EN**
+7. At times, apply the characteristic of non-self. Contemplate repeatedly with insight.
+
+**VI**
+8. Khi thì các pháp làm nhân.
+
+**EN**
+8. At times, the phenomena that are causes.
+
+**VI**
+9. Khi thì các pháp làm quả. Cũng hãy nhiều lần quán minh sát, luân phiên đặt dưới ba đặc tướng. Quán tương tự đối với quá khứ và vị lai. Lại quán minh sát theo cách phân năm uẩn.
+
+**EN**
+9. At times, the phenomena that are effects. Here too, contemplate repeatedly with insight, applying the three characteristics in turn. Contemplate in the same way in the past and future. Again, contemplate with insight by way of the five aggregates.
+
+**VI**
+Nếu hành giả lấy thiền chỉ làm cỗ xe, hãy trở lại quán minh sát, ưu tiên các danh pháp trong thiền chứng mình ưa thích, và trong ba đặc tướng hãy ưu tiên đặc tướng vô ngã. Đặc biệt ưu tiên quán các danh pháp tứ thiền bằng cách đặt dưới đặc tướng vô ngã. Thỉnh thoảng cũng trở lại quán minh sát chính trí đang quán, tức danh pháp tốc hành minh sát. Khi tuệ hành xả đã chín muồi:
+
+**EN**
+If the meditator takes serenity as their vehicle, return to insight contemplation, giving priority to the mental phenomena in the jhāna attainment one prefers, and, among the three characteristics, giving priority to non-self. Give particular priority to contemplating the mental phenomena of the fourth jhāna by applying the characteristic of non-self. Occasionally also turn back and contemplate with insight the knowledge that is contemplating, namely the mental phenomena of insight impulsion. When knowledge of equanimity about formations has matured:
+
+**VI**
+1. Từ tính hoại diệt của các pháp hành gọi là pavatta, tức sự tiếp diễn,
+
+**EN**
+1. From the nature of dissolution of formations, called pavatta, occurrence,
+
+**VI**
+2. Trí sẽ chuyển sang tính không sinh không diệt, gọi là appavatta, tức sự không tiếp diễn.
+
+**EN**
+2. Knowledge will move on to the nature that neither arises nor passes away, called appavatta, non-occurrence.
+
+**VI**
+Nếu vẫn chưa thể đạt đến đó, hãy thử nỗ lực tu minh sát quán từng pháp (anupadadhamma-vipassanā). Chẳng hạn, hãy nhập sơ thiền. Khi xuất sơ thiền, nhận diện toàn bộ 34 danh pháp sơ thiền. Hãy quán minh sát từng danh pháp thiền bằng cách đặt từng pháp dưới một đặc tướng. Quán luân phiên nội và ngoại. Tương tự, đối với các tầng thiền đã đạt cho đến thiền phi tưởng phi phi tưởng xứ…
+
+**EN**
+If one still cannot reach that point, make an effort to develop insight into successive individual phenomena (anupadadhamma-vipassanā). For example, enter the first jhāna. On emerging, discern all thirty-four first-jhāna mental phenomena. Contemplate each jhāna mental phenomenon individually with insight by applying a characteristic. Contemplate internally and externally in turn. Likewise, with the jhānas one has attained up through the base of neither-perception-nor-non-perception…
+
+
+<a id="M09-body-P207"></a>
+## Quán từng pháp và thấy thế gian là trống không / Contemplating Phenomena Individually and Seeing the World as Empty
+Miến / Burmese 207
+
+**VI**
+…hãy quán minh sát các tầng thiền theo phương pháp quán từng pháp. Hãy quán đủ ba đặc tướng. Cũng hãy quán danh pháp dục giới và sắc pháp theo phương pháp minh sát quán từng pháp. Khi quán sắc pháp theo phương pháp này, hãy quán minh sát từng giới chân đế, bắt đầu từ địa giới, trong mỗi nhóm sắc, như nhóm mười sắc nhãn, bằng cách đặt từng pháp dưới một đặc tướng. Hãy quán minh sát từng sắc pháp có ở sáu môn và bốn mươi hai phần thân, không bỏ sót pháp nào. Quán luân phiên nội và ngoại.
+
+**EN**
+…contemplate the jhānas with insight using the method of contemplating successive individual phenomena. Contemplate all three characteristics. Contemplate both sense-sphere mental phenomena and material phenomena with insight using the method of contemplating successive individual phenomena. When contemplating material phenomena by this method, contemplate each ultimate element, starting with the earth element, in each material group, such as the eye decad, by applying a characteristic to each individual phenomenon. Contemplate with insight every material phenomenon present at the six doors and in the forty-two parts of the body, leaving none out. Contemplate internally and externally in turn.
+
+**VI**
+[Các vị đệ tử không thể quán minh sát từng danh pháp có trong thiền chứng phi tưởng phi phi tưởng xứ theo phương pháp quán từng pháp. Các vị chỉ có thể quán minh sát theo phương pháp thẩm sát theo nhóm (kalāpasammasana). Vì vậy, hãy bỏ qua tầng thiền ấy khi quán theo phương pháp quán từng pháp.]
+
+**EN**
+[Disciples cannot contemplate with insight the individual mental phenomena present in the attainment of the base of neither-perception-nor-non-perception by the method of contemplating successive individual phenomena. They can contemplate it with insight only by comprehension in groups (kalāpasammasana). Therefore, skip that jhāna when contemplating by the method of successive individual phenomena.]
+
+**VI**
+Cũng có thể đạt đến trí đạo và trí quả bằng phương pháp minh sát quán từng pháp này. Nếu vẫn chưa đạt, hãy trở lại quán minh sát theo phương pháp thẩm sát theo nhóm như đã nêu, bắt đầu từ tuệ quán theo nhóm đến tuệ hành xả. Có thể thành tựu tùy theo sức ba-la-mật.
+
+**EN**
+One can also reach path and fruition knowledge by this method of insight into successive individual phenomena. If one still has not reached them, return to insight contemplation by the method of comprehension in groups as explained above, from comprehension knowledge through equanimity about formations. Success is possible in accordance with the strength of one’s perfections.
+
+**VI**
+Hãy nhìn cho thấy sự trống không.
+
+**EN**
+Look so as to see emptiness.
+
+**VI**
+Suññato lokaṃ avekkhassu, Mogharāja sadā sato. Attānudiṭṭhiṃ ūhacca, evaṃ maccutaro siyā. Evaṃ lokaṃ avekkhantaṃ, maccurājā na passati. (Khu. 1.448.)
+
+**EN**
+Suññato lokaṃ avekkhassu, Mogharāja sadā sato. Attānudiṭṭhiṃ ūhacca, evaṃ maccutaro siyā. Evaṃ lokaṃ avekkhantaṃ, maccurājā na passati. (Khu. 1.448.)
+
+
+<a id="M09-body-P208"></a>
+## Người mà vua Chết không thể thấy / One Whom the King of Death Cannot See
+Miến / Burmese 208
+
+**VI**
+Mogharāja: Này thiện nam tử Mogharāja. Sadā: ban ngày hay ban đêm, bất cứ lúc nào, thường xuyên. Sato: có niệm vững vàng về bốn niệm xứ. Attānudiṭṭhiṃ: thân kiến (sakkāyadiṭṭhi), tức ngã kiến đã quen xem các pháp hành là tự ngã. Ūhacca: hãy nhổ bỏ bằng các tuệ minh sát như tuệ phân biệt danh sắc và tuệ phân biệt duyên. Lokaṃ: thế giới các pháp hành danh sắc. Suññato: theo tính trống không, không có cốt lõi thường, lạc, ngã hay tịnh. Avekkhassu: hãy dùng tuệ nhãn minh sát nhìn đi nhìn lại và tu tập thẩm sát. Evaṃ: khi đã tu tập thẩm sát theo cách ấy. Maccutaro: người có thể vượt qua vua Chết, kẻ cai trị ba mươi mốt cõi. Siyā: sẽ trở thành như vậy. Evaṃ: theo tính trống không như thế. Lokaṃ: thế giới các pháp hành danh sắc. Avekkhantaṃ: người đang dùng tuệ nhãn minh sát nhìn đi nhìn lại và tu tập thẩm sát. Maccurājā: vua Chết, kẻ cai trị ba mươi mốt cõi. Na passati: không bao giờ thấy được.
+
+**EN**
+Mogharāja: good man Mogharāja. Sadā: by day or by night, at any time, continually. Sato: endowed with steady mindfulness of the four establishments of mindfulness. Attānudiṭṭhiṃ: identity view (sakkāyadiṭṭhi), the view of self that has become accustomed to taking formations as self. Ūhacca: uproot it by insight knowledges such as the knowledge distinguishing mentality-materiality and the knowledge discerning conditions. Lokaṃ: the world of mental and material formations. Suññato: as empty, devoid of any core of permanence, pleasure, self, or purity. Avekkhassu: look again and again with the eye of insight wisdom and develop comprehension. Evaṃ: when comprehension has been developed in this way. Maccutaro: one who can cross beyond the King of Death, the ruler of the thirty-one planes. Siyā: one will become such. Evaṃ: as empty in this way. Lokaṃ: the world of mental and material formations. Avekkhantaṃ: one who is looking again and again with the eye of insight wisdom and developing comprehension. Maccurājā: the King of Death, ruler of the thirty-one planes. Na passati: never sees.
+
+**VI**
+Người mà vua Chết không thể thấy. Theo lời dạy trên, nếu thiện nhân biết quán thế giới các pháp hành bằng tuệ minh sát để thấy là trống không, thì có thể trở thành người mà vua Chết không thấy được. Có thể chứng ngộ Nibbāna cao quý, bất tử, bằng tuệ Thánh đạo và tuệ Thánh quả.
+
+**EN**
+One whom the King of Death cannot see. In accordance with the teaching above, if the good person knows how to contemplate the world of formations with insight knowledge to see it as empty, they can become one whom the King of Death cannot see. They can realize noble, deathless Nibbāna through noble path and fruition knowledge.
+
+**VI**
+Có thể chuyển từ pavatta sang appavatta, từ lĩnh vực sinh khởi sang lĩnh vực không sinh khởi. Hãy tập trú trong lĩnh vực không sinh không diệt, cũng gọi là lĩnh vực tận cùng của sinh diệt, hay lĩnh vực tận diệt, theo thời lượng…
+
+**EN**
+One can cross from pavatta to appavatta, from the domain of occurrence to the domain of non-occurrence. Train in dwelling in the domain where there is no arising or passing away, also called the domain where arising and passing away end, or the domain of the end of dissolution, for a duration…
+
+
+<a id="M09-body-P209"></a>
+## Năm phép phản khán và lời kết / Five Reviews and Closing Words
+Miến / Burmese 209
+
+**VI**
+…đã nguyện trước. Hãy tập phân định thời lượng và trú trong đó mỗi khi muốn.
+
+**EN**
+…determined in advance. Train in setting a duration and dwelling there whenever you wish.
+
+**VI**
+1. Phản khán đạo.
+
+**EN**
+1. Reviewing the path.
+
+**VI**
+2. Phản khán quả.
+
+**EN**
+2. Reviewing fruition.
+
+**VI**
+3. Phản khán Nibbāna.
+
+**EN**
+3. Reviewing Nibbāna.
+
+**VI**
+4. Phản khán các phiền não đã đoạn trừ.
+
+**EN**
+4. Reviewing the defilements already abandoned.
+
+**VI**
+5. Phản khán các phiền não chưa đoạn trừ.
+
+**EN**
+5. Reviewing the defilements still to be abandoned.
+
+**VI**
+Hãy học từ các bậc thầy và thực hành năm phép phản khán (paccavekkhaṇa) ấy.
+
+**EN**
+Learn these five kinds of reviewing (paccavekkhaṇa) from teachers and practise them.
+
+**VI**
+Nếu vẫn chưa thỏa đáng, hãy kiên nhẫn kiểm tra bằng nhiều cách, nhiều lần, qua nhiều ngày, nhiều tháng, nhiều năm, xem trong dòng tương tục của mình các phiền não đáng lẽ đã hết có thật sự hết chưa. Chớ vội đi đến kết luận chắc chắn.
+
+**EN**
+If still unsatisfied, examine patiently in many ways, repeatedly, over many days, months, and years, whether the defilements that should have been exhausted in one’s continuity are truly exhausted. One should avoid jumping to a firm conclusion.
+
+**VI**
+Cũng cần kiểm tra nhiều lần xem trí biết Bốn Sự Thật đã vững chắc hay chưa. Cần nhiều lần đến tham vấn những vị thầy lớn thông thạo cả pháp học và pháp hành.
+
+**EN**
+One should also examine repeatedly whether one’s knowledge of the Four Truths is firmly established. One should repeatedly seek counsel from eminent teachers proficient in both study and practice.
+
+**VI**
+Thiền sư Pa-Auk Tawya
+Tu viện Cittala Taung
+Pa-Auk Tawya
+Niên lịch Miến Điện 1367
+
+**EN**
+Pa-Auk Tawya Sayadaw
+Cittala Taung Monastery
+Pa-Auk Tawya
+Myanmar Era 1367
+
+
+<a id="M09-index-P001"></a>
+## Miến 210 — trang trắng / Burmese page 210 — blank page
+Chỉ mục / Index - Miến / Burmese 210
+
+
+<a id="M09-index-P002"></a>
+## Chỉ mục theo thứ tự chữ cái / Alphabetical index
+Chỉ mục / Index - Miến / Burmese 211
+
+**VI**
+Đề mục theo thứ tự chữ cái | Trang
+Đề mục theo thứ tự chữ cái | Trang
+
+**EN**
+Alphabetical entry | Page
+Alphabetical entry | Page
+
+**VI**
+[အ]
+
+**EN**
+[အ]
+
+**VI**
+Lợi ích và công đức — 196
+
+**EN**
+Benefits and advantages — 196
+
+**VI**
+Sáu loại tạm thời — 98
+
+**EN**
+Six temporary kinds — 98
+
+**VI**
+Chỉ những pháp dễ nhận diện — 92
+
+**EN**
+Only phenomena that are easy to discern — 92
+
+**VI**
+Là tai họa (aghato) — 77
+
+**EN**
+As calamity (aghato) — 77
+
+**VI**
+Là gốc tai họa (aghamūlato) — 83
+
+**EN**
+As the root of calamity (aghamūlato) — 83
+
+**VI**
+Kết luận của Chú giải — 22
+
+**EN**
+Conclusion of the commentary — 22
+
+**VI**
+Những lời của Chú giải và Phụ chú giải — 39
+
+**EN**
+Statements of the commentaries and subcommentaries — 39
+
+**VI**
+Giải thích của Chú giải Aṭṭhasālinī — 12
+
+**EN**
+Explanation of the Aṭṭhasālinī commentary — 12
+
+**VI**
+Không có sự che chở (atāṇato) — 81
+
+**EN**
+As without protection (atāṇato) — 81
+
+**VI**
+Quá khứ, vị lai, hiện tại, bên trong, bên ngoài — 112
+
+**EN**
+Past, future, present, internal, and external — 112
+
+**VI**
+Quá khứ, hiện tại, vị lai — 48
+
+**EN**
+Past, present, and future — 48
+
+**VI**
+Người nghèo túng tột bậc — 85
+
+**EN**
+A person in extreme destitution — 85
+
+**VI**
+Điểm đặc biệt cần lưu ý — 191
+
+**EN**
+A point to note especially — 191
+
+**VI**
+Hiện tại theo đời (addhāpaccuppanna) — 44
+
+**EN**
+Life-span present (addhāpaccuppanna) — 44
+
+**VI**
+Pháp hiện tại theo đời — 147
+
+**EN**
+Phenomena of the life-span present — 147
+
+**VI**
+Là không bền (addhuvato) — 72
+
+**EN**
+As unlasting (addhuvato) — 72
+
+**VI**
+Kiến văn do thực hành (adhigamasuta) — 131
+
+**EN**
+Learning through practice (adhigamasuta) — 131
+
+**VI**
+Tướng thiền chỉ gọi là adhicitta — 153
+
+**EN**
+The serenity sign called adhicitta — 153
+
+**VI**
+Thắng giải (adhimokkha), tức tín — 159
+
+**EN**
+Resolution (adhimokkha), that is, faith — 159
+
+**VI**
+Là vô ngã (anattato) — 89
+
+**EN**
+As non-self (anattato) — 89
+
+**VI**
+Ánh sáng vô ngã — 22
+
+**EN**
+The light of non-self — 22
+
+**VI**
+Mẫu quán theo Kinh Đặc tướng Vô ngã — 51
+
+**EN**
+Contemplation pattern according to the Discourse on the Characteristic of Non-self — 51
+
+**VI**
+Năm phương diện của đặc tướng vô ngã — 89
+
+**EN**
+Five aspects of the characteristic of non-self — 89
+
+**VI**
+Hãy quán là vô ngã — 172
+
+**EN**
+Contemplate as non-self — 172
+
+**VI**
+Cho đến vô lượng thế giới — 36
+
+**EN**
+As far as innumerable world systems — 36
+
+**VI**
+Các loại bệnh — 80
+
+**EN**
+Kinds of illness — 80
+
+**VI**
+Là vô thường (aniccato) — 69
+
+**EN**
+As impermanent (aniccato) — 69
+
+**VI**
+Lý do là vô thường, khổ, vô ngã — 92
+
+**EN**
+The reason for impermanence, suffering, and non-self — 92
+
+**VI**
+Mười phương diện của đặc tướng vô thường — 69
+
+**EN**
+Ten aspects of the characteristic of impermanence — 69
+
+**VI**
+Hãy quán là vô thường — 172
+
+**EN**
+Contemplate as impermanent — 172
+
+**VI**
+Tuệ tùy quán vô thường — 194
+
+**EN**
+Knowledge of contemplation of impermanence — 194
+
+**VI**
+Phương pháp minh sát theo thứ tự — 25
+
+**EN**
+Sequential insight method — 25
+
+**VI**
+Cách tu tập minh sát theo thứ tự — 206
+
+**EN**
+How to develop insight in sequence — 206
+
+**VI**
+Bốn phép tùy quán liên hệ với bốn niệm xứ như thế nào — 166
+
+**EN**
+How the four contemplations relate to the four establishments of mindfulness — 166
+
+**VI**
+Hành không do chấp thủ (anupādinnakasaṅkhāra) — 39
+
+**EN**
+Non-clung-to formations (anupādinnakasaṅkhāra) — 39
+
+**VI**
+Diệt không sinh trở lại (anuppādanirodha) — 119
+
+**EN**
+Cessation without renewed arising (anuppādanirodha) — 119
+
+**VI**
+Các hiểm họa — 81
+
+**EN**
+Menaces — 81
+
+
+<a id="M09-index-P003"></a>
+## Chỉ mục theo thứ tự chữ cái / Alphabetical index
+Chỉ mục / Index - Miến / Burmese 212
+
+**VI**
+Đề mục theo thứ tự chữ cái | Trang
+Đề mục theo thứ tự chữ cái | Trang
+
+**EN**
+Alphabetical entry | Page
+Alphabetical entry | Page
+
+**VI**
+Kinh Aparijānana — 12
+
+**EN**
+Aparijānana Sutta — 12
+
+**VI**
+Bốn pháp vô lượng (appamaññā) — 5
+
+**EN**
+Four immeasurables (appamaññā) — 5
+
+**VI**
+Sức thấy sự hoại diệt — 179
+
+**EN**
+The power to see dissolution — 179
+
+**VI**
+Chỗ bắt đầu quán (abhinivesa) — 14
+
+**EN**
+The point of entry into contemplation (abhinivesa) — 14
+
+**VI**
+Vì sao cần hiện rõ thêm? — 154
+
+**EN**
+Why must it become evident further? — 154
+
+**VI**
+Chẳng phải Thánh quả — 155
+
+**EN**
+Not noble fruition — 155
+
+**VI**
+Chẳng phải Thánh đạo — 155
+
+**EN**
+Not the noble path — 155
+
+**VI**
+Có thể đạt đến Thánh đạo — 24
+
+**EN**
+Able to reach the noble path — 24
+
+**VI**
+Không thể đạt Thánh đạo — 19
+
+**EN**
+Unable to reach the noble path — 19
+
+**VI**
+Cách quán theo bảy cách quán danh (arūpasattaka) — 100
+
+**EN**
+How to contemplate by the sevenfold method for mentality (arūpasattaka) — 100
+
+**VI**
+Một chìa khóa quan trọng — 31
+
+**EN**
+An important key — 31
+
+**VI**
+Không có nơi ẩn náu (aleṇato) — 82
+
+**EN**
+As without shelter (aleṇato) — 82
+
+**VI**
+Đức Bồ-tát học nơi các vị thầy — 22
+
+**EN**
+The Bodhisatta learned from teachers — 22
+
+**VI**
+Bất tịnh vô thức (aviññāṇaka-asubha), tức bất tịnh tử thi — 61
+
+**EN**
+Insentient unattractiveness (aviññāṇaka-asubha), that is, corpse unattractiveness — 61
+
+**VI**
+Pháp gọi là không si — 185
+
+**EN**
+The phenomenon called non-delusion — 185
+
+**VI**
+Tính không si — 137
+
+**EN**
+The nature of non-delusion — 137
+
+**VI**
+Không có chỗ quy y (asaraṇato) — 82
+
+**EN**
+As without refuge (asaraṇato) — 82
+
+**VI**
+Không có cốt lõi (asārakato) — 73
+
+**EN**
+As without a core (asārakato) — 73
+
+**VI**
+Tu tập bất tịnh — 57
+
+**EN**
+Development of unattractiveness — 57
+
+**VI**
+[အာ]
+
+**EN**
+[အာ]
+
+**VI**
+Kiến văn do nghe học (āgamasuta) — 131
+
+**EN**
+Learning through hearing (āgamasuta) — 131
+
+**VI**
+Cách quán sắc từ lúc nhận lấy đến lúc đặt xuống (ādānanikkheparūpa) — 95
+
+**EN**
+How to contemplate materiality from taking up to laying down (ādānanikkheparūpa) — 95
+
+**VI**
+Là mối bất lợi (ādīnavato) — 84
+
+**EN**
+As a drawback (ādīnavato) — 84
+
+**VI**
+Tùy quán bất lợi (ādīnavānupassanā) — 58
+
+**EN**
+Contemplation of drawbacks (ādīnavānupassanā) — 58
+
+**VI**
+Tuệ tùy quán bất lợi — 197
+
+**EN**
+Knowledge of contemplation of drawbacks — 197
+
+**VI**
+Hơi thở, nhóm bốn thứ tư — 193
+
+**EN**
+Breathing, fourth tetrad — 193
+
+**VI**
+Hơi thở, nhóm bốn thứ ba — 187
+
+**EN**
+Breathing, third tetrad — 187
+
+**VI**
+Hơi thở, nhóm bốn thứ hai — 184
+
+**EN**
+Breathing, second tetrad — 184
+
+**VI**
+Hơi thở, nhóm bốn thứ nhất — 182
+
+**EN**
+Breathing, first tetrad — 182
+
+**VI**
+Là chứng bệnh (ābādhato) — 79
+
+**EN**
+As an affliction (ābādhato) — 79
+
+**VI**
+Người mới bắt đầu minh sát — 149, 150
+
+**EN**
+A beginner in insight — 149, 150
+
+**VI**
+Sáu cảnh — 3
+
+**EN**
+Six objects — 3
+
+**VI**
+Cách quán sắc do vật thực sinh — 98
+
+**EN**
+How to contemplate nutriment-produced materiality — 98
+
+**VI**
+Hãy quán minh sát tất cả — 129
+
+**EN**
+Contemplate all of them with insight — 129
+
+**VI**
+[က]
+
+**EN**
+[က]
+
+**VI**
+Cách quán ở phần oai nghi và tỉnh giác — 168
+
+**EN**
+Pattern of contemplation in the sections on postures and clear comprehension — 168
+
+**VI**
+[ဣ]
+
+**EN**
+[ဣ]
+
+**VI**
+Là hiểm họa (ītito) — 81
+
+**EN**
+As menace (ītito) — 81
+
+**VI**
+[ဥ]
+
+**EN**
+[ဥ]
+
+**VI**
+Cách quán sắc do nhiệt độ sinh — 98
+
+**EN**
+How to contemplate temperature-produced materiality — 98
+
+
+<a id="M09-index-P004"></a>
+## Chỉ mục theo thứ tự chữ cái / Alphabetical index
+Chỉ mục / Index - Miến / Burmese 213
+
+**VI**
+Đề mục theo thứ tự chữ cái | Trang
+Đề mục theo thứ tự chữ cái | Trang
+
+**EN**
+Alphabetical entry | Page
+Alphabetical entry | Page
+
+**VI**
+Cách tu tập chi tiết tuệ sinh diệt — 113
+
+**EN**
+Detailed method of developing knowledge of arising and vanishing — 113
+
+**VI**
+Chương Tuệ sinh diệt — 110
+
+**EN**
+Chapter on knowledge of arising and vanishing — 110
+
+**VI**
+Tiến trình thực hành minh sát sinh diệt — 147
+
+**EN**
+The course of insight practice into arising and vanishing — 147
+
+**VI**
+Thấy sinh diệt của sắc uẩn — 123
+
+**EN**
+Seeing the arising and vanishing of the materiality aggregate — 123
+
+**VI**
+Tính trung lập — 161, 203
+
+**EN**
+Neutrality — 161, 203
+
+**VI**
+Các cấu uế của minh sát (upakkilesa) — 149, 156
+
+**EN**
+Corruptions of insight (upakkilesa) — 149, 156
+
+**VI**
+Sự hiện diện (upaṭṭhāna), tức niệm — 160
+
+**EN**
+Presence (upaṭṭhāna), that is, mindfulness — 160
+
+**VI**
+Là tai ách (upaddavato) — 80
+
+**EN**
+As adversity (upaddavato) — 80
+
+**VI**
+Là tai ương (upasaggato) — 81
+
+**EN**
+As calamity (upasaggato) — 81
+
+**VI**
+Sự diễn tiến của pháp do chấp thủ (upādinnakapavatta) — 171
+
+**EN**
+Occurrence of what is clung to (upādinnakapavatta) — 171
+
+**VI**
+Có tính não (upāyāsadhammato) — 87
+
+**EN**
+As subject to despair (upāyāsadhammato) — 87
+
+**VI**
+Xả (upekkhā), gồm xả minh sát và xả hướng tâm — 160
+
+**EN**
+Equanimity (upekkhā), comprising insight equanimity and adverting equanimity — 160
+
+**VI**
+Diệt của pháp đã sinh (uppādanirodha) — 119
+
+**EN**
+Cessation of what has arisen (uppādanirodha) — 119
+
+**VI**
+Sinh (uppāda) — 171
+
+**EN**
+Arising (uppāda) — 171
+
+**VI**
+Các loại tai ách — 80, 82
+
+**EN**
+Kinds of adversity — 80, 82
+
+**VI**
+Hỷ nâng bổng (ubbegāpīti) — 157
+
+**EN**
+Uplifting joy (ubbegāpīti) — 157
+
+**VI**
+[ဧ]
+
+**EN**
+[ဧ]
+
+**VI**
+Phương pháp đồng nhất (ekatta) — 103, 140
+
+**EN**
+Method of identity (ekatta) — 103, 140
+
+**VI**
+[ဩ]
+
+**EN**
+[ဩ]
+
+**VI**
+Hỷ từng đợt (okkantikāpīti) — 157
+
+**EN**
+Showering joy (okkantikāpīti) — 157
+
+**VI**
+Ánh sáng (obhāsa) — 151
+
+**EN**
+Illumination (obhāsa) — 151
+
+**VI**
+Thô (oḷārika) — 51
+
+**EN**
+Gross (oḷārika) — 51
+
+**VI**
+Các sắc thô (oḷārika) v.v. — 54
+
+**EN**
+Gross material phenomena (oḷārika) and others — 54
+
+**VI**
+Thô, tế, hạ liệt, cao quý, xa, gần — 54
+
+**EN**
+Gross, subtle, inferior, superior, far, near — 54
+
+**VI**
+[က]
+
+**EN**
+[က]
+
+**VI**
+Cách quán sắc do nghiệp sinh — 99
+
+**EN**
+How to contemplate kamma-produced materiality — 99
+
+**VI**
+Cách quán theo nhóm (kalāpa), tức quán gộp — 101
+
+**EN**
+Contemplation by group (kalāpa), that is, by comprehension together — 101
+
+**VI**
+Minh sát theo phương pháp thẩm sát theo nhóm — 2
+
+**EN**
+Insight by the method of comprehension by groups — 2
+
+**VI**
+Thẩm sát theo nhóm và minh sát theo thứ tự — 24
+
+**EN**
+Comprehension by groups and sequential insight — 24
+
+**VI**
+Thân tùy quán niệm xứ — 169
+
+**EN**
+Establishment of mindfulness through contemplation of the body — 169
+
+**VI**
+Cách tu tập để vượt qua — 163
+
+**EN**
+How to practise to overcome — 163
+
+**VI**
+Hãy ưu tiên quán đặc tướng mình ưa thích — 41
+
+**EN**
+Give priority to contemplating the characteristic you prefer — 41
+
+**VI**
+[ခ]
+
+**EN**
+[ခ]
+
+**VI**
+Thấy sinh theo sát-na (khaṇato udayadassana) — 134, 136, 142
+
+**EN**
+Seeing arising according to moments (khaṇato udayadassana) — 134, 136, 142
+
+**VI**
+Thấy sinh diệt theo sát-na (khaṇato udayabbayadassana) — 135, 139, 145
+
+**EN**
+Seeing arising and vanishing according to moments (khaṇato udayabbayadassana) — 135, 139, 145
+
+**VI**
+Thấy diệt theo sát-na (khaṇato vayadassana) — 135, 136
+
+**EN**
+Seeing vanishing according to moments (khaṇato vayadassana) — 135, 136
+
+
+<a id="M09-index-P005"></a>
+## Chỉ mục theo thứ tự chữ cái / Alphabetical index
+Chỉ mục / Index - Miến / Burmese 214
+
+**VI**
+Đề mục theo thứ tự chữ cái | Trang
+Đề mục theo thứ tự chữ cái | Trang
+
+**EN**
+Alphabetical entry | Page
+Alphabetical entry | Page
+
+**VI**
+Cách quán theo sát-na — 105
+
+**EN**
+How to contemplate moment by moment — 105
+
+**VI**
+Diệt theo sát-na (khaṇikanirodha) — 175
+
+**EN**
+Momentary cessation (khaṇikanirodha) — 175
+
+**VI**
+Hỷ chớp nhoáng (khaṇikāpīti) — 157
+
+**EN**
+Momentary joy (khaṇikāpīti) — 157
+
+**VI**
+Chánh tạng Tương ưng Uẩn (Khandhavagga Saṃyutta) — 28
+
+**EN**
+The canonical Connected Discourses on the Aggregates (Khandhavagga Saṃyutta) — 28
+
+**VI**
+Ngôi nhà lớn của các uẩn — 59
+
+**EN**
+The great house of the aggregates — 59
+
+**VI**
+Năm uẩn — 3
+
+**EN**
+Five aggregates — 3
+
+**VI**
+Phương pháp năm uẩn — 44, 111
+
+**EN**
+Five-aggregate method — 44, 111
+
+**VI**
+Tiểu hỷ (khuddakāpīti) — 157
+
+**EN**
+Minor joy (khuddakāpīti) — 157
+
+**VI**
+[ဂ]
+
+**EN**
+[ဂ]
+
+**VI**
+Là ung nhọt (gaṇḍato) — 78
+
+**EN**
+As a boil (gaṇḍato) — 78
+
+**VI**
+Kinh Girimānanda — 57
+
+**EN**
+Girimānanda Sutta — 57
+
+**VI**
+[စ]
+
+**EN**
+[စ]
+
+**VI**
+Mẫu quán thọ uẩn thuộc nhãn thức — 122, 124
+
+**EN**
+Patterns for contemplating the feeling aggregate associated with eye-consciousness — 122, 124
+
+**VI**
+Là dao động (calato) — 71
+
+**EN**
+As unstable (calato) — 71
+
+**VI**
+Thức ăn, mồi nhử (āmisa) — 86
+
+**EN**
+Food, bait (āmisa) — 86
+
+**VI**
+Tâm hành (cittasaṅkhāra) — 186
+
+**EN**
+Mental formation (cittasaṅkhāra) — 186
+
+**VI**
+Cách quán sắc do tâm sinh — 99
+
+**EN**
+How to contemplate consciousness-produced materiality — 99
+
+**VI**
+Sáu loại tư (cetanā) — 4
+
+**EN**
+Six kinds of volition (cetanā) — 4
+
+**VI**
+[ဆ]
+
+**EN**
+[ဆ]
+
+**VI**
+Nguồn gốc của sự khốn khổ — 84
+
+**EN**
+The root of misery — 84
+
+**VI**
+[ဇ]
+
+**EN**
+[ဇ]
+
+**VI**
+Có tính sinh, có tính già, có tính bệnh (jātidhammato, jarādhammato, byādhidhammato) — 87
+
+**EN**
+As subject to birth, aging, and illness (jātidhammato, jarādhammato, byādhidhammato) — 87
+
+**VI**
+[ဉ]
+
+**EN**
+[ဉ]
+
+**VI**
+Tuệ minh sát gọi là ñāṇa — 177
+
+**EN**
+Insight knowledge called ñāṇa — 177
+
+**VI**
+Ñāṇa, tức tuệ minh sát, hướng đến chương Tri kiến thanh tịnh — 157
+
+**EN**
+Ñāṇa, insight knowledge, toward the chapter on purification by knowledge and vision — 157
+
+**VI**
+Các pháp hữu vi gọi là ñāta — 177
+
+**EN**
+Conditioned phenomena called ñāta — 177
+
+**VI**
+[ဌ]
+
+**EN**
+[ဌ]
+
+**VI**
+Trụ (ṭhiti) — 171
+
+**EN**
+Persistence (ṭhiti) — 171
+
+**VI**
+[တ]
+
+**EN**
+[တ]
+
+**VI**
+Làm cạn kiệt sự ưa thích do ái (taṇhānikanti) — 107
+
+**EN**
+Exhausting delight due to craving (taṇhānikanti) — 107
+
+**VI**
+Sáu loại ái — 4
+
+**EN**
+Six kinds of craving — 4
+
+**VI**
+Tuệ minh sát còn non (taruṇavipassanāñāṇa) — 149
+
+**EN**
+Immature insight knowledge (taruṇavipassanāñāṇa) — 149
+
+**VI**
+Là rỗng (tucchato) — 91
+
+**EN**
+As hollow (tucchato) — 91
+
+**VI**
+Bài pháp Teparivaṭṭadhamma — 2
+
+**EN**
+The Teparivaṭṭadhamma discourse — 2
+
+**VI**
+Bốn mươi mẫu quán với hậu tố -to — 69
+
+**EN**
+Forty patterns of contemplation with the suffix -to — 69
+
+**VI**
+Cờ phướn và Đức Phật — 109
+
+**EN**
+The banner and the Buddha — 109
+
+**VI**
+Lời nói sai lệch đang rao truyền — 24
+
+**EN**
+Misleading words being circulated — 24
+
+
+<a id="M09-index-P006"></a>
+## Chỉ mục theo vần Miến / Index in Burmese alphabetical order
+Chỉ mục / Index - Miến / Burmese 215
+
+**VI**
+[ထ]
+
+**EN**
+[ထ]
+
+**VI**
+Một điểm đặc biệt — 66
+
+**EN**
+A particular point — 66
+
+**VI**
+Bắt đầu từ chỗ rõ ràng, dễ quán — 10
+
+**EN**
+Start where the phenomena are clear and easy to discern — 10
+
+**VI**
+Một loại ung nhọt nhô cao — 78
+
+**EN**
+A kind of raised boil — 78
+
+**VI**
+[ဒ]
+
+**EN**
+[ဒ]
+
+**VI**
+Diṭṭhiugghāṭana — cách quán để nhổ bỏ kiến — 106
+
+**EN**
+Diṭṭhiugghāṭana — contemplation for uprooting views — 106
+
+**VI**
+Tâm thắng trí thiên nhãn — 152
+
+**EN**
+Consciousness of the direct knowledge of the divine eye — 152
+
+**VI**
+Dukkhato — là khổ — 75
+
+**EN**
+Dukkhato — as suffering — 75
+
+**VI**
+Hai mươi lăm phương diện của đặc tướng khổ — 75
+
+**EN**
+Twenty-five aspects of the characteristic of suffering — 75
+
+**VI**
+Hãy quán là khổ — 172
+
+**EN**
+Contemplate as suffering — 172
+
+**VI**
+Dūra — xa — 51
+
+**EN**
+Dūra — far — 51
+
+**VI**
+Sáu môn — 3
+
+**EN**
+The six doors — 3
+
+**VI**
+[ဓ]
+
+**EN**
+[ဓ]
+
+**VI**
+Cách quán sắc theo tính tự nhiên của pháp (dhammatā) — 100
+
+**EN**
+How to contemplate materiality according to its natural order (dhammatā) — 100
+
+**VI**
+Sáu loại pháp — 3
+
+**EN**
+The six kinds of phenomena — 3
+
+**VI**
+Quán pháp niệm xứ — 167
+
+**EN**
+The establishment of mindfulness of phenomena — 167
+
+**VI**
+Sáu giới — 4
+
+**EN**
+The six elements — 4
+
+**VI**
+[န]
+
+**EN**
+[န]
+
+**VI**
+Minh sát theo phương pháp suy rộng (nayavipassanā) — 2
+
+**EN**
+Insight by inference (nayavipassanā) — 2
+
+**VI**
+Nikantipariyādāna — cách quán để dứt sự ưa thích do ái, để nó không sinh khởi — 107
+
+**EN**
+Nikantipariyādāna — contemplation to exhaust attachment through craving, so it does not arise — 107
+
+**VI**
+Nikanti — sự ưa thích minh sát — 163
+
+**EN**
+Nikanti — attachment to insight — 163
+
+**VI**
+Nibbidānupassanā — quán nhàm chán — 192
+
+**EN**
+Nibbidānupassanā — contemplation of disenchantment — 192
+
+**VI**
+Tuệ quán nhàm chán (nibbidānupassanāñāṇa) — 198
+
+**EN**
+Knowledge of contemplation of disenchantment (nibbidānupassanāñāṇa) — 198
+
+**VI**
+Kinh Nimitta — 152
+
+**EN**
+Nimitta Sutta — 152
+
+**VI**
+Tuệ quán sự diệt (nirodhānupassanāñāṇa) — 194
+
+**EN**
+Knowledge of contemplation of cessation (nirodhānupassanāñāṇa) — 194
+
+**VI**
+Bốn phương pháp hiện rõ thế nào — 140
+
+**EN**
+How the four methods become clear — 140
+
+**VI**
+Cách quán minh sát các danh pháp — 39
+
+**EN**
+How to contemplate mental phenomena with insight — 39
+
+**VI**
+Có thể ưu tiên quán theo một trong hai cách mình ưa thích — 180
+
+**EN**
+One may give priority to either of the two modes one favours — 180
+
+**VI**
+Minh sát theo phương pháp suy rộng với hai trăm (= 200) cách phân tích — 93
+
+**EN**
+Insight by inference with two hundred (= 200) variations — 93
+
+**VI**
+[ပ]
+
+**EN**
+[ပ]
+
+**VI**
+Đã là người thuần thục — 108
+
+**EN**
+One has become proficient — 108
+
+**VI**
+Paggaha — tinh tấn — 159
+
+**EN**
+Paggaha — energy — 159
+
+**VI**
+Chú giải Kinh Pacalāyamāna — 153
+
+**EN**
+Commentary on the Pacalāyamāna Sutta — 153
+
+**VI**
+Paccayato udayadassana — thấy sự sinh theo duyên — 134, 139, 140, 144
+
+**EN**
+Paccayato udayadassana — seeing arising according to conditions — 134, 139, 140, 144
+
+**VI**
+Paccayato udayabbayadassana — thấy sinh diệt theo duyên — 134, 135, 136, 143
+
+**EN**
+Paccayato udayabbayadassana — seeing arising and passing away according to conditions — 134, 135, 136, 143
+
+**VI**
+Paccayato vayadassana — thấy sự diệt theo duyên — 134, 136, 139
+
+**EN**
+Paccayato vayadassana — seeing passing away according to conditions — 134, 136, 139
+
+**VI**
+Vị bà-la-môn Pañcaggadāyaka và vợ — 56
+
+**EN**
+The brahmin Pañcaggadāyaka and his wife — 56
+
+**VI**
+Có thể làm viên mãn sự tu tập tuệ — 94
+
+**EN**
+The development of wisdom can be fulfilled — 94
+
+
+<a id="M09-index-P007"></a>
+## Chỉ mục theo vần Miến / Index in Burmese alphabetical order
+Chỉ mục / Index - Miến / Burmese 216
+
+**VI**
+Cái gọi là chế định (paññatti) — 37
+
+**EN**
+What is called a concept (paññatti) — 37
+
+**VI**
+Chi duyên khởi — 25, 112
+
+**EN**
+A factor of dependent origination — 25, 112
+
+**VI**
+Các chi duyên khởi — 66
+
+**EN**
+The factors of dependent origination — 66
+
+**VI**
+Phương pháp duyên khởi thứ nhất — 130
+
+**EN**
+The first method of dependent origination — 130
+
+**VI**
+Các pháp duyên khởi hiện rõ thế nào — 139
+
+**EN**
+How the phenomena of dependent origination become clear — 139
+
+**VI**
+Tuệ quán xả bỏ (paṭinissaggānupassanāñāṇa) — 194
+
+**EN**
+Knowledge of contemplation of relinquishment (paṭinissaggānupassanāñāṇa) — 194
+
+**VI**
+Phần thanh tịnh do tri kiến về đạo lộ hành trì — tuệ minh sát bậc cao — 165
+
+**EN**
+Section on purification by knowledge and vision of the way — higher insight knowledge — 165
+
+**VI**
+Cách quán theo trình tự — 105
+
+**EN**
+Contemplation in sequence — 105
+
+**VI**
+Minh sát lại (paṭivipassanā) — 177
+
+**EN**
+Insight into insight (paṭivipassanā) — 177
+
+**VI**
+Tuệ quán xét lại (paṭisaṅkhānupassanāñāṇa) — 198
+
+**EN**
+Knowledge of contemplation by re-observation (paṭisaṅkhānupassanāñāṇa) — 198
+
+**VI**
+Thức uẩn lúc tái tục — 117
+
+**EN**
+The consciousness aggregate at rebirth-linking — 117
+
+**VI**
+Thọ uẩn lúc tái tục — 115
+
+**EN**
+The feeling aggregate at rebirth-linking — 115
+
+**VI**
+Hành uẩn lúc tái tục (= tư) — 116
+
+**EN**
+The formations aggregate at rebirth-linking (= volition) — 116
+
+**VI**
+Hành uẩn lúc tái tục (= 34 trừ thọ, tưởng và thức, còn 31) — 116
+
+**EN**
+The formations aggregate at rebirth-linking (= 34 minus feeling, perception and consciousness, leaving 31) — 116
+
+**VI**
+Tưởng uẩn lúc tái tục — 115
+
+**EN**
+The perception aggregate at rebirth-linking — 115
+
+**VI**
+Paṇīta — cao quý — 51
+
+**EN**
+Paṇīta — superior — 51
+
+**VI**
+Sắc do tâm cao quý sinh — 159
+
+**EN**
+Materiality born of superior consciousness — 159
+
+**VI**
+Pabhaṅguto — là dễ tan vỡ — 71
+
+**EN**
+Pabhaṅguto — as fragile — 71
+
+**VI**
+Parato — là xa lạ — 90
+
+**EN**
+Parato — as alien — 90
+
+**VI**
+Năm cách phân định (pariggaha) — 10
+
+**EN**
+The five kinds of discernment (pariggaha) — 10
+
+**VI**
+Paridevadhammato — là pháp phải bi — 87
+
+**EN**
+Paridevadhammato — as subject to lamentation — 87
+
+**VI**
+Palokato — là tan rã — 71
+
+**EN**
+Palokato — as disintegrating — 71
+
+**VI**
+Passaddhi — an tịnh minh sát — 158
+
+**EN**
+Passaddhi — insight tranquillity — 158
+
+**VI**
+Pīti — hỷ minh sát — 157
+
+**EN**
+Pīti — insight joy — 157
+
+**VI**
+Các thiện phàm phu — 127
+
+**EN**
+Virtuous ordinary persons — 127
+
+**VI**
+Đạo sơ phần (pubbabhāgamagga) — 1
+
+**EN**
+The preliminary path (pubbabhāgamagga) — 1
+
+**VI**
+Niệm các đời trước — 30
+
+**EN**
+Recollection of past lives — 30
+
+**VI**
+Căn nhà năm uẩn đầy giòi bọ — 59
+
+**EN**
+The house of the aggregates, full of maggots — 59
+
+**VI**
+[ဖ]
+
+**EN**
+[ဖ]
+
+**VI**
+Pharaṇāpīti — hỷ lan tỏa — 157
+
+**EN**
+Pharaṇāpīti — pervading joy — 157
+
+**VI**
+Sáu xúc — 3
+
+**EN**
+The six contacts — 3
+
+**VI**
+Kinh Pheṇapiṇḍūpama — 59
+
+**EN**
+Pheṇapiṇḍūpama Sutta — 59
+
+**VI**
+Đấng sáng tạo — 145
+
+**EN**
+A creator — 145
+
+**VI**
+[ဗ]
+
+**EN**
+[ဗ]
+
+**VI**
+Phạm thiên Baka — 43
+
+**EN**
+Baka Brahmā — 43
+
+**VI**
+[ဘ]
+
+**EN**
+[ဘ]
+
+**VI**
+Phần tuệ hoại diệt (bhaṅgañāṇa) — 171
+
+**EN**
+Section on knowledge of dissolution (bhaṅgañāṇa) — 171
+
+**VI**
+Tiến đến tuệ hoại diệt — 171
+
+**EN**
+Proceeding to knowledge of dissolution — 171
+
+**VI**
+Từ tuệ kinh sợ đến tuệ hành xả — 197
+
+**EN**
+From knowledge of fearfulness to knowledge of equanimity towards formations — 197
+
+
+<a id="M09-index-P008"></a>
+## Chỉ mục theo vần Miến / Index in Burmese alphabetical order
+Chỉ mục / Index - Miến / Burmese 217
+
+**VI**
+Tuệ hiện khởi là đáng sợ (bhayatupaṭṭhānañāṇa) — 197
+
+**EN**
+Knowledge of appearance as fearful (bhayatupaṭṭhānañāṇa) — 197
+
+**VI**
+Bhayato — là đáng sợ — 80
+
+**EN**
+Bhayato — as fearful — 80
+
+**VI**
+Tính sinh khởi của hữu — 175
+
+**EN**
+The nature of the arising of existence — 175
+
+**VI**
+Chín loại hữu lớn — 4
+
+**EN**
+The nine great kinds of existence — 4
+
+**VI**
+Sự tiếp diễn của hữu (bhavapavatti) — 175
+
+**EN**
+The continuation of existence (bhavapavatti) — 175
+
+**VI**
+Sự sinh khởi của hữu — 84
+
+**EN**
+The arising of existence — 84
+
+**VI**
+Ý giới trong sáng của hữu phần — 32
+
+**EN**
+The lucid mind element of the life-continuum — 32
+
+**VI**
+Nơi nương tựa để tránh hiểm họa — 82
+
+**EN**
+A place of refuge from danger — 82
+
+**VI**
+Các loại hiểm họa — 81
+
+**EN**
+Kinds of danger — 81
+
+**VI**
+[မ]
+
+**EN**
+[မ]
+
+**VI**
+Tâm ý thức — 152
+
+**EN**
+Mind-consciousness — 152
+
+**VI**
+Maraṇadhammato — là pháp phải chết (maccu) — 73
+
+**EN**
+Maraṇadhammato — as subject to death (maccu) — 73
+
+**VI**
+Các sắc pháp không thích hợp để quán — 36
+
+**EN**
+Material phenomena unsuitable for contemplation — 36
+
+**VI**
+Kinh Đại Niệm Xứ (Mahāsatipaṭṭhāna) — 113
+
+**EN**
+Mahāsatipaṭṭhāna Sutta — 113
+
+**VI**
+Đại trưởng lão A-la-hán Mahāsīva — 61
+
+**EN**
+The great arahant elder Mahāsīva — 61
+
+**VI**
+Mānaugghāṭana — cách quán để nhổ bỏ mạn — 106
+
+**EN**
+Mānaugghāṭana — contemplation for uprooting conceit — 106
+
+**VI**
+Mārāmisato — là mồi của Māra — 85
+
+**EN**
+Mārāmisato — as Māra’s bait — 85
+
+**VI**
+Tuệ muốn thoát khỏi (muñcitukamyatāñāṇa) — 198
+
+**EN**
+Knowledge of desire for deliverance (muñcitukamyatāñāṇa) — 198
+
+**VI**
+Kinh Meghiya — 27
+
+**EN**
+Meghiya Sutta — 27
+
+**VI**
+Thức ăn và vật nuốt của năm Māra — 87
+
+**EN**
+Food and things to be devoured by the five Māras — 87
+
+**VI**
+Mũi tên và ngạnh tên — 79
+
+**EN**
+A dart and its barb — 79
+
+**VI**
+[ယ]
+
+**EN**
+[ယ]
+
+**VI**
+Yamaka — cách quán theo cặp — 104
+
+**EN**
+Yamaka — contemplation in pairs — 104
+
+**VI**
+Bệnh khó chữa — 77
+
+**EN**
+An intractable disease — 77
+
+**VI**
+[ရ]
+
+**EN**
+[ရ]
+
+**VI**
+Những kết quả có thể đạt được — 134
+
+**EN**
+The results that can be attained — 134
+
+**VI**
+Rittato — là trống rỗng — 90
+
+**EN**
+Rittato — as empty — 90
+
+**VI**
+Sắc uẩn — 114
+
+**EN**
+The material aggregate — 114
+
+**VI**
+Cách quán sắc uẩn — 120
+
+**EN**
+An example of contemplating the material aggregate — 120
+
+**VI**
+Cách quán minh sát theo bảy phương diện về sắc (rūpasattaka) — 95
+
+**EN**
+How to practise insight according to the sevenfold method for materiality (rūpasattaka) — 95
+
+**VI**
+Cảnh sắc — sắc giới màu sắc — 150
+
+**EN**
+Visible object — the element of colour — 150
+
+**VI**
+Rogato — như bệnh — 77
+
+**EN**
+Rogato — as a disease — 77
+
+**VI**
+Các nhóm sắc đã biến mất — 173
+
+**EN**
+The material groups have disappeared — 173
+
+**VI**
+Quan điểm về sự chấm dứt của sắc và danh — 37
+
+**EN**
+The view on the cessation of materiality and mentality — 37
+
+**VI**
+Phương pháp hai nhóm sắc và danh cùng phương pháp năm uẩn — 111
+
+**EN**
+The twofold method of materiality and mentality together with the five-aggregate method — 111
+
+**VI**
+Hãy quán cả sắc và danh cùng nhau — 47
+
+**EN**
+Contemplate materiality and mentality together as well — 47
+
+**VI**
+Tính bất tịnh của sắc chân đế — 60
+
+**EN**
+The foul nature of ultimate materiality — 60
+
+**VI**
+Một số ví dụ về đối tượng quán — 68, 178
+
+**EN**
+Some examples of fields of contemplation — 68, 178
+
+**VI**
+Phương pháp và trình tự quán — 63
+
+**EN**
+The method and sequence of contemplation — 63
+
+**VI**
+Tâm minh sát trước và tâm minh sát sau — 102
+
+**EN**
+Earlier and later insight consciousness — 102
+
+
+<a id="M09-index-P009"></a>
+## Chỉ mục theo vần Miến / Index in Burmese alphabetical order
+Chỉ mục / Index - Miến / Burmese 218
+
+**VI**
+Người mà Tử thần không thể thấy — 208
+
+**EN**
+One whom the King of Death cannot see — 208
+
+**VI**
+Những điểm giải thích — 126
+
+**EN**
+Explanatory points — 126
+
+**VI**
+[လ]
+
+**EN**
+[လ]
+
+**VI**
+Năm đặc tính hiện rõ thế nào — 144
+
+**EN**
+How the five characteristics become clear — 144
+
+**VI**
+Ba đặc tướng — 20
+
+**EN**
+The three characteristics — 20
+
+**VI**
+Một loại kẻ giết người — 83
+
+**EN**
+A kind of killer — 83
+
+**VI**
+Những kẻ giết người — 83
+
+**EN**
+Killers — 83
+
+**VI**
+Đạo đế hiệp thế — năm chi đạo hiệp thế — 137
+
+**EN**
+The mundane truth of the path — the five mundane path factors — 137
+
+**VI**
+Điều cốt yếu cần ghi nhớ — 20
+
+**EN**
+The essential point to remember — 20
+
+**VI**
+Những quy định cần tuân theo — 12
+
+**EN**
+Rules to be observed — 12
+
+**VI**
+Các việc cần thực hiện — 184
+
+**EN**
+Tasks to be undertaken — 184
+
+**VI**
+Cách trở lại con đường đúng — 156
+
+**EN**
+How to return to the correct path — 156
+
+**VI**
+[ဝ]
+
+**EN**
+[ဝ]
+
+**VI**
+Vadhakato — như kẻ sát hại — 83
+
+**EN**
+Vadhakato — as a killer — 83
+
+**VI**
+Vayadhammānupassī — quán tính hoại diệt — 132
+
+**EN**
+Vayadhammānupassī — contemplating the nature of passing away — 132
+
+**VI**
+Vayadhammānupassī — vayadassana — cách quán riêng sự diệt — 118
+
+**EN**
+Vayadhammānupassī — vayadassana — how to contemplate passing away separately — 118
+
+**VI**
+Cách quán sắc theo các giai đoạn tuổi đời (vayovuḍḍhatthagama) — 95, 96
+
+**EN**
+How to contemplate materiality through the stages of life (vayovuḍḍhatthagama) — 95, 96
+
+**VI**
+Như vũ khí kim cương — 157
+
+**EN**
+Like a diamond weapon — 157
+
+**VI**
+Sáu loại tứ — 4
+
+**EN**
+The six kinds of sustained thought — 4
+
+**VI**
+Kinh Vijaya — 62
+
+**EN**
+Vijaya Sutta — 62
+
+**VI**
+Minh (vijjā) — 196
+
+**EN**
+Knowledge (vijjā) — 196
+
+**VI**
+Sáu thức — 3
+
+**EN**
+The six kinds of consciousness — 3
+
+**VI**
+Sáu loại tầm — 4
+
+**EN**
+The six kinds of applied thought — 4
+
+**VI**
+Vipariṇāmadhammato — là pháp phải biến đổi — 72
+
+**EN**
+Vipariṇāmadhammato — as subject to change — 72
+
+**VI**
+Định sát-na của minh sát — 138
+
+**EN**
+Momentary concentration of insight — 138
+
+**VI**
+Ánh sáng của tuệ minh sát — 154
+
+**EN**
+The radiance of insight knowledge — 154
+
+**VI**
+Đối tượng được tuệ minh sát quán — 3
+
+**EN**
+The object contemplated by insight knowledge — 3
+
+**VI**
+Tuệ minh sát và thắng trí — 28
+
+**EN**
+Insight knowledge and direct knowledge — 28
+
+**VI**
+Lộ tốc hành ý môn minh sát — 103
+
+**EN**
+The mind-door impulsion process of insight — 103
+
+**VI**
+Cái gọi là minh sát — 49
+
+**EN**
+What is called insight — 49
+
+**VI**
+Lại quán minh sát chính tuệ đang quán minh sát — 177
+
+**EN**
+Contemplating again with insight the very knowledge that is contemplating with insight — 177
+
+**VI**
+Vibhavato — là tiêu hoại — 73
+
+**EN**
+Vibhavato — as subject to dissolution — 73
+
+**VI**
+Giải thoát (vimutti) — 196
+
+**EN**
+Liberation (vimutti) — 196
+
+**VI**
+Tuệ quán ly tham (virāgānupassanāñāṇa) — 194
+
+**EN**
+Knowledge of contemplation of fading away (virāgānupassanāñāṇa) — 194
+
+**VI**
+Minh sát dẫn đến xuất khởi (vuṭṭhānagāminīvipassanā) — 16
+
+**EN**
+Insight leading to emergence (vuṭṭhānagāminīvipassanā) — 16
+
+**VI**
+Quán thọ niệm xứ — 170
+
+**EN**
+The establishment of mindfulness of feeling — 170
+
+**VI**
+Sáu thọ — 4
+
+**EN**
+The six feelings — 4
+
+**VI**
+[သ]
+
+**EN**
+[သ]
+
+**VI**
+Saṅkhatato — là hữu vi — 73
+
+**EN**
+Saṅkhatato — as conditioned — 73
+
+
+<a id="M09-index-P010"></a>
+## Chỉ mục theo vần Miến / Index in Burmese alphabetical order
+Chỉ mục / Index - Miến / Burmese 219
+
+**VI**
+Tính tự nhiên của các hành (dhammatā) — 176
+
+**EN**
+The natural order of formations (dhammatā) — 176
+
+**VI**
+Sẽ xuất khỏi các hành — 21
+
+**EN**
+One will emerge from formations — 21
+
+**VI**
+Khổ của các hành — 76
+
+**EN**
+The suffering of formations — 76
+
+**VI**
+Tướng của các hành — 171, 175
+
+**EN**
+The sign of formations — 171, 175
+
+**VI**
+Hành và nghiệp hữu — 128
+
+**EN**
+Formations and kamma existence — 128
+
+**VI**
+Từ tuệ hành xả đến tuệ Thánh đạo — 205
+
+**EN**
+From knowledge of equanimity towards formations to noble path knowledge — 205
+
+**VI**
+Bốn Thánh đế hiện rõ thế nào — 135
+
+**EN**
+How the four truths become clear — 135
+
+**VI**
+Sáu tưởng — 4
+
+**EN**
+The six perceptions — 4
+
+**VI**
+Con đường phải đi với niệm vững chắc — 200
+
+**EN**
+The path to be followed with strong mindfulness — 200
+
+**VI**
+Điều cần lưu ý — 8, 172
+
+**EN**
+Points to keep in mind — 8, 172
+
+**VI**
+Các pháp hiện tại theo tương tục (santatipaccuppanna) — 147
+
+**EN**
+Phenomena present by continuity (santatipaccuppanna) — 147
+
+**VI**
+Santika — gần — 51
+
+**EN**
+Santika — near — 51
+
+**VI**
+Tính an lạc tịch tịnh — 205
+
+**EN**
+The nature of peaceful happiness — 205
+
+**VI**
+Hành giả lấy thiền chỉ làm cỗ xe — 41
+
+**EN**
+A practitioner whose vehicle is serenity — 41
+
+**VI**
+Samudayadhammānupassī — quán tính sinh khởi — 132
+
+**EN**
+Samudayadhammānupassī — contemplating the nature of arising — 132
+
+**VI**
+Samudayadhammānupassī — udayadassana — cách quán riêng sự sinh — 113
+
+**EN**
+Samudayadhammānupassī — udayadassana — how to contemplate arising separately — 113
+
+**VI**
+Samudayavayadhammānupassī — quán tính sinh và diệt — 133
+
+**EN**
+Samudayavayadhammānupassī — contemplating the nature of arising and passing away — 133
+
+**VI**
+Samudayavayadhammānupassī — udayavayadassana — cách quán sinh và diệt — 122
+
+**EN**
+Samudayavayadhammānupassī — udayavayadassana — how to contemplate arising and passing away — 122
+
+**VI**
+Phần tuệ quán theo nhóm (sammasanañāṇa) — người đang thực hành đúng đắn — 150
+
+**EN**
+Section on comprehension knowledge (sammasanañāṇa) — a person practising rightly — 150
+
+**VI**
+Sallato — như mũi tên — 79
+
+**EN**
+Sallato — as a dart — 79
+
+**VI**
+Bất tịnh có thức — 57
+
+**EN**
+Foulness in what is associated with consciousness — 57
+
+**VI**
+Sāsavato — là còn lậu hoặc — 85
+
+**EN**
+Sāsavato — as subject to the taints — 85
+
+**VI**
+Ba chi đạo thuộc giới — 138
+
+**EN**
+The three path factors of morality — 138
+
+**VI**
+Sukha — lạc minh sát — 159
+
+**EN**
+Sukha — insight happiness — 159
+
+**VI**
+Sukhuma — tế — 51, 54
+
+**EN**
+Sukhuma — subtle — 51, 54
+
+**VI**
+Hãy quán cho đến khi thấy tính rỗng không — 207
+
+**EN**
+Contemplate until emptiness is seen — 207
+
+**VI**
+Suññato — là rỗng không — 89
+
+**EN**
+Suññato — as void — 89
+
+**VI**
+Suññato và anattato — là rỗng không và vô ngã — 89
+
+**EN**
+Suññato and anattato — as void and not-self — 89
+
+**VI**
+Phương pháp theo kinh — 69
+
+**EN**
+The discourse method — 69
+
+**VI**
+Hành giả lấy minh sát thuần túy làm cỗ xe — 35
+
+**EN**
+A practitioner whose vehicle is pure insight — 35
+
+**VI**
+Hố nghĩa địa — 59
+
+**EN**
+A charnel-ground pit — 59
+
+**VI**
+Người xa lạ bên ngoài — 91
+
+**EN**
+An outsider, a stranger — 91
+
+**VI**
+Sokadhammato — là pháp phải sầu — 87
+
+**EN**
+Sokadhammato — as subject to sorrow — 87
+
+**VI**
+Saṅkilesikadhammato — là pháp dẫn đến ô nhiễm — 88
+
+**EN**
+Saṅkilesikadhammato — as liable to defilement — 88
+
+**VI**
+Để nâng đỡ ba loại chúng sinh — 5
+
+**EN**
+For the uplifting of the three kinds of beings — 5
+
+**VI**
+Hãy phân định rồi bắt đầu quán minh sát từ chỗ dễ quán — 35
+
+**EN**
+Define the phenomena, then begin insight where discernment is easy — 35
+
+**VI**
+[ဟ]
+
+**EN**
+[ဟ]
+
+**VI**
+Hīna — hạ liệt — 51
+
+**EN**
+Hīna — inferior — 51

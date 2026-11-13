@@ -1,0 +1,9618 @@
+# Nibbānagāminipaṭipadā · Mini · Cuốn 6 / Volume 6
+Phần Duyên khởi (Paṭiccasamuppāda) — B / Dependent Origination — B
+Pa-Auk Tawya Sayadaw
+Việt–Anh
+
+## Mục lục / Contents
+
+- [Bìa trước và bìa sau / Front and back cover](#M06-cover-P001)
+- [Trang nhan đề / Title page](#M06-front-P001)
+- [Pháp thí và lời nguyện / The gift of Dhamma and aspiration](#M06-front-P002)
+- [Mục lục — က / Table of contents — က](#M06-front-P003)
+- [Mục lục — ခ / Table of contents — ခ](#M06-front-P004)
+- [Mục lục — ဂ / Table of contents — ဂ](#M06-front-P005)
+- [Mục lục — ဃ / Table of contents — ဃ](#M06-front-P006)
+- [Mục lục — င / Table of contents — င](#M06-front-P007)
+- [Mục lục — စ / Table of contents — စ](#M06-front-P008)
+- [Phần 1 · Phân tích Duyên khởi theo Kinh / Part 1 · Analysis of dependent origination according to the Discourses](#M06-body-P001)
+- [Hành, thức, danh sắc, sáu xứ, xúc và thọ / Formations, consciousness, mentality-materiality, the six bases, contact, and feeling](#M06-body-P002)
+- [Ái, thủ, hữu, sinh và già chết / Craving, clinging, becoming, birth, and aging and death](#M06-body-P003)
+- [Chết, sầu, bi, khổ, ưu và não / Death, sorrow, lamentation, pain, grief, and despair](#M06-body-P004)
+- [Kết đoạn Pāli và phần giải nghĩa để ghi nhớ / End of the Pāli passage and explanation for memorization](#M06-body-P005)
+- [Giải nghĩa các chi Duyên khởi để ghi nhớ / Explanation of the factors of dependent origination for memorization](#M06-body-P006)
+- [Vô minh và các hành / Ignorance and formations](#M06-body-P007)
+- [Phúc hành, phi phúc hành và bất động hành / Meritorious, demeritorious, and imperturbable formations](#M06-body-P008)
+- [Thân hành, khẩu hành, tâm hành và các thức / Bodily, verbal, and mental formations, and the kinds of consciousness](#M06-body-P009)
+- [Thức duyên danh sắc / Consciousness as condition for mentality-materiality](#M06-body-P010)
+- [Danh sắc duyên sáu xứ, sáu xứ duyên xúc / Mentality-materiality as condition for the six bases, and the six bases as condition for contact](#M06-body-P011)
+- [Xúc duyên thọ, thọ duyên ái / Contact as condition for feeling, and feeling as condition for craving](#M06-body-P012)
+- [Ái duyên thủ, thủ duyên hữu / Craving as condition for clinging, and clinging as condition for becoming](#M06-body-P013)
+- [Nghiệp hữu và sinh hữu / Kamma-becoming and rebirth-becoming](#M06-body-P014)
+- [Chín loại sinh hữu và nghĩa của sinh / Nine kinds of rebirth-becoming and the meaning of birth](#M06-body-P015)
+- [Giải nghĩa già và chết / Explanation of aging and death](#M06-body-P016)
+- [Già chết do sinh làm duyên và nghĩa của sầu / Aging and death conditioned by birth, and the meaning of sorrow](#M06-body-P017)
+- [Giải nghĩa bi và khổ / Explanation of lamentation and bodily pain](#M06-body-P018)
+- [Giải nghĩa ưu và não / Explanation of mental distress and anguish](#M06-body-P019)
+- [Kết phần giải nghĩa theo Kinh / Conclusion of the explanation according to the Discourses](#M06-body-P020)
+- [Thế nào là pháp Duyên khởi? / What is the teaching of dependent origination?](#M06-body-P021)
+- [Duyên khởi và con đường Trung đạo / Dependent origination and the Middle Way](#M06-body-P022)
+- [Thế nào là Trung đạo đưa đến Niết-bàn? / What is the Middle Way leading to Nibbāna?](#M06-body-P023)
+- [Trung đạo và khổ trong dòng diễn tiến / The Middle Way and suffering in the course of existence](#M06-body-P024)
+- [Pháp trợ và pháp được trợ / Conditioning and conditioned phenomena](#M06-body-P025)
+- [Nhiều nhân và nhiều quả / Multiple causes and multiple effects](#M06-body-P026)
+- [Vì sao Đức Phật nêu từng nhân và từng quả? / Why the Buddha singles out individual causes and effects](#M06-body-P027)
+- [Vô minh là nhân chính, hiển nhiên và đặc thù / Ignorance as the principal, evident, and distinctive cause](#M06-body-P028)
+- [Ba lý do nêu riêng một nhân / Three reasons for singling out a cause](#M06-body-P029)
+- [Giải nghĩa từ Paṭiccasamuppāda / Explanation of the term Paṭiccasamuppāda](#M06-body-P030)
+- [Cùng sinh khởi và sinh khởi đúng duyên / Arising together and arising through proper conditions](#M06-body-P031)
+- [Sự hội đủ của duyên và sự đồng sinh / Concurrence of conditions and arising together](#M06-body-P032)
+- [Gọi nhân bằng tên của quả / Applying the name of the effect to the cause](#M06-body-P033)
+- [Nhóm nhân hội đủ và cùng trợ cho quả / The concurrence of causes and their joint support of effects](#M06-body-P034)
+- [Giải thích thêm về các duyên cùng trợ / Further explanation of conditions that assist together](#M06-body-P035)
+- [Quả liên hệ với đầy đủ các nhân tương ứng / Effects are connected to all their respective causes](#M06-body-P036)
+- [Các nhân hướng đến nhau và các quả cùng sinh / Causes facing one another and effects arising together](#M06-body-P037)
+- [Cách giải thứ ba trong Visuddhimagga / The third explanation in the Visuddhimagga](#M06-body-P038)
+- [Các nhân trợ lực phải hội đủ / The supporting causes must all be present](#M06-body-P039)
+- [Nhóm sắc và nhóm danh / Groups of materiality and mentality](#M06-body-P040)
+- [Hai nghĩa của saṃ trong samuppāda / The two meanings of saṃ in samuppāda](#M06-body-P041)
+- [Năm nhóm nhân trợ cho hành / Five groups of causes that support formations](#M06-body-P042)
+- [Tập hợp quả sinh cùng một lúc / The collection of effects arises at the same time](#M06-body-P043)
+- [Lợi ích của lời dạy về Duyên khởi / Benefits of the teaching on dependent origination](#M06-body-P044)
+- [Ba vòng phiền não, nghiệp và quả / The three rounds of defilements, kamma, and results](#M06-body-P045)
+- [Thường luận và vô nhân luận / Eternalism and the doctrine of no cause](#M06-body-P046)
+- [Luận chủ trương nhân sai và luận về đấng chi phối / The doctrines of a wrong cause and an overriding ruler](#M06-body-P047)
+- [Trí trực chứng và sự đoạn trừ các chủ trương sai / Direct knowledge and the abandoning of wrong doctrines](#M06-body-P048)
+- [Đoạn luận, luận phủ nhận quả và luận phủ nhận tác dụng của nghiệp / Annihilationism, denial of results, and denial of the efficacy of action](#M06-body-P049)
+- [Bác bỏ nghiệp và quả của nghiệp / Denial of kamma and its results](#M06-body-P050)
+- [Thấy nhân quả trong ba thời / Seeing cause and effect across the three periods](#M06-body-P051)
+- [Hai từ hợp thành Paṭiccasamuppāda / The two words that make up Paṭiccasamuppāda](#M06-body-P052)
+- [Giải thích thêm về Trung đạo / Further explanation of the Middle Way](#M06-body-P053)
+- [Tám chi của Thánh đạo / The eight factors of the Noble Path](#M06-body-P054)
+- [Trung đạo và người làm, người thọ nhận / The Middle Way, and the doer and experiencer](#M06-body-P055)
+- [Nghiệp quá khứ và quả trong đời hiện tại / Past kamma and results in the present life](#M06-body-P056)
+- [Thấy nhân và quả mà không thấy một tự ngã / Seeing cause and effect without finding a self](#M06-body-P057)
+- [Người làm và người thọ nhận là cách nói quy ước / Doer and experiencer as conventional expressions](#M06-body-P058)
+- [Nghiệp và quả trong cùng một dòng tương tục / Kamma and result in the same continuity](#M06-body-P059)
+- [Dòng tương tục và cách nói thông dụng / Continuity and common usage](#M06-body-P060)
+- [Dùng danh xưng mà không chấp thật / Using names without taking them as ultimate](#M06-body-P061)
+- [Giữ đúng phạm vi của quy ước / Staying within the scope of convention](#M06-body-P062)
+- [Bốn lợi ích của việc thấy rõ Duyên khởi / Four benefits of clearly seeing dependent origination](#M06-body-P063)
+- [Phần 2 / Part 2](#M06-body-P064)
+- [Mười hai chi Duyên khởi và ba thời / The twelve factors of dependent origination and the three periods](#M06-body-P065)
+- [Ba thời và các mối nối nhân quả / The three periods and causal links](#M06-body-P066)
+- [Mối nối thứ ba và bốn nhóm / The third link and the four groups](#M06-body-P067)
+- [Hai mươi phương diện và cách quán cần biết trước / Twenty aspects and a way of discerning to know beforehand](#M06-body-P068)
+- [Quán sinh diệt theo duyên và theo sát-na / Discerning arising and passing away by condition and by moment](#M06-body-P069)
+- [Quán sự hoại diệt và trí đang quán / Discerning dissolution and the knowledge that discerns](#M06-body-P070)
+- [Phân biệt vô minh và hành trong từng dòng tương tục / Distinguishing ignorance and formations in each continuity](#M06-body-P071)
+- [Vô minh duyên hành và lộ ý môn / Ignorance conditions formations and the mind-door process](#M06-body-P072)
+- [Hành duyên thức / Formations condition consciousness](#M06-body-P073)
+- [Năng lực của hành và sự sinh thức quả / The power of formations and the arising of resultant consciousness](#M06-body-P074)
+- [Các loại thức quả cần nhận diện / The kinds of resultant consciousness to discern](#M06-body-P075)
+- [Mẫu quán thức quả ngoài lộ và trong lộ nhãn môn / Examples for discerning resultant consciousness outside a process and in the eye-door process](#M06-body-P076)
+- [Thức quả trong sáu loạt và thức duyên danh sắc / Resultant consciousness in the six series, and consciousness conditioning mentality-materiality](#M06-body-P077)
+- [Thức quả, thức phi quả và ba loại thức làm duyên / Resultant and non-resultant consciousness, and three kinds of conditioning consciousness](#M06-body-P078)
+- [Thức nghiệp là thức tạo tác / Kamma-consciousness is formative consciousness](#M06-body-P079)
+- [Danh sắc quả và mẫu quán ngoài lộ / Resultant mentality-materiality and process-free examples](#M06-body-P080)
+- [Danh sắc quả trong lộ nhãn môn / Resultant mentality-materiality in the eye-door process](#M06-body-P081)
+- [Hành tích lũy và nghiệp hữu / Accumulating formations and kamma-becoming](#M06-body-P082)
+- [Phân biệt hành và nghiệp hữu. Mẫu quán thức đồng sinh / Distinguishing formations and kamma-becoming. Examples of conascent consciousness](#M06-body-P083)
+- [Cách lấy danh sắc đồng sinh và thức trong lộ / How to take conascent mentality-materiality and consciousness within a process](#M06-body-P084)
+- [Thức tử, hướng ngũ môn và ngũ thức / Death consciousness, five-door adverting and sense-consciousness](#M06-body-P085)
+- [Danh sắc của các tâm tiếp thọ đến đồng sở duyên / Mentality-materiality of receiving through registration](#M06-body-P086)
+- [Dẫn chứng và năm trường hợp danh sắc duyên sáu xứ / Supporting passages and five cases of mentality-materiality conditioning the six bases](#M06-body-P087)
+- [Danh trợ duyên cho ý xứ / How mentality conditions the mind base](#M06-body-P088)
+- [Ý xứ từ tiếp thọ đến hướng ý môn / The mind base from receiving to mind-door adverting](#M06-body-P089)
+- [Danh duyên ý xứ và danh duyên sắc xứ / Mentality conditioning the mind base and the material bases](#M06-body-P090)
+- [Các trường hợp hậu sinh duyên / Cases of postnascence condition](#M06-body-P091)
+- [Hậu sinh duyên và tính chất nâng đỡ / Postnascence condition and the supporting characteristic](#M06-body-P092)
+- [Danh sinh sau nâng đỡ sắc sinh trước / Later mentality sustains earlier materiality](#M06-body-P093)
+- [Mẫu quán riêng nhãn xứ / A pattern for discerning the eye base separately](#M06-body-P094)
+- [Mẫu quán riêng nhãn xứ, tiếp theo / A pattern for discerning the eye base separately, continued](#M06-body-P095)
+- [Mẫu quán chung năm sắc xứ / A pattern for discerning the five material bases together](#M06-body-P096)
+- [Sắc trợ duyên cho sắc xứ trong cùng nhóm / Materiality conditioning a material base within the same group](#M06-body-P097)
+- [Dưỡng chất trợ sắc xứ và sắc làm chỗ nương cho ý xứ / Nutriment supporting the material bases, and materiality supporting the mind base](#M06-body-P098)
+- [Các sắc căn vật mà ý xứ nương vào / The material bases on which the mind base depends](#M06-body-P099)
+- [Mẫu quán sắc căn vật và ý xứ, từ hữu phần đến tiếp thọ / Examples of material bases and the mind base, from life-continuum to receiving](#M06-body-P100)
+- [Mẫu quán sắc căn vật và ý xứ, từ suy đạc đến đồng sở duyên / Examples of material bases and the mind base, from investigating to registration](#M06-body-P101)
+- [Danh và sắc cùng trợ cho ý xứ / Mentality and materiality jointly conditioning the mind base](#M06-body-P102)
+- [Các mẫu quán danh sắc duyên ý xứ / Examples of mentality-materiality conditioning the mind base](#M06-body-P103)
+- [Cách áp dụng mẫu quán cho sáu loại lộ / Applying the pattern to the six kinds of cognitive process](#M06-body-P104)
+- [Sáu xứ duyên xúc / The six bases condition contact](#M06-body-P105)
+- [Sáu nội xứ và sáu ngoại xứ / The six internal and six external bases](#M06-body-P106)
+- [Các duyên của ý xúc tái tục / Conditions for rebirth-linking mind-contact](#M06-body-P107)
+- [Cảnh tái tục và ý xúc của hướng ngũ môn / Rebirth-linking objects and mind-contact in five-door adverting](#M06-body-P108)
+- [Ý xúc của hướng ngũ môn và nhãn xúc / Mind-contact in five-door adverting and eye-contact](#M06-body-P109)
+- [Xúc trong lộ nhãn môn, đến tốc hành thứ nhất / Contact in the eye-door process, through the first impulsion](#M06-body-P110)
+- [Ý xúc của đồng sở duyên và hướng ý môn / Mind-contact in registration and mind-door adverting](#M06-body-P111)
+- [Những tâm cần nhận diện trong cùng một lộ / Consciousnesses to discern in the same process](#M06-body-P112)
+- [Xúc duyên thọ và sáu loại thọ / Contact conditions feeling, and the six kinds of feeling](#M06-body-P113)
+- [Phạm vi của thọ có nhãn xúc làm duyên / The scope of feeling conditioned by eye-contact](#M06-body-P114)
+- [Thọ trong lộ nhãn môn / Feeling in the eye-door process](#M06-body-P115)
+- [Theo nghĩa nào nhãn xúc làm duyên cho thọ ở hướng ngũ môn? / In what sense does eye-contact condition feeling at five-door adverting?](#M06-body-P116)
+- [Sáu mẫu quán xúc duyên thọ và định nghĩa ý xúc / Six examples of contact conditioning feeling and the definition of mind-contact](#M06-body-P117)
+- [Ý xúc và thọ duyên ái / Mind-contact and feeling conditioning craving](#M06-body-P118)
+- [Dục ái, hữu ái và phi hữu ái / Craving for sensual pleasures, becoming and non-becoming](#M06-body-P119)
+- [Thọ quả trợ ái bằng cận y duyên / Resultant feeling supports craving by decisive support condition](#M06-body-P120)
+- [Hướng đến đời vị lai và các mẫu quán thọ duyên ái / Looking toward future existence and examples of feeling conditioning craving](#M06-body-P121)
+- [Pháp ái và trường hợp các bậc A-la-hán / Craving for mental objects and the case of Arahants](#M06-body-P122)
+- [Ái không sinh ở bậc A-la-hán và ái duyên thủ / Craving does not arise in Arahants, and craving conditions clinging](#M06-body-P123)
+- [Bốn loại thủ / The four kinds of clinging](#M06-body-P124)
+- [Mẫu quán ái duyên thủ khi mong một đời vị lai / An example of craving conditioning clinging when aspiring to a future life](#M06-body-P125)
+- [Một cách quán riêng ba loại ái / A way of discerning the three kinds of craving separately](#M06-body-P126)
+- [Ngã luận thủ và lộ tâm của ái, thủ / Clinging to a doctrine of self and the cognitive processes of craving and clinging](#M06-body-P127)
+- [Điều cần lưu ý và thủ duyên hữu / A point to note, and clinging conditioning becoming](#M06-body-P128)
+- [Nghiệp hữu, sinh hữu và một điểm cần lưu ý / Kamma-becoming, rebirth-becoming, and a point to note](#M06-body-P129)
+- [Tuệ phân biệt duyên và hướng quán cho đời vị lai / Knowledge of discerning conditions and discernment directed to a future life](#M06-body-P130)
+- [Cách quán để ghi tóm tắt / A concise pattern of discernment for memorization](#M06-body-P131)
+- [Mẫu quán hữu và lộ ý môn có tốc hành / Examples of becoming and the mind-door process with impulsions](#M06-body-P132)
+- [Nghiệp hữu thuộc thiền và hữu duyên sinh / Jhāna kamma-becoming and becoming conditioning birth](#M06-body-P133)
+- [Nhận diện sinh và câu hỏi về nghiệp hữu / Discerning birth and a question about kamma-becoming](#M06-body-P134)
+- [Nghiệp phân biệt chúng sinh / Kamma distinguishes beings](#M06-body-P135)
+- [Sinh duyên già chết theo quy ước và chân đế / Birth conditioning aging and death in conventional and ultimate terms](#M06-body-P136)
+- [Sinh duyên sầu, bi, khổ, ưu và não / Birth conditioning sorrow, lamentation, pain, grief and despair](#M06-body-P137)
+- [Bảng 1 — Lấy đời hiện tại làm trung tâm / Table 1 — Taking the present life as the center](#M06-body-P138)
+- [Bảng 2 — Lấy đời quá khứ thứ nhất làm trung tâm / Table 2 — Taking the first past life as the center](#M06-body-P139)
+- [Bảng 3 — Lấy đời vị lai thứ nhất làm trung tâm / Table 3 — Taking the first future life as the center](#M06-body-P140)
+- [Các tâm lộ của sầu, bi, khổ, ưu và não / Cognitive processes of sorrow, lamentation, pain, grief and despair](#M06-body-P141)
+- [Bốn cách thuyết Duyên khởi / Four ways of teaching dependent origination](#M06-body-P142)
+- [Từ giữa đến cuối / From middle to end](#M06-body-P143)
+- [Từ cuối về đầu / From end to beginning](#M06-body-P144)
+- [Từ giữa về đầu / From middle to beginning](#M06-body-P145)
+- [Ái là nguồn gốc của bốn loại vật thực / Craving as the source of the four nutriments](#M06-body-P146)
+- [Phép quán Duyên khởi theo chiều thuận, cách thứ hai / Discerning dependent origination in forward order, the second method](#M06-body-P147)
+- [Thọ và sự đắm trước / Feeling and attachment](#M06-body-P148)
+- [Quán từ sáu xứ hoặc từ thọ / Discernment starting from the six sense bases or feeling](#M06-body-P149)
+- [Nối nhân và quả qua từng cặp đời / Connecting cause and result in successive pairs of lives](#M06-body-P150)
+- [Quán Duyên khởi theo chiều nghịch, cách thứ nhất / Discerning dependent origination in reverse order, the first method](#M06-body-P151)
+- [Quán ba đời theo chiều nghịch / Discerning three lives in reverse order](#M06-body-P152)
+- [Quán chiều nghịch từ giữa về đầu. Bốn loại vật thực / Discerning in reverse order from middle to beginning. The four nutriments](#M06-body-P153)
+- [Vật thực thuộc vòng quả và các vật thực khác / Nutriments of the round of results and other nutriments](#M06-body-P154)
+- [Vật thực do nghiệp sinh và không do nghiệp sinh / Kamma-born and non-kamma-born nutriments](#M06-body-P155)
+- [Đoàn thực và dưỡng tố / Physical nutriment and nutritive essence](#M06-body-P156)
+- [Dưỡng tố do thời tiết sinh / Temperature-born nutritive essence](#M06-body-P157)
+- [Công năng của bốn loại vật thực / The functions of the four nutriments](#M06-body-P158)
+- [Tư niệm thực và thức thực / Mental volition and consciousness as nutriment](#M06-body-P159)
+- [Vật thực theo nghĩa riêng và nghĩa chung / Nutriment in the specific and general senses](#M06-body-P160)
+- [Vật thực duy trì sắc thân / Nutriment sustains the material body](#M06-body-P161)
+- [Hai cách vật thực trợ duyên / Two ways in which nutriment supports](#M06-body-P162)
+- [Quán từ bốn vật thực thuộc vòng quả / Discernment beginning from the four nutriments in the round of results](#M06-body-P163)
+- [Quán từ bốn vật thực thuộc vòng nghiệp / Discernment beginning from the four nutriments in the round of kamma](#M06-body-P164)
+- [Một cách giải thích khác / Another explanation](#M06-body-P165)
+- [Ba thời trong phép quán từ vật thực / The three periods in discernment from nutriment](#M06-body-P166)
+- [Hai lý do thuyết theo bốn cách / Two reasons for teaching in four ways](#M06-body-P167)
+- [Vì sao thuyết từ vô minh đến già chết / Why the Buddha taught from ignorance to aging and death](#M06-body-P168)
+- [Vì sao thuyết từ giữa đến cuối và từ cuối về đầu / Why the Buddha taught from the middle to the end and from the end back to the beginning](#M06-body-P169)
+- [Đại trí minh sát như kim cương / The great diamond-like insight knowledge](#M06-body-P170)
+- [Từ bốn vật thực trở về vô minh / From the four nutriments back to ignorance](#M06-body-P171)
+- [Lời Phật dạy về chiều sâu của Duyên khởi / The Buddha’s words on the depth of dependent origination](#M06-body-P172)
+- [Lời kết và ghi cuối sách / Closing words and colophon](#M06-body-P173)
+- [Chỉ mục — Miến 174 / Index — Burmese page 174](#M06-index-P001)
+- [Chỉ mục — Miến 175 / Index — Burmese page 175](#M06-index-P002)
+- [Chỉ mục — Miến 176 / Index — Burmese page 176](#M06-index-P003)
+- [Chỉ mục — Miến 177 / Index — Burmese page 177](#M06-index-P004)
+- [Chỉ mục — Miến 178 / Index — Burmese page 178](#M06-index-P005)
+- [Chỉ mục — Miến 179 / Index — Burmese page 179](#M06-index-P006)
+- [Chỉ mục — Miến 180 / Index — Burmese page 180](#M06-index-P007)
+- [Chỉ mục — Miến 181 / Index — Burmese page 181](#M06-index-P008)
+
+<a id="M06-cover-P001"></a>
+## Bìa trước và bìa sau / Front and back cover
+Bìa / Cover
+
+**VI**
+Nibbānagāminipaṭipadā — Đường đến Niết-bàn (bản lược), Cuốn 6. Phần Duyên khởi (Paṭiccasamuppāda) — B. Thiền sư Pa-Auk Tawya.
+
+**EN**
+Nibbānagāminipaṭipadā — The Practice Leading to Nibbāna (Abridged), Volume 6. Dependent Origination (Paṭiccasamuppāda) — B. Pa-Auk Tawya Sayadaw.
+
+**VI**
+Lời chúc lành (Āsīsakathā) của Đại trưởng lão Sayadaw xứ Pyay
+
+**EN**
+Words of blessing (Āsīsakathā) by the venerable Sayadaw of Pyay
+
+**VI**
+Đối chiếu các bộ sách, từ Yojanā, các bản ṭīkā đến Madhu và Gaṇṭhi,
+Ngài luận giải bánh xe Duyên khởi, vốn rất sâu, khó thấy,
+Lần theo từng vòng, từng mối, phân định thật rành mạch.
+Nghĩa lý vốn khó thấu, Ngài làm cho hiện rõ,
+Trình bày và quyết giải, sáng sủa, chuẩn xác.
+
+**EN**
+Comparing the various works, from the Yojanā and the ṭīkās to the Madhu and Gaṇṭhi,
+he expounds the wheel of dependent origination, so profound and hard to see.
+Tracing it turn by turn and link by link, he distinguishes its parts with care.
+He brings to light the meaning so hard to fathom,
+setting it forth and resolving it clearly and accurately.
+
+**VI**
+Như bơ tinh hòa với đường mật ngọt,
+Mềm dịu, thơm ngon, đượm vị ngọt,
+Ngài dọn cho người đọc thưởng thức.
+Ai nếm sách này như nếm vị cam lồ
+Thì tà kiến và những mối hoài nghi trong tâm được gột sạch,
+Có thể nói rành rẽ về danh, sắc và chân đế.
+
+**EN**
+Like fine butter blended with sweet palm syrup,
+smooth, fragrant and rich in sweetness,
+he sets it before the reader to taste.
+Whoever tastes this book as one tastes nectar
+is cleansed of wrong views and doubts within,
+and can speak clearly of mentality, materiality and ultimate reality.
+
+**VI**
+Như người đứng vững trong cuộc khảo tài trí tuệ,
+Đối diện nghĩa sâu, đáp nhanh và rõ, mỗi lời đều đúng,
+Khớp với kinh sách và đến đúng chỗ cốt yếu.
+Các bậc học giả lớn kinh ngạc, tán thán,
+Trời người và đại chúng đều kính phục.
+Nguyện người đọc trở thành bậc có phẩm hạnh và trí tuệ.
+
+**EN**
+Like one who stands firm in a contest of learning,
+meeting a profound question and answering promptly and clearly, each answer correct,
+true to the texts and reaching the essential point.
+The great scholars marvel and offer praise,
+and devas, humans and the assembled people pay their respects.
+May the reader become a person of virtue and wisdom.
+
+**VI**
+(Pyay, Visuddhimagga Nissaya, quyển 4, tr. 267.)
+
+**EN**
+(Pyay, Visuddhimagga Nissaya, vol. 4, p. 267.)
+
+
+<a id="M06-front-P001"></a>
+## Trang nhan đề / Title page
+Đầu sách / Front matter - 1
+
+**VI**
+Nibbānagāminipaṭipadā — Đường đến Niết-bàn (bản lược), Cuốn 6. Phần Duyên khởi (Paṭiccasamuppāda) — B. Thiền sư Pa-Auk Tawya.
+
+**EN**
+Nibbānagāminipaṭipadā — The Practice Leading to Nibbāna (Abridged), Volume 6. Dependent Origination (Paṭiccasamuppāda) — B. Pa-Auk Tawya Sayadaw.
+
+
+<a id="M06-front-P002"></a>
+## Pháp thí và lời nguyện / The gift of Dhamma and aspiration
+Đầu sách / Front matter - 2
+
+**VI**
+Sabbadānaṃ dhammadānaṃ jināti.
+Sabbarasaṃ dhammaraso jināti.
+Sabbaratiṃ dhammarati jināti.
+Taṇhakkhayo sabbadukkhaṃ jināti.
+
+**EN**
+Sabbadānaṃ dhammadānaṃ jināti.
+Sabbarasaṃ dhammaraso jināti.
+Sabbaratiṃ dhammarati jināti.
+Taṇhakkhayo sabbadukkhaṃ jināti.
+
+**VI**
+Pháp thí thắng mọi sự bố thí.
+Vị Pháp thắng mọi vị.
+Niềm vui trong Pháp thắng mọi niềm vui.
+Ái diệt thắng mọi khổ.
+
+**EN**
+The gift of Dhamma surpasses every gift.
+The taste of Dhamma surpasses every taste.
+Delight in Dhamma surpasses every delight.
+The destruction of craving overcomes all suffering.
+
+**VI**
+Ciraṃ tiṭṭhatu saddhammo, dhamme hontu sagāravā.
+
+**EN**
+Ciraṃ tiṭṭhatu saddhammo, dhamme hontu sagāravā.
+
+**VI**
+Nguyện giáo pháp của Đức Phật tồn tại lâu dài. Nguyện mọi người kính trọng ba loại Chánh pháp.
+
+**EN**
+May the Buddha’s dispensation endure for a long time. May all honour the three kinds of true Dhamma.
+
+
+<a id="M06-front-P003"></a>
+## Mục lục — က / Table of contents — က
+Đầu sách / Front matter - 3
+
+**VI**
+Namo tassa bhagavato arahato sammāsambuddhassa.
+
+**EN**
+Namo tassa bhagavato arahato sammāsambuddhassa.
+
+**VI**
+Phần Duyên khởi (Paṭiccasamuppāda) — B. Mục lục.
+
+**EN**
+Dependent Origination — B. Table of contents.
+
+**VI**
+Phần 1 — 1
+
+**EN**
+Part 1 — 1
+
+**VI**
+Pāli Phân tích Duyên khởi — Phương pháp phân tích theo Kinh (Suttantabhājanīya) — 1
+
+**EN**
+Pāli Analysis of Dependent Origination — Analysis according to the Discourses (Suttantabhājanīya) — 1
+
+**VI**
+Nghĩa của đoạn Pāli để ghi nhớ — 5
+
+**EN**
+Meaning of the Pāli passage for memorization — 5
+
+**VI**
+Thế nào là pháp Duyên khởi? — 21
+
+**EN**
+What is the teaching of dependent origination? — 21
+
+**VI**
+Con đường Trung đạo (Majjhimā paṭipadā) — 22
+
+**EN**
+The Middle Way (Majjhimā paṭipadā) — 22
+
+**VI**
+Thế nào là Trung đạo đưa đến Niết-bàn? — 23
+
+**EN**
+What is the Middle Way leading to Nibbāna? — 23
+
+**VI**
+Thế nào là Duyên khởi? — 24
+
+**EN**
+What is dependent origination? — 24
+
+**VI**
+Giải nghĩa từ Paṭiccasamuppāda — 30
+
+**EN**
+Explanation of the term Paṭiccasamuppāda — 30
+
+**VI**
+Giải thích theo một cách khác — 33
+
+**EN**
+Explanation by another method — 33
+
+**VI**
+Giải thích thêm — 35
+
+**EN**
+Further explanation — 35
+
+**VI**
+Nhóm sắc và nhóm danh (rūpakalāpa, nāmakalāpa) — 40
+
+**EN**
+Groups of materiality and mentality (rūpakalāpa, nāmakalāpa) — 40
+
+**VI**
+Để có thể chấp nhận xác quyết — 44
+
+**EN**
+For arriving at a firm conclusion — 44
+
+**VI**
+Các lợi ích và công đức — 44
+
+**EN**
+Benefits and advantages — 44
+
+**VI**
+1. Từ paṭicca — 44
+
+**EN**
+1. The word paṭicca — 44
+
+**VI**
+2. Từ samuppāda — 48
+
+**EN**
+2. The word samuppāda — 48
+
+**VI**
+3. Paṭicca và samuppāda — 52
+
+**EN**
+3. Paṭicca and samuppāda — 52
+
+**VI**
+Giải thích thêm — 1. Trung đạo — 53
+
+**EN**
+Further explanation — 1. The Middle Way — 53
+
+**VI**
+2. Người làm và người thọ nhận — 55
+
+**EN**
+2. The doer and the experiencer — 55
+
+**VI**
+3. Cách diễn đạt thông dụng (janapadanirutti) — 60
+
+**EN**
+3. Common usage (janapadanirutti) — 60
+
+**VI**
+4. Không chấp chặt quy ước (samaññāya anatividhāvana) — 62
+
+**EN**
+4. Not overrunning conventional designation (samaññāya anatividhāvana) — 62
+
+
+<a id="M06-front-P004"></a>
+## Mục lục — ခ / Table of contents — ခ
+Đầu sách / Front matter - 4
+
+**VI**
+Phần 2 — 65
+
+**EN**
+Part 2 — 65
+
+**VI**
+Mười hai chi Duyên khởi — 65
+
+**EN**
+The twelve factors of dependent origination — 65
+
+**VI**
+Ba thời — 65
+
+**EN**
+Three periods — 65
+
+**VI**
+Ba mối nối — 66
+
+**EN**
+Three links — 66
+
+**VI**
+Bốn nhóm — 67
+
+**EN**
+Four groups — 67
+
+**VI**
+Hai mươi phương diện — 68
+
+**EN**
+Twenty aspects — 68
+
+**VI**
+Cách quán cần biết trước — 68
+
+**EN**
+A method of discernment to learn first — 68
+
+**VI**
+Đánh dấu riêng từng phần — 71
+
+**EN**
+Marking each part separately — 71
+
+**VI**
+Vô minh duyên hành — 72
+
+**EN**
+With ignorance as condition, formations — 72
+
+**VI**
+Lộ ý môn — 72
+
+**EN**
+Mind-door process — 72
+
+**VI**
+Hành duyên thức — 73
+
+**EN**
+With formations as condition, consciousness — 73
+
+**VI**
+Thức — 74
+
+**EN**
+Consciousness — 74
+
+**VI**
+Thức quả là ý thức — 75
+
+**EN**
+Resultant consciousness as mind-consciousness — 75
+
+**VI**
+Các mẫu quán — Tâm ngoài lộ — 76
+
+**EN**
+Examples of discernment — Process-free consciousness — 76
+
+**VI**
+Các thức quả trong lộ nhãn môn — 76
+
+**EN**
+Resultant consciousness in eye-door processes — 76
+
+**VI**
+Thức duyên danh sắc — 77
+
+**EN**
+With consciousness as condition, mentality-materiality — 77
+
+**VI**
+Thức nghiệp là thức tạo tác (abhisaṅkhāraviññāṇa) — 79
+
+**EN**
+Kamma-consciousness is formative consciousness (abhisaṅkhāraviññāṇa) — 79
+
+**VI**
+Danh và sắc — 80
+
+**EN**
+Mentality and materiality — 80
+
+**VI**
+Một số mẫu quán — 80
+
+**EN**
+Some examples of discernment — 80
+
+**VI**
+Lộ nhãn môn — Danh sắc quả — 81
+
+**EN**
+Eye-door process — Resultant mentality-materiality — 81
+
+**VI**
+Hành và nghiệp hữu là nghiệp — 81
+
+**EN**
+Formations and kamma-becoming are kamma — 81
+
+**VI**
+1. Hành tích lũy (āyūhanasaṅkhāra) — 82
+
+**EN**
+1. Accumulating formations (āyūhanasaṅkhāra) — 82
+
+**VI**
+Danh sắc đồng sinh sinh khởi do thức đồng sinh — 83
+
+**EN**
+How conascent mentality-materiality arises due to conascent consciousness — 83
+
+**VI**
+Danh sắc duyên sáu xứ — 87
+
+**EN**
+With mentality-materiality as condition, the six sense bases — 87
+
+
+<a id="M06-front-P005"></a>
+## Mục lục — ဂ / Table of contents — ဂ
+Đầu sách / Front matter - 5
+
+**VI**
+(a) Danh trợ duyên cho ý xứ như thế nào — 88
+
+**EN**
+(a) How mentality conditions the mind base — 88
+
+**VI**
+(b) Sắc xứ sinh khởi do danh sinh khởi như thế nào — 90
+
+**EN**
+(b) How material bases arise due to the arising of mentality — 90
+
+**VI**
+Tính chất nâng đỡ (upatthambhakasabhāva) — 92
+
+**EN**
+The supporting characteristic (upatthambhakasabhāva) — 92
+
+**VI**
+(c) Sắc xứ sinh khởi do sắc sinh khởi như thế nào — 97
+
+**EN**
+(c) How material bases arise due to the arising of materiality — 97
+
+**VI**
+(d) Ý xứ sinh khởi do sắc sinh khởi như thế nào — 98
+
+**EN**
+(d) How the mind base arises due to the arising of materiality — 98
+
+**VI**
+Một số mẫu quán — 99
+
+**EN**
+Some examples of discernment — 99
+
+**VI**
+(e) Ý xứ sinh khởi do danh sắc sinh khởi như thế nào — 102
+
+**EN**
+(e) How the mind base arises due to the arising of mentality-materiality — 102
+
+**VI**
+Một số mẫu quán — 103
+
+**EN**
+Some examples of discernment — 103
+
+**VI**
+Các mẫu quán để thực hành theo phương pháp này — 104
+
+**EN**
+Examples for practising this method of discernment — 104
+
+**VI**
+Sáu xứ duyên xúc — 105
+
+**EN**
+With the six sense bases as condition, contact — 105
+
+**VI**
+Một số mẫu quán — Ý xúc tái tục — 107
+
+**EN**
+Some examples of discernment — Rebirth-linking mind-contact — 107
+
+**VI**
+Pháp xứ tương ưng — 108
+
+**EN**
+The associated mental-object base — 108
+
+**VI**
+Ý xúc của tâm hướng ngũ môn (tiến trình có cảnh sắc) — 108, 109
+
+**EN**
+Mind-contact in five-door adverting (visible-object series) — 108, 109
+
+**VI**
+Nhãn xúc là xúc tương ưng với nhãn thức — 109
+
+**EN**
+Eye-contact is the contact associated with eye-consciousness — 109
+
+**VI**
+Ý xúc trong tâm tiếp thọ (tiến trình có cảnh sắc) — 110
+
+**EN**
+Mind-contact in receiving (visible-object series) — 110
+
+**VI**
+Ý xúc trong tâm suy đạc (tiến trình có cảnh sắc) — 110
+
+**EN**
+Mind-contact in investigating (visible-object series) — 110
+
+**VI**
+Ý xúc trong tâm xác định (tiến trình có cảnh sắc) — 110
+
+**EN**
+Mind-contact in determining (visible-object series) — 110
+
+**VI**
+Ý xúc trong tốc hành thứ nhất (cảnh sắc, tốc hành thiện) — 110
+
+**EN**
+Mind-contact in the first impulsion (visible-object series, wholesome impulsion) — 110
+
+**VI**
+Ý xúc trong tâm đồng sở duyên thứ nhất (tiến trình có cảnh sắc) — 111
+
+**EN**
+Mind-contact in the first registering consciousness (visible-object series) — 111
+
+**VI**
+Ý xúc của tâm hướng ý môn (cảnh sắc) — 111
+
+**EN**
+Mind-contact in mind-door adverting (visible object) — 111
+
+**VI**
+Xúc duyên thọ — 113
+
+**EN**
+With contact as condition, feeling — 113
+
+**VI**
+Thọ sinh từ nhãn xúc và thọ do nhãn xúc làm duyên — 113
+
+**EN**
+Feeling born of eye-contact and feeling conditioned by eye-contact — 113
+
+**VI**
+Thế nào là ý xúc? — 117
+
+**EN**
+What is mind-contact? — 117
+
+**VI**
+Thọ duyên ái — 118
+
+**EN**
+With feeling as condition, craving — 118
+
+**VI**
+Lời nói về tương lai (anāgatavacīkatā) — 121
+
+**EN**
+A statement concerning the future (anāgatavacīkatā) — 121
+
+
+<a id="M06-front-P006"></a>
+## Mục lục — ဃ / Table of contents — ဃ
+Đầu sách / Front matter - 6
+
+**VI**
+Một số mẫu quán — 121
+
+**EN**
+Some examples of discernment — 121
+
+**VI**
+Pháp ái — 122
+
+**EN**
+Craving for mental objects — 122
+
+**VI**
+Trong dòng tương tục của các bậc A-la-hán — 122
+
+**EN**
+In the continuity of the Arahants — 122
+
+**VI**
+Ái duyên thủ — 123
+
+**EN**
+With craving as condition, clinging — 123
+
+**VI**
+Dục thủ — 124
+
+**EN**
+Clinging to sensual pleasures — 124
+
+**VI**
+Kiến thủ — 124
+
+**EN**
+Clinging to views — 124
+
+**VI**
+Giới cấm thủ — 124
+
+**EN**
+Clinging to rules and observances — 124
+
+**VI**
+Ngã luận thủ — 124
+
+**EN**
+Clinging to a doctrine of self — 124
+
+**VI**
+Một cách quán phân biệt — Mẫu quán — 126
+
+**EN**
+A way of discerning separately — An example — 126
+
+**VI**
+Mẫu lộ tâm của ái và thủ — 127
+
+**EN**
+Example cognitive processes for craving and clinging — 127
+
+**VI**
+Điều cần lưu ý — 128
+
+**EN**
+A point to note — 128
+
+**VI**
+Thủ duyên hữu — 128
+
+**EN**
+With clinging as condition, becoming — 128
+
+**VI**
+Một điều cần lưu ý — 129
+
+**EN**
+One point to note — 129
+
+**VI**
+Cách quán để ghi tóm tắt — 131
+
+**EN**
+A concise pattern of discernment for memorization — 131
+
+**VI**
+Một số mẫu quán — 132
+
+**EN**
+Some examples of discernment — 132
+
+**VI**
+Chuỗi tâm tốc hành trong lộ ý môn — 132
+
+**EN**
+The sequence of impulsion consciousness in the mind-door process — 132
+
+**VI**
+Hữu duyên sinh — 133
+
+**EN**
+With becoming as condition, birth — 133
+
+**VI**
+Mẫu quán tóm lược — 134
+
+**EN**
+A brief example of discernment — 134
+
+**VI**
+Một điểm đáng đặt câu hỏi — 134
+
+**EN**
+A point for inquiry — 134
+
+**VI**
+Sinh duyên già chết — Mẫu quán — 136
+
+**EN**
+With birth as condition, aging and death — An example of discernment — 136
+
+**VI**
+Sầu, bi, khổ, ưu, não — 137
+
+**EN**
+Sorrow, lamentation, pain, grief, and despair — 137
+
+**VI**
+Mẫu quán tóm lược — 137
+
+**EN**
+A brief example of discernment — 137
+
+**VI**
+Chuỗi lộ tâm của sầu, bi, ưu và não — 141
+
+**EN**
+The sequence of cognitive processes for sorrow, lamentation, grief, and despair — 141
+
+**VI**
+Bốn cách thuyết Duyên khởi — 142
+
+**EN**
+Four ways of teaching dependent origination — 142
+
+**VI**
+Từ đầu đến cuối — Duyên khởi thuận chiều (1) — 142
+
+**EN**
+From beginning to end — Dependent origination in forward order (1) — 142
+
+
+<a id="M06-front-P007"></a>
+## Mục lục — င / Table of contents — င
+Đầu sách / Front matter - 7
+
+**VI**
+Từ giữa đến cuối — Duyên khởi thuận chiều (2) — 143
+
+**EN**
+From the middle to the end — Dependent origination in forward order (2) — 143
+
+**VI**
+Từ cuối đến đầu — Duyên khởi nghịch chiều (1) — 144
+
+**EN**
+From end to beginning — Dependent origination in reverse order (1) — 144
+
+**VI**
+Từ giữa đến đầu — Duyên khởi nghịch chiều (2) — 145
+
+**EN**
+From the middle to the beginning — Dependent origination in reverse order (2) — 145
+
+**VI**
+Duyên khởi thuận chiều — Cách thứ hai (2) — 147
+
+**EN**
+Dependent origination in forward order — The second method (2) — 147
+
+**VI**
+Từ cuối đến đầu — Duyên khởi nghịch chiều (1) — 151
+
+**EN**
+From end to beginning — Dependent origination in reverse order (1) — 151
+
+**VI**
+Một số mẫu quán — 152
+
+**EN**
+Some examples of discernment — 152
+
+**VI**
+Từ giữa đến đầu — Duyên khởi nghịch chiều, cách thứ hai (2) — 153
+
+**EN**
+From the middle to the beginning — Dependent origination in reverse order, the second method (2) — 153
+
+**VI**
+Bốn loại vật thực — 153
+
+**EN**
+The four kinds of nutriment — 153
+
+**VI**
+Vật thực phi nghiệp sinh là vật thực không bị chấp thủ (anupādiṇṇaka āhāra) — 155
+
+**EN**
+Nutriment not born of kamma is non-kammically acquired nutriment (anupādiṇṇaka āhāra) — 155
+
+**VI**
+Đoàn thực (kabaḷīkāra āhāra) — 156
+
+**EN**
+Edible food (kabaḷīkāra āhāra) — 156
+
+**VI**
+Năng lực của bốn loại vật thực — 158
+
+**EN**
+The powers of the four kinds of nutriment — 158
+
+**VI**
+Đoàn thực — 158
+
+**EN**
+Edible food — 158
+
+**VI**
+Xúc thực — 158
+
+**EN**
+Contact as nutriment — 158
+
+**VI**
+Tư niệm thực — 159
+
+**EN**
+Mental volition as nutriment — 159
+
+**VI**
+Thức thực — 159
+
+**EN**
+Consciousness as nutriment — 159
+
+**VI**
+Điểm tóm lược để thực hành quán — 162
+
+**EN**
+A summary point for discernment — 162
+
+**VI**
+Cách quán bắt đầu từ bốn vật thực thuộc vòng quả — 163
+
+**EN**
+How to discern beginning with the four nutriments of the round of results — 163
+
+**VI**
+Cách quán bắt đầu từ bốn vật thực thuộc vòng nghiệp — 164
+
+**EN**
+How to discern beginning with the four nutriments of the round of kamma — 164
+
+**VI**
+Một cách giải nghĩa — 165
+
+**EN**
+One way of explaining the meaning — 165
+
+**VI**
+Lý do Đức Phật giảng theo bốn cách — 166
+
+**EN**
+Why the Buddha taught in four ways — 166
+
+**VI**
+Duyên khởi thuận chiều — Cách thứ nhất (1) — 168
+
+**EN**
+Dependent origination in forward order — The first method (1) — 168
+
+**VI**
+Duyên khởi thuận chiều — Cách thứ hai (2) — 169
+
+**EN**
+Dependent origination in forward order — The second method (2) — 169
+
+**VI**
+Duyên khởi nghịch chiều — Cách thứ nhất (1) — 169
+
+**EN**
+Dependent origination in reverse order — The first method (1) — 169
+
+**VI**
+Tuệ Kim cang lớn (Mahāvajiravipassanāñāṇa) — 170
+
+**EN**
+Great diamond insight knowledge (Mahāvajiravipassanāñāṇa) — 170
+
+
+<a id="M06-front-P008"></a>
+## Mục lục — စ / Table of contents — စ
+Đầu sách / Front matter - 8
+
+**VI**
+Duyên khởi nghịch chiều — Cách thứ hai (2) — 171
+
+**EN**
+Dependent origination in reverse order — The second method (2) — 171
+
+**VI**
+Lời khuyến tấn cuối sách — 171
+
+**EN**
+Concluding exhortation — 171
+
+
+<a id="M06-body-P001"></a>
+## Phần 1 · Phân tích Duyên khởi theo Kinh / Part 1 · Analysis of dependent origination according to the Discourses
+Miến / Burmese 1
+
+**VI**
+Namo tassa bhagavato arahato sammāsambuddhassa.
+
+**EN**
+Namo tassa bhagavato arahato sammāsambuddhassa.
+
+**VI**
+Phần Duyên khởi (Paṭiccasamuppāda) — B. Phần 1. Pāli Phân tích Duyên khởi — Phương pháp phân tích theo Kinh (Suttantabhājanīya).
+
+**EN**
+Dependent Origination (Paṭiccasamuppāda) — B. Part 1. Pāli Analysis of Dependent Origination — Analysis according to the Discourses (Suttantabhājanīya).
+
+**VI**
+Avijjāpaccayā saṅkhārā, saṅkhārapaccayā viññāṇaṃ, viññāṇapaccayā nāmarūpaṃ, nāmarūpapaccayā saḷāyatanaṃ, saḷāyatanapaccayā phasso, phassapaccayā vedanā, vedanāpaccayā taṇhā, taṇhāpaccayā upādānaṃ, upādānapaccayā bhavo, bhavapaccayā jāti, jātipaccayā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā sambhavanti. Evametassa kevalassa dukkhakkhandhassa samudayo hoti.
+
+Do vô minh làm duyên, hành sinh khởi. Do hành làm duyên, thức sinh khởi. Do thức làm duyên, danh sắc sinh khởi. Do danh sắc làm duyên, sáu xứ sinh khởi. Do sáu xứ làm duyên, xúc sinh khởi. Do xúc làm duyên, thọ sinh khởi. Do thọ làm duyên, ái sinh khởi. Do ái làm duyên, thủ sinh khởi. Do thủ làm duyên, hữu sinh khởi. Do hữu làm duyên, sinh sinh khởi. Do sinh làm duyên, già chết, sầu, bi, khổ, ưu và não sinh khởi. Toàn bộ khối khổ này sinh khởi như vậy.
+
+**EN**
+Avijjāpaccayā saṅkhārā, saṅkhārapaccayā viññāṇaṃ, viññāṇapaccayā nāmarūpaṃ, nāmarūpapaccayā saḷāyatanaṃ, saḷāyatanapaccayā phasso, phassapaccayā vedanā, vedanāpaccayā taṇhā, taṇhāpaccayā upādānaṃ, upādānapaccayā bhavo, bhavapaccayā jāti, jātipaccayā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā sambhavanti. Evametassa kevalassa dukkhakkhandhassa samudayo hoti.
+
+With ignorance as condition, formations arise. With formations as condition, consciousness arises. With consciousness as condition, mentality-materiality arises. With mentality-materiality as condition, the six sense bases arise. With the six sense bases as condition, contact arises. With contact as condition, feeling arises. With feeling as condition, craving arises. With craving as condition, clinging arises. With clinging as condition, becoming arises. With becoming as condition, birth arises. With birth as condition, aging and death, sorrow, lamentation, pain, grief, and despair arise. Thus this whole mass of suffering originates.
+
+**VI**
+Ở đây, thế nào là vô minh (avijjā)? Không biết khổ, không biết nguồn gốc của khổ, không biết sự diệt khổ, không biết con đường đưa đến sự diệt khổ. Đây gọi là vô minh.
+
+**EN**
+Here, what is ignorance (avijjā)? Not knowing suffering, not knowing the origin of suffering, not knowing the cessation of suffering, and not knowing the way leading to the cessation of suffering. This is called ignorance.
+
+**VI**
+Ở đây, thế nào là các hành do vô minh làm duyên? Phúc hành (puññābhisaṅkhāra), phi phúc hành (apuññābhisaṅkhāra), bất động hành (āneñjābhisaṅkhāra), thân hành (kāyasaṅkhāra), khẩu hành (vacīsaṅkhāra) và tâm hành (cittasaṅkhāra).
+
+**EN**
+Here, what are the formations conditioned by ignorance? Meritorious formation (puññābhisaṅkhāra), demeritorious formation (apuññābhisaṅkhāra), imperturbable formation (āneñjābhisaṅkhāra), bodily formation (kāyasaṅkhāra), verbal formation (vacīsaṅkhāra), and mental formation (cittasaṅkhāra).
+
+**VI**
+Ở đây, thế nào là phúc hành? Tư thiện thuộc dục giới và sắc giới, do bố thí, do trì giới hoặc do tu tập. Đây gọi là phúc hành.
+
+**EN**
+Here, what is meritorious formation? Wholesome volition of the sense sphere and the fine-material sphere, consisting in giving, virtue, or development. This is called meritorious formation.
+
+
+<a id="M06-body-P002"></a>
+## Hành, thức, danh sắc, sáu xứ, xúc và thọ / Formations, consciousness, mentality-materiality, the six bases, contact, and feeling
+Miến / Burmese 2
+
+**VI**
+Ở đây, thế nào là phi phúc hành? Tư bất thiện thuộc dục giới. Đây gọi là phi phúc hành.
+
+**EN**
+Here, what is demeritorious formation? Unwholesome volition of the sense sphere. This is called demeritorious formation.
+
+**VI**
+Ở đây, thế nào là bất động hành? Tư thiện thuộc vô sắc giới. Đây gọi là bất động hành.
+
+**EN**
+Here, what is imperturbable formation? Wholesome volition of the immaterial sphere. This is called imperturbable formation.
+
+**VI**
+Ở đây, thế nào là thân hành? Tư thuộc thân là thân hành. Tư thuộc lời nói là khẩu hành. Tư thuộc ý là tâm hành. Đây gọi là các hành do vô minh làm duyên.
+
+**EN**
+Here, what is bodily formation? Bodily volition is bodily formation. Verbal volition is verbal formation. Mental volition is mental formation. These are called formations conditioned by ignorance.
+
+**VI**
+Ở đây, thế nào là thức do hành làm duyên? Nhãn thức, nhĩ thức, tỷ thức, thiệt thức, thân thức và ý thức. Đây gọi là thức do hành làm duyên.
+
+**EN**
+Here, what is consciousness conditioned by formations? Eye-consciousness, ear-consciousness, nose-consciousness, tongue-consciousness, body-consciousness, and mind-consciousness. This is called consciousness conditioned by formations.
+
+**VI**
+Ở đây, thế nào là danh sắc do thức làm duyên? Có danh và có sắc. Thế nào là danh? Thọ uẩn, tưởng uẩn và hành uẩn. Đây gọi là danh. Thế nào là sắc? Bốn đại chủng và sắc y sinh từ bốn đại chủng. Đây gọi là sắc. Như vậy, đây là danh, đây là sắc. Đây gọi là danh sắc do thức làm duyên.
+
+**EN**
+Here, what is mentality-materiality conditioned by consciousness? There is mentality and there is materiality. What is mentality? The feeling aggregate, perception aggregate, and formations aggregate. This is called mentality. What is materiality? The four great elements and materiality derived from them. This is called materiality. Thus there is this mentality and this materiality. This is called mentality-materiality conditioned by consciousness.
+
+**VI**
+Ở đây, thế nào là sáu xứ do danh sắc làm duyên? Nhãn xứ, nhĩ xứ, tỷ xứ, thiệt xứ, thân xứ và ý xứ. Đây gọi là sáu xứ do danh sắc làm duyên.
+
+**EN**
+Here, what are the six sense bases conditioned by mentality-materiality? The eye base, ear base, nose base, tongue base, body base, and mind base. These are called the six sense bases conditioned by mentality-materiality.
+
+**VI**
+Ở đây, thế nào là xúc do sáu xứ làm duyên? Nhãn xúc, nhĩ xúc, tỷ xúc, thiệt xúc, thân xúc và ý xúc. Đây gọi là xúc do sáu xứ làm duyên.
+
+**EN**
+Here, what is contact conditioned by the six sense bases? Eye-contact, ear-contact, nose-contact, tongue-contact, body-contact, and mind-contact. This is called contact conditioned by the six sense bases.
+
+**VI**
+Ở đây, thế nào là thọ do xúc làm duyên? Thọ sinh từ nhãn xúc, thọ sinh từ nhĩ xúc, thọ sinh từ tỷ xúc, thọ sinh từ thiệt xúc, thọ sinh từ thân xúc và thọ sinh từ ý xúc. Đây gọi là thọ do xúc làm duyên.
+
+**EN**
+Here, what is feeling conditioned by contact? Feeling born of eye-contact, feeling born of ear-contact, feeling born of nose-contact, feeling born of tongue-contact, feeling born of body-contact, and feeling born of mind-contact. This is called feeling conditioned by contact.
+
+
+<a id="M06-body-P003"></a>
+## Ái, thủ, hữu, sinh và già chết / Craving, clinging, becoming, birth, and aging and death
+Miến / Burmese 3
+
+**VI**
+Ở đây, thế nào là ái do thọ làm duyên? Ái đối với cảnh sắc, cảnh thinh, cảnh hương, cảnh vị, cảnh xúc và cảnh pháp. Đây gọi là ái do thọ làm duyên.
+
+**EN**
+Here, what is craving conditioned by feeling? Craving for visible objects, sounds, odours, tastes, tangibles, and mental objects. This is called craving conditioned by feeling.
+
+**VI**
+Ở đây, thế nào là thủ do ái làm duyên? Dục thủ, kiến thủ, giới cấm thủ và ngã luận thủ. Đây gọi là thủ do ái làm duyên.
+
+**EN**
+Here, what is clinging conditioned by craving? Clinging to sensual pleasures, clinging to views, clinging to rules and observances, and clinging to a doctrine of self. This is called clinging conditioned by craving.
+
+**VI**
+Ở đây, thế nào là hữu do thủ làm duyên? Hữu có hai loại: nghiệp hữu (kammabhava) và sinh hữu (upapattibhava). Ở đây, thế nào là nghiệp hữu? Phúc hành, phi phúc hành và bất động hành. Đây gọi là nghiệp hữu. Tất cả nghiệp đưa đến hữu đều là nghiệp hữu.
+
+**EN**
+Here, what is becoming conditioned by clinging? Becoming is twofold: kamma-becoming (kammabhava) and rebirth-becoming (upapattibhava). Here, what is kamma-becoming? Meritorious, demeritorious, and imperturbable formation. This is called kamma-becoming. All kamma leading to becoming is kamma-becoming.
+
+**VI**
+Ở đây, thế nào là sinh hữu? Dục hữu, sắc hữu, vô sắc hữu, hữu có tưởng, hữu không tưởng, hữu phi tưởng phi phi tưởng, hữu một uẩn, hữu bốn uẩn và hữu năm uẩn. Đây gọi là sinh hữu. Đây gọi là hữu do thủ làm duyên.
+
+**EN**
+Here, what is rebirth-becoming? Sense-sphere becoming, fine-material becoming, immaterial becoming, percipient becoming, non-percipient becoming, neither-percipient-nor-non-percipient becoming, one-aggregate becoming, four-aggregate becoming, and five-aggregate becoming. This is called rebirth-becoming. This is called becoming conditioned by clinging.
+
+**VI**
+Ở đây, thế nào là sinh do hữu làm duyên? Sự sinh, ra đời, nhập thai, sinh ra, sự xuất hiện của các uẩn và sự đạt được các xứ của các chúng sinh ấy trong từng loài chúng sinh. Đây gọi là sinh do hữu làm duyên.
+
+**EN**
+Here, what is birth conditioned by becoming? The birth, being born, descent, generation, manifestation of the aggregates, and acquisition of the bases of the various beings in their respective orders of beings. This is called birth conditioned by becoming.
+
+**VI**
+Ở đây, thế nào là già chết do sinh làm duyên? Có già và có chết. Ở đây, thế nào là già? Sự già, tình trạng già, răng gãy, tóc bạc, da nhăn, tuổi thọ suy giảm và các quyền chín muồi của các chúng sinh ấy trong từng loài chúng sinh. Đây gọi là già.
+
+**EN**
+Here, what are aging and death conditioned by birth? There is aging and there is death. Here, what is aging? The aging, agedness, broken teeth, grey hair, wrinkled skin, decline of the life span, and ripening of the faculties of the various beings in their respective orders of beings. This is called aging.
+
+**VI**
+Ở đây, thế nào là chết? Sự mất đi, lìa khỏi, tan rã, biến mất, chết, qua đời, mạng chung…
+
+**EN**
+Here, what is death? The passing away, departure, breakup, disappearance, dying, death, and completion of the allotted time…
+
+
+<a id="M06-body-P004"></a>
+## Chết, sầu, bi, khổ, ưu và não / Death, sorrow, lamentation, pain, grief, and despair
+Miến / Burmese 4
+
+**VI**
+… sự tan rã của các uẩn, sự bỏ lại thân xác và sự cắt đứt mạng quyền của các chúng sinh ấy khi lìa khỏi từng loài chúng sinh. Đây gọi là chết. Như vậy, đây là già, đây là chết. Đây gọi là già chết do sinh làm duyên.
+
+**EN**
+… the breakup of the aggregates, the laying down of the body, and the cutting off of the life faculty of the various beings departing from their respective orders of beings. This is called death. Thus there is this aging and this death. These are called aging and death conditioned by birth.
+
+**VI**
+Ở đây, thế nào là sầu (soka)? Khi một người gặp sự mất mát về thân quyến, tài sản, sức khỏe, giới hạnh hoặc kiến giải, hoặc khi họ gặp một sự mất mát hay bị một nỗi khổ nào đó tác động, sự sầu muộn, buồn rầu, trạng thái sầu muộn, nỗi sầu bên trong, sự sầu não bên trong, sự thiêu đốt của tâm, sự buồn khổ và mũi tên sầu muộn của người ấy. Đây gọi là sầu.
+
+**EN**
+Here, what is sorrow (soka)? When someone meets with loss of relatives, wealth, health, virtue, or view, or is affected by some loss or pain, there is their sorrow, sorrowing, state of sorrow, inner sorrow, inner anguish, burning of the mind, dejection, and dart of sorrow. This is called sorrow.
+
+**VI**
+Ở đây, thế nào là bi (parideva)? Khi một người gặp sự mất mát về thân quyến, tài sản, sức khỏe, giới hạnh hoặc kiến giải, hoặc khi họ gặp một sự mất mát hay bị một nỗi khổ nào đó tác động, sự than khóc, ai oán, than thở, khóc lóc, trạng thái than khóc, trạng thái ai oán, lời than, lời than dữ dội, lời than rối loạn, sự than vãn, trạng thái than vãn và lời than vãn của người ấy. Đây gọi là bi.
+
+**EN**
+Here, what is lamentation (parideva)? When someone meets with loss of relatives, wealth, health, virtue, or view, or is affected by some loss or pain, there is their wailing, lamenting, crying out, weeping, state of wailing, state of lamenting, outcry, loud outcry, confused outcry, babbling, state of babbling, and babbled utterance. This is called lamentation.
+
+**VI**
+Ở đây, thế nào là khổ (dukkha)? Sự khó chịu nơi thân, đau khổ nơi thân, cảm giác khó chịu và đau khổ sinh từ thân xúc, khổ thọ khó chịu sinh từ thân xúc. Đây gọi là khổ.
+
+**EN**
+Here, what is pain (dukkha)? Bodily discomfort, bodily pain, the unpleasant and painful experience born of body-contact, and the painful, unpleasant feeling born of body-contact. This is called pain.
+
+**VI**
+Ở đây, thế nào là ưu (domanassa)? Sự khó chịu nơi tâm, đau khổ nơi tâm, cảm giác khó chịu và đau khổ sinh từ ý xúc, khổ thọ khó chịu sinh từ ý xúc. Đây gọi là ưu.
+
+**EN**
+Here, what is grief (domanassa)? Mental discomfort, mental pain, the unpleasant and painful experience born of mind-contact, and the painful, unpleasant feeling born of mind-contact. This is called grief.
+
+**VI**
+Ở đây, thế nào là não (upāyāsa)? Khi một người gặp sự mất mát về thân quyến, tài sản, sức khỏe, giới hạnh hoặc kiến giải, hoặc khi họ gặp một sự mất mát…
+
+**EN**
+Here, what is despair (upāyāsa)? When someone meets with loss of relatives, wealth, health, virtue, or view, or is affected by some loss…
+
+
+<a id="M06-body-P005"></a>
+## Kết đoạn Pāli và phần giải nghĩa để ghi nhớ / End of the Pāli passage and explanation for memorization
+Miến / Burmese 5
+
+**VI**
+… hay bị một nỗi khổ nào đó tác động, sự bức bách, tuyệt vọng, trạng thái bức bách và trạng thái tuyệt vọng của người ấy. Đây gọi là não.
+
+**EN**
+… or pain, there is their distress, despair, state of distress, and state of despair. This is called despair.
+
+**VI**
+“Toàn bộ khối khổ này sinh khởi như vậy.” Toàn bộ khối khổ này kết thành, tụ họp, hội lại và hiện ra như vậy. Do đó nói: “Toàn bộ khối khổ này sinh khởi như vậy.”
+
+**EN**
+“Thus this whole mass of suffering originates.” Thus this whole mass of suffering comes together, gathers, converges, and becomes manifest. Hence it is said: “Thus this whole mass of suffering originates.”
+
+**VI**
+Dẫn theo nguyên tác: Abhidhamma, quyển 2, tr. 142–145. Hết phần phân tích theo Kinh (Suttantabhājanīya).
+
+**EN**
+Source cited in the original: Abhidhamma, vol. 2, pp. 142–145. End of the analysis according to the Discourses (Suttantabhājanīya).
+
+**VI**
+Nghĩa của đoạn Pāli để ghi nhớ.
+
+**EN**
+Meaning of the Pāli passage for memorization.
+
+**VI**
+1. Avijjāpaccayā: do pháp làm nhân là vô minh đang hiện hữu, tức không biết và biết sai về Tứ Thánh đế. Saṅkhārā: các hành tạo tác và vun bồi đời hiện tại và đời sau trong luân hồi. Sambhavanti: hiện ra, sinh khởi.
+
+**EN**
+1. Avijjāpaccayā: because ignorance, the causal dhamma, is present, that is, not knowing and knowing wrongly about the Four Noble Truths. Saṅkhārā: formations that fashion and nurture the present life and future lives in saṃsāra. Sambhavanti: become manifest, arise.
+
+**VI**
+2. Saṅkhārapaccayā: do pháp làm nhân là các hành tạo tác và vun bồi đời hiện tại và đời sau trong luân hồi đang hiện hữu. Viññāṇaṃ: thức nghiệp (kammaviññāṇa), hoặc thức quả (vipākaviññāṇa). Sambhavati: hiện ra, sinh khởi.
+
+**EN**
+2. Saṅkhārapaccayā: because formations that fashion and nurture the present life and future lives in saṃsāra are present as the causal dhamma. Viññāṇaṃ: kamma-consciousness (kammaviññāṇa), or resultant consciousness (vipākaviññāṇa). Sambhavati: becomes manifest, arises.
+
+**VI**
+3. (a) Viññāṇapaccayā: do pháp làm nhân là thức nghiệp đang hiện hữu. Nāmarūpaṃ: các danh pháp quả và các sắc pháp do nghiệp sinh. Sambhavati: hiện ra, sinh khởi.
+
+**EN**
+3. (a) Viññāṇapaccayā: because kamma-consciousness is present as the causal dhamma. Nāmarūpaṃ: resultant mental phenomena and material phenomena born of kamma. Sambhavati: becomes manifest, arises.
+
+**VI**
+(b) Theo cách khác, viññāṇapaccayā: do pháp làm nhân là thức quả đang hiện hữu. Nāmarūpaṃ: các tâm sở quả…
+
+**EN**
+(b) Alternatively, viññāṇapaccayā: because resultant consciousness is present as the causal dhamma. Nāmarūpaṃ: the resultant mental factors…
+
+
+<a id="M06-body-P006"></a>
+## Giải nghĩa các chi Duyên khởi để ghi nhớ / Explanation of the factors of dependent origination for memorization
+Miến / Burmese 6
+
+**VI**
+… và sắc do tâm quả sinh. Sambhavati: hiện ra, sinh khởi.
+
+**EN**
+… and materiality born of resultant consciousness. Sambhavati: becomes manifest, arises.
+
+**VI**
+4. Nāmarūpapaccayā: do pháp làm nhân là danh sắc ấy đang hiện hữu. Saḷāyatanaṃ: sáu nội xứ. Sambhavati: hiện ra, sinh khởi.
+
+**EN**
+4. Nāmarūpapaccayā: because that mentality-materiality is present as the causal dhamma. Saḷāyatanaṃ: the six internal sense bases. Sambhavati: becomes manifest, arises.
+
+**VI**
+5. Saḷāyatanapaccayā: do pháp làm nhân là sáu nội xứ ấy đang hiện hữu. Phasso: sáu loại xúc. Sambhavati: hiện ra, sinh khởi.
+
+**EN**
+5. Saḷāyatanapaccayā: because those six internal sense bases are present as the causal dhamma. Phasso: the six kinds of contact. Sambhavati: becomes manifest, arises.
+
+**VI**
+6. Phassapaccayā: do pháp làm nhân là sáu loại xúc ấy đang hiện hữu. Vedanā: sáu loại thọ. Sambhavati: hiện ra, sinh khởi.
+
+**EN**
+6. Phassapaccayā: because those six kinds of contact are present as the causal dhamma. Vedanā: the six kinds of feeling. Sambhavati: becomes manifest, arises.
+
+**VI**
+7. Vedanāpaccayā: do pháp làm nhân là sáu loại thọ ấy đang hiện hữu. Taṇhā: sáu loại ái. Sambhavati: hiện ra, sinh khởi.
+
+**EN**
+7. Vedanāpaccayā: because those six kinds of feeling are present as the causal dhamma. Taṇhā: the six kinds of craving. Sambhavati: becomes manifest, arises.
+
+**VI**
+8. Taṇhāpaccayā: do pháp làm nhân là sáu loại ái ấy đang hiện hữu. Upādānaṃ: bốn loại chấp thủ. Sambhavati: hiện ra, sinh khởi.
+
+**EN**
+8. Taṇhāpaccayā: because those six kinds of craving are present as the causal dhamma. Upādānaṃ: the four kinds of clinging. Sambhavati: becomes manifest, arises.
+
+**VI**
+9. Upādānapaccayā: do pháp làm nhân là bốn loại chấp thủ ấy đang hiện hữu. Bhavo: nghiệp hữu và sinh hữu. Sambhavati: hiện ra, sinh khởi.
+
+**EN**
+9. Upādānapaccayā: because those four kinds of clinging are present as the causal dhamma. Bhavo: kamma-becoming and rebirth-becoming. Sambhavati: becomes manifest, arises.
+
+**VI**
+10. Bhavapaccayā: do pháp làm nhân là nghiệp hữu ấy đang hiện hữu. Jāti: sự thiết lập tái tục, tức pháp sinh. Sambhavati: hiện ra, sinh khởi.
+
+**EN**
+10. Bhavapaccayā: because that kamma-becoming is present as the causal dhamma. Jāti: the establishment of rebirth-linking, that is, the phenomenon of birth. Sambhavati: becomes manifest, arises.
+
+**VI**
+11. Jātipaccayā: do pháp làm nhân là sinh, tức sự thiết lập tái tục ấy, đang hiện hữu. Jarāmaraṇaṃ: sự già (jarā) và sự chết…
+
+**EN**
+11. Jātipaccayā: because birth, the establishment of rebirth-linking, is present as the causal dhamma. Jarāmaraṇaṃ: aging (jarā) and death…
+
+
+<a id="M06-body-P007"></a>
+## Vô minh và các hành / Ignorance and formations
+Miến / Burmese 7
+
+**VI**
+… (maraṇa). Sokaparidevadukkhadomanassupāyāsā là các pháp sầu lo (soka), khóc than (parideva), đau khổ nơi thân (dukkha), đau khổ nơi tâm (domanassa) và bức bách dữ dội (upāyāsa). Sambhavanti là hiện ra, sinh khởi.
+
+**EN**
+… (maraṇa). Sokaparidevadukkhadomanassupāyāsā means the phenomena of sorrow (soka), lamentation (parideva), bodily pain (dukkha), mental distress (domanassa), and intense anguish (upāyāsa). Sambhavanti means they become manifest and arise.
+
+**VI**
+Evaṃ là như vậy. Kevalassa là thuần một bề, không xen lẫn an lạc. Etassa dukkhakkhandhassa là của khối khổ, tập hợp khổ này. Samudayo là nguyên nhân sinh khởi, hoặc theo cách khác là sự sinh khởi. Hoti là xuất hiện, sinh ra.
+
+**EN**
+Evaṃ means thus. Kevalassa means wholly, unmixed with happiness. Etassa dukkhakkhandhassa means of this mass, this aggregate of suffering. Samudayo means the cause of arising, or, alternatively, the arising itself. Hoti means it appears, comes to be.
+
+**VI**
+Tattha là trong đoạn Pāli “Avijjāpaccayā saṅkhārā”. Avijjā là vô minh. Katamā là thế nào?
+
+**EN**
+Tattha means in the Pāli passage “Avijjāpaccayā saṅkhārā.” Avijjā means ignorance. Katamā means what is it?
+
+**VI**
+1. Dukkhe là đối với Khổ Thánh đế. Aññāṇaṃ là không biết.
+
+**EN**
+1. Dukkhe means with regard to the noble truth of suffering. Aññāṇaṃ means not knowing.
+
+**VI**
+2. Dukkhasamudaye là đối với Tập Thánh đế, nguyên nhân sinh khổ. Aññāṇaṃ là không biết.
+
+**EN**
+2. Dukkhasamudaye means with regard to the noble truth of the origin, the cause of suffering. Aññāṇaṃ means not knowing.
+
+**VI**
+3. Dukkhanirodhe là đối với Diệt Thánh đế, sự chấm dứt khổ. Aññāṇaṃ là không biết.
+
+**EN**
+3. Dukkhanirodhe means with regard to the noble truth of cessation, the ending of suffering. Aññāṇaṃ means not knowing.
+
+**VI**
+4. Dukkhanirodhagāminiyā paṭipadāya là đối với Đạo Thánh đế, pháp hành trong sạch và cao quý đưa đến Niết-bàn, nơi khổ chấm dứt. Aññāṇaṃ là không biết.
+
+**EN**
+4. Dukkhanirodhagāminiyā paṭipadāya means with regard to the noble truth of the path, the pure and noble practice leading to Nibbāna, the ending of suffering. Aññāṇaṃ means not knowing.
+
+**VI**
+Ayaṃ là sự không biết này. Avijjā là vô minh. Vuccati là được gọi là.
+
+**EN**
+Ayaṃ means this lack of knowledge. Avijjā means ignorance. Vuccati means is called.
+
+**VI**
+Tattha là trong đoạn Pāli ấy. Avijjāpaccayā saṅkhārā là các hành sinh khởi do nhân là vô minh. Katame là những hành nào? Đó là:
+
+**EN**
+Tattha means in that Pāli passage. Avijjāpaccayā saṅkhārā means the formations that arise due to ignorance as their cause. Katame means which formations? They are:
+
+**VI**
+1. Puññābhisaṅkhāro là phúc hành.
+
+**EN**
+1. Puññābhisaṅkhāro is meritorious formation.
+
+
+<a id="M06-body-P008"></a>
+## Phúc hành, phi phúc hành và bất động hành / Meritorious, demeritorious, and imperturbable formations
+Miến / Burmese 8
+
+**VI**
+2. Apuññābhisaṅkhāro là phi phúc hành.
+
+**EN**
+2. Apuññābhisaṅkhāro is demeritorious formation.
+
+**VI**
+3. Āneñjābhisaṅkhāro là bất động hành.
+
+**EN**
+3. Āneñjābhisaṅkhāro is imperturbable formation.
+
+**VI**
+4. Kāyasaṅkhāro là thân hành.
+
+**EN**
+4. Kāyasaṅkhāro is bodily formation.
+
+**VI**
+5. Vacīsaṅkhāro là khẩu hành.
+
+**EN**
+5. Vacīsaṅkhāro is verbal formation.
+
+**VI**
+6. Cittasaṅkhāro là tâm hành.
+
+**EN**
+6. Cittasaṅkhāro is mental formation.
+
+**VI**
+1. Tattha là trong các hành ấy. Puññābhisaṅkhāro là phúc hành. Katamo là thế nào? Dānamayā là thành tựu do bố thí. Sīlamayā là thành tựu do trì giới. Bhāvanāmayā là thành tựu do tu tập, gồm tu tập chuẩn bị (parikammabhāvanā), tu tập cận hành (upacārabhāvanā) và tu tập minh sát (vipassanābhāvanā). Kāmāvacarā là thuộc phạm vi dục giới. Yā kusalā cetanā là tư đại thiện nào đó. (Ở đây, tác giả chỉ nói đến tu tập minh sát có thể đưa đến hữu, chứ không nói đến mọi nghiệp minh sát.) Bhāvanāmayā là thành tựu do tu tập thiền chỉ (samathabhāvanā), hoặc nói cách khác, do tu tập an chỉ (appanābhāvanā). Rūpāvacarā là thuộc phạm vi sắc giới. Yā kusalā cetanā là tư thiện sắc giới nào đó. Atthi là có. Ayaṃ là các tư thiện dục giới và tư thiện sắc giới này. Puññābhisaṅkhāro vuccati là được gọi là phúc hành. «Tám tâm đại thiện và năm tâm thiện sắc giới, tổng cộng mười ba.»
+
+**EN**
+1. Tattha means among those formations. Puññābhisaṅkhāro means meritorious formation. Katamo means what is it? Dānamayā means accomplished through giving. Sīlamayā means accomplished through virtue. Bhāvanāmayā means accomplished through development, including preliminary development (parikammabhāvanā), access development (upacārabhāvanā), and insight development (vipassanābhāvanā). Kāmāvacarā means belonging to the sense sphere. Yā kusalā cetanā means such great wholesome volition. (Here the text refers specifically to insight development capable of producing becoming. The full range of insight kamma is wider.) Bhāvanāmayā means accomplished through serenity development (samathabhāvanā), or, alternatively, through absorption development (appanābhāvanā). Rūpāvacarā means belonging to the fine-material sphere. Yā kusalā cetanā means such fine-material wholesome volition. Atthi means there is. Ayaṃ means these sense-sphere and fine-material-sphere wholesome volitions. Puññābhisaṅkhāro vuccati means they are called meritorious formation. «Eight great wholesome consciousnesses and five fine-material wholesome consciousnesses, thirteen in all.»
+
+**VI**
+2. Tattha là trong các hành ấy. Apuññābhisaṅkhāro là phi phúc hành. Katamo là thế nào? Kāmāvacarā là thuộc phạm vi dục giới. Yā akusalā cetanā là tư bất thiện nào đó. Atthi là có. Ayaṃ là tư bất thiện này. Apuññābhisaṅkhāro vuccati là được gọi là phi phúc hành.
+
+**EN**
+2. Tattha means among those formations. Apuññābhisaṅkhāro means demeritorious formation. Katamo means what is it? Kāmāvacarā means belonging to the sense sphere. Yā akusalā cetanā means such unwholesome volition. Atthi means there is. Ayaṃ means this unwholesome volition. Apuññābhisaṅkhāro vuccati means it is called demeritorious formation.
+
+**VI**
+3. Tattha là trong các hành ấy. Āneñjābhisaṅkhāro là bất động hành. Katamo là thế nào? Arūpāvacarā là thuộc phạm vi vô sắc giới…
+
+**EN**
+3. Tattha means among those formations. Āneñjābhisaṅkhāro means imperturbable formation. Katamo means what is it? Arūpāvacarā means belonging to the immaterial sphere…
+
+
+<a id="M06-body-P009"></a>
+## Thân hành, khẩu hành, tâm hành và các thức / Bodily, verbal, and mental formations, and the kinds of consciousness
+Miến / Burmese 9
+
+**VI**
+… Yā kusalā cetanā là tư thiện vô sắc giới nào đó. Atthi là có. Ayaṃ là tư thiện vô sắc giới này. Āneñjābhisaṅkhāro vuccati là được gọi là bất động hành.
+
+**EN**
+… Yā kusalā cetanā means such immaterial wholesome volition. Atthi means there is. Ayaṃ means this immaterial wholesome volition. Āneñjābhisaṅkhāro vuccati means it is called imperturbable formation.
+
+**VI**
+4. Tattha là trong các hành ấy. Kāyasaṅkhāro là thân hành. Katamo là thế nào? Kāyasañcetanā là tám tư thiện dục giới và mười hai tư bất thiện sinh ở thân môn. Kāyasaṅkhāro là tên gọi thân hành. (8 + 12 = 20).
+
+**EN**
+4. Tattha means among those formations. Kāyasaṅkhāro means bodily formation. Katamo means what is it? Kāyasañcetanā means the eight wholesome sense-sphere volitions and twelve unwholesome volitions that arise at the body door. Kāyasaṅkhāro is the name for bodily formation. (8 + 12 = 20.)
+
+**VI**
+5. Vacīsañcetanā là tám tư thiện dục giới và mười hai tư bất thiện sinh ở khẩu môn. Vacīsaṅkhāro là tên gọi khẩu hành. (20).
+
+**EN**
+5. Vacīsañcetanā means the eight wholesome sense-sphere volitions and twelve unwholesome volitions that arise at the speech door. Vacīsaṅkhāro is the name for verbal formation. (20.)
+
+**VI**
+6. Manosañcetanā là các tư sinh mà không tạo hai loại sắc biểu tri, tức thân biểu tri và khẩu biểu tri. Đó là mười hai tư bất thiện, tám tư thiện dục giới, năm tư thiện sắc giới và bốn tư thiện vô sắc giới, các tư này cộng lại thiếu một so với ba mươi. Cittasaṅkhāro là tên gọi tâm hành. (29).
+
+**EN**
+6. Manosañcetanā means the volitions that arise without producing either kind of material intimation, namely bodily intimation and verbal intimation. They are twelve unwholesome volitions, eight wholesome sense-sphere volitions, five fine-material wholesome volitions, and four immaterial wholesome volitions. Their total is one short of thirty. Cittasaṅkhāro is the name for mental formation. (29.)
+
+**VI**
+Ime là các hành này. Avijjāpaccayā saṅkhārā vuccanti nghĩa là chúng được gọi là các hành sinh khởi do nhân là vô minh.
+
+**EN**
+Ime means these formations. Avijjāpaccayā saṅkhārā vuccanti means they are called the formations that arise due to ignorance as their cause.
+
+**VI**
+Tattha là trong đoạn Pāli ấy. Saṅkhārapaccayā viññāṇaṃ là thức sinh khởi do nhân là hành. Katamaṃ là thế nào?
+
+**EN**
+Tattha means in that Pāli passage. Saṅkhārapaccayā viññāṇaṃ means consciousness that arises due to formations as its cause. Katamaṃ means what is it?
+
+**VI**
+1. Cakkhuviññāṇaṃ là nhãn thức.
+
+**EN**
+1. Cakkhuviññāṇaṃ means eye-consciousness.
+
+**VI**
+2. Sotaviññāṇaṃ là nhĩ thức.
+
+**EN**
+2. Sotaviññāṇaṃ means ear-consciousness.
+
+**VI**
+3. Ghānaviññāṇaṃ là tỷ thức.
+
+**EN**
+3. Ghānaviññāṇaṃ means nose-consciousness.
+
+**VI**
+4. Jivhāviññāṇaṃ là thiệt thức.
+
+**EN**
+4. Jivhāviññāṇaṃ means tongue-consciousness.
+
+
+<a id="M06-body-P010"></a>
+## Thức duyên danh sắc / Consciousness as condition for mentality-materiality
+Miến / Burmese 10
+
+**VI**
+5. Kāyaviññāṇaṃ là thân thức.
+
+**EN**
+5. Kāyaviññāṇaṃ means body-consciousness.
+
+**VI**
+6. Manoviññāṇaṃ là ý thức.
+
+**EN**
+6. Manoviññāṇaṃ means mind-consciousness.
+
+**VI**
+Idaṃ là sáu loại thức này. Saṅkhārapaccayā viññāṇaṃ vuccati nghĩa là chúng được gọi là thức sinh khởi do nhân là hành.
+
+**EN**
+Idaṃ means these six kinds of consciousness. Saṅkhārapaccayā viññāṇaṃ vuccati means they are called consciousness that arises due to formations as its cause.
+
+**VI**
+Tattha là trong đoạn Pāli ấy. Viññāṇapaccayā nāmarūpaṃ là danh sắc sinh khởi do nhân là thức. Katamaṃ là thế nào?
+
+**EN**
+Tattha means in that Pāli passage. Viññāṇapaccayā nāmarūpaṃ means mentality-materiality that arises due to consciousness as its cause. Katamaṃ means what is it?
+
+**VI**
+1. Nāmaṃ là danh. Atthi là có.
+
+**EN**
+1. Nāmaṃ means mentality. Atthi means there is.
+
+**VI**
+2. Rūpaṃ là sắc. Atthi là có.
+
+**EN**
+2. Rūpaṃ means materiality. Atthi means there is.
+
+**VI**
+Tattha là trong danh sắc ấy. Nāmaṃ là danh. Katamaṃ là thế nào?
+
+**EN**
+Tattha means in that mentality-materiality. Nāmaṃ means mentality. Katamaṃ means what is it?
+
+**VI**
+1. Vedanākkhandho là thọ uẩn.
+
+**EN**
+1. Vedanākkhandho means the feeling aggregate.
+
+**VI**
+2. Saññākkhandho là tưởng uẩn.
+
+**EN**
+2. Saññākkhandho means the perception aggregate.
+
+**VI**
+3. Saṅkhārakkhandho là hành uẩn.
+
+**EN**
+3. Saṅkhārakkhandho means the formations aggregate.
+
+**VI**
+Idaṃ là ba uẩn này. Nāmaṃ vuccati là được gọi là danh.
+
+**EN**
+Idaṃ means these three aggregates. Nāmaṃ vuccati means they are called mentality.
+
+**VI**
+Tattha là trong danh sắc ấy. Rūpaṃ là sắc. Katamaṃ là thế nào?
+
+**EN**
+Tattha means in that mentality-materiality. Rūpaṃ means materiality. Katamaṃ means what is it?
+
+**VI**
+1. Cattāro mahābhūtā là cả bốn sắc đại chủng.
+
+**EN**
+1. Cattāro mahābhūtā means all four great elements.
+
+**VI**
+2. Catunnaṃ mahābhūtānaṃ là nương vào bốn đại chủng. Upādāya rūpaṃ là hai mươi bốn loại sắc y sinh.
+
+**EN**
+2. Catunnaṃ mahābhūtānaṃ refers to the four great elements. Upādāya rūpaṃ means the twenty-four kinds of materiality derived from them.
+
+**VI**
+Idaṃ là các sắc đại chủng và sắc y sinh này. Rūpaṃ vuccati là được gọi là sắc.
+
+**EN**
+Idaṃ means these great elements and derived materiality. Rūpaṃ vuccati means they are called materiality.
+
+**VI**
+Iti là như vậy. Idañca nāmaṃ là danh này. Idañca rūpaṃ là sắc này. Idaṃ là danh sắc này. «Theo cách khác, idañca nāmaṃ là danh này, idañca rūpaṃ là sắc này…
+
+**EN**
+Iti means thus. Idañca nāmaṃ means this mentality. Idañca rūpaṃ means this materiality. Idaṃ means this mentality-materiality. «Alternatively, idañca nāmaṃ means this mentality, idañca rūpaṃ means this materiality…
+
+
+<a id="M06-body-P011"></a>
+## Danh sắc duyên sáu xứ, sáu xứ duyên xúc / Mentality-materiality as condition for the six bases, and the six bases as condition for contact
+Miến / Burmese 11
+
+**VI**
+… Atthi là có. Idaṃ là danh sắc này.» Viññāṇapaccayā nāmarūpaṃ vuccati nghĩa là được gọi là danh sắc sinh khởi do nhân là thức.
+
+**EN**
+… Atthi means there is. Idaṃ means this mentality-materiality.» Viññāṇapaccayā nāmarūpaṃ vuccati means it is called mentality-materiality that arises due to consciousness as its cause.
+
+**VI**
+Tattha là trong đoạn Pāli ấy. Nāmarūpapaccayā saḷāyatanaṃ là sáu xứ sinh khởi do nhân là danh sắc. Katamaṃ là thế nào?
+
+**EN**
+Tattha means in that Pāli passage. Nāmarūpapaccayā saḷāyatanaṃ means the six bases that arise due to mentality-materiality as their cause. Katamaṃ means what are they?
+
+**VI**
+1. Cakkhāyatanaṃ là nhãn xứ.
+
+**EN**
+1. Cakkhāyatanaṃ means the eye base.
+
+**VI**
+2. Sotāyatanaṃ là nhĩ xứ.
+
+**EN**
+2. Sotāyatanaṃ means the ear base.
+
+**VI**
+3. Ghānāyatanaṃ là tỷ xứ.
+
+**EN**
+3. Ghānāyatanaṃ means the nose base.
+
+**VI**
+4. Jivhāyatanaṃ là thiệt xứ.
+
+**EN**
+4. Jivhāyatanaṃ means the tongue base.
+
+**VI**
+5. Kāyāyatanaṃ là thân xứ.
+
+**EN**
+5. Kāyāyatanaṃ means the body base.
+
+**VI**
+6. Manāyatanaṃ là ý xứ.
+
+**EN**
+6. Manāyatanaṃ means the mind base.
+
+**VI**
+Idaṃ là sáu xứ này. Nāmarūpapaccayā saḷāyatanaṃ vuccati nghĩa là chúng được gọi là sáu xứ sinh khởi do nhân là danh sắc.
+
+**EN**
+Idaṃ means these six bases. Nāmarūpapaccayā saḷāyatanaṃ vuccati means they are called the six bases that arise due to mentality-materiality as their cause.
+
+**VI**
+Tattha là trong đoạn Pāli ấy. Saḷāyatanapaccayā phasso là xúc sinh khởi do nhân là sáu xứ. Katamo là thế nào?
+
+**EN**
+Tattha means in that Pāli passage. Saḷāyatanapaccayā phasso means contact that arises due to the six bases as its cause. Katamo means what is it?
+
+**VI**
+1. Cakkhusamphasso là nhãn xúc.
+
+**EN**
+1. Cakkhusamphasso means eye-contact.
+
+**VI**
+2. Sotasamphasso là nhĩ xúc.
+
+**EN**
+2. Sotasamphasso means ear-contact.
+
+**VI**
+3. Ghānasamphasso là tỷ xúc.
+
+**EN**
+3. Ghānasamphasso means nose-contact.
+
+**VI**
+4. Jivhāsamphasso là thiệt xúc.
+
+**EN**
+4. Jivhāsamphasso means tongue-contact.
+
+**VI**
+5. Kāyasamphasso là thân xúc.
+
+**EN**
+5. Kāyasamphasso means body-contact.
+
+**VI**
+6. Manosamphasso là ý xúc.
+
+**EN**
+6. Manosamphasso means mind-contact.
+
+**VI**
+Ayaṃ là sáu xúc này. Saḷāyatanapaccayā phasso vuccati nghĩa là chúng được gọi là xúc sinh khởi do nhân là sáu xứ…
+
+**EN**
+Ayaṃ means these six kinds of contact. Saḷāyatanapaccayā phasso vuccati means they are called contact that arises due to the six bases as its cause…
+
+
+<a id="M06-body-P012"></a>
+## Xúc duyên thọ, thọ duyên ái / Contact as condition for feeling, and feeling as condition for craving
+Miến / Burmese 12
+
+**VI**
+… là cách gọi trong bản Pāli.
+
+**EN**
+… as the Pāli passage puts it.
+
+**VI**
+Tattha là trong đoạn Pāli ấy. Phassapaccayā vedanā là thọ sinh khởi do nhân là xúc. Katamā là thế nào?
+
+**EN**
+Tattha means in that Pāli passage. Phassapaccayā vedanā means feeling that arises due to contact as its cause. Katamā means what is it?
+
+**VI**
+1. Cakkhusamphassajā vedanā là thọ sinh do nhãn xúc.
+
+**EN**
+1. Cakkhusamphassajā vedanā means feeling born of eye-contact.
+
+**VI**
+2. Sotasamphassajā vedanā là thọ sinh do nhĩ xúc.
+
+**EN**
+2. Sotasamphassajā vedanā means feeling born of ear-contact.
+
+**VI**
+3. Ghānasamphassajā vedanā là thọ sinh do tỷ xúc.
+
+**EN**
+3. Ghānasamphassajā vedanā means feeling born of nose-contact.
+
+**VI**
+4. Jivhāsamphassajā vedanā là thọ sinh do thiệt xúc.
+
+**EN**
+4. Jivhāsamphassajā vedanā means feeling born of tongue-contact.
+
+**VI**
+5. Kāyasamphassajā vedanā là thọ sinh do thân xúc.
+
+**EN**
+5. Kāyasamphassajā vedanā means feeling born of body-contact.
+
+**VI**
+6. Manosamphassajā vedanā là thọ sinh do ý xúc.
+
+**EN**
+6. Manosamphassajā vedanā means feeling born of mind-contact.
+
+**VI**
+Ayaṃ là sáu thọ này. Phassapaccayā vedanā vuccati nghĩa là chúng được gọi là thọ sinh khởi do nhân là xúc.
+
+**EN**
+Ayaṃ means these six kinds of feeling. Phassapaccayā vedanā vuccati means they are called feeling that arises due to contact as its cause.
+
+**VI**
+Tattha là trong đoạn Pāli ấy. Vedanāpaccayā taṇhā là ái sinh khởi do nhân là thọ. Katamā là thế nào?
+
+**EN**
+Tattha means in that Pāli passage. Vedanāpaccayā taṇhā means craving that arises due to feeling as its cause. Katamā means what is it?
+
+**VI**
+1. Rūpataṇhā là ái luyến, ham muốn cảnh sắc.
+
+**EN**
+1. Rūpataṇhā means craving that clings to and longs for visible objects.
+
+**VI**
+2. Saddataṇhā là ái luyến, ham muốn cảnh thinh.
+
+**EN**
+2. Saddataṇhā means craving that clings to and longs for sounds.
+
+**VI**
+3. Gandhataṇhā là ái luyến, ham muốn cảnh hương.
+
+**EN**
+3. Gandhataṇhā means craving that clings to and longs for odours.
+
+
+<a id="M06-body-P013"></a>
+## Ái duyên thủ, thủ duyên hữu / Craving as condition for clinging, and clinging as condition for becoming
+Miến / Burmese 13
+
+**VI**
+4. Rasataṇhā là ái luyến, ham muốn cảnh vị.
+
+**EN**
+4. Rasataṇhā means craving that clings to and longs for tastes.
+
+**VI**
+5. Phoṭṭhabbataṇhā là ái luyến, ham muốn cảnh xúc.
+
+**EN**
+5. Phoṭṭhabbataṇhā means craving that clings to and longs for tangibles.
+
+**VI**
+6. Dhammataṇhā là ái luyến, ham muốn cảnh pháp.
+
+**EN**
+6. Dhammataṇhā means craving that clings to and longs for mental objects.
+
+**VI**
+Ayaṃ là sáu ái này. Vedanāpaccayā taṇhā vuccati nghĩa là chúng được gọi là ái sinh khởi do nhân là thọ.
+
+**EN**
+Ayaṃ means these six kinds of craving. Vedanāpaccayā taṇhā vuccati means they are called craving that arises due to feeling as its cause.
+
+**VI**
+Tattha là trong đoạn Pāli ấy. Taṇhāpaccayā upādānaṃ là thủ sinh khởi do nhân là ái. Katamaṃ là thế nào?
+
+**EN**
+Tattha means in that Pāli passage. Taṇhāpaccayā upādānaṃ means clinging that arises due to craving as its cause. Katamaṃ means what is it?
+
+**VI**
+1. Kāmupādānaṃ là dục thủ, sự chấp chặt các dục trưởng dưỡng.
+
+**EN**
+1. Kāmupādānaṃ means clinging to sensual pleasures, holding fast to the strands of sensual pleasure.
+
+**VI**
+2. Diṭṭhupādānaṃ là kiến thủ, sự chấp chặt quan điểm sai lầm, tức tà kiến.
+
+**EN**
+2. Diṭṭhupādānaṃ means clinging to views, holding fast to erroneous opinions, that is, wrong view.
+
+**VI**
+3. Sīlabbatupādānaṃ là giới cấm thủ, sự chấp chặt các lối tu sai lầm, như hạnh con bò và hạnh con chó.
+
+**EN**
+3. Sīlabbatupādānaṃ means clinging to rules and observances, holding fast to mistaken practices such as the ox observance and the dog observance.
+
+**VI**
+4. Attavādupādānaṃ là ngã luận thủ, sự chấp chặt thuyết về một tự ngã.
+
+**EN**
+4. Attavādupādānaṃ means clinging to a doctrine of self, holding fast to a view that posits a self.
+
+**VI**
+Idaṃ là bốn thủ này. Taṇhāpaccayā upādānaṃ vuccati nghĩa là chúng được gọi là thủ sinh khởi do nhân là ái.
+
+**EN**
+Idaṃ means these four kinds of clinging. Taṇhāpaccayā upādānaṃ vuccati means they are called clinging that arises due to craving as its cause.
+
+**VI**
+Tattha là trong đoạn Pāli ấy. Upādānapaccayā bhavo là hữu sinh khởi do nhân là thủ. Katamo là thế nào? Bhavo là hữu. Duvidhena là theo hai loại. Atthi là có.
+
+**EN**
+Tattha means in that Pāli passage. Upādānapaccayā bhavo means becoming that arises due to clinging as its cause. Katamo means what is it? Bhavo means becoming. Duvidhena means in two kinds. Atthi means there is.
+
+**VI**
+1. Kammabhavo là nghiệp hữu, tức hữu làm nguyên nhân phát sinh. Atthi là có.
+
+**EN**
+1. Kammabhavo means kamma-becoming, becoming as the cause of arising. Atthi means there is.
+
+
+<a id="M06-body-P014"></a>
+## Nghiệp hữu và sinh hữu / Kamma-becoming and rebirth-becoming
+Miến / Burmese 14
+
+**VI**
+2. Upapattibhavo là sinh hữu, tức hữu đã sinh khởi. Atthi là có.
+
+**EN**
+2. Upapattibhavo means rebirth-becoming, becoming that has arisen. Atthi means there is.
+
+**VI**
+Tattha là trong hai loại ấy. Kammabhavo là nghiệp hữu, tức hữu làm nguyên nhân phát sinh. Katamo là thế nào?
+
+**EN**
+Tattha means among those two kinds. Kammabhavo means kamma-becoming, becoming as the cause of arising. Katamo means what is it?
+
+**VI**
+1. Puññābhisaṅkhāro là phúc hành.
+
+**EN**
+1. Puññābhisaṅkhāro is meritorious formation.
+
+**VI**
+2. Apuññābhisaṅkhāro là phi phúc hành.
+
+**EN**
+2. Apuññābhisaṅkhāro is demeritorious formation.
+
+**VI**
+3. Āneñjābhisaṅkhāro là bất động hành.
+
+**EN**
+3. Āneñjābhisaṅkhāro is imperturbable formation.
+
+**VI**
+Ayaṃ là ba loại hành này. Kammabhavo vuccati là được gọi là nghiệp hữu, tức hữu làm nguyên nhân phát sinh. Sabbampi là hết thảy. Bhavagāmikammaṃ là mọi nghiệp đưa đến hữu. Kammabhavo là tên gọi nghiệp hữu, tức hữu làm nguyên nhân phát sinh.
+
+**EN**
+Ayaṃ means these three kinds of formations. Kammabhavo vuccati means they are called kamma-becoming, becoming as the cause of arising. Sabbampi means all without exception. Bhavagāmikammaṃ is all kamma that leads to becoming. Kammabhavo is the name for kamma-becoming, becoming as the cause of arising.
+
+**VI**
+Tattha là trong hai loại hữu ấy. Upapattibhavo là sinh hữu, tức hữu đã sinh khởi. Katamo là thế nào?
+
+**EN**
+Tattha means among those two kinds of becoming. Upapattibhavo means rebirth-becoming, becoming that has arisen. Katamo means what is it?
+
+**VI**
+1. Kāmabhavo là dục hữu, gồm mười một cõi dục.
+
+**EN**
+1. Kāmabhavo is sense-sphere becoming, comprising the eleven sense-sphere planes.
+
+**VI**
+2. Rūpabhavo là sắc hữu, gồm mười sáu cõi sắc.
+
+**EN**
+2. Rūpabhavo is fine-material becoming, comprising the sixteen fine-material planes.
+
+**VI**
+3. Arūpabhavo là vô sắc hữu, gồm bốn cõi vô sắc.
+
+**EN**
+3. Arūpabhavo is immaterial becoming, comprising the four immaterial planes.
+
+**VI**
+4. Saññābhavo là hữu có tưởng. «Mười một cõi dục, mười lăm cõi sắc sau khi trừ cõi Vô tưởng, và ba cõi vô sắc sau khi trừ cõi Phi tưởng phi phi tưởng, tổng cộng hai mươi chín cõi. Ý nói hữu có tưởng.»
+
+**EN**
+4. Saññābhavo is percipient becoming. «Eleven sense-sphere planes, fifteen fine-material planes after excluding the non-percipient plane, and three immaterial planes after excluding the base of neither perception nor non-perception, making twenty-nine planes in all. It means becoming in which perception is present.»
+
+**VI**
+5. Asaññābhavo là hữu không có tưởng, tức hữu của chúng sinh vô tưởng.
+
+**EN**
+5. Asaññābhavo is non-percipient becoming, the becoming of non-percipient beings.
+
+**VI**
+6. Nevasaññānāsaññābhavo là hữu mà tưởng thô không có và chỉ có tưởng rất vi tế, mềm dịu. Vì vậy, không thể nói có tưởng, cũng không thể nói không có tưởng…
+
+**EN**
+6. Nevasaññānāsaññābhavo is becoming in which gross perception is absent and only very subtle, gentle perception is present. It is therefore described as neither percipient nor non-percipient…
+
+
+<a id="M06-body-P015"></a>
+## Chín loại sinh hữu và nghĩa của sinh / Nine kinds of rebirth-becoming and the meaning of birth
+Miến / Burmese 15
+
+**VI**
+… đó là hữu phi tưởng phi phi tưởng.
+
+**EN**
+… that is becoming with neither perception nor non-perception.
+
+**VI**
+7. Ekavokārabhavo là hữu chỉ có một uẩn, tức sắc uẩn, ở cõi Vô tưởng.
+
+**EN**
+7. Ekavokārabhavo is one-aggregate becoming, in which there is only the materiality aggregate, in the non-percipient plane.
+
+**VI**
+8. Catuvokārabhavo là hữu chỉ có bốn danh uẩn, ở bốn cõi vô sắc.
+
+**EN**
+8. Catuvokārabhavo is four-aggregate becoming, in which there are only the four mental aggregates, in the four immaterial planes.
+
+**VI**
+9. Pañcavokārabhavo là hữu có năm uẩn. «Mười một cõi dục và mười lăm cõi sắc sau khi trừ cõi Vô tưởng, tổng cộng hai mươi sáu cõi.»
+
+**EN**
+9. Pañcavokārabhavo is five-aggregate becoming. «Eleven sense-sphere planes and fifteen fine-material planes after excluding the non-percipient plane, twenty-six planes in all.»
+
+**VI**
+Ayaṃ là chín loại hữu này. Upapattibhavo vuccati là được gọi là sinh hữu. Ayaṃ là nghiệp hữu và sinh hữu này. Upādānapaccayā bhavo vuccati là được gọi là hữu sinh khởi do nhân là thủ.
+
+**EN**
+Ayaṃ means these nine kinds of becoming. Upapattibhavo vuccati means they are called rebirth-becoming. Ayaṃ means this kamma-becoming and rebirth-becoming. Upādānapaccayā bhavo vuccati means they are called becoming that arises due to clinging as its cause.
+
+**VI**
+Tattha là trong đoạn Pāli ấy. Bhavapaccayā jāti là sinh khởi do nhân là hữu (nghiệp hữu). Katamā là thế nào?
+
+**EN**
+Tattha means in that Pāli passage. Bhavapaccayā jāti means birth that arises due to becoming (kamma-becoming) as its cause. Katamā means what is it?
+
+**VI**
+Tesaṃ tesaṃ sattānaṃ là của các chúng sinh ấy. Tamhi tamhi sattanikāye là trong từng loài chúng sinh ấy. Yā jāti là sự sinh. Yā sañjāti là sự sinh ra. Yā okkanti là sự nhập vào bụng mẹ. Yā abhinibbatti là sự xuất hiện với tư cách một chúng sinh mới. Yo khandhānaṃ pātubhāvo là sự hiện khởi rõ rệt của các uẩn. Yo āyatanānaṃ paṭilābho là sự đạt được các xứ. Atthi là có. Ayaṃ là điều này. Bhavapaccayā jāti vuccati là được gọi là sinh khởi do nhân là hữu.
+
+**EN**
+Tesaṃ tesaṃ sattānaṃ means of the various beings. Tamhi tamhi sattanikāye means in their respective orders of beings. Yā jāti is birth. Yā sañjāti is being born. Yā okkanti is descent into the mother's womb. Yā abhinibbatti is the appearance of a new being. Yo khandhānaṃ pātubhāvo is the clear manifestation of the aggregates. Yo āyatanānaṃ paṭilābho is the acquisition of the bases. Atthi means there is. Ayaṃ means this. Bhavapaccayā jāti vuccati means it is called birth that arises due to becoming as its cause.
+
+**VI**
+Tattha là trong đoạn Pāli ấy. Jātipaccayā jarāmaraṇaṃ là già chết sinh khởi do…
+
+**EN**
+Tattha means in that Pāli passage. Jātipaccayā jarāmaraṇaṃ means aging and death that arise due to…
+
+
+<a id="M06-body-P016"></a>
+## Giải nghĩa già và chết / Explanation of aging and death
+Miến / Burmese 16
+
+**VI**
+… nhân là sinh. Katamaṃ là thế nào? Jarā là sự già, pháp già. Atthi là có. Maraṇaṃ là sự chết, pháp chết. Atthi là có. Tattha là trong hai pháp già và chết ấy. Jarā là sự già. Katamā là thế nào?
+
+**EN**
+… birth as their cause. Katamaṃ means what are they? Jarā means aging, the phenomenon of aging. Atthi means there is. Maraṇaṃ means death, the phenomenon of death. Atthi means there is. Tattha means among those two, aging and death. Jarā means aging. Katamā means what is it?
+
+**VI**
+Tesaṃ tesaṃ sattānaṃ là của các chúng sinh ấy. Tamhi tamhi sattanikāye là trong từng loài chúng sinh ấy. Yā jarā là sự già. Yā jīraṇatā là tình trạng già yếu. Yaṃ khaṇḍiccaṃ là tình trạng răng gãy. Yaṃ pāliccaṃ là tình trạng tóc bạc. Yā valittacatā là tình trạng da nhăn. Āyuno là của tuổi thọ. Yā saṃhāni là sự suy giảm. Indriyānaṃ là của các quyền. Yo paripāko là sự chín muồi. Atthi là có. Ayaṃ là pháp có đặc tính này. Jarā vuccati là được gọi là già.
+
+**EN**
+Tesaṃ tesaṃ sattānaṃ means of the various beings. Tamhi tamhi sattanikāye means in their respective orders of beings. Yā jarā is aging. Yā jīraṇatā is the state of growing old. Yaṃ khaṇḍiccaṃ is the state of having broken teeth. Yaṃ pāliccaṃ is the state of having grey hair. Yā valittacatā is the state of having wrinkled skin. Āyuno means of the life span. Yā saṃhāni is decline. Indriyānaṃ means of the faculties. Yo paripāko is ripening. Atthi means there is. Ayaṃ means this phenomenon. Jarā vuccati means it is called aging.
+
+**VI**
+Tattha là trong già và chết ấy. Maraṇaṃ là sự chết. Katamaṃ là thế nào? Tesaṃ tesaṃ sattānaṃ là của các chúng sinh ấy. Tamhā tamhā sattanikāyā là từ từng loài chúng sinh ấy. Yā cuti là sự tử, sự rời khỏi. Yā cavanatā là trạng thái lìa đi. Yo bhedo là sự tan rã. Yaṃ antaradhānaṃ là sự biến mất. Yā maccu là sự chết. Yaṃ maraṇaṃ là sự chết. Yā kālakiriyā là việc mệnh chung. Yo khandhānaṃ bhedo là sự tan rã của các uẩn. Yo kaḷevarassa nikkhepo là sự bỏ lại thân xác. Yo jīvitindriyassupacchedo là sự cắt đứt mạng quyền. Atthi là có. Idaṃ là pháp có đặc tính này…
+
+**EN**
+Tattha means among aging and death. Maraṇaṃ means death. Katamaṃ means what is it? Tesaṃ tesaṃ sattānaṃ means of the various beings. Tamhā tamhā sattanikāyā means from their respective orders of beings. Yā cuti is decease, or departure. Yā cavanatā is the state of passing away. Yo bhedo is breakup. Yaṃ antaradhānaṃ is disappearance. Yā maccu is death. Yaṃ maraṇaṃ is dying. Yā kālakiriyā is the ending of one's time. Yo khandhānaṃ bhedo is the breakup of the aggregates. Yo kaḷevarassa nikkhepo is the laying down of the body. Yo jīvitindriyassupacchedo is the cutting off of the life faculty. Atthi means there is. Idaṃ means this phenomenon…
+
+
+<a id="M06-body-P017"></a>
+## Già chết do sinh làm duyên và nghĩa của sầu / Aging and death conditioned by birth, and the meaning of sorrow
+Miến / Burmese 17
+
+**VI**
+… Maraṇaṃ vuccati là được gọi là chết.
+
+**EN**
+… Maraṇaṃ vuccati means it is called death.
+
+**VI**
+Ayañca jarā là sự già này. Atthi là có. Idañca maraṇaṃ là sự chết này. Atthi là có. Idaṃ là hai pháp già và chết này. Jātipaccayā jarāmaraṇaṃ vuccati là được gọi là già chết sinh khởi do nhân là sinh.
+
+**EN**
+Ayañca jarā means this aging. Atthi means there is. Idañca maraṇaṃ means this death. Atthi means there is. Idaṃ means these two phenomena, aging and death. Jātipaccayā jarāmaraṇaṃ vuccati means they are called aging and death that arise due to birth as their cause.
+
+**VI**
+Tattha là trong đoạn Pāli ấy. Soko là sự sầu lo. Katamo là thế nào? Ñātibyasanena vā là do mất mát thân quyến. Phuṭṭhassa là đối với người gặp sự mất mát ấy. Bhogabyasanena vā là do mất mát tài sản. Phuṭṭhassa là đối với người gặp sự mất mát ấy. Rogabyasanena vā là do tai họa bệnh tật. Phuṭṭhassa là đối với người gặp tai họa ấy. Sīlabyasanena vā là do giới hạnh suy hoại. Phuṭṭhassa là đối với người gặp sự suy hoại ấy. Diṭṭhibyasanena vā là do kiến giải suy hoại. Phuṭṭhassa là đối với người gặp sự suy hoại ấy. Aññataraññatarena là một điều nào đó, bất kỳ điều nào trong số ấy. Byasanena là do sự mất mát, do tai họa. Samannāgatassa là đối với người lâm vào cảnh ấy. Aññataraññatarena là một điều nào đó, bất kỳ điều nào trong số ấy. Dukkhadhammena là do một pháp gây khổ. Phuṭṭhassa là đối với người gặp pháp ấy.
+
+**EN**
+Tattha means in that Pāli passage. Soko means sorrow. Katamo means what is it? Ñātibyasanena vā means through loss of relatives. Phuṭṭhassa means for the person affected by that loss. Bhogabyasanena vā means through loss of wealth. Phuṭṭhassa means for the person affected by that loss. Rogabyasanena vā means through the calamity of illness. Phuṭṭhassa means for the person affected by that calamity. Sīlabyasanena vā means through deterioration in virtue. Phuṭṭhassa means for the person affected by that deterioration. Diṭṭhibyasanena vā means through deterioration in view. Phuṭṭhassa means for the person affected by that deterioration. Aññataraññatarena means some particular one, any one of them. Byasanena means through a loss or calamity. Samannāgatassa means for the person undergoing it. Aññataraññatarena means some particular one, any one of them. Dukkhadhammena means through a painful phenomenon. Phuṭṭhassa means for the person affected by it.
+
+**VI**
+Yo soko là sự sầu lo. Yā socanā là sự buồn rầu. Yaṃ socitattaṃ là trạng thái buồn rầu. Yo antosoko là nỗi sầu bên trong. Yo antoparisoko là sự sầu não, day dứt bên trong. Yā cetaso parijjhāyanā là sự thiêu đốt, day dứt của tâm. Yaṃ domanassaṃ là sự buồn khổ nơi tâm. Yaṃ sokasallaṃ là mũi tên cắm sâu gọi là sầu. Atthi là có. Ayaṃ là pháp có đặc tính này…
+
+**EN**
+Yo soko is sorrow. Yā socanā is sorrowing. Yaṃ socitattaṃ is the state of sorrowing. Yo antosoko is inner sorrow. Yo antoparisoko is oppressive inner sorrow. Yā cetaso parijjhāyanā is the tormenting burning of the mind. Yaṃ domanassaṃ is mental distress. Yaṃ sokasallaṃ is the deeply lodged dart called sorrow. Atthi means there is. Ayaṃ means this phenomenon…
+
+
+<a id="M06-body-P018"></a>
+## Giải nghĩa bi và khổ / Explanation of lamentation and bodily pain
+Miến / Burmese 18
+
+**VI**
+… Soko vuccati là được gọi là sầu.
+
+**EN**
+… Soko vuccati means it is called sorrow.
+
+**VI**
+Tattha là trong đoạn Pāli ấy. Paridevo là bi. Katamo là thế nào? Ñātibyasanena vā là do mất mát thân quyến. Phuṭṭhassa là đối với người gặp sự mất mát ấy. pe. Aññataraññatarena là bất kỳ điều nào trong số ấy. Dukkhadhammena là do một pháp gây khổ. Phuṭṭhassa là đối với người gặp pháp ấy.
+
+**EN**
+Tattha means in that Pāli passage. Paridevo means lamentation. Katamo means what is it? Ñātibyasanena vā means through loss of relatives. Phuṭṭhassa means for the person affected by that loss. pe. Aññataraññatarena means any one of them. Dukkhadhammena means through a painful phenomenon. Phuṭṭhassa means for the person affected by it.
+
+**VI**
+Yo ādevo là sự khóc than. Yo paridevo là sự khóc than lặp đi lặp lại. Yā ādevanā là sự than khóc. Yā paridevanā là sự than khóc lặp đi lặp lại. Yaṃ ādevitattaṃ là trạng thái khóc than. Yaṃ paridevitattaṃ là trạng thái khóc than lặp đi lặp lại. Yā vācā là khóc than thành lời, chẳng hạn “con trai tôi, con gái tôi”. Yo palāpo là khóc than thành lời lặp đi lặp lại. Yo vippalāpo là khóc than lặp đi lặp lại bằng nhiều lời khác nhau. Yo lālappo là than vãn thành lời lặp đi lặp lại. Yā lālappanā là sự than vãn thành lời lặp đi lặp lại. Yaṃ lālappitattaṃ là trạng thái than vãn thành lời lặp đi lặp lại. Atthi là có. Ayaṃ là pháp có đặc tính này. Paridevo vuccati là được gọi là bi.
+
+**EN**
+Yo ādevo is crying out. Yo paridevo is crying out again and again. Yā ādevanā is weeping aloud. Yā paridevanā is weeping aloud again and again. Yaṃ ādevitattaṃ is the state of crying out. Yaṃ paridevitattaṃ is the state of crying out again and again. Yā vācā is crying out in words, such as “my son, my daughter.” Yo palāpo is crying out repeatedly in words. Yo vippalāpo is crying out repeatedly in many different words. Yo lālappo is lamenting aloud again and again. Yā lālappanā is the act of lamenting aloud again and again. Yaṃ lālappitattaṃ is the state of lamenting aloud again and again. Atthi means there is. Ayaṃ means this phenomenon. Paridevo vuccati means it is called lamentation.
+
+**VI**
+Tattha là trong đoạn Pāli ấy. Dukkhaṃ là khổ. Katamaṃ là thế nào? Kāyikaṃ là sinh nơi thân. Asātaṃ là thiếu sự dễ chịu. Yaṃ kāyikaṃ dukkhaṃ là sự đau khổ nơi thân. Kāyasamphassajaṃ là sinh do thân xúc. Asātaṃ là thiếu sự dễ chịu. Yaṃ dukkhaṃ vedayitaṃ là trạng thái cảm nghiệm khổ. Kāyasamphassajā là sinh do thân xúc. Asātā là thiếu…
+
+**EN**
+Tattha means in that Pāli passage. Dukkhaṃ means bodily pain. Katamaṃ means what is it? Kāyikaṃ means arising in the body. Asātaṃ means devoid of pleasantness. Yaṃ kāyikaṃ dukkhaṃ is bodily pain. Kāyasamphassajaṃ means born of body-contact. Asātaṃ means devoid of pleasantness. Yaṃ dukkhaṃ vedayitaṃ is the state of experiencing pain. Kāyasamphassajā means born of body-contact. Asātā means devoid of…
+
+
+<a id="M06-body-P019"></a>
+## Giải nghĩa ưu và não / Explanation of mental distress and anguish
+Miến / Burmese 19
+
+**VI**
+… sự dễ chịu. Yā dukkhā vedanā là khổ thọ. Atthi là có. Idaṃ là khổ thọ nơi thân này. Dukkhaṃ vuccati là được gọi là khổ.
+
+**EN**
+… pleasantness. Yā dukkhā vedanā means painful feeling. Atthi means there is. Idaṃ means this bodily painful feeling. Dukkhaṃ vuccati means it is called pain.
+
+**VI**
+Tattha là trong đoạn Pāli ấy. Domanassaṃ là ưu. Katamaṃ là thế nào? Cetasikaṃ là sinh nơi tâm. Asātaṃ là thiếu sự dễ chịu. Yaṃ cetasikaṃ dukkhaṃ là sự đau khổ nơi tâm. Cetosamphassajaṃ là sinh do tâm xúc, tức ý xúc. Asātaṃ là thiếu sự dễ chịu. Yaṃ dukkhaṃ vedayitaṃ là trạng thái cảm nghiệm khổ. Cetosamphassajā là sinh do tâm xúc, tức ý xúc. Asātā là thiếu sự dễ chịu. Yā dukkhā vedanā là khổ thọ. Atthi là có. Idaṃ là khổ thọ nơi tâm này, tức ưu thọ. Domanassaṃ vuccati là được gọi là ưu.
+
+**EN**
+Tattha means in that Pāli passage. Domanassaṃ means mental distress. Katamaṃ means what is it? Cetasikaṃ means arising in the mind. Asātaṃ means devoid of pleasantness. Yaṃ cetasikaṃ dukkhaṃ is mental pain. Cetosamphassajaṃ means born of mental contact, that is, mind-contact. Asātaṃ means devoid of pleasantness. Yaṃ dukkhaṃ vedayitaṃ is the state of experiencing pain. Cetosamphassajā means born of mental contact, that is, mind-contact. Asātā means devoid of pleasantness. Yā dukkhā vedanā is painful feeling. Atthi means there is. Idaṃ means this mentally painful feeling, that is, the feeling of mental distress. Domanassaṃ vuccati means it is called mental distress.
+
+**VI**
+Tattha là trong đoạn Pāli ấy. Upāyāso là sự bức bách dữ dội, tức não. Katamo là thế nào? Ñātibyasanena vā là do mất mát thân quyến. Phuṭṭhassa là đối với người gặp sự mất mát ấy. pe. Aññataraññatarena là bất kỳ điều nào trong số ấy. Dukkhadhammena là do một pháp gây khổ. Phuṭṭhassa là đối với người gặp pháp ấy. Yo āyāso là sự khổ nhọc trong tâm. Yo upāyāso là sự khổ nhọc dữ dội trong tâm. Yaṃ āyāsitattaṃ là trạng thái khổ nhọc trong tâm. Yaṃ upāyāsitattaṃ là trạng thái khổ nhọc dữ dội trong tâm. Atthi là có. Ayaṃ là pháp có đặc tính này. Upāyāso vuccati là được gọi là não.
+
+**EN**
+Tattha means in that Pāli passage. Upāyāso means intense anguish. Katamo means what is it? Ñātibyasanena vā means through loss of relatives. Phuṭṭhassa means for the person affected by that loss. pe. Aññataraññatarena means any one of them. Dukkhadhammena means through a painful phenomenon. Phuṭṭhassa means for the person affected by it. Yo āyāso is mental distress. Yo upāyāso is intense mental distress. Yaṃ āyāsitattaṃ is the state of mental distress. Yaṃ upāyāsitattaṃ is the state of intense mental distress. Atthi means there is. Ayaṃ means this phenomenon. Upāyāso vuccati means it is called anguish.
+
+**VI**
+Evametassa kevalassa dukkhakkhandhassa samudayo hotīti padassa là đối với câu “Evametassa kevalassa dukkhakkhandhassa samudayo hoti”. Attho là ý nghĩa muốn nói. Evaṃ là như vậy…
+
+**EN**
+Evametassa kevalassa dukkhakkhandhassa samudayo hotīti padassa means with regard to the expression “Evametassa kevalassa dukkhakkhandhassa samudayo hoti.” Attho means its intended sense. Evaṃ means thus…
+
+
+<a id="M06-body-P020"></a>
+## Kết phần giải nghĩa theo Kinh / Conclusion of the explanation according to the Discourses
+Miến / Burmese 20
+
+**VI**
+… Veditabbo là cần được hiểu.
+
+**EN**
+… Veditabbo means it should be understood.
+
+**VI**
+Iti là như vậy. Kevalassa là thuần một bề, không xen lẫn an lạc. Etassa dukkhakkhandhassa là của khối khổ, tập hợp khổ này. Samudayo là sự sinh khởi. Hoti là xảy ra. Iti là như vậy. Kevalassa là thuần một bề, không xen lẫn an lạc. Etassa dukkhakkhandhassa là của khối khổ, tập hợp khổ này. Saṅgati là sự tụ hợp. Samāgamo là sự cùng đi đến một chỗ. Samodhānaṃ là sự hội tụ. Pātubhāvo là sự hiện khởi rõ rệt. Hoti là xảy ra. Tena là vì thế. Evametassa kevalassa dukkhakkhandhassa samudayo hotīti nghĩa là vì thế nói: “Toàn bộ khối khổ này sinh khởi như vậy.”
+
+**EN**
+Iti means thus. Kevalassa means wholly, unmixed with happiness. Etassa dukkhakkhandhassa means of this mass, this aggregate of suffering. Samudayo is arising. Hoti means occurs. Iti means thus. Kevalassa means wholly, unmixed with happiness. Etassa dukkhakkhandhassa means of this mass, this aggregate of suffering. Saṅgati is coming together. Samāgamo is arriving together at one place. Samodhānaṃ is convergence. Pātubhāvo is clear manifestation. Hoti means occurs. Tena means therefore. Evametassa kevalassa dukkhakkhandhassa samudayo hotīti means it is therefore said: “Thus this whole mass of suffering originates.”
+
+**VI**
+Suttantabhājanīyaṃ là phương pháp phân tích theo Kinh. Niṭṭhitaṃ là đã kết thúc.
+
+**EN**
+Suttantabhājanīyaṃ means the method of analysis according to the Discourses. Niṭṭhitaṃ means concluded.
+
+**VI**
+Dẫn theo nguyên tác: Abhidhamma, quyển 2, tr. 142–145.
+
+**EN**
+Source cited in the original: Abhidhamma, vol. 2, pp. 142–145.
+
+**VI**
+Trên đây là đoạn Pāli Phân tích Duyên khởi cùng lời giải nghĩa tiếng Miến. Những thiện nhân muốn thực hành lời dạy về Duyên khởi một cách có hệ thống, chuyên cần tu tập và phát triển, muốn hiểu rõ bằng sự hiểu biết và thấu đạt (anubodha, paṭivedha), bằng trí hiểu biết và trí thấu đạt (anubodhañāṇa, paṭivedhañāṇa), nên học thuộc lòng phần này trước khi bắt đầu thực hành. Thiện nhân đã thuộc đoạn Pāli này cùng ý nghĩa của nó, xin hãy thực tập cách quán Duyên khởi theo phương pháp thứ nhất.
+
+**EN**
+The foregoing is the Pāli Analysis of Dependent Origination together with its Burmese explanation. Good people who wish to practise the teaching on dependent origination systematically, to cultivate it diligently, and to know it clearly through understanding and penetration (anubodha, paṭivedha), through knowledge of understanding and knowledge of penetration (anubodhañāṇa, paṭivedhañāṇa), should memorize this beforehand, before beginning practice. Good people who have memorized this Pāli passage together with its meaning, please practise the first method of discerning dependent origination.
+
+
+<a id="M06-body-P021"></a>
+## Thế nào là pháp Duyên khởi? / What is the teaching of dependent origination?
+Miến / Burmese 21
+
+**VI**
+Chính Đức Thế Tôn cũng không thiết lập hay tạo ra pháp Duyên khởi này. Dù một vị Phật xuất hiện hay không xuất hiện, quy luật Duyên khởi này vẫn hiện hữu. (Saṃyutta, quyển 1, tr. 264, Paccayasutta.) Chỉ khi chư Phật xuất hiện, chúng sinh mới có cơ hội biết pháp này nhờ các Ngài khai thị và thuyết giảng. Nếu Đức Phật không xuất hiện ở đời, hoặc Ngài xuất hiện mà người ta không được nghe pháp Duyên khởi, hoặc tuy được nghe pháp mà vẫn chấp giữ những tà kiến tai hại như thường kiến và đoạn kiến, thì họ không thể biết và hiểu quy luật Duyên khởi này.
+
+**EN**
+Even the Blessed One himself did not establish or create this teaching of dependent origination. Whether a Buddha appears or does not appear, this principle of dependent origination remains in effect. (Saṃyutta, vol. 1, p. 264, Paccayasutta.) Only when Buddhas appear do beings gain the opportunity to know this teaching through their disclosure and exposition. If a Buddha does not appear in the world, if a Buddha appears but people do not hear the teaching of dependent origination, or if, though they hear the teaching, they still hold fast to harmful wrong views such as eternalism and annihilationism, they cannot know and understand this principle of dependent origination.
+
+**VI**
+Pháp Duyên khởi này sâu xa và có vẻ sâu xa, khó hiểu và có vẻ khó hiểu. Khi Tôn giả Ānanda đến bạch rằng pháp ấy “dễ hiểu, nông cạn”, Đức Phật đã ngăn lại: “Mā hevaṃ, Ānanda, avaca — Này Ānanda, chớ nói như vậy.” Dù pháp Duyên khởi khó hiểu và sâu xa đến đâu, chừng nào chưa biết rõ pháp này bằng trí hiểu biết và trí thấu đạt (anubodhañāṇa, paṭivedhañāṇa), người ta chưa thể vượt qua khổ trong vòng luân hồi. (Dīgha, quyển 2, tr. 47. Saṃyutta, quyển 1, tr. 318.)
+
+**EN**
+This teaching of dependent origination is deep and appears deep, difficult to understand and appears difficult to understand. When Venerable Ānanda came and said that it was “easy to understand and shallow,” the Buddha restrained him: “Mā hevaṃ, Ānanda, avaca — Ānanda, do not say so.” However difficult to understand and profound dependent origination may be, until one knows it distinctly by knowledge of understanding and knowledge of penetration (anubodhañāṇa, paṭivedhañāṇa), one cannot pass beyond the suffering of the round of rebirths. (Dīgha, vol. 2, p. 47. Saṃyutta, vol. 1, p. 318.)
+
+**VI**
+Người chưa biết quy luật Duyên khởi này thì chưa xứng được gọi là sa-môn hay bà-la-môn. (Saṃyutta, quyển 1, tr. 279.)
+
+**EN**
+One who does not yet know this principle of dependent origination does not deserve to be called an ascetic or a brahmin. (Saṃyutta, vol. 1, p. 279.)
+
+**VI**
+Chư Phật đã xuất hiện, đang xuất hiện và sẽ xuất hiện, nhờ biết rõ pháp Duyên khởi này mà…
+
+**EN**
+The Buddhas who have appeared, are appearing, and will appear, through distinctly knowing this teaching of dependent origination…
+
+
+<a id="M06-body-P022"></a>
+## Duyên khởi và con đường Trung đạo / Dependent origination and the Middle Way
+Miến / Burmese 22
+
+**VI**
+… thành tựu Phật quả. (Saṃyutta, quyển 1, tr. 246–252.)
+
+**EN**
+… attain Buddhahood. (Saṃyutta, vol. 1, pp. 246–252.)
+
+**VI**
+Chừng nào chúng sinh chưa biết rõ pháp Duyên khởi này, chừng ấy họ còn rơi xuống một trong hai vực sâu là thường kiến và đoạn kiến, còn phải chịu mọi nỗi khổ. Vì thế, trong Nidānasaṃyutta, Đức Phật nhiều lần dạy rằng ai muốn thoát khổ luân hồi cần nỗ lực thấu hiểu pháp Duyên khởi này.
+
+**EN**
+For as long as beings do not distinctly know this teaching of dependent origination, they keep falling into one of the two abysses of eternalism and annihilationism and continue to undergo all kinds of suffering. Thus the Buddha repeatedly taught in the Nidānasaṃyutta that those who wish to escape the suffering of the round must strive to penetrate this teaching of dependent origination.
+
+**VI**
+Con đường Trung đạo (Majjhimā paṭipadā)
+
+**EN**
+The Middle Way (Majjhimā paṭipadā)
+
+**VI**
+1. Jarāmaraṇādīnaṃ dhammānaṃ paccayalakkhaṇo paṭiccasamuppādo.
+2. Dukkhānubandhanaraso.
+3. Kummaggapaccupaṭṭhāno. (Visuddhimagga, quyển 2, tr. 149.)
+
+**EN**
+1. Jarāmaraṇādīnaṃ dhammānaṃ paccayalakkhaṇo paṭiccasamuppādo.
+2. Dukkhānubandhanaraso.
+3. Kummaggapaccupaṭṭhāno. (Visuddhimagga, vol. 2, p. 149.)
+
+**VI**
+Duyên khởi có những đặc tính sau:
+
+**EN**
+Dependent origination is explained as follows:
+
+**VI**
+1. Đặc tướng là làm duyên, có khả năng trợ cho các pháp được trợ như già chết sinh khởi.
+
+**EN**
+1. Its characteristic is that of a condition, the capacity to support the arising of conditioned phenomena such as aging and death.
+
+**VI**
+2. Phận sự là khiến khổ trong dòng diễn tiến (pavattidukkha) nối tiếp, tức khiến nhân và quả tiếp nối, sinh khởi không gián đoạn.
+
+**EN**
+2. Its function is to keep suffering in the course of existence (pavattidukkha) going, with causes and effects linked and arising without interruption.
+
+**VI**
+3. Đối với trí của hành giả, nó hiện ra như đường luân hồi kéo dài không dứt. Nói cách khác, nó hiện ra như đường lầm, chỗ rẽ sai, khiến hành giả đi chệch khỏi con đường Trung đạo đưa đến Niết-bàn.
+
+**EN**
+3. It appears to the meditator’s knowledge as the unbroken course of saṃsāra. Alternatively, it appears as a wrong road or a wrong turn that leads the meditator away from the Middle Way leading to Nibbāna.
+
+
+<a id="M06-body-P023"></a>
+## Thế nào là Trung đạo đưa đến Niết-bàn? / What is the Middle Way leading to Nibbāna?
+Miến / Burmese 23
+
+**VI**
+Tesaṃ tesaṃ paccayuppannadhammānaṃ sambhavato uppajjanato sassatocchedasaṅkhātaṃ antadvayaṃ anupagamma yathāsakaṃ paccayehi anurūpaphaluppatti idha majjhimā paṭipadāti adhippetā. (Mahāṭīkā, quyển 2, tr. 236.)
+
+**EN**
+Tesaṃ tesaṃ paccayuppannadhammānaṃ sambhavato uppajjanato sassatocchedasaṅkhātaṃ antadvayaṃ anupagamma yathāsakaṃ paccayehi anurūpaphaluppatti idha majjhimā paṭipadāti adhippetā. (Mahāṭīkā, vol. 2, p. 236.)
+
+**VI**
+Khi hành giả đạt hai tuệ là tuệ phân biệt danh sắc (nāmarūpaparicchedañāṇa) và tuệ phân biệt duyên (paccayapariggahañāṇa), vị ấy tự mình thấy đúng và thấu rõ bằng trí chánh kiến sự sinh khởi liên tục theo nhân quả của các pháp quả như hành, tùy thuộc sự hội đủ của các pháp nhân tương ứng như vô minh.
+
+**EN**
+When a meditator attains the two knowledges of discerning mentality-materiality (nāmarūpaparicchedañāṇa) and discerning conditions (paccayapariggahañāṇa), the meditator personally sees correctly and penetrates, with the wisdom of right view, the continuous causal arising of resultant phenomena such as formations in dependence on the concurrence of their respective causes such as ignorance.
+
+**VI**
+Khi biết và thấy như vậy, trí ấy không ngả vào hai cực đoan gọi là thường kiến và đoạn kiến. Vị ấy bước vào Trung đạo do Đức Phật chỉ dạy, con đường chỉ rõ rằng do từng nhóm pháp nhân tương ứng mà các pháp quả phù hợp với các nhân ấy sinh khởi.
+
+**EN**
+When the meditator knows and sees in this way, that knowledge does not fall into the two extremes called eternalism and annihilationism. The meditator enters the Middle Way taught by the Buddha, which shows how each corresponding group of causes gives rise to effects consonant with those causes.
+
+**VI**
+Trung đạo đưa đến Niết-bàn là thế nào?
+
+**EN**
+What is the Middle Way leading to Nibbāna?
+
+**VI**
+Khi biết được (1) các pháp nhân như vô minh, (2) các pháp quả như hành và (3) tính chất liên hệ nhân quả giữa các pháp nhân như vô minh và các pháp quả như hành, hành giả đem từng nhóm pháp nhân và pháp quả ra xem xét theo ba đặc tướng và chuyên cần quán minh sát. Đó là con đường ấy.
+
+**EN**
+When the meditator knows (1) the causal phenomena such as ignorance, (2) the resultant phenomena such as formations, and (3) the causal relationship between phenomena such as ignorance and their effects such as formations, the meditator examines those groups of causes and effects in light of the three characteristics and diligently develops insight into them. This is that path.
+
+**VI**
+Nếu không quán minh sát như vậy, hoặc chưa thể quán như vậy, thì các pháp nhân và quả ấy vẫn tiếp nối không ngừng, sinh khởi hết lần này đến lần khác…
+
+**EN**
+If insight is not developed in that way, or if the meditator is unable to discern in that way, those causes and effects go on uninterrupted, arising time and again…
+
+
+<a id="M06-body-P024"></a>
+## Trung đạo và khổ trong dòng diễn tiến / The Middle Way and suffering in the course of existence
+Miến / Burmese 24
+
+**VI**
+… và cứ thế tiếp tục. Sự diễn tiến ấy được gọi là khổ trong dòng diễn tiến (pavattidukkha). Các nhân và quả cứ sinh khởi liên tục như vậy. Việc gắng sức để chúng tiếp tục sinh khởi là đường sai (kummagga), chệch khỏi Trung đạo đưa đến Niết-bàn, là lối rẽ ngược hẳn với Trung đạo. Nó chỉ làm luân hồi và các cõi khổ thêm tăng trưởng.
+
+**EN**
+… and so continue. That course is called suffering in the course of existence (pavattidukkha). Causes and effects keep arising in that way. Striving to keep them arising is the wrong path (kummagga), a deviation from the Middle Way to Nibbāna, a wrong turning directly opposed to it. It serves only to extend the round of rebirths and the states of deprivation.
+
+**VI**
+Nếu thiện nhân có thể lấy các nhân và quả liên tiếp như vô minh, hành trong ba thời quá khứ, hiện tại và vị lai, từ đoạn quá khứ còn có đến tận cùng vị lai, đặt dưới ba đặc tướng và chuyên cần quán minh sát, thì ái chấp, mạn chấp và kiến chấp nắm chặt các nhân quả ấy là “ta”, “của ta”, “tự ngã của ta” sẽ tan rã và bị phá vỡ.
+
+**EN**
+If a good person can subject the successive causes and effects such as ignorance and formations in the three periods, past, present and future, from the earlier past through to the end of the future, to the three characteristics and diligently develop insight, the attachments of craving, conceit and views that hold fast to those causes and effects as “I,” “mine,” and “my self” will disintegrate and be destroyed.
+
+**VI**
+Vì vậy, quán minh sát như thế chính là vững vàng đi trên con đường Trung đạo với các quyền có đủ phẩm chất và sức mạnh. Nếu thiện nhân có thể đi đúng và chuyên cần, không ngừng nghỉ, trên con đường Trung đạo ấy, thì một ngày nào đó, khi các quyền chín muồi và hội đủ, vị ấy nhất định sẽ đạt Niết-bàn hằng mong cầu.
+
+**EN**
+Thus developing insight in this manner is to proceed firmly along the Middle Way with the faculties endowed with strength and quality. If a good person can proceed well and diligently along that Middle Way without interruption, then one day, when the faculties mature and come together, that person will certainly reach the Nibbāna long aspired to.
+
+**VI**
+Thế nào là Duyên khởi?
+
+**EN**
+What is dependent origination?
+
+**VI**
+Paṭiccasamuppādoti paccayadhammā veditabbā. Paṭiccasamuppannā dhammāti paccayanibbattā dhammā. (Visuddhimagga, quyển 2, tr. 148.)
+
+**EN**
+Paṭiccasamuppādoti paccayadhammā veditabbā. Paṭiccasamuppannā dhammāti paccayanibbattā dhammā. (Visuddhimagga, vol. 2, p. 148.)
+
+**VI**
+Tehi tehi paccayehi nibbattā…
+
+**EN**
+Tehi tehi paccayehi nibbattā…
+
+
+<a id="M06-body-P025"></a>
+## Pháp trợ và pháp được trợ / Conditioning and conditioned phenomena
+Miến / Burmese 25
+
+**VI**
+… tathā paṭiccasamuppādā icceva phalavohārena vuttāti veditabbā. (Visuddhimagga, quyển 2, tr. 152.)
+
+**EN**
+… tathā paṭiccasamuppādā icceva phalavohārena vuttāti veditabbā. (Visuddhimagga, vol. 2, p. 152.)
+
+**VI**
+Hãy biết các pháp nhân như vô minh là Duyên khởi (paṭiccasamuppāda). Hãy biết các pháp quả như hành sinh khởi do các pháp nhân như vô minh ấy là các pháp duyên sinh (paṭiccasamuppanna). (Visuddhimagga, quyển 2, tr. 148.)
+
+**EN**
+Understand that causal phenomena such as ignorance are dependent origination (paṭiccasamuppāda). Understand that the effects, such as formations, arising due to causes such as ignorance are dependently arisen phenomena (paṭiccasamuppanna). (Visuddhimagga, vol. 2, p. 148.)
+
+**VI**
+Trong “vô minh duyên hành” (avijjāpaccayā saṅkhārā), vô minh là pháp nhân làm duyên, còn hành là pháp quả được trợ. Pháp nhân gọi là pháp trợ (paccayadhamma), pháp quả gọi là pháp được trợ (paccayuppannadhamma). Trong “hành duyên thức” (saṅkhārapaccayā viññāṇaṃ), hành là pháp nhân làm duyên, còn thức là pháp quả được trợ. Hãy hiểu các pháp trợ và các pháp được trợ theo cách này cho đến sinh và già chết.
+
+**EN**
+In “with ignorance as condition, formations” (avijjāpaccayā saṅkhārā), ignorance is the causal conditioning phenomenon and formations are the conditioned result. The causal phenomenon is called a conditioning phenomenon (paccayadhamma), and the resulting phenomenon is called a conditioned phenomenon (paccayuppannadhamma). In “with formations as condition, consciousness” (saṅkhārapaccayā viññāṇaṃ), formations are the causal conditioning phenomena and consciousness is the conditioned result. Understand the conditioning and conditioned phenomena in this way through birth and aging and death.
+
+**VI**
+Trong mối liên hệ nhân quả giữa vô minh và hành, hành là quả. Trong mối liên hệ nhân quả giữa hành và thức, hành lại là nhân. Cũng hãy hiểu theo cách ấy vai trò nhân và quả của thức, danh sắc và các chi tiếp theo.
+
+**EN**
+In the causal relationship between ignorance and formations, formations are the effect. In the causal relationship between formations and consciousness, formations are in turn the cause. Understand the causal and resultant roles of consciousness, mentality-materiality, and the subsequent factors in the same way.
+
+**VI**
+Khi dạy rằng do vô minh mà hành sinh khởi, và cứ thế tiếp theo, Đức Phật nêu pháp nhân chính và pháp quả chính theo lối trình bày phần chủ yếu. Vô minh không có khả năng tự mình sinh khởi riêng lẻ. Tư thuộc hành cũng không có khả năng tự mình sinh khởi riêng lẻ. Chỉ do một mình vô minh mà một mình tư thuộc hành sinh khởi…
+
+**EN**
+In teaching that formations arise due to ignorance, and so on, the Buddha points out the principal cause and the principal effect by way of what is predominant. Ignorance has no power to arise on its own. The volition that constitutes formations likewise has no power to arise on its own. For that volition to arise in isolation due to ignorance alone…
+
+
+<a id="M06-body-P026"></a>
+## Nhiều nhân và nhiều quả / Multiple causes and multiple effects
+Miến / Burmese 26
+
+**VI**
+… cũng không có khả năng ấy, và cũng không có quy luật sinh khởi như thế. Trong thế gian này:
+
+**EN**
+… there is no such power, and there is no natural law of arising in that way. In this world:
+
+**VI**
+1. Không có một quả duy nhất sinh khởi do một nhân duy nhất.
+2. Không có nhiều quả sinh khởi do một nhân duy nhất.
+3. Không có một quả duy nhất sinh khởi do nhiều nhân.
+4. Chỉ có nhiều quả sinh khởi do nhiều nhân. (Chú giải Abhidhamma, quyển 2, tr. 140. Visuddhimagga, quyển 2, tr. 173–174.)
+
+**EN**
+1. A single effect does not arise from a single cause.
+2. Many effects do not arise from a single cause.
+3. A single effect does not arise from many causes.
+4. It is only from many causes that many effects arise. (Abhidhamma Commentary, vol. 2, p. 140. Visuddhimagga, vol. 2, pp. 173–174.)
+
+**VI**
+Tập hợp nhiều pháp nhân gọi là nhóm pháp trợ (paccayadhammasamūha). Tập hợp nhiều pháp quả gọi là nhóm pháp được trợ (paccayuppannadhammasamūha). Tập hợp nhiều pháp quả sinh khởi do tập hợp nhiều pháp nhân ấy cũng được gọi là Duyên khởi (paṭiccasamuppāda).
+
+**EN**
+A collection of many causal phenomena is called a group of conditioning phenomena (paccayadhammasamūha). A collection of many resultant phenomena is called a group of conditioned phenomena (paccayuppannadhammasamūha). The collection of many effects that arise due to that collection of many causes is also called dependent origination (paṭiccasamuppāda).
+
+**VI**
+Thật vậy, (1) thời tiết (utu), tức nóng và lạnh, (2) đất (paṭhavī), tức đất trồng, (3) hạt giống (bīja), và (4) nước (salila): chỉ do nhiều pháp nhân như thế mà quả gọi là mầm mới sinh ra. Mầm ấy là tập hợp nhiều nhóm sắc do vật thực sinh, có màu, mùi, vị và các sắc khác. Tương tự, do nhiều pháp nhân…
+
+**EN**
+For example, (1) climate (utu), that is, heat and cold, (2) earth (paṭhavī), that is, the soil for planting, (3) seed (bīja), and (4) water (salila): only due to multiple causes such as these does the effect called a shoot arise. It consists of many nutriment-born material groups with colour, smell, taste and other material phenomena. In the same way, due to many causal phenomena…
+
+
+<a id="M06-body-P027"></a>
+## Vì sao Đức Phật nêu từng nhân và từng quả? / Why the Buddha singles out individual causes and effects
+Miến / Burmese 27
+
+**VI**
+… ta thấy một tập hợp nhiều pháp quả sinh khởi. Dù vậy, trong những lời như “vô minh duyên hành”, “hành duyên thức”, Đức Phật đã thuyết bằng cách nêu rõ từng pháp nhân và từng pháp quả. Cách trình bày ấy có mục đích và lợi ích.
+
+**EN**
+… one sees a collection of many effects arise. Even so, in statements such as “with ignorance as condition, formations” and “with formations as condition, consciousness,” the Buddha taught by expressly identifying an individual cause and an individual effect. There is a purpose and a benefit to this way of teaching.
+
+**VI**
+Khi giảng giải Giáo pháp cho các đệ tử, Ngài có thể nêu riêng một nhân hay một quả: (1) vì trong một số đoạn Pāli, đó là nhân chính; (2) vì trong một số đoạn Pāli, đó là nhân hiển nhiên; (3) vì trong một số đoạn Pāli, đó là nhân đặc thù, không chung với các pháp khác.
+
+**EN**
+In explaining the Dhamma to his disciples, he may single out one cause or one effect: (1) because in some Pāli passages it is the principal cause, (2) because in some Pāli passages it is the evident cause, or (3) because in some Pāli passages it is the distinctive cause, one not shared with other phenomena.
+
+**VI**
+Ngài trình bày cho phù hợp với trí toàn giác (sabbaññutañāṇa), nhờ đó lời dạy có trật tự và thích đáng, và phù hợp với sở thích, căn tính, khuynh hướng và căn cơ của chúng sinh cần được giáo hóa, như loài người, chư thiên và phạm thiên, dù họ có hay chưa có khả năng thâm nhập đề mục thiền. (Chú giải Abhidhamma, quyển 2, tr. 140. Visuddhimagga, quyển 2, tr. 174.)
+
+**EN**
+He presents the teaching in a way consonant with his omniscient knowledge (sabbaññutañāṇa), which makes the exposition orderly and apt, and in a way suited to the preferences, temperaments, inclinations and dispositions of beings to be guided, such as humans, devas and brahmās, whether or not they can yet penetrate a meditation subject. (Abhidhamma Commentary, vol. 2, p. 140. Visuddhimagga, vol. 2, p. 174.)
+
+**VI**
+Do ba phương diện ấy mà trong lời dạy về Duyên khởi, Ngài nêu rõ một nhân và một quả…
+
+**EN**
+For these three reasons, the teaching of dependent origination expressly identifies one cause and one effect…
+
+
+<a id="M06-body-P028"></a>
+## Vô minh là nhân chính, hiển nhiên và đặc thù / Ignorance as the principal, evident, and distinctive cause
+Miến / Burmese 28
+
+**VI**
+… Vì vậy, tuy trong lời Pāli về Duyên khởi còn có những pháp nhân khác của hành, tức tư, như căn vật, cảnh và các pháp đồng sinh, cùng giúp tư sinh khởi, Đức Phật cũng đã dạy như sau.
+
+**EN**
+… Thus, although there are other causes of formations, that is, volition, such as the material base, object and conascent phenomena that assist its arising, the Buddha also taught as follows.
+
+**VI**
+“Assādānupassino taṇhā pavaḍḍhati” nghĩa là: Này các tỳ-khưu, ái tăng trưởng trong dòng tương tục của người thường quán vị ngọt nơi các cảnh có thể trở thành đối tượng của kiết sử. (Saṃyutta, quyển 1, tr. 311.) Lại có lời “Avijjāsamudayā āsavasamudayo” nghĩa là do vô minh sinh khởi mà các lậu hoặc sinh khởi. (Majjhima, quyển 1, tr. 68.)
+
+**EN**
+“Assādānupassino taṇhā pavaḍḍhati” means: Bhikkhus, craving grows in the continuity of one who repeatedly contemplates gratification in objects liable to become objects of fetters. (Saṃyutta, vol. 1, p. 311.) Again, “Avijjāsamudayā āsavasamudayo” means that with the arising of ignorance, the taints arise. (Majjhima, vol. 1, p. 68.)
+
+**VI**
+Những lời dạy này cho thấy còn có các pháp như ái, ngoài vô minh, làm nhân cho hành. Các pháp như ái ấy cũng là nhân của hành. Tuy nhiên, trong các nhân này, vô minh là nhân chính.
+
+**EN**
+These teachings show that phenomena such as craving, in addition to ignorance, act as causes of formations. Such phenomena as craving are indeed causes of formations. Among these causes, however, ignorance is the principal one.
+
+**VI**
+“Avidvā bhikkhave avijjāgato puññābhisaṅkhārampi abhisaṅkharoti.” Này các tỳ-khưu, người không có trí vì chưa biết thực tính của các pháp chân đế, người bị vô minh chi phối, cũng tạo tác phúc hành. Do lời dạy như vậy, vô minh cũng là nhân hiển nhiên của hành.
+
+**EN**
+“Avidvā bhikkhave avijjāgato puññābhisaṅkhārampi abhisaṅkharoti.” Bhikkhus, the one without knowledge, who does not know the true nature of ultimate phenomena and is overcome by ignorance, also generates meritorious formation. As such teachings show, ignorance is also an evident cause of formations.
+
+**VI**
+Các nhân như căn vật, cảnh và pháp đồng sinh có liên hệ với mọi danh pháp trong cõi có năm uẩn. Vô minh là nhân đặc thù của các hành…
+
+**EN**
+Causes such as the material base, object and conascent phenomena are related to all mental phenomena in the planes of five aggregates. Ignorance is a distinctive cause of formations…
+
+
+<a id="M06-body-P029"></a>
+## Ba lý do nêu riêng một nhân / Three reasons for singling out a cause
+Miến / Burmese 29
+
+**VI**
+… tức là nhân không chung với các pháp khác. Vì vô minh là nhân đặc thù, không chung với các pháp khác, và vì ba phương diện vừa nêu, hãy hiểu rằng Đức Phật dạy vô minh là nhân của các hành.
+
+**EN**
+… that is, a cause not shared with other phenomena. Because ignorance is a distinctive cause, not shared with other phenomena, and on account of the three grounds just stated, understand that the Buddha taught ignorance as the cause of formations.
+
+**VI**
+Cũng theo lời giải thích vì sao Ngài nêu riêng từng nhân và từng quả, hãy hiểu mục đích và lợi ích của cách nêu riêng từng nhân và từng quả trong những câu như “do hành mà thức sinh khởi”. (Chú giải Abhidhamma, quyển 2, tr. 140. Visuddhimagga, quyển 2, tr. 174.)
+
+**EN**
+The same explanation of why the Buddha singled out an individual cause and an individual effect also shows the purpose and benefit of that way of teaching in such cases as consciousness arising due to formations. (Abhidhamma Commentary, vol. 2, p. 140. Visuddhimagga, vol. 2, p. 174.)
+
+**VI**
+Những lời giải thích theo chú giải vừa nêu là những ghi chép quan trọng về thực tính của các pháp. Các hành giả ưu tú đang thực sự quán minh sát và thẩm sát để trí thấy thấu đến năng lực của các pháp chân đế cần đặc biệt chú ý, kính cẩn tiếp nhận và ghi nhớ.
+
+**EN**
+These explanations from the commentaries are important records concerning the nature of phenomena. Accomplished meditators who actually develop and investigate insight so that their knowledge penetrates the powers of ultimate phenomena should pay them particular attention, respectfully receive them, and retain them.
+
+**VI**
+Ở trên đã giải thích vì sao tập hợp nhiều nhân gọi là nhóm pháp trợ cũng mang tên Duyên khởi: chỉ do tập hợp ấy mà tập hợp nhiều quả gọi là nhóm pháp được trợ xuất hiện. Chú giải Visuddhimagga, quyển 2, tr. 151–152, cũng giải thích vì sao tập hợp quả gọi là nhóm pháp được trợ, sinh do tập hợp nhân, được gọi là Duyên khởi. Sau đây là lời giải thích ấy.
+
+**EN**
+The reason why the collection of many causes called the group of conditioning phenomena is also named dependent origination has already been explained: it is only because of that collection that the many effects called the group of conditioned phenomena come into being. The Visuddhimagga commentary, vol. 2, pp. 151–152, also explains why the resultant group called the group of conditioned phenomena, arising from the collection of causes, is called dependent origination. That explanation follows.
+
+
+<a id="M06-body-P030"></a>
+## Giải nghĩa từ Paṭiccasamuppāda / Explanation of the term Paṭiccasamuppāda
+Miến / Burmese 30
+
+**VI**
+Khi các tập hợp quả gọi là nhóm pháp được trợ mang tên Duyên khởi, các bậc trí muốn phân tích từ paṭiccasamuppāda theo hai cách, hai phương diện, và giải nghĩa từ này theo hai nghĩa.
+
+**EN**
+When collections of effects known as groups of conditioned phenomena are given the name dependent origination, the wise wish to analyse the word paṭiccasamuppāda in two ways, from two perspectives, and explain it in two senses.
+
+**VI**
+Giải nghĩa từ Paṭiccasamuppāda.
+
+**EN**
+Explanation of the term Paṭiccasamuppāda.
+
+**VI**
+Hành giả hướng trí đến thực tính Duyên khởi, tức tập hợp các pháp quả sinh do năng lực của tập hợp các pháp nhân. Vị ấy gắng sức dùng trí thấu rõ thực tính ấy, và biết được nó. Việc hướng trí đến và thấu hiểu thực tính Duyên khởi như thế nhằm lợi ích siêu thế, an lạc siêu thế, chứng đắc đạo tuệ và quả tuệ, và trực chứng Niết-bàn. Vì vậy, nhóm pháp quả được trợ gọi là Duyên khởi đáng để thiện nhân có trí tin nhận và hướng trí đến để biết. Vì lẽ ấy, nhóm pháp quả được trợ mang tên paṭicca.
+
+**EN**
+A meditator directs the course of knowledge toward the nature of dependent origination, namely the collection of effects produced by the power of a collection of causes. The meditator strives to penetrate that nature with knowledge and comes to know it. Directing knowledge toward and penetrating the nature of dependent origination in this way is for supramundane benefit and happiness, for attaining path and fruition knowledge, and for realizing Nibbāna. Thus the group of conditioned effects called dependent origination is worthy of the confidence of wise and good people and worthy of their directing knowledge toward it. For that reason the group of conditioned effects is termed paṭicca.
+
+**VI**
+Lại nữa, khi tập hợp quả gọi là nhóm pháp được trợ sinh khởi, không có lấy một pháp hay một phần nào của pháp ấy sinh riêng rẽ, từng cái một. Chúng chỉ sinh cùng nhau, thành nhóm, thành tập hợp. Vì vậy, nhóm pháp quả ấy cũng gọi là samuppāda. «Hãy tách samuppāda thành saṃ + uppāda. Saṃ có nghĩa là saha, tức cùng nhau, thành một nhóm, một tập hợp. Do đó: saha + uppāda = samuppāda, tức saha uppajjatīti samuppādo, “sinh cùng nhau nên gọi là samuppāda”.»
+
+**EN**
+Further, when the collection of effects called the group of conditioned phenomena arises, not even one phenomenon or part of one arises singly, one by one. They arise only together, in groups, in collections. Therefore that group of effects is also called samuppāda. «Divide samuppāda into saṃ + uppāda. Saṃ means saha, that is, together, in one group or collection. Hence saha + uppāda = samuppāda, that is, saha uppajjatīti samuppādo, “it is samuppāda because it arises together.”»
+
+
+<a id="M06-body-P031"></a>
+## Cùng sinh khởi và sinh khởi đúng duyên / Arising together and arising through proper conditions
+Miến / Burmese 31
+
+**VI**
+Lại nữa, tập hợp quả gọi là nhóm pháp được trợ không sinh khởi khi thiếu nhân, cũng không sinh do một nguyên nhân tạo tác thường còn mà không tương ứng. Nó chỉ sinh do nhân thích hợp, nhân đúng. «Theo cách này, hãy phân tích sammā + uppāda = samuppāda, tức sammā uppajjatīti samuppādo, “sinh khởi đúng cách nên gọi là samuppāda”.» Các pháp không sinh riêng lẻ từng cái một, cũng không sinh vô nhân, thiếu nhân. Vì vậy, theo lời “Saha sammā ca uppajjatīti samuppādo”, nó được gọi là samuppāda.
+
+**EN**
+Further, the collection of effects called the group of conditioned phenomena does not arise in the absence of causes, nor does it arise from an eternal, unsuitable creating cause. It arises only through proper, appropriate causes. «In this explanation, analyse it as sammā + uppāda = samuppāda, that is, sammā uppajjatīti samuppādo, “it is samuppāda because it arises properly.”» The phenomena do not arise singly, one by one, and they do not arise causelessly or without causes. Thus, in accordance with “Saha sammā ca uppajjatīti samuppādo,” it is called samuppāda.
+
+**VI**
+Paṭicco ca so samuppādo cāti paṭiccasamuppādo. (Visuddhimagga, quyển 2, tr. 151–152.)
+
+**EN**
+Paṭicco ca so samuppādo cāti paṭiccasamuppādo. (Visuddhimagga, vol. 2, pp. 151–152.)
+
+**VI**
+Theo lời giải của chú giải, đó là tập hợp các pháp đáng hướng trí đến và biết rõ, đồng thời cũng là tập hợp các pháp ấy sinh cùng nhau, và là tập hợp các pháp sinh do nhân thích hợp. Vì vậy gọi là paṭiccasamuppāda.
+
+**EN**
+According to the commentary’s explanation, this is a collection of phenomena worthy of being approached and known by knowledge, a collection of those same phenomena arising together, and a collection of phenomena arising through appropriate causes. Therefore it is called paṭiccasamuppāda.
+
+**VI**
+Còn một cách giải khác.
+
+**EN**
+There is another explanation.
+
+**VI**
+Api ca saha uppajjatīti samuppādo, paccayasāmaggiṃ pana paṭicca appaccakkhāyāti evampi paṭiccasamuppādo. (Visuddhimagga, quyển 2, tr. 152.)
+Saha uppajjatīti ekajjhaṃ uppajjati, antamaso aṭṭhannaṃ dhammānaṃ uppajjanato. (Mahāṭīkā, quyển 2, tr. 234.)
+
+**EN**
+Api ca saha uppajjatīti samuppādo, paccayasāmaggiṃ pana paṭicca appaccakkhāyāti evampi paṭiccasamuppādo. (Visuddhimagga, vol. 2, p. 152.)
+Saha uppajjatīti ekajjhaṃ uppajjati, antamaso aṭṭhannaṃ dhammānaṃ uppajjanato. (Mahāṭīkā, vol. 2, p. 234.)
+
+**VI**
+Tập hợp các pháp quả gọi là nhóm pháp được trợ chỉ sinh chung thành một nhóm. Về phía sắc, trong mỗi nhóm sắc, tối thiểu có tám pháp sắc chân đế: đất, nước, lửa, gió, màu, mùi, vị và dưỡng chất…
+
+**EN**
+The collection of effects called the group of conditioned phenomena arises only together as a group. On the side of materiality, in each material group there are at least eight ultimate material phenomena: earth, water, fire, air, colour, smell, taste and nutritive essence…
+
+
+<a id="M06-body-P032"></a>
+## Sự hội đủ của duyên và sự đồng sinh / Concurrence of conditions and arising together
+Miến / Burmese 32
+
+**VI**
+… chỉ khi tám pháp ấy kết hợp thì mới có thể cùng sinh thành một nhóm. Về phía danh, tối thiểu cũng phải có tám pháp danh chân đế cùng hiện diện: xúc, thọ, tưởng, tư, nhất tâm, mạng quyền, tác ý và thức. Chỉ khi tám pháp ấy kết hợp thì mới có thể cùng sinh thành một nhóm.
+
+**EN**
+… only when those eight phenomena are combined can they arise together as one group. On the side of mentality, there are likewise at least eight ultimate mental phenomena: contact, feeling, perception, volition, one-pointedness, life faculty, attention and consciousness. Only when these eight phenomena are combined can they arise together as one group.
+
+**VI**
+Như vậy, vì nhóm pháp quả được trợ sinh chung thành một tập hợp nên gọi là samuppāda. Tuy sinh chung như thế, chúng chỉ xuất hiện khi nương vào sự hội đủ của các pháp nhân, khi dựa vào và không gạt bỏ các pháp nhân ấy. Vì vậy, nhóm pháp quả được trợ gọi là paṭicca vì sinh nương vào sự hội đủ của các pháp nhân, và gọi là samuppāda vì sinh chung thành một nhóm. Do hai khả năng ấy mà gọi là paṭiccasamuppāda.
+
+**EN**
+Thus the group of conditioned effects is called samuppāda because it arises together as one collection. Even as it arises together, it comes into being only by relying on the concurrence of its causes, depending on them and without dispensing with them. Hence it is termed paṭicca because it arises in dependence on the concurrence of causal phenomena, and samuppāda because it arises together as one group. On account of those two capacities it is called paṭiccasamuppāda.
+
+**VI**
+Lại nữa, đối với nhóm pháp quả được trợ như hành, vốn gọi là Duyên khởi, nhóm pháp trợ hay nhóm nhân như vô minh được gọi là paccaya, tức duyên hay nhân. Do đó, nhóm pháp quả được trợ như hành gọi là tappaccayadhamma, tức pháp có các pháp nhân như vô minh ấy làm duyên. Vì nhóm pháp trợ, tức nhóm nhân như vô minh, là nguyên nhân của nhóm pháp được trợ vốn gọi là Duyên khởi, nên bản thân nhóm nhân ấy cũng được gọi là Duyên khởi.
+
+**EN**
+Further, with regard to the group of conditioned effects such as formations, called dependent origination, the group of conditioning phenomena or causes such as ignorance is called paccaya, a condition or cause. Thus the group of conditioned effects such as formations is called tappaccayadhamma, phenomena that have those causal phenomena such as ignorance as their conditions. Because the group of conditioning phenomena, the group of causes such as ignorance, is the cause of the conditioned group called dependent origination, that causal group itself is also called dependent origination.
+
+**VI**
+Trong đời, đờm là nguyên nhân khiến người ta khạc đờm, nên cục đờm được gọi là “cái để khạc”. Trong Giáo pháp, sự xuất hiện của chư Phật là nguyên nhân của an lạc…
+
+**EN**
+In ordinary usage, phlegm is what causes one to spit, and the lump of phlegm is called “that which is to be spat out.” In the Dispensation, the appearance of Buddhas is the cause of happiness…
+
+
+<a id="M06-body-P033"></a>
+## Gọi nhân bằng tên của quả / Applying the name of the effect to the cause
+Miến / Burmese 33
+
+**VI**
+… nên nói “Sukho buddhānaṃ uppādo”, sự xuất hiện của chư Phật là an lạc. Cũng vậy, cần hiểu rằng nhóm pháp nhân như vô minh, tức nhóm nhân hay nhóm pháp trợ, được thuyết là Duyên khởi theo lối gọi nhân bằng tên của quả (phalūpacāra). (Visuddhimagga, quyển 2, tr. 151–152.)
+
+**EN**
+… and so it is said, “Sukho buddhānaṃ uppādo,” the appearance of Buddhas is happiness. Likewise, understand that the group of causes such as ignorance, the group of causal or conditioning phenomena, is taught as dependent origination by the figurative application of the effect’s name to its cause (phalūpacāra). (Visuddhimagga, vol. 2, pp. 151–152.)
+
+**VI**
+Theo cách này, tên Duyên khởi của nhóm pháp quả được trợ được chuyển sang nhóm pháp trợ, tức nhóm nhân. Vì vậy, nhóm nhân cũng được thuyết là Duyên khởi. Các pháp quả không thể thiếu các pháp nhân. Chỉ khi các pháp nhân hiện hữu thì các pháp quả mới có thể sinh khởi. Theo nghĩa không thể thiếu (avinābhāva) ấy, ở đây tác giả muốn nói rằng nhóm pháp nhân cũng được thuyết là pháp Duyên khởi.
+
+**EN**
+On this explanation, the name dependent origination, belonging to the conditioned group of effects, is transferred to the conditioning group, the group of causes. Thus the group of causes too is taught as dependent origination. Effects cannot dispense with their causes. Only when the causes are present can effects arise. It is in this sense of indispensability (avinābhāva) that the causal group is also said to be taught as dependent origination.
+
+**VI**
+Giải thích theo một cách khác.
+
+**EN**
+Explanation by another method.
+
+**VI**
+Trong chú giải Visuddhimagga, quyển 2, tr. 152, còn có một cách giải thích nữa. Theo cách này, nhóm pháp trợ, tức nhóm nhân, được giải nghĩa là Duyên khởi.
+
+**EN**
+The Visuddhimagga commentary, vol. 2, p. 152, gives a further explanation. In this explanation, the conditioning group, the group of causes, is explained as dependent origination.
+
+**VI**
+Theo cách này, hãy phân tích paṭicca thành paṭi + icca. Paṭi có nghĩa abhimukhattha, hướng mặt về phía trước. Icca có nghĩa gammattha, đi đến. Nếu hỏi pháp nào hướng về phía trước và đi đến pháp nào, thì đáp rằng đó là nhóm nhân, tức nhóm pháp trợ.
+
+**EN**
+In this method, divide paṭicca into paṭi + icca. Paṭi has the meaning abhimukhattha, facing toward. Icca has the meaning gammattha, going to. If it is asked what phenomenon faces toward and goes to what other phenomenon, the answer is the group of causes, the group of conditioning phenomena.
+
+
+<a id="M06-body-P034"></a>
+## Nhóm nhân hội đủ và cùng trợ cho quả / The concurrence of causes and their joint support of effects
+Miến / Burmese 34
+
+**VI**
+Hetusamūho nāma paccayasāmaggī. (Mahāṭīkā, quyển 2, tr. 234.) Nhóm pháp nhân chính là sự hội đủ của các duyên. Nói cách khác, nhóm pháp nhân sinh khởi do các duyên hội đủ được gọi là hetusamūha, nhóm nhân.
+
+**EN**
+Hetusamūho nāma paccayasāmaggī. (Mahāṭīkā, vol. 2, p. 234.) The group of causes is the concurrence of conditions. In other words, the group of causal phenomena that comes about through this concurrence is called hetusamūha, the group of causes.
+
+**VI**
+Trong nhóm nhân hội đủ ấy, từng pháp nhân hướng về phía pháp nhân kia, và các pháp nhân đi đến, gặp nhau. Vì vậy, Đức Phật thuyết nhóm nhân ấy là paṭicca. Nhóm nhân hội đủ gọi là paṭicca có khả năng làm cho nhóm quả được trợ sinh chung, thành một tập hợp, thành từng nhóm và cùng một lúc. Các quả ấy không sinh riêng từng cái một, cũng không sinh tách rời nhau. Vì có khả năng làm sinh khởi nhóm quả ấy, tập hợp nhân cũng được gọi là samuppāda. (Tách samuppāda thành saṃ + uppāda. Saṃ mang nghĩa saha, cùng nhau.)
+
+**EN**
+Within that group of causes in concurrence, one causal phenomenon faces another, and the causes go toward and meet one another. Hence the Buddha teaches that group of causes as paṭicca. The concurring causal group called paṭicca can bring about a group of conditioned effects that arise together, in a collection, in groups and simultaneously. These effects do not arise separately one at a time, or in isolation from one another. Since it can produce that group of effects, the group of causes is also called samuppāda. (Divide samuppāda into saṃ + uppāda. Saṃ has the meaning saha, together.)
+
+**VI**
+Do hai khả năng ấy, nhóm nhân hội đủ gọi là hetusamūha có thể khiến các nhóm quả được trợ sinh đồng thời thành từng nhóm và một tập hợp, thay vì sinh riêng rẽ. Trong nhóm nhân ấy, các nhân hướng về nhau và đi đến với nhau. Vì vậy, nhóm nhân ấy gọi là paṭiccasamuppāda. (Trong cách giải này cũng phân tích: paṭicco ca so samuppādo cāti paṭiccasamuppādo.)
+
+**EN**
+Because it has these two capacities, the concurring causal group called hetusamūha can cause the conditioned effects to arise simultaneously in groups and as a collection, rather than separately. The causes in that group face toward and go to one another. Thus it is called paṭiccasamuppāda. (This method likewise uses the analysis: paṭicco ca so samuppādo cāti paṭiccasamuppādo.)
+
+
+<a id="M06-body-P035"></a>
+## Giải thích thêm về các duyên cùng trợ / Further explanation of conditions that assist together
+Miến / Burmese 35
+
+**VI**
+Trong Pāli, ở những lời như “vô minh duyên hành” (avijjāpaccayā saṅkhārā), Đức Phật nêu từng pháp nhân như vô minh làm tiêu biểu và đặt ở vị trí đứng đầu để chỉ sự sinh khởi rõ rệt của các pháp quả như hành. Quả đúng là Ngài đã thuyết như thế. Dù vậy, vô minh riêng một mình không phải là nhân duy nhất của hành. Xét theo thực tính thì còn có các duyên sau:
+
+**EN**
+In Pāli passages such as “with ignorance as condition, formations” (avijjāpaccayā saṅkhārā), the Buddha singles out one cause such as ignorance and gives it prominence to show the manifest arising of effects such as formations. This is indeed how he taught. Yet ignorance alone is not the sole cause of formations. When considered according to their actual nature, the following conditions also apply:
+
+**VI**
+1. Các pháp đồng sinh như xúc, thọ, tưởng và thức, cùng sinh và tương ưng trong một sát-na tâm với hành, tức tư.
+
+**EN**
+1. Conascent phenomena such as contact, feeling, perception and consciousness, arising together and associated in the same consciousness moment with the formation, namely volition.
+
+**VI**
+2. Sắc đại chủng và sắc y sinh cùng với ý vật (hadayavatthu), là chỗ nương sinh khởi của các pháp đồng sinh với hành ấy.
+
+**EN**
+2. Great elements and derived materiality together with the heart-base (hadayavatthu), the support on which those phenomena conascent with the formation arise.
+
+**VI**
+3. Các pháp nhân như cảnh mà các pháp đồng sinh với hành ấy nắm lấy và nương vào.
+
+**EN**
+3. Causal phenomena such as the object grasped and relied on by the phenomena conascent with the formation.
+
+**VI**
+4. Như lý tác ý (yonisomanasikāra) hoặc phi như lý tác ý (ayonisomanasikāra) làm nhân.
+
+**EN**
+4. Wise attention (yonisomanasikāra) or unwise attention (ayonisomanasikāra) as a cause.
+
+**VI**
+5. Các pháp nhân đi cùng với vô minh, như ái và thủ.
+
+**EN**
+5. Causal phenomena accompanying ignorance, such as craving and clinging.
+
+**VI**
+Tất cả các nhân này, trong phạm vi thích hợp, đều là các nhân cùng trợ giúp (sahakārīkāraṇa). Khi vô minh làm cho hành sinh khởi, chúng cùng với vô minh góp phần làm xuất hiện pháp quả gọi là hành. Cũng theo cách ấy, khi các nhân như hành làm sinh khởi các pháp quả như thức. (Mahāṭīkā, quyển 2, tr. 234.)
+
+**EN**
+All these causes, to the extent applicable, are cooperating causes (sahakārīkāraṇa). When ignorance gives rise to formations, they act together with ignorance to bring about the effect called formations. The same applies when causes such as formations bring about effects such as consciousness. (Mahāṭīkā, vol. 2, p. 234.)
+
+
+<a id="M06-body-P036"></a>
+## Quả liên hệ với đầy đủ các nhân tương ứng / Effects are connected to all their respective causes
+Miến / Burmese 36
+
+**VI**
+Khi các pháp nhân như vô minh làm sinh khởi các pháp quả như hành, tất cả các quả tương ứng chỉ sinh khi có liên hệ với tất cả các pháp nhân hữu hiệu trong từng trường hợp. Theo tính chất liên hệ nhân quả, chúng nối kết với nhau. Các quả ấy không liên hệ với một số pháp nhân trong tập hợp rồi hoàn toàn không liên hệ, không nối kết với một số pháp nhân hữu hiệu khác.
+
+**EN**
+When causal phenomena such as ignorance give rise to effects such as formations, all the respective effects arise only in relation to all the effective causal phenomena in each case. They are connected to one another by the nature of causation. The effects do not relate to some of the causes in the group while being wholly unrelated and unconnected to other effective causes.
+
+**VI**
+Vì vậy, tập hợp nhân mà Đức Phật nêu bằng cách đặt một pháp như vô minh ở vị trí chủ yếu có năng lực tự nhiên làm thành tựu và làm sinh khởi quả. Quả ấy có liên hệ với tất cả các pháp nhân hữu hiệu trong tập hợp và có sự nối kết theo tính chất nhân quả.
+
+**EN**
+Thus the group of causes, which the Buddha indicates by giving prominence to one phenomenon such as ignorance, has the natural capacity to bring the effect to completion and make it arise. That effect is related to all the effective causes within the group and connected to them by the nature of causation.
+
+**VI**
+Lại nữa, giả sử quả này không liên hệ với một số pháp nhân, tức theo tính chất nhân quả nó không nối kết với một số pháp nhân, và chỉ một số nhân làm sinh quả này. Nếu quả thực như thế, các pháp nhân không có tính chất trợ giúp lẫn nhau. Vì không có sự trợ giúp lẫn nhau, một pháp nhân cũng không thể hướng đến pháp nhân kia và đi đến gặp pháp nhân kia, tức không có nghĩa paṭicca. Như vậy sẽ không trọn nghĩa. Nay Đức Phật…
+
+**EN**
+Further, suppose that this effect had no relation to certain causes, that is, that it was not causally connected to some of them and only certain causes produced it. If that were so, the causes would have no nature of assisting one another. Without such mutual assistance, one cause could not face and approach another, and there would be no sense of paṭicca. The meaning would therefore be incomplete. Now the Buddha…
+
+
+<a id="M06-body-P037"></a>
+## Các nhân hướng đến nhau và các quả cùng sinh / Causes facing one another and effects arising together
+Miến / Burmese 37
+
+**VI**
+… dạy bằng cách lấy từng pháp như vô minh làm tiêu biểu, thì toàn bộ nhóm nhân ấy liên hệ với toàn bộ các quả tương ứng được nêu bằng cách lấy từng pháp như hành làm tiêu biểu. Vì có liên hệ nhân quả như vậy nên nghĩa của paṭicca không thiếu hụt hay suy giảm.
+
+**EN**
+… teaches by giving prominence to individual phenomena such as ignorance, the entire group of causes relates to the entire group of respective effects taught by giving prominence to individual phenomena such as formations. Because there is this causal connection, the meaning of paṭicca is neither deficient nor diminished.
+
+**VI**
+Vì vậy, để chỉ sự sinh khởi rõ rệt của các quả như hành, Đức Phật nêu những nhân như vô minh ở vị trí chủ yếu. Nhóm nhân ấy được gọi là paṭicca vì có khả năng làm thành tựu quả liên hệ với nó, vì không thiếu hụt hay suy giảm, và vì trong các thành phần của sự hội đủ các duyên (paccayasāmaggī), như xúc, thọ, tưởng, tư và thức, mỗi pháp hướng đến và đi đến pháp kia.
+
+**EN**
+Thus, to show the manifest arising of effects such as formations, the Buddha gives prominence to causes such as ignorance. That group of causes is termed paṭicca because it can bring its corresponding effects to completion, because it is neither deficient nor diminished, and because among the constituents of the concurrence of conditions (paccayasāmaggī), such as contact, feeling, perception, volition and consciousness, each faces toward and approaches another.
+
+**VI**
+Nhóm nhân (hetusamūha) được gọi là paṭicca ấy có khả năng làm sinh nhóm quả được trợ (paccayuppannadhammasamūha). Các quả ấy sinh cùng nhau, thành một tập hợp, đồng thời. Việc các quả sinh như vậy chính là chúng không sinh riêng lẻ, từng cái một. Khác với các nhân trợ giúp lẫn nhau, giữa các quả ấy không có việc cái này trợ giúp, nâng đỡ cái kia. Vì thế chúng được gọi là aññamañña-avinibbhogavattidhammā, các pháp sinh khởi không tách riêng khỏi nhau. Như vậy, nhóm nhân được gọi là paṭicca vì nó làm sinh nhóm quả được trợ không tách riêng khỏi nhau…
+
+**EN**
+That causal group (hetusamūha), called paṭicca, can produce the group of conditioned effects (paccayuppannadhammasamūha). These effects arise together, as a collection, simultaneously. Their arising in this way means they do not arise separately, one by one. Unlike the causes that assist one another, among those effects one does not assist or accommodate another. Thus they are called aññamañña-avinibbhogavattidhammā, phenomena that occur inseparably from one another. Thus the group of causes called paṭicca, by producing the group of conditioned effects that occur inseparably…
+
+
+<a id="M06-body-P038"></a>
+## Cách giải thứ ba trong Visuddhimagga / The third explanation in the Visuddhimagga
+Miến / Burmese 38
+
+**VI**
+… cũng được gọi là samuppāda. Vì có hai khả năng khiến nó được gọi là paṭicca và samuppāda, nhóm nhân như vô minh gọi là Duyên khởi. (Hãy kể cả sắc pháp trong những pháp sinh khởi không tách rời nhau.) (Visuddhimagga, quyển 2, tr. 152. Mahāṭīkā, quyển 2, tr. 234–235.)
+
+**EN**
+… is also called samuppāda. On account of these two capacities by which it is called paṭicca and samuppāda, the causal group such as ignorance is named dependent origination. (Include material phenomena among phenomena that arise inseparably.) (Visuddhimagga, vol. 2, p. 152. Mahāṭīkā, vol. 2, pp. 234–235.)
+
+**VI**
+Chú giải Visuddhimagga còn đưa ra cách giải thích thứ ba.
+
+**EN**
+The Visuddhimagga commentary gives a third explanation.
+
+**VI**
+Avijjādisīsena niddiṭṭhapaccayesu hi ye paccayā yaṃ saṅkhārādikaṃ dhammaṃ uppādenti, na te aññamaññaṃ apaṭicca aññamaññavekalle sati uppādetuṃ samatthā. Tasmā paṭicca samaṃ saha ca na ekekadesaṃ, nāpi pubbāparabhāvena ayaṃ paccayatā dhamme uppādetīti atthānusāravohārakusalena muninā evamidha bhāsitā, paṭiccasamuppādotveva bhāsitāti attho. (Visuddhimagga, quyển 2, tr. 152.)
+
+**EN**
+Avijjādisīsena niddiṭṭhapaccayesu hi ye paccayā yaṃ saṅkhārādikaṃ dhammaṃ uppādenti, na te aññamaññaṃ apaṭicca aññamaññavekalle sati uppādetuṃ samatthā. Tasmā paṭicca samaṃ saha ca na ekekadesaṃ, nāpi pubbāparabhāvena ayaṃ paccayatā dhamme uppādetīti atthānusāravohārakusalena muninā evamidha bhāsitā, paṭiccasamuppādotveva bhāsitāti attho. (Visuddhimagga, vol. 2, p. 152.)
+
+**VI**
+Paṭiccāti nissāya, sahakārīkāraṇaṃ laddhā. Samanti avisamaṃ, avekallena. Sahāti ekajjhaṃ. Dhammeti attano paccayuppannadhamme. Pe. Ekekadesanti phalasamudāyaṃ ekadesekadesato, bhāgaso ti attho. Pubbāparabhāvenāti paṭipāṭiyā. Sabbametaṃ rūpārūpakalāpuppādaṃ sandhāya vuttaṃ. (Mahāṭīkā, quyển 2, tr. 235.)
+
+**EN**
+Paṭiccāti nissāya, sahakārīkāraṇaṃ laddhā. Samanti avisamaṃ, avekallena. Sahāti ekajjhaṃ. Dhammeti attano paccayuppannadhamme. Pe. Ekekadesanti phalasamudāyaṃ ekadesekadesato, bhāgaso ti attho. Pubbāparabhāvenāti paṭipāṭiyā. Sabbametaṃ rūpārūpakalāpuppādaṃ sandhāya vuttaṃ. (Mahāṭīkā, vol. 2, p. 235.)
+
+**VI**
+Trong các nhóm nhân được nêu với từng nhân như vô minh đứng đầu, nhóm nhân như vô minh có khả năng làm sinh nhóm quả như hành. Khi làm sinh quả như vậy, nếu các nhân không nương tựa, không dựa vào nhau, chúng không thể làm sinh nhóm quả như hành. Cùng với vô minh…
+
+**EN**
+Among the causal groups presented with individual causes such as ignorance at their head, the causal group such as ignorance can produce the group of effects such as formations. In producing effects thus, if the causes did not rely and depend on one another, they could not produce the group of effects such as formations. Together with ignorance…
+
+
+<a id="M06-body-P039"></a>
+## Các nhân trợ lực phải hội đủ / The supporting causes must all be present
+Miến / Burmese 39
+
+**VI**
+… có các nhân (a) sắc căn vật làm chỗ nương, (b) cảnh, (c) các pháp đồng sinh như xúc, thọ, tưởng, tư và thức, và (d) phi như lý tác ý. Nếu một nhân trong số ấy thiếu hoặc không sinh, chúng không thể làm sinh tập hợp quả như hành. Chỉ khi các nhân nương vào nhau và hội đủ thì chúng mới có thể làm sinh tập hợp quả như hành.
+
+**EN**
+… there are the causes (a) supporting material base, (b) object, (c) conascent phenomena such as contact, feeling, perception, volition and consciousness, and (d) unwise attention. If a cause among them is lacking or does not arise, they cannot produce the collection of effects such as formations. Only when the causes rely upon one another and are all present can they produce the collection of effects such as formations.
+
+**VI**
+Vì vậy, nhóm nhân như vô minh chỉ làm sinh nhóm quả như hành khi (1) các nhân nương vào nhau, (2) hội đủ, không thiếu hụt hay suy giảm, và (3) cùng nhau, đồng thời. Khi làm sinh như vậy, chúng không chỉ làm sinh một phần, một đoạn hay một số quả trong tập hợp quả, cũng không làm sinh từng quả nối tiếp, cái trước rồi cái sau. Do đó, Đức Chánh Đẳng Giác, bậc cao nhất trong các bậc hiền trí và thiện xảo cách dùng từ theo đúng nghĩa chân đế, gọi tính chất liên hệ nhân quả ở đây là Duyên khởi. (Visuddhimagga, quyển 2, tr. 152. Mahāṭīkā, quyển 2, tr. 235.)
+
+**EN**
+Thus the causal group such as ignorance produces the group of effects such as formations only when (1) the causes rely on one another, (2) are present in full without deficiency or diminution, and (3) act together, simultaneously. In producing them thus, they do not produce merely a part, portion, or subset of the collection of effects, nor do they produce each effect in succession, one after another. Therefore the Fully Awakened Buddha, foremost among the wise and skilled in usage that accords with ultimate meaning, calls this nature of causal connection dependent origination. (Visuddhimagga, vol. 2, p. 152. Mahāṭīkā, vol. 2, p. 235.)
+
+**VI**
+Sabbametaṃ rūpārūpakalāpuppādaṃ sandhāya vuttaṃ. (Mahāṭīkā, quyển 2, tr. 235.)
+
+**EN**
+Sabbametaṃ rūpārūpakalāpuppādaṃ sandhāya vuttaṃ. (Mahāṭīkā, vol. 2, p. 235.)
+
+**VI**
+Tất cả lời trên được giải thích nhằm chỉ sự sinh khởi thành từng nhóm, từng tập hợp của các pháp chân đế thuộc sắc và danh, tức các pháp nhân và pháp quả, theo nhóm sắc và nhóm danh. (Mahāṭīkā, quyển 2, tr. 235.)
+
+**EN**
+All the foregoing is explained with reference to the arising in groups and collections of ultimate material and mental phenomena, the causes and effects, as groups of materiality and groups of mentality. (Mahāṭīkā, vol. 2, p. 235.)
+
+
+<a id="M06-body-P040"></a>
+## Nhóm sắc và nhóm danh / Groups of materiality and mentality
+Miến / Burmese 40
+
+**VI**
+Theo cách dùng từ trong Visuddhimagga Mahāṭīkā, sách này cũng dùng (1) nhóm sắc (rūpakalāpa) để chỉ tập hợp tám, chín, mười hoặc nhiều pháp sắc chân đế cùng hiện diện trong một hạt sắc vi tế, nhỏ cỡ một nguyên tử, hay nói cách khác, nhỏ hơn nguyên tử nhiều lần; và (2) nhóm danh (nāmakalāpa) để chỉ tập hợp danh pháp gồm tâm và các tâm sở cùng sinh và tương ưng trong từng sát-na tâm.
+
+**EN**
+Following the usage of the Visuddhimagga Mahāṭīkā, this book also uses (1) material group (rūpakalāpa) for a collection of eight, nine, ten or more ultimate material phenomena present together in one minute particle of materiality, of atomic size or, to put it another way, many times smaller than an atom; and (2) mental group (nāmakalāpa) for a collection of mental phenomena comprising consciousness and mental factors arising and associated in each consciousness moment.
+
+**VI**
+Trong cách giải thứ ba ở trên, hãy phân tích từ paṭiccasamuppāda như sau: Aññamaññaṃ paṭicca samaṃ saha ca paccayuppanne dhamme uppādetīti paṭiccasamuppādo.
+
+**EN**
+In the third explanation above, analyse paṭiccasamuppāda as follows: Aññamaññaṃ paṭicca samaṃ saha ca paccayuppanne dhamme uppādetīti paṭiccasamuppādo.
+
+**VI**
+Nghĩa là nhóm pháp nhân dựa vào nhau và có thể làm sinh đầy đủ, cùng nhau, đồng thời các nhóm pháp quả, nên gọi là paṭiccasamuppāda. Theo cách này, chỉ nhóm nhân mang tên Duyên khởi theo nghĩa chính. Các nhóm quả được trợ mang tên Duyên khởi theo nghĩa không thể thiếu nhau (avinābhāva). Nhân gọi là nhân vì có khả năng làm sinh quả. Vì thế, nhân thật sự không thể tách khỏi quả. Tương tự, quả thật sự không thể tách khỏi nhân. Tính không thể tách rời ấy gọi là avinābhāva…
+
+**EN**
+The meaning is that the group of causes relies on one another and can produce the groups of effects fully, together and simultaneously, and so is called paṭiccasamuppāda. On this interpretation, only the causal group bears the name dependent origination in the primary sense. The conditioned groups of effects bear that name in the sense of indispensability (avinābhāva). A cause is called a cause because it can produce an effect. Thus a genuine cause cannot be separated from its effect. Likewise, a genuine effect cannot be separated from its cause. That inseparability is called avinābhāva…
+
+
+<a id="M06-body-P041"></a>
+## Hai nghĩa của saṃ trong samuppāda / The two meanings of saṃ in samuppāda
+Miến / Burmese 41
+
+**VI**
+… Vì đây là tính chất đáng để bậc thiện trí biết và hiểu, nó được gọi là naya, phương pháp giải. Kết hợp avinābhāva với naya thành avinābhāvanaya, lối giải theo nghĩa không thể thiếu nhau.
+
+**EN**
+… Since this is a nature that wise and good people should know and understand, it is called naya, a method of explanation. Joining avinābhāva with naya gives avinābhāvanaya, the method of explanation by indispensability.
+
+**VI**
+Trong từ paṭiccasamuppāda, hãy tách samuppāda thành saṃ + uppāda. Saṃ có hai nghĩa là samaṃ và saha.
+
+**EN**
+In the word paṭiccasamuppāda, divide samuppāda into saṃ + uppāda. Saṃ yields two meanings: samaṃ and saha.
+
+**VI**
+1. Samaṃ nghĩa là khi nhóm nhân như vô minh làm sinh hành, nó không chỉ làm sinh một mình hành, tức tư, mà cũng làm sinh đầy đủ, không suy giảm, các tâm và tâm sở thường sinh cùng tư thuộc hành, như xúc, thọ, tưởng và thức.
+
+**EN**
+1. Samaṃ means that when a causal group such as ignorance produces formations, it does not produce the formation, that is, volition, in isolation. It also produces, in full and without diminution, the consciousness and mental factors that ordinarily arise with formative volition, such as contact, feeling, perception and consciousness.
+
+**VI**
+2. Saha nghĩa là khi làm sinh các tâm và tâm sở đi cùng tư thuộc hành như vậy, nó không làm sinh từng phần, từng cái một, hết cái này mới đến cái khác, mà làm sinh chúng cùng nhau, thành một tập hợp, cùng một lúc.
+
+**EN**
+2. Saha means that when producing the consciousness and mental factors accompanying formative volition in this way, it does not produce them part by part or one by one, each after another, but produces them together, as one collection, at the same time.
+
+**VI**
+Tuy nhiên, trong tập hợp các pháp như hành do vô minh mà sinh, tư gọi là hành giữ vai trò chủ yếu nhất. Vì vậy, theo lối nêu phần chủ yếu, Đức Phật đặt tư thuộc hành lên trước và dạy: “Avijjāpaccayā saṅkhārā — vô minh duyên hành”.
+
+**EN**
+In the group of phenomena such as formations brought about due to ignorance, however, the volition called formation is foremost. Thus, by the method of giving prominence to what is principal, the Buddha singles out formative volition and teaches: “Avijjāpaccayā saṅkhārā — with ignorance as condition, formations.”
+
+**VI**
+Khi nói “vô minh làm sinh hành”, một mình vô minh không thể làm sinh hành. Còn có các nhân hỗ trợ, thường cùng với vô minh làm hành xuất hiện. Để hành sinh khởi…
+
+**EN**
+When it is said that “ignorance produces formations,” ignorance alone cannot produce formations. There are also assisting causes that ordinarily work together with ignorance to bring formations into being. For formations to arise…
+
+
+<a id="M06-body-P042"></a>
+## Năm nhóm nhân trợ cho hành / Five groups of causes that support formations
+Miến / Burmese 42
+
+**VI**
+1. Sắc ý vật làm chỗ nương phải sinh trước và trợ với tư cách chỗ nương. Đó là năng lực của vật tiền sinh y chỉ duyên (vatthupurejātanissayapaccaya).
+
+**EN**
+1. The material heart-base must arise beforehand and assist as a support. This is the power of base-prenascence dependence condition (vatthupurejātanissayapaccaya).
+
+**VI**
+2. Cảnh là nhân mà hành nắm lấy và nương vào cũng phải trợ bằng năng lực của cảnh duyên (ārammaṇapaccaya).
+
+**EN**
+2. The object, the cause grasped and depended on by the formation, must also assist by the power of object condition (ārammaṇapaccaya).
+
+**VI**
+3. Tập hợp tâm và tâm sở như xúc, thọ, tưởng và thức cùng sinh và tương ưng với hành trong một sát-na tâm, cũng phải trợ bằng năng lực của đồng sinh duyên (sahajātapaccaya).
+
+**EN**
+3. The group of consciousness and mental factors such as contact, feeling, perception and consciousness that arises together and is associated with the formation in one consciousness moment must also assist by the power of conascence condition (sahajātapaccaya).
+
+**VI**
+4. Phi như lý tác ý, thường để tâm đến cảnh sai lạc theo hướng thường, lạc, ngã, tịnh, hoặc như lý tác ý, thường để tâm đến cảnh đúng đường theo hướng vô thường, khổ, vô ngã, bất tịnh, cũng phải trợ bằng năng lực của cận y duyên (upanissayapaccaya), tức chỗ nương có sức mạnh.
+
+**EN**
+4. Unwise attention, which habitually attends to the object in a mistaken way as permanent, pleasant, self and beautiful, or wise attention, which habitually attends to it correctly as impermanent, suffering, not-self and unattractive, must also assist by the power of decisive support condition (upanissayapaccaya), a powerful support.
+
+**VI**
+5. Ái và thủ đi cùng vô minh cũng phải trợ bằng năng lực của cận y duyên, tức chỗ nương có sức mạnh.
+
+**EN**
+5. Craving and clinging accompanying ignorance must likewise assist by the power of decisive support condition, a powerful support.
+
+**VI**
+Các nhân như căn vật, cảnh, pháp đồng sinh, phi như lý tác ý hoặc như lý tác ý, ái và thủ là những nhân hỗ trợ thường cùng với vô minh làm hành sinh khởi. Chỉ khi nương vào sự hội đủ của tất cả những nhân ấy, vô minh mới có thể làm sinh hành. Nếu thiếu một nhân trong số ấy, vô minh không thể làm hành sinh khởi. Chỉ khi các nhân nương vào nhau và hội đủ, chúng mới có thể làm sinh tập hợp quả như hành.
+
+**EN**
+Causes such as the material base, object, conascent phenomena, unwise or wise attention, craving and clinging are assisting causes that ordinarily produce formations together with ignorance. Only by depending on the concurrence of all these causes can ignorance produce formations. If a cause is missing, ignorance cannot make formations arise. Only when the causes depend on one another and are present in full can they produce the collection of effects such as formations.
+
+
+<a id="M06-body-P043"></a>
+## Tập hợp quả sinh cùng một lúc / The collection of effects arises at the same time
+Miến / Burmese 43
+
+**VI**
+Lại nữa, theo quy luật của các pháp danh chân đế, tư thuộc hành không có khả năng sinh riêng một mình. Nó chỉ có khả năng sinh cùng với các tâm và tâm sở đi kèm như xúc, thọ, tưởng và thức. Nó chỉ có khả năng sinh theo nhóm, tức nhóm hành thiện hay nhóm hành bất thiện.
+
+**EN**
+Further, in accordance with the regularity of ultimate mental phenomena, formative volition has no capacity to arise alone. It can arise only together with accompanying consciousness and mental factors such as contact, feeling, perception and consciousness. It can arise only in a group, as a group of wholesome or unwholesome formations.
+
+**VI**
+Vì vậy, chỉ khi các nhân như vô minh nương vào nhau, hội đủ không suy giảm và cùng trợ một lúc thì nhóm quả như hành mới sinh. Các nhân không làm sinh riêng một phần hay một số quả, cũng không làm sinh từng cái theo thứ tự trước sau. Nhóm nhân như vô minh làm sinh cả tập hợp quả như hành, đầy đủ, đồng đều, không suy giảm, cùng nhau thành một nhóm và cùng một lúc.
+
+**EN**
+Thus it is only when causes such as ignorance rely upon one another, concur without diminution, and work together simultaneously that the group of effects such as formations arises. They do not produce a mere part or subset, nor do they produce the effects one at a time in succession. The group of causes such as ignorance produces the entire group of effects such as formations, fully, evenly and without diminution, together as one group and simultaneously.
+
+**VI**
+Vì có hai khả năng paṭicca và samuppāda vừa nói, tập hợp các nhân dựa vào nhau và làm sinh đầy đủ, cùng nhau, đồng thời tập hợp các pháp quả được trợ, nên mang tên Duyên khởi theo nghĩa chính. Nhóm quả mang tên Duyên khởi theo nghĩa không thể thiếu nhau (avinābhāva). Tức là tên Duyên khởi của các nhân được chuyển sang các quả theo lối gọi quả bằng tên của nhân (kāraṇūpacāra). Đây là cách giải nghĩa thứ ba của từ paṭiccasamuppāda trong chú giải Visuddhimagga. (Visuddhimagga, quyển 2, tr. 152. Mahāṭīkā, quyển 2, tr. 235.)
+
+**EN**
+Because of the two capacities just described as paṭicca and samuppāda, the collection of causes that rely upon one another and produce the conditioned effects fully, together and simultaneously bears the name dependent origination in its primary sense. The group of effects bears that name by indispensability (avinābhāva). That is, the name dependent origination belonging to the causes is transferred to their effects by naming the effects after their cause (kāraṇūpacāra). This is the third explanation of paṭiccasamuppāda in the Visuddhimagga commentary. (Visuddhimagga, vol. 2, p. 152. Mahāṭīkā, vol. 2, p. 235.)
+
+
+<a id="M06-body-P044"></a>
+## Lợi ích của lời dạy về Duyên khởi / Benefits of the teaching on dependent origination
+Miến / Burmese 44
+
+**VI**
+Để có thể chấp nhận xác quyết.
+
+**EN**
+For arriving at a firm conclusion.
+
+**VI**
+Từ paṭiccasamuppāda được giải thích rộng như vậy để hành giả có thể chấp nhận cách quán mối liên hệ nhân quả trong Duyên khởi sẽ được trình bày ở phần sau. Vì sao quán cả tâm và tâm sở đi kèm vô minh? Vì sao quán cả tâm và tâm sở đi kèm hành, tức tư? Phần giải thích này nhằm ngăn trước những câu vặn hỏi như vậy. Nếu hiểu sai thì khi thực hành cũng có thể đi chệch. Hãy lưu tâm.
+
+**EN**
+The word paṭiccasamuppāda is explained in such detail so that the meditator can accept the way of discerning causal relationships in dependent origination to be presented later. Why discern the consciousness and mental factors accompanying ignorance as well? Why discern the consciousness and mental factors accompanying formations, that is, volition, as well? The explanation forestalls such objections. If the understanding goes astray, the practice too can go astray. Pay attention to this.
+
+**VI**
+Các lợi ích và công đức.
+
+**EN**
+Benefits and advantages.
+
+**VI**
+Khi thuyết Duyên khởi theo cách vừa nói, Đức Phật Chánh Đẳng Giác (1) dùng từ đầu là paṭicca để chỉ rõ sự không có và không sinh khởi của các chủ trương như thường luận; (2) dùng từ sau là samuppāda để chỉ rõ sự phá bỏ các chủ trương như đoạn luận; (3) dùng từ ghép paṭiccasamuppāda để chỉ rõ pháp hành cao quý gồm tám chi đạo gọi là Trung đạo (majjhimā paṭipadā), vượt khỏi hai cực đoan là thường luận và đoạn luận.
+
+**EN**
+In teaching dependent origination in the manner just explained, the Fully Awakened Buddha (1) uses the first word, paṭicca, to show clearly the absence and non-arising of doctrines such as eternalism, (2) uses the second word, samuppāda, to show clearly the overthrow of doctrines such as annihilationism, and (3) uses the compound paṭiccasamuppāda to show clearly the noble practice of the eight path factors called the Middle Way (majjhimā paṭipadā), beyond the two extremes of eternalism and annihilationism.
+
+**VI**
+1. Từ paṭicca.
+
+**EN**
+1. The word paṭicca.
+
+**VI**
+Paṭiccasamuppāda gồm hai từ, paṭicca và samuppāda. Từ paṭicca biểu thị tính chất hội đủ của các pháp nhân.
+
+**EN**
+Paṭiccasamuppāda comprises two words, paṭicca and samuppāda. Paṭicca indicates the concurrence of causal phenomena.
+
+
+<a id="M06-body-P045"></a>
+## Ba vòng phiền não, nghiệp và quả / The three rounds of defilements, kamma, and results
+Miến / Burmese 45
+
+**VI**
+Trong pháp Duyên khởi có ba vòng: vòng phiền não (kilesavaṭṭa), vòng nghiệp (kammavaṭṭa) và vòng quả (vipākavaṭṭa). Vô minh, ái và thủ thuộc vòng phiền não. Hành và nghiệp hữu, tức nghiệp, thuộc vòng nghiệp. Thức, danh sắc, sáu xứ, xúc và thọ thuộc vòng quả.
+
+**EN**
+In dependent origination there are three rounds: the round of defilements (kilesavaṭṭa), the round of kamma (kammavaṭṭa), and the round of results (vipākavaṭṭa). Ignorance, craving and clinging belong to the round of defilements. Formations and kamma-becoming, that is, kamma, belong to the round of kamma. Consciousness, mentality-materiality, the six bases, contact and feeling belong to the round of results.
+
+**VI**
+Nương vào vòng phiền não, vòng nghiệp sinh khởi. Nương vào vòng nghiệp, vòng quả sinh khởi. Lại nữa, nếu không kịp quán minh sát và chấm dứt sự bám víu vào năm thủ uẩn gọi là vòng quả, thì nương vào vòng quả ấy, vô minh, ái và thủ gọi là vòng phiền não lại sinh. Rồi nương vào vòng phiền não, do tạo tác và vun bồi các hành thiện và hành bất thiện, hành và nghiệp gọi là vòng nghiệp lại sinh.
+
+**EN**
+Depending on the round of defilements, the round of kamma arises. Depending on the round of kamma, the round of results arises. Again, if one does not discern with insight in time and put an end to attachment to the five aggregates subject to clinging called the round of results, then in dependence on that round, ignorance, craving and clinging, called the round of defilements, arise again. Then, depending on the round of defilements, through generating and cultivating wholesome and unwholesome formations, formations and kamma, called the round of kamma, arise again.
+
+**VI**
+Do vòng nghiệp ấy, trong đời vị lai, năm thủ uẩn gồm thức, danh sắc, sáu xứ, xúc và thọ, gọi là vòng quả, lại sinh khởi. Đức Phật thuyết năm uẩn vị lai ấy bằng các tên sinh, già và chết. Như thế, ba vòng tiếp diễn không ngừng, như bánh xe đang quay.
+
+**EN**
+Due to that round of kamma, in future lives the five aggregates subject to clinging, comprising consciousness, mentality-materiality, the six bases, contact and feeling and called the round of results, arise again. The Buddha teaches those five future aggregates under the names birth, aging and death. The three rounds thus continue without interruption, like a wheel in motion.
+
+**VI**
+Từ đầu paṭicca biểu thị sự hội đủ của các nhân, tức sự kết hợp của các pháp nhân. Vì vòng phiền não, vòng nghiệp và vòng quả sinh khởi nối tiếp như bánh xe đang quay, do các nhân hội đủ và liên hệ với nhau, từ này cho thấy không có các chủ trương như (1) thường luận (sassatavāda), (2) vô nhân luận (ahetuvāda)…
+
+**EN**
+The first word paṭicca indicates the concurrence of the causes, the coming together of causal phenomena. Because the round of defilements, the round of kamma and the round of results arise in an unbroken succession like a turning wheel, through the concurrence and connection of causes, this word shows the absence of doctrines such as (1) eternalism (sassatavāda), (2) the doctrine of no cause (ahetuvāda)…
+
+
+<a id="M06-body-P046"></a>
+## Thường luận và vô nhân luận / Eternalism and the doctrine of no cause
+Miến / Burmese 46
+
+**VI**
+… (3) luận chủ trương nhân sai (visamahetuvāda) và (4) luận chủ trương một đấng có quyền chi phối (vasavattivāda). Từ này cho thấy các chủ trương ấy không đứng vững. Thật vậy, sự hội đủ của tập hợp các pháp nhân (paccayasāmaggī) có thể có ý nghĩa gì đối với các chủ trương như thường luận, vốn bác bỏ nhân đúng? Sự hội đủ của các nhân khiến các quả cùng sinh thành một tập hợp. Vì thế, các chủ trương bác bỏ nhân đúng trở nên vô nghĩa. (Visuddhimagga, quyển 2, tr. 153. Mahāṭīkā, quyển 2, tr. 235.)
+
+**EN**
+… (3) the doctrine of a wrong cause (visamahetuvāda), and (4) the doctrine of an overriding ruler (vasavattivāda). The word shows that these doctrines do not hold. Indeed, what meaning could the concurrence of a group of causes (paccayasāmaggī) have for doctrines such as eternalism, which reject genuine causes? The concurrence of the causes makes the effects arise together as a group. Hence doctrines rejecting genuine causes become meaningless. (Visuddhimagga, vol. 2, p. 153. Mahāṭīkā, vol. 2, p. 235.)
+
+**VI**
+Thường luận (sassatavāda) là chủ trương thường nói, quan niệm và tin rằng “sassato attā ca loko ca”, tức tự ngã và thế giới thường còn. Chủ trương ấy chấp rằng tự ngã đã luôn tồn tại từ quá khứ, chuyển từ đời này sang đời khác. Dù đổi sang ngôi nhà mới là các uẩn, tự ngã vẫn không mất đi từ đời này sang đời khác, mà luôn đi theo và ở trong từng ngôi nhà mới ấy. (Dīgha, quyển 1, tr. 12.)
+
+**EN**
+Eternalism (sassatavāda) is the doctrine that habitually asserts, holds and believes “sassato attā ca loko ca,” that the self and the world are eternal. It holds that the self has always endured from the past and moves from one life to another. Even when it changes to a new house of aggregates, the self does not disappear from one life to another, but always follows along and dwells in each new house. (Dīgha, vol. 1, p. 12.)
+
+**VI**
+Vô nhân luận (ahetuvāda): “Natthi hetu natthi paccayo sattānaṃ saṅkilesāya, ahetū appaccayā sattā saṅkilissanti. Natthi hetu natthi paccayo sattānaṃ visuddhiyā, ahetū appaccayā sattā visujjhanti.” (Dīgha, quyển 1, tr. 50.) Nghĩa là không có nhân trực tiếp sinh ra sự ô nhiễm hay thanh tịnh của chúng sinh, cũng không có duyên hỗ trợ, nâng đỡ. Không có nhân mà chúng sinh vẫn ô nhiễm, vẫn thanh tịnh. Chủ trương trực tiếp bác bỏ nhân theo cách ấy…
+
+**EN**
+The doctrine of no cause (ahetuvāda): “Natthi hetu natthi paccayo sattānaṃ saṅkilesāya, ahetū appaccayā sattā saṅkilissanti. Natthi hetu natthi paccayo sattānaṃ visuddhiyā, ahetū appaccayā sattā visujjhanti.” (Dīgha, vol. 1, p. 50.) That is, there is no direct cause producing the defilement or purification of beings, and no supporting or sustaining condition. Without a cause, beings still become defiled or purified. The doctrine that directly denies causes in this manner…
+
+
+<a id="M06-body-P047"></a>
+## Luận chủ trương nhân sai và luận về đấng chi phối / The doctrines of a wrong cause and an overriding ruler
+Miến / Burmese 47
+
+**VI**
+… thường tuyên bố, quan niệm và tin rằng không có nhân, được gọi là vô nhân luận. Bác bỏ trực tiếp các pháp nhân thì cũng gián tiếp bác bỏ các pháp quả sinh do nhân. Đó là chủ trương không thừa nhận năng lực sinh quả của các nhân, bác bỏ nghiệp và quả của nghiệp.
+
+**EN**
+… habitually asserts, holds and believes that there is no cause, and is called the doctrine of no cause. By directly denying causal phenomena, it also indirectly denies their effects. This doctrine does not accept the power of causes to produce effects and rejects kamma and its results.
+
+**VI**
+Luận chủ trương nhân sai (visamahetuvāda) thường nói, quan niệm và tin rằng thế giới sinh ra do sức mạnh của bản nguyên (pakati), nguyên tử (aṇu), thời gian (kāla) và những thứ tương tự. (Mahāṭīkā, quyển 2, tr. 235.)
+
+**EN**
+The doctrine of a wrong cause (visamahetuvāda) habitually asserts, holds and believes that the world comes into being through the power of primordial nature (pakati), atoms (aṇu), time (kāla), and the like. (Mahāṭīkā, vol. 2, p. 235.)
+
+**VI**
+Luận về đấng chi phối (vasavattivāda) gồm các chủ trương về Īsara, Purisa và Pajāpati. Chủ trương về Purisa và Pajāpati cũng giống chủ trương về Īsara, chỉ khác tên. (Aṅguttara-ṭīkā, quyển 3, tr. 65.) Chủ trương này thường nói, quan niệm và tin rằng có một đấng tạo hóa và thống trị là Īsara, tạo ra thế giới và chúng sinh, và thế giới cùng chúng sinh xuất hiện theo ý muốn của vị ấy. Tự ngã được tạo ra gọi là jīva-attā, tự ngã sinh mạng, còn đấng tạo hóa Īsara gọi là parama-attā, tự ngã tối cao. Đây cũng là chủ trương bác bỏ nghiệp và quả của nghiệp. (Mahāṭīkā, quyển 2, tr. 235.)
+
+**EN**
+The doctrine of an overriding ruler (vasavattivāda) comprises the doctrines concerning Īsara, Purisa and Pajāpati. The doctrines concerning Purisa and Pajāpati are the same as that concerning Īsara, differing only in name. (Aṅguttara Subcommentary, vol. 3, p. 65.) It habitually asserts, holds and believes that there is a creator and ruler, Īsara, who creates the world and beings, and that the world and beings come into being according to his will. The created self is called jīva-attā, the living self, and the creator Īsara is called parama-attā, the supreme self. This doctrine likewise rejects kamma and its results. (Mahāṭīkā, vol. 2, p. 235.)
+
+**VI**
+Có khi một hành giả nỗ lực dùng trí chánh kiến tự mình thấy rõ và thấu hiểu mối liên hệ nhân quả, tức thực tính Duyên khởi. Nương vào sự hội đủ của các pháp nhân, hay nói cách khác, nương vào sự sinh khởi rõ rệt của các nhóm pháp nhân nương tựa lẫn nhau và cùng hội đủ…
+
+**EN**
+At times a meditator strives, with the knowledge of right view, personally to see and penetrate the causal relationship, the nature of dependent origination. Depending on the concurrence of causes, or in other words on the manifest arising of groups of causal phenomena in mutual dependence and concurrence…
+
+
+<a id="M06-body-P048"></a>
+## Trí trực chứng và sự đoạn trừ các chủ trương sai / Direct knowledge and the abandoning of wrong doctrines
+Miến / Burmese 48
+
+**VI**
+… hành giả tự mình dùng trí trực chứng (paccakkhañāṇa) thấu thấy sự sinh khởi đầy đủ, đồng thời, cùng một nhóm của các tập hợp pháp quả. Khi thấy và biết rằng chỉ nương vào sự sinh khởi rõ rệt của những nhóm nhân nương tựa lẫn nhau và hội đủ thì các nhóm quả mới sinh khởi đầy đủ, cùng một nhóm, cùng một lúc, các quan niệm sai lầm như thường luận, vô nhân luận, luận chủ trương nhân sai và luận về đấng chi phối, vốn không thừa nhận sự hiện hữu của nhân chân thật, biến mất khỏi dòng tương tục của hành giả.
+
+**EN**
+… the meditator personally penetrates with direct knowledge (paccakkhañāṇa) the full, simultaneous arising of groups of effects together as one group. When the meditator sees and knows that the groups of effects arise fully, as one group, at one time, only in dependence on the manifest arising of mutually reliant and concurring groups of causes, wrong conceptions such as eternalism, the doctrine of no cause, the doctrine of a wrong cause, and the doctrine of an overriding ruler, which do not accept the presence of genuine causes, disappear from that meditator’s continuity.
+
+**VI**
+Nói cách khác, trí của hành giả biết rằng tập hợp quả chỉ sinh nương vào sự hội đủ của tập hợp nhân, qua đó cho thấy các chủ trương sai bác bỏ nhân đúng không hiện hữu trong dòng tương tục của hành giả. Nếu những chủ trương ấy không hiện hữu trong dòng tương tục của người dùng trí thấu thấy thực tính của duyên, thì trong chính lời dạy Duyên khởi chỉ dẫn hành giả cách thực hành để tự mình thấu thấy thực tính của duyên bằng trí chánh kiến, sự vắng mặt của các chủ trương bác bỏ nhân đúng cũng không còn là điều đáng nghi.
+
+**EN**
+In other words, the meditator’s knowledge that the collection of effects arises only in dependence on the concurrence of the collection of causes shows the absence of wrong doctrines rejecting genuine causes from the meditator’s continuity. If these doctrines do not occur in the continuity of one who penetrates the nature of conditions with knowledge, then their absence from the teaching of dependent origination itself, which directs the meditator in the practice of personally penetrating the nature of conditions with the knowledge of right view, can no longer be in doubt.
+
+**VI**
+2. Từ samuppāda.
+
+**EN**
+2. The word samuppāda.
+
+**VI**
+Từ samuppāda có khả năng biểu thị rằng các pháp quả được trợ như hành sinh khởi hội đủ, cùng một nhóm, cùng một lúc…
+
+**EN**
+The word samuppāda can indicate that the conditioned effects such as formations arise in full, as one group, at the same time…
+
+
+<a id="M06-body-P049"></a>
+## Đoạn luận, luận phủ nhận quả và luận phủ nhận tác dụng của nghiệp / Annihilationism, denial of results, and denial of the efficacy of action
+Miến / Burmese 49
+
+**VI**
+… Khi các pháp nhân hội đủ, tức có sự hội đủ của các duyên (paccayasāmaggī), các pháp quả được trợ như hành hiện khởi. Qua đó, từ samuppāda bác bỏ (1) đoạn luận (ucchedavāda), (2) luận phủ nhận quả (natthikavāda) và (3) luận phủ nhận tác dụng của nghiệp (akiriyavāda). Do đó từ sau samuppāda làm rõ sự loại trừ những chủ trương ấy. Thật vậy, nếu các tập hợp quả như hành sinh đi sinh lại do sức của các pháp nhân trước đó, thì đoạn luận, luận phủ nhận quả và luận phủ nhận tác dụng của nghiệp có thể đứng vững ở đâu? Vì thế, từ samuppāda cho thấy những chủ trương ấy không đứng vững. (Visuddhimagga, quyển 2, tr. 153.)
+
+**EN**
+… When causes concur, that is, when there is concurrence of conditions (paccayasāmaggī), conditioned effects such as formations become manifest. The word samuppāda thereby dismisses (1) annihilationism (ucchedavāda), (2) the doctrine denying results (natthikavāda), and (3) the doctrine denying the efficacy of action (akiriyavāda). Hence the second word samuppāda makes clear the exclusion of those views. Indeed, if collections of effects such as formations arise time and again through the power of earlier causes, where could those doctrines hold? Thus samuppāda shows that those views do not hold. (Visuddhimagga, vol. 2, p. 153.)
+
+**VI**
+Đoạn luận (ucchedavāda) thường nói, chấp và tin rằng tự ngã đoạn diệt khi chúng sinh chết. “Đời sống chỉ ở giữa nôi và quan tài. Bên kia quan tài không còn gì.” Đây cũng là chủ trương của những người theo phái tả thời hiện đại và một số nhà duy vật chỉ coi trọng tri thức khoa học.
+
+**EN**
+Annihilationism (ucchedavāda) habitually asserts, clings to and believes that the self is cut off when a being dies. “Life is only between the cradle and the coffin. Beyond the coffin there is nothing.” This is also the doctrine of modern leftists and some materialists who give weight only to scientific knowledge.
+
+**VI**
+Luận phủ nhận quả (natthikavāda): “Natthi dinnaṃ, natthi yiṭṭhaṃ, natthi hutaṃ, natthi sukatadukkaṭānaṃ kammānaṃ phalaṃ vipāko…” Nghĩa là không có quả của bố thí, không có quả của các hành vi thiện và ác, không có quả của việc làm tốt hay xấu. Chủ trương trực tiếp gạt bỏ sự hiện hữu của quả theo cách ấy gọi là natthikavāda. Khi trực tiếp bác bỏ quả, chủ trương ấy cũng bác bỏ các pháp nhân có khả năng sinh quả…
+
+**EN**
+The doctrine denying results (natthikavāda): “Natthi dinnaṃ, natthi yiṭṭhaṃ, natthi hutaṃ, natthi sukatadukkaṭānaṃ kammānaṃ phalaṃ vipāko…” That is, there is no result of giving, no result of good and bad conduct, no result of good or bad deeds. The doctrine that thus directly denies the existence of effects is called natthikavāda. In directly denying effects, it also rejects the causes that have the power to produce them…
+
+
+<a id="M06-body-P050"></a>
+## Bác bỏ nghiệp và quả của nghiệp / Denial of kamma and its results
+Miến / Burmese 50
+
+**VI**
+… Vì vậy, luận phủ nhận quả này cũng là chủ trương không thừa nhận nghiệp và quả của nghiệp.
+
+**EN**
+… Thus this doctrine denying results is also a doctrine that does not accept kamma and its results.
+
+**VI**
+Luận phủ nhận tác dụng của nghiệp (akiriyavāda): “Karoto kārayato, chindato chedāpayato, pe. na karīyati pāpaṃ.” Nghĩa là dù tự làm hay sai người khác làm, tự giết hay sai người khác giết, cũng không thành làm ác, không thành việc đáng làm hay không đáng làm. Chủ trương ấy phủ nhận nghiệp là nhân khi nói rằng “dù làm điều tốt hay xấu cũng không thành việc làm, không thành việc đáng làm hay không đáng làm, việc tốt cũng không phát sinh, việc xấu cũng không phát sinh”. Đó là akiriyavāda.
+
+**EN**
+The doctrine denying the efficacy of action (akiriyavāda): “Karoto kārayato, chindato chedāpayato, pe. na karīyati pāpaṃ.” That is, whether one does it oneself or has others do it, kills or has others kill, it does not count as doing evil or as an act that should or should not be done. This doctrine denies kamma as a cause in claiming that “even if one does good or evil, no action is accomplished, no act that should or should not be done is accomplished, neither good nor evil arises.” This is akiriyavāda.
+
+**VI**
+Tattha kammaṃ paṭibāhantenāpi vipāko paṭibāhito hoti, vipākaṃ paṭibāhantenāpi kammaṃ paṭibāhitaṃ hoti. Iti sabbepete atthato ubhayappaṭibāhakā ahetukavādā ceva akiriyavādā ca natthikavādā ca honti. (Chú giải Dīgha, quyển 1, tr. 150.)
+
+**EN**
+Tattha kammaṃ paṭibāhantenāpi vipāko paṭibāhito hoti, vipākaṃ paṭibāhantenāpi kammaṃ paṭibāhitaṃ hoti. Iti sabbepete atthato ubhayappaṭibāhakā ahetukavādā ceva akiriyavādā ca natthikavādā ca honti. (Dīgha Commentary, vol. 1, p. 150.)
+
+**VI**
+Bác bỏ nghiệp là nhân thì cũng bác bỏ quả dị thục. Bác bỏ quả dị thục thì cũng bác bỏ nghiệp là nhân. Vì thế, xét theo nghĩa, tất cả các chủ trương vô nhân, phủ nhận tác dụng của nghiệp và phủ nhận quả đều bác bỏ cả nghiệp lẫn quả của nghiệp. Nói rằng không có nghiệp làm nhân thì cũng đi đến chỗ nói rằng không có quả sinh do nhân ấy. Nói rằng không có quả thì cũng đi đến chỗ nói rằng không có nhân có khả năng làm sinh quả.
+
+**EN**
+By rejecting kamma as cause, one also rejects its result. By rejecting the result, one also rejects kamma as cause. Therefore, in meaning, the doctrines of no cause, denial of the efficacy of action and denial of results all reject both kamma and its result. To say that there is no kamma as cause amounts to saying that there is no effect arising in dependence on that cause. To say that there is no effect amounts to saying that there is no cause capable of producing it.
+
+**VI**
+Nếu một hành giả, nương vào sự hội đủ của các pháp nhân như vô minh, tức sự cùng hiện hữu rõ rệt của các nhân, mà thấy rõ sự hội đủ của các quả như hành…
+
+**EN**
+If a meditator, in dependence on the concurrence of causal phenomena such as ignorance, that is, their manifest presence in concurrence, sees clearly the concurrence of effects such as formations…
+
+
+<a id="M06-body-P051"></a>
+## Thấy nhân quả trong ba thời / Seeing cause and effect across the three periods
+Miến / Burmese 51
+
+**VI**
+… và sự hiện khởi rõ rệt của các quả ấy bằng trí trực chứng, tự mình thấy thấu tận nơi, thì nói cách khác vị ấy thấy rõ bằng trí trực chứng:
+
+**EN**
+… and the manifest arising of those effects by direct knowledge, personally seeing and penetrating them, then in other words the meditator sees distinctly by direct knowledge:
+
+**VI**
+1. Sự sinh khởi rõ rệt của các quả thức, danh sắc, sáu xứ, xúc và thọ trong đời hiện tại do các nhân vô minh, ái, thủ, hành và nghiệp đã được tạo tác và vun bồi trong quá khứ.
+
+**EN**
+1. The manifest arising in the present life of the effects consciousness, mentality-materiality, the six bases, contact and feeling, due to the causes ignorance, craving, clinging, formations and kamma generated and cultivated in the past.
+
+**VI**
+2. Sự sinh khởi rõ rệt của các quả thức, danh sắc, sáu xứ, xúc và thọ trong vị lai do các nhân vô minh, ái, thủ, hành và nghiệp được tạo tác và vun bồi trong đời hiện tại.
+
+**EN**
+2. The manifest arising in the future of the effects consciousness, mentality-materiality, the six bases, contact and feeling, due to the causes ignorance, craving, clinging, formations and kamma generated and cultivated in the present life.
+
+**VI**
+3. Tương tự, sự sinh khởi rõ rệt của năm quả trong mỗi đời quá khứ tương ứng, do năm nhân được tạo tác và vun bồi trong đời quá khứ tương ứng.
+
+**EN**
+3. Likewise, the manifest arising of the five effects in each relevant past life, due to the five causes generated and cultivated in the relevant past life.
+
+**VI**
+4. Nếu các đời vị lai của hành giả ấy vẫn còn hiện rõ, thì thấy sự sinh khởi rõ rệt của năm quả vị lai tương ứng do năm nhân thuộc thời vị lai, hiện tại hoặc quá khứ tương ứng.
+
+**EN**
+4. If the meditator’s future lives are still apparent, the manifest arising of the five relevant future effects due to five relevant causes of the future, present, or past.
+
+**VI**
+Khi ấy, trong dòng tương tục của người tự mình thấy thấu bằng trí minh sát như tuệ phân biệt duyên (paccayapariggahañāṇa) rằng do nương vào các pháp nhân trước mà các nhóm quả sau liên hệ với nhân, nối tiếp sinh khởi hết lần này đến lần khác, làm sao những tà kiến tai hại như đoạn luận, luận phủ nhận quả và luận phủ nhận tác dụng của nghiệp còn có thể sinh khởi? Chúng không còn cơ hội sinh khởi. Cũng vậy, trong lời dạy Duyên khởi ấy…
+
+**EN**
+Then how could harmful wrong views such as annihilationism, denial of results and denial of the efficacy of action arise in the continuity of a meditator who personally penetrates by insight knowledge such as knowledge of discerning conditions (paccayapariggahañāṇa) how subsequent groups of effects arise repeatedly in causal continuity through dependence on prior causes? They no longer have an opportunity to arise. Likewise, in that teaching on dependent origination…
+
+
+<a id="M06-body-P052"></a>
+## Hai từ hợp thành Paṭiccasamuppāda / The two words that make up Paṭiccasamuppāda
+Miến / Burmese 52
+
+**VI**
+… các tà kiến tai hại ấy cũng không còn chỗ bám.
+
+**EN**
+… those harmful wrong views have no foothold either.
+
+**VI**
+3. Hai từ paṭicca và samuppāda.
+
+**EN**
+3. The words paṭicca and samuppāda.
+
+**VI**
+Từ ghép paṭiccasamuppāda gồm hai từ paṭicca và samuppāda. Do các pháp nhân như vô minh hội đủ, các nhóm quả như hành sinh khởi, và chuỗi nhân quả tiếp tục không gián đoạn, sinh đi sinh lại. Từ ghép ấy biểu thị:
+
+**EN**
+The compound paṭiccasamuppāda joins the two words paṭicca and samuppāda. When causes such as ignorance concur, the groups of effects such as formations arise, and the causal succession continues without interruption, arising again and again. The compound indicates:
+
+**VI**
+1. Pháp hành cao quý gồm tám chi đạo gọi là Trung đạo (majjhimā paṭipadā).
+
+**EN**
+1. The noble practice of the eight path factors called the Middle Way (majjhimā paṭipadā).
+
+**VI**
+2. Sự loại bỏ các chủ trương tai hại: “Chính người ấy làm, chính người ấy thọ nhận” và “Người khác làm, người khác thọ nhận”.
+
+**EN**
+2. The removal of harmful doctrines that hold “the very same person acts and experiences” or “one person acts and another experiences.”
+
+**VI**
+3. Sự không hiểu sai và không chấp bằng ái hay kiến rằng đàn ông, đàn bà và những đối tượng được gọi tên theo cách nói thông dụng (janapadanirutti) thật sự hiện hữu. Người đời dùng các từ ấy khi chưa biết sắc và danh chân đế cũng như tính chất liên hệ nhân quả của chúng.
+
+**EN**
+3. The absence of misunderstanding and of clinging through craving or views to men, women, and other things named in common usage (janapadanirutti) as truly existing. Ordinary people use these terms without knowing ultimate materiality and mentality or the nature of their causal relationship.
+
+**VI**
+4. Sự giữ đúng phạm vi của sự thật quy ước ở đời, tức những tên gọi người đời vẫn dùng.
+
+**EN**
+4. Not going beyond the worldly conventional truth, that is, the names ordinarily used in the world.
+
+**VI**
+Như vậy, từ này chỉ rõ Thánh đạo có tên là phương pháp đưa đến Niết-bàn. (Visuddhimagga, quyển 2, tr. 153.)
+
+**EN**
+In this way the term points out the Noble Path, the means leading to Nibbāna. (Visuddhimagga, vol. 2, p. 153.)
+
+
+<a id="M06-body-P053"></a>
+## Giải thích thêm về Trung đạo / Further explanation of the Middle Way
+Miến / Burmese 53
+
+**VI**
+1. Trung đạo (majjhimā paṭipadā). Trước hết, hành giả gắng sức đạt tuệ phân biệt danh sắc và tuệ phân biệt duyên. Khi vị ấy tự mình dùng trí trực chứng thấu thấy thực tính Duyên khởi, tức các nhóm pháp hữu vi gồm sắc, danh, nhân và quả nối tiếp nhau, sinh đi sinh lại từ trước đến sau trong cả ba thời quá khứ, hiện tại và vị lai, từ những đời quá khứ xa nhất có thể quán đến những đời vị lai xa nhất có thể quán, thì trí biết ấy là chánh kiến.
+
+**EN**
+1. The Middle Way (majjhimā paṭipadā). First the meditator strives to attain knowledge of discerning mentality-materiality and knowledge of discerning conditions. When the meditator personally penetrates by direct knowledge the nature of dependent origination, namely the uninterrupted recurrence of conditioned groups of materiality, mentality, causes and effects from earlier to later throughout past, present and future, from as far back as can be discerned to as far forward as can be discerned, that knowledge is right view.
+
+**VI**
+Trí thấu rõ sắc và danh, tức năm thủ uẩn, là chánh kiến. Theo những lời dạy như “Saṅkhittena pañcupādānakkhandhā dukkhā” (Majjhima, quyển 1, tr. 82), năm thủ uẩn là nhóm pháp thuộc Khổ Thánh đế. Trí thấu hiểu nhóm pháp thuộc Khổ Thánh đế ấy là chánh kiến biết Khổ Thánh đế, theo lời “Dukkhe ñāṇaṃ”. (Majjhima, quyển 1, tr. 88.)
+
+**EN**
+The knowledge that penetrates materiality and mentality, the five aggregates subject to clinging, is right view. According to teachings such as “Saṅkhittena pañcupādānakkhandhā dukkhā” (Majjhima, vol. 1, p. 82), the five aggregates subject to clinging are phenomena belonging to the noble truth of suffering. The knowledge that penetrates those phenomena is right view that knows the noble truth of suffering, in accordance with “Dukkhe ñāṇaṃ.” (Majjhima, vol. 1, p. 88.)
+
+**VI**
+Theo lời Đức Phật dạy trong Titthāyatanasutta, phẩm Tikanipāta của Aṅguttara (quyển 1, tr. 178), trí thấu hiểu thực tính Duyên khởi, tức mối liên hệ nhân quả giữa các pháp thuộc Khổ Thánh đế và các pháp thuộc Tập Thánh đế, là chánh kiến biết Tập Thánh đế, theo lời “Dukkhasamudaye ñāṇaṃ”. (Majjhima, quyển 1, tr. 88.) (1)
+
+**EN**
+In accordance with the Buddha’s teaching in the Titthāyatanasutta in the Tikanipāta of the Aṅguttara (vol. 1, p. 178), the knowledge that penetrates the nature of dependent origination, the causal connection between phenomena belonging to the noble truth of suffering and those belonging to the noble truth of its origin, is right view that knows the noble truth of the origin, in accordance with “Dukkhasamudaye ñāṇaṃ.” (Majjhima, vol. 1, p. 88.) (1)
+
+**VI**
+Các pháp thuộc Khổ Thánh đế và Tập Thánh đế ấy gọi là pháp hữu vi. Tính chất hướng tâm đến cảnh hữu vi gồm sắc, danh, nhân và quả, tức các pháp thuộc Khổ Thánh đế và Tập Thánh đế, và sinh tương ưng cùng chánh kiến thấu hiểu các pháp ấy, là chánh tư duy. (2)
+
+**EN**
+The phenomena belonging to the noble truths of suffering and its origin are called conditioned phenomena. The nature of directing the mind toward the conditioned object comprising materiality, mentality, causes and effects, the phenomena belonging to the noble truths of suffering and its origin, and arising in association with right view that penetrates those phenomena, is right intention. (2)
+
+
+<a id="M06-body-P054"></a>
+## Tám chi của Thánh đạo / The eight factors of the Noble Path
+Miến / Burmese 54
+
+**VI**
+Tính chất cố gắng tinh cần để biết mối liên hệ nhân quả của sắc và danh, sinh tương ưng cùng trí chánh kiến ấy, là chánh tinh tấn. (3)
+
+**EN**
+The nature of striving diligently to know the causal relationship of materiality and mentality, arising in association with that knowledge of right view, is right effort. (3)
+
+**VI**
+Tính chất nhiều lần ghi nhận, quán và thẩm sát các pháp hữu vi gồm sắc, danh, nhân và quả ấy, giữ tâm vững trên cảnh hữu vi, không nổi như trái bầu mà chìm sâu như tảng đá, là chánh niệm. (4)
+
+**EN**
+The nature of repeatedly taking note of, discerning and investigating the conditioned phenomena comprising materiality, mentality, causes and effects, keeping the mind steady on that conditioned object, sinking into it like a slab of stone instead of floating like a gourd, is right mindfulness. (4)
+
+**VI**
+Tính chất tâm an định trên cảnh hữu vi gồm sắc, danh, nhân và quả, sinh tương ưng cùng trí chánh kiến ấy, là chánh định, tức định trong minh sát. Nếu thiện nhân lấy thiền chỉ làm cỗ xe, dùng định của thiền (jhānasamādhi) làm nền tảng cho minh sát rồi chuyển sang minh sát, thì định thiền làm nền tảng ấy cũng là chánh định, theo lời Đức Phật dạy trong Mahāsatipaṭṭhānasutta. (Majjhima, quyển 1, tr. 89.) (5)
+
+**EN**
+The nature of the mind’s steadiness on the conditioned object comprising materiality, mentality, causes and effects, arising in association with that knowledge of right view, is right concentration, the concentration of insight. If a good person takes serenity as the vehicle, uses jhāna concentration as a basis for insight and then turns to insight, that foundational jhāna concentration is also right concentration, in accordance with the Buddha’s teaching in the Mahāsatipaṭṭhānasutta. (Majjhima, vol. 1, p. 89.) (5)
+
+**VI**
+Giới mà thiện nhân tự mình thọ trì và gìn giữ trước khi bắt đầu tu tập gồm chánh ngữ, chánh nghiệp và chánh mạng. (6, 7, 8)
+
+**EN**
+The virtue that the good person undertakes and guards before starting meditation consists of right speech, right action and right livelihood. (6, 7, 8.)
+
+**VI**
+Ở giai đoạn hiệp thế, ba chi thuộc giới này không sinh tương ưng trong cùng một sát-na tâm với chánh kiến, chánh tư duy, chánh tinh tấn, chánh niệm và chánh định đang lấy các pháp hữu vi gồm sắc, danh, nhân và quả làm cảnh, như đã giải thích ở trên. Đó là vì các cảnh khác nhau.
+
+**EN**
+At the mundane stage, these three factors of virtue do not arise associated in the same consciousness moment as the right view, right intention, right effort, right mindfulness and right concentration that take the conditioned phenomena comprising materiality, mentality, causes and effects as their object, as explained above. This is because their objects differ.
+
+**VI**
+Tất cả hợp thành tám chi đạo, chính là con đường Thánh đạo, phương pháp đưa đến Niết-bàn. Vì vậy, sắc…
+
+**EN**
+Together they constitute the eight path factors, the Noble Path, the means leading to Nibbāna. Thus materiality…
+
+
+<a id="M06-body-P055"></a>
+## Trung đạo và người làm, người thọ nhận / The Middle Way, and the doer and experiencer
+Miến / Burmese 55
+
+**VI**
+… và danh là các pháp hữu vi sinh khởi trong mối liên hệ nhân quả. Dùng con mắt trí tuệ tự mình thấy thấu thực tính Duyên khởi ấy là đang đi trên Thánh đạo, phương pháp đưa đến Niết-bàn, với các quyền có đủ phẩm chất và sức mạnh. Đó cũng là làm hiển lộ Thánh đạo và con đường Trung đạo. Vì trong Duyên khởi này, sự sinh khởi của các pháp quả phù hợp với từng nhóm nhân tương ứng, không rơi vào hai cực đoan là thường kiến và đoạn kiến, được hiểu là Trung đạo (majjhimā paṭipadā). (Mahāṭīkā, quyển 2, tr. 236.)
+
+**EN**
+… and mentality are conditioned phenomena that arise in causal relationship. Personally penetrating that nature of dependent origination with the eye of wisdom is to walk the Noble Path, the means leading to Nibbāna, with the faculties endowed with strength and quality. It is also to make manifest the Noble Path and the Middle Way. In this exposition of dependent origination, the arising of effects corresponding to their respective groups of causes, without falling into the two extremes of eternalism and annihilationism, is meant by the Middle Way (majjhimā paṭipadā). (Mahāṭīkā, vol. 2, p. 236.)
+
+**VI**
+Tesaṃ tesaṃ paccayuppannadhammānaṃ sambhavato uppajjanato sassatocchedasaṅkhātaṃ antadvayaṃ anupagamma yathāsakaṃ paccayehi anurūpaphaluppatti idha majjhimā paṭipadāti adhippetā. (Mahāṭīkā, quyển 2, tr. 236.)
+
+**EN**
+Tesaṃ tesaṃ paccayuppannadhammānaṃ sambhavato uppajjanato sassatocchedasaṅkhātaṃ antadvayaṃ anupagamma yathāsakaṃ paccayehi anurūpaphaluppatti idha majjhimā paṭipadāti adhippetā. (Mahāṭīkā, vol. 2, p. 236.)
+
+**VI**
+2. Người làm và người thọ nhận. Trong hai vòng nghiệp và quả, vòng nghiệp là các pháp thiện hoặc bất thiện. Vòng quả là tập hợp các sắc pháp và danh pháp quả dị thục. Vì thế, vòng nghiệp thuộc thiện hoặc bất thiện và vòng quả có đặc tướng riêng. (Xin xem phần bốn phương diện, bắt đầu bằng đặc tướng.) Vòng nghiệp là nhân, vòng quả là quả. Vì vậy, tính chất của chúng khác nhau.
+
+**EN**
+2. The doer and the experiencer. Of the two rounds, the round of kamma consists of wholesome or unwholesome phenomena. The round of results consists of resultant material and mental phenomena. Thus the wholesome or unwholesome round of kamma and the round of results have distinct characteristics. (See the section on the four aspects, beginning with characteristic.) The round of kamma is the cause, and the round of results is the effect. Thus their natures differ.
+
+**VI**
+Lại nữa, vòng nghiệp và vòng quả sinh vào những thời điểm khác nhau. Với thiện nhân, các nhóm danh pháp ngoài lộ, tức tái tục, hữu phần và tử, cũng như các nhóm danh pháp thuộc lộ, tức ngũ thức, tiếp thọ, suy đạc…
+
+**EN**
+Further, the round of kamma and the round of results arise at different times. For a good person, the groups of process-free mental phenomena, namely rebirth-linking, life-continuum and death, as well as the groups of mental phenomena within cognitive processes, namely the five kinds of sense-consciousness, receiving, investigating…
+
+
+<a id="M06-body-P056"></a>
+## Nghiệp quá khứ và quả trong đời hiện tại / Past kamma and results in the present life
+Miến / Burmese 56
+
+**VI**
+… và các danh pháp quả đồng sở duyên, cùng các sắc do nghiệp sinh từ lúc tái tục suốt một đời, đều thuộc vòng quả. Nghiệp là nguyên nhân sinh vòng quả ấy nói chung là nghiệp đã được tạo tác và vun bồi trong một đời quá khứ. Sở dĩ nói “nói chung” là vì cũng có những nghiệp có thể cho quả ngay trong đời hiện tại (diṭṭhadhammavedanīyakamma). Những nghiệp cho quả ngay đời hiện tại ấy không phải là nghiệp làm nhân sinh tái tục trong đời hiện tại. Chúng chỉ có thể cho quả trong dòng diễn tiến của đời hiện tại khi đúng lúc.
+
+**EN**
+… and resultant registering mental phenomena, together with materiality born of kamma from rebirth-linking through the course of a life, all belong to the round of results. The kamma that causes this round of results is generally kamma generated and cultivated in a past life. “Generally” is used because there are also deeds capable of giving results in the present life (diṭṭhadhammavedanīyakamma). Those deeds capable of giving results in the present life do not cause rebirth-linking in this life. They can give results only in the course of this life at the appropriate time.
+
+**VI**
+Kammapaccayenāti anekānampi kappakoṭīnaṃ matthake attano phalaṃ uppādetuṃ samatthena nānakkhaṇikakammapaccayenāti attho. (Chú giải Abhidhamma, quyển 3, tr. 374.)
+
+**EN**
+Kammapaccayenāti anekānampi kappakoṭīnaṃ matthake attano phalaṃ uppādetuṃ samatthena nānakkhaṇikakammapaccayenāti attho. (Abhidhamma Commentary, vol. 3, p. 374.)
+
+**VI**
+Nghiệp quá khứ có khả năng làm sinh vòng quả như danh sắc tái tục của đời này có thể là nghiệp đã tạo tác và vun bồi trong đời quá khứ thứ nhất, trong đời quá khứ thứ hai hoặc trong những đời quá khứ tương ứng, hoặc từ nhiều triệu đại kiếp trước. Nếu có cơ hội, nghiệp đã tạo tác và vun bồi trong một đời trước khi tái tục đời này có thể làm sinh các pháp thuộc vòng quả như tái tục trong đời này.
+
+**EN**
+The past kamma capable of producing the round of results such as rebirth-linking mentality-materiality in this life may be kamma generated and cultivated in the first past life, in the second or other relevant past lives, or many millions of aeons ago. Given the opportunity, kamma generated and cultivated in a life preceding rebirth-linking in this life can produce the phenomena of the round of results, such as rebirth-linking, in this life.
+
+**VI**
+Vì vậy, nghiệp làm nhân gọi là vòng nghiệp và sắc danh quả gọi là vòng quả không sinh cùng thời. Chúng sinh vào những thời khác nhau. Hãy hiểu tương tự đối với các đời quá khứ nối tiếp và các đời vị lai nối tiếp. Lại nữa, ngay cả khi đó là nghiệp cho quả ngay trong đời hiện tại (diṭṭhadhammavedanīyakamma), giữa thời nghiệp làm nhân sinh khởi và thời các pháp quả sinh do nghiệp ấy vẫn có khoảng cách ít nhất…
+
+**EN**
+Therefore the causal kamma called the round of kamma and the resultant materiality and mentality called the round of results do not arise at the same time. They arise at different times. Understand likewise for successive past and future lives. Further, even in the case of kamma giving results in the present life (diṭṭhadhammavedanīyakamma), the time of the causal kamma and that of the effects arising from it are separated by at least…
+
+
+<a id="M06-body-P057"></a>
+## Thấy nhân và quả mà không thấy một tự ngã / Seeing cause and effect without finding a self
+Miến / Burmese 57
+
+**VI**
+… nhiều sát-na tâm.
+
+**EN**
+… many consciousness moments.
+
+**VI**
+Vì vòng nghiệp và vòng quả có tính chất khác nhau và sinh vào thời điểm khác nhau, người tự mình dùng chánh kiến thấu thấy thực tính Duyên khởi, tức mối liên hệ nhân quả giữa hai vòng ấy, có thể dùng năng lực của chánh kiến đứng đầu các chi đạo hiệp thế để loại bỏ chủ trương thường nói, quan niệm và tin rằng “So karoti, so paṭisaṃvedeti — chính người ấy làm, chính người ấy thọ nhận”.
+
+**EN**
+Because the round of kamma and the round of results have different natures and arise at different times, the meditator who personally penetrates the nature of dependent origination, the causal connection between the two rounds, with right view can use the power of right view at the head of the mundane path factors to abandon the view that habitually asserts, holds and believes “So karoti, so paṭisaṃvedeti — the very same person acts and experiences.”
+
+**VI**
+Hành giả có trí chánh kiến biết rằng về phía vòng nghiệp làm nhân, chỉ có các tập hợp pháp hữu vi là sắc và danh làm nhân. Những tập hợp sắc và danh làm nhân ấy sinh rồi diệt, chỉ là tập hợp các pháp vô thường, khổ và vô ngã. Về phía vòng quả, vị ấy cũng biết rằng chỉ có các tập hợp pháp hữu vi là sắc và danh làm quả. Các tập hợp sắc và danh thuộc vòng quả ấy cũng sinh rồi diệt, chỉ là tập hợp các pháp vô thường, khổ và vô ngã.
+
+**EN**
+The meditator with the knowledge of right view knows that on the causal side, the round of kamma, there are only collections of conditioned phenomena, causal materiality and mentality. These collections of causal materiality and mentality arise and cease and are only collections of impermanent, suffering and not-self phenomena. On the side of the round of results, the meditator likewise knows there are only collections of conditioned phenomena, resultant materiality and mentality. These collections of materiality and mentality in the round of results also arise and cease and are only collections of impermanent, suffering and not-self phenomena.
+
+**VI**
+Khi người có trí chánh kiến ấy dùng con mắt trí tuệ tìm xét các tập hợp pháp hữu vi gọi là nhóm nhân và nhóm quả, vị ấy không tìm thấy một người làm, một người thọ nhận, một cá nhân, một chúng sinh hay một tự ngã. Bằng trí của mình, vị ấy đi đến xác quyết rằng chỉ có các nhóm pháp hữu vi làm nhân và làm quả, sinh khởi liên tục theo nhân quả, hết lần này đến lần khác, trong tính chất vô thường, khổ và vô ngã…
+
+**EN**
+When the meditator endowed with the knowledge of right view examines with the eye of wisdom the collections of conditioned phenomena called groups of causes and groups of effects, no doer, experiencer, person, being or self is found. By personal knowledge the meditator comes to the conclusion that there are only groups of conditioned causes and effects, arising in uninterrupted causal succession, again and again, in the nature of impermanence, suffering and not-self…
+
+
+<a id="M06-body-P058"></a>
+## Người làm và người thọ nhận là cách nói quy ước / Doer and experiencer as conventional expressions
+Miến / Burmese 58
+
+**VI**
+… và đi đến xác quyết ấy. Trong dòng tương tục của người có cái thấy chánh kiến đủ sức xác quyết như vậy, thường luận “chính người ấy làm, chính người ấy thọ nhận” có thể tìm được chỗ nương ở đâu?
+
+**EN**
+… and reaches that conclusion. In the continuity of someone whose right view enables such a conclusion, where could the eternalist view “the very same person acts and experiences” find a foothold?
+
+**VI**
+Hành giả biết đúng thực tính: gọi sự sinh khởi của các nhóm sắc danh làm nhân, tức các uẩn thiện và bất thiện, là kāraka, người làm; gọi sự sinh khởi của các nhóm sắc danh làm quả, tức các uẩn quả, là vedaka, người thọ nhận, chỉ là cách gọi theo sự thật quy ước. (Mahāṭīkā, quyển 2, tr. 236.)
+
+**EN**
+The meditator knows the true nature of the matter: calling the arising of causal groups of materiality and mentality, the wholesome and unwholesome aggregates, kāraka, a doer, and calling the arising of resultant groups of materiality and mentality, the resultant aggregates, vedaka, an experiencer, is merely speech in terms of conventional truth. (Mahāṭīkā, vol. 2, p. 236.)
+
+**VI**
+Lại nữa, các hành và nghiệp gọi là vòng nghiệp hiện khởi trước trong chuỗi sắc, danh, nhân và quả. Hành giả tự mình thấy thấu rằng cũng trong chuỗi sắc, danh, nhân và quả ấy, các pháp thuộc vòng quả là quả của hành và nghiệp thuộc vòng nghiệp hiện khởi. Vì thấy như vậy bằng trí chánh kiến, hành giả có thể từ bỏ chủ trương thường nói, tin và quan niệm rằng “Añño karoti, añño paṭisaṃvedeti — người này làm, người khác thọ nhận”, rằng người làm và người nhận là hai người khác nhau, đời này thân này làm, đời kia thân kia sẽ thọ nhận.
+
+**EN**
+Further, formations and kamma called the round of kamma first arise manifestly in the continuity of materiality, mentality, causes and effects. The meditator personally penetrates that the round of results, the result of formations and kamma in the round of kamma, arises manifestly in that very continuity. Because the meditator sees this with right view, the meditator can abandon the doctrine that habitually asserts, believes and holds “Añño karoti, añño paṭisaṃvedeti — one acts and another experiences,” that the doer and the experiencer are different people, that this body does the deed in this life and another body will experience it in another life.
+
+**VI**
+Khandhānañca paṭipāṭi, dhātuāyatanāna ca,
+Abbocchinnaṃ vattamānā, saṃsāroti pavuccati. (Chú giải Abhidhamma, quyển 2, tr. 142.)
+
+**EN**
+Khandhānañca paṭipāṭi, dhātuāyatanāna ca,
+Abbocchinnaṃ vattamānā, saṃsāroti pavuccati. (Abhidhamma Commentary, vol. 2, p. 142.)
+
+**VI**
+Chuỗi sắc và danh, tức các uẩn, xứ và giới, trong đó nhân và quả liên hệ, sinh đi sinh lại không gián đoạn, được gọi là luân hồi. Vì vậy, hành giả…
+
+**EN**
+The continuity of materiality and mentality, the aggregates, bases and elements, in which causes and effects are connected and arise time and again without interruption, is called saṃsāra. Thus the meditator…
+
+
+<a id="M06-body-P059"></a>
+## Nghiệp và quả trong cùng một dòng tương tục / Kamma and result in the same continuity
+Miến / Burmese 59
+
+**VI**
+… tự mình thấy thấu bằng trí trực chứng sự sinh khởi của nhóm sắc và danh thuộc vòng quả, vốn là quả của nghiệp thuộc vòng nghiệp, trong chính chuỗi sắc, danh, nhân và quả mà vòng nghiệp đã hiện khởi. Trí chánh kiến của hành giả thấy như vậy có thể từ bỏ chủ trương sai lầm rằng một người làm và một người khác thọ nhận.
+
+**EN**
+… personally penetrates by direct knowledge the arising of the group of materiality and mentality in the round of results, the effect of kamma in the round of kamma, in the very continuity of materiality, mentality, causes and effects in which the round of kamma previously appeared. The right view of the meditator who sees thus can abandon the mistaken doctrine that one person acts and a different person experiences.
+
+**VI**
+Na hi katassa vināso, akatassa vā abbhāgamo atthi. (Mahāṭīkā, quyển 2, tr. 236.)
+
+**EN**
+Na hi katassa vināso, akatassa vā abbhāgamo atthi. (Mahāṭīkā, vol. 2, p. 236.)
+
+**VI**
+Thật vậy, nghiệp đã làm không mất đi và nghiệp chưa làm không thể xuất hiện. (Mahāṭīkā, quyển 2, tr. 236.) (Hãy hiểu lời này chỉ đến nghiệp cho quả ngay đời này và nghiệp cho quả đời kế, vốn có thể mất hiệu lực khi chưa cho quả, cùng nghiệp cho quả ở các đời sau, vốn có khả năng cho quả và không mất hiệu lực cho đến khi viên tịch Niết-bàn.)
+
+**EN**
+Indeed, kamma that has been done does not disappear, and kamma that has not been done cannot appear. (Mahāṭīkā, vol. 2, p. 236.) (Understand this as referring to kamma giving results in this life and in the next life, which can lapse before giving results, and kamma giving results in later lives, which retains the capacity to give results until final Nibbāna.)
+
+**VI**
+Giả sử trong đời trước thiện nhân đã tạo tác và vun bồi hành nghiệp thiện, đồng thời phát nguyện được làm vị tỳ-khưu có thể phụng sự Giáo pháp. Nếu đời này vị ấy có được năm uẩn quả của một vị tỳ-khưu có thể phụng sự Giáo pháp do chính hành nghiệp thiện đã vun bồi trong đời quá khứ ấy, thì hai chuỗi sau đây:
+
+**EN**
+Suppose that in a past life a good person generated and cultivated wholesome formative kamma while aspiring to become a bhikkhu able to serve the Dispensation. If in this life that person obtains the five resultant aggregates of a bhikkhu able to serve the Dispensation due to the very wholesome formative kamma cultivated in the past life, the following two streams:
+
+**VI**
+1. Dòng sắc danh trong đời quá khứ, khi vị ấy vun bồi hành nghiệp thiện và nguyện được làm vị tỳ-khưu có thể phụng sự Giáo pháp.
+
+**EN**
+1. The continuity of materiality and mentality in the past life when the person cultivated wholesome formative kamma and aspired to become a bhikkhu able to serve the Dispensation.
+
+**VI**
+2. Dòng sắc danh thuộc vòng quả, tức đời tỳ-khưu có thể phụng sự Giáo pháp mà vị ấy có được trong đời này.
+
+**EN**
+2. The continuity of materiality and mentality of the round of results, the life of a bhikkhu able to serve the Dispensation attained in the present life.
+
+**VI**
+Hai dòng ấy sinh đi sinh lại trong mối liên hệ nhân quả…
+
+**EN**
+These two streams arise time and again, linked as cause and effect…
+
+
+<a id="M06-body-P060"></a>
+## Dòng tương tục và cách nói thông dụng / Continuity and common usage
+Miến / Burmese 60
+
+**VI**
+… và xét theo tính chất của chuỗi sắc danh ấy thì chúng là một dòng tương tục. Tuy nhiên, dòng sắc danh ấy không diễn tiến theo tính chất thường, lạc và ngã. Nó chỉ diễn tiến theo tính chất vô thường, khổ và vô ngã.
+
+**EN**
+… and in terms of the nature of that succession of materiality and mentality, they are one continuity. Yet that continuity of materiality and mentality does not proceed as permanent, pleasant and self. It proceeds only as impermanent, suffering and not-self.
+
+**VI**
+Đúng là sắc và danh vào lúc tạo nghiệp thuộc vòng nghiệp đã sinh rồi diệt. Vì chúng đã sinh rồi diệt, sắc và danh vào lúc tạo nghiệp thuộc vòng nghiệp quả thực là khác với sắc và danh mới lần lượt sinh khởi, gọi là vòng quả có được trong đời này do vòng nghiệp ấy. Nhưng xét theo chuỗi sắc danh sinh khởi không gián đoạn, trong đó phần trước và phần sau liên hệ với nhau như nhân và quả, thì sắc danh lúc tạo nghiệp ở đời quá khứ và sắc danh gọi là vòng quả ở đời này thuộc một dòng tương tục. Trí chánh kiến tự mình thấy thấu thực tính ấy có thể loại bỏ và chế ngự chủ trương sai lầm “người làm là một người, người thọ nhận là một người khác”.
+
+**EN**
+It is true that the materiality and mentality at the time of producing kamma in the round of kamma arose and ceased. Because they arose and ceased, the materiality and mentality at the time of producing kamma in the round of kamma indeed differ from the fresh materiality and mentality that successively arise in the present life and are called the round of results arising due to that kamma. Yet in terms of the uninterrupted succession of materiality and mentality, in which the earlier and later are causally connected, the materiality and mentality at the time of producing kamma in a past life and the materiality and mentality called the round of results in this life belong to a single continuity. The right view that personally penetrates this nature can abandon and subdue the mistaken doctrine that the doer is one person and the experiencer another.
+
+**VI**
+3. Cách diễn đạt thông dụng (janapadanirutti). Người đời chưa thấy sắc và danh chân đế, chưa biết mối liên hệ nhân quả của sắc và danh, tức thực tính Duyên khởi, nên gọi nhau là đàn ông, đàn bà và những tên tương tự. Cách gọi và cách dùng ấy gọi là janapadanirutti. Nơi những người có sắc và danh còn chưa được trí phân biệt thấu đến chân đế (apariññātavatthu), do chấp ái, chấp mạn và chấp kiến, sự hiểu sai “của ta, ta, tự ngã của ta”, “ta, người khác, đàn ông, đàn bà, cá nhân, chúng sinh…
+
+**EN**
+3. Common usage (janapadanirutti). Ordinary people have yet to see ultimate materiality and mentality or know their causal relationship, the nature of dependent origination, and call one another men, women, and similar names. This way of naming and speaking is called janapadanirutti. In those whose materiality and mentality have yet to be fully understood in terms of ultimate reality (apariññātavatthu), through attachment by craving, conceit and views, there is the mistaken apprehension “mine, I, my self,” “I, another, man, woman, person, being…
+
+
+<a id="M06-body-P061"></a>
+## Dùng danh xưng mà không chấp thật / Using names without taking them as ultimate
+Miến / Burmese 61
+
+**VI**
+… người, chư thiên, phạm thiên” vẫn hiện hữu.
+
+**EN**
+… human, deva, brahmā.”
+
+**VI**
+Đối với thiện nhân có trí, có cái thấy trong sáng của chánh kiến, tự mình thấy thấu bằng trí chánh kiến mối liên hệ nhân quả của sắc và danh, tức thực tính Duyên khởi, thì vị ấy biết đúng như sau:
+
+**EN**
+The wise and good person who has the clear vision of right view and personally penetrates by right view the causal relationship of material and mental phenomena, the nature of dependent origination, correctly understands as follows:
+
+**VI**
+“Dựa vào các pháp hữu vi gồm sắc, danh, nhân và quả, vốn nương vào nhau mà sinh theo những duyên tương ứng, người ta đặt tên ‘ta, người khác, đàn ông, đàn bà, cá nhân, chúng sinh, người, chư thiên, phạm thiên’ và các tên tương tự. Đó chỉ là sự đặt tên. Theo thực tính chân đế, ‘ta, người khác, đàn ông, đàn bà, cá nhân, chúng sinh, người, chư thiên, phạm thiên’ và các đối tượng tương tự không hiện hữu.”
+
+**EN**
+“On the basis of conditioned phenomena comprising materiality, mentality, causes and effects, which arise in mutual dependence according to their respective conditions, people assign names such as ‘I, another, man, woman, person, being, human, deva, brahmā.’ This is merely designation. In terms of ultimate nature, ‘I, another, man, woman, person, being, human, deva, brahmā’ and similar entities do not exist.”
+
+**VI**
+Vì có trí chánh kiến biết đúng như vậy, trong dòng tương tục của thiện nhân ấy không có sự chấp cứng và hiểu sai “của ta, ta, tự ngã của ta”, “ta, người khác, đàn ông, đàn bà, cá nhân, chúng sinh, người, chư thiên, phạm thiên” do ái, mạn và kiến.
+
+**EN**
+Because the good person has the knowledge of right view that correctly understands in this way, the person’s continuity is free of the rigid clinging and mistaken apprehension “mine, I, my self,” “I, another, man, woman, person, being, human, deva, brahmā,” through craving, conceit and views.
+
+**VI**
+Dù không chấp cứng và hiểu sai như vậy, vị ấy vẫn theo lối nói và chế định của người đời chưa có trí chân đế mà dùng các tên gọi “ta, người khác, đàn ông, đàn bà, cá nhân, chúng sinh, người, chư thiên, phạm thiên”. Vị ấy không dùng những lời theo cái thấy chân đế của mình, chẳng hạn “Pañcakkhandhe ānentu — Hãy đưa năm uẩn đến. Nāmarūpaṃ āgacchatu — Hãy để danh sắc đi đến”, mà dùng cách gọi “đàn ông”, “đàn bà” và các tên tương tự…
+
+**EN**
+Though free of that rigid clinging and mistaken apprehension, the person follows the ordinary speech and designations of people without knowledge of ultimate reality and uses names such as “I, another, man, woman, person, being, human, deva, brahmā.” The person does not speak in terms of their own view of ultimate reality, such as “Pañcakkhandhe ānentu — Let them bring the five aggregates. Nāmarūpaṃ āgacchatu — Let mentality-materiality come,” but uses “man,” “woman,” and similar names…
+
+
+<a id="M06-body-P062"></a>
+## Giữ đúng phạm vi của quy ước / Staying within the scope of convention
+Miến / Burmese 62
+
+**VI**
+… mà thôi. Như vậy, tuy không nói “Hãy đưa năm uẩn đến. Hãy để danh sắc đi đến” theo cái thấy chân đế trong dòng tương tục của chính mình, vị ấy vẫn dùng những cách nói quy ước của người đời chưa có trí chân đế: “ta, người khác, đàn ông, đàn bà, cá nhân, chúng sinh, người, chư thiên, phạm thiên”. Tuy dùng các tên ấy, vị ấy không hiểu sai do ái, mạn và kiến như người chưa có trí chân đế, cho rằng đàn ông, đàn bà và những đối tượng như thế thật sự hiện hữu.
+
+**EN**
+… alone. Thus, although the person does not say “Let them bring the five aggregates. Let mentality-materiality come” in line with the ultimate view in their own continuity, the person still uses the conventional speech of those without knowledge of ultimate reality: “I, another, man, woman, person, being, human, deva, brahmā.” Though using these names, the person does not, through craving, conceit or views, make the mistake of those without knowledge of ultimate reality, who take men, women and such entities as truly existing.
+
+**VI**
+Việc không hiểu sai theo cách nói thông dụng ấy gọi là không hiểu sai trong janapadanirutti. Đó là một lợi ích mà thiện nhân có trí chánh kiến về mối liên hệ nhân quả của sắc pháp và danh pháp, tức thực tính Duyên khởi, có thể tự mình đạt được. (Xem Mahāṭīkā, quyển 2, tr. 236.)
+
+**EN**
+This absence of mistaken apprehension in common speech is called the absence of misconception in janapadanirutti. It is a benefit that good and wise people with right view of the causal relationship between material and mental phenomena, the nature of dependent origination, can gain for themselves. (See Mahāṭīkā, vol. 2, p. 236.)
+
+**VI**
+4. Không vượt quá quy ước (samaññāya anatividhāvana). Tuy không hiểu sai trong cách nói thông dụng như vừa giải thích, vị ấy vẫn không vượt quá các tên gọi theo quy ước thế gian mà người đời dùng.
+
+**EN**
+4. Not going beyond convention (samaññāya anatividhāvana). Though free of the mistaken apprehension in common speech just explained, the person still does not overstep the conventional worldly names used by ordinary people.
+
+**VI**
+“Satto”ti hi vutte “ko ettha satto? Kiṃ rūpaṃ? Udāhu vedanādayo”ti vibhāgaṃ akatvā lokasamaññāvaseneva lokiyehi viya lokiyoyeva attho samaññaṃ avilaṅghantena voharitabbo. (Mahāṭīkā, quyển 2, tr. 236.)
+
+**EN**
+“Satto”ti hi vutte “ko ettha satto? Kiṃ rūpaṃ? Udāhu vedanādayo”ti vibhāgaṃ akatvā lokasamaññāvaseneva lokiyehi viya lokiyoyeva attho samaññaṃ avilaṅghantena voharitabbo. (Mahāṭīkā, vol. 2, p. 236.)
+
+**VI**
+Khi người đời thường gọi “chúng sinh”, vị ấy không lấy cái thấy chân đế mà phân tích: “Ở đây chúng sinh là gì? Là sắc pháp hay là thọ và các pháp còn lại?” Vị ấy dùng những tên gọi quy ước như “đàn ông, đàn bà, cá nhân, chúng sinh”, giống như những người chưa có trí chân đế…
+
+**EN**
+When people ordinarily say “beings,” the person does not analyse with the eye of ultimate knowledge: “What is a being here? Is it materiality or feeling and the rest?” The person uses conventional names such as “man, woman, person, being,” just as people without knowledge of ultimate reality do…
+
+
+<a id="M06-body-P063"></a>
+## Bốn lợi ích của việc thấy rõ Duyên khởi / Four benefits of clearly seeing dependent origination
+Miến / Burmese 63
+
+**VI**
+… và dùng chúng theo nghĩa thông thường mà người đời chấp nhận, như trong những cách gọi nữ thí chủ Visākhā hay nam thí chủ Anāthapiṇḍika, không vượt quá những tên gọi quy ước thế gian ấy.
+
+**EN**
+… and uses them with the ordinary meaning accepted by people in the world, as in such names as the female donor Visākhā and the male donor Anāthapiṇḍika, without going beyond those worldly conventional designations.
+
+**VI**
+Nếu người chưa có con mắt trí tuệ thấy chân đế gọi năm uẩn là “đàn ông”, thì thiện nhân có trí chánh kiến về thực tính Duyên khởi cũng gọi là “đàn ông”. Nếu người đời thường gọi năm uẩn là “đàn bà”, thì thiện nhân có trí chánh kiến về thực tính Duyên khởi cũng gọi là “đàn bà”. Hãy hiểu tương tự đối với các cách gọi khác. Cách gọi như vậy chính là không vượt quá sự thật quy ước thế gian, tức chế định thế gian.
+
+**EN**
+If those without the eye of wisdom that sees ultimate reality call the five aggregates a “man,” then good and wise people with right view of the nature of dependent origination likewise say “man.” If ordinary people call the five aggregates a “woman,” then good and wise people with right view of the nature of dependent origination likewise say “woman.” Understand the other terms in the same way. Such usage is precisely to stay within worldly conventional truth, that is, worldly designation.
+
+**VI**
+Đó là bốn lợi ích mà hành giả tự mình thấy thấu bằng trí chánh kiến mối liên hệ nhân quả của sắc pháp và danh pháp, tức thực tính Duyên khởi, có thể đạt được:
+
+**EN**
+These are the four benefits available to a meditator who personally penetrates with right view the causal relationship of material and mental phenomena, the nature of dependent origination:
+
+**VI**
+1. Bước vào con đường Trung đạo.
+
+**EN**
+1. Entering the Middle Way.
+
+**VI**
+2. Có thể loại bỏ những chủ trương sai lầm “chính người ấy làm, chính người ấy thọ nhận” và “người làm là một người, người thọ nhận là một người khác”.
+
+**EN**
+2. Being able to abandon the mistaken doctrines that “the very same person acts and experiences” and that “one person acts and another experiences.”
+
+**VI**
+3. Không hiểu sai theo cách diễn đạt thông dụng ở đời (janapadanirutti).
+
+**EN**
+3. Avoiding mistaken apprehension in ordinary worldly speech (janapadanirutti).
+
+**VI**
+4. Không vượt quá sự thật quy ước thế gian. (Xem Visuddhimagga, quyển 2, tr. 153. Mahāṭīkā, quyển 2, tr. 235.)
+
+**EN**
+4. Not going beyond worldly conventional truth. (See Visuddhimagga, vol. 2, p. 153. Mahāṭīkā, vol. 2, p. 235.)
+
+
+<a id="M06-body-P064"></a>
+## Phần 2 / Part 2
+Miến / Burmese 64
+
+**VI**
+Phần 2.
+
+**EN**
+Part 2.
+
+
+<a id="M06-body-P065"></a>
+## Mười hai chi Duyên khởi và ba thời / The twelve factors of dependent origination and the three periods
+Miến / Burmese 65
+
+**VI**
+Phần 2.
+
+**EN**
+Part 2.
+
+**VI**
+Mười hai chi Duyên khởi.
+
+**EN**
+The twelve factors of dependent origination.
+
+**VI**
+Trong lời dạy Duyên khởi theo chiều thuận, được gọi là phương pháp thứ nhất, có một số điều cần biết trước: mười hai chi, ba thời, ba mối nối, bốn nhóm và hai mươi phương diện. Mười hai chi như sau:
+
+**EN**
+In the teaching of dependent origination in forward order, called the first method, there are some things to know in advance: twelve factors, three periods, three links, four groups, and twenty aspects. The twelve factors are as follows:
+
+**VI**
+1. Vô minh (avijjā).
+2. Hành (saṅkhāra).
+3. Thức (viññāṇa).
+4. Danh sắc (nāmarūpa).
+5. Sáu xứ (saḷāyatana).
+6. Xúc (phassa).
+7. Thọ (vedanā).
+8. Ái (taṇhā).
+9. Thủ (upādāna).
+10. Hữu (bhava).
+11. Sinh (jāti).
+12. Già chết (jarāmaraṇa).
+
+**EN**
+1. Ignorance (avijjā).
+2. Formations (saṅkhāra).
+3. Consciousness (viññāṇa).
+4. Mentality-materiality (nāmarūpa).
+5. The six bases (saḷāyatana).
+6. Contact (phassa).
+7. Feeling (vedanā).
+8. Craving (taṇhā).
+9. Clinging (upādāna).
+10. Becoming (bhava).
+11. Birth (jāti).
+12. Aging and death (jarāmaraṇa).
+
+**VI**
+Ba thời.
+
+**EN**
+The three periods.
+
+**VI**
+Nếu lấy đời hiện tại làm mốc thì (1) vô minh và hành thuộc nhóm pháp thời quá khứ; (2) thức, danh sắc, sáu xứ, xúc, thọ, ái, thủ và hữu, tức nghiệp hữu, thuộc nhóm pháp thời hiện tại; (3) sinh và già chết thuộc nhóm pháp thời vị lai.
+
+**EN**
+If the present life is taken as the reference point, then (1) ignorance and formations belong to the group of phenomena of the past period; (2) consciousness, mentality-materiality, the six bases, contact, feeling, craving, clinging, and becoming, here kamma-becoming, belong to the group of the present period; (3) birth and aging and death belong to the group of the future period.
+
+**VI**
+Nếu lấy đời quá khứ thứ nhất làm mốc thì (1) vô minh và hành thuộc nhóm pháp của đời quá khứ thứ hai…
+
+**EN**
+If the first past life is taken as the reference point, then (1) ignorance and formations belong to the group of phenomena of the second past life…
+
+
+<a id="M06-body-P066"></a>
+## Ba thời và các mối nối nhân quả / The three periods and causal links
+Miến / Burmese 66
+
+**VI**
+… (2) thức, danh sắc, sáu xứ, xúc, thọ, ái, thủ và hữu, tức nghiệp hữu, thuộc nhóm pháp của đời quá khứ thứ nhất; (3) sinh và già chết thuộc nhóm pháp thời hiện tại. Hãy theo cách này mà hiểu các đời quá khứ nối tiếp.
+
+**EN**
+… (2) consciousness, mentality-materiality, the six bases, contact, feeling, craving, clinging, and becoming, here kamma-becoming, belong to the group of phenomena of the first past life; (3) birth and aging and death belong to the group of the present period. Understand the successive past lives by following this method.
+
+**VI**
+Nếu lấy đời vị lai thứ nhất làm mốc thì (1) vô minh và hành thuộc nhóm pháp thời hiện tại; (2) thức, danh sắc, sáu xứ, xúc, thọ, ái, thủ và hữu, tức nghiệp hữu, thuộc nhóm pháp của đời vị lai thứ nhất; (3) sinh và già chết thuộc nhóm pháp của đời vị lai thứ hai. Hãy theo cách này mà hiểu các đời vị lai nối tiếp.
+
+**EN**
+If the first future life is taken as the reference point, then (1) ignorance and formations belong to the group of phenomena of the present period; (2) consciousness, mentality-materiality, the six bases, contact, feeling, craving, clinging, and becoming, here kamma-becoming, belong to the group of the first future life; (3) birth and aging and death belong to the group of the second future life. Understand the successive future lives by following this method.
+
+**VI**
+Ba mối nối.
+
+**EN**
+The three links.
+
+**VI**
+Chỗ các pháp nhân và pháp quả nối tiếp nhau gọi là mối nối.
+
+**EN**
+The place where causal and resultant phenomena are linked is called a link.
+
+**VI**
+1. Giữa hành, pháp nhân quá khứ, và thức, pháp quả hiện tại, có một mối nối giữa nhân quá khứ và quả hiện tại.
+
+**EN**
+1. Between formations, the past causal phenomena, and consciousness, the present resultant phenomenon, there is a link joining past cause and present effect.
+
+**VI**
+2. Giữa thọ, pháp quả hiện tại, và ái, pháp nhân hiện tại, có một mối nối giữa quả và nhân…
+
+**EN**
+2. Between feeling, the present resultant phenomenon, and craving, the present causal phenomenon, there is a link joining effect and cause…
+
+
+<a id="M06-body-P067"></a>
+## Mối nối thứ ba và bốn nhóm / The third link and the four groups
+Miến / Burmese 67
+
+**VI**
+3. Giữa nghiệp hữu, pháp nhân hiện tại, và sinh, pháp quả vị lai, có một mối nối giữa nhân và quả.
+
+**EN**
+3. Between kamma-becoming, the present cause, and birth, the future effect, there is a link joining cause and effect.
+
+**VI**
+Như vậy, trong mười hai chi Duyên khởi có ba mối nối. Hãy áp dụng cùng phương pháp để hiểu các đời quá khứ và vị lai nối tiếp nhau.
+
+**EN**
+Thus there are three links among the twelve factors of dependent origination. Apply the same method to understand successive past and future lives.
+
+**VI**
+Bốn nhóm.
+
+**EN**
+The four groups.
+
+**VI**
+1. Trong nhóm pháp thời quá khứ, khi lấy vô minh thì cũng lấy ái và thủ, vì cả ba thuộc vòng phiền não. Khi lấy hành thì cũng lấy nghiệp, vì cả hai thuộc vòng nghiệp. Như vậy có năm nhân quá khứ là vô minh, ái, thủ, hành và nghiệp, tức nghiệp hữu. Đây là nhóm nhân quá khứ.
+
+**EN**
+1. In the past group, when ignorance is taken, craving and clinging are also taken, since all three belong to the round of defilements. When formations are taken, kamma is also taken, since both belong to the round of kamma. Thus the five past causes are ignorance, craving, clinging, formations and kamma, that is, kamma-becoming. This is the group of past causes.
+
+**VI**
+2. Thức, danh sắc, sáu xứ, xúc và thọ là năm quả hiện tại sinh do năm nhân quá khứ. Đây là nhóm quả hiện tại.
+
+**EN**
+2. Consciousness, mentality-materiality, the six bases, contact and feeling are the five present effects arising due to the five past causes. This is the group of present effects.
+
+**VI**
+3. Trong các nhân hiện tại, khi lấy ái và thủ thì cũng lấy vô minh vì cùng thuộc vòng phiền não. Khi lấy nghiệp hữu, tức nghiệp, thì cũng lấy hành vì cùng thuộc vòng nghiệp. Như vậy có năm nhân hiện tại là vô minh, ái, thủ, hành và nghiệp. Đây là nhóm nhân hiện tại.
+
+**EN**
+3. Among present causes, when craving and clinging are taken, ignorance is also taken, since they belong to the same round of defilements. When kamma-becoming, that is, kamma, is taken, formations are also taken, since they belong to the same round of kamma. Thus the five present causes are ignorance, craving, clinging, formations and kamma. This is the group of present causes.
+
+**VI**
+4. Sinh là nhóm sắc và danh tái tục sẽ sinh trong vị lai do năm nhân hiện tại. Nói cách khác, đó là nhóm sắc và danh thuộc vòng quả, tức thức, danh sắc, sáu xứ, xúc và thọ. Đây là nhóm quả vị lai.
+
+**EN**
+4. Birth is the group of rebirth-linking material and mental phenomena that will arise in the future due to the five present causes. In other words, it is the group of material and mental phenomena of the round of results, namely consciousness, mentality-materiality, the six bases, contact and feeling. This is the group of future effects.
+
+
+<a id="M06-body-P068"></a>
+## Hai mươi phương diện và cách quán cần biết trước / Twenty aspects and a way of discerning to know beforehand
+Miến / Burmese 68
+
+**VI**
+Hai mươi phương diện gồm (1) năm nhân quá khứ, (2) năm quả hiện tại, (3) năm nhân hiện tại và (4) năm quả vị lai. Tất cả là hai mươi phương diện. Hãy hiểu tương tự đối với các đời quá khứ và vị lai nối tiếp.
+
+**EN**
+The twenty aspects comprise (1) five past causes, (2) five present effects, (3) five present causes and (4) five future effects. These make twenty aspects in all. Understand the same for successive past and future lives.
+
+**VI**
+Cách quán cần biết trước.
+
+**EN**
+A way of discerning to know beforehand.
+
+**VI**
+Ở giai đoạn tuệ phân biệt duyên (paccayapariggahañāṇa), khi nhận diện nhân và quả, hãy nhận diện theo cách sau: do vô minh sinh nên hành sinh. Vô minh là pháp nhân, hành là pháp quả. Hãy nhận diện các nhân và quả còn lại theo cách ấy.
+
+**EN**
+At the stage of knowledge of discerning conditions (paccayapariggahañāṇa), discern causes and effects in this way: due to the arising of ignorance, formations arise. Ignorance is the cause and formations are the effect. Discern the other causes and effects in the same way.
+
+**VI**
+Ở giai đoạn tuệ thẩm sát (sammasanañāṇa) và giai đoạn sau của tuệ sinh diệt (udayabbayañāṇa), hãy đặt mười hai chi Duyên khởi dưới ba đặc tướng và lấy sự sinh diệt của chúng làm cảnh quán. Chẳng hạn: do vô minh sinh nên hành sinh. Vô minh sinh diệt, vô thường (khổ, vô ngã). Hành sinh diệt, vô thường (khổ, vô ngã). Hãy quán các chi còn lại theo cách ấy.
+
+**EN**
+At the stages of comprehension knowledge (sammasanañāṇa) and the later phase of knowledge of arising and passing away (udayabbayañāṇa), subject the twelve factors of dependent origination to the three characteristics and take their arising and passing away as the object of discernment. For example: due to the arising of ignorance, formations arise. Ignorance arises and passes away, and is impermanent (suffering, not-self). Formations arise and pass away, and are impermanent (suffering, not-self). Discern the remaining factors in the same way.
+
+
+<a id="M06-body-P069"></a>
+## Quán sinh diệt theo duyên và theo sát-na / Discerning arising and passing away by condition and by moment
+Miến / Burmese 69
+
+**VI**
+Ở phần đầu của tuệ sinh diệt, cách quán rộng đặt các chi Duyên khởi dưới ba đặc tướng như sau:
+
+**EN**
+In the early phase of knowledge of arising and passing away, the detailed method subjects the factors of dependent origination to the three characteristics as follows:
+
+**VI**
+1. Sinh theo duyên (paccayato udayadassana): quán cách quả sinh do nhân sinh. Do vô minh sinh nên hành sinh. Do hành sinh nên thức sinh. Hãy quán theo cách ấy.
+
+**EN**
+1. Seeing arising by condition (paccayato udayadassana): discern how the effect arises due to the arising of the cause. Due to the arising of ignorance, formations arise. Due to the arising of formations, consciousness arises. Discern in that way.
+
+**VI**
+2. Diệt theo duyên (paccayato vayadassana): quán cách quả chấm dứt do nhân chấm dứt. Do vô minh chấm dứt nên hành chấm dứt. Do hành chấm dứt nên thức chấm dứt. Hãy quán theo cách ấy.
+
+**EN**
+2. Seeing passing away by condition (paccayato vayadassana): discern how the effect ceases due to the cessation of the cause. Due to the cessation of ignorance, formations cease. Due to the cessation of formations, consciousness ceases. Discern in that way.
+
+**VI**
+3. Sinh theo sát-na (khaṇato udayadassana): khi quán sinh theo sát-na, chỉ lấy riêng sự sinh của các chi Duyên khởi làm cảnh. Hãy quán riêng sự sinh của vô minh, sự sinh của hành và các chi còn lại.
+
+**EN**
+3. Seeing arising by moment (khaṇato udayadassana): when discerning arising by moment, take only the arising of the factors of dependent origination as the object. Discern individually the arising of ignorance, the arising of formations, and that of the remaining factors.
+
+**VI**
+4. Diệt theo sát-na (khaṇato vayadassana): khi quán diệt theo sát-na, chỉ lấy riêng sự diệt của các chi Duyên khởi làm cảnh. Hãy quán sự diệt, tức sự chấm dứt, của vô minh, của hành và các chi còn lại.
+
+**EN**
+4. Seeing passing away by moment (khaṇato vayadassana): when discerning passing away by moment, take only the passing away of the factors of dependent origination as the object. Discern the passing away, that is, cessation, of ignorance, formations, and the remaining factors.
+
+**VI**
+5. Khi quán sinh diệt theo duyên cùng với sinh diệt theo sát-na (paccayato udayabbayadassana và khaṇato udayabbayadassana), hãy quán: do vô minh sinh nên hành sinh. Do vô minh chấm dứt nên hành chấm dứt. Vô minh sinh diệt, vô thường. Hành sinh diệt, vô thường. Hãy quán theo cách ấy.
+
+**EN**
+5. When discerning arising and passing away by condition together with arising and passing away by moment (paccayato udayabbayadassana and khaṇato udayabbayadassana), discern: due to the arising of ignorance, formations arise. Due to the cessation of ignorance, formations cease. Ignorance arises and passes away, and is impermanent. Formations arise and pass away, and are impermanent. Discern in that way.
+
+**VI**
+Ở giai đoạn tuệ hoại diệt (bhaṅgañāṇa), hành giả chú ý để trí chỉ thấy sự diệt của các chi Duyên khởi, rồi quán theo ba đặc tướng…
+
+**EN**
+At the stage of dissolution knowledge (bhaṅgañāṇa), the meditator attends so that knowledge sees only the dissolution of the factors of dependent origination and then discerns them in light of the three characteristics…
+
+
+<a id="M06-body-P070"></a>
+## Quán sự hoại diệt và trí đang quán / Discerning dissolution and the knowledge that discerns
+Miến / Burmese 70
+
+**VI**
+… Trong các tuệ minh sát bậc cao, bắt đầu với tuệ hoại diệt, hành giả không còn để tâm đến sự hiện khởi của quả do nhân hiện khởi, gọi là diễn tiến của các pháp do nghiệp chấp thủ (upādiṇṇakapavatta). Hãy quán lần lượt theo ba đặc tướng, chỉ lấy sự diệt của các chi Duyên khởi làm cảnh: vô minh diệt rồi diệt, vô thường (khổ, vô ngã). Hành diệt rồi diệt, vô thường (khổ, vô ngã).
+
+**EN**
+… At the higher stages of insight beginning with dissolution knowledge, the meditator no longer attends to the manifest arising of effects due to the manifest arising of causes, called the occurrence of what is acquired through kamma (upādiṇṇakapavatta). Discern in turn under the three characteristics, taking only the dissolution of the factors of dependent origination as the object: ignorance dissolves again and again, and is impermanent (suffering, not-self). Formations dissolve again and again, and are impermanent (suffering, not-self).
+
+**VI**
+Khi quán minh sát như thế và trí thấy nhanh chóng sự diệt của các chi, khi sự diệt ấy nhanh chóng hiện rõ trong trí của hành giả, hãy quán: vô minh diệt rồi diệt, vô thường (khổ, vô ngã). Trí quán cũng diệt rồi diệt, vô thường (khổ, vô ngã). Hành diệt rồi diệt, vô thường (khổ, vô ngã). Trí quán cũng diệt rồi diệt, vô thường (khổ, vô ngã). Hãy quán theo cách ấy.
+
+**EN**
+When discerning in this way, and knowledge quickly sees the dissolution of the factors, when that dissolution readily appears in the meditator’s knowledge, discern: ignorance dissolves again and again, and is impermanent (suffering, not-self). The discerning knowledge dissolves again and again, and is impermanent (suffering, not-self). Formations dissolve again and again, and are impermanent (suffering, not-self). The discerning knowledge dissolves again and again, and is impermanent (suffering, not-self). Discern in that way.
+
+**VI**
+Khi quán như vậy, hãy quán cho trí thấy từng nhân và quả, như vô minh và hành, cùng các pháp tương ưng, theo từng chuỗi tâm lộ đã sinh, đang sinh hay sẽ sinh, và thấy cả trí đang quán. Dùng trí phân tích để phá vỡ từng khối sắc và khối danh, làm tan sự thấy sắc và danh như từng khối đặc, cho cái thấy của trí thấu đến chân đế.
+
+**EN**
+In discerning thus, discern each cause and effect, such as ignorance and formations, with the associated phenomena, according to each cognitive process that arose, is arising or will arise, and also discern the knowledge that discerns. Use knowledge to break apart each mass of materiality and mentality, dispelling the appearance of materiality and mentality as solid masses so that knowledge reaches ultimate reality.
+
+
+<a id="M06-body-P071"></a>
+## Phân biệt vô minh và hành trong từng dòng tương tục / Distinguishing ignorance and formations in each continuity
+Miến / Burmese 71
+
+**VI**
+Mỗi chúng sinh có vô minh, hành và các pháp tương ứng của riêng mình. Vô minh và hành của người này khác với của người kia. Có người tạo tác và vun bồi hành nghiệp trong khi bị vô minh, ái và thủ muốn làm người nam vây bọc. Có người tạo tác và vun bồi hành nghiệp trong khi bị vô minh, ái và thủ muốn làm người nữ vây bọc. Vì vậy, vô minh không giống nhau.
+
+**EN**
+Each being has their own ignorance, formations and the corresponding phenomena. The ignorance and formations of one person differ from those of another. One person may generate and cultivate formative kamma while surrounded by ignorance, craving and clinging to becoming male. Another may generate and cultivate formative kamma while surrounded by ignorance, craving and clinging to becoming female. Thus the ignorance is different.
+
+**VI**
+Ở người này nghiệp bố thí có thể cho quả, ở người kia nghiệp trì giới có thể cho quả, ở người khác nghiệp tu tập có thể cho quả. Ngay trong nghiệp bố thí, ở người này nghiệp cúng dường vật thực có thể cho quả, còn ở người kia nghiệp cúng dường hoa có thể cho quả. Vì vậy, vô minh và hành của mỗi người không giống nhau. Ngay trong dòng sắc danh của chính mình, vô minh và hành từ đời này sang đời khác thường cũng khác nhau. Sự khác biệt có ở mức tương ứng với từng trường hợp.
+
+**EN**
+In one person, kamma of giving may give results, in another, kamma of virtue, and in another, kamma of development. Even within giving, kamma of offering food may give results in one person and kamma of offering flowers in another. Thus each person’s ignorance and formations are different. Even in one’s own continuity of materiality and mentality, ignorance and formations generally differ from life to life. Differences occur according to each case.
+
+**VI**
+Do đó, cần quán cho trí thấy vô minh, hành và các pháp còn lại đã sinh, đang sinh và sẽ sinh trong chính dòng sắc danh của mình. Bản văn này trình bày theo mẫu “do vô minh sinh nên hành sinh”. Cách tìm vô minh, ái, thủ, hành và nghiệp đã được trình bày đầy đủ trong phương pháp Duyên khởi thứ năm, nên ở đây không lặp lại quy trình tìm mà chỉ trình bày tiếp cách quán. Hãy lấy mẫu này làm nền và quán như đã hướng dẫn ở các phần về tuệ phân biệt duyên, tuệ sinh diệt và các tuệ khác.
+
+**EN**
+Therefore discern with knowledge the ignorance, formations and remaining phenomena that arose, are arising, or will arise in one’s own continuity of materiality and mentality. This text presents the pattern “due to the arising of ignorance, formations arise.” The method for finding ignorance, craving, clinging, formations and kamma was fully presented in the fifth method of dependent origination. The procedure for finding them is therefore not repeated here, and the text continues with the way of discerning. Take this pattern as a basis and discern as previously instructed in the sections on knowledge of discerning conditions, knowledge of arising and passing away, and the other knowledges.
+
+
+<a id="M06-body-P072"></a>
+## Vô minh duyên hành và lộ ý môn / Ignorance conditions formations and the mind-door process
+Miến / Burmese 72
+
+**VI**
+Avijjāpaccayā saṅkhārā — do vô minh sinh nên hành sinh.
+
+**EN**
+Avijjāpaccayā saṅkhārā — due to the arising of ignorance, formations arise.
+
+**VI**
+Hãy quán cho trí thấy vòng nghiệp, tức hành (nghiệp) đã được tạo tác và vun bồi trong đời quá khứ, sinh do vòng phiền não là vô minh (ái, thủ) đã được vun bồi trong chính đời quá khứ ấy. Do vô minh sinh nên hành sinh. Vô minh là pháp nhân, hành là pháp quả. Hãy nhận diện nhân và quả theo cách ấy. Trong quá khứ, vô minh và hành nói chung đã sinh theo chuỗi tâm lộ như sau.
+
+**EN**
+Discern with knowledge the round of kamma, the formations (kamma) generated and cultivated in a past life, arising due to the round of defilements, ignorance (craving and clinging) cultivated in that very past life. Due to the arising of ignorance, formations arise. Ignorance is the cause and formations are the effect. Discern causes and effects in that way. In the past, ignorance and formations generally arose in the following cognitive process.
+
+**VI**
+Lộ ý môn.
+Pháp · Hướng ý môn · Tốc hành (7 lần) · Đồng sở duyên (2 lần)
+Vô minh · 12 · 20 · 12/34/…
+Hành · 12 · 34 · 34/12/…
+
+**EN**
+Mind-door process.
+Phenomenon | Mind-door adverting | Impulsion (7 times) | Registration (2 times)
+Ignorance | 12 | 20 | 12/34/…
+Formations | 12 | 34 | 34/12/…
+
+**VI**
+Vô minh thường sinh trong nhóm tham hợp tà kiến với đủ hai mươi danh pháp. Đôi khi không hợp hỷ mà đi cùng xả thọ, nên có mười chín. Đôi khi cùng hôn trầm và thụy miên thì có hai mươi hai hoặc hai mươi mốt. Đó là bốn loại tâm căn tham hợp tà kiến. Đôi khi nó cũng sinh trong nhóm tham đi với mạn, thuộc bốn loại tâm ly tà kiến. Đồng sở duyên có thể sinh hoặc không. Nếu có, khi tốc hành hợp hỷ, đồng sở duyên thường cũng hợp hỷ. Khi tốc hành không hợp hỷ, đồng sở duyên cũng thường không hợp hỷ. Đồng sở duyên hữu nhân hay vô nhân có thể sinh tùy trường hợp. Đối với hành cũng hãy hiểu tương tự…
+
+**EN**
+Ignorance generally arises in a greed group associated with wrong view, with all twenty mental phenomena. Sometimes it arises with equanimous feeling and without joy, with nineteen. Sometimes with sloth and torpor there are twenty-two or twenty-one. These are four kinds of greed-rooted consciousness associated with wrong view. Sometimes it also occurs in the greed group with conceit, in the four kinds dissociated from wrong view. Registration may or may not occur. If it occurs when impulsion is associated with joy, registration is generally associated with joy too. When impulsion is dissociated from joy, registration is generally likewise dissociated from joy. Rooted or rootless registration may occur as appropriate. Understand the same for formations…
+
+
+<a id="M06-body-P073"></a>
+## Hành duyên thức / Formations condition consciousness
+Miến / Burmese 73
+
+**VI**
+… Ở đây lấy hành của loài người làm mẫu để trình bày riêng. Trong các hành ấy, trí và hỷ kết hợp tùy trường hợp. Như đã trình bày theo từng sát-na tốc hành trong các bảng thuộc phần đề mục thiền về danh, số lượng có thể là 34, 33, 33 hoặc 32 tùy trường hợp. Đồng sở duyên có thể sinh hoặc không. Khi quán minh sát, hãy thấy rõ sinh diệt theo từng lộ tâm vừa trình bày ở cả phía nhân lẫn phía quả, rồi quán theo ba đặc tướng. Hãy để từng khối đặc tan rã và để trí thấu đến chân đế. Vì các lộ ngũ môn không thể cho quả tái tục, chỉ có thể cho quả trong dòng diễn tiến, nên ở đây chỉ trình bày một mẫu lộ ý môn.
+
+**EN**
+… Here human formations are singled out as the example. In those formations, knowledge and joy are associated as appropriate. As shown for the individual impulsion moments in the tables in the section on the meditation subject of mentality, the counts can be 34, 33, 33 or 32 as appropriate. Registration may or may not occur. When discerning with insight, see arising and passing away in each of the cognitive processes just shown on both the causal and the resultant sides, and discern them under the three characteristics. Let each compact mass break apart and let knowledge penetrate ultimate reality. Since the five-door processes cannot give rebirth-linking results and can only give results in the course of existence, only one mind-door process is presented here.
+
+**VI**
+Saṅkhārapaccayā viññāṇaṃ — do hành sinh nên thức quả sinh. (Abhidhamma, quyển 1, tr. 116.)
+
+**EN**
+Saṅkhārapaccayā viññāṇaṃ — due to the arising of formations, resultant consciousness arises. (Abhidhamma, vol. 1, p. 116.)
+
+**VI**
+Khi nói do vô minh mà hành sinh và do hành mà thức sinh, điều muốn nói là năng lực tự nhiên của vô minh và hành hiện hữu, tức nghĩa atthi, “có”. Vô minh và hành nói chung cách nhau nhiều sát-na tâm, nhiều lộ tâm. Đôi khi vô minh và hành bất thiện cũng sinh cùng nhau, tương ưng trong một sát-na tâm của cùng một lộ.
+
+**EN**
+In saying that formations arise due to ignorance and consciousness arises due to formations, the intended meaning is that the natural powers of ignorance and formations are present, the sense of atthi, “there is.” Ignorance and formations are generally separated by many consciousness moments and many cognitive processes. Sometimes ignorance and unwholesome formations also arise together and are associated in a single consciousness moment in the same process.
+
+**VI**
+Tuy nhiên, hành thiện có năng lực sinh thức quả thiện như thức tái tục của những người hiện sống có thể cách thức quả nhiều lộ tâm. Tương tự, khi các thức quả sinh do hành, hành và thức quả…
+
+**EN**
+However, wholesome formations capable of producing wholesome resultant consciousness such as the rebirth-linking consciousness of people now alive can be separated from that result by many cognitive processes. Similarly, when resultant consciousnesses arise due to formations, the formations and the resultant consciousnesses…
+
+
+<a id="M06-body-P074"></a>
+## Năng lực của hành và sự sinh thức quả / The power of formations and the arising of resultant consciousness
+Miến / Burmese 74
+
+**VI**
+… có thể cách nhau cả một đời. Vì vậy, lúc các quả hiện khởi, trụ và diệt, các nhân ấy đã không còn hiện hữu dưới dạng đang sinh, trụ và diệt (uppāda, ṭhiti, bhaṅga). Chính khi vô minh và hành không còn hiện hữu theo cách ấy mà chúng vẫn có thể làm sinh quả. Khi nói quả tương ứng sinh do vô minh và hành đã sinh, ý muốn nói các pháp ấy có năng lực tự nhiên làm sinh quả tương ứng, tức “có” theo nghĩa atthibhāva.
+
+**EN**
+… can be separated by a lifetime. Hence, when the effects manifest as arising, presence and dissolution (uppāda, ṭhiti, bhaṅga), the causes are no longer present as arising, present and dissolving. Ignorance and formations can still produce the results even when they are no longer present in that way. To say that the corresponding effects arise because ignorance and formations arose means these phenomena have the natural capacity to produce their corresponding effects, that is, “existence” in the sense of atthibhāva.
+
+**VI**
+Năng lực tự nhiên ấy chính là năng lực nghiệp của nhóm hành thiện được vô minh, ái và thủ bao quanh. (Ở đây nói riêng về loài người.) Về năng lực ấy, điểm chính là nghiệp đã được tạo tác và vun bồi. Hành thiện và hành bất thiện có thể làm nhân cho quả của mình vì đã được tạo tác và vun bồi. Việc chúng còn hay không còn hiện hữu dưới dạng sinh, trụ, diệt không phải là điểm chính.
+
+**EN**
+That natural capacity is precisely the kammic power of the group of wholesome formations surrounded by ignorance, craving and clinging. (This is said specifically with reference to humans.) The main point concerning that capacity is that kamma was generated and cultivated. Wholesome and unwholesome formations can act as causes of their respective effects because they have been generated and cultivated. Whether they are still present as arising, presence and dissolution is not the main point.
+
+**VI**
+Kāmāvacaraṃ kusalaṃ kammaṃ katattā upacitattā vipākaṃ cakkhuviññāṇaṃ uppannaṃ hoti. (Abhidhamma, quyển 1, tr. 104.) Vì nghiệp thiện dục giới đã được làm và tích lũy nên nhãn thức quả thiện sinh khởi. (Abhidhamma, quyển 1, tr. 104.)
+
+**EN**
+Kāmāvacaraṃ kusalaṃ kammaṃ katattā upacitattā vipākaṃ cakkhuviññāṇaṃ uppannaṃ hoti. (Abhidhamma, vol. 1, p. 104.) Because wholesome sense-sphere kamma has been done and accumulated, wholesome resultant eye-consciousness arises. (Abhidhamma, vol. 1, p. 104.)
+
+**VI**
+Thức. Do các hành, tức sự tạo tác và vun bồi đời hiện tại và đời trong luân hồi, đã có mặt, nên sáu loại thức quả là nhãn thức, nhĩ thức, tỷ thức, thiệt thức, thân thức và ý thức…
+
+**EN**
+Consciousness. Because formations, the generating and cultivating of present existence and existence in saṃsāra, have been present, the six kinds of resultant consciousness, eye-consciousness, ear-consciousness, nose-consciousness, tongue-consciousness, body-consciousness and mind-consciousness…
+
+
+<a id="M06-body-P075"></a>
+## Các loại thức quả cần nhận diện / The kinds of resultant consciousness to discern
+Miến / Burmese 75
+
+**VI**
+… đều hiện khởi.
+
+**EN**
+… all manifest.
+
+**VI**
+Thức quả và ý thức quả. Trong phạm vi thức quả, cần lấy cả ngũ thức lẫn ý thức quả. Ý thức quả gồm các tâm ngoài lộ là thức tái tục, thức hữu phần và thức tử. Nó cũng gồm các tâm trong lộ là tiếp thọ, suy đạc và thức quả đồng sở duyên.
+
+**EN**
+Resultant consciousness and resultant mind-consciousness. The scope of resultant consciousness includes both the five kinds of sense-consciousness and resultant mind-consciousness. Resultant mind-consciousness comprises the process-free consciousnesses of rebirth-linking, life-continuum and death. It also comprises the within-process consciousnesses of receiving, investigating and resultant registration.
+
+**VI**
+Ngũ thức, tiếp thọ, suy đạc và đồng sở duyên vô nhân đều có loại quả thiện và loại quả bất thiện. Đồng sở duyên đại quả chỉ là quả thiện. Ngũ thức, tiếp thọ, suy đạc và đồng sở duyên thuộc quả thiện hay bất thiện sinh theo trật tự của chuỗi tâm gọi là lộ, theo quy luật của tâm (cittaniyāma). Hãy quán theo trình tự tâm lộ ấy để trí thấy rõ mối liên hệ nhân quả, nhận diện nhân và quả, rồi quán minh sát.
+
+**EN**
+The five kinds of sense-consciousness, receiving, investigating and rootless registration each have wholesome-resultant and unwholesome-resultant varieties. Great resultant registration is only wholesome-resultant. The five kinds of sense-consciousness, receiving, investigating and registration that are wholesome or unwholesome results arise in the ordered sequence of consciousness called a process, according to the regularity of consciousness (cittaniyāma). Discern according to that sequence so that knowledge sees the causal relationship, discerns cause and effect, and develops insight.
+
+**VI**
+Khi quán theo lộ, các tâm duy tác như hướng ngũ môn, xác định và hướng ý môn, cùng các tâm tốc hành thiện hay bất thiện, cũng sinh trong cùng lộ với những thức quả ấy. Vì vậy, nếu quán minh sát cả các tâm thiện, bất thiện và duy tác ấy để không bỏ sót pháp chân đế nào sinh trong lộ tâm, thì không có lỗi.
+
+**EN**
+In discernment by process, functional consciousnesses such as five-door adverting, determining and mind-door adverting, together with wholesome and unwholesome impulsions, also occur within the same cognitive processes as those resultant consciousnesses. Thus it is blameless to include the wholesome, unwholesome and functional consciousnesses in insight discernment so that none of the ultimate phenomena arising in the process is omitted.
+
+**VI**
+Khi nhận diện các thức có liên hệ nhân quả với hành, chỉ lấy những thức quả đã nêu. Hãy quán cho trí thấy mối liên hệ nhân quả giữa hành và các thức quả trong cả sáu loạt, từ loạt cảnh sắc đến loạt cảnh pháp, theo các bảng đã trình bày trong phần đề mục thiền về danh…
+
+**EN**
+When discerning the consciousnesses causally related to formations, take only the resultant consciousnesses specified above. Discern with knowledge the causal relationship between formations and resultant consciousnesses in all six series, from the visible-object series to the mental-object series, following the tables in the section on the meditation subject of mentality…
+
+
+<a id="M06-body-P076"></a>
+## Mẫu quán thức quả ngoài lộ và trong lộ nhãn môn / Examples for discerning resultant consciousness outside a process and in the eye-door process
+Miến / Burmese 76
+
+**VI**
+… Hãy quán cho trí thấy rõ, nhận diện đầy đủ các pháp nhân và các pháp quả. Tuy vậy, trong số các thức quả là ngũ thức, tiếp thọ, suy đạc và đồng sở duyên, có những thức sinh do nghiệp có khả năng làm sinh thức tái tục, và có những thức không sinh do nghiệp ấy. Hãy lưu ý khi nhận diện. Trong từng loạt, hãy nhận diện đầy đủ các thức quả trong những lộ có tốc hành thiện và những lộ có tốc hành bất thiện. Ở đây chỉ trình bày vài mẫu ngắn để minh họa cách nhận diện nhân và quả.
+
+**EN**
+… Discern so that knowledge sees clearly, identifying the causal and resultant phenomena in full. However, among the resultant consciousnesses of the five senses, receiving, investigating and registration, some may arise due to the kamma capable of producing rebirth-linking consciousness and some may not. Bear this in mind when discerning. In each series, discern all resultant consciousnesses in processes with wholesome and with unwholesome impulsions. Here only a few short patterns are given to illustrate the way of discerning cause and effect.
+
+**VI**
+Các mẫu quán — tâm ngoài lộ.
+
+**EN**
+Examples of discernment — process-free consciousness.
+
+**VI**
+1. Do hành (= 34) sinh nên thức tái tục sinh. Hành (= 34) là pháp nhân, thức tái tục là pháp quả.
+2. Do hành (= 34) sinh nên thức hữu phần sinh. Hành (= 34) là pháp nhân, thức hữu phần là pháp quả.
+3. Do hành (= 34) sinh nên thức tử sinh. Hành (= 34) là pháp nhân, thức tử là pháp quả.
+
+**EN**
+1. Due to the arising of formations (= 34), rebirth-linking consciousness arises. Formations (= 34) are the cause and rebirth-linking consciousness is the effect.
+2. Due to the arising of formations (= 34), life-continuum consciousness arises. Formations (= 34) are the cause and life-continuum consciousness is the effect.
+3. Due to the arising of formations (= 34), death consciousness arises. Formations (= 34) are the cause and death consciousness is the effect.
+
+**VI**
+Các thức quả trong lộ nhãn môn.
+
+**EN**
+Resultant consciousnesses in the eye-door process.
+
+**VI**
+1. Do hành (= 34) sinh nên nhãn thức sinh. Hành (= 34) là pháp nhân, nhãn thức là pháp quả.
+2. Do hành (= 34) sinh nên thức tiếp thọ sinh. Hành (= 34) là pháp nhân, thức tiếp thọ là pháp quả.
+3. Do hành (= 34) sinh nên thức suy đạc sinh. Hành (= 34) là pháp nhân, thức suy đạc là pháp quả.
+
+**EN**
+1. Due to the arising of formations (= 34), eye-consciousness arises. Formations (= 34) are the cause and eye-consciousness is the effect.
+2. Due to the arising of formations (= 34), receiving consciousness arises. Formations (= 34) are the cause and receiving consciousness is the effect.
+3. Due to the arising of formations (= 34), investigating consciousness arises. Formations (= 34) are the cause and investigating consciousness is the effect.
+
+
+<a id="M06-body-P077"></a>
+## Thức quả trong sáu loạt và thức duyên danh sắc / Resultant consciousness in the six series, and consciousness conditioning mentality-materiality
+Miến / Burmese 77
+
+**VI**
+4. Do hành (= 34) sinh nên thức đồng sở duyên sinh. Hành (= 34) là pháp nhân, thức đồng sở duyên là pháp quả.
+
+**EN**
+4. Due to the arising of formations (= 34), registration consciousness arises. Formations (= 34) are the cause and registration consciousness is the effect.
+
+**VI**
+«Ghi chú. Khi quán đồng sở duyên, hãy quán hai lần trong lộ nhãn môn, và hai lần trong lộ ý môn cũng lấy chính cảnh sắc ấy làm cảnh. Trong lộ nhãn môn, như các bảng ở phần đề mục thiền về danh đã trình bày, hãy quán đầy đủ các thức quả trong từng hàng. Hãy quán đầy đủ các lộ có tốc hành thiện và các lộ có tốc hành bất thiện.
+
+**EN**
+«Note. When discerning registration, discern the two occurrences in the eye-door process and the two occurrences in the mind-door process that takes that same visible object. In the eye-door process, as shown in the tables in the section on the meditation subject of mentality, discern all resultant consciousnesses in every row. Discern all processes with wholesome impulsions and all processes with unwholesome impulsions.
+
+**VI**
+Trong loạt cảnh thinh, hãy quán nhĩ thức, tiếp thọ, suy đạc và thức quả đồng sở duyên. Trong loạt cảnh hương, quán tỷ thức, tiếp thọ, suy đạc và thức quả đồng sở duyên. Trong loạt cảnh vị, quán thiệt thức, tiếp thọ, suy đạc và thức quả đồng sở duyên. Trong loạt cảnh xúc, quán thân thức, tiếp thọ, suy đạc và thức quả đồng sở duyên. Trong loạt cảnh pháp, quán các thức quả đồng sở duyên. Hãy theo mẫu ấy mà nhận diện và quán đầy đủ.
+
+**EN**
+In the sound series, discern ear-consciousness, receiving, investigating and resultant registration. In the odour series, discern nose-consciousness, receiving, investigating and resultant registration. In the taste series, discern tongue-consciousness, receiving, investigating and resultant registration. In the tangible-object series, discern body-consciousness, receiving, investigating and resultant registration. In the mental-object series, discern the resultant registration consciousnesses. Following this pattern, discern them all.
+
+**VI**
+Khi đến phần quán minh sát, ở đầu chuỗi tâm lộ có các thức quả ấy, có thể quán chung hướng ngũ môn trong lộ ngũ môn, hướng ý môn trong lộ ý môn, cùng tâm xác định và các tốc hành ở giữa lộ. Làm như vậy để không bỏ sót các pháp chân đế thì không có lỗi.»
+
+**EN**
+At the insight stage, the five-door adverting at the beginning of a five-door process, the mind-door adverting at the beginning of a mind-door process, and the determining consciousness and impulsions in the middle of the processes containing those resultant consciousnesses may also be included. Including them so as not to omit any ultimate phenomena is blameless.»
+
+**VI**
+Viññāṇapaccayā nāmarūpaṃ — thức duyên danh sắc.
+
+**EN**
+Viññāṇapaccayā nāmarūpaṃ — with consciousness as condition, mentality-materiality.
+
+**VI**
+Yaṃ nāmarūpaṃ hetu viññāṇaṃ, taṃ vipākāvipākabhedato dvidhā mataṃ. (Chú giải Abhidhamma, quyển 2, tr. 163. Visuddhimagga, quyển 2, tr. 194.) Do thức sinh nên danh sắc sinh.
+
+**EN**
+Yaṃ nāmarūpaṃ hetu viññāṇaṃ, taṃ vipākāvipākabhedato dvidhā mataṃ. (Abhidhamma Commentary, vol. 2, p. 163. Visuddhimagga, vol. 2, p. 194.) Due to the arising of consciousness, mentality-materiality arises.
+
+
+<a id="M06-body-P078"></a>
+## Thức quả, thức phi quả và ba loại thức làm duyên / Resultant and non-resultant consciousness, and three kinds of conditioning consciousness
+Miến / Burmese 78
+
+**VI**
+Ở đây, thức là nguyên nhân của danh sắc có hai loại: (1) thức quả và (2) thức phi quả. Thức tái tục, hữu phần, tử, ngũ thức, tiếp thọ, suy đạc và đồng sở duyên là thức quả. Thức thiện, thức bất thiện và thức duy tác là thức phi quả. Thức thiện và thức bất thiện được gọi là thức tạo tác (abhisaṅkhāraviññāṇa), hoặc thức nghiệp (kammaviññāṇa), vì chúng tạo tác đời sống mới theo nhiều cách. (Chú giải Abhidhamma, quyển 2, tr. 163. Visuddhimagga, quyển 2, tr. 195. Mahāṭīkā, quyển 2, tr. 319.)
+
+**EN**
+Here consciousness as a cause of mentality-materiality is of two kinds: (1) resultant consciousness and (2) non-resultant consciousness. Rebirth-linking, life-continuum, death, the five kinds of sense-consciousness, receiving, investigating and registration are resultant consciousnesses. Wholesome, unwholesome and functional consciousnesses are non-resultant. Wholesome and unwholesome consciousness are called formative consciousness (abhisaṅkhāraviññāṇa), or kamma-consciousness (kammaviññāṇa), because they fashion new existence in various ways. (Abhidhamma Commentary, vol. 2, p. 163. Visuddhimagga, vol. 2, p. 195. Mahāṭīkā, vol. 2, p. 319.)
+
+**VI**
+Theo cách khác, các thức quả và thức phi quả được gọi là thức nghiệp, thức đồng sinh và thức hậu sinh. (Mūlaṭīkā, quyển 2, tr. 115.)
+
+**EN**
+In another classification, resultant and non-resultant consciousnesses are called kamma-consciousness, conascent consciousness and postnascent consciousness. (Mūlaṭīkā, vol. 2, p. 115.)
+
+**VI**
+Các thức thiện và bất thiện, gọi là phúc hành, phi phúc hành và bất động hành, đã được tạo tác và vun bồi trong những đời quá khứ thuộc luân hồi, gọi là thức nghiệp.
+
+**EN**
+The wholesome and unwholesome consciousnesses termed meritorious, demeritorious and imperturbable formations, generated and cultivated in past lives in saṃsāra, are called kamma-consciousness.
+
+**VI**
+Các thức thiện, bất thiện, quả và duy tác hiện khởi từ tái tục trong suốt một đời, có thể làm sinh danh pháp là tâm sở và sắc do tâm sinh, đồng thời sinh cùng danh sắc là quả của chúng, được gọi là thức đồng sinh vì nhân và quả cùng sinh một lúc. Trong số ấy, ngũ song thức là thức đồng sinh chỉ có thể làm sinh danh pháp là tâm sở, không thể làm sinh sắc do tâm sinh.
+
+**EN**
+The wholesome, unwholesome, resultant and functional consciousnesses arising from rebirth-linking throughout a life, capable of producing mentality as mental factors and consciousness-born materiality, and arising at the same time as the mentality-materiality that is their effect, are termed conascent consciousness because cause and effect arise simultaneously. Of these, the five pairs of sense-consciousness are conascent consciousnesses that can produce only mentality as mental factors and cannot produce consciousness-born materiality.
+
+**VI**
+Các thức thiện, bất thiện, quả và duy tác trợ cho các sắc pháp đã sinh cùng những tâm trước đó, nâng đỡ chúng tiếp tục tồn tại vững chắc cho đến hết tuổi thọ bằng năng lực hậu sinh duyên (pacchājātapaccaya)…
+
+**EN**
+The wholesome, unwholesome, resultant and functional consciousnesses that support the material phenomena that arose together with earlier consciousnesses, sustaining them firmly until the end of their life span by the power of postnascence condition (pacchājātapaccaya)…
+
+
+<a id="M06-body-P079"></a>
+## Thức nghiệp là thức tạo tác / Kamma-consciousness is formative consciousness
+Miến / Burmese 79
+
+**VI**
+… được gọi là thức hậu sinh. Thức nghiệp và thức hậu sinh cũng gọi là thức không đồng sinh, vì nhân và quả không sinh đồng thời. Mẫu quán thức nghiệp nối với phần về hành, nên được trình bày trước.
+
+**EN**
+… are called postnascent consciousness. Kamma-consciousness and postnascent consciousness are also called non-conascent consciousness because their causes and effects do not arise simultaneously. Since the example for discerning kamma-consciousness follows on from the section on formations, it is presented first.
+
+**VI**
+Thức nghiệp là thức tạo tác. Thức thiện hoặc bất thiện tương ưng với hành nghiệp đã được tạo tác và vun bồi trong đời quá khứ gọi là thức nghiệp. Đặc biệt, tâm thức thuộc nhóm hành làm nhân gồm 34 danh pháp, như đã trình bày ở mục “hành duyên thức”, cũng gọi là thức nghiệp, tức thức tạo tác. Ở phần này, hãy ưu tiên quán thức nghiệp, tức thức tạo tác.
+
+**EN**
+Kamma-consciousness is formative consciousness. Wholesome or unwholesome consciousness associated with formative kamma generated and cultivated in a past life is called kamma-consciousness. In particular, the consciousness included in the causal group of thirty-four mental phenomena of formations shown above under “formations condition consciousness” is also called kamma-consciousness, or formative consciousness. In this section give priority to discerning kamma-consciousness, that is, formative consciousness.
+
+**VI**
+Thức thiện hoặc bất thiện cùng sinh và tương ưng trong một sát-na tâm với hành nghiệp hiện tại đang được tạo tác, vun bồi nhằm một đời sống vị lai, cũng là thức nghiệp, tức thức tạo tác.
+
+**EN**
+Wholesome or unwholesome consciousness arising together and associated in one consciousness moment with present formative kamma being generated and cultivated with a future life in view is also kamma-consciousness, or formative consciousness.
+
+**VI**
+Có thể quán bằng trí trực chứng để nhận diện nhân và quả, rồi quán minh sát, theo cả hai trường hợp: (1) thức nghiệp quá khứ làm sinh danh sắc quả tái tục hiện tại, tức tâm quả, tâm sở và sắc do nghiệp sinh; (2) thức nghiệp hiện tại làm sinh danh sắc quả tái tục trong vị lai, được gọi là sinh, tức tâm quả, tâm sở và sắc do nghiệp sinh. Tuy vậy, phần này dạy quán cho trí trực chứng thấy danh sắc quả hiện tại sinh do thức nghiệp quá khứ.
+
+**EN**
+One can discern cause and effect with direct knowledge and develop insight in both cases: (1) past kamma-consciousness produces present resultant rebirth-linking mentality-materiality, namely resultant consciousness, mental factors and kamma-born materiality; (2) present kamma-consciousness produces future resultant rebirth-linking mentality-materiality, called birth, namely resultant consciousness, mental factors and kamma-born materiality. This section, however, teaches discernment with direct knowledge of present resultant mentality-materiality arising due to past kamma-consciousness.
+
+
+<a id="M06-body-P080"></a>
+## Danh sắc quả và mẫu quán ngoài lộ / Resultant mentality-materiality and process-free examples
+Miến / Burmese 80
+
+**VI**
+Danh và sắc. Khi phía nhân chỉ lấy thức nghiệp làm thức như trên, ở phía quả, danh trong danh sắc quả gồm nhóm tâm sở và cả thức quả tương ứng. Điều này là vì ở phía thức làm nhân chỉ lấy thức nghiệp quá khứ, và vì thức quả ấy hiện khởi do chính thức nghiệp quá khứ ấy.
+
+**EN**
+Mentality and materiality. When only kamma-consciousness is taken as consciousness on the causal side, as above, on the resultant side the mentality in resultant mentality-materiality includes both the group of mental factors and the corresponding resultant consciousness. This is because only past kamma-consciousness is taken as causal consciousness, and because that resultant consciousness manifests due to that very past kamma-consciousness.
+
+**VI**
+Còn về sắc, trực tiếp lấy riêng sắc do nghiệp sinh. Tuy nhiên, vì các sắc ấy không thể tách rời theo cách giải avinābhāva, nếu khi quán sắc do nghiệp sinh mà quán minh sát cả các sắc do tâm, thời tiết và vật thực sinh có thể thấy cùng với nó, thì không có lỗi. Riêng khi nhận diện nhân và quả, chỉ nhận diện mối liên hệ nhân quả với sắc do nghiệp sinh. Theo lời giải thích ấy, cách quán như sau.
+
+**EN**
+As for materiality, take directly only kamma-born materiality. Yet since these kinds of materiality are inseparable in terms of avinābhāva, there is no fault in discerning with insight also the consciousness-born, temperature-born and nutriment-born materiality seen along with kamma-born materiality. When discerning cause and effect specifically, discern only the causal relationship with kamma-born materiality. According to this explanation the way of discerning is as follows.
+
+**VI**
+Một số mẫu quán.
+
+**EN**
+Some examples of discernment.
+
+**VI**
+1. Do thức nghiệp quá khứ sinh nên danh sắc tái tục sinh. Thức nghiệp quá khứ là pháp nhân, danh sắc tái tục là pháp quả.
+2. Do thức nghiệp quá khứ sinh nên danh sắc hữu phần sinh. Thức nghiệp quá khứ là pháp nhân, danh sắc hữu phần là pháp quả.
+3. Do thức nghiệp quá khứ sinh nên danh sắc tử sinh. Thức nghiệp quá khứ là pháp nhân, danh sắc tử là pháp quả.
+
+**EN**
+1. Due to the arising of past kamma-consciousness, rebirth-linking mentality-materiality arises. Past kamma-consciousness is the cause and rebirth-linking mentality-materiality is the effect.
+2. Due to the arising of past kamma-consciousness, life-continuum mentality-materiality arises. Past kamma-consciousness is the cause and life-continuum mentality-materiality is the effect.
+3. Due to the arising of past kamma-consciousness, death mentality-materiality arises. Past kamma-consciousness is the cause and death mentality-materiality is the effect.
+
+
+<a id="M06-body-P081"></a>
+## Danh sắc quả trong lộ nhãn môn / Resultant mentality-materiality in the eye-door process
+Miến / Burmese 81
+
+**VI**
+1. Do thức nghiệp quá khứ sinh nên danh sắc nhãn thức sinh. Thức nghiệp quá khứ là pháp nhân, danh sắc nhãn thức là pháp quả.
+2. Do thức nghiệp quá khứ sinh nên danh sắc tiếp thọ sinh. Thức nghiệp quá khứ là pháp nhân, danh sắc tiếp thọ là pháp quả.
+3. Do thức nghiệp quá khứ sinh nên danh sắc suy đạc sinh. Thức nghiệp quá khứ là pháp nhân, danh sắc suy đạc là pháp quả.
+4. Do thức nghiệp quá khứ sinh nên danh sắc đồng sở duyên sinh. Thức nghiệp quá khứ là pháp nhân, danh sắc đồng sở duyên là pháp quả.
+
+**EN**
+1. Due to the arising of past kamma-consciousness, eye-consciousness mentality-materiality arises. Past kamma-consciousness is the cause and eye-consciousness mentality-materiality is the effect.
+2. Due to the arising of past kamma-consciousness, receiving mentality-materiality arises. Past kamma-consciousness is the cause and receiving mentality-materiality is the effect.
+3. Due to the arising of past kamma-consciousness, investigating mentality-materiality arises. Past kamma-consciousness is the cause and investigating mentality-materiality is the effect.
+4. Due to the arising of past kamma-consciousness, registration mentality-materiality arises. Past kamma-consciousness is the cause and registration mentality-materiality is the effect.
+
+**VI**
+«Ghi chú. Hãy theo mẫu ấy mà quán cách danh sắc quả sinh trong nhĩ thức, tiếp thọ, suy đạc, đồng sở duyên và các trường hợp còn lại. Khi quán minh sát, quán chung tâm hướng môn, tâm xác định và các tốc hành thì không có lỗi. Riêng khi nhận diện nhân và quả, hãy quán để trí thấy rõ mối liên hệ giữa thức nghiệp quá khứ và danh sắc quả. Hãy quán đầy đủ cả sáu loạt. Trong từng loạt, hãy quán đầy đủ danh sắc quả có trong từng hàng.»
+
+**EN**
+«Note. Follow the pattern to discern the arising of resultant mentality-materiality in ear-consciousness, receiving, investigating, registration and the remaining cases. When developing insight, it is blameless to include adverting, determining and impulsions. When discerning cause and effect specifically, discern so that knowledge clearly sees the causal relationship between past kamma-consciousness and resultant mentality-materiality. Discern all six series in full. In each series discern all resultant mentality-materiality in every row.»
+
+**VI**
+Hành và nghiệp hữu là nghiệp.
+
+**EN**
+Formations and kamma-becoming are kamma.
+
+**VI**
+Như đã giải thích trong phần Duyên khởi theo phương pháp thứ năm, khi nhận diện nhân và quả, danh pháp quả và sắc do nghiệp sinh sinh do năng lực nghiệp của hành đã được tạo tác và vun bồi trong sự bao bọc của vô minh, ái và thủ. Năng lực ấy là năng lực nghiệp khác sát-na (nānakkhaṇikakamma)…
+
+**EN**
+As explained in the section on the fifth method of dependent origination, when discerning cause and effect, resultant mental phenomena and kamma-born materiality arise due to the kammic power of formations generated and cultivated while surrounded by ignorance, craving and clinging. That power is the power of kamma of a different moment (nānakkhaṇikakamma)…
+
+
+<a id="M06-body-P082"></a>
+## Hành tích lũy và nghiệp hữu / Accumulating formations and kamma-becoming
+Miến / Burmese 82
+
+**VI**
+… Hãy quán cho trí thấy cách sắc do nghiệp sinh và danh pháp quả sinh khởi, rồi nhận diện các pháp nhân và các pháp quả. Khi quán minh sát, không thể đặt chính năng lực nghiệp ấy dưới ba đặc tướng để quán. Vì vậy, cần lưu ý riêng hành và nghiệp hữu, tức nghiệp, là những pháp có thể quán minh sát.
+
+**EN**
+… Discern with knowledge how kamma-born materiality and resultant mental phenomena arise, and discern the causes and effects. In developing insight, the kammic power itself cannot be subjected to the three characteristics for discernment. Thus give particular attention to formations and kamma-becoming, that is, kamma, which can be discerned with insight.
+
+**VI**
+Āyūhanā saṅkhārāti taṃ kammaṃ karoto purimacetanāyo. Yathā “dānaṃ dassāmī”ti cittaṃ uppādetvā māsampi saṃvaccharampi dānūpakaraṇāni sajjentassa uppannā purimacetanāyo. Paṭiggāhakānaṃ pana hatthe dakkhiṇaṃ patiṭṭhāpayato cetanā bhavoti vuccati. Ekāvajjanesu vā chasu javanesu cetanā āyūhanasaṅkhārā nāma, sattamā cetanā bhavo. Yā kāci vā pana cetanā bhavo, taṃsampayuttā āyūhanasaṅkhārā nāma. (Chú giải Abhidhamma, quyển 2, tr. 182–183.)
+
+**EN**
+Āyūhanā saṅkhārāti taṃ kammaṃ karoto purimacetanāyo. Yathā “dānaṃ dassāmī”ti cittaṃ uppādetvā māsampi saṃvaccharampi dānūpakaraṇāni sajjentassa uppannā purimacetanāyo. Paṭiggāhakānaṃ pana hatthe dakkhiṇaṃ patiṭṭhāpayato cetanā bhavoti vuccati. Ekāvajjanesu vā chasu javanesu cetanā āyūhanasaṅkhārā nāma, sattamā cetanā bhavo. Yā kāci vā pana cetanā bhavo, taṃsampayuttā āyūhanasaṅkhārā nāma. (Abhidhamma Commentary, vol. 2, pp. 182–183.)
+
+**VI**
+1. Hành tích lũy là những tư trước (purimacetanā, cũng gọi là pubbacetanā), sinh trong khi đang tạo tác và vun bồi nghiệp ấy, trước khi làm xong nghiệp. Ví dụ, một người khởi tâm “Ta sẽ bố thí”, rồi trong một tháng hay một năm chuẩn bị vật thí và các phương tiện cho việc bố thí. Các tư sinh trong dòng tương tục của người ấy khi chuẩn bị gọi là tư trước. Tư khi đặt vật thí vào tay người nhận gọi là nghiệp hữu.
+
+**EN**
+1. Accumulating formations are the prior volitions (purimacetanā, also called pubbacetanā) that arise while one is generating and cultivating that kamma before the deed is complete. For example, one forms the intention “I will give a gift” and spends a month or a year preparing the gift and the requisites for giving. The volitions arising in that person’s continuity during preparation are called prior volitions. The volition when placing the gift in the recipient’s hand is called kamma-becoming.
+
+**VI**
+2. Theo một cách khác, trong khi tạo tác và vun bồi một việc tốt hay xấu, nhiều lộ tốc hành thiện hoặc bất thiện sinh khởi. Mỗi lộ tốc hành có một tâm hướng môn. Trong bảy tốc hành của mỗi lộ có một tâm hướng môn ấy…
+
+**EN**
+2. Alternatively, while generating and cultivating a good or bad deed, many wholesome or unwholesome impulsion processes occur. Each impulsion process includes one adverting consciousness. Among the seven impulsions in each of those processes with one adverting consciousness…
+
+
+<a id="M06-body-P083"></a>
+## Phân biệt hành và nghiệp hữu. Mẫu quán thức đồng sinh / Distinguishing formations and kamma-becoming. Examples of conascent consciousness
+Miến / Burmese 83
+
+**VI**
+… tư tương ưng với sáu tốc hành đầu gọi là hành. Tư tương ưng với tốc hành thứ bảy gọi là nghiệp hữu.
+
+**EN**
+… volition associated with the first six impulsions is called formation. Volition associated with the seventh impulsion is called kamma-becoming.
+
+**VI**
+3. Theo một cách khác, trong mỗi sát-na tốc hành, các pháp tương ưng là tâm và tâm sở đi cùng tư thiện hoặc tư bất thiện gọi là hành. Mọi tư thiện hoặc tư bất thiện gọi là nghiệp hữu.
+
+**EN**
+3. Alternatively, in each impulsion moment the associated phenomena, consciousness and mental factors accompanying wholesome or unwholesome volition, are called formations. Any wholesome or unwholesome volition is called kamma-becoming.
+
+**VI**
+Theo các cách phân biệt ấy, hãy quán minh sát đầy đủ từng pháp chân đế trong mỗi sát-na của lộ ý môn do vô minh, ái và thủ dẫn đầu, và của lộ ý môn gồm hành và nghiệp. Khi quán được như vậy thì cả hành và nghiệp hữu đều đã được quán minh sát. Vì vậy hãy đặt hành và nghiệp hữu, tức nghiệp, dưới ba đặc tướng theo các cách phân biệt này.
+
+**EN**
+According to these distinctions, discern fully with insight every ultimate phenomenon in each moment of the mind-door processes headed by ignorance, craving and clinging and those comprising formations and kamma. When discerned in this way, both formations and kamma-becoming have been discerned with insight. Thus subject formations and kamma-becoming, that is, kamma, to the three characteristics according to these distinctions.
+
+**VI**
+Hãy nhớ rằng không thể lấy riêng sức nghiệp gọi là năng lực nghiệp khác sát-na, được trình bày trong phần nghiệp duyên, để quán minh sát. Hành và nghiệp hữu vừa nêu là gốc của năng lực ấy và có thể được quán minh sát.
+
+**EN**
+Remember that kammic power itself, called the power of kamma of a different moment and treated under kamma condition, cannot be discerned with insight. The formations and kamma-becoming just described are the source of that power and can be discerned with insight.
+
+**VI**
+Danh sắc đồng sinh sinh do thức đồng sinh.
+
+**EN**
+Conascent mentality-materiality arising due to conascent consciousness.
+
+**VI**
+1. Do thức tái tục sinh nên danh sắc tái tục sinh. Thức tái tục là nhân, danh sắc tái tục là quả. Danh là 33 tâm sở tương ưng với thức tái tục. Sắc là 30 sắc do nghiệp sinh.
+
+**EN**
+1. Due to the arising of rebirth-linking consciousness, rebirth-linking mentality-materiality arises. Rebirth-linking consciousness is the cause and rebirth-linking mentality-materiality is the effect. Mentality is the thirty-three mental factors associated with rebirth-linking consciousness. Materiality is the thirty kamma-born material phenomena.
+
+**VI**
+2. Do thức hữu phần sinh nên danh sắc hữu phần sinh. Thức hữu phần là nhân, danh sắc hữu phần là quả.
+
+**EN**
+2. Due to the arising of life-continuum consciousness, life-continuum mentality-materiality arises. Life-continuum consciousness is the cause and life-continuum mentality-materiality is the effect.
+
+
+<a id="M06-body-P084"></a>
+## Cách lấy danh sắc đồng sinh và thức trong lộ / How to take conascent mentality-materiality and consciousness within a process
+Miến / Burmese 84
+
+**VI**
+«Ghi chú. Về danh, chỉ lấy danh pháp là các tâm sở cùng sinh và tương ưng với thức hữu phần tương ứng trong một sát-na tâm. Về sắc, lấy sắc do tâm sinh mà thức hữu phần ấy làm sinh làm đối tượng chính. Hãy quán như thế. Khi đến phần minh sát, quán cả sắc do nghiệp, thời tiết và vật thực sinh đang hiện khởi hoặc đang trụ đồng thời với sắc do tâm sinh ấy thì không có lỗi. Khi nhận diện nhân quả, hãy quán để trí thấy mối liên hệ giữa thức tương ứng và sắc do tâm sinh, rồi nhận diện nhân và quả. Đối với các tâm trong lộ cũng hiểu tương tự.
+
+**EN**
+«Note. For mentality, take only the mental factors arising together and associated with the relevant life-continuum consciousness in one consciousness moment. For materiality, take as primary the consciousness-born materiality produced by that life-continuum consciousness. Discern in this way. At the insight stage, it is blameless to include kamma-born, temperature-born and nutriment-born materiality arising or persisting simultaneously with that consciousness-born materiality. In discerning cause and effect, see the causal connection between the relevant consciousness and consciousness-born materiality, and discern the causes and effects. Understand similarly for consciousnesses within a process.
+
+**VI**
+Trong các tâm trong lộ, nói thức quả là chỉ ngũ thức, tiếp thọ, suy đạc và thức quả đồng sở duyên. Khi nói thức đồng sinh, ngoài các thức quả còn bao gồm hướng ngũ môn, xác định, tốc hành và hướng ý môn, tức thức duy tác và thức tốc hành tương ứng.
+
+**EN**
+Among consciousnesses within a process, resultant consciousness means only the five kinds of sense-consciousness, receiving, investigating and resultant registration. Conascent consciousness includes not only resultant consciousness but also five-door adverting, determining, impulsion and mind-door adverting, that is, the corresponding functional and impulsion consciousnesses.
+
+**VI**
+Trong các chi Duyên khởi, thức, danh sắc, sáu xứ, xúc và thọ chỉ là pháp quả theo cách thuyết của Kinh. (Mahāṭīkā, quyển 2, tr. 323.) Tuy vậy, trong các pháp quả ấy, ngũ thức, tiếp thọ và suy đạc không thể sinh nếu thiếu hướng ngũ môn, và đồng sở duyên không thể sinh nếu thiếu tốc hành. Vì vậy, để không bỏ sót pháp chân đế nào, có thể quán chung hướng ngũ môn, xác định, tốc hành và hướng ý môn, kể cả khi nhận diện nhân và quả. Nếu hiểu rằng các tâm ấy không thuộc vòng quả thì quán chung như vậy không có lỗi. Riêng về việc tâm tử có làm sinh sắc do tâm sinh hay không, các bộ luận có những lời giải khác nhau.»
+
+**EN**
+Among the factors of dependent origination, consciousness, mentality-materiality, the six bases, contact and feeling are only resultant phenomena according to the discourse method. (Mahāṭīkā, vol. 2, p. 323.) Yet among these results, the five kinds of sense-consciousness, receiving and investigating cannot arise without five-door adverting, and registration cannot arise without impulsion. Therefore, to omit no ultimate phenomenon, it is possible to include five-door adverting, determining, impulsion and mind-door adverting, even when discerning cause and effect. There is no fault if one understands that those consciousnesses are not part of the round of results. As to whether death consciousness produces consciousness-born materiality, the treatises offer differing accounts.»
+
+
+<a id="M06-body-P085"></a>
+## Thức tử, hướng ngũ môn và ngũ thức / Death consciousness, five-door adverting and sense-consciousness
+Miến / Burmese 85
+
+**VI**
+3. Do thức tử sinh nên danh tử (+ sắc) sinh. Thức tử là nhân, danh tử (+ sắc) là quả.
+
+**EN**
+3. Due to the arising of death consciousness, death mentality (+ materiality) arises. Death consciousness is the cause and death mentality (+ materiality) is the effect.
+
+**VI**
+• Do thức hướng ngũ môn sinh nên danh + sắc của hướng ngũ môn sinh. Thức hướng ngũ môn là nhân, danh + sắc của hướng ngũ môn là quả.
+
+**EN**
+• Due to the arising of five-door adverting consciousness, five-door adverting mentality + materiality arises. Five-door adverting consciousness is the cause and five-door adverting mentality + materiality is the effect.
+
+**VI**
+4. Do nhãn thức sinh nên danh của nhãn thức sinh. Nhãn thức là nhân, danh của nhãn thức là quả. Danh là bảy tâm sở tương ưng. Theo cách khác, do nhãn thức sinh nên danh + sắc ở nhãn thức sinh. Nhãn thức là nhân, danh + sắc ở nhãn thức là quả.
+
+**EN**
+4. Due to the arising of eye-consciousness, its mentality arises. Eye-consciousness is the cause and eye-consciousness mentality is the effect. Mentality consists of the seven associated mental factors. Alternatively, due to the arising of eye-consciousness, mentality + materiality at eye-consciousness arises. Eye-consciousness is the cause and mentality + materiality at eye-consciousness is the effect.
+
+**VI**
+«Hãy quán tương tự với nhĩ thức, tỷ thức, thiệt thức và thân thức. Danh là bảy tâm sở tương ưng. Về sắc, vì ngũ thức như nhãn thức không làm sinh sắc do tâm sinh, hãy lấy sắc do nghiệp sinh đang có mặt vào sát-na nhãn thức hay ngũ thức tương ứng làm sắc. Hãy lấy sắc do nghiệp sinh ấy làm cảnh chính khi quán. Khi quán minh sát, quán cả sắc do nghiệp, thời tiết và vật thực sinh đang sinh vào lúc ấy, và sắc do những tâm trước làm sinh đang ở giai đoạn trụ, cũng không có lỗi. Hãy hiểu tương tự trong mỗi trường hợp.»
+
+**EN**
+«Discern in the same way with ear-, nose-, tongue- and body-consciousness. Mentality consists of the seven associated mental factors. As to materiality, because the five kinds of sense-consciousness such as eye-consciousness do not produce consciousness-born materiality, take the kamma-born materiality present at the moment of eye-consciousness or the relevant sense-consciousness as materiality. Take that kamma-born materiality as the primary object of discernment. In insight discernment there is no fault in including kamma-born, temperature-born and nutriment-born materiality then arising and consciousness-born materiality produced by preceding consciousnesses and then at the stage of presence. Understand the same in each case.»
+
+**VI**
+5. Do thức tiếp thọ sinh nên danh + sắc của tiếp thọ sinh…
+
+**EN**
+5. Due to the arising of receiving consciousness, receiving mentality + materiality arises…
+
+
+<a id="M06-body-P086"></a>
+## Danh sắc của các tâm tiếp thọ đến đồng sở duyên / Mentality-materiality of receiving through registration
+Miến / Burmese 86
+
+**VI**
+… Thức tiếp thọ là nhân, danh + sắc của tiếp thọ là quả.
+
+**EN**
+… Receiving consciousness is the cause and receiving mentality + materiality is the effect.
+
+**VI**
+«Danh là mười tâm sở tương ưng với tâm tiếp thọ. Sắc là sắc do tâm tiếp thọ sinh. Khi đến phần minh sát, quán chung cả sắc do nghiệp, thời tiết và vật thực sinh hiện khởi trong ba tiểu sát-na của tâm tiếp thọ thì không có lỗi. Với những tâm lộ kế tiếp, như suy đạc, hãy lấy các danh pháp tâm sở tương ưng tùy trường hợp. Về cách lấy sắc, hãy hiểu tương tự.»
+
+**EN**
+«Mentality consists of the ten mental factors associated with receiving consciousness. Materiality is the consciousness-born materiality produced by receiving. At the insight stage, it is blameless to include kamma-born, temperature-born and nutriment-born materiality arising in the three submoments of receiving consciousness. In later consciousnesses in the process, such as investigating, take the associated mental factors as mentality as appropriate. Understand the way of taking materiality similarly.»
+
+**VI**
+6. Do thức suy đạc sinh nên danh + sắc của suy đạc sinh. Thức suy đạc là nhân, danh + sắc của suy đạc là quả.
+
+**EN**
+6. Due to the arising of investigating consciousness, investigating mentality + materiality arises. Investigating consciousness is the cause and investigating mentality + materiality is the effect.
+
+**VI**
+• Do thức xác định sinh nên danh + sắc của xác định sinh. Thức xác định là nhân, danh + sắc của xác định là quả.
+
+**EN**
+• Due to the arising of determining consciousness, determining mentality + materiality arises. Determining consciousness is the cause and determining mentality + materiality is the effect.
+
+**VI**
+• Do thức tốc hành sinh nên danh + sắc của tốc hành sinh. Thức tốc hành là nhân, danh + sắc của tốc hành là quả.
+
+**EN**
+• Due to the arising of impulsion consciousness, impulsion mentality + materiality arises. Impulsion consciousness is the cause and impulsion mentality + materiality is the effect.
+
+**VI**
+7. Do thức đồng sở duyên sinh nên danh + sắc của đồng sở duyên sinh. Thức đồng sở duyên là nhân, danh + sắc của đồng sở duyên là quả.
+
+**EN**
+7. Due to the arising of registration consciousness, registration mentality + materiality arises. Registration consciousness is the cause and registration mentality + materiality is the effect.
+
+**VI**
+• Do thức hướng ý môn sinh nên danh + sắc của hướng ý môn sinh. Thức hướng ý môn là nhân, danh + sắc của hướng ý môn là quả.
+
+**EN**
+• Due to the arising of mind-door adverting consciousness, mind-door adverting mentality + materiality arises. Mind-door adverting consciousness is the cause and mind-door adverting mentality + materiality is the effect.
+
+
+<a id="M06-body-P087"></a>
+## Dẫn chứng và năm trường hợp danh sắc duyên sáu xứ / Supporting passages and five cases of mentality-materiality conditioning the six bases
+Miến / Burmese 87
+
+**VI**
+Hãy hiểu tương tự với tốc hành và đồng sở duyên. Hãy nhận diện và quán đầy đủ trong mỗi sát-na tâm như đã trình bày trong các bảng ở phần đề mục thiền về danh. Các lời dạy trong kinh luận làm căn cứ cho những mẫu quán này như sau:
+
+**EN**
+Understand similarly for impulsion and registration. Discern each consciousness moment in full as presented in the tables in the section on the meditation subject of mentality. The passages in the texts supporting these patterns of discernment are as follows:
+
+**VI**
+Nāmarūpassa yaṃ hetu, viññāṇaṃ taṃ dvidhā mataṃ.
+Vipākamavipākañca, yuttameva yato idaṃ. (Chú giải Abhidhamma, quyển 2, tr. 163.)
+
+**EN**
+Nāmarūpassa yaṃ hetu, viññāṇaṃ taṃ dvidhā mataṃ.
+Vipākamavipākañca, yuttameva yato idaṃ. (Abhidhamma Commentary, vol. 2, p. 163.)
+
+**VI**
+Sahajātaviññāṇapaccayā nāmarūpaṃ, kammaviññāṇapaccayā ca nāmarūpaṃ yathāsambhavaṃ yojetabbaṃ. (Mūlaṭīkā, quyển 2, tr. 115.)
+
+**EN**
+Sahajātaviññāṇapaccayā nāmarūpaṃ, kammaviññāṇapaccayā ca nāmarūpaṃ yathāsambhavaṃ yojetabbaṃ. (Mūlaṭīkā, vol. 2, p. 115.)
+
+**VI**
+Kammaviññāṇapaccayā vipākacittappavattikāle vipākanāmañca kammasamuṭṭhānarūpañca vasena. Sahajātaviññāṇapaccayā pana itaracittappavattikālepi vipāke vipākanāmavasena, cittasamuṭṭhānarūpavasena ca nāmarūpassa sambhavo dassetabboti āha “sahajāta, pe, yojetabban”ti. (Anuṭīkā, quyển 2, tr. 128.)
+
+**EN**
+Kammaviññāṇapaccayā vipākacittappavattikāle vipākanāmañca kammasamuṭṭhānarūpañca vasena. Sahajātaviññāṇapaccayā pana itaracittappavattikālepi vipāke vipākanāmavasena, cittasamuṭṭhānarūpavasena ca nāmarūpassa sambhavo dassetabboti āha “sahajāta, pe, yojetabban”ti. (Anuṭīkā, vol. 2, p. 128.)
+
+**VI**
+Nāmarūpapaccayā saḷāyatanaṃ — do danh sắc sinh nên sáu xứ sinh.
+
+**EN**
+Nāmarūpapaccayā saḷāyatanaṃ — due to the arising of mentality-materiality, the six bases arise.
+
+**VI**
+Phần này có năm trường hợp: (a) danh sinh làm ý xứ sinh, (b) danh sinh làm sắc xứ sinh, (c) sắc sinh làm sắc xứ sinh, (d) sắc sinh làm ý xứ sinh, và (e) danh và sắc sinh làm ý xứ sinh.
+
+**EN**
+This section has five cases: (a) the arising of mentality gives rise to the mind base, (b) the arising of mentality gives rise to the material bases, (c) the arising of materiality gives rise to the material bases, (d) the arising of materiality gives rise to the mind base, and (e) the arising of mentality and materiality gives rise to the mind base.
+
+
+<a id="M06-body-P088"></a>
+## Danh trợ duyên cho ý xứ / How mentality conditions the mind base
+Miến / Burmese 88
+
+**VI**
+(a) Danh trợ cho ý xứ như thế nào. Do danh sinh nên ý xứ sinh.
+
+**EN**
+(a) How mentality supports the mind base. Due to the arising of mentality, the mind base arises.
+
+**VI**
+Ở đây, về danh, chỉ lấy danh pháp là các tâm sở tương ưng với ý xứ thích hợp. Đây là phần nói cách danh pháp là tâm sở trợ cho tâm tương ưng với chúng, tức ý xứ.
+
+**EN**
+Here, for mentality take only the mental factors associated with the relevant mind base. This section concerns how mentality in the form of mental factors supports its associated consciousness, the mind base.
+
+**VI**
+1. Do danh pháp tái tục (= 33) sinh nên ý xứ tái tục sinh. Danh pháp tái tục (= 33) là nhân, ý xứ tái tục là quả.
+
+**EN**
+1. Due to the arising of rebirth-linking mentality (= 33), rebirth-linking mind base arises. Rebirth-linking mentality (= 33) is the cause and rebirth-linking mind base is the effect.
+
+**VI**
+2. Do danh pháp hữu phần (= 33) sinh nên ý xứ hữu phần sinh. Danh pháp hữu phần (= 33) là nhân, ý xứ hữu phần là quả.
+
+**EN**
+2. Due to the arising of life-continuum mentality (= 33), life-continuum mind base arises. Life-continuum mentality (= 33) is the cause and life-continuum mind base is the effect.
+
+**VI**
+3. Do danh pháp tử (= 33) sinh nên ý xứ lúc tử sinh. Danh pháp tử (= 33) là nhân, ý xứ lúc tử là quả.
+
+**EN**
+3. Due to the arising of death mentality (= 33), death mind base arises. Death mentality (= 33) is the cause and death mind base is the effect.
+
+**VI**
+«Ở đây lấy tái tục, hữu phần và tử tam nhân làm mẫu để trình bày.»
+
+**EN**
+«Here three-rooted rebirth-linking, life-continuum and death are presented as examples.»
+
+**VI**
+• Do danh pháp hướng ngũ môn (= 10) sinh nên ý xứ hướng ngũ môn sinh. Danh pháp hướng ngũ môn (= 10) là nhân, ý xứ hướng ngũ môn là quả.
+
+**EN**
+• Due to the arising of five-door adverting mentality (= 10), five-door adverting mind base arises. Five-door adverting mentality (= 10) is the cause and five-door adverting mind base is the effect.
+
+**VI**
+4. Do danh pháp của nhãn thức (= 7) sinh nên ý xứ nhãn thức sinh. Danh pháp của nhãn thức (= 7) là nhân, còn ý xứ nhãn thức…
+
+**EN**
+4. Due to the arising of eye-consciousness mentality (= 7), the eye-consciousness mind base arises. Eye-consciousness mentality (= 7) is the cause, and the eye-consciousness mind base…
+
+
+<a id="M06-body-P089"></a>
+## Ý xứ từ tiếp thọ đến hướng ý môn / The mind base from receiving to mind-door adverting
+Miến / Burmese 89
+
+**VI**
+… là quả.
+
+**EN**
+… is the effect.
+
+**VI**
+5. Do danh pháp tiếp thọ (= 10) sinh nên ý xứ tiếp thọ sinh. Danh pháp tiếp thọ (= 10) là nhân, ý xứ tiếp thọ là quả.
+
+**EN**
+5. Due to the arising of receiving mentality (= 10), receiving mind base arises. Receiving mentality (= 10) is the cause and receiving mind base is the effect.
+
+**VI**
+6. Do danh pháp suy đạc (= 11) sinh nên ý xứ suy đạc sinh. Danh pháp suy đạc (= 11) là nhân, ý xứ suy đạc là quả.
+
+**EN**
+6. Due to the arising of investigating mentality (= 11), investigating mind base arises. Investigating mentality (= 11) is the cause and investigating mind base is the effect.
+
+**VI**
+• Do danh pháp xác định (= 11) sinh nên ý xứ xác định sinh. Danh pháp xác định (= 11) là nhân, ý xứ xác định là quả.
+
+**EN**
+• Due to the arising of determining mentality (= 11), determining mind base arises. Determining mentality (= 11) is the cause and determining mind base is the effect.
+
+**VI**
+• Do danh pháp tốc hành (= ) sinh nên ý xứ tốc hành sinh. Danh pháp tốc hành (= ) là nhân, ý xứ tốc hành là quả.
+
+**EN**
+• Due to the arising of impulsion mentality (= ), impulsion mind base arises. Impulsion mentality (= ) is the cause and impulsion mind base is the effect.
+
+**VI**
+7. Do danh pháp đồng sở duyên (= ) sinh nên ý xứ đồng sở duyên sinh. Danh pháp đồng sở duyên (= ) là nhân, ý xứ đồng sở duyên là quả.
+
+**EN**
+7. Due to the arising of registration mentality (= ), registration mind base arises. Registration mentality (= ) is the cause and registration mind base is the effect.
+
+**VI**
+• Do danh pháp hướng ý môn (= 11) sinh nên ý xứ hướng ý môn sinh. Danh pháp hướng ý môn (= 11) là nhân, ý xứ hướng ý môn là quả.
+
+**EN**
+• Due to the arising of mind-door adverting mentality (= 11), mind-door adverting mind base arises. Mind-door adverting mentality (= 11) is the cause and mind-door adverting mind base is the effect.
+
+**VI**
+«Hãy xem các bảng trong phần đề mục thiền về danh để hiểu cách lấy các tâm sở tương ưng làm danh ở suy đạc, tốc hành và đồng sở duyên. Đối với nhóm tốt có tốc hành thiện…
+
+**EN**
+«See the tables in the section on the meditation subject of mentality to understand how to take the associated mental factors as mentality at investigating, impulsion and registration. As for the good group with wholesome impulsions…
+
+
+<a id="M06-body-P090"></a>
+## Danh duyên ý xứ và danh duyên sắc xứ / Mentality conditioning the mind base and the material bases
+Miến / Burmese 90
+
+**VI**
+… và nhóm xấu có tốc hành bất thiện, hãy nhận diện và quán cho đầy đủ. Hãy quán cả sáu môn. Khi quán như vậy, có thể để riêng hướng ngũ môn, xác định, tốc hành và hướng ý môn vì chúng không thuộc vòng quả. Tuy nhiên, để không bỏ sót pháp chân đế nào, quán chung cũng không có lỗi, miễn là hiểu rằng chúng không thuộc vòng quả. Hãy quán các chuỗi tâm lộ nhĩ môn và các môn khác theo cùng mẫu.
+
+**EN**
+… and the bad group with unwholesome impulsions, discern them in full. Discern all six doors. In discerning thus, one may leave out five-door adverting, determining, impulsion and mind-door adverting, as they do not belong to the round of results. Yet there is no fault in including them so as to omit no ultimate phenomena, provided one understands that they are outside the round of results. Discern the ear-door and the other cognitive processes following the same pattern.
+
+**VI**
+Cũng hãy lưu ý rằng trong cõi có năm uẩn, các danh pháp ấy, tức các tâm sở, chỉ có thể trợ cho tâm tương ưng là ý xứ sinh khởi khi có pháp hỗ trợ là sắc căn vật thích hợp, chẳng hạn ý vật.»
+
+**EN**
+Also note that in the planes of five aggregates those mental phenomena, the mental factors, can support their associated consciousness, the mind base, in arising only when there is the corresponding material base as a support, such as the heart-base.»
+
+**VI**
+(b) Do danh sinh nên sắc xứ sinh.
+
+**EN**
+(b) Due to the arising of mentality, the material bases arise.
+
+**VI**
+Pacchājātā cittacetasikā dhammā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (Paṭṭhāna, quyển 1, tr. 7.)
+
+**EN**
+Pacchājātā cittacetasikā dhammā purejātassa imassa kāyassa pacchājātapaccayena paccayo. (Paṭṭhāna, vol. 1, p. 7.)
+
+**VI**
+Nghĩa là nhóm danh pháp gồm 85 tâm, trừ bốn tâm quả vô sắc, và 52 tâm sở, sinh về sau, trợ cho thân sắc do bốn nguồn sinh, đã sinh trong sát-na tâm trước của chính dòng tương tục ấy, bằng năng lực hậu sinh duyên. (Paṭṭhāna, quyển 1, tr. 7.)
+
+**EN**
+That is, the group of mental phenomena comprising eighty-five consciousnesses, excluding the four immaterial resultant consciousnesses, and fifty-two mental factors, arising later, supports the material body produced by four sources that arose at the preceding consciousness moment in that same continuity, by the power of postnascence condition. (Paṭṭhāna, vol. 1, p. 7.)
+
+**VI**
+Theo lời dạy ấy, khi nhóm danh pháp gồm tâm và tâm sở trợ cho sắc xứ, hãy hiểu rằng pháp sắc là quả sinh trước, còn danh làm nhân sinh sau. Nói chung, trừ lúc tái tục, các sắc pháp là quả sinh cùng lúc với sát-na tâm trước, còn nhóm danh làm nhân là nhóm danh trong sát-na tâm sau.
+
+**EN**
+According to that teaching, when mentality consisting of consciousness and mental factors supports the material bases, understand that the material effect arises earlier and the mental cause arises later. Generally, except at rebirth-linking, the resultant material phenomena arise with the earlier consciousness moment, while the causal mentality is the group of mental phenomena in the subsequent consciousness moment.
+
+
+<a id="M06-body-P091"></a>
+## Các trường hợp hậu sinh duyên / Cases of postnascence condition
+Miến / Burmese 91
+
+**VI**
+Vì vậy, trước hết hãy ghi nhớ phần tóm lược sau đây.
+
+**EN**
+Therefore first remember the following outline.
+
+**VI**
+1. Danh uẩn hữu phần thứ nhất, với tư cách pháp trợ, trợ bằng hậu sinh duyên cho thân do một nguồn sinh, tức sắc do nghiệp sinh, đã sinh cùng danh uẩn tái tục và đến giai đoạn trụ. Theo cách khác, nó trợ cho thân do hai nguồn sinh, tức sắc do nghiệp và thời tiết sinh.
+
+**EN**
+1. The mental aggregates of the first life-continuum, as the conditioning phenomena, support by postnascence condition the body produced by one source, namely kamma-born materiality, that arose with the rebirth-linking mental aggregates and has reached presence. Alternatively, they support the body produced by two sources, kamma and temperature.
+
+**VI**
+2. Các danh uẩn hữu phần về sau, bắt đầu với hữu phần thứ hai, trợ bằng hậu sinh duyên cho thân do ba nguồn sinh, tức sắc do nghiệp, tâm và thời tiết sinh, đã sinh cùng các danh uẩn hữu phần trước, bắt đầu với hữu phần thứ nhất, và đến giai đoạn trụ.
+
+**EN**
+2. Subsequent life-continuum mental aggregates, beginning with the second life-continuum, support by postnascence condition the body produced by three sources, namely materiality born of kamma, consciousness and temperature, which arose with the earlier life-continuum mental aggregates beginning with the first life-continuum and has reached presence.
+
+**VI**
+3. Khi sắc do vật thực sinh đã xuất hiện, danh uẩn gồm tâm và tâm sở sinh sau trợ bằng hậu sinh duyên cho thân do bốn nguồn sinh, tức sắc do nghiệp, tâm, thời tiết và vật thực sinh, đã sinh cùng tâm trước và đến giai đoạn trụ.
+
+**EN**
+3. Once nutriment-born materiality has arisen, the later mental aggregates of consciousness and mental factors support by postnascence condition the body produced by four sources, namely materiality born of kamma, consciousness, temperature and nutriment, which arose together with earlier consciousness and has reached presence.
+
+**VI**
+4. Trong dòng tương tục của chúng sinh dục giới, danh uẩn hướng môn sinh sau trợ bằng hậu sinh duyên cho thân do bốn nguồn sinh, tức sắc do nghiệp, tâm, thời tiết và vật thực sinh, đã sinh cùng tâm hữu phần thứ mười lăm sau tái tục và đến giai đoạn trụ. (Trong dòng tương tục của chúng sinh sắc giới, danh uẩn hướng môn sinh sau trợ bằng hậu sinh duyên cho thân do ba nguồn sinh, tức sắc do nghiệp, tâm và thời tiết sinh.)
+
+**EN**
+4. In the continuity of a sense-sphere being, the subsequent mental aggregates of adverting support by postnascence condition the body produced by four sources, namely materiality born of kamma, consciousness, temperature and nutriment, which arose with the fifteenth life-continuum consciousness after rebirth-linking and has reached presence. (In the continuity of a fine-material-sphere being, the later mental aggregates of adverting support by postnascence condition the body produced by three sources, kamma, consciousness and temperature.)
+
+**VI**
+5. Đối với thân do bốn nguồn sinh (hoặc ba nguồn sinh), đã sinh cùng hướng ngũ môn và đến giai đoạn trụ, danh uẩn của ngũ thức sinh sau…
+
+**EN**
+5. For the body produced by four sources (or three), which arose with five-door adverting and has reached presence, the mental aggregates of the subsequent sense-consciousness…
+
+
+<a id="M06-body-P092"></a>
+## Hậu sinh duyên và tính chất nâng đỡ / Postnascence condition and the supporting characteristic
+Miến / Burmese 92
+
+**VI**
+… trợ bằng năng lực hậu sinh duyên.
+
+**EN**
+… support it by the power of postnascence condition.
+
+**VI**
+6. Danh uẩn tiếp thọ sinh sau trợ bằng hậu sinh duyên cho thân đã sinh cùng ngũ thức và đến giai đoạn trụ. Ở sắc giới đó là thân do hai nguồn sinh, tức sắc do nghiệp và thời tiết sinh. Ở dục giới đó là thân do ba nguồn sinh, tức sắc do nghiệp, thời tiết và vật thực sinh.
+
+**EN**
+6. The later mental aggregates of receiving support by postnascence condition the body that arose with sense-consciousness and has reached presence. In the fine-material sphere this is a body produced by two sources, kamma and temperature. In the sense sphere it is a body produced by three sources, kamma, temperature and nutriment.
+
+**VI**
+7. Danh uẩn suy đạc sinh sau trợ bằng hậu sinh duyên cho thân đã sinh cùng danh uẩn tiếp thọ và đến giai đoạn trụ. Ở sắc giới đó là thân do ba nguồn sinh, tức sắc do nghiệp, tâm và thời tiết sinh. Ở dục giới đó là thân do bốn nguồn sinh, tức sắc do nghiệp, tâm, thời tiết và vật thực sinh.
+
+**EN**
+7. The later mental aggregates of investigating support by postnascence condition the body that arose with the mental aggregates of receiving and has reached presence. In the fine-material sphere it is a body produced by three sources, kamma, consciousness and temperature. In the sense sphere it is a body produced by four sources, kamma, consciousness, temperature and nutriment.
+
+**VI**
+«Theo mẫu này, các nhóm danh uẩn gồm tâm và tâm sở sinh sau trợ cho sắc do bốn nguồn sinh đã sinh cùng các tâm trước bằng năng lực hậu sinh duyên.»
+
+**EN**
+«Following this pattern, later groups of mental aggregates consisting of consciousness and mental factors support by postnascence condition the materiality produced by four sources that arose together with earlier consciousnesses.»
+
+**VI**
+Tính chất nâng đỡ (upatthambhakasabhāva).
+
+**EN**
+The supporting characteristic (upatthambhakasabhāva).
+
+**VI**
+Purejātānaṃ rūpadhammānaṃ upatthambhakatthe upakārako arūpadhammo pacchājātapaccayo, gijjhapotakasarīrānaṃ āhārāsācetanā viya. (Visuddhimagga, quyển 2, tr. 169.)
+
+**EN**
+Purejātānaṃ rūpadhammānaṃ upatthambhakatthe upakārako arūpadhammo pacchājātapaccayo, gijjhapotakasarīrānaṃ āhārāsācetanā viya. (Visuddhimagga, vol. 2, p. 169.)
+
+**VI**
+Khi kền kền mẹ bay đi tìm mồi, các con non mong “Mẹ về thì ta sẽ được ăn”. Sự mong mỏi ấy là ái và ý muốn được ăn. Tư tương ưng với sự mong mỏi ấy chính là tư niệm thực (manosañcetanāhāra). Tư niệm thực ấy hiện hữu trong thân các con non lúc ấy. Tư mong được ăn đang có mặt ấy trợ bằng hậu sinh duyên cho dòng sắc do bốn nguồn sinh đã sinh trước và đang ở giai đoạn trụ…
+
+**EN**
+When the mother vulture flies off to find food, the chicks expect, “When mother comes back, we will eat.” That expectation is craving and desire for food. The volition associated with that longing is mental volition as nutriment (manosañcetanāhāra). That nutriment is present in the chicks’ bodies at that time. The present volition hoping for food supports by postnascence condition the continuity of materiality produced by four sources that arose earlier and is at the stage of presence…
+
+
+<a id="M06-body-P093"></a>
+## Danh sinh sau nâng đỡ sắc sinh trước / Later mentality sustains earlier materiality
+Miến / Burmese 93
+
+**VI**
+… nên thân các con non có thể tồn tại mà không suy hoại.
+
+**EN**
+… so the chicks’ bodies can persist without breaking down.
+
+**VI**
+Cũng như ví dụ ấy, hãy quán ngược từ nhóm danh pháp ở sát-na tâm có khả năng làm pháp trợ trong dòng tương tục của chúng sinh dục giới và sắc giới. Các nhóm danh pháp ở những sát-na tâm sinh sau trợ cho thân sắc do bốn hoặc ba nguồn sinh đã sinh cùng các sát-na tâm trước và đã đến giai đoạn trụ. Chúng trợ bằng năng lực nâng đỡ (upatthambhaka), giúp các sắc pháp ấy đứng vững và tồn tại cho đến lúc hoại diệt. Nhóm danh pháp có khả năng trợ theo cách nâng đỡ ấy gọi là pháp hậu sinh duyên. Trong hậu sinh duyên, pháp nhân là danh sinh sau, pháp quả là sắc đã sinh cùng sát-na tâm trước. Trong hai loại nhân và quả, nhân sinh sau và quả sinh trước.
+
+**EN**
+Just as in that example, trace back from the group of mental phenomena at the consciousness moment capable of acting as a condition in the continuity of a sense-sphere or fine-material-sphere being. The groups of mental phenomena in later consciousness moments support the material body produced by four or three sources that arose together with earlier consciousness moments and reached presence. They assist by the power of sustenance (upatthambhaka), enabling those material phenomena to remain firm and persist until dissolution. The mental group that can assist through this sustenance is called the postnascence condition. In postnascence condition the cause is mentality that arises later and the effect is materiality that arose together with an earlier consciousness moment. Of cause and effect, the cause arises later and the effect earlier.
+
+**VI**
+Trong phần trình bày cách sắc xứ sinh do danh, ở phía nhân hãy lấy cả tâm lẫn tâm sở của sát-na tâm sinh sau tương ứng. Ở phía quả, đối với sắc xứ có khả năng làm quả, hãy lấy nhãn xứ, nhĩ xứ, tỷ xứ, thiệt xứ và thân xứ đã sinh cùng lúc với sát-na tâm trước, và đến giai đoạn trụ vào lúc sát-na tâm sinh sau thích hợp làm nhân sinh khởi. Cả năm sắc xứ ấy có khả năng sinh vào các giai đoạn sinh, trụ, diệt của từng sát-na tâm, chừng nào sức nghiệp…
+
+**EN**
+In this account of material bases arising due to mentality, take both consciousness and mental factors of the relevant later consciousness moment on the causal side. On the resultant side, take the eye, ear, nose, tongue and body bases that can act as effects, that arose with the earlier consciousness moment and have reached presence when the relevant later causal consciousness arises. All five material bases can arise at the stages of arising, presence and dissolution of each consciousness moment, as long as the force of kamma…
+
+
+<a id="M06-body-P094"></a>
+## Mẫu quán riêng nhãn xứ / A pattern for discerning the eye base separately
+Miến / Burmese 94
+
+**VI**
+… chưa cạn. Để trí hiểu không lẫn lộn, có thể quán riêng hoặc quán chung tùy cách. Ở đây trình bày một mẫu quán riêng.
+
+**EN**
+… is not exhausted. To avoid confusion in understanding, one may discern separately or together. One pattern of discerning separately is presented here.
+
+**VI**
+1. Do danh pháp hữu phần rúng động sinh nên nhãn xứ sinh. Danh pháp hữu phần rúng động là nhân, nhãn xứ là quả.
+
+**EN**
+1. Due to the arising of vibrating life-continuum mentality, the eye base arises. Vibrating life-continuum mentality is the cause and the eye base is the effect.
+
+**VI**
+(Đó là nhãn xứ sinh cùng lúc với hữu phần vừa qua.)
+
+**EN**
+(This is the eye base that arose together with the past life-continuum.)
+
+**VI**
+2. Do danh pháp hữu phần dứt dòng sinh nên nhãn xứ sinh. Danh pháp hữu phần dứt dòng là nhân, nhãn xứ là quả.
+
+**EN**
+2. Due to the arising of arrested life-continuum mentality, the eye base arises. Arrested life-continuum mentality is the cause and the eye base is the effect.
+
+**VI**
+(Đó là nhãn xứ sinh cùng lúc với hữu phần rúng động.)
+
+**EN**
+(This is the eye base that arose together with the vibrating life-continuum.)
+
+**VI**
+3. Do danh pháp hướng ngũ môn sinh nên nhãn xứ sinh. Danh pháp hướng ngũ môn là nhân, nhãn xứ là quả.
+
+**EN**
+3. Due to the arising of five-door adverting mentality, the eye base arises. Five-door adverting mentality is the cause and the eye base is the effect.
+
+**VI**
+(Đó là nhãn xứ sinh cùng lúc với hữu phần dứt dòng.)
+
+**EN**
+(This is the eye base that arose together with the arrested life-continuum.)
+
+**VI**
+4. Do danh pháp của nhãn thức sinh nên nhãn xứ sinh. Danh pháp của nhãn thức là nhân, nhãn xứ là quả.
+
+**EN**
+4. Due to the arising of eye-consciousness mentality, the eye base arises. Eye-consciousness mentality is the cause and the eye base is the effect.
+
+**VI**
+(Đó là nhãn xứ sinh cùng lúc với hướng ngũ môn. Hãy quán tương tự với danh pháp của nhĩ thức và các trường hợp còn lại.)
+
+**EN**
+(This is the eye base that arose together with five-door adverting. Discern similarly for ear-consciousness mentality and the remaining cases.)
+
+**VI**
+5. Do danh pháp tiếp thọ sinh nên nhãn xứ sinh. Danh pháp tiếp thọ là nhân, nhãn xứ là quả.
+
+**EN**
+5. Due to the arising of receiving mentality, the eye base arises. Receiving mentality is the cause and the eye base is the effect.
+
+**VI**
+(Đó là nhãn xứ sinh cùng lúc với nhãn thức, hoặc với một trong ngũ thức theo trường hợp tương ứng.)
+
+**EN**
+(This is the eye base that arose together with eye-consciousness, or with one of the five kinds of sense-consciousness in the relevant case.)
+
+
+<a id="M06-body-P095"></a>
+## Mẫu quán riêng nhãn xứ, tiếp theo / A pattern for discerning the eye base separately, continued
+Miến / Burmese 95
+
+**VI**
+6. Do danh pháp suy đạc sinh nên nhãn xứ sinh. Danh pháp suy đạc là nhân, nhãn xứ là quả.
+
+**EN**
+6. Due to the arising of investigating mentality, the eye base arises. Investigating mentality is the cause and the eye base is the effect.
+
+**VI**
+(Đó là nhãn xứ sinh cùng lúc với tiếp thọ.)
+
+**EN**
+(This is the eye base that arose together with receiving.)
+
+**VI**
+7. Do danh pháp xác định sinh nên nhãn xứ sinh. Danh pháp xác định là nhân, nhãn xứ là quả.
+
+**EN**
+7. Due to the arising of determining mentality, the eye base arises. Determining mentality is the cause and the eye base is the effect.
+
+**VI**
+(Đó là nhãn xứ sinh cùng lúc với suy đạc.)
+
+**EN**
+(This is the eye base that arose together with investigating.)
+
+**VI**
+8. Do danh pháp tốc hành thứ nhất sinh nên nhãn xứ sinh. Danh pháp tốc hành thứ nhất là nhân, nhãn xứ là quả.
+
+**EN**
+8. Due to the arising of first impulsion mentality, the eye base arises. First impulsion mentality is the cause and the eye base is the effect.
+
+**VI**
+(Đó là nhãn xứ sinh cùng lúc với xác định.)
+
+**EN**
+(This is the eye base that arose together with determining.)
+
+**VI**
+9. Do danh pháp tốc hành thứ hai sinh nên nhãn xứ sinh. Danh pháp tốc hành thứ hai là nhân, nhãn xứ là quả.
+
+**EN**
+9. Due to the arising of second impulsion mentality, the eye base arises. Second impulsion mentality is the cause and the eye base is the effect.
+
+**VI**
+(Đó là nhãn xứ sinh cùng lúc với tốc hành thứ nhất.)
+
+**EN**
+(This is the eye base that arose together with the first impulsion.)
+
+**VI**
+Hãy hiểu theo cách ấy rằng nhóm danh pháp gồm tâm và tâm sở sinh sau trợ cho nhãn xứ đã sinh cùng các tâm trước. Theo các bảng ở phần đề mục thiền về danh, hãy quán từng sát-na trong cả sáu loại lộ, từ lộ nhãn môn trở đi. Hãy quán nhĩ xứ và các xứ còn lại theo cách tương tự. Nếu muốn quán chung cả năm sắc xứ, bắt đầu với nhãn xứ, hãy quán như sau.
+
+**EN**
+Understand in this way how later groups of consciousness and mental factors support the eye base that arose with earlier consciousnesses. Following the tables in the section on the meditation subject of mentality, discern each consciousness moment in all six types of process, beginning with the eye-door process. Discern the ear base and other bases in the same way. If wishing to discern all five material bases together, beginning with the eye base, discern as follows.
+
+
+<a id="M06-body-P096"></a>
+## Mẫu quán chung năm sắc xứ / A pattern for discerning the five material bases together
+Miến / Burmese 96
+
+**VI**
+1. Do danh pháp hữu phần rúng động sinh nên năm sắc xứ sinh. Danh pháp hữu phần rúng động là nhân, năm sắc xứ là quả.
+
+**EN**
+1. Due to the arising of vibrating life-continuum mentality, the five material bases arises. Vibrating life-continuum mentality is the cause and the five material bases is the effect.
+
+**VI**
+(Đó là nhãn xứ, nhĩ xứ, tỷ xứ, thiệt xứ và thân xứ sinh cùng lúc với hữu phần vừa qua.)
+
+**EN**
+(These are the eye, ear, nose, tongue and body bases that arose together with the past life-continuum.)
+
+**VI**
+2. Do danh pháp hữu phần dứt dòng sinh nên năm sắc xứ sinh. Danh pháp hữu phần dứt dòng là nhân, năm sắc xứ là quả.
+
+**EN**
+2. Due to the arising of arrested life-continuum mentality, the five material bases arises. Arrested life-continuum mentality is the cause and the five material bases is the effect.
+
+**VI**
+(Đó là năm sắc xứ sinh cùng lúc với hữu phần rúng động.)
+
+**EN**
+(These are the five material bases that arose together with the vibrating life-continuum.)
+
+**VI**
+3. Do danh pháp hướng ngũ môn sinh nên năm sắc xứ sinh. Danh pháp hướng ngũ môn là nhân, năm sắc xứ là quả.
+
+**EN**
+3. Due to the arising of five-door adverting mentality, the five material bases arises. Five-door adverting mentality is the cause and the five material bases is the effect.
+
+**VI**
+(Đó là năm sắc xứ sinh cùng lúc với hữu phần dứt dòng.)
+
+**EN**
+(These are the five material bases that arose together with the arrested life-continuum.)
+
+**VI**
+4. Do danh pháp của nhãn thức sinh nên năm sắc xứ sinh. Danh pháp của nhãn thức là nhân, năm sắc xứ là quả.
+
+**EN**
+4. Due to the arising of eye-consciousness mentality, the five material bases arises. Eye-consciousness mentality is the cause and the five material bases is the effect.
+
+**VI**
+(Đó là năm sắc xứ sinh cùng lúc với hướng ngũ môn.)
+
+**EN**
+(These are the five material bases that arose together with five-door adverting.)
+
+**VI**
+Theo cách ấy, đối với các sắc xứ đã sinh cùng những tâm trước…
+
+**EN**
+In this way, regarding the material bases that arose together with earlier consciousnesses…
+
+
+<a id="M06-body-P097"></a>
+## Sắc trợ duyên cho sắc xứ trong cùng nhóm / Materiality conditioning a material base within the same group
+Miến / Burmese 97
+
+**VI**
+… hãy hiểu cách nhóm danh pháp gồm tâm và tâm sở sinh sau trợ cho năm sắc xứ bằng năng lực hậu sinh duyên. Hãy quán đầy đủ trong từng sát-na tâm ở cả sáu môn.
+
+**EN**
+… understand how later groups of consciousness and mental factors support the five material bases by postnascence condition. Discern each consciousness moment fully at all six doors.
+
+**VI**
+(c) Do sắc sinh nên sắc xứ sinh. Phần này nói cách sắc trong danh sắc duyên trợ cho sắc xứ thuộc sáu xứ.
+
+**EN**
+(c) Due to the arising of materiality, the material bases arise. This section explains how materiality included in conditioning mentality-materiality supports the material bases included in the six bases.
+
+**VI**
+1. Trong nhóm mười sắc nhãn (cakkhudasakakalāpa):
+
+**EN**
+(1) In the eye decad (cakkhudasakakalāpa):
+
+**VI**
+(a) Do bốn sắc đại chủng trong cùng nhóm sinh nên nhãn xứ trong cùng nhóm sinh. Bốn sắc đại chủng trong cùng nhóm là nhân, nhãn xứ trong cùng nhóm là quả.
+
+**EN**
+(a) Due to the arising of the four great elements of the same group, the eye base of the same group arises. The four great elements of the same group is the cause and the eye base of the same group is the effect.
+
+**VI**
+(b) Do sắc mạng quyền trong cùng nhóm sinh nên nhãn xứ trong cùng nhóm sinh. Sắc mạng quyền trong cùng nhóm là nhân, nhãn xứ trong cùng nhóm là quả.
+
+**EN**
+(b) Due to the arising of the material life faculty of the same group, the eye base of the same group arises. The material life faculty of the same group is the cause and the eye base of the same group is the effect.
+
+**VI**
+(c) Do dưỡng chất trong cùng nhóm sinh nên nhãn xứ trong cùng nhóm sinh. Dưỡng chất trong cùng nhóm là nhân, nhãn xứ trong cùng nhóm là quả.
+
+**EN**
+(c) Due to the arising of the nutritive essence of the same group, the eye base of the same group arises. The nutritive essence of the same group is the cause and the eye base of the same group is the effect.
+
+**VI**
+Hãy tiếp tục nhận diện và quán tương tự cách (a) bốn sắc đại chủng, (b) sắc mạng quyền và (c) dưỡng chất trong từng nhóm tương ứng trợ cho nhĩ xứ, tỷ xứ, thiệt xứ và thân xứ. Các sắc đại chủng trong cùng nhóm trợ cho sắc xứ trong nhóm bằng năng lực nâng đỡ. Sắc mạng quyền trong cùng nhóm trợ bằng năng lực gìn giữ…
+
+**EN**
+Continue to discern in the same way how (a) the four great elements, (b) the material life faculty and (c) nutritive essence in each respective group support the ear, nose, tongue and body bases. The great elements in a group support the material base in that group by the power of sustenance. The material life faculty in the same group supports by the power of maintenance…
+
+
+<a id="M06-body-P098"></a>
+## Dưỡng chất trợ sắc xứ và sắc làm chỗ nương cho ý xứ / Nutriment supporting the material bases, and materiality supporting the mind base
+Miến / Burmese 98
+
+**VI**
+… còn dưỡng chất trong cùng nhóm trợ bằng năng lực nâng đỡ. Hãy hiểu rằng dưỡng chất ấy chỉ có thể trợ cho sắc xứ trong cùng nhóm khi được hỏa đại do nghiệp sinh trong bụng và dưỡng chất do vật thực sinh hỗ trợ.
+
+**EN**
+… and the nutritive essence in the same group supports by the power of sustenance. Understand that this nutritive essence can support the material base in the same group only when aided by the kamma-born digestive fire and nutriment-born nutritive essence.
+
+**VI**
+Như đã giải thích trong phần đề mục thiền về sắc, dưỡng chất trong các sắc do thời tiết sinh có dưỡng chất, tức vật thực dạng miếng (kabaḷīkārāhāra) mà người ta thường nhai, nuốt và ăn, khi được hỏa đại do nghiệp sinh trong bụng hỗ trợ, lại làm sinh những nhóm sắc mới có dưỡng chất. Vì sinh do dưỡng chất nên những sắc ấy gọi là sắc do vật thực sinh.
+
+**EN**
+As explained in the section on the meditation subject of materiality, the nutritive essence in temperature-born materiality containing nutritive essence, namely edible food (kabaḷīkārāhāra) normally chewed, swallowed and eaten, produces further new material groups containing nutritive essence when supported by the kamma-born digestive fire. Because those material phenomena arise from nutritive essence, they are called nutriment-born materiality.
+
+**VI**
+Khi dưỡng chất do vật thực sinh trong các sắc ấy, nhờ hỏa đại do nghiệp sinh trong bụng trợ giúp, lại nâng đỡ dưỡng chất do nghiệp sinh, do tâm sinh, do thời tiết sinh và dưỡng chất do vật thực sinh ở các nhóm khác, thì từng loại dưỡng chất ấy lại làm sinh các nhóm sắc mới. Nhờ đó, các sắc xứ như nhãn xứ được nâng đỡ vững chắc. Trong các dưỡng chất được nâng đỡ cũng có dưỡng chất do nghiệp sinh ở các nhóm sắc do nghiệp sinh, như nhóm mười sắc nhãn. Hãy quán để trí thấy các tính chất ấy rồi quán theo các mẫu đã nêu. Đối với nhĩ xứ, pe, thân xứ cũng quán tương tự.
+
+**EN**
+When nutriment-born nutritive essence in that materiality, with the assistance of the kamma-born digestive fire, in turn supports nutritive essence born of kamma, consciousness or temperature and nutriment-born nutritive essence in other groups, those respective kinds of nutritive essence produce new material groups. In this way material bases such as the eye base are firmly sustained. The nutritive essence thus supported includes kamma-born nutritive essence in kamma-born groups such as the eye decad. Discern those natures with knowledge and discern according to the patterns above. Discern likewise for the ear base, pe, the body base.
+
+**VI**
+(d) Do sắc sinh nên ý xứ sinh. Trong cõi có năm uẩn (pañcavokārabhūmi), bao gồm cõi người, nhóm danh pháp tương ứng chỉ có thể sinh khi có sắc căn vật làm chỗ nương. Nếu thiếu sắc căn vật làm chỗ nương thì chúng không thể sinh. Hãy quán cho trí thấy tính chất ấy rồi quán theo các mẫu dưới đây. Lại nữa, khi ý xứ…
+
+**EN**
+(d) Due to the arising of materiality, the mind base arises. In the planes of five aggregates (pañcavokārabhūmi), which include the human plane, the respective groups of mental phenomena can arise only when a material base supports them. Without that supporting material base, they cannot arise. See this nature with knowledge and then discern according to the examples below. Further, when the mind base…
+
+
+<a id="M06-body-P099"></a>
+## Các sắc căn vật mà ý xứ nương vào / The material bases on which the mind base depends
+Miến / Burmese 99
+
+**VI**
+… tức tâm hay thức, sinh khởi, cũng có các tâm sở tương ưng không thể tách rời. Các tâm sở ấy cũng chỉ có thể sinh cùng ý xứ khi nương vào sắc căn vật tương ứng. Vì vậy, khi lấy ý xứ làm chính, quán cả các tâm sở tương ưng thì không có lỗi.
+
+**EN**
+… that is, consciousness, arises, there are also inseparable associated mental factors. Those mental factors can arise together with the mind base only by depending on the relevant material base. Thus it is blameless to include the associated mental factors while taking the mind base as primary.
+
+**VI**
+Trong số ấy, ngũ thức là các ý xứ chỉ sinh nương vào từng sắc căn vật tương ứng, như nhãn vật. Chúng nương vào từng sắc căn vật như nhãn vật đã sinh đồng thời với hữu phần vừa qua. Tâm tái tục, tức ý xứ, nương vào sắc ý vật sinh cùng chính nó. Ý xứ là tâm tử nương vào sắc ý vật đã sinh cùng tâm thứ mười bảy đếm ngược từ tâm tử. Nói chung, các tâm hữu phần về sau sinh nương vào sắc ý vật đã sinh cùng các tâm trước.
+
+**EN**
+Among these, the five kinds of sense-consciousness are mind bases arising only in dependence on the respective material bases such as the eye-base. They depend on the respective material bases such as the eye-base that arose simultaneously with the past life-continuum. Rebirth-linking consciousness, a mind base, arises in dependence on the heart-base arising together with it. Death consciousness as mind base depends on the heart-base that arose with the seventeenth consciousness counting back from death. Generally, later life-continuum consciousnesses arise in dependence on heart-base materiality that arose with the preceding consciousnesses.
+
+**VI**
+Tương tự, các ý xứ gọi là ý giới và ý thức giới, ngoài ngũ thức, sinh nương vào ý vật đã sinh cùng sát-na tâm trước của chúng. Tuy nhiên, ở giai đoạn quán minh sát, theo lối giải không thể thiếu nhau (avinābhāva), quán cả sắc do bốn nguồn sinh cùng sinh với các sắc căn vật như nhãn vật và ý vật, chẳng hạn các nhóm 54, 44 sắc, thì không có lỗi.
+
+**EN**
+Similarly, the mind bases called mind element and mind-consciousness element, apart from the five kinds of sense-consciousness, arise in dependence on the heart-base that arose with their preceding consciousness moment. At the insight stage, however, in terms of the method of inseparability (avinābhāva), it is blameless to include the materiality born of four sources arising with the supporting material bases such as the eye- and heart-bases, such as groups of fifty-four or forty-four material phenomena.
+
+**VI**
+Một số mẫu quán.
+
+**EN**
+Some examples of discernment.
+
+**VI**
+1. Do sắc ý vật làm chỗ nương cho tái tục sinh nên ý xứ tái tục sinh. Sắc ý vật làm chỗ nương cho tái tục là nhân, ý xứ tái tục là quả.
+
+**EN**
+1. Due to the arising of the heart-base supporting rebirth-linking, the rebirth-linking mind base arises. The heart-base supporting rebirth-linking is the cause and the rebirth-linking mind base is the effect.
+
+
+<a id="M06-body-P100"></a>
+## Mẫu quán sắc căn vật và ý xứ, từ hữu phần đến tiếp thọ / Examples of material bases and the mind base, from life-continuum to receiving
+Miến / Burmese 100
+
+**VI**
+2. Do sắc ý vật làm chỗ nương cho hữu phần sinh nên ý xứ hữu phần sinh. Sắc ý vật làm chỗ nương cho hữu phần là nhân, ý xứ hữu phần là quả.
+
+**EN**
+2. Due to the arising of the heart-base supporting life-continuum, the life-continuum mind base arises. The heart-base supporting life-continuum is the cause and the life-continuum mind base is the effect.
+
+**VI**
+(Đó là ý vật sinh cùng sát-na tâm trước tâm hữu phần đang quán.)
+
+**EN**
+(This is the heart-base that arose together with the consciousness moment preceding the life-continuum being discerned.)
+
+**VI**
+3. Do sắc ý vật làm chỗ nương cho tâm tử sinh nên ý xứ tử sinh. Sắc ý vật làm chỗ nương cho tâm tử là nhân, ý xứ tử là quả.
+
+**EN**
+3. Due to the arising of the heart-base supporting death consciousness, the death mind base arises. The heart-base supporting death consciousness is the cause and the death mind base is the effect.
+
+**VI**
+(Đó là ý vật sinh cùng tâm thứ mười bảy đếm ngược từ tâm tử.)
+
+**EN**
+(This is the heart-base that arose with the seventeenth consciousness counting back from death consciousness.)
+
+**VI**
+4. Do sắc ý vật sinh nên ý xứ hướng ngũ môn sinh. Sắc ý vật là nhân, ý xứ hướng ngũ môn là quả.
+
+**EN**
+4. Due to the arising of heart-base materiality, the five-door adverting mind base arises. Heart-base materiality is the cause and the five-door adverting mind base is the effect.
+
+**VI**
+(Đó là sắc ý vật sinh đồng thời với hữu phần dứt dòng.)
+
+**EN**
+(This is the heart-base materiality that arose simultaneously with the arrested life-continuum.)
+
+**VI**
+5. Do sắc nhãn vật sinh nên ý xứ nhãn thức sinh. Sắc nhãn vật là nhân, ý xứ nhãn thức là quả.
+
+**EN**
+5. Due to the arising of eye-base materiality, the eye-consciousness mind base arises. Eye-base materiality is the cause and the eye-consciousness mind base is the effect.
+
+**VI**
+(Đó là sắc nhãn vật ở giai đoạn giữa của tuổi thọ, đã sinh đồng thời với hữu phần vừa qua.)
+
+**EN**
+(This is the eye-base materiality in the middle of its life span, which arose simultaneously with the past life-continuum.)
+
+**VI**
+6. Do sắc ý vật sinh nên ý xứ tiếp thọ sinh. Sắc ý vật là nhân, ý xứ tiếp thọ là quả.
+
+**EN**
+6. Due to the arising of heart-base materiality, the receiving mind base arises. Heart-base materiality is the cause and the receiving mind base is the effect.
+
+**VI**
+(Đó là sắc ý vật sinh cùng với nhãn thức hoặc với một trong ngũ thức tương ứng.)
+
+**EN**
+(This is the heart-base materiality that arose with eye-consciousness or with the relevant sense-consciousness.)
+
+
+<a id="M06-body-P101"></a>
+## Mẫu quán sắc căn vật và ý xứ, từ suy đạc đến đồng sở duyên / Examples of material bases and the mind base, from investigating to registration
+Miến / Burmese 101
+
+**VI**
+7. Do sắc ý vật sinh nên ý xứ suy đạc sinh. Sắc ý vật là nhân, ý xứ suy đạc là quả.
+
+**EN**
+7. Due to the arising of heart-base materiality, the investigating mind base arises. Heart-base materiality is the cause and the investigating mind base is the effect.
+
+**VI**
+(Đó là sắc ý vật sinh cùng với tiếp thọ.)
+
+**EN**
+(This is the heart-base materiality that arose with receiving.)
+
+**VI**
+8. Do sắc ý vật sinh nên ý xứ xác định sinh. Sắc ý vật là nhân, ý xứ xác định là quả.
+
+**EN**
+8. Due to the arising of heart-base materiality, the determining mind base arises. Heart-base materiality is the cause and the determining mind base is the effect.
+
+**VI**
+(Đó là sắc ý vật sinh cùng với suy đạc.)
+
+**EN**
+(This is the heart-base materiality that arose with investigating.)
+
+**VI**
+9. Do sắc ý vật sinh nên ý xứ tốc hành thứ nhất sinh. Sắc ý vật là nhân, ý xứ tốc hành thứ nhất là quả.
+
+**EN**
+9. Due to the arising of heart-base materiality, the first impulsion mind base arises. Heart-base materiality is the cause and the first impulsion mind base is the effect.
+
+**VI**
+(Đó là sắc ý vật sinh cùng với xác định.)
+
+**EN**
+(This is the heart-base materiality that arose with determining.)
+
+**VI**
+10. Do sắc ý vật sinh nên ý xứ tốc hành thứ hai sinh. Sắc ý vật là nhân, ý xứ tốc hành thứ hai là quả.
+
+**EN**
+10. Due to the arising of heart-base materiality, the second impulsion mind base arises. Heart-base materiality is the cause and the second impulsion mind base is the effect.
+
+**VI**
+(Đó là sắc ý vật sinh cùng với tốc hành thứ nhất.) pe.
+
+**EN**
+(This is the heart-base materiality that arose with the first impulsion.) pe.
+
+**VI**
+11. Do sắc ý vật sinh nên ý xứ đồng sở duyên thứ nhất sinh. Sắc ý vật là nhân, ý xứ đồng sở duyên thứ nhất là quả.
+
+**EN**
+11. Due to the arising of heart-base materiality, the first registration mind base arises. Heart-base materiality is the cause and the first registration mind base is the effect.
+
+**VI**
+(Đó là sắc ý vật sinh cùng với tốc hành thứ bảy. Hãy hiểu đây là cách nói khái quát.)
+
+**EN**
+(This is the heart-base materiality that arose with the seventh impulsion. Understand this as a general account.)
+
+**VI**
+12. Do sắc ý vật sinh nên ý xứ đồng sở duyên thứ hai sinh. Sắc ý vật là nhân, ý xứ đồng sở duyên thứ hai là quả.
+
+**EN**
+12. Due to the arising of heart-base materiality, the second registration mind base arises. Heart-base materiality is the cause and the second registration mind base is the effect.
+
+**VI**
+(Đó là sắc ý vật sinh cùng với đồng sở duyên thứ nhất.)
+
+**EN**
+(This is the heart-base materiality that arose with the first registration.)
+
+
+<a id="M06-body-P102"></a>
+## Danh và sắc cùng trợ cho ý xứ / Mentality and materiality jointly conditioning the mind base
+Miến / Burmese 102
+
+**VI**
+13. Do sắc ý vật sinh nên ý xứ hướng ý môn sinh. Sắc ý vật là nhân, ý xứ hướng ý môn là quả.
+
+**EN**
+13. Due to the arising of heart-base materiality, the mind-door adverting mind base arises. Heart-base materiality is the cause and the mind-door adverting mind base is the effect.
+
+**VI**
+(Đó là sắc ý vật sinh cùng với hữu phần ngay trước đó, tức hữu phần dứt dòng.)
+
+**EN**
+(This is the heart-base materiality that arose with the immediately preceding life-continuum, the arrested life-continuum.)
+
+**VI**
+Nêu đến đây là đủ để theo mẫu. Hãy quán từng sát-na tâm lộ theo các bảng trong phần đề mục thiền về danh. Hãy quán cả sáu môn. Ở mỗi môn, hãy quán đầy đủ các lộ có tốc hành thiện và các lộ có tốc hành bất thiện.
+
+**EN**
+These examples suffice as a pattern. Discern each consciousness moment in a process according to the tables in the section on the meditation subject of mentality. Discern all six doors. At each door discern all processes with wholesome and unwholesome impulsions.
+
+**VI**
+(e) Do danh sắc sinh nên ý xứ sinh.
+
+**EN**
+(e) Due to the arising of mentality-materiality, the mind base arises.
+
+**VI**
+Về danh, chỉ lấy các tâm sở tương ưng với tâm thích hợp. Về sắc, theo lời giải ở trên, hãy lấy sắc căn vật tương ứng làm chỗ nương cho nhóm danh pháp trong sát-na tâm ấy làm chính, đồng thời lấy cả các sắc không thể tách khỏi sắc căn vật ấy, như các nhóm 54, 44 sắc. Hãy quán các mẫu sau để trí thấy cách danh và sắc ấy trợ cho tâm tương ứng, tức ý xứ.
+
+**EN**
+For mentality, take only the mental factors associated with the relevant consciousness. For materiality, following the explanation above, take as primary the respective material base supporting that group of mental phenomena in that consciousness moment, and also take the material phenomena inseparable from it, such as groups of fifty-four or forty-four material phenomena. Discern the following examples so that knowledge sees how that mentality and materiality support the relevant consciousness, the mind base.
+
+**VI**
+Danh làm nhân, tức các tâm sở, và ý xứ là quả, là các pháp tương ưng cùng sinh trong một sát-na tâm. Sắc căn vật làm chỗ nương nói chung đã sinh trước khi ý xứ làm quả sinh, như đã giải thích ở trên. Riêng lúc tái tục, sắc căn vật ấy là pháp đồng sinh.
+
+**EN**
+The causal mentality, the mental factors, and the resultant mind base are associated phenomena arising together in one consciousness moment. The supporting material base generally arises before the resultant mind base, as explained above. At rebirth-linking, that material base is conascent.
+
+
+<a id="M06-body-P103"></a>
+## Các mẫu quán danh sắc duyên ý xứ / Examples of mentality-materiality conditioning the mind base
+Miến / Burmese 103
+
+**VI**
+1. Do danh sắc tái tục sinh nên ý xứ tái tục sinh. Danh sắc tái tục là nhân, ý xứ tái tục là quả.
+
+**EN**
+1. Due to the arising of rebirth-linking mentality-materiality, the rebirth-linking mind base arises. Rebirth-linking mentality-materiality is the cause and the rebirth-linking mind base is the effect.
+
+**VI**
+2. Do danh sắc hữu phần sinh nên ý xứ hữu phần sinh. Danh sắc hữu phần là nhân, ý xứ hữu phần là quả.
+
+**EN**
+2. Due to the arising of life-continuum mentality-materiality, the life-continuum mind base arises. Life-continuum mentality-materiality is the cause and the life-continuum mind base is the effect.
+
+**VI**
+(Hãy quán tâm tử theo mẫu tương tự.)
+
+**EN**
+(Discern death consciousness according to a similar pattern.)
+
+**VI**
+3. Do danh sắc hướng ngũ môn sinh nên ý xứ hướng ngũ môn sinh. Danh sắc hướng ngũ môn là nhân, ý xứ hướng ngũ môn là quả.
+
+**EN**
+3. Due to the arising of five-door adverting mentality-materiality, the five-door adverting mind base arises. Five-door adverting mentality-materiality is the cause and the five-door adverting mind base is the effect.
+
+**VI**
+4. Do danh sắc của nhãn thức sinh nên ý xứ nhãn thức sinh. Danh sắc của nhãn thức là nhân, ý xứ nhãn thức là quả.
+
+**EN**
+4. Due to the arising of eye-consciousness mentality-materiality, the eye-consciousness mind base arises. Eye-consciousness mentality-materiality is the cause and the eye-consciousness mind base is the effect.
+
+**VI**
+5. Do danh sắc tiếp thọ sinh nên ý xứ tiếp thọ sinh. Danh sắc tiếp thọ là nhân, ý xứ tiếp thọ là quả.
+
+**EN**
+5. Due to the arising of receiving mentality-materiality, the receiving mind base arises. Receiving mentality-materiality is the cause and the receiving mind base is the effect.
+
+**VI**
+6. Do danh sắc suy đạc sinh nên ý xứ suy đạc sinh. Danh sắc suy đạc là nhân, ý xứ suy đạc là quả.
+
+**EN**
+6. Due to the arising of investigating mentality-materiality, the investigating mind base arises. Investigating mentality-materiality is the cause and the investigating mind base is the effect.
+
+**VI**
+7. Do danh sắc xác định sinh nên ý xứ xác định sinh. Danh sắc xác định là nhân, ý xứ xác định là quả.
+
+**EN**
+7. Due to the arising of determining mentality-materiality, the determining mind base arises. Determining mentality-materiality is the cause and the determining mind base is the effect.
+
+
+<a id="M06-body-P104"></a>
+## Cách áp dụng mẫu quán cho sáu loại lộ / Applying the pattern to the six kinds of cognitive process
+Miến / Burmese 104
+
+**VI**
+8. Do danh sắc của tốc hành thứ nhất sinh nên ý xứ tốc hành thứ nhất sinh. Danh sắc của tốc hành thứ nhất là nhân, ý xứ tốc hành thứ nhất là quả.
+
+**EN**
+8. Due to the arising of first impulsion mentality-materiality, the first impulsion mind base arises. First impulsion mentality-materiality is the cause and the first impulsion mind base is the effect.
+
+**VI**
+(Hãy theo mẫu ấy mà quán từ tốc hành thứ hai trở đi.)
+
+**EN**
+(Discern the second and later impulsions by following this pattern.)
+
+**VI**
+9. Do danh sắc của đồng sở duyên thứ nhất sinh nên ý xứ đồng sở duyên thứ nhất sinh. Danh sắc của đồng sở duyên thứ nhất là nhân, ý xứ đồng sở duyên thứ nhất là quả.
+
+**EN**
+9. Due to the arising of first registration mentality-materiality, the first registration mind base arises. First registration mentality-materiality is the cause and the first registration mind base is the effect.
+
+**VI**
+(Hãy theo mẫu ấy mà quán đồng sở duyên thứ hai.)
+
+**EN**
+(Discern the second registration by following this pattern.)
+
+**VI**
+10. Do danh sắc hướng ý môn sinh nên ý xứ hướng ý môn sinh. Danh sắc hướng ý môn là nhân, ý xứ hướng ý môn là quả.
+
+**EN**
+10. Due to the arising of mind-door adverting mentality-materiality, the mind-door adverting mind base arises. Mind-door adverting mentality-materiality is the cause and the mind-door adverting mind base is the effect.
+
+**VI**
+Các mẫu quán để thực hành theo phương pháp này.
+
+**EN**
+Examples for practising this method of discernment.
+
+**VI**
+«Trong lộ nhãn môn và lộ ý môn lấy cảnh sắc làm cảnh, hãy quán từng sát-na tâm theo các bảng trong phần đề mục thiền về danh. Hãy quán theo mẫu ấy với chuỗi tâm lộ nhĩ môn lấy cảnh thinh và những lộ còn lại. Trong cả sáu loại lộ, hãy quán đầy đủ các lộ có tốc hành thiện và bất thiện. Quán chung hướng ngũ môn, xác định, tốc hành và hướng ý môn là để không bỏ sót pháp chân đế nào.»
+
+**EN**
+«In the eye-door and mind-door processes that take visible form as object, discern each consciousness moment according to the tables in the section on the meditation subject of mentality. Discern in the same way the sequence of ear-door consciousnesses taking sound as object, and the remaining processes. In all six kinds of process, discern all processes with wholesome and unwholesome impulsions. Five-door adverting, determining, impulsion and mind-door adverting are included to leave no ultimate phenomenon out.»
+
+
+<a id="M06-body-P105"></a>
+## Sáu xứ duyên xúc / The six bases condition contact
+Miến / Burmese 105
+
+**VI**
+Saḷāyatanapaccayā phasso — do sáu xứ sinh nên xúc sinh.
+
+**EN**
+Saḷāyatanapaccayā phasso — due to the arising of the six bases, contact arises.
+
+**VI**
+Nói gọn, có sáu loại xúc: nhãn xúc (cakkhusamphassa), nhĩ xúc (sotasamphassa), tỷ xúc (ghānasamphassa), thiệt xúc (jivhāsamphassa), thân xúc (kāyasamphassa) và ý xúc (manosamphassa). Trong số ấy, xúc tương ưng với tái tục, hữu phần, tử, hướng ngũ môn, tiếp thọ, suy đạc, xác định, tốc hành, đồng sở duyên và hướng ý môn đều gọi là ý xúc.
+
+**EN**
+In brief, there are six kinds of contact: eye-contact (cakkhusamphassa), ear-contact (sotasamphassa), nose-contact (ghānasamphassa), tongue-contact (jivhāsamphassa), body-contact (kāyasamphassa) and mind-contact (manosamphassa). Of these, contact associated with rebirth-linking, life-continuum, death, five-door adverting, receiving, investigating, determining, impulsion, registration and mind-door adverting is all called mind-contact.
+
+**VI**
+“Upādiṇṇakapavattikathā ayaṃ”ti sakasantatipariyāpanneva paccaye paccayuppanne ca dīpenti. (Chú giải Abhidhamma, quyển 2, tr. 168. Visuddhimagga, quyển 2, tr. 199.)
+
+**EN**
+“Upādiṇṇakapavattikathā ayaṃ”ti sakasantatipariyāpanneva paccaye paccayuppanne ca dīpenti. (Abhidhamma Commentary, vol. 2, p. 168. Visuddhimagga, vol. 2, p. 199.)
+
+**VI**
+Theo các chú giải trên, lời dạy Duyên khởi trong phần phân tích theo Kinh là lời dạy về sự diễn tiến của các pháp do nghiệp chấp thủ (upādiṇṇakapavattikathā). Lời dạy ấy chỉ rõ cách vòng quả sinh do nghiệp đã được tạo tác và vun bồi trong sự bao bọc của vô minh, ái và thủ. Vì thế, các vị thầy chỉ rõ những nhân và quả hữu hiệu trong chính dòng tương tục sắc danh của mình. (Chú giải Abhidhamma, quyển 2, tr. 168. Visuddhimagga, quyển 2, tr. 199.)
+
+**EN**
+According to those commentaries, the teaching of dependent origination in the analysis according to the Discourses concerns the course of what is acquired through kamma (upādiṇṇakapavattikathā). It sets out how the round of results arises due to kamma generated and cultivated while surrounded by ignorance, craving and clinging. Therefore the teachers set out the effective causes and effects within one’s own continuity of materiality and mentality. (Abhidhamma Commentary, vol. 2, p. 168. Visuddhimagga, vol. 2, p. 199.)
+
+**VI**
+Ye tāva ācariyā Mahāvihāravāsino va yathā viññāṇaṃ evaṃ nāmarūpaṃ saḷāyatanaṃ phassaṃ vedanañca, paccayaṃ paccayuppannañca sasantatipariyāpannaṃ dīpentā vipākameva icchanti. (Mahāṭīkā, quyển 2, tr. 323.)
+
+**EN**
+Ye tāva ācariyā Mahāvihāravāsino va yathā viññāṇaṃ evaṃ nāmarūpaṃ saḷāyatanaṃ phassaṃ vedanañca, paccayaṃ paccayuppannañca sasantatipariyāpannaṃ dīpentā vipākameva icchanti. (Mahāṭīkā, vol. 2, p. 323.)
+
+**VI**
+Khi trình bày nhân và quả trong các chi thức, danh sắc, sáu xứ, xúc và thọ của Duyên khởi, các vị thầy ở Mahāvihāra muốn chỉ rõ các nhân và quả hữu hiệu trong dòng tương tục của chính mình, nên chỉ lấy các pháp thuộc vòng quả. (Mahāṭīkā, quyển 2, tr. 323.)
+
+**EN**
+In setting out cause and effect in the dependent origination factors of consciousness, mentality-materiality, the six bases, contact and feeling, the teachers of the Mahāvihāra intend to show effective causes and effects in one’s own continuity and take only the phenomena of the round of results. (Mahāṭīkā, vol. 2, p. 323.)
+
+
+<a id="M06-body-P106"></a>
+## Sáu nội xứ và sáu ngoại xứ / The six internal and six external bases
+Miến / Burmese 106
+
+**VI**
+Trong Pāli Phân tích của Abhidhamma (quyển 2, tr. 145–187), lời “chaḷāyatanapaccayā phasso” được thuyết theo nghĩa do xứ thứ sáu, tức ý xứ, sinh nên ý xúc sinh. Đoạn Pāli ấy được thuyết nhằm chỉ cách xúc sinh do ý xứ trong cõi vô sắc, tức cách ý xúc sinh. Vì vậy, hãy ghi nhớ saḷāyatana là sáu xứ ở cõi có năm uẩn, còn chaḷāyatana là xứ thứ sáu ở cõi vô sắc.
+
+**EN**
+In the Pāli Analysis of the Abhidhamma (vol. 2, pp. 145–187), “chaḷāyatanapaccayā phasso” is taught in the sense that due to the arising of the sixth base, the mind base, mind-contact arises. That Pāli passage is taught with reference to how contact arises due to the mind base in the immaterial planes, that is, how mind-contact arises. Thus remember saḷāyatana as the six bases in the planes of five aggregates, and chaḷāyatana as the sixth base in the immaterial planes.
+
+**VI**
+Ở đây, lấy cả mười hai xứ: sáu nội xứ (ajjhattikāyatana) là nhãn xứ, nhĩ xứ, tỷ xứ, thiệt xứ, thân xứ và ý xứ; sáu ngoại xứ (bāhirāyatana) là sắc xứ, thinh xứ, hương xứ, vị xứ, xúc xứ và pháp xứ. Các nội xứ và ngoại xứ là những nơi hoạt động, nơi tâm và tâm sở có thể triển khai rộng.
+
+**EN**
+Here take all twelve bases: the six internal bases (ajjhattikāyatana) are the eye, ear, nose, tongue, body and mind bases; the six external bases (bāhirāyatana) are the visible-form, sound, odour, taste, tangible-object and mental-object bases. These internal and external bases are fields of activity in which consciousness and mental factors can develop and extend.
+
+**VI**
+Khi nhãn xứ, tức sắc thần kinh nhãn, gặp và tiếp nhận sắc xứ, tức cảnh sắc, nếu cảnh ấy khả ý thì có thể mỉm cười và làm cho quá trình ấy lan rộng. Nếu cảnh bất khả ý thì có thể cau mặt và làm cho quá trình ấy lan rộng. Vì vậy, nhãn xứ và sắc xứ là những nơi hoạt động giúp các tâm và tâm sở trong lộ nhãn môn và lộ ý môn lấy cảnh sắc làm cảnh triển khai rộng. Hãy hiểu các trường hợp còn lại theo cách ấy.
+
+**EN**
+When the eye base, eye-sensitivity, meets and encounters the visible-form base, the visible object, if the object is desirable one may smile and the process may grow, and if the object is undesirable one may frown and the process may grow. Thus the eye base and visible-form base are fields of activity that enable the consciousnesses and mental factors in eye-door and mind-door processes taking visible form as object to develop further. Understand the other cases in the same way.
+
+**VI**
+Trong mười hai xứ ấy, pháp xứ gồm (a) 52 tâm sở và (b) 16 sắc vi tế. Mọi tâm sở tương ưng với tâm tương ứng cũng gọi là pháp xứ. Trong các sắc vi tế có sắc ý vật nên sắc ý vật cũng gọi là pháp xứ. Các tâm sở tương ưng với tâm tương ứng…
+
+**EN**
+Among those twelve bases, the mental-object base comprises (a) fifty-two mental factors and (b) sixteen kinds of subtle materiality. All mental factors associated with the relevant consciousness are also called the mental-object base. Since heart-base materiality is included in the subtle materiality, the heart-base is also called the mental-object base. The mental factors associated with the relevant consciousness…
+
+
+<a id="M06-body-P107"></a>
+## Các duyên của ý xúc tái tục / Conditions for rebirth-linking mind-contact
+Miến / Burmese 107
+
+**VI**
+… đặc biệt là các tâm sở tương ưng với xúc tương ứng, được gọi là pháp xứ tương ưng (sampayuttadhammāyatana). Còn tâm, tức thức, mang tên ý xứ.
+
+**EN**
+… especially the mental factors associated with the relevant contact, are called the associated mental-object base (sampayuttadhammāyatana). Consciousness is called the mind base.
+
+**VI**
+Một số mẫu quán. Ý xúc tái tục là xúc tương ưng với tâm tái tục.
+
+**EN**
+Some examples of discernment. Rebirth-linking mind-contact is contact associated with rebirth-linking consciousness.
+
+**VI**
+1. Do ý vật, tức pháp xứ sinh nên ý xúc tái tục sinh. Ý vật, tức pháp xứ là nhân, ý xúc tái tục là quả.
+
+**EN**
+1. Due to the arising of the heart-base, a mental-object base, rebirth-linking mind-contact arises. The heart-base, a mental-object base is the cause and rebirth-linking mind-contact is the effect.
+
+**VI**
+2. Do ngoại xứ, tức một trong ba cảnh là nghiệp, nghiệp tướng hoặc thú tướng, sinh nên ý xúc tái tục sinh. Ngoại xứ là nhân, ý xúc tái tục là quả.
+
+**EN**
+2. Due to the arising of the external base, one of the three objects kamma, kamma sign, or destination sign, rebirth-linking mind-contact arises. The external base is the cause and rebirth-linking mind-contact is the effect.
+
+**VI**
+3. Do thức tái tục, tức ý xứ sinh nên ý xúc tái tục sinh. Thức tái tục, tức ý xứ là nhân, ý xúc tái tục là quả.
+
+**EN**
+3. Due to the arising of rebirth-linking consciousness, the mind base, rebirth-linking mind-contact arises. Rebirth-linking consciousness, the mind base is the cause and rebirth-linking mind-contact is the effect.
+
+**VI**
+4. Do pháp xứ tương ưng (= 32) sinh nên ý xúc tái tục sinh. Pháp xứ tương ưng (= 32) là nhân, ý xúc tái tục là quả.
+
+**EN**
+4. Due to the arising of the associated mental-object base (= 32), rebirth-linking mind-contact arises. The associated mental-object base (= 32) is the cause and rebirth-linking mind-contact is the effect.
+
+**VI**
+Ý xúc tái tục cũng là danh pháp. Theo quy luật của danh pháp, trong cõi có năm uẩn, nó chỉ có thể sinh khi có sắc căn vật làm chỗ nương. Lại nữa, vì xúc có tính chất tiếp xúc với cảnh, xúc chỉ có thể sinh khi có cảnh để tiếp xúc…
+
+**EN**
+Rebirth-linking mind-contact is itself a mental phenomenon. According to the regularity of mental phenomena, in the planes of five aggregates it can arise only if there is a material base as a support. Moreover, because contact has the nature of contacting an object, it can arise only if there is an object to contact…
+
+
+<a id="M06-body-P108"></a>
+## Cảnh tái tục và ý xúc của hướng ngũ môn / Rebirth-linking objects and mind-contact in five-door adverting
+Miến / Burmese 108
+
+**VI**
+… Không có cảnh để tiếp xúc thì xúc không thể sinh. Cảnh của nhóm danh pháp tái tục ấy là một trong ba loại: nghiệp, nghiệp tướng và thú tướng. Cảnh đó có thể thuộc một trong sáu loại cảnh tùy trường hợp. Nếu cảnh là nghiệp, thì đối với loài người, cảnh nghiệp ấy là tư thiện và tư thiện ấy thuộc pháp xứ. Nếu muốn quán riêng pháp xứ ấy, hãy thay mục 2 bằng cách quán sau:
+
+**EN**
+… In the absence of an object to contact, contact cannot arise. The object of that rebirth-linking mental group is one of three: kamma, a kamma sign, or a destination sign. That object can be one of the six kinds of object as appropriate. If the object is kamma, then for humans it is wholesome volition, and that wholesome volition belongs to the mental-object base. If wishing to discern that mental-object base separately, replace item 2 with the following:
+
+**VI**
+2. Do cảnh nghiệp, tức pháp xứ sinh nên ý xúc tái tục sinh. Cảnh nghiệp, tức pháp xứ là nhân, ý xúc tái tục là quả.
+
+**EN**
+2. Due to the arising of the kamma object, a mental-object base, rebirth-linking mind-contact arises. The kamma object, a mental-object base is the cause and rebirth-linking mind-contact is the effect.
+
+**VI**
+Pháp xứ tương ưng. Nếu tái tục là tam nhân hợp hỷ, có 33 tâm sở tương ưng với thức tái tục. Trong đó có xúc, tức ý xúc tái tục. Tâm thức tái tục là ý xứ. Trong 33 tâm sở, nếu trừ xúc làm quả thì còn 32 tâm sở. Các tâm sở ấy là nhóm pháp xứ, tức pháp xứ tương ưng. Hãy hiểu như vậy trong từng trường hợp. Hãy theo mẫu ý xúc tái tục mà quán ý xúc hữu phần và ý xúc tử.
+
+**EN**
+The associated mental-object base. In three-rooted rebirth-linking with joy there are thirty-three mental factors associated with rebirth-linking consciousness. They include contact, which is rebirth-linking mind-contact. Rebirth-linking consciousness is the mind base. When resultant contact is excluded from the thirty-three mental factors, thirty-two remain. Those mental factors make up the mental-object base, the associated mental-object base. Understand similarly in each case. Following the pattern of rebirth-linking mind-contact, discern life-continuum mind-contact and death mind-contact.
+
+**VI**
+Ý xúc của hướng ngũ môn trong loạt cảnh sắc.
+
+**EN**
+Mind-contact in five-door adverting in the visible-object series.
+
+**VI**
+1. Do ý vật, tức pháp xứ sinh nên ý xúc của hướng ngũ môn sinh. Ý vật, tức pháp xứ là nhân, ý xúc của hướng ngũ môn là quả.
+
+**EN**
+1. Due to the arising of the heart-base, a mental-object base, mind-contact in five-door adverting arises. The heart-base, a mental-object base is the cause and mind-contact in five-door adverting is the effect.
+
+
+<a id="M06-body-P109"></a>
+## Ý xúc của hướng ngũ môn và nhãn xúc / Mind-contact in five-door adverting and eye-contact
+Miến / Burmese 109
+
+**VI**
+2. Do sắc xứ, tức cảnh sắc sinh nên ý xúc của hướng ngũ môn sinh. Sắc xứ, tức cảnh sắc là nhân, ý xúc của hướng ngũ môn là quả.
+
+**EN**
+2. Due to the arising of the visible-form base, the visible object, mind-contact in five-door adverting arises. The visible-form base, the visible object is the cause and mind-contact in five-door adverting is the effect.
+
+**VI**
+3. Do ý xứ hướng ngũ môn sinh nên ý xúc của hướng ngũ môn sinh. Ý xứ hướng ngũ môn là nhân, ý xúc của hướng ngũ môn là quả.
+
+**EN**
+3. Due to the arising of the five-door adverting mind base, mind-contact in five-door adverting arises. The five-door adverting mind base is the cause and mind-contact in five-door adverting is the effect.
+
+**VI**
+4. Do pháp xứ tương ưng (= 9) sinh nên ý xúc của hướng ngũ môn sinh. Pháp xứ tương ưng (= 9) là nhân, ý xúc của hướng ngũ môn là quả.
+
+**EN**
+4. Due to the arising of the associated mental-object base (= 9), mind-contact in five-door adverting arises. The associated mental-object base (= 9) is the cause and mind-contact in five-door adverting is the effect.
+
+**VI**
+«Ghi chú. Để văn bản gọn hơn, ý xúc của hướng ngũ môn vừa nêu được viết lại theo dạng rút gọn dưới đây. Tuy bản văn viết gọn, khi quán hãy quán và nhận diện như mẫu đầy đủ ở trên. Hãy ghi nhớ tương tự với nhãn xúc và các xúc còn lại.»
+
+**EN**
+«Note. For brevity, the mind-contact of five-door adverting just described is given again in abbreviated form below. Though the text is abbreviated, when discerning, discern as in the full pattern above. Remember the same for eye-contact and the other kinds of contact.»
+
+**VI**
+Ý xúc của hướng ngũ môn trong loạt cảnh sắc.
+1. Ý vật, tức pháp xứ …
+2. Sắc xứ (= cảnh sắc) …
+3. Ý xứ hướng ngũ môn …
+4. Pháp xứ tương ưng (= 9) …
+
+**EN**
+Mind-contact in five-door adverting in the visible-object series.
+1. The heart-base, a mental-object base …
+2. The visible-form base (= visible object) …
+3. The five-door adverting mind base …
+4. The associated mental-object base (= 9) …
+
+**VI**
+Nhãn xúc là xúc tương ưng với nhãn thức.
+1. Nhãn xứ (= nhãn vật) …
+2. Sắc xứ (= cảnh sắc) …
+
+**EN**
+Eye-contact is the contact associated with eye-consciousness.
+1. The eye base (= eye-base materiality) …
+2. The visible-form base (= visible object) …
+
+
+<a id="M06-body-P110"></a>
+## Xúc trong lộ nhãn môn, đến tốc hành thứ nhất / Contact in the eye-door process, through the first impulsion
+Miến / Burmese 110
+
+**VI**
+3. Ý xứ nhãn thức …
+4. Pháp xứ tương ưng (= 6) …
+
+**EN**
+3. The eye-consciousness mind base …
+4. The associated mental-object base (= 6) …
+
+**VI**
+Ý xúc của tiếp thọ trong loạt cảnh sắc.
+1. Ý vật, tức pháp xứ …
+2. Sắc xứ …
+3. Ý xứ tiếp thọ …
+4. Pháp xứ tương ưng (= 9) …
+
+**EN**
+Mind-contact in receiving in the visible-object series.
+1. The heart-base, a mental-object base …
+2. The visible-form base …
+3. The receiving mind base …
+4. The associated mental-object base (= 9) …
+
+**VI**
+Ý xúc của suy đạc trong loạt cảnh sắc.
+1. Ý vật, tức pháp xứ …
+2. Sắc xứ …
+3. Ý xứ suy đạc …
+4. Pháp xứ tương ưng (= 9 hoặc 10) …
+
+**EN**
+Mind-contact in investigating in the visible-object series.
+1. The heart-base, a mental-object base …
+2. The visible-form base …
+3. The investigating mind base …
+4. The associated mental-object base (= 9 or 10) …
+
+**VI**
+Ý xúc của xác định trong loạt cảnh sắc.
+1. Ý vật, tức pháp xứ …
+2. Sắc xứ …
+3. Ý xứ xác định …
+4. Pháp xứ tương ưng (= 10) …
+
+**EN**
+Mind-contact in determining in the visible-object series.
+1. The heart-base, a mental-object base …
+2. The visible-form base …
+3. The determining mind base …
+4. The associated mental-object base (= 10) …
+
+**VI**
+Ý xúc của tốc hành thứ nhất trong loạt cảnh sắc, trường hợp tốc hành thiện.
+1. Ý vật, tức pháp xứ …
+2. Sắc xứ …
+3. Ý xứ tốc hành thứ nhất …
+4. Pháp xứ tương ưng (= 32) …
+
+**EN**
+Mind-contact in the first impulsion in the visible-object series, in the case of wholesome impulsion.
+1. The heart-base, a mental-object base …
+2. The visible-form base …
+3. The first impulsion mind base …
+4. The associated mental-object base (= 32) …
+
+
+<a id="M06-body-P111"></a>
+## Ý xúc của đồng sở duyên và hướng ý môn / Mind-contact in registration and mind-door adverting
+Miến / Burmese 111
+
+**VI**
+«Hãy theo mẫu mà quán và nhận diện các tốc hành còn lại, bắt đầu từ tốc hành thứ hai, và các lộ tốc hành thiện hay bất thiện còn lại. Hãy nhận diện và quán đủ cả bảy tốc hành.»
+
+**EN**
+«Follow the pattern to discern the remaining impulsions, beginning with the second, and the remaining processes of wholesome and unwholesome impulsions. Discern all seven impulsions in full.»
+
+**VI**
+Ý xúc của đồng sở duyên thứ nhất trong loạt cảnh sắc.
+1. Ý vật, tức pháp xứ …
+2. Sắc xứ …
+3. Ý xứ đồng sở duyên …
+4. Pháp xứ tương ưng (= 32) …
+
+**EN**
+Mind-contact in the first registration in the visible-object series.
+1. The heart-base, a mental-object base …
+2. The visible-form base …
+3. The registration mind base …
+4. The associated mental-object base (= 32) …
+
+**VI**
+«Khi các đồng sở duyên khác sinh, như đồng sở duyên đại quả, đồng sở duyên quả thiện vô nhân và đồng sở duyên quả bất thiện, hãy quán theo cách ấy. Chỉ số lượng tâm sở thuộc pháp xứ tương ưng thay đổi.»
+
+**EN**
+«When the other registration consciousnesses arise, such as great resultant registration, rootless wholesome-resultant registration and unwholesome-resultant registration, discern in the same way. Only the number of mental factors in the associated mental-object base varies.»
+
+**VI**
+Ý xúc của hướng ý môn lấy cảnh sắc làm cảnh.
+1. Ý vật, tức pháp xứ …
+2. Sắc xứ …
+3. Ý xứ hướng ý môn …
+4. Pháp xứ tương ưng (= 10) …
+
+**EN**
+Mind-contact in mind-door adverting taking visible form as object.
+1. The heart-base, a mental-object base …
+2. The visible-form base …
+3. The mind-door adverting mind base …
+4. The associated mental-object base (= 10) …
+
+**VI**
+Ghi chú. Trong loạt cảnh sắc này, hãy quán đầy đủ các lộ tốc hành thiện và bất thiện theo các bảng ở phần đề mục thiền về danh. Khi quán như vậy, số lượng tâm sở ở suy đạc, tốc hành và đồng sở duyên thay đổi theo các bảng. Vì thế, trong pháp xứ tương ưng, các tâm sở còn lại sau khi trừ xúc…
+
+**EN**
+Note. In this visible-object series, discern all processes with wholesome and unwholesome impulsions according to the tables in the section on the meditation subject of mentality. When discerning this way, the number of mental factors in investigating, impulsion and registration varies according to the tables. Thus in the associated mental-object base, the mental factors remaining after excluding contact…
+
+
+<a id="M06-body-P112"></a>
+## Những tâm cần nhận diện trong cùng một lộ / Consciousnesses to discern in the same process
+Miến / Burmese 112
+
+**VI**
+… hãy lấy đủ tất cả, tùy từng trường hợp. Với lộ nhĩ môn và lộ ý môn lấy cảnh thinh, chỉ thay sắc xứ bằng thinh xứ, tức cảnh thinh, và thay tương tự ở những cảnh khác. Hãy quán theo mẫu ấy.
+
+**EN**
+… take all of them as appropriate. For ear-door and mind-door processes taking sound, substitute the sound base, namely the sound object, for the visible-form base, and proceed similarly for other objects. Discern according to the pattern.
+
+**VI**
+Hướng ngũ môn, hướng ý môn, xác định và tốc hành không thuộc vòng quả. Chỉ vì mục đích không bỏ sót pháp chân đế nào mà quán chung các tâm ấy.
+
+**EN**
+Five-door adverting, mind-door adverting, determining and impulsion do not belong to the round of results. They are included solely so that no ultimate phenomenon is omitted.
+
+**VI**
+Các danh uẩn quả thuộc ngũ thức, tiếp thọ, suy đạc và đồng sở duyên trong lộ ngũ môn không thể sinh riêng nếu trước đó không có hướng ngũ môn. Đồng sở duyên trong lộ ý môn cũng không thể sinh nếu thiếu hướng ý môn. Lại nữa, đồng sở duyên thường chỉ sinh sau tốc hành, nên không có tốc hành thì không có đồng sở duyên. Tốc hành trong lộ ngũ môn không sinh nếu thiếu xác định, và trong lộ ý môn không sinh nếu thiếu hướng ý môn.
+
+**EN**
+The resultant mental aggregates of sense-consciousness, receiving, investigating and registration in a five-door process cannot arise separately without prior five-door adverting. Registration in a mind-door process likewise cannot arise without mind-door adverting. Registration ordinarily arises only after impulsion, so without impulsion there is no registration. Impulsion does not arise in a five-door process without determining, or in a mind-door process without mind-door adverting.
+
+**VI**
+Vì thế, khi các danh pháp quả thuộc ngũ thức, tiếp thọ, suy đạc và đồng sở duyên sinh, hướng môn, xác định và tốc hành thường có mặt trong cùng lộ. Khi quán những danh pháp quả ấy, quán chung cả hướng môn, xác định và tốc hành để không bỏ sót pháp chân đế nào thì không có lỗi. Trong phép quán minh sát, phá vỡ sự thấy các pháp như khối đặc để trí thấu đến chân đế là điều đặc biệt quan trọng.
+
+**EN**
+Thus, when the resultant mental phenomena of sense-consciousness, receiving, investigating and registration arise, adverting, determining and impulsion are ordinarily present in the same process. When discerning those resultant mental phenomena, there is no fault in including adverting, determining and impulsion so that no ultimate phenomenon is omitted. In insight discernment, breaking up the appearance of compactness so that knowledge penetrates ultimate reality is especially important.
+
+
+<a id="M06-body-P113"></a>
+## Xúc duyên thọ và sáu loại thọ / Contact conditions feeling, and the six kinds of feeling
+Miến / Burmese 113
+
+**VI**
+Phassapaccayā vedanā — do xúc sinh nên thọ sinh.
+
+**EN**
+Phassapaccayā vedanā — due to the arising of contact, feeling arises.
+
+**VI**
+Tattha katamā phassapaccayā vedanā? Cakkhusamphassajā vedanā, sotasamphassajā vedanā, ghānasamphassajā vedanā, jivhāsamphassajā vedanā, kāyasamphassajā vedanā, manosamphassajā vedanā. Ayaṃ vuccati phassapaccayā vedanā. (Abhidhamma, quyển 2, tr. 143.)
+
+**EN**
+Tattha katamā phassapaccayā vedanā? Cakkhusamphassajā vedanā, sotasamphassajā vedanā, ghānasamphassajā vedanā, jivhāsamphassajā vedanā, kāyasamphassajā vedanā, manosamphassajā vedanā. Ayaṃ vuccati phassapaccayā vedanā. (Abhidhamma, vol. 2, p. 143.)
+
+**VI**
+1. Cakkhusamphassajā vedanā là thọ sinh do nhãn xúc.
+2. Sotasamphassajā vedanā là thọ sinh do nhĩ xúc.
+3. Ghānasamphassajā vedanā là thọ sinh do tỷ xúc.
+4. Jivhāsamphassajā vedanā là thọ sinh do thiệt xúc.
+5. Kāyasamphassajā vedanā là thọ sinh do thân xúc.
+6. Manosamphassajā vedanā là thọ sinh do ý xúc.
+
+**EN**
+1. Cakkhusamphassajā vedanā is feeling born of eye-contact.
+2. Sotasamphassajā vedanā is feeling born of ear-contact.
+3. Ghānasamphassajā vedanā is feeling born of nose-contact.
+4. Jivhāsamphassajā vedanā is feeling born of tongue-contact.
+5. Kāyasamphassajā vedanā is feeling born of body-contact.
+6. Manosamphassajā vedanā is feeling born of mind-contact.
+
+**VI**
+Như vậy, sáu loại thọ sinh do sáu loại xúc. Ở đây, thiện nhân nên biết sự phân biệt giữa “thọ sinh do nhãn xúc” và “thọ có nhãn xúc làm duyên”, và các trường hợp tương tự.
+
+**EN**
+Thus six kinds of feeling arise due to six kinds of contact. Here a good person should know the distinction between “feeling born of eye-contact” and “feeling conditioned by eye-contact,” and the corresponding cases.
+
+**VI**
+Thọ sinh do nhãn xúc và thọ có nhãn xúc làm duyên.
+
+**EN**
+Feeling born of eye-contact and feeling conditioned by eye-contact.
+
+**VI**
+Cakkhusamphassajā vedanā, pe, atthi kusalā, atthi akusalā, atthi abyākatā. (Abhidhamma, quyển 2, tr. 16.)
+
+**EN**
+Cakkhusamphassajā vedanā, pe, atthi kusalā, atthi akusalā, atthi abyākatā. (Abhidhamma, vol. 2, p. 16.)
+
+**VI**
+Cakkhusamphassapaccayā vedanākkhandho atthi kusalo, atthi akusalo, atthi abyākato. (Abhidhamma, quyển 2, tr. 25.)
+
+**EN**
+Cakkhusamphassapaccayā vedanākkhandho atthi kusalo, atthi akusalo, atthi abyākato. (Abhidhamma, vol. 2, p. 25.)
+
+**VI**
+Cakkhusamphassajā vedanā, pe, manosamphassajā vedanāti etaṃ “cakkhusamphassajā vedanā atthi kusalā, atthi akusalā, atthi…
+
+**EN**
+Cakkhusamphassajā vedanā, pe, manosamphassajā vedanāti etaṃ “cakkhusamphassajā vedanā atthi kusalā, atthi akusalā, atthi…
+
+
+<a id="M06-body-P114"></a>
+## Phạm vi của thọ có nhãn xúc làm duyên / The scope of feeling conditioned by eye-contact
+Miến / Burmese 114
+
+**VI**
+… abyākatā”ti evaṃ Vibhaṅge āgatattā cakkhudvārādīsu pavattānaṃ kusalākusalābyākatavedanānaṃ “Sāriputtatthero, Mantāṇiputtatthero”ti evamādīsu mātito nāmaṃ viya mātusadisavatthuto nāmaṃ. Vacanattho panettha cakkhusamphassahetu jātā vedanā cakkhusamphassajā vedanāti. Esa nayo sabbattha. (Chú giải Majjhima, quyển 1, tr. 225. Chú giải Saṃyutta, quyển 2, tr. 15.)
+
+**EN**
+… abyākatā”ti evaṃ Vibhaṅge āgatattā cakkhudvārādīsu pavattānaṃ kusalākusalābyākatavedanānaṃ “Sāriputtatthero, Mantāṇiputtatthero”ti evamādīsu mātito nāmaṃ viya mātusadisavatthuto nāmaṃ. Vacanattho panettha cakkhusamphassahetu jātā vedanā cakkhusamphassajā vedanāti. Esa nayo sabbattha. (Majjhima Commentary, vol. 1, p. 225. Saṃyutta Commentary, vol. 2, p. 15.)
+
+**VI**
+Trong lời “thọ uẩn có nhãn xúc làm duyên”, hãy hiểu “có thọ thiện” theo tám tâm thiện dục giới, “có thọ bất thiện” theo mười hai tâm bất thiện, và “có thọ vô ký” theo ba ý giới, ba ý thức giới vô nhân, tám tâm đại quả và mười tâm duy tác dục giới.
+
+**EN**
+In the statement “the feeling aggregate conditioned by eye-contact,” understand “there is wholesome feeling” by way of the eight wholesome sense-sphere consciousnesses, “there is unwholesome feeling” by way of the twelve unwholesome consciousnesses, and “there is indeterminate feeling” by way of the three mind elements, three rootless mind-consciousness elements, eight great resultant consciousnesses and ten sense-sphere functional consciousnesses.
+
+**VI**
+Trong đó, tám tâm thiện và mười hai tâm bất thiện được lấy theo tốc hành. Ý giới duy tác được lấy theo hướng môn, hai ý giới quả theo tiếp thọ, ba ý thức giới quả theo suy đạc và đồng sở duyên, ý thức giới duy tác vô nhân theo xác định, tám tâm đại quả theo đồng sở duyên và chín tâm duy tác theo tốc hành. Đối với nhĩ môn, tỷ môn, thiệt môn và thân môn cũng theo cách ấy. (Chú giải Abhidhamma, quyển 2, tr. 36.)
+
+**EN**
+Here the eight wholesome and twelve unwholesome consciousnesses are taken by way of impulsion. The functional mind element is taken by way of adverting, the two resultant mind elements by receiving, the three resultant mind-consciousness elements by investigating and registration, the rootless functional mind-consciousness element by determining, the eight great resultant consciousnesses by registration and the nine functional consciousnesses by impulsion. The same method applies to the ear, nose, tongue and body doors. (Abhidhamma Commentary, vol. 2, p. 36.)
+
+**VI**
+“Cảm thọ có nhãn xúc làm duyên” là thọ sinh ở tiếp thọ, suy đạc, xác định và tốc hành, lấy nhãn xúc làm duyên gốc. Riêng thọ tương ưng với nhãn thức thì không cần nêu thêm. Đối với thọ có nhĩ xúc làm duyên và những trường hợp còn lại cũng theo cách ấy. (Chú giải Saṃyutta, quyển 3, tr. 5.)
+
+**EN**
+“One feels with eye-contact as condition” refers to feeling arising in receiving, investigating, determining and impulsion, with eye-contact as its root condition. As for feeling associated with eye-consciousness itself, there is no need to state it separately. The same method applies to feeling conditioned by ear-contact and the remaining cases. (Saṃyutta Commentary, vol. 3, p. 5.)
+
+**VI**
+Theo các đoạn Pāli và chú giải vừa nêu, lấy nhãn xúc tương ưng với nhãn thức làm nhân, các tâm sau đây sinh khởi…
+
+**EN**
+According to the Pāli and commentarial passages above, taking eye-contact associated with eye-consciousness as cause, the following consciousnesses arise…
+
+
+<a id="M06-body-P115"></a>
+## Thọ trong lộ nhãn môn / Feeling in the eye-door process
+Miến / Burmese 115
+
+**VI**
+1. Hướng ngũ môn.
+2. Nhãn thức.
+3. Tiếp thọ.
+4. Suy đạc.
+5. Xác định.
+6. (a) Tốc hành thiện dục giới, (b) tốc hành bất thiện, (c) tốc hành duy tác dục giới.
+7. Đồng sở duyên.
+
+**EN**
+1. Five-door adverting.
+2. Eye-consciousness.
+3. Receiving.
+4. Investigating.
+5. Determining.
+6. (a) Wholesome sense-sphere impulsion, (b) unwholesome impulsion, (c) functional sense-sphere impulsion.
+7. Registration.
+
+**VI**
+Mọi thọ tương ưng với các tâm thiện, bất thiện và vô ký, tức tâm quả và tâm duy tác, ấy gọi là thọ sinh do nhãn xúc và thọ có nhãn xúc làm duyên. Hãy hiểu tương tự đối với thọ sinh do nhĩ xúc, thọ có nhĩ xúc làm duyên và các trường hợp còn lại.
+
+**EN**
+All feeling associated with those wholesome, unwholesome and indeterminate consciousnesses, namely resultant and functional consciousnesses, is called feeling born of eye-contact and feeling conditioned by eye-contact. Understand similarly for feeling born of ear-contact, feeling conditioned by ear-contact and the remaining cases.
+
+**VI**
+Kiriyāmanodhātu āvajjanavasena labbhati. (Chú giải Abhidhamma, quyển 2, tr. 36.)
+
+**EN**
+Kiriyāmanodhātu āvajjanavasena labbhati. (Abhidhamma Commentary, vol. 2, p. 36.)
+
+**VI**
+Như vậy, thọ tương ưng với hướng ngũ môn cũng được giải thích là sinh do nhãn xúc. Hãy ghi nhớ đây là một cách nói về nhân. Thọ tương ưng với hướng ngũ môn sinh trước. Chỉ khi nhóm danh pháp hướng ngũ môn đi cùng thọ ấy đã diệt thì nhãn xúc tương ưng với nhãn thức mới có cơ hội sinh. Quả sinh trước và nhân sinh sau. Nhãn xúc sinh sau, tương ưng với nhãn thức, trợ cho thọ tương ưng với hướng ngũ môn sinh trước.
+
+**EN**
+Thus feeling associated with five-door adverting is also explained as arising due to eye-contact. Remember that this is one way of speaking about causality. The feeling associated with five-door adverting arises earlier. Only after the group of five-door adverting mental phenomena accompanying that feeling has ceased can eye-contact associated with eye-consciousness arise. The effect arises earlier and the cause later. The later eye-contact associated with eye-consciousness supports the feeling associated with the earlier five-door adverting.
+
+**VI**
+Điều này có vẻ thuộc hậu sinh duyên. Tuy nhiên, như đã giải thích ở phần “danh sắc duyên sáu xứ”, trong hậu sinh duyên, pháp trợ là danh và pháp được trợ là sắc. Ở đây…
+
+**EN**
+This seems to fall under postnascence condition. Yet, as explained in the section “mentality-materiality conditions the six bases,” in postnascence condition the conditioning phenomenon is mental and the conditioned phenomenon is material. Here…
+
+
+<a id="M06-body-P116"></a>
+## Theo nghĩa nào nhãn xúc làm duyên cho thọ ở hướng ngũ môn? / In what sense does eye-contact condition feeling at five-door adverting?
+Miến / Burmese 116
+
+**VI**
+… cả nhân và quả đều là danh pháp. Vì vậy, trường hợp này cũng không thuộc hậu sinh duyên.
+
+**EN**
+… both the cause and the effect are mental phenomena. Thus this case does not fall under postnascence condition either.
+
+**VI**
+Tuy nhiên, hướng ngũ môn xem xét cảnh sắc chỉ có cơ hội sinh trong dòng tương tục của người có sắc thần kinh nhãn, nơi nhãn xúc có thể sinh. Trong dòng tương tục của người thiếu sắc thần kinh nhãn, nơi nhãn xúc không thể sinh, hướng ngũ môn xem xét cảnh sắc cũng không có cơ hội sinh. Đó là vì người thiếu sắc thần kinh nhãn không có điều kiện cho cả một lộ nhãn môn sinh. Theo cách nói về nhân như vậy, có thể và thích hợp nói rằng thọ tương ưng với hướng ngũ môn sinh do nhãn xúc. Hãy hiểu tương tự khi nhĩ xúc và các xúc còn lại trợ cho thọ tương ưng với hướng ngũ môn.
+
+**EN**
+Yet five-door adverting that attends to a visible object can arise only in the continuity of someone with eye-sensitivity, where eye-contact can arise. In the continuity of someone lacking eye-sensitivity, where eye-contact cannot arise, five-door adverting that attends to a visible object also has no opportunity to arise. This is because a person lacking eye-sensitivity has no opportunity for an entire eye-door process to arise. In this way of speaking about causality, it is appropriate to say that feeling associated with five-door adverting arises due to eye-contact. Understand similarly when ear-contact and the other contacts support feeling associated with five-door adverting.
+
+**VI**
+Theo lời giải thích này, thọ sinh do nhãn xúc gồm tất cả thọ trong một lộ nhãn môn và tất cả thọ trong một lộ ý môn tiếp sau lấy chính cảnh sắc ấy làm cảnh. Tất cả các thọ ấy gọi là thọ sinh do nhãn xúc. Hãy quán cho trí thấy từng thọ sinh do nhãn xúc như trong các bảng ở phần đề mục thiền về danh, rồi quán ít nhất một mục trong mỗi hàng theo mẫu dưới đây. Hãy quán tương tự đối với thọ sinh do nhĩ xúc và các xúc còn lại.
+
+**EN**
+On this explanation, feeling born of eye-contact comprises all feeling in an eye-door process and all feeling in a subsequent mind-door process taking that very visible object. All these feelings are called feeling born of eye-contact. Discern with knowledge each feeling arising due to eye-contact as shown in the tables in the section on the meditation subject of mentality, then discern at least one item in each row according to the pattern below. Discern likewise for feeling born of ear-contact and the other contacts.
+
+**VI**
+1. Do nhãn xúc sinh nên thọ sinh do nhãn xúc sinh. Nhãn xúc là nhân, thọ sinh do nhãn xúc là quả.
+
+**EN**
+1. Due to the arising of eye-contact, feeling born of eye-contact arises. Eye-contact is the cause and feeling born of eye-contact is the effect.
+
+
+<a id="M06-body-P117"></a>
+## Sáu mẫu quán xúc duyên thọ và định nghĩa ý xúc / Six examples of contact conditioning feeling and the definition of mind-contact
+Miến / Burmese 117
+
+**VI**
+2. Do nhĩ xúc sinh nên thọ sinh do nhĩ xúc sinh. Nhĩ xúc là nhân, thọ sinh do nhĩ xúc là quả.
+
+**EN**
+2. Due to the arising of ear-contact, feeling born of ear-contact arises. Ear-contact is the cause and feeling born of ear-contact is the effect.
+
+**VI**
+3. Do tỷ xúc sinh nên thọ sinh do tỷ xúc sinh. Tỷ xúc là nhân, thọ sinh do tỷ xúc là quả.
+
+**EN**
+3. Due to the arising of nose-contact, feeling born of nose-contact arises. Nose-contact is the cause and feeling born of nose-contact is the effect.
+
+**VI**
+4. Do thiệt xúc sinh nên thọ sinh do thiệt xúc sinh. Thiệt xúc là nhân, thọ sinh do thiệt xúc là quả.
+
+**EN**
+4. Due to the arising of tongue-contact, feeling born of tongue-contact arises. Tongue-contact is the cause and feeling born of tongue-contact is the effect.
+
+**VI**
+5. Do thân xúc sinh nên thọ sinh do thân xúc sinh. Thân xúc là nhân, thọ sinh do thân xúc là quả.
+
+**EN**
+5. Due to the arising of body-contact, feeling born of body-contact arises. Body-contact is the cause and feeling born of body-contact is the effect.
+
+**VI**
+6. Do ý xúc sinh nên thọ sinh do ý xúc sinh. Ý xúc là nhân, thọ sinh do ý xúc là quả.
+
+**EN**
+6. Due to the arising of mind-contact, feeling born of mind-contact arises. Mind-contact is the cause and feeling born of mind-contact is the effect.
+
+**VI**
+Thế nào là ý xúc?
+
+**EN**
+What is mind-contact?
+
+**VI**
+Manosamphassajāti bhavaṅgasahajāto samphasso. Vedayitanti sahāvajjanavedanāya javanavedanā. Bhavaṅgasampayuttāya pana vattabbameva natthi. (Chú giải Saṃyutta, quyển 3, tr. 5.)
+
+**EN**
+Manosamphassajāti bhavaṅgasahajāto samphasso. Vedayitanti sahāvajjanavedanāya javanavedanā. Bhavaṅgasampayuttāya pana vattabbameva natthi. (Saṃyutta Commentary, vol. 3, p. 5.)
+
+**VI**
+Theo các chú giải trên, xúc tương ưng với hữu phần ở trước lộ ý môn là ý xúc. Thọ tương ưng với hướng ý môn, tốc hành và đồng sở duyên nếu có, trong lộ ý môn, là thọ sinh do ý xúc. Thọ tương ưng với hữu phần cũng là thọ sinh do ý xúc. Do ý xúc của hữu phần trước, thọ sinh do ý xúc của hữu phần sau…
+
+**EN**
+According to the commentaries above, the contact associated with life-continuum before the mind-door process is mind-contact. The feeling associated with mind-door adverting, impulsion and registration, when present, within the mind-door process is feeling born of mind-contact. Feeling associated with life-continuum is itself also feeling born of mind-contact. Due to mind-contact in an earlier life-continuum, feeling born of mind-contact in a later life-continuum…
+
+
+<a id="M06-body-P118"></a>
+## Ý xúc và thọ duyên ái / Mind-contact and feeling conditioning craving
+Miến / Burmese 118
+
+**VI**
+… cũng có thể sinh. Hãy ghi nhớ rằng do ý xúc đồng sinh với hữu phần, thọ sinh do ý xúc đồng sinh với hữu phần cũng có thể sinh. Vì lộ ý môn có thể lấy cả sáu loại cảnh, hãy quán theo cách ấy đối với cả sáu.
+
+**EN**
+… can also arise. Remember that due to mind-contact conascent with life-continuum, feeling born of mind-contact conascent with life-continuum can also arise. Since mind-door processes can take all six kinds of object, discern in this way for all six.
+
+**VI**
+Xúc tương ưng với hữu phần, cùng với hướng ý môn, cũng được giải thích là ý xúc. (Chú giải Saṃyutta, quyển 3, tr. 5.) Do ý xúc ấy mà các thọ sinh do ý xúc tương ưng với tốc hành và đồng sở duyên nếu có sinh khởi. Hãy nhận diện và quán cho trí thấy rõ.
+
+**EN**
+The contact associated with life-continuum, together with mind-door adverting, is also explained as mind-contact. (Saṃyutta Commentary, vol. 3, p. 5.) Due to that mind-contact, feelings born of mind-contact associated with impulsion and registration, when present, arise. Discern them so that knowledge sees clearly.
+
+**VI**
+Vedanāpaccayā taṇhā — do thọ sinh nên ái sinh.
+
+**EN**
+Vedanāpaccayā taṇhā — due to the arising of feeling, craving arises.
+
+**VI**
+Sáu loại ái sinh do sáu loại thọ gồm sắc ái, thinh ái, hương ái, vị ái, xúc ái và pháp ái. (Abhidhamma, quyển 2, tr. 143.)
+
+**EN**
+The six kinds of craving arising due to six kinds of feeling are craving for visible form, sound, odour, taste, tangible objects and mental objects. (Abhidhamma, vol. 2, p. 143.)
+
+**VI**
+Tùy cách sinh, mỗi loại ái ấy lại có ba dạng: dục ái, hữu ái và phi hữu ái. Khi sắc ái sinh với sự ưa thích mạnh mẽ đối với cảnh sắc hiện đến nhãn môn, do sức của dục tham (kāmacchanda), tức sự ưa thích mãnh liệt đối với đối tượng dục (vatthukāma), khi ấy nó gọi là dục ái.
+
+**EN**
+According to how it arises, each kind of craving in turn has three forms: craving for sensual pleasures, craving for becoming, and craving for non-becoming. When craving for visible form arises with intense delight in the visible object that appears at the eye door, by the power of sensual desire (kāmacchanda), that is, strong delight in a sensual object (vatthukāma), it is called craving for sensual pleasures.
+
+**VI**
+Có lúc sắc ái sinh cùng thường kiến cho rằng chính cảnh sắc ấy thường còn và hiện hữu mọi lúc…
+
+**EN**
+At times craving for visible form arises together with the eternalist view that the very visible object is permanent and exists at all times…
+
+
+<a id="M06-body-P119"></a>
+## Dục ái, hữu ái và phi hữu ái / Craving for sensual pleasures, becoming and non-becoming
+Miến / Burmese 119
+
+**VI**
+… Khi ấy gọi là hữu ái. Tham sinh cùng thường kiến được gọi là hữu ái.
+
+**EN**
+… In that case it is called craving for becoming. Greed arising together with eternalism is called craving for becoming.
+
+**VI**
+Lại có lúc sắc ái sinh cùng đoạn kiến cho rằng chính cảnh sắc ấy sẽ đoạn diệt khi chết. Khi ấy sắc ái gọi là phi hữu ái. Tham sinh cùng đoạn kiến gọi là phi hữu ái. Hãy hiểu theo cách này với thinh ái và các loại ái còn lại. (Chú giải Abhidhamma, quyển 2, tr. 170–171. Visuddhimagga, quyển 2, tr. 202.)
+
+**EN**
+At other times craving for visible form arises together with the annihilationist view that the very visible object will perish at death. In that case it is called craving for non-becoming. Greed arising together with annihilationism is called craving for non-becoming. Understand the same with craving for sound and the other kinds. (Abhidhamma Commentary, vol. 2, pp. 170–171. Visuddhimagga, vol. 2, p. 202.)
+
+**VI**
+Hữu ái (bhavataṇhā). Dù là cảnh sắc, cảnh thinh hay bất kỳ cảnh nào, kiến chấp lấy cảnh ấy làm tự ngã và cho rằng “tự ngã ấy thường còn”, tức thường kiến, gọi là hữu. Ái sinh cùng kiến ấy gọi là hữu ái. (Bhavatīti bhavo. Bhavoti pavattā diṭṭhi bhavadiṭṭhi. Bhavena sahagatā taṇhā bhavataṇhā.)
+
+**EN**
+Craving for becoming (bhavataṇhā). Whether in regard to a visible form, a sound or any other object, the view that takes it to be a self and holds “that self is permanent,” namely eternalism, is called becoming. Craving arising together with that view is called craving for becoming. (Bhavatīti bhavo. Bhavoti pavattā diṭṭhi bhavadiṭṭhi. Bhavena sahagatā taṇhā bhavataṇhā.)
+
+**VI**
+Phi hữu ái (vibhavataṇhā). Na bhavatīti vibhavo. Vibhavoti pavattā diṭṭhi vibhavadiṭṭhi. Vibhavena sahagatā taṇhā vibhavataṇhā. Kiến chấp lấy một trong sáu cảnh làm tự ngã và cho rằng “tự ngã ấy không thường còn, chết là đoạn diệt”, tức đoạn kiến, gọi là phi hữu. Ái sinh cùng kiến ấy gọi là phi hữu ái.
+
+**EN**
+Craving for non-becoming (vibhavataṇhā). Na bhavatīti vibhavo. Vibhavoti pavattā diṭṭhi vibhavadiṭṭhi. Vibhavena sahagatā taṇhā vibhavataṇhā. The view that takes any of the six objects as a self and holds “that self is not permanent and is cut off at death,” namely annihilationism, is called non-becoming. Craving arising with that view is called craving for non-becoming.
+
+**VI**
+Yasmā vātiādinā na kevalaṃ vipākasukhavedanā eva, tissopi pana vedanā vipākā visesena taṇhāya upanissayapaccayā, avisesena itarā cāti dasseti. (Mūlaṭīkā, quyển 2, tr. 120.)
+
+**EN**
+Yasmā vātiādinā na kevalaṃ vipākasukhavedanā eva, tissopi pana vedanā vipākā visesena taṇhāya upanissayapaccayā, avisesena itarā cāti dasseti. (Mūlaṭīkā, vol. 2, p. 120.)
+
+**VI**
+Kammaphalābhipatthanāvasena sattā kammāni āyūhantīti sātisayaṃ taṇhāya vipākavedanā upanissayo, na tathā itarāti āha “vipākā visesena, pe, avisesena itarā cā”ti. Itarāti avipākāti attho. (Anuṭīkā, quyển 2, tr. 132.)
+
+**EN**
+Kammaphalābhipatthanāvasena sattā kammāni āyūhantīti sātisayaṃ taṇhāya vipākavedanā upanissayo, na tathā itarāti āha “vipākā visesena, pe, avisesena itarā cā”ti. Itarāti avipākāti attho. (Anuṭīkā, vol. 2, p. 132.)
+
+
+<a id="M06-body-P120"></a>
+## Thọ quả trợ ái bằng cận y duyên / Resultant feeling supports craving by decisive support condition
+Miến / Burmese 120
+
+**VI**
+Do ước nguyện tha thiết muốn có quả của nghiệp, chúng sinh tạo tác và vun bồi nghiệp. Vì thế, các chú giải và phụ chú giải trên giải thích rằng những thọ quả tương ưng với ngũ thức, tiếp thọ, suy đạc và đồng sở duyên trong các lộ như lộ nhãn môn đặc biệt trợ cho ái, tức tham trong các tâm căn tham, bằng năng lực của cận y duyên mạnh mẽ. Các thọ ở hướng môn, xác định và tốc hành chỉ trợ bằng cận y duyên theo nghĩa chung.
+
+**EN**
+Out of a strong aspiration for the results of kamma, beings generate and cultivate kamma. Therefore the commentaries and subcommentaries above explain that resultant feelings associated with the five kinds of sense-consciousness, receiving, investigating and registration in such processes as the eye-door process give special support to craving, that is, greed in greed-rooted consciousnesses, by the powerful force of decisive support condition. Feelings at adverting, determining and impulsion assist by decisive support condition only in a general way.
+
+**VI**
+Theo lời giải ấy, hãy nhớ rằng thọ làm nhân và ái làm quả có thể sinh trong cùng một lộ hoặc ở những lộ khác nhau. Ở phía nhân, với thọ sinh do nhãn xúc, hãy lấy tùy trường hợp thọ tương ưng với từng sát-na trong lộ nhãn môn và thọ tương ưng với từng sát-na trong các lộ ý môn tiếp sau lấy chính cảnh sắc ấy làm cảnh, làm nhân của sắc ái, tức sự ham muốn và quyến luyến cảnh sắc. Với thọ sinh do nhĩ xúc làm nhân của thinh ái và các trường hợp còn lại cũng hãy hiểu tương tự.
+
+**EN**
+According to this explanation, remember that feeling as cause and craving as effect may arise within one process or in different processes. On the causal side, for feeling born of eye-contact, take as appropriate the feelings associated with the individual moments of the eye-door process and those associated with the individual moments of the subsequent mind-door processes taking the very same visible object, as causes of craving for visible form, that is, longing and attachment for that object. Understand likewise for feeling born of ear-contact as cause of craving for sound and the other cases.
+
+**VI**
+Vì ở phía nhân lấy thọ quả làm chính, hãy lưu ý rằng thọ làm nhân và ái làm quả phần lớn không sinh trong cùng một sát-na. Chúng có thể cách nhau một hay nhiều sát-na tâm, hoặc nhiều lộ tâm.
+
+**EN**
+Since resultant feeling is taken as primary on the causal side, note that feeling as cause and craving as effect generally do not arise in the same moment. They may be separated by one or many consciousness moments, or by many cognitive processes.
+
+
+<a id="M06-body-P121"></a>
+## Hướng đến đời vị lai và các mẫu quán thọ duyên ái / Looking toward future existence and examples of feeling conditioning craving
+Miến / Burmese 121
+
+**VI**
+Lời nói về vị lai (anāgatavaṭṭakathā). Vì đây là phần trình bày vòng luân hồi vận hành, nó chỉ liên quan đến những gì hành giả đang tạo tác và vun bồi trong dòng tương tục của mình hướng đến một đời vị lai. Vì vậy, hãy lấy làm chính cách ái ham muốn và quyến luyến các uẩn, đời sống và cảnh thuộc một đời mới trong vị lai sinh do những thọ đang được cảm nghiệm với sự trông mong đời mới ấy.
+
+**EN**
+The account of the future round (anāgatavaṭṭakathā). As this section shows the operation of the round of rebirths, it concerns what the meditator is generating and cultivating in their own continuity with a future life in view. Thus take as primary how craving that longs for and clings to the aggregates, existence and objects of a new future life arises due to feelings being experienced while looking forward to that new life.
+
+**VI**
+Ái ấy, cùng với thủ và nghiệp hữu sẽ được trình bày sau, thuộc về phần nhân hiện tại, tức vô minh, ái, thủ, hành và nghiệp, đang được tạo tác và vun bồi nhắm đến một đời vị lai có thể đạt được trước khi chứng Niết-bàn. Vì thế, thiện nhân hãy lấy làm chính và quán (vô minh), ái, thủ, (hành) và nghiệp mà mình đang vun bồi cho đời vị lai.
+
+**EN**
+That craving, together with the clinging and kamma-becoming to be explained later, belongs to the present causes, ignorance, craving, clinging, formations and kamma, being generated and cultivated with a view to a future life that may be obtained before realizing Nibbāna. Thus let the good person take as primary and discern (ignorance), craving, clinging, (formations) and kamma being cultivated for their future life.
+
+**VI**
+Một số mẫu quán.
+
+**EN**
+Some examples of discernment.
+
+**VI**
+1. Do thọ sinh do nhãn xúc sinh nên sắc ái sinh. Thọ sinh do nhãn xúc là nhân, sắc ái là quả.
+
+**EN**
+1. Due to the arising of feeling born of eye-contact, craving for visible form arises. Feeling born of eye-contact is the cause and craving for visible form is the effect.
+
+**VI**
+2. Do thọ sinh do nhĩ xúc sinh nên thinh ái sinh. Thọ sinh do nhĩ xúc là nhân, thinh ái là quả.
+
+**EN**
+2. Due to the arising of feeling born of ear-contact, craving for sound arises. Feeling born of ear-contact is the cause and craving for sound is the effect.
+
+**VI**
+3. Do thọ sinh do tỷ xúc sinh nên hương ái sinh. Thọ sinh do tỷ xúc là nhân, hương ái là quả.
+
+**EN**
+3. Due to the arising of feeling born of nose-contact, craving for odour arises. Feeling born of nose-contact is the cause and craving for odour is the effect.
+
+
+<a id="M06-body-P122"></a>
+## Pháp ái và trường hợp các bậc A-la-hán / Craving for mental objects and the case of Arahants
+Miến / Burmese 122
+
+**VI**
+4. Do thọ sinh do thiệt xúc sinh nên vị ái sinh. Thọ sinh do thiệt xúc là nhân, vị ái là quả.
+
+**EN**
+4. Due to the arising of feeling born of tongue-contact, craving for taste arises. Feeling born of tongue-contact is the cause and craving for taste is the effect.
+
+**VI**
+5. Do thọ sinh do thân xúc sinh nên xúc ái sinh. Thọ sinh do thân xúc là nhân, xúc ái là quả.
+
+**EN**
+5. Due to the arising of feeling born of body-contact, craving for tangible objects arises. Feeling born of body-contact is the cause and craving for tangible objects is the effect.
+
+**VI**
+6. Do thọ sinh do ý xúc sinh nên pháp ái sinh. Thọ sinh do ý xúc là nhân, pháp ái là quả.
+
+**EN**
+6. Due to the arising of feeling born of mind-contact, craving for mental objects arises. Feeling born of mind-contact is the cause and craving for mental objects is the effect.
+
+**VI**
+Pháp ái là ái ham muốn và quyến luyến tâm, tâm sở, sắc pháp ngoài năm cảnh sắc, thinh, hương, vị và xúc, cùng các cảnh chế định khác nhau.
+
+**EN**
+Craving for mental objects is craving that longs for and clings to consciousness, mental factors, material phenomena other than the five objects of visible form, sound, odour, taste and touch, and various conceptual objects.
+
+**VI**
+Trong mỗi hàng của các bảng ở phần đề mục thiền về danh, hãy quán ít nhất một mục. Hãy quán tương tự ở cả sáu môn.
+
+**EN**
+Discern at least one item in each row of the tables in the section on the meditation subject of mentality. Discern in the same way at all six doors.
+
+**VI**
+Trong dòng tương tục của các bậc A-la-hán.
+
+**EN**
+In the continuity of Arahants.
+
+**VI**
+Vedanāpaccayā cāpi, yasmā nānusayaṃ vinā;
+Hoti tasmā na sā hoti, brāhmaṇo vusīmato. (Chú giải Abhidhamma, quyển 2, tr. 171. Visuddhimagga, quyển 2, tr. 203.)
+
+**EN**
+Vedanāpaccayā cāpi, yasmā nānusayaṃ vinā;
+Hoti tasmā na sā hoti, brāhmaṇo vusīmato. (Abhidhamma Commentary, vol. 2, p. 171. Visuddhimagga, vol. 2, p. 203.)
+
+**VI**
+Ca là nói thêm. Yasmā là vì nguyên nhân nào. Vedanāpaccayā là thọ hiện hữu làm duyên. Samānāpi là dù có mặt. Anusayaṃ là khuynh hướng tiềm ẩn, còn ngủ ngầm vì chưa được Thánh đạo đoạn trừ…
+
+**EN**
+Ca adds a further point. Yasmā means for what reason. Vedanāpaccayā means feeling is present as a condition. Samānāpi means even though present. Anusayaṃ means a latent tendency, dormant because it has not yet been abandoned by the Noble Path…
+
+
+<a id="M06-body-P123"></a>
+## Ái không sinh ở bậc A-la-hán và ái duyên thủ / Craving does not arise in Arahants, and craving conditions clinging
+Miến / Burmese 123
+
+**VI**
+… Vinā là thiếu. Taṇhā là ái ham muốn và quyến luyến các đời sống và các cảnh. Na hoti là không thể hiện khởi thành ái bộc phát (pariyuṭṭhāna) trong dòng tâm. Tasmā là vì vậy. Vusīmato là của vị đã sống phạm hạnh của Thánh đạo, có pháp hành cao quý. Brāhmaṇo là bậc A-la-hán đã gột rửa các điều bất thiện. Sā là ái ấy. Na hoti là không còn có thể hiện khởi dưới dạng sinh, trụ, diệt trong dòng tương tục của vị ấy.
+
+**EN**
+… Vinā means without. Taṇhā means craving that longs for and clings to existences and objects. Na hoti means it cannot manifest in the mental continuity as arisen craving (pariyuṭṭhāna). Tasmā means therefore. Vusīmato refers to one who has lived the holy life of the Noble Path, the sublime practice. Brāhmaṇo refers to the Arahant who has washed away unwholesome deeds. Sā means that craving. Na hoti means it can no longer appear in the form of arising, presence and dissolution in that continuity.
+
+**VI**
+Nếu nói “hễ có thọ làm nhân thì ái sinh”, có thể nảy sinh câu hỏi liệu trong dòng tương tục của bậc A-la-hán, ái cũng sinh do thọ hay không. Vì thế các chú giải nêu bài kệ trên, mở đầu bằng “vedanāpaccayā cāpi”. Trong trường hợp thọ làm duyên cho ái, ái chỉ có thể hiện khởi, sinh, trụ và diệt ở người mà ái vẫn còn ngủ ngầm dưới dạng tùy miên trong dòng uẩn.
+
+**EN**
+If it is said “whenever feeling is present as a cause, craving arises,” the question may arise whether craving also arises due to feeling in an Arahant’s continuity. This is why the commentaries give the stanza above, beginning “vedanāpaccayā cāpi.” Where feeling conditions craving, craving can manifest, arise, persist and dissolve only in someone in whose aggregate continuity craving is still dormant as a latent tendency.
+
+**VI**
+Trong dòng sắc danh của các bậc A-la-hán, những vị đã thực hành pháp hành tối thượng là tu tập Thánh đạo và nhổ tận gốc ái tùy miên, ái không thể sinh do thọ. (Chú giải Abhidhamma, quyển 2, tr. 171. Visuddhimagga, quyển 2, tr. 203.)
+
+**EN**
+In the continuity of materiality and mentality of Arahants, who have practised the supreme practice of developing the Noble Path and uprooted the latent tendency to craving, craving cannot arise due to feeling. (Abhidhamma Commentary, vol. 2, p. 171. Visuddhimagga, vol. 2, p. 203.)
+
+**VI**
+Taṇhāpaccayā upādānaṃ — do ái sinh nên thủ sinh. Có bốn loại thủ: dục thủ, kiến thủ, giới cấm thủ và ngã luận thủ.
+
+**EN**
+Taṇhāpaccayā upādānaṃ — due to the arising of craving, clinging arises. There are four kinds of clinging: clinging to sensual pleasures, to views, to rules and observances, and to a doctrine of self.
+
+
+<a id="M06-body-P124"></a>
+## Bốn loại thủ / The four kinds of clinging
+Miến / Burmese 124
+
+**VI**
+1. Dục thủ (kāmupādāna). Ái ham muốn và quyến luyến năm đối tượng thuộc dục trưởng dưỡng gọi là dục ái. Dục ái trước trợ bằng cận y duyên mạnh mẽ, khiến dục ái về sau trở nên bền chắc. Dục ái về sau ấy gọi là dục thủ.
+
+**EN**
+1. Clinging to sensual pleasures (kāmupādāna). Craving that longs for and clings to the five strands of sensual pleasure is called craving for sensual pleasures. Earlier sensual craving supports the later craving by powerful decisive support condition, making it firm. That later sensual craving is called clinging to sensual pleasures.
+
+**VI**
+2. Kiến thủ (diṭṭhupādāna). Ngoài giới cấm thủ và ngã luận thủ, các tà kiến chấp cứng và mãnh liệt vào những chủ trương sai lầm, như kiến phủ nhận quả, kiến vô nhân và kiến phủ nhận tác dụng của nghiệp, bác bỏ nghiệp và quả của nghiệp, gọi là kiến thủ.
+
+**EN**
+2. Clinging to views (diṭṭhupādāna). Apart from clinging to rules and observances and to a doctrine of self, wrong views that later come to cling firmly and intensely to erroneous doctrines, such as denial of results, denial of causes and denial of the efficacy of action, rejecting kamma and its results, are called clinging to views.
+
+**VI**
+3. Giới cấm thủ (sīlabbatupādāna). Tà kiến chấp cứng và xét sai rằng thực hành hạnh và tập tính của bò, hạnh và tập tính của chó, v.v., có thể làm cho mình thanh tịnh khỏi phiền não và thoát khổ trong vòng luân hồi, gọi là giới cấm thủ.
+
+**EN**
+3. Clinging to rules and observances (sīlabbatupādāna). The rigid wrong view that mistakenly holds that following the conduct and habits of oxen or dogs, and similar practices, can purify one of defilements and free one from suffering in the round of rebirths is called clinging to rules and observances.
+
+**VI**
+4. Ngã luận thủ (attavādupādāna). Kiến chấp cứng vào chủ trương nói có một tự ngã, tức có một sinh thể, linh hồn, thực thể, thức hay ngã thường tồn, gọi là ngã luận thủ. Về thực tính, đó là tâm sở tà kiến. Các chủ trương này chấp có đấng tạo hóa, tức tự ngã tối cao (parama-attā), và có tự ngã sinh mạng (jīva-attā) được tạo ra. Chúng chấp một uẩn nào đó hay cả năm uẩn là tự ngã. Cũng gọi đó là thân kiến (sakkāyadiṭṭhi) hay ngã kiến (attadiṭṭhi).
+
+**EN**
+4. Clinging to a doctrine of self (attavādupādāna). The view that clings firmly to a doctrine asserting a self, a living entity, soul, essence, consciousness or enduring self, is called clinging to a doctrine of self. In terms of its nature, it is the mental factor of wrong view. Such doctrines posit a creator, the supreme self (parama-attā), and a created living self (jīva-attā). They take one of the five aggregates or all five as self. This is also called identity view (sakkāyadiṭṭhi) or self-view (attadiṭṭhi).
+
+
+<a id="M06-body-P125"></a>
+## Mẫu quán ái duyên thủ khi mong một đời vị lai / An example of craving conditioning clinging when aspiring to a future life
+Miến / Burmese 125
+
+**VI**
+Ở phần này, thiện nhân cần đặc biệt quán cho trí thấy cách thủ sinh do ái thuộc vòng phiền não đang được vun bồi với một đời vị lai làm mục đích. Giả sử thiện nhân mong được sống đời một vị thiên thuyết pháp, nên hướng đến đó mà vun bồi vòng phiền não và vòng nghiệp. Hãy quán cho trí thấy cách dục thủ sinh dựa trên dục ái ham muốn các đối tượng dục vô tri sẽ có trong đời vị thiên thuyết pháp ấy. Nói cách khác, hãy quán cách chấp thủ đời vị thiên thuyết pháp sinh dựa trên dục ái ham muốn chính đời ấy.
+
+**EN**
+In this section, the good person should pay particular attention to discerning how clinging arises due to craving in the round of defilements being cultivated with a future life as its aim. Suppose the good person wishes to live as a Dhamma-teaching deva and cultivates the rounds of defilements and kamma with that aim. Discern how clinging to sensual pleasures arises based on sensual craving for the insentient sensual objects that would be obtained in that life. In other words, discern how clinging to the life of a Dhamma-teaching deva arises based on sensual craving for that very life.
+
+**VI**
+1. Do dục ái sinh nên dục thủ sinh. Dục ái là nhân, dục thủ là quả.
+
+**EN**
+1. Due to the arising of craving for sensual pleasures, clinging to sensual pleasures arises. Craving for sensual pleasures is the cause and clinging to sensual pleasures is the effect.
+
+**VI**
+Theo cách khác, sự chấp rằng “vị thiên thuyết pháp thật sự hiện hữu” cũng là một loại thân kiến. Trong một số trường hợp, sự chấp ngã dựa theo tên gọi và cách nói quy ước thế gian cũng gọi là một loại thân kiến. Nếu dựa vào thân kiến ấy mà hữu ái sinh cùng ngã kiến, ham muốn đời vị thiên thuyết pháp và chấp “ta là vị thiên thuyết pháp”, hãy quán cho trí thấy cách ngã luận thủ hay kiến thủ sinh do hữu ái ấy.
+
+**EN**
+Alternatively, taking it that “the Dhamma-teaching deva really exists” is a kind of identity view. In some cases, clinging to a self in accordance with worldly names and conventional usage is also called a kind of identity view. If, based on that identity view, craving for becoming arises together with self-view, longing for the life of a Dhamma-teaching deva and taking it as “I am a Dhamma-teaching deva,” discern how clinging to a doctrine of self or clinging to views arises due to that craving for becoming.
+
+**VI**
+2. Do hữu ái sinh nên ngã luận thủ sinh. Hữu ái là nhân, ngã luận thủ là quả.
+
+**EN**
+2. Due to the arising of craving for becoming, clinging to a doctrine of self arises. Craving for becoming is the cause and clinging to a doctrine of self is the effect.
+
+**VI**
+Hoặc…
+
+**EN**
+Or…
+
+
+<a id="M06-body-P126"></a>
+## Một cách quán riêng ba loại ái / A way of discerning the three kinds of craving separately
+Miến / Burmese 126
+
+**VI**
+Do hữu ái sinh nên kiến thủ sinh. Hữu ái là nhân, kiến thủ là quả.
+
+**EN**
+Due to the arising of craving for becoming, clinging to views arises. Craving for becoming is the cause and clinging to views is the effect.
+
+**VI**
+Một cách quán riêng — Mẫu quán.
+
+**EN**
+A way of discerning separately — an example.
+
+**VI**
+(a) Sắc ái sinh với sự ưa thích mãnh liệt đối với chính cảnh sắc sẽ có trong đời vị thiên thuyết pháp gọi là dục ái.
+
+**EN**
+(a) Craving for visible form arising with intense delight in the very visible object that would be obtained in the life of a Dhamma-teaching deva is called craving for sensual pleasures.
+
+**VI**
+(b) Sắc ái sinh cùng thường kiến cho rằng chính cảnh sắc ấy “thường còn, luôn hiện hữu” gọi là hữu ái.
+
+**EN**
+(b) Craving for visible form arising together with the eternalist view that the very visible object “is permanent and always exists” is called craving for becoming.
+
+**VI**
+(c) Sắc ái sinh cùng đoạn kiến cho rằng chính cảnh sắc ấy “sẽ đoạn diệt, tiêu tan khi chết” gọi là phi hữu ái.
+
+**EN**
+(c) Craving for visible form arising together with the annihilationist view that the very visible object “will be cut off and perish at death” is called craving for non-becoming.
+
+**VI**
+Như vậy, sắc ái có ba dạng: dục ái, hữu ái và phi hữu ái. Thinh ái, pe, pháp ái, mỗi loại cũng có ba dạng như thế.
+
+**EN**
+Thus craving for visible form has three forms: craving for sensual pleasures, for becoming and for non-becoming. Craving for sound, pe, craving for mental objects, each likewise has three forms.
+
+**VI**
+1. Do sắc ái thuộc dục ái sinh nên dục thủ sinh. Sắc ái thuộc dục ái là nhân, dục thủ là quả.
+
+**EN**
+1. Due to the arising of craving for visible form as sensual craving, clinging to sensual pleasures arises. Craving for visible form as sensual craving is the cause and clinging to sensual pleasures is the effect.
+
+**VI**
+2. Do sắc ái thuộc hữu ái sinh nên kiến thủ sinh (thường kiến). Sắc ái thuộc hữu ái là nhân, kiến thủ là quả.
+
+**EN**
+2. Due to the arising of craving for visible form as craving for becoming, clinging to views arises (eternalism). That craving is the cause and clinging to views is the effect.
+
+**VI**
+3. Do sắc ái thuộc phi hữu ái sinh nên kiến thủ sinh (đoạn kiến). Sắc ái thuộc phi hữu ái là nhân, kiến thủ là quả.
+
+**EN**
+3. Due to the arising of craving for visible form as craving for non-becoming, clinging to views arises (annihilationism). That craving is the cause and clinging to views is the effect.
+
+**VI**
+Theo một cách khác, hữu ái đi với thường luận và phi hữu ái đi với đoạn luận, đối với thuyết về tự ngã…
+
+**EN**
+In another explanation, craving for becoming accompanied by eternalism and craving for non-becoming accompanied by annihilationism, with regard to a doctrine of self…
+
+
+<a id="M06-body-P127"></a>
+## Ngã luận thủ và lộ tâm của ái, thủ / Clinging to a doctrine of self and the cognitive processes of craving and clinging
+Miến / Burmese 127
+
+**VI**
+… đều là những ái sinh do chấp chính cảnh sắc ấy và các cảnh tương tự là tự ngã. Vì vậy cũng có thể quán theo cách dưới đây.
+
+**EN**
+… are forms of craving that arise by taking that very visible object and similar objects as self. Therefore one can also discern as follows.
+
+**VI**
+1. Do sắc ái thuộc hữu ái sinh nên ngã luận thủ sinh. Sắc ái thuộc hữu ái là nhân, ngã luận thủ là quả.
+
+**EN**
+1. Due to the arising of craving for visible form as craving for becoming, clinging to a doctrine of self arises. Craving for visible form as craving for becoming is the cause and clinging to a doctrine of self is the effect.
+
+**VI**
+2. Do sắc ái thuộc phi hữu ái sinh nên ngã luận thủ sinh. Sắc ái thuộc phi hữu ái là nhân, ngã luận thủ là quả.
+
+**EN**
+2. Due to the arising of craving for visible form as craving for non-becoming, clinging to a doctrine of self arises. Craving for visible form as craving for non-becoming is the cause and clinging to a doctrine of self is the effect.
+
+**VI**
+Hãy theo mẫu ấy mà quán thinh ái, hương ái, vị ái, xúc ái và pháp ái. Nếu thiện nhân mong đời vị lai được làm tỳ-khưu có thể phụng sự Giáo pháp và đang vun bồi các ba-la-mật, cũng hãy theo mẫu nghiệp của vị thiên thuyết pháp vừa nêu mà quán. Còn giới cấm thủ rất hiếm sinh trong dòng tương tục của thiện nhân là đệ tử Đức Phật.
+
+**EN**
+Following this pattern, discern craving for sound, odour, taste, tangible objects and mental objects. If a good person aspires in the future to become a bhikkhu able to serve the Dispensation and cultivates the perfections, discern likewise following the above example of kamma for a Dhamma-teaching deva. Clinging to rules and observances, however, very rarely arises in the continuity of a good disciple of the Buddha.
+
+**VI**
+Lộ tâm của ái và thủ.
+Pháp · Hướng ý môn · Tốc hành (7 lần) · Đồng sở duyên (2 lần)
+Sắc ái thuộc dục ái · 12 · 20 · 12/11/34/33
+Thủ · 12 · 20 · 〃
+
+**EN**
+Cognitive processes of craving and clinging.
+Phenomenon | Mind-door adverting | Impulsion (7 times) | Registration (2 times)
+Craving for visible form as sensual craving | 12 | 20 | 12/11/34/33
+Clinging | 12 | 20 | 〃
+
+**VI**
+Đôi khi tốc hành và đồng sở duyên không hợp hỷ cũng có thể sinh. Hãy xem xét kỹ vòng phiền não đang được vun bồi cho đời vị lai.
+
+**EN**
+Sometimes impulsion and registration dissociated from joy can also arise. Examine carefully the round of defilements being cultivated for a future life.
+
+
+<a id="M06-body-P128"></a>
+## Điều cần lưu ý và thủ duyên hữu / A point to note, and clinging conditioning becoming
+Miến / Burmese 128
+
+**VI**
+Trong dòng tương tục của thiện nhân đang đạt đến tuệ phân biệt danh sắc và tuệ phân biệt duyên ngay đời này, kiến thủ, giới cấm thủ và ngã luận thủ rất hiếm sinh. Dục thủ có thể sinh thường hơn. Vì vậy, có thể chỉ quán một mẫu dục thủ sinh do ái cũng đủ.
+
+**EN**
+In the continuity of a good person attaining knowledge of discerning mentality-materiality and knowledge of discerning conditions in this life, clinging to views, to rules and observances, and to a doctrine of self are very unlikely to arise. Clinging to sensual pleasures is more likely to arise. Thus it can suffice to discern one pattern of clinging to sensual pleasures arising due to craving.
+
+**VI**
+Tuy nhiên, trong vòng luân hồi không thấy khởi đầu, có lẽ không có phiền não hay thủ nào chưa từng sinh trong dòng sắc danh của một chúng sinh. Vì vậy, khi nhận diện cách các quả quá khứ sinh do nhân quá khứ, hãy nhận diện và quán các loại kiến và thủ sinh do ái đúng như chúng đã sinh trong đời ấy.
+
+**EN**
+Yet in the round of rebirths with no discernible beginning, there is probably no defilement or kind of clinging that has never arisen in a being’s continuity of materiality and mentality. Thus, when discerning how past effects arise due to past causes, discern and contemplate the kinds of view and clinging arising due to craving just as they arose in that life.
+
+**VI**
+Upādānapaccayā bhavo — do thủ sinh nên hữu sinh.
+
+**EN**
+Upādānapaccayā bhavo — due to the arising of clinging, becoming arises.
+
+**VI**
+Hữu có hai loại: (1) nghiệp hữu (kammabhava) và (2) sinh hữu (upapattibhava). Nghiệp hữu là pháp làm nhân cho sự sinh. Sinh hữu là sự sinh khởi, tức tính chất sinh khởi của các uẩn.
+
+**EN**
+Becoming is of two kinds: (1) kamma-becoming (kammabhava) and (2) rebirth-becoming (upapattibhava). Kamma-becoming is the cause of arising. Rebirth-becoming is arising, the nature of the aggregates coming into being.
+
+**VI**
+Nghiệp thiện hay bất thiện đang được tạo tác và vun bồi trong hiện tại cho đời vị lai gọi là nghiệp hữu, tức hữu làm nhân cho sự sinh. Do nghiệp thiện hay bất thiện ấy…
+
+**EN**
+Wholesome or unwholesome kamma now being generated and cultivated with a future life in view is called kamma-becoming, becoming as the cause of arising. Due to that wholesome or unwholesome kamma…
+
+
+<a id="M06-body-P129"></a>
+## Nghiệp hữu, sinh hữu và một điểm cần lưu ý / Kamma-becoming, rebirth-becoming, and a point to note
+Miến / Burmese 129
+
+**VI**
+… bốn danh uẩn quả và các sắc do nghiệp sinh sẽ sinh. Đó là sinh hữu, tức hữu đã sinh, tính chất sinh khởi.
+
+**EN**
+… the four resultant mental aggregates and kamma-born materiality will arise. This is rebirth-becoming, becoming as arising, the nature of arising.
+
+**VI**
+Phúc hành, phi phúc hành và bất động hành, tức hành hay nghiệp đang được tạo tác và vun bồi để đạt sinh hữu là các danh uẩn quả và sắc do nghiệp sinh trong vị lai, gọi là nghiệp hữu. Hãy quán cho trí thấy nghiệp hữu và sinh hữu ấy sinh dựa trên (vô minh, ái và) thủ. Về nghiệp hữu, hãy quán với trọng tâm là nhóm danh pháp thiện do tư thiện dẫn đầu mà mình đang vun bồi cho tương lai.
+
+**EN**
+Meritorious, demeritorious and imperturbable formations, namely formations or kamma now generated and cultivated in order to obtain rebirth-becoming as future resultant mental aggregates and kamma-born materiality, are called kamma-becoming. Discern how these two kinds of becoming arise on the basis of (ignorance, craving and) clinging. For kamma-becoming, focus on the group of wholesome mental phenomena headed by wholesome volition that one is cultivating for the future.
+
+**VI**
+Cũng có thể quán trường hợp nhóm tư bất thiện từng sinh. Nương vào ái ham muốn hành vi bất thiện, thủ chấp chặt hành vi ấy sinh. Nương vào thủ, người ta phạm các nghiệp bất thiện, tức hành bất thiện sinh. Do nghiệp bất thiện ấy, tức nghiệp hữu, năm uẩn gọi là sinh hữu sinh trong cõi khổ ở tương lai. Có thể quán như thế. Tuy nhiên, theo các lời trích kinh luận dưới đây, điều đó rất hiếm xảy ra.
+
+**EN**
+One can also discern a group of unwholesome volitions that has arisen before. In dependence on craving for misconduct, clinging to that misconduct arises. In dependence on clinging, one commits unwholesome actions, that is, unwholesome formations arise. Due to that unwholesome kamma, namely kamma-becoming, the five aggregates called rebirth-becoming arise in a future state of deprivation. One can discern in that way. However, according to the passages below, this is very unlikely.
+
+**VI**
+Một điều cần lưu ý.
+
+**EN**
+A point to note.
+
+**VI**
+Evaṃ saṅkhāre sallakkhetvā ṭhito pana bhikkhu dasabalassa sāsane mūlaṃ otarati nāma hoti, patiṭṭhaṃ laddhā nāma, cūḷasotāpanno nāma hoti niyatagatikoti. (Chú giải Abhidhamma, quyển 2, tr. 242.)
+
+**EN**
+Evaṃ saṅkhāre sallakkhetvā ṭhito pana bhikkhu dasabalassa sāsane mūlaṃ otarati nāma hoti, patiṭṭhaṃ laddhā nāma, cūḷasotāpanno nāma hoti niyatagatikoti. (Abhidhamma Commentary, vol. 2, p. 242.)
+
+**VI**
+Iminā pana ñāṇena samannāgato vipassako Buddhasāsane laddhassāso laddhapatiṭṭho niyatagatikā cūḷasotāpanno nāma hoti. (Visuddhimagga, quyển 2, tr. 240.)
+
+**EN**
+Iminā pana ñāṇena samannāgato vipassako Buddhasāsane laddhassāso laddhapatiṭṭho niyatagatikā cūḷasotāpanno nāma hoti. (Visuddhimagga, vol. 2, p. 240.)
+
+
+<a id="M06-body-P130"></a>
+## Tuệ phân biệt duyên và hướng quán cho đời vị lai / Knowledge of discerning conditions and discernment directed to a future life
+Miến / Burmese 130
+
+**VI**
+Vị tỳ-khưu hành thiền có trí hiểu biết đạt đến tuệ phân biệt duyên và phân biệt rõ sắc, danh, nhân và quả đã bén rễ vững chắc trong Giáo pháp của Đức Phật, bậc đầy đủ mười thân lực và mười trí lực. Vị ấy đã được chỗ nương và sự an ổn. Khi nhận diện các pháp hữu vi gồm sắc, danh, nhân và quả bằng tuệ phân biệt duyên, vị ấy đạt thanh tịnh do vượt qua nghi (kaṅkhāvitaraṇavisuddhi), đã bén rễ trong Giáo pháp của Đức Phật. Vì có được chỗ đứng ấy và có hướng đi nhất định đến thiện thú, vị ấy được gọi là Tiểu Nhập lưu (cūḷasotāpanna), tức đã đạt đến mức Tiểu Nhập lưu.
+
+**EN**
+A meditating bhikkhu whose understanding has reached knowledge of discerning conditions and who clearly distinguishes materiality, mentality, causes and effects has become firmly rooted in the Dispensation of the Buddha, endowed with ten bodily powers and ten powers of knowledge. The bhikkhu has gained a footing and assurance. By discerning the conditioned phenomena of materiality, mentality, causes and effects with knowledge of discerning conditions, the bhikkhu attains purification by overcoming doubt (kaṅkhāvitaraṇavisuddhi) and has become rooted in the Buddha’s Dispensation. Having gained that footing and a definite course toward a good destination, the bhikkhu is called a lesser stream-enterer (cūḷasotāpanna), having reached that stage.
+
+**VI**
+Theo lời giải của các chú giải trên, người đã đạt mức Tiểu Nhập lưu nhờ có tuệ phân biệt duyên còn xa việc lại rơi vào cõi khổ trong phần nói về vòng vị lai. Vì vậy, hãy nhận diện nhân và quả trong mối liên hệ với hành thiện có khả năng sinh khởi.
+
+**EN**
+According to the above commentaries, one who has attained the stage of a lesser stream-enterer through knowledge of discerning conditions is far from falling back into a state of deprivation in the account of the future round. Therefore discern causes and effects in connection with wholesome formations that can arise.
+
+**VI**
+Tương tự, ở hành giả đã quán đến mức này, kiến thủ, giới cấm thủ và ngã luận thủ rất hiếm sinh. Dục thủ có thể sinh thường hơn. Sự ham muốn và quyến luyến năm uẩn sẽ có trong một đời tương lai, như đời tỳ-khưu hay đời vị thiên thuyết pháp, hoặc sáu cảnh vị lai, là dục thủ. Hãy quán cho trí thấy nghiệp hữu và sinh hữu sinh do dục thủ ấy.
+
+**EN**
+Similarly, for a meditator who has discerned to this stage, clinging to views, to rules and observances, and to a doctrine of self are very rare. Clinging to sensual pleasures is more likely to arise. Attachment to the five aggregates of a future life, such as that of a bhikkhu or a Dhamma-teaching deva, or to the six future objects, is clinging to sensual pleasures. Discern with knowledge how kamma-becoming and rebirth-becoming arise due to that clinging.
+
+
+<a id="M06-body-P131"></a>
+## Cách quán để ghi tóm tắt / A concise pattern of discernment for memorization
+Miến / Burmese 131
+
+**VI**
+Vì phần này quán vô minh, ái, thủ, hành và nghiệp đang được vun bồi nhằm một đời vị lai, thiện nhân có thể lấy chính một trường hợp (vô minh), ái, thủ, (hành) và nghiệp mà mình đang vun bồi với sự chấp thủ một đời mới làm cảnh quán. Như vậy cũng đủ. Ý nói chọn một nghiệp trong nhiều nghiệp đã được cố ý vun bồi, ưng ý và đáng nhớ, nhằm đời sống mới ấy.
+
+**EN**
+Since this section discerns ignorance, craving, clinging, formations and kamma being cultivated for a future life, the good person may take as the object of discernment one particular case of (ignorance), craving, clinging, (formations) and kamma that one is cultivating while clinging to a new life. That is enough. The meaning is to select one memorable and satisfying deed among the many deliberately cultivated with that new life in view.
+
+**VI**
+1. Sự hiểu sai, cho rằng đó là đời tỳ-khưu hay đời vị thiên thuyết pháp trong tương lai, là vô minh.
+2. Sự ham muốn và quyến luyến đời ấy là ái.
+3. Sự chấp chặt, không buông đời ấy do ái là thủ, tức dục thủ.
+4. Việc bố thí, trì giới hay tu tập được tạo tác và vun bồi dựa vào dục thủ ấy là hành.
+5. Nghiệp là nghiệp hữu. (Ở đây chỉ năng lực nghiệp.)
+
+**EN**
+1. The mistaken perception of a future life as a bhikkhu or a Dhamma-teaching deva is ignorance.
+2. Longing for and attachment to that life is craving.
+3. Holding firmly to that life due to craving is clinging, namely clinging to sensual pleasures.
+4. Giving, virtue or development generated and cultivated on the basis of that clinging is formations.
+5. Kamma is kamma-becoming. (This refers to kammic power.)
+
+**VI**
+Năm uẩn trong đời tỳ-khưu hay đời vị thiên thuyết pháp sẽ đạt được do nghiệp hữu ấy là sinh hữu, tức sinh trong vị lai.
+
+**EN**
+The five aggregates in the life of a bhikkhu or a Dhamma-teaching deva that will be obtained due to that kamma-becoming are rebirth-becoming, that is, future birth.
+
+**VI**
+Nếu thiện nhân lấy thiền chỉ làm cỗ xe và đã đắc thiền, trong các tầng thiền đã đạt, hãy phát triển tầng thiền mình ưa thích thành thiền bậc thấp, bậc trung hay bậc cao. Trong khi phát nguyện hay hướng tâm đến đời phạm thiên và các uẩn phạm thiên phù hợp với tầng thiền và phẩm bậc ấy, hãy quán vô minh, ái…
+
+**EN**
+If the good person takes serenity as the vehicle and has attained jhāna, develop the preferred attainment among the jhānas already attained to the inferior, middling or superior grade. While aspiring or inclining the mind toward Brahmā existence and the Brahmā aggregates appropriate to that jhāna and grade, discern ignorance, craving…
+
+
+<a id="M06-body-P132"></a>
+## Mẫu quán hữu và lộ ý môn có tốc hành / Examples of becoming and the mind-door process with impulsions
+Miến / Burmese 132
+
+**VI**
+… thủ, hành (thiền) và nghiệp, rồi quán tương tự đời phạm thiên và các uẩn phạm thiên sẽ đạt do chúng. Nếu con đường luân hồi trong vị lai vẫn còn hiện rõ đối với thiện nhân, vị ấy sẽ thấy sinh hữu là đời phạm thiên và các uẩn phạm thiên.
+
+**EN**
+… clinging, formations (jhāna) and kamma, and likewise discern the Brahmā existence and the Brahmā aggregates to be obtained due to them. If the future course of saṃsāra is still apparent to the good person, they will see rebirth-becoming as Brahmā existence and the Brahmā aggregates.
+
+**VI**
+Vô minh, ái, thủ, hành và nghiệp ở mỗi hành giả mỗi khác. Theo mẫu đời tỳ-khưu và đời vị thiên thuyết pháp vừa nêu, hãy quán đúng theo nguyện vọng, hướng tâm và mục đích của chính mình.
+
+**EN**
+Ignorance, craving, clinging, formations and kamma differ from one meditator to another. Following the examples of the lives of a bhikkhu and a Dhamma-teaching deva given above, discern according to one’s own aspirations, inclinations and aims.
+
+**VI**
+Một số mẫu quán.
+
+**EN**
+Some examples of discernment.
+
+**VI**
+1. Do dục thủ sinh nên nghiệp hữu sinh. Dục thủ là nhân, nghiệp hữu là quả.
+
+**EN**
+1. Due to the arising of clinging to sensual pleasures, kamma-becoming arises. Clinging to sensual pleasures is the cause and kamma-becoming is the effect.
+
+**VI**
+2. Do nghiệp hữu sinh nên sinh hữu sinh. Nghiệp hữu là nhân, sinh hữu là quả.
+
+**EN**
+2. Due to the arising of kamma-becoming, rebirth-becoming arises. Kamma-becoming is the cause and rebirth-becoming is the effect.
+
+**VI**
+Chuỗi tâm lộ ý môn có tốc hành.
+Pháp · Hướng ý môn · Tốc hành (7 lần) · Đồng sở duyên (2 lần)
+1. Dục thủ · 12 · 20 · 12/34
+2. Nghiệp hữu (thiện) · 12 · 34 · 34/12
+
+**EN**
+Mind-door cognitive process with impulsions.
+Phenomenon | Mind-door adverting | Impulsion (7 times) | Registration (2 times)
+1. Clinging to sensual pleasures | 12 | 20 | 12/34
+2. Kamma-becoming (wholesome) | 12 | 34 | 34/12
+
+**VI**
+3. Sinh hữu là các uẩn vị lai sinh do nghiệp hữu ấy.
+
+**EN**
+3. Rebirth-becoming is the future aggregates arising due to that kamma-becoming.
+
+**VI**
+Trong bảng trên chỉ lấy nghiệp hữu thiện làm mẫu. Tuy nhiên, trong cả ba thời, hãy quán nghiệp hữu thiện hay bất thiện theo đúng cách chúng đã sinh, đang sinh hoặc sẽ sinh trong dòng sắc danh của mình. Nếu là nghiệp hữu thuộc thiền…
+
+**EN**
+The table takes only wholesome kamma-becoming as an example. However, in all three periods, discern wholesome or unwholesome kamma-becoming as it arose, is arising or will arise in one’s own continuity of materiality and mentality. If it is jhāna kamma-becoming…
+
+
+<a id="M06-body-P133"></a>
+## Nghiệp hữu thuộc thiền và hữu duyên sinh / Jhāna kamma-becoming and becoming conditioning birth
+Miến / Burmese 133
+
+**VI**
+… hãy hiểu như sau: (1) nghiệp hữu sơ thiền = 34, (2) nghiệp hữu nhị thiền = 32, (3) nghiệp hữu tam thiền = 31, (4) nghiệp hữu tứ thiền = 31, (5) nghiệp hữu thiền vô sắc = 31. (Theo cách chia bốn tầng thiền.)
+
+**EN**
+… understand as follows: (1) first-jhāna kamma-becoming = 34, (2) second-jhāna kamma-becoming = 32, (3) third-jhāna kamma-becoming = 31, (4) fourth-jhāna kamma-becoming = 31, (5) immaterial-jhāna kamma-becoming = 31. (According to the fourfold division of jhāna.)
+
+**VI**
+Bhavapaccayā jāti — do (nghiệp) hữu sinh nên sinh sinh khởi.
+
+**EN**
+Bhavapaccayā jāti — due to the arising of (kamma-)becoming, birth arises.
+
+**VI**
+Bhavoti panettha kammabhavova adhippeto. So hi jātiyā paccayo, na upapattibhavo. (Chú giải Abhidhamma, quyển 2, tr. 178. Visuddhimagga, quyển 2, tr. 210.)
+
+**EN**
+Bhavoti panettha kammabhavova adhippeto. So hi jātiyā paccayo, na upapattibhavo. (Abhidhamma Commentary, vol. 2, p. 178. Visuddhimagga, vol. 2, p. 210.)
+
+**VI**
+Trong lời “hữu duyên sinh”, hữu chỉ nghiệp hữu, có năng lực làm sinh. Chỉ nghiệp hữu ấy là nguyên nhân thực sự của sinh. Sinh hữu không phải nguyên nhân thực sự của sinh. (Chú giải Abhidhamma, quyển 2, tr. 178. Visuddhimagga, quyển 2, tr. 210.)
+
+**EN**
+In “with becoming as condition, birth,” becoming means only kamma-becoming, which has the power to produce birth. That kamma-becoming alone is the actual cause of birth. Rebirth-becoming is not the actual cause of birth. (Abhidhamma Commentary, vol. 2, p. 178. Visuddhimagga, vol. 2, p. 210.)
+
+**VI**
+Upapattibhavuppattiyeva jātīti āha “na upapattibhavo”ti. (Mahāṭīkā, quyển 2, tr. 334.)
+
+**EN**
+Upapattibhavuppattiyeva jātīti āha “na upapattibhavo”ti. (Mahāṭīkā, vol. 2, p. 334.)
+
+**VI**
+Chính sự sinh khởi của sinh hữu là sinh. Vì thế chú giải nói “sinh hữu không phải nguyên nhân thực sự của sinh”. (Mahāṭīkā, quyển 2, tr. 334.) Do đó, về sinh, hãy lấy sự bắt đầu sinh khởi của năm uẩn vị lai gọi là sinh hữu…
+
+**EN**
+The very arising of rebirth-becoming is birth. Thus the commentary says “rebirth-becoming is not the actual cause of birth.” (Mahāṭīkā, vol. 2, p. 334.) Thus for birth, take the initial arising of the five future aggregates called rebirth-becoming…
+
+
+<a id="M06-body-P134"></a>
+## Nhận diện sinh và câu hỏi về nghiệp hữu / Discerning birth and a question about kamma-becoming
+Miến / Burmese 134
+
+**VI**
+… tức hãy lấy năm uẩn tái tục sinh khởi lúc đầu.
+
+**EN**
+… that is, take the five rebirth-linking aggregates arising at the beginning.
+
+**VI**
+Nếu thiện nhân dùng trí thấy việc đạt sinh trong đời phạm thiên ở tương lai do nghiệp hữu của tứ thiền biến xứ trắng, và có thể nhận diện nhân và quả, thì hãy quán cho trí thấy rằng trong năm uẩn ở đời phạm thiên ấy không có các sắc thần kinh tỷ, thiệt và thân, cũng không có sắc tính. Do đó không có các nhóm mười sắc tỷ, mười sắc thiệt, mười sắc thân và mười sắc tính. Hãy lưu tâm quán xét.
+
+**EN**
+If the good person sees with knowledge that birth in a future Brahmā existence is attained due to the kamma-becoming of the fourth jhāna of the white kasiṇa, and can discern cause and effect, then see with knowledge that the five aggregates in that Brahmā existence do not include nose-, tongue- or body-sensitivity, or sex materiality. Thus there are no nose, tongue, body or sex decads. Bear this in mind when discerning.
+
+**VI**
+Mẫu quán tóm lược.
+
+**EN**
+A brief example of discernment.
+
+**VI**
+1. Do nghiệp hữu sinh nên sinh sinh. Nghiệp hữu là nhân, sinh là quả.
+
+**EN**
+1. Due to the arising of kamma-becoming, birth arises. Kamma-becoming is the cause and birth is the effect.
+
+**VI**
+Một điểm đáng đặt câu hỏi.
+
+**EN**
+A point for inquiry.
+
+**VI**
+Hỏi. Làm sao biết nghiệp hữu là nguyên nhân của sinh?
+
+**EN**
+Question. How can one know that kamma-becoming is the cause of birth?
+
+**VI**
+Đáp. Dù thấy các nhân bên ngoài dòng tương tục của mình tương đương, vẫn thấy chúng sinh khác nhau về thấp kém hay cao quý, đẹp hay không đẹp. Do thấy những khác biệt ấy mà có thể biết nghiệp hữu là nguyên nhân của sinh. Dù thấy những nhân bên ngoài dòng tương tục như tinh huyết của cha mẹ và vật thực tương đương…
+
+**EN**
+Answer. Even when causes external to one’s continuity are seen to be alike, beings are seen to differ in being inferior or superior, beautiful or not beautiful. Observing those differences, one can know that kamma-becoming is the cause of birth. Even when external causes, such as the reproductive substances of the parents and nutriment, are seen to be alike…
+
+
+<a id="M06-body-P135"></a>
+## Nghiệp phân biệt chúng sinh / Kamma distinguishes beings
+Miến / Burmese 135
+
+**VI**
+… ngay giữa các chúng sinh cùng trong một thai cũng thấy những khác biệt như thấp kém hay cao quý, đẹp hay không đẹp.
+
+**EN**
+… differences such as being inferior or superior, beautiful or not beautiful, are found even among beings sharing the same womb.
+
+**VI**
+Những khác biệt ấy không sinh vô nhân. Vì sao? Vì chúng không có mặt ở mọi lúc hoặc trong dòng tương tục của tất cả chúng sinh. Cũng không thể có một nhân nào khác ngoài nghiệp hữu, vì trong dòng tương tục nội tại của chúng sinh sinh do nghiệp hữu không có nhân nào khác ngoài nghiệp hữu giải thích những khác biệt ấy. Do đó, sự khác biệt như thấp kém hay cao quý, đẹp hay không đẹp cho thấy có nghiệp hữu làm nhân. Nghiệp là nhân riêng của những khác biệt ấy. Vì vậy, Đức Phật dạy như sau trong Tiểu Kinh Phân Biệt Nghiệp (Cūḷakammavibhaṅgasutta):
+
+**EN**
+Those differences do not arise causelessly. Why? Because they do not occur at all times or in the continuity of every being. Nor can a cause other than kamma-becoming account for them, because within the internal continuity of beings born due to kamma-becoming there is no other cause to account for those distinctions. Thus the differences of inferiority and superiority, beauty and lack of beauty, show that there is kamma-becoming as a cause. Kamma is the distinctive cause of those differences. Therefore the Buddha taught in the Shorter Discourse on the Analysis of Kamma (Cūḷakammavibhaṅgasutta):
+
+**VI**
+Kammaṃ satte vibhajati yadidaṃ hīnapaṇītatāya. (Majjhima, quyển 3, tr. 244.) Nghĩa là nghiệp phân biệt chúng sinh thành thấp kém hay cao quý. (Majjhima, quyển 3, tr. 244.)
+
+**EN**
+Kammaṃ satte vibhajati yadidaṃ hīnapaṇītatāya. (Majjhima, vol. 3, p. 244.) That is, kamma distinguishes beings as inferior or superior. (Majjhima, vol. 3, p. 244.)
+
+**VI**
+Như vậy, có thể biết nghiệp hữu là nguyên nhân của sinh. (Chú giải Abhidhamma, quyển 2, tr. 178–179. Visuddhimagga, quyển 2, tr. 210.)
+
+**EN**
+Thus one can know that kamma-becoming is the cause of birth. (Abhidhamma Commentary, vol. 2, pp. 178–179. Visuddhimagga, vol. 2, p. 210.)
+
+
+<a id="M06-body-P136"></a>
+## Sinh duyên già chết theo quy ước và chân đế / Birth conditioning aging and death in conventional and ultimate terms
+Miến / Burmese 136
+
+**VI**
+Jātipaccayā jarāmaraṇaṃ — do sinh nên già chết sinh khởi.
+
+**EN**
+Jātipaccayā jarāmaraṇaṃ — due to birth, aging and death arise.
+
+**VI**
+Mẫu quán.
+
+**EN**
+An example of discernment.
+
+**VI**
+1. Do sinh sinh nên già chết sinh. Sinh là nhân, già chết là quả.
+
+**EN**
+1. Due to the arising of birth, aging and death arises. Birth is the cause and aging and death is the effect.
+
+**VI**
+Có thể quán theo hai cách, theo sự thật quy ước và theo sự thật chân đế. Nếu quán theo sự thật quy ước, hãy quán cho trí thấy cách do sinh, tức sự thiết lập tái tục trong một đời, mà có già và chết. Nghĩa là quán sinh, già và chết trong vị lai.
+
+**EN**
+One can discern in two ways, according to conventional truth and ultimate truth. If discerning by conventional truth, discern with knowledge how, due to birth, the establishment of rebirth-linking in a life, aging and death arise. That is, discern future birth, aging and death.
+
+**VI**
+Nếu quán theo sự thật chân đế, hãy lấy (1) sắc pháp sinh trong suốt một đời vị lai và (2) danh pháp sinh theo từng xứ và môn, cùng danh pháp ngoài lộ là tái tục, hữu phần và tử. Trong sắc và danh ấy, (1) sự sinh (uppāda) là sinh, (2) sự trụ (ṭhiti) là già, (3) sự diệt (bhaṅga) là chết. Hãy quán cho trí thấy sự sinh, trụ, diệt của sắc và danh ấy trong suốt một đời vị lai…
+
+**EN**
+If discerning by ultimate truth, take (1) material phenomena arising throughout a future life and (2) mental phenomena arising according to each base and door, as well as process-free rebirth-linking, life-continuum and death mentality. In that materiality and mentality, (1) arising (uppāda) is birth, (2) presence (ṭhiti) is aging, and (3) dissolution (bhaṅga) is death. Discern with knowledge the arising, presence and dissolution of that materiality and mentality throughout a future life…
+
+
+<a id="M06-body-P137"></a>
+## Sinh duyên sầu, bi, khổ, ưu và não / Birth conditioning sorrow, lamentation, pain, grief and despair
+Miến / Burmese 137
+
+**VI**
+1. Do sinh sinh nên già chết sinh. Sinh là nhân, già chết là quả.
+
+**EN**
+1. Due to the arising of birth, aging and death arises. Birth is the cause and aging and death is the effect.
+
+**VI**
+Cũng có thể quán như vậy. Ở đây cũng lấy các pháp thuộc vòng quả làm chính.
+
+**EN**
+One can also discern in this way. Here too the phenomena of the round of results are primary.
+
+**VI**
+Sầu, bi, khổ, ưu và não.
+
+**EN**
+Sorrow, lamentation, pain, grief and despair.
+
+**VI**
+Chỉ trong dòng tương tục của người có sinh, khi gặp mất mát như mất thân quyến (ñātibyasana), thì sầu, bi, khổ, ưu và não mới có thể sinh. Tuy nhiên, các pháp ấy không nhất định sinh nơi mọi người đã sinh. Trong dòng tương tục của các bậc Thánh đã đoạn trừ các phiền não ấy, dù còn sinh, sầu và các pháp kia không thể sinh. (Riêng khổ thân vẫn có thể sinh tùy trường hợp.) Vì vậy, sầu và các pháp còn lại được gọi là những hệ quả không nhất định của sinh. Hãy quán cho trí thấy cách chúng sinh trong dòng tương tục của người mà chúng có thể sinh trong vị lai.
+
+**EN**
+Only in the continuity of someone subject to birth can sorrow, lamentation, pain, grief and despair arise when they encounter a loss such as the loss of relatives (ñātibyasana). Yet these phenomena do not invariably arise in everyone who has been born. In the continuity of noble ones who have abandoned those defilements, though there is birth, sorrow and the others cannot arise. (Bodily pain alone can still arise as appropriate.) Thus sorrow and the others are called non-invariable consequences of birth. Discern with knowledge how they arise in the continuity of those in whom they may arise in the future.
+
+**VI**
+Mẫu quán tóm lược.
+
+**EN**
+A brief example of discernment.
+
+**VI**
+1. Do sinh sinh nên sầu sinh. Sinh là nhân, sầu là quả.
+
+**EN**
+1. Due to the arising of birth, sorrow arises. Birth is the cause and sorrow is the effect.
+
+**VI**
+pe.
+
+**EN**
+pe.
+
+**VI**
+2. Do sinh sinh nên não sinh. Sinh là nhân, não là quả.
+
+**EN**
+2. Due to the arising of birth, despair arises. Birth is the cause and despair is the effect.
+
+**VI**
+(Hãy hiểu các mẫu quán về bi, khổ và ưu rồi quán theo cùng cách.)
+
+**EN**
+(Understand the examples for lamentation, pain and grief, and discern in the same way.)
+
+
+<a id="M06-body-P138"></a>
+## Bảng 1 — Lấy đời hiện tại làm trung tâm / Table 1 — Taking the present life as the center
+Miến / Burmese 138
+
+**VI**
+Bảng 1 — Lấy đời hiện tại làm trung tâm
+Ba mối nối · Mười hai chi · Hai mươi phương diện · Bốn nhóm · Ba thời
+ · Vô minh · = Vô minh + ái + thủ · Nhân quá khứ · Quá khứ
+ · Hành · = Hành + nghiệp ·  · 
+Mối nối 1 · Thức · 1. Thức · Quả hiện tại · Hiện tại
+ · Danh sắc · 2. Danh sắc ·  · 
+ · Sáu xứ · 3. Sáu xứ ·  · 
+ · Xúc · 4. Xúc ·  · 
+ · Thọ · 5. Thọ ·  · 
+Mối nối 2 · Ái · = Vô minh + ái + thủ · Nhân hiện tại · 
+ · Thủ ·  ·  · 
+ · Hữu · = Nghiệp hữu = Hành + nghiệp ·  · 
+Mối nối 3 · Sinh · (Sinh hữu) = Thức + danh sắc + sáu xứ + xúc + thọ · Quả vị lai · Vị lai
+ · Già chết ·  ·  · 
+
+**EN**
+Table 1 — Taking the present life as the center
+Three links | Twelve factors | Twenty aspects | Four groups | Three periods
+ | Ignorance | = Ignorance + craving + clinging | Past causes | Past
+ | Formations | = Formations + kamma |  | 
+Link 1 | Consciousness | 1. Consciousness | Present results | Present
+ | Mentality-materiality | 2. Mentality-materiality |  | 
+ | Six sense bases | 3. Six sense bases |  | 
+ | Contact | 4. Contact |  | 
+ | Feeling | 5. Feeling |  | 
+Link 2 | Craving | = Ignorance + craving + clinging | Present causes | 
+ | Clinging |  |  | 
+ | Becoming | = Kamma-becoming = formations + kamma |  | 
+Link 3 | Birth | (Rebirth-becoming) = consciousness + mentality-materiality + six sense bases + contact + feeling | Future results | Future
+ | Aging and death |  |  |
+
+
+<a id="M06-body-P139"></a>
+## Bảng 2 — Lấy đời quá khứ thứ nhất làm trung tâm / Table 2 — Taking the first past life as the center
+Miến / Burmese 139
+
+**VI**
+Bảng 2 — Lấy đời quá khứ thứ nhất làm trung tâm
+Ba mối nối · Mười hai chi · Hai mươi phương diện · Bốn nhóm · Ba thời
+ · Vô minh · = Vô minh + ái + thủ · Nhân đời quá khứ thứ hai · Đời quá khứ thứ hai
+ · Hành · = Hành + nghiệp ·  · 
+Mối nối 1 · Thức · 1. Thức · Quả đời quá khứ thứ nhất · Đời quá khứ thứ nhất
+ · Danh sắc · 2. Danh sắc ·  · 
+ · Sáu xứ · 3. Sáu xứ ·  · 
+ · Xúc · 4. Xúc ·  · 
+ · Thọ · 5. Thọ ·  · 
+Mối nối 2 · Ái · = Vô minh + ái + thủ · Nhân đời quá khứ thứ nhất · 
+ · Thủ ·  ·  · 
+ · Hữu · = Nghiệp hữu = Hành + nghiệp ·  · 
+Mối nối 3 · Sinh · (Sinh hữu) = Thức + danh sắc + sáu xứ + xúc + thọ · Quả hiện tại · Hiện tại
+ · Già chết ·  ·  · 
+
+**EN**
+Table 2 — Taking the first past life as the center
+Three links | Twelve factors | Twenty aspects | Four groups | Three periods
+ | Ignorance | = Ignorance + craving + clinging | Second past life causes | Second past life
+ | Formations | = Formations + kamma |  | 
+Link 1 | Consciousness | 1. Consciousness | First past life results | First past life
+ | Mentality-materiality | 2. Mentality-materiality |  | 
+ | Six sense bases | 3. Six sense bases |  | 
+ | Contact | 4. Contact |  | 
+ | Feeling | 5. Feeling |  | 
+Link 2 | Craving | = Ignorance + craving + clinging | First past life causes | 
+ | Clinging |  |  | 
+ | Becoming | = Kamma-becoming = formations + kamma |  | 
+Link 3 | Birth | (Rebirth-becoming) = consciousness + mentality-materiality + six sense bases + contact + feeling | Present results | Present
+ | Aging and death |  |  |
+
+**VI**
+Hãy hiểu tương tự các đời quá khứ nối tiếp trong luân hồi. Hãy quán ba đời có liên hệ với nhau.
+
+**EN**
+Understand the successive past lives in saṃsāra in the same way. Discern three interrelated lives.
+
+
+<a id="M06-body-P140"></a>
+## Bảng 3 — Lấy đời vị lai thứ nhất làm trung tâm / Table 3 — Taking the first future life as the center
+Miến / Burmese 140
+
+**VI**
+Bảng 3 — Lấy đời vị lai thứ nhất làm trung tâm
+Ba mối nối · Mười hai chi · Hai mươi phương diện · Bốn nhóm · Ba thời
+ · Vô minh · = Vô minh + ái + thủ · Nhân hiện tại · Hiện tại
+ · Hành · = Hành = nghiệp ·  · 
+Mối nối 1 · Thức · 1. Thức · Quả đời vị lai thứ nhất · Đời vị lai thứ nhất
+ · Danh sắc · 2. Danh sắc ·  · 
+ · Sáu xứ · 3. Sáu xứ ·  · 
+ · Xúc · 4. Xúc ·  · 
+ · Thọ · 5. Thọ ·  · 
+Mối nối 2 · Ái · = Vô minh + ái + thủ · Nhân đời vị lai thứ nhất · 
+ · Thủ ·  ·  · 
+ · Hữu · = Nghiệp hữu = Hành + nghiệp ·  · 
+Mối nối 3 · Sinh · (Sinh hữu) = Thức + danh sắc + sáu xứ + xúc + thọ · Quả đời vị lai thứ hai · Đời vị lai thứ hai
+ · Già chết ·  ·  · 
+
+**EN**
+Table 3 — Taking the first future life as the center
+Three links | Twelve factors | Twenty aspects | Four groups | Three periods
+ | Ignorance | = Ignorance + craving + clinging | Present causes | Present
+ | Formations | = Formations = kamma |  | 
+Link 1 | Consciousness | 1. Consciousness | First future life results | First future life
+ | Mentality-materiality | 2. Mentality-materiality |  | 
+ | Six sense bases | 3. Six sense bases |  | 
+ | Contact | 4. Contact |  | 
+ | Feeling | 5. Feeling |  | 
+Link 2 | Craving | = Ignorance + craving + clinging | First future life causes | 
+ | Clinging |  |  | 
+ | Becoming | = Kamma-becoming = formations + kamma |  | 
+Link 3 | Birth | (Rebirth-becoming) = consciousness + mentality-materiality + six sense bases + contact + feeling | Second future life results | Second future life
+ | Aging and death |  |  |
+
+**VI**
+Hãy hiểu tương tự các đời vị lai nối tiếp trong luân hồi. Hãy quán ba đời nối tiếp nhau cho đến tận cùng vị lai.
+
+**EN**
+Understand the successive future lives in saṃsāra in the same way. Discern three successive lives at a time as far into the future as possible.
+
+
+<a id="M06-body-P141"></a>
+## Các tâm lộ của sầu, bi, khổ, ưu và não / Cognitive processes of sorrow, lamentation, pain, grief and despair
+Miến / Burmese 141
+
+**VI**
+Chuỗi tâm lộ của sầu, bi, ưu và não. Lộ ý môn có tốc hành.
+Tâm lộ có tốc hành ở ý môn · Khai ý môn · Tốc hành (7 lần) · Đăng ký (2 lần)
+Sầu, pe, não · 12 · 18 (nhóm sân) · 11/33/32
+
+**EN**
+Cognitive processes of sorrow, lamentation, grief and despair. Mind-door process with impulsion.
+Mind-door process with impulsion | Mind-door adverting | Impulsion (7 times) | Registration (2 times)
+Sorrow, pe, despair | 12 | 18 (hatred group) | 11/33/32
+
+**VI**
+Khổ. Nếu nói chính xác theo pháp, khổ ở đây là khổ thọ tương ưng với thân thức quả bất thiện vô nhân đi cùng khổ. Chuỗi tâm lộ ấy là lộ thân môn có tốc hành. Tùy sức của như lý tác ý hay phi như lý tác ý, tốc hành thiện hay bất thiện có thể sinh tùy trường hợp.
+
+**EN**
+Pain. In precise terms, pain here is painful feeling associated with rootless unwholesome-resultant body consciousness accompanied by pain. The cognitive process is a body-door process with impulsion. Depending on the force of wise or unwise attention, wholesome or unwholesome impulsions may arise as appropriate.
+
+**VI**
+Sầu, bi, ưu và não là các nhóm tốc hành sân. Ở đây chỉ đưa ra một mẫu lộ ý môn. Các lộ ngũ môn cũng có thể xảy ra như vậy, nhưng sầu và các trạng thái tương tự khi mãnh liệt chỉ xảy ra ở ý môn. Có trường hợp tâm đăng ký sinh, có trường hợp không. Khi tâm đăng ký sinh sau đợt tốc hành sân, chỉ có thể là tâm đăng ký thọ xả. Hoặc hữu phần khách (āgantukabhavaṅga) cũng có thể xen vào.
+
+**EN**
+Sorrow, lamentation, grief and despair are groups of hatred-rooted impulsions. Only one example of a mind-door process is shown here. Five-door processes can also occur in the same way, but intense sorrow and similar states occur only at the mind door. Registration may occur in some cases and may be absent in others. When registration follows a run of hatred-rooted impulsions, only equanimous registration can occur. Alternatively, an adventitious life-continuum (āgantukabhavaṅga) may intervene.
+
+**VI**
+Phép quán Duyên khởi theo cách thứ nhất đã trình bày đến đây lấy đời hiện tại làm trung tâm. Theo mẫu này, cũng có thể lấy một đời quá khứ làm trung tâm và quán các đời quá khứ kế tiếp nhau, hoặc lấy một đời vị lai làm trung tâm và quán các đời vị lai kế tiếp nhau. Hãy nối ba đời một lượt và quán cho rõ pháp nhân và pháp quả.
+
+**EN**
+The discernment of dependent origination by the first method, presented so far, takes the present life as its center. Following this model, one may also take a past life as the center and discern successive past lives, or take a future life as the center and discern successive future lives. Link three lives at a time and discern the causes and their results clearly.
+
+**VI**
+Đến đây kết thúc cách thứ nhất, gọi là lời dạy Duyên khởi theo chiều thuận (anulomapaṭiccasamuppāda).
+
+**EN**
+This concludes the first method, called the teaching on dependent origination in forward order (anulomapaṭiccasamuppāda).
+
+
+<a id="M06-body-P142"></a>
+## Bốn cách thuyết Duyên khởi / Four ways of teaching dependent origination
+Miến / Burmese 142
+
+**VI**
+Cũng như bốn người đàn ông cắt và kéo dây leo, Đức Phật đã thuyết Duyên khởi theo bốn cách: (1) từ đầu đến cuối, (2) từ giữa đến cuối, (3) từ cuối về đầu, (4) từ giữa về đầu.
+
+**EN**
+Just as four men cut and pulled a creeper, the Buddha taught dependent origination in four ways: (1) from beginning to end, (2) from middle to end, (3) from end to beginning, and (4) from middle to beginning.
+
+**VI**
+1. Từ đầu đến cuối — lời dạy Duyên khởi theo chiều thuận (1).
+
+**EN**
+1. From beginning to end — the teaching on dependent origination in forward order (1).
+
+**VI**
+Trong rừng, một trong bốn người đàn ông đang cắt dây leo thấy trước phần gốc. Người ấy cắt dây ở gốc, kéo toàn bộ dây cho đến ngọn, rồi mang đi dùng vào công việc cần dây để buộc hay để bó. Cũng vậy, Đức Phật dạy:
+
+**EN**
+In the forest, one of the four men cutting creepers first sees the root. He cuts the creeper at its root, pulls it out all the way to the tip, and carries it away to use for tying or binding. In the same way the Buddha taught:
+
+**VI**
+“Iti kho, bhikkhave, avijjāpaccayā saṅkhārā … pe … jātipaccayā jarāmaraṇaṃ.” Này các tỳ-kheo, như vậy, do vô minh sinh nên hành sinh … pe … do sinh nên già chết sinh. (M I 328.)
+
+**EN**
+“Iti kho, bhikkhave, avijjāpaccayā saṅkhārā … pe … jātipaccayā jarāmaraṇaṃ.” Thus, bhikkhus, with ignorance as condition, formations arise … pe … with birth as condition, aging and death arise. (M I 328.)
+
+**VI**
+Như vậy, Ngài thuyết Duyên khởi từ vô minh ở đầu cho đến già chết ở cuối. (Chú giải Abhidhamma II 124. Visuddhimagga II 154.)
+
+**EN**
+Thus he taught dependent origination from ignorance at the beginning through to aging and death at the end. (Abhidhamma Commentary II 124. Visuddhimagga II 154.)
+
+
+<a id="M06-body-P143"></a>
+## Từ giữa đến cuối / From middle to end
+Miến / Burmese 143
+
+**VI**
+2. Từ giữa đến cuối — lời dạy Duyên khởi theo chiều thuận (2).
+
+**EN**
+2. From middle to end — the teaching on dependent origination in forward order (2).
+
+**VI**
+Một người khác trong bốn người ấy thấy trước đoạn giữa của dây leo. Người ấy cắt ở giữa, kéo phần trên cho đến ngọn, mang đi dùng vào công việc cần dây để buộc hay để bó. Cũng vậy, Đức Phật dạy:
+
+**EN**
+Another of the four first sees the middle of the creeper. He cuts it in the middle, pulls the upper part all the way to the tip, and carries it away to use for tying or binding. In the same way the Buddha taught:
+
+**VI**
+“Tañca taṃ vedanaṃ abhinandato abhivadato ajjhosāya tiṭṭhato uppajjati nandī. Yā vedanāsu nandī tadupādānaṃ. Tassupādānapaccayā bhavo, bhavapaccayā jāti, jātipaccayā jarāmaraṇaṃ.” (M I 333. S II 13.)
+
+**EN**
+“Tañca taṃ vedanaṃ abhinandato abhivadato ajjhosāya tiṭṭhato uppajjati nandī. Yā vedanāsu nandī tadupādānaṃ. Tassupādānapaccayā bhavo, bhavapaccayā jāti, jātipaccayā jarāmaraṇaṃ.” (M I 333. S II 13.)
+
+**VI**
+Trong dòng tương tục của người hết sức ưa thích cảm thọ ấy, tán thưởng “hay quá, hay quá” và đắm chặt vào đó, hỷ thích sinh khởi. Hỷ thích đối với các cảm thọ chính là thủ. Do thủ sinh nên hữu sinh, do hữu sinh nên sinh sinh, do sinh nên già chết sinh. (M I 333. S II 13.)
+
+**EN**
+In the continuity of one who thoroughly delights in that feeling, welcomes it as “excellent, excellent,” and remains fastened to it, delight arises. Delight in feelings is clinging. With clinging as condition, becoming arises. With becoming as condition, birth arises. With birth as condition, aging and death arise. (M I 333. S II 13.)
+
+**VI**
+Như vậy, Ngài thuyết Duyên khởi từ thọ ở giữa đến già chết ở cuối. (Chú giải Abhidhamma II 124. Visuddhimagga II 154–155.)
+
+**EN**
+Thus he taught dependent origination from feeling in the middle to aging and death at the end. (Abhidhamma Commentary II 124. Visuddhimagga II 154–155.)
+
+
+<a id="M06-body-P144"></a>
+## Từ cuối về đầu / From end to beginning
+Miến / Burmese 144
+
+**VI**
+3. Từ cuối về đầu — lời dạy Duyên khởi theo chiều nghịch (1).
+
+**EN**
+3. From end to beginning — the teaching on dependent origination in reverse order (1).
+
+**VI**
+Một người khác trong bốn người ấy thấy trước ngọn dây leo. Người ấy nắm ngọn, lần từ ngọn về gốc, kéo cả dây mang đi dùng vào công việc cần dây để buộc hay để bó. Cũng vậy, Đức Phật dạy:
+
+**EN**
+Another of the four first sees the tip of the creeper. He takes hold of the tip, follows it back to the root, and pulls out the entire creeper to use for tying or binding. In the same way the Buddha taught:
+
+**VI**
+“Jātipaccayā jarāmaraṇan”ti iti kho panetaṃ vuttaṃ. “Jātipaccayā nu kho, bhikkhave, jarāmaraṇaṃ no vā, kathaṃ vā ettha hotī”ti? “Jātipaccayā, bhante, jarāmaraṇaṃ. Evaṃ no ettha hoti: ‘jātipaccayā jarāmaraṇan’ti.”
+
+**EN**
+“It has been said, ‘With birth as condition, there is aging and death.’ Bhikkhus, is there aging and death with birth as condition, or is there not? How do you understand this?” “Venerable sir, with birth as condition there is aging and death. This is how we understand it: ‘With birth as condition, there is aging and death.’”
+
+**VI**
+“Bhavapaccayā jāti … pe … avijjāpaccayā saṅkhārā”ti iti kho panetaṃ vuttaṃ. “Avijjāpaccayā nu kho, bhikkhave, saṅkhārā no vā, kathaṃ vā ettha hotī”ti? “Avijjāpaccayā, bhante, saṅkhārā. Evaṃ no ettha hoti: ‘avijjāpaccayā saṅkhārā’ti.” (M I 328.)
+
+**EN**
+“It has been said, ‘With becoming as condition, there is birth … pe … with ignorance as condition, there are formations.’ Bhikkhus, are there formations with ignorance as condition, or are there not? How do you understand this?” “Venerable sir, with ignorance as condition there are formations. This is how we understand it: ‘With ignorance as condition, there are formations.’” (M I 328.)
+
+**VI**
+Đức Phật dạy: “Ta đã nói rằng do sinh làm duyên nên có già chết. Này các tỳ-kheo … có già chết do sinh làm duyên hay không? Các ông hiểu thế nào?” Các vị đệ tử bạch: “Bạch Thế Tôn … do sinh làm duyên nên có già chết. Chúng con hiểu như vậy, rằng do sinh làm duyên nên có già chết.”
+
+**EN**
+The Buddha said: “I have said that aging and death occur with birth as condition. Bhikkhus … is there aging and death with birth as condition? How do you understand this?” The disciples replied: “Venerable sir … there is aging and death with birth as condition. We understand that aging and death occur with birth as condition.”
+
+
+<a id="M06-body-P145"></a>
+## Từ giữa về đầu / From middle to beginning
+Miến / Burmese 145
+
+**VI**
+Đức Phật dạy: “Ta đã nói rằng do hữu làm duyên nên có sinh … pe … do vô minh làm duyên nên có các hành. Này các tỳ-kheo … có các hành do vô minh làm duyên hay không? Các ông hiểu thế nào?”
+
+**EN**
+The Buddha said: “I have said that with becoming as condition there is birth … pe … and with ignorance as condition there are formations. Bhikkhus … are there formations with ignorance as condition? How do you understand this?”
+
+**VI**
+Các vị đệ tử bạch: “Bạch Thế Tôn … do vô minh làm duyên nên có các hành. Chúng con hiểu như vậy, rằng do vô minh làm duyên nên có các hành.” (M I 328.)
+
+**EN**
+The disciples replied: “Venerable sir … there are formations with ignorance as condition. We understand that formations occur with ignorance as condition.” (M I 328.)
+
+**VI**
+Như vậy, Ngài thuyết Duyên khởi từ già chết ở cuối trở về vô minh ở đầu. (Chú giải Abhidhamma II 124. Visuddhimagga II 155.)
+
+**EN**
+Thus he taught dependent origination from aging and death at the end back to ignorance at the beginning. (Abhidhamma Commentary II 124. Visuddhimagga II 155.)
+
+**VI**
+4. Từ giữa về đầu — lời dạy Duyên khởi theo chiều nghịch (2).
+
+**EN**
+4. From middle to beginning — the teaching on dependent origination in reverse order (2).
+
+**VI**
+Một người khác trong bốn người ấy thấy trước đoạn giữa dây leo. Người ấy cắt ở giữa, lần xuống phần dưới cho đến gốc, kéo dây mang đi dùng vào công việc cần dây để buộc hay để bó. Cũng vậy, Đức Phật dạy:
+
+**EN**
+Another of the four first sees the middle of the creeper. He cuts it in the middle, follows the lower part down to the root, and pulls it away to use for tying or binding. In the same way the Buddha taught:
+
+**VI**
+“Ime kho, bhikkhave, cattāro āhārā kiṃnidānā kiṃsamudayā kiṃjātikā kiṃpabhavā? Ime cattāro āhārā taṇhānidānā taṇhāsamudayā taṇhājātikā taṇhāpabhavā. Taṇhā cāyaṃ, bhikkhave, kiṃnidānā? Vedanā … phasso … saḷāyatanaṃ … nāmarūpaṃ … viññāṇaṃ … saṅkhārā…”
+
+**EN**
+“Bhikkhus, what is the source of these four nutriments, what is their origin, from what are they born, and from what do they spring? These four nutriments have craving as their source, craving as their origin, they are born of craving and spring from craving. And what, bhikkhus, is the source of craving? Feeling … contact … the six sense bases … mentality-materiality … consciousness … formations…”
+
+
+<a id="M06-body-P146"></a>
+## Ái là nguồn gốc của bốn loại vật thực / Craving as the source of the four nutriments
+Miến / Burmese 146
+
+**VI**
+“… kiṃnidānā … pe … saṅkhārā avijjānidānā avijjāsamudayā avijjājātikā avijjāpabhavā.” (S I 253.)
+
+**EN**
+“… what is their source? … pe … Formations have ignorance as their source, ignorance as their origin, are born of ignorance and spring from ignorance.” (S I 253.)
+
+**VI**
+Này các tỳ-kheo … bốn loại vật thực này lấy pháp nào làm nguồn gốc? Khi hội đủ các duyên như cảnh giới tái sinh, sở y, thời và sự nỗ lực (gati, upadhi, kāla, payoga), chúng lấy pháp nào làm nhân sinh khởi? Chúng sinh từ pháp nào? Chúng lấy pháp nào làm chỗ phát sinh ban đầu?
+
+**EN**
+Bhikkhus … what is the source of these four nutriments? When supporting conditions such as destination, endowment, time and effort (gati, upadhi, kāla, payoga) come together, what is the cause of their arising? From what are they born? From what do they first spring?
+
+**VI**
+Bốn loại vật thực này có ái làm nguồn gốc. Khi hội đủ các duyên như cảnh giới tái sinh, sở y, thời và sự nỗ lực, chúng có ái làm nhân sinh khởi. Chúng sinh từ ái và lấy ái làm chỗ phát sinh ban đầu.
+
+**EN**
+The four nutriments have craving as their source. When supporting conditions such as destination, endowment, time and effort come together, they have craving as the cause of their arising. They are born of craving and first spring from craving.
+
+**VI**
+Ái … pe … thọ, xúc, sáu xứ, danh sắc, thức … pe …
+
+**EN**
+Craving … pe … feeling, contact, the six sense bases, mentality-materiality, consciousness … pe …
+
+**VI**
+Các hành lấy pháp nào làm nguồn gốc? Khi hội đủ các duyên như cảnh giới tái sinh, sở y, thời và sự nỗ lực, chúng lấy pháp nào làm nhân sinh khởi? Chúng sinh từ pháp nào? Chúng lấy pháp nào làm chỗ phát sinh ban đầu?
+
+**EN**
+What is the source of formations? When supporting conditions such as destination, endowment, time and effort come together, what is the cause of their arising? From what are they born? From what do they first spring?
+
+**VI**
+Các hành có vô minh làm nguồn gốc. Khi hội đủ các duyên như cảnh giới tái sinh, sở y, thời và sự nỗ lực, chúng có vô minh làm nhân sinh khởi. Chúng sinh từ vô minh và lấy vô minh làm chỗ phát sinh ban đầu. (S I 253.)
+
+**EN**
+Formations have ignorance as their source. When supporting conditions such as destination, endowment, time and effort come together, they have ignorance as the cause of their arising. They are born of ignorance and first spring from ignorance. (S I 253.)
+
+
+<a id="M06-body-P147"></a>
+## Phép quán Duyên khởi theo chiều thuận, cách thứ hai / Discerning dependent origination in forward order, the second method
+Miến / Burmese 147
+
+**VI**
+Như vậy, Ngài thuyết Duyên khởi từ đoạn giữa, tức bốn loại vật thực, hoặc nghiệp hữu, hoặc ái, trở về vô minh ở đầu. (Chú giải Abhidhamma II 124–125. Visuddhimagga II 154–155.)
+
+**EN**
+Thus he taught dependent origination from the middle, that is, from the four nutriments, kamma-becoming or craving, back to ignorance at the beginning. (Abhidhamma Commentary II 124–125. Visuddhimagga II 154–155.)
+
+**VI**
+Trong bốn cách thuyết Duyên khởi nêu trên, cách thứ nhất theo chiều thuận, từ vô minh ở đầu đến già chết ở cuối, đã được trình bày trong sách này. Nay sẽ trình bày tiếp cách thứ hai theo chiều thuận, từ giữa đến cuối.
+
+**EN**
+Of these four ways of teaching dependent origination, the first forward method, from ignorance at the beginning to aging and death at the end, has already been presented in this book. The second forward method, from middle to end, follows.
+
+**VI**
+2. Lời dạy Duyên khởi theo chiều thuận, cách thứ hai (2).
+
+**EN**
+2. The teaching on dependent origination in forward order, the second method (2).
+
+**VI**
+“Sa kho so, bhikkhave, kumāro vuddhimanvāya indriyānaṃ paripākamanvāya pañcahi kāmaguṇehi samappito samaṅgībhūto paricāreti: cakkhuviññeyyehi rūpehi iṭṭhehi kantehi manāpehi piyarūpehi kāmūpasaṃhitehi rajanīyehi, sotaviññeyyehi saddehi, ghānaviññeyyehi gandhehi, jivhāviññeyyehi rasehi, kāyaviññeyyehi phoṭṭhabbehi iṭṭhehi kantehi manāpehi piyarūpehi kāmūpasaṃhitehi rajanīyehi.”
+
+**EN**
+“Bhikkhus, when that boy grows up and his faculties mature, he enjoys himself, provided and endowed with the five strands of sensual pleasure: sights cognizable by the eye that are wished for, desired, agreeable, pleasing, connected with sensuality and provocative of lust, sounds cognizable by the ear, odors cognizable by the nose, tastes cognizable by the tongue, and tangibles cognizable by the body that are wished for, desired, agreeable, pleasing, connected with sensuality and provocative of lust.”
+
+**VI**
+“So cakkhunā rūpaṃ disvā piyarūpe rūpe sārajjati, appiyarūpe rūpe byāpajjati, anupaṭṭhitakāyasati ca viharati parittacetaso. Tañca cetovimuttiṃ paññāvimuttiṃ yathābhūtaṃ nappajānāti, yatthassa te pāpakā akusalā dhammā aparisesā nirujjhanti. So evaṃ anurodhavirodhaṃ samāpanno yaṃ kiñci vedanaṃ vedeti, sukhaṃ vā dukkhaṃ vā adukkhamasukhaṃ vā. So taṃ vedanaṃ abhinandati abhivadati ajjhosāya tiṭṭhati.”
+
+**EN**
+“On seeing a sight with the eye, he lusts after a pleasing sight and becomes hostile toward a displeasing one. He dwells without mindfulness of the body established, with a limited mind. He does not understand as it actually is that liberation of mind and liberation by wisdom in which those evil unwholesome phenomena cease without remainder. Given over in this way to favoring and opposing, whatever feeling he feels, pleasant, painful, or neither painful nor pleasant, he delights in it, welcomes it, and remains fastened to it.”
+
+
+<a id="M06-body-P148"></a>
+## Thọ và sự đắm trước / Feeling and attachment
+Miến / Burmese 148
+
+**VI**
+“Tañca taṃ vedanaṃ abhinandato abhivadato ajjhosāya tiṭṭhato uppajjati nandī. Yā vedanāsu nandī tadupādānaṃ. Tassupādānapaccayā bhavo, bhavapaccayā jāti, jātipaccayā jarāmaraṇaṃ sokaparidevadukkhadomanassupāyāsā sambhavanti. Evametassa kevalassa dukkhakkhandhassa samudayo hoti.” (M I 333.)
+
+**EN**
+“When he delights in that feeling, welcomes it and remains fastened to it, delight arises. Delight in feelings is clinging. With that clinging as condition there is becoming, with becoming as condition there is birth, and with birth as condition aging and death, sorrow, lamentation, pain, grief and despair come to be. Such is the arising of this whole mass of suffering.” (M I 333.)
+
+**VI**
+Này các tỳ-kheo … khi cậu bé ấy lớn lên và các căn trưởng thành, cậu thỏa thích trong năm dục trưởng dưỡng. Đó là cảnh sắc được biết bằng nhãn thức, âm thanh được biết bằng nhĩ thức, mùi được biết bằng tỷ thức, vị được biết bằng thiệt thức, và cảnh xúc được biết bằng thân thức. Các cảnh ấy đáng ưa, đáng thích, đáng mến, khả ái, liên hệ với dục và khiến tham đắm. Đầy đủ cả năm dục trưởng dưỡng ấy, cậu vui hưởng chúng.
+
+**EN**
+Bhikkhus … when the boy grows up and his faculties mature, he enjoys the five strands of sensual pleasure. They are sights known by eye-consciousness, sounds known by ear-consciousness, odors known by nose-consciousness, tastes known by tongue-consciousness and tangibles known by body-consciousness. These objects are wished for, desired, agreeable, pleasing, connected with sensuality and provocative of lust. Fully provided with all five strands, he revels in them.
+
+**VI**
+Khi thấy cảnh sắc bằng mắt, cậu tham đắm cảnh sắc khả ái và khởi tâm sân đối với cảnh sắc không khả ái. Cậu sống với tâm nhỏ hẹp, thiếu niệm đặt trên thân. Cậu cũng không biết đúng như thật tâm giải thoát và tuệ giải thoát, tức tâm quả A-la-hán giải thoát và tuệ quả A-la-hán giải thoát, nơi các pháp bất thiện đã sinh chấm dứt không dư sót. Khi thuận theo tham và chống đối bằng sân như vậy, cậu cảm nhận bất cứ thọ nào, lạc, khổ hay không khổ không lạc. Cậu ưa thích cảm thọ ấy, tán thưởng “hay quá, hay quá” và đắm chặt vào đó. Do ưa thích, tán thưởng và đắm chặt trong cảm thọ ấy…
+
+**EN**
+When he sees a sight with the eye, he lusts after a pleasing sight and becomes hostile toward an unpleasing one. He lives with a limited mind and without mindfulness of the body established. Nor does he know as they actually are liberation of mind and liberation by wisdom, namely the liberated consciousness and wisdom of arahant fruition, in which the arisen unwholesome phenomena cease without remainder. Given over to favoring through lust and opposing through hatred, he experiences whatever feeling occurs, pleasant, painful or neither painful nor pleasant. He delights in the feeling, welcomes it as “excellent, excellent,” and remains fastened to it. Because he delights in it, welcomes it and remains fastened to it…
+
+
+<a id="M06-body-P149"></a>
+## Quán từ sáu xứ hoặc từ thọ / Discernment starting from the six sense bases or feeling
+Miến / Burmese 149
+
+**VI**
+… hỷ tham sinh trong dòng tương tục của người ấy. Hỷ tham đối với các cảm thọ là sự bám chặt, tức thủ. Do thủ, hữu sinh trong dòng tương tục của người ấy. Do hữu, sinh sinh. Do sinh, già chết, sầu, bi, khổ, ưu và não sinh khởi và tăng trưởng. Như vậy, toàn bộ khối khổ này, không lẫn với lạc, sinh khởi và tăng trưởng. (M I 333, Đại kinh Đoạn tận ái.)
+
+**EN**
+… delight and lust arise in his continuity. Delight and lust toward feelings is grasping, that is, clinging. With clinging as condition, becoming arises in his continuity. With becoming as condition, birth arises. With birth as condition, aging and death, sorrow, lamentation, pain, grief and despair arise and grow. Thus this entire mass of suffering, unmixed with happiness, arises and grows. (M I 333, Mahātaṇhāsaṅkhaya Sutta.)
+
+**VI**
+(Ở nhĩ môn và các môn còn lại cũng theo cùng cách.)
+
+**EN**
+(The same applies at the ear door and the other doors.)
+
+**VI**
+Theo lời dạy trên, có thể quán theo cách thuyết Duyên khởi này (1) bắt đầu từ sáu xứ, hoặc (2) bắt đầu từ thọ. Cách quán này tương ứng với cách quán thứ nhất theo chiều thuận, từ đoạn quán sáu xứ đến đoạn quán già chết.
+
+**EN**
+In line with the teaching above, one may discern this presentation of dependent origination (1) starting from the six sense bases or (2) starting from feeling. This corresponds to the first method of discernment in forward order, from the section on the six sense bases through the section on aging and death.
+
+**VI**
+1. Sáu xứ, xúc, thọ, (vô minh), ái, thủ và hữu, tức nghiệp hữu (hành), thuộc đời hiện tại.
+2. Sinh và già chết thuộc đời vị lai thứ nhất.
+
+**EN**
+1. The six sense bases, contact, feeling, (ignorance), craving, clinging and becoming, namely kamma-becoming (formations), belong to the present life.
+2. Birth, aging and death belong to the first future life.
+
+**VI**
+Nếu hành trình luân hồi về vị lai vẫn còn hiện rõ:
+
+**EN**
+If the course of saṃsāra into the future still appears clearly:
+
+**VI**
+1. Sáu xứ, xúc, thọ, (vô minh), ái, thủ và hữu, tức nghiệp hữu (hành), thuộc đời vị lai thứ nhất.
+2. Sinh và già chết thuộc đời vị lai thứ hai.
+
+**EN**
+1. The six sense bases, contact, feeling, (ignorance), craving, clinging and becoming, namely kamma-becoming (formations), belong to the first future life.
+2. Birth, aging and death belong to the second future life.
+
+**VI**
+Cứ như vậy, hãy hiểu cho rõ các đời vị lai nối tiếp nhau đến chỗ chấm dứt luân hồi. Lại có thể chuyển sang quán hành trình luân hồi về phía quá khứ.
+
+**EN**
+In this way, understand the successive future lives as far as the end of saṃsāra. One can then turn to discern the course of saṃsāra into the past.
+
+
+<a id="M06-body-P150"></a>
+## Nối nhân và quả qua từng cặp đời / Connecting cause and result in successive pairs of lives
+Miến / Burmese 150
+
+**VI**
+1. Sáu xứ, xúc, thọ, (vô minh), ái, thủ và hữu, tức nghiệp hữu (hành), thuộc đời quá khứ thứ nhất.
+2. Sinh và già chết thuộc đời hiện tại.
+
+**EN**
+1. The six sense bases, contact, feeling, (ignorance), craving, clinging and becoming, namely kamma-becoming (formations), belong to the first past life.
+2. Birth, aging and death belong to the present life.
+
+**VI**
+1. Sáu xứ, xúc, thọ, (vô minh), ái, thủ và hữu, tức nghiệp hữu (hành), thuộc đời quá khứ thứ hai.
+2. Sinh và già chết thuộc đời quá khứ thứ nhất.
+
+**EN**
+1. The six sense bases, contact, feeling, (ignorance), craving, clinging and becoming, namely kamma-becoming (formations), belong to the second past life.
+2. Birth, aging and death belong to the first past life.
+
+**VI**
+1. Sáu xứ, xúc, thọ, (vô minh), ái, thủ và hữu, tức nghiệp hữu (hành), thuộc đời quá khứ thứ ba.
+2. Sinh và già chết thuộc đời quá khứ thứ hai.
+
+**EN**
+1. The six sense bases, contact, feeling, (ignorance), craving, clinging and becoming, namely kamma-becoming (formations), belong to the third past life.
+2. Birth, aging and death belong to the second past life.
+
+**VI**
+Hãy hướng trí quán như vậy về các đời luân hồi nối tiếp trong quá khứ. Đây là phép quán nối từng cặp hai đời. Nếu có thể phân biệt và quán như vậy từ các đời quá khứ nối tiếp cho đến đời cuối cùng trong vị lai, sẽ hiểu sự tương ứng với cách quán Duyên khởi thứ nhất. Bởi vì sinh chính là sự sinh của thức, danh sắc, sáu xứ, xúc và thọ. Vô minh có mặt trong ái và thủ. Hành có mặt trong nghiệp hữu. Nói cách khác, ái, thủ và hữu bao gồm chính vô minh, ái, thủ, hành và nghiệp.
+
+**EN**
+Direct knowledge in this way toward the successive lives of saṃsāra in the past. This is discernment linking lives two at a time. If one can distinguish and discern in this way from the successive past lives up to the final future life, one can see how this corresponds to the first method of dependent origination. For birth is the arising of consciousness, mentality-materiality, the six sense bases, contact and feeling. Ignorance is included with craving and clinging, and formations are included in kamma-becoming. Put another way, craving, clinging and becoming comprise ignorance, craving, clinging, formations and kamma.
+
+**VI**
+Vì vậy, người thiện đã thành thạo cách quán Duyên khởi thứ nhất theo chiều thuận và phép quán Duyên khởi theo phương pháp thứ năm đã trình bày ở Phần (a) sẽ dễ thực hành cách quán thứ hai theo chiều thuận này.
+
+**EN**
+Thus a good person already proficient in the first forward method and in the fifth method of discerning dependent origination presented in Part (a) will find this second forward method easy to practice.
+
+
+<a id="M06-body-P151"></a>
+## Quán Duyên khởi theo chiều nghịch, cách thứ nhất / Discerning dependent origination in reverse order, the first method
+Miến / Burmese 151
+
+**VI**
+3. Từ cuối về đầu — lời dạy Duyên khởi theo chiều nghịch (1).
+
+**EN**
+3. From end to beginning — the teaching on dependent origination in reverse order (1).
+
+**VI**
+Đây là lời dạy theo thứ tự đảo ngược, từ già chết ở cuối trở về vô minh ở đầu. Trong thứ tự nghịch ấy:
+
+**EN**
+This teaching proceeds in reverse order, from aging and death at the end back to ignorance at the beginning. In that reverse sequence:
+
+**VI**
+1. Già chết.
+2. Sinh.
+Hai pháp ấy thuộc thời vị lai.
+
+**EN**
+1. Aging and death.
+2. Birth.
+These two phenomena belong to the future period.
+
+**VI**
+3. Hữu.
+4. Thủ.
+5. Ái.
+6. Thọ.
+7. Xúc.
+8. Sáu xứ.
+9. Danh sắc.
+10. Thức.
+Các pháp ấy thuộc thời hiện tại.
+
+**EN**
+3. Becoming.
+4. Clinging.
+5. Craving.
+6. Feeling.
+7. Contact.
+8. The six sense bases.
+9. Mentality-materiality.
+10. Consciousness.
+These phenomena belong to the present period.
+
+**VI**
+11. Hành.
+12. Vô minh.
+Các pháp ấy thuộc thời quá khứ.
+
+**EN**
+11. Formations.
+12. Ignorance.
+These phenomena belong to the past period.
+
+**VI**
+Nếu muốn tiếp tục quán về phía vị lai, có thể quán như sau. Già chết và sinh thuộc thời vị lai thứ hai…
+
+**EN**
+If one wishes to continue discerning into the future, one may discern as follows. Aging and death and birth belong to the second future period…
+
+
+<a id="M06-body-P152"></a>
+## Quán ba đời theo chiều nghịch / Discerning three lives in reverse order
+Miến / Burmese 152
+
+**VI**
+Hữu, thủ, ái, thọ, xúc, sáu xứ, danh sắc và thức thuộc thời vị lai thứ nhất.
+
+**EN**
+Becoming, clinging, craving, feeling, contact, the six sense bases, mentality-materiality and consciousness belong to the first future period.
+
+**VI**
+Hành và vô minh thuộc thời hiện tại.
+
+**EN**
+Formations and ignorance belong to the present period.
+
+**VI**
+Cứ như vậy, hãy nối nhân với quả và phân biệt các pháp nhân, pháp quả đến tận cùng vị lai. Lại có thể hướng trí quán về phía quá khứ trong luân hồi:
+
+**EN**
+In this way, connect causes with their results and distinguish the causes and results as far as the end of the future. Then one can direct knowledge back toward the past course of saṃsāra:
+
+**VI**
+Già chết và sinh thuộc thời hiện tại.
+
+**EN**
+Aging and death and birth belong to the present period.
+
+**VI**
+Hữu, thủ, ái, thọ, xúc, sáu xứ, danh sắc và thức thuộc thời quá khứ thứ nhất.
+
+**EN**
+Becoming, clinging, craving, feeling, contact, the six sense bases, mentality-materiality and consciousness belong to the first past period.
+
+**VI**
+Hành và vô minh thuộc thời quá khứ thứ hai.
+
+**EN**
+Formations and ignorance belong to the second past period.
+
+**VI**
+Hướng trí về các đời luân hồi nối tiếp trong quá khứ như vậy, hãy phân biệt các pháp nhân và pháp quả trong phạm vi trí mình có thể thấy. Đây chính là nối nhân và quả qua từng nhóm ba đời để phân biệt các pháp nhân và pháp quả. Đối với người đã thành thạo cách quán thứ nhất theo chiều thuận, cách này cũng không khó, vì chỉ đảo ngược thứ tự để phân biệt.
+
+**EN**
+Directing knowledge in this way toward the successive past lives in saṃsāra, distinguish causes and results as far as one's ability extends. This is discerning causes and results by tracing their links across three lives at a time. For one proficient in the first forward method, this discernment is also easy, since it consists in distinguishing them in reverse order.
+
+**VI**
+Một vài mẫu quán.
+
+**EN**
+Some examples of discernment.
+
+**VI**
+Người thiện hãy nhìn cho trí thấy cách già chết sinh do sinh, rồi phân biệt pháp nhân và pháp quả như sau:
+
+**EN**
+Let the good person see with knowledge how aging and death arise because of birth, and distinguish cause and result as follows:
+
+**VI**
+Do sinh nên có già chết. Sinh là pháp nhân, già chết là pháp quả.
+
+**EN**
+Because there is birth, there is aging and death. Birth is the cause, aging and death are the result.
+
+**VI**
+Lại hãy nhìn cho trí thấy cách sinh sinh do nghiệp hữu…
+
+**EN**
+Then look with knowledge at how birth arises because of kamma-becoming…
+
+
+<a id="M06-body-P153"></a>
+## Quán chiều nghịch từ giữa về đầu. Bốn loại vật thực / Discerning in reverse order from middle to beginning. The four nutriments
+Miến / Burmese 153
+
+**VI**
+… và phân biệt pháp nhân và pháp quả như sau. Do nghiệp hữu sinh nên có sinh. Nghiệp hữu là pháp nhân, sinh là pháp quả. Cứ như vậy, hãy phân biệt và quán ngược trở về vô minh ở đầu.
+
+**EN**
+… and distinguish cause and result as follows. Because kamma-becoming arises, there is birth. Kamma-becoming is the cause, birth is the result. In this way discern in reverse order back to ignorance at the beginning.
+
+**VI**
+4. Từ giữa về đầu — lời dạy Duyên khởi theo chiều nghịch, cách thứ hai (2).
+
+**EN**
+4. From middle to beginning — the teaching on dependent origination in reverse order, the second method (2).
+
+**VI**
+Bốn loại vật thực.
+
+**EN**
+Four nutriments.
+
+**VI**
+Khi giải thích cách quán này, các Chú giải trích Kinh Vật thực trong Nidānavagga của Saṃyutta Nikāya. Trong kinh ấy, Đức Phật dạy Duyên khởi theo chiều nghịch từ bốn loại vật thực ở giữa trở về vô minh ở đầu. Vì vậy, trước hết sẽ giải thích bốn loại vật thực:
+
+**EN**
+In explaining this method of discernment, the commentaries quote the Āhāra Sutta in the Nidānavagga of the Saṃyutta Nikāya. In that discourse, the Buddha taught dependent origination in reverse order from the four nutriments in the middle back to ignorance at the beginning. The four nutriments are therefore explained first:
+
+**VI**
+1. Đoàn thực (kabaḷīkārāhāra) là thức ăn thô hay tế, dùng thành từng miếng, từng vắt. Ngay cả thứ không cần vo thành miếng cũng được kể như thứ dùng thành miếng.
+
+**EN**
+1. Physical nutriment (kabaḷīkārāhāra) is food, coarse or fine, taken in mouthfuls or morsels. Even what need not be formed into a morsel is included with what is taken in morsels.
+
+**VI**
+2. Xúc thực (phassāhāra) là vật thực theo nghĩa tiếp xúc với cảnh.
+
+**EN**
+2. Contact as nutriment (phassāhāra) is nutriment in the sense of meeting the object.
+
+**VI**
+3. Tư niệm thực (manosañcetanāhāra) là vật thực theo nghĩa thúc đẩy tâm.
+
+**EN**
+3. Mental volition as nutriment (manosañcetanāhāra) is nutriment in the sense of impelling the mind.
+
+**VI**
+4. Thức thực (viññāṇāhāra) là vật thực theo nghĩa nhận biết riêng biệt.
+
+**EN**
+4. Consciousness as nutriment (viññāṇāhāra) is nutriment in the sense of cognizing distinctly.
+
+**VI**
+Như vậy có bốn loại vật thực.
+
+**EN**
+These are the four kinds of nutriment.
+
+**VI**
+“Vipākavaṭṭabhūte paṭisandhipavattiyaṃ phassādike kammasamuṭṭhānañca ojaṃ sandhāya ‘cattāro āhārā taṇhānidānā’tiādi vuttaṃ…”
+
+**EN**
+“The passage beginning ‘The four nutriments have craving as their source’ was stated with reference to contact and the others at rebirth-linking and during the course of life in the round of results, and to nutritive essence originating from kamma…”
+
+
+<a id="M06-body-P154"></a>
+## Vật thực thuộc vòng quả và các vật thực khác / Nutriments of the round of results and other nutriments
+Miến / Burmese 154
+
+**VI**
+“… vuttatthamulakā pana itarepi āhārā taṇhāpabhave tasmiṃ avijjamāne na vijjantīti ‘taṇhānidānā’ti vattuṃ vaṭṭanti.” (Mūlaṭīkā II 85. Mahāṭīkā II 243.)
+
+**EN**
+“… The other nutriments also have the foregoing meaning as their basis. Since they do not exist in the absence of craving as their source, they too can rightly be said to have craving as their source.” (Mūlaṭīkā II 85. Mahāṭīkā II 243.)
+
+**VI**
+Bốn loại vật thực thuộc vòng quả, sinh vào lúc tái tục và trong diễn tiến của đời sống, là:
+
+**EN**
+The four nutriments of the round of results, arising at rebirth-linking and in the course of life, are:
+
+**VI**
+1. Xúc thực là xúc tương ưng với thức quả.
+2. Tư niệm thực là tư tương ưng với thức quả.
+3. Thức thực là thức quả.
+4. Đoàn thực là dưỡng tố do nghiệp sinh có trong các nhóm sắc do nghiệp sinh.
+
+**EN**
+1. Contact as nutriment is contact associated with resultant consciousness.
+2. Mental volition as nutriment is volition associated with resultant consciousness.
+3. Consciousness as nutriment is resultant consciousness.
+4. Physical nutriment is the kamma-born nutritive essence in the material groups produced by kamma.
+
+**VI**
+Chính với ý nói đến bốn loại ấy mà Đức Phật dạy lời bắt đầu bằng “cattāro āhārā taṇhānidānā”, nghĩa là bốn loại vật thực này có ái làm nguồn gốc. Lời dạy có ý nghĩa cần hiểu trực tiếp (nītattha) khi chỉ bốn loại vật thực thuộc vòng quả.
+
+**EN**
+It was with reference to those four that the Buddha taught the passage beginning “cattāro āhārā taṇhānidānā,” that is, these four nutriments have craving as their source. When referring to the four nutriments of the round of results, the statement has a meaning to be understood directly (nītattha).
+
+**VI**
+Các vật thực khác, không do nghiệp sinh, cũng thường trợ giúp bằng sức duyên y chỉ mạnh (upanissaya), tiếp sức cho sự tiếp diễn của khổ trong vòng luân hồi, nơi vòng phiền não, vòng nghiệp và vòng quả xoay chuyển không ngừng. Khi ái làm nguồn gốc không hiện hữu, các vật thực ấy cũng không thể hiện hữu hay sinh khởi theo nghĩa này. Vì thế, hãy hiểu rằng nói các vật thực ấy có ái làm nguồn gốc cũng thích hợp. (Mūlaṭīkā II 85. Mahāṭīkā II 243.)
+
+**EN**
+Other nutriments, not produced by kamma, likewise often support through the force of decisive support (upanissaya), sustaining the continuity of suffering in saṃsāra, where the rounds of defilement, kamma and results turn without interruption. When craving as their source is absent, these nutriments cannot exist or arise in this sense either. Thus it is also appropriate to say that they have craving as their source. (Mūlaṭīkā II 85. Mahāṭīkā II 243.)
+
+
+<a id="M06-body-P155"></a>
+## Vật thực do nghiệp sinh và không do nghiệp sinh / Kamma-born and non-kamma-born nutriments
+Miến / Burmese 155
+
+**VI**
+Vật thực không do nghiệp sinh (akammaja āhāra) là vật thực không bị nghiệp chấp thủ (anupādiṇṇaka āhāra).
+
+**EN**
+Non-kamma-born nutriment (akammaja āhāra) is nutriment not taken up by kamma (anupādiṇṇaka āhāra).
+
+**VI**
+“Imesaṃ sattānaṃ khādantānampi akhādantānampi bhuñjantānampi abhuñjantānampi paṭisandhicittato paṭṭhāya sahajātā kammajā ojā nāma atthi. Sā yāva sattamā divasā pāleti. Ayameva upādiṇṇakakabaḷīkārāhāroti veditabbo. Tebhūmakavipākavasena pana upādiṇṇakā phassādayo veditabbā. Tebhūmakakusalākusalakiriyāvasena anupādiṇṇakā. Lokuttarā pana ruḷhīvasena kathitā.” (Chú giải Saṃyutta II 23–24.)
+
+**EN**
+“Whether these beings chew or do not chew, eat or do not eat, from rebirth-linking consciousness onward there is co-arisen kamma-born nutritive essence. It sustains them up to the seventh day. This is to be understood as physical nutriment taken up by kamma. Contact and the other nutriments are understood as taken up by kamma when they belong to results in the three planes, and as not taken up when they belong to wholesome, unwholesome or functional states in the three planes. The supramundane are spoken of by conventional usage.” (Saṃyutta Commentary II 23–24.)
+
+**VI**
+“Paṭisandhicittato paṭṭhāya sahajātāti lakkhaṇavacanametaṃ. Sabbāyapi kammajarūpapariyāpannāya ojāya atthibhāvaṃ avicchedappavattisiddham etaṃ. Sattamāti uppannadivasato paṭṭhāya yāva sattamadivasāpi rūpasantatiṃ pāleti paveṇighaṭanavasena. Ayamevāti kammajā ojā. Kammajaṃ ojaṃ pana paṭicca uppannā ojā akammajattā anupādiṇṇāhāroti veditabbā.” (Saṃyutta Ṭīkā II 27.)
+
+**EN**
+“‘Co-arisen from rebirth-linking consciousness onward’ is a statement of the characteristic. It establishes that the nutritive essence included in kamma-born materiality exists in uninterrupted continuity. ‘Up to the seventh’ means that, from the day it arises through the seventh day, it sustains the material continuity by keeping the succession connected. ‘This very’ means the kamma-born nutritive essence. The nutritive essence that arises dependent on kamma-born essence is to be understood as nutriment not taken up by kamma, since it is not itself kamma-born.” (Saṃyutta Ṭīkā II 27.)
+
+**VI**
+Theo cách giải thích của các Chú giải và Phụ chú giải trên, bốn vật thực thuộc vòng quả đã nêu là bốn vật thực bị chấp thủ (upādiṇṇaka). Bốn vật thực không bị chấp thủ, hay không do nghiệp sinh, là:
+
+**EN**
+According to the explanations of the commentaries and subcommentaries above, the four nutriments in the round of results are nutriments taken up by kamma (upādiṇṇaka). The four nutriments not taken up by kamma, or non-kamma-born, are:
+
+**VI**
+1. Xúc thực là xúc tương ưng với tâm thiện, tâm bất thiện và tâm duy tác.
+2. Tư niệm thực là tư thiện, tư bất thiện và tư duy tác.
+3. Thức thực là thức thiện, thức bất thiện và thức duy tác.
+4. Đoàn thực là dưỡng tố do tâm, thời tiết và vật thực sinh.
+
+**EN**
+1. Contact as nutriment is contact associated with wholesome, unwholesome and functional consciousness.
+2. Mental volition as nutriment is wholesome, unwholesome and functional volition.
+3. Consciousness as nutriment is wholesome, unwholesome and functional consciousness.
+4. Physical nutriment is nutritive essence produced by consciousness, temperature and nutriment.
+
+
+<a id="M06-body-P156"></a>
+## Đoàn thực và dưỡng tố / Physical nutriment and nutritive essence
+Miến / Burmese 156
+
+**VI**
+Bốn vật thực này là bốn vật thực không do nghiệp sinh, tức không bị chấp thủ. Chúng cũng có khả năng nâng đỡ khổ trong vòng luân hồi. Khi ái làm nguồn gốc không hiện hữu, chúng không thể hiện hữu hay sinh khởi theo nghĩa ấy. Vì thế, theo nghĩa cần dẫn giải (neyyattha), nói rằng chúng có ái làm nguồn gốc cũng thích hợp.
+
+**EN**
+These four nutriments are non-kamma-born, that is, not taken up by kamma. They too are capable of sustaining suffering in the round of saṃsāra. In the absence of craving as their source, they cannot exist or arise in this sense. Therefore, in the sense that requires interpretation (neyyattha), it is also appropriate to say that they have craving as their source.
+
+**VI**
+Đoàn thực (kabaḷīkārāhāra).
+
+**EN**
+Physical nutriment (kabaḷīkārāhāra).
+
+**VI**
+Dưỡng tố không bị chấp thủ nói trên bao gồm dưỡng tố do vật thực sinh. Hãy biết rằng dưỡng tố do vật thực sinh bao gồm cả bốn loại:
+
+**EN**
+The nutriment-born nutritive essence is included in the nutritive essence not taken up by kamma described above. Understand that nutriment-born nutritive essence includes all four kinds:
+
+**VI**
+1. Dưỡng tố do vật thực sinh, có dưỡng tố do nghiệp sinh làm duyên.
+2. Dưỡng tố do vật thực sinh, có dưỡng tố do tâm sinh làm duyên.
+3. Dưỡng tố do vật thực sinh, có dưỡng tố do thời tiết sinh làm duyên.
+4. Dưỡng tố do vật thực sinh, có dưỡng tố do vật thực sinh làm duyên.
+
+**EN**
+1. Nutriment-born nutritive essence conditioned by kamma-born nutritive essence.
+2. Nutriment-born nutritive essence conditioned by consciousness-born nutritive essence.
+3. Nutriment-born nutritive essence conditioned by temperature-born nutritive essence.
+4. Nutriment-born nutritive essence conditioned by nutriment-born nutritive essence.
+
+**VI**
+Xin giải thích thêm đôi chút. Các vị trưởng lão xưa dịch từ kabaḷīkārāhāra là “vật thực như được làm thành miếng, thành vắt, dù không cần làm thành miếng, thành vắt”. Cách dịch này hàm chứa một ý nghĩa rất sâu.
+
+**EN**
+A brief further explanation follows. The elders of old rendered kabaḷīkārāhāra as “nutriment as if formed into morsels or mouthfuls, even when there is no need to form it into morsels or mouthfuls.” This rendering carries a very deep meaning.
+
+**VI**
+Sắc pháp, hay các pháp chân đế nói chung, vốn không có tính chuyển dời từ nơi này sang nơi khác. Vừa sinh lên, chúng liền chấm dứt và tan rã ngay tại nơi đã sinh. Vật thực như cơm mà chúng sinh ăn, dù đang ở trong nồi, chén, đĩa, hay ở trong miệng, họng, dạ dày…
+
+**EN**
+Material phenomena, or ultimate phenomena in general, do not move from one place to another. Once they arise, they immediately cease and dissolve where they arose. As for the nutriment that beings eat, such as rice, whether in a pot, bowl or plate, or in the mouth, throat or stomach…
+
+
+<a id="M06-body-P157"></a>
+## Dưỡng tố do thời tiết sinh / Temperature-born nutritive essence
+Miến / Burmese 157
+
+**VI**
+… hoặc đang ở trong ruột dưới dạng thức ăn mới, vật thực ấy chỉ là tập hợp sắc có dưỡng tố do thời tiết sinh đứng thứ tám (utuja-ojaṭṭhamaka). Các sắc ấy liên tục sinh do hỏa đại, còn gọi là thời tiết, trong từng nhóm sắc. Theo quy luật của pháp chân đế, chúng vừa sinh liền diệt ngay. Sắc lúc nhai là một nhóm khác, sắc lúc nuốt lại là nhóm khác, sắc khi ở dạng thức ăn mới lại là nhóm khác.
+
+**EN**
+… or in the intestines as newly ingested food, it is simply an aggregate of temperature-born materiality with nutritive essence as the eighth constituent (utuja-ojaṭṭhamaka). These material phenomena arise continuously because of the fire element, also called temperature, in each material group. According to the nature of ultimate phenomena, they perish immediately after arising. The materiality present while chewing is one set, that present while swallowing another, and that present as newly ingested food yet another.
+
+**VI**
+Các pháp chân đế ấy không tồn tại đủ lâu để đi từ đĩa vào miệng, từ miệng xuống họng rồi từ họng vào dạ dày. Chúng cũng không tồn tại đủ lâu để vo cơm thành nắm rồi ăn. Tuy nhiên, chừng nào sức trợ của hỏa đại trong các nhóm sắc do thời tiết sinh gọi là thức ăn ấy chưa hết, các nhóm sắc do thời tiết sinh mới vẫn liên tiếp sinh khởi, lớp trước nối lớp sau. Vì vậy các vị trưởng lão dịch là “vật thực như được làm thành miếng, thành vắt, dù không cần làm thành miếng, thành vắt”.
+
+**EN**
+These ultimate phenomena do not last long enough to travel from plate to mouth, from mouth to throat, or from throat to stomach. Nor do they last long enough to form rice into a morsel and eat it. Yet as long as the supporting force of the fire element in the temperature-born groups called food is unspent, fresh temperature-born groups continue to arise in succession, one following another. Hence the elders rendered it “nutriment as if formed into morsels or mouthfuls, even when there is no need to form it into morsels or mouthfuls.”
+
+**VI**
+Dưỡng tố do thời tiết sinh trong các nhóm sắc do thời tiết sinh gọi là thức ăn mới, tức đoàn thực, khi được hỏa đại tiêu hóa trong các nhóm mạng căn chín sắc trợ lực, làm sinh những nhóm sắc mới có dưỡng tố là sắc thứ tám. Hỏa đại tiêu hóa ấy gọi là lửa bụng do nghiệp sinh, có khả năng tiêu hóa thức ăn trong bụng. Sắc sinh do dưỡng tố do thời tiết sinh ấy là sắc do vật thực sinh. Dưỡng tố trong mỗi nhóm sắc ấy là dưỡng tố do vật thực sinh. Khi được lửa bụng do nghiệp sinh và dưỡng tố do vật thực sinh ấy trợ lực…
+
+**EN**
+When supported by the digestive fire element in the life nonads, the temperature-born nutritive essence in the groups of newly ingested food, called physical nutriment, generates fresh groups with nutritive essence as their eighth constituent. That digestive fire element is called kamma-born stomach fire and can digest the food in the abdomen. The materiality produced by that temperature-born nutritive essence is nutriment-born materiality. The nutritive essence in each such group is nutriment-born nutritive essence. When supported by the kamma-born stomach fire and that nutriment-born essence…
+
+
+<a id="M06-body-P158"></a>
+## Công năng của bốn loại vật thực / The functions of the four nutriments
+Miến / Burmese 158
+
+**VI**
+… từng dưỡng tố do nghiệp, tâm, thời tiết và vật thực sinh trong các nhóm sắc cũng lại làm sinh những nhóm sắc mới có dưỡng tố là sắc thứ tám. Chúng là sắc do vật thực sinh bởi từng loại dưỡng tố ấy. Dưỡng tố trong các sắc ấy cũng là dưỡng tố do vật thực sinh. Trường hợp dưỡng tố do vật thực sinh được dưỡng tố do vật thực sinh trợ lực đã được nêu ở trên.
+
+**EN**
+… each of the kamma-born, consciousness-born, temperature-born and nutriment-born nutritive essences in the material groups in turn generates fresh groups with nutritive essence as the eighth constituent. These are nutriment-born materiality produced by the respective kinds of nutritive essence. The nutritive essence they contain is also nutriment-born. The case of nutriment-born essence supported by nutriment-born essence has already been stated.
+
+**VI**
+1. Đoàn thực duy trì, tức làm sinh, sắc có dưỡng tố là sắc thứ tám.
+2. Xúc thực duy trì, tức làm sinh, ba loại thọ.
+3. Tư niệm thực duy trì, tức làm sinh, ba loại hữu.
+4. Thức thực duy trì, tức làm sinh, danh sắc tái tục.
+
+**EN**
+1. Physical nutriment sustains, that is, produces materiality with nutritive essence as the eighth constituent.
+2. Contact as nutriment sustains, that is, produces the three kinds of feeling.
+3. Mental volition as nutriment sustains, that is, produces the three kinds of becoming.
+4. Consciousness as nutriment sustains, that is, produces rebirth-linking mentality-materiality.
+
+**VI**
+1. Như đã giải thích, đoàn thực duy trì sắc bằng cách làm sinh sắc có dưỡng tố là sắc thứ tám.
+
+**EN**
+1. As explained above, physical nutriment sustains materiality by producing materiality with nutritive essence as the eighth constituent.
+
+**VI**
+2. Xúc thực chỉ có thể duy trì lạc thọ khi xúc có đủ sức làm sinh lạc thọ hiện khởi. Chỉ khi xúc có đủ sức làm sinh khổ thọ hiện khởi, xúc thực mới duy trì khổ thọ. Chỉ khi xúc có đủ sức làm sinh xả thọ hiện khởi, xúc thực mới duy trì xả thọ. “Duy trì” ở đây nghĩa là “làm sinh”. (Chú giải Saṃyutta II 24.)
+
+**EN**
+2. Contact as nutriment sustains pleasant feeling only when contact capable of producing pleasant feeling becomes manifest. It sustains painful feeling only when contact capable of producing painful feeling becomes manifest. It sustains equanimous feeling only when contact capable of producing equanimous feeling becomes manifest. Here “sustains” means “produces.” (Saṃyutta Commentary II 24.)
+
+
+<a id="M06-body-P159"></a>
+## Tư niệm thực và thức thực / Mental volition and consciousness as nutriment
+Miến / Burmese 159
+
+**VI**
+3. Tư niệm thực. Nghiệp có khả năng đưa đến dục hữu duy trì, tức làm sinh, dục hữu. Các nghiệp có khả năng đưa đến sắc hữu và vô sắc hữu duy trì, tức làm sinh, mỗi hữu tương ứng với nghiệp ấy. Theo nghĩa này, tư niệm thực duy trì, tức làm sinh, ba loại hữu. (Chú giải Saṃyutta II 24.)
+
+**EN**
+3. Mental volition as nutriment. Kamma capable of leading to sense-sphere becoming sustains, that is, produces it. Kamma capable of leading to fine-material and immaterial becoming sustains, that is, produces the kind of becoming corresponding to that kamma. Thus mental volition as nutriment sustains, that is, produces the three kinds of becoming. (Saṃyutta Commentary II 24.)
+
+**VI**
+4. Thức thực. Vào sát-na tái tục, thức duy trì, tức làm sinh, các danh uẩn tương ưng với nó và các sắc do nghiệp sinh, bằng sức của các duyên như câu sinh. (Chú giải Saṃyutta II 24.)
+
+**EN**
+4. Consciousness as nutriment. At the rebirth-linking moment, consciousness sustains, that is, produces the associated mental aggregates and kamma-born materiality by the force of such conditions as conascence. (Saṃyutta Commentary II 24.)
+
+**VI**
+“Ettha ca “manosañcetanā tayo bhave āharatī”ti sāsavakusalākusalacetanāva vuttā. “Viññāṇaṃ paṭisandhināmarūpaṃ āharatī”ti paṭisandhiviññāṇameva vuttaṃ. Avisesena pana taṃsampayuttataṃsamuṭṭhānadhammānaṃ āharaṇatopete “āhārā”ti veditabbā.”
+Khi nói “tư niệm thực duy trì ba loại hữu”, ở đây chỉ nói đến tư thiện và tư bất thiện hữu lậu. Khi nói “thức duy trì danh sắc tái tục”, ở đây chỉ nói đến thức tái tục. Theo nghĩa rộng, chúng được gọi là vật thực vì duy trì các pháp tương ưng và các pháp do chúng làm sinh. (Chú giải Saṃyutta II 25.)
+
+**EN**
+“Ettha ca “manosañcetanā tayo bhave āharatī”ti sāsavakusalākusalacetanāva vuttā. “Viññāṇaṃ paṭisandhināmarūpaṃ āharatī”ti paṭisandhiviññāṇameva vuttaṃ. Avisesena pana taṃsampayuttataṃsamuṭṭhānadhammānaṃ āharaṇatopete “āhārā”ti veditabbā.”
+In the statement “mental volition nourishes the three kinds of becoming,” only wholesome and unwholesome volition subject to the taints is intended. In “consciousness nourishes rebirth-linking mentality-materiality,” only rebirth-linking consciousness is intended. In the broader sense they are called nutriment because they nourish the associated phenomena and phenomena originating from them. (Saṃyutta Commentary II 25.)
+
+**VI**
+“Sāsavakusalākusalacetanāva vuttā visesapaccayabhāvadassanatthena. Tenāha “avisesena panā”tiādi. Paṭisandhiviññāṇameva vuttanti etthāpi eseva nayo. Yathā taṃ taṃ phalaṃ visesato paccayatāya etesaṃ āhārattho, evaṃ avisesatopīti dassetuṃ “avisesenā”tiādi vuttaṃ.”
+Lời trước nói tư thiện và tư bất thiện hữu lậu để nêu vai trò đặc biệt của chúng làm duyên. Lời sau cũng chỉ nói thức tái tục để nêu vai trò đặc biệt của thức này. Những lời “theo nghĩa rộng” cho thấy chúng còn có công năng làm vật thực nhờ làm duyên cho các quả riêng tương ứng. (Phụ chú giải Saṃyutta II 28–29.)
+
+**EN**
+“Sāsavakusalākusalacetanāva vuttā visesapaccayabhāvadassanatthena. Tenāha “avisesena panā”tiādi. Paṭisandhiviññāṇameva vuttanti etthāpi eseva nayo. Yathā taṃ taṃ phalaṃ visesato paccayatāya etesaṃ āhārattho, evaṃ avisesatopīti dassetuṃ “avisesenā”tiādi vuttaṃ.”
+The first statement singles out wholesome and unwholesome volition subject to the taints to show their distinctive role as conditions. The second similarly singles out rebirth-linking consciousness. The words “in the broader sense” show that they also function as nutriment through conditioning their respective results. (Saṃyutta Subcommentary II 28–29.)
+
+**VI**
+Hãy hiểu rằng câu nói tư niệm thực duy trì, tức làm sinh, ba loại hữu chỉ nhằm vào tư thiện và tư bất thiện là đối tượng của các lậu hoặc có khả năng làm cho vòng luân hồi tiếp diễn…
+
+**EN**
+Understand that the statement that mental volition as nutriment sustains, that is, produces the three kinds of becoming refers specifically to wholesome and unwholesome volition that is an object of the taints capable of keeping the round of saṃsāra going…
+
+
+<a id="M06-body-P160"></a>
+## Vật thực theo nghĩa riêng và nghĩa chung / Nutriment in the specific and general senses
+Miến / Burmese 160
+
+**VI**
+… vì chúng là những pháp nhân đặc biệt làm cho vòng luân hồi tiếp diễn. Nói theo nghĩa chung, mọi tư, dù thiện, bất thiện hay vô ký, đều là pháp nhân có khả năng làm sinh các danh pháp tương ưng với nó và các sắc do tâm sinh.
+
+**EN**
+… because they are distinctive causes that keep the round of saṃsāra going. In the general sense, all volition, whether wholesome, unwholesome or indeterminate, is a cause capable of producing the associated mental phenomena and consciousness-born materiality.
+
+**VI**
+“Viññāṇaṃ paṭisandhināmarūpaṃ āharati” nghĩa là thức duy trì, tức làm sinh, danh sắc tái tục. Ở đây chỉ nói riêng đến thức tái tục. Nói theo nghĩa chung, thức được gọi là vật thực vì nó duy trì cả các pháp tương ưng cùng sinh với nó và các sắc do tâm sinh tương ứng. (Chú giải Saṃyutta II 25.)
+
+**EN**
+“Viññāṇaṃ paṭisandhināmarūpaṃ āharati” means that consciousness sustains, that is, produces rebirth-linking mentality-materiality. Here only rebirth-linking consciousness is specifically meant. In the general sense, consciousness is called nutriment because it sustains both the co-arisen associated phenomena and the corresponding consciousness-born materiality. (Saṃyutta Commentary II 25.)
+
+**VI**
+1. Trong bốn loại vật thực, đoàn thực, tức dưỡng tố có bốn nguồn sinh, chỉ hoàn thành chức năng vật thực, tức chức năng duy trì, khi nâng đỡ sắc có bốn nguồn sinh bằng cách làm sinh những nhóm sắc mới có dưỡng tố là sắc thứ tám.
+
+**EN**
+1. Of the four nutriments, physical nutriment, that is, nutritive essence from the four origins, performs its function as nutriment, the function of sustaining, by supporting materiality of the four origins through producing fresh groups with nutritive essence as the eighth constituent.
+
+**VI**
+2. Chỉ khi thực hiện chức năng tiếp xúc với cảnh, xúc thực mới hoàn thành chức năng vật thực, tức duy trì thọ. Khi ấy nó có thể làm sinh thọ.
+
+**EN**
+2. Contact as nutriment performs its function as nutriment, sustaining feeling, only when it performs the function of contacting the object. Then it can produce feeling.
+
+**VI**
+3. Chỉ khi thúc đẩy tâm và đủ sức nối pháp nhân với pháp quả để quả có thể sinh, tư niệm thực mới làm được chức năng vật thực là duy trì, tức làm sinh, ba loại hữu.
+
+**EN**
+3. Mental volition as nutriment can perform the function of sustaining, that is, producing the three kinds of becoming only when it impels the mind and exerts enough force to link cause and result so that the result can arise.
+
+
+<a id="M06-body-P161"></a>
+## Vật thực duy trì sắc thân / Nutriment sustains the material body
+Miến / Burmese 161
+
+**VI**
+4. Chỉ khi thức nhận biết rõ từng cảnh, thức, tức thức tái tục, mới có thể hoàn thành chức năng vật thực bằng sức làm xuất hiện các uẩn và thiết lập tái sinh, làm sinh các pháp tương ưng và sắc do nghiệp sinh, hoặc sắc do tâm sinh. (Chú giải Saṃyutta II 25.)
+
+**EN**
+4. By distinctly cognizing the object, consciousness, specifically rebirth-linking consciousness, can perform the function of nutriment by the power that manifests the aggregates and establishes rebirth, producing associated phenomena and kamma-born materiality, or consciousness-born materiality. (Saṃyutta Commentary II 25.)
+
+**VI**
+1. Khi đoàn thực nâng đỡ sắc có bốn nguồn sinh bằng cách làm sinh sắc có dưỡng tố là sắc thứ tám, nó là nhân duy trì chúng sinh, vì giữ dòng sắc thân tiếp diễn không gián đoạn. Quả vậy, sắc thân do nghiệp sinh, nhưng nếu được đoàn thực nâng đỡ vững chắc thì có thể tồn tại trong tám mươi hay một trăm năm, cho đến hết tuổi thọ. Ví như đứa trẻ do mẹ sinh, nhưng phải nhờ người vú cho bú và nuôi nấng mới sống lâu. Như ngôi nhà có cây chống thì không đổ, sắc thân nương vào vật thực mà đứng vững. (Chú giải Saṃyutta II 25.)
+
+**EN**
+1. When physical nutriment supports materiality of the four origins by producing materiality with nutritive essence as the eighth constituent, it is a cause for the continuance of beings because it keeps the material body going in uninterrupted succession. The body is indeed produced by kamma, yet if firmly supported by physical nutriment it can last for eighty or a hundred years, until the end of its lifespan. A child is born of its mother, yet can live long only if nursed and cared for by a wet nurse. Like a house that does not collapse when braced by a timber prop, the material body stands firm in dependence on nutriment. (Saṃyutta Commentary II 25.)
+
+**VI**
+Như vậy, đoàn thực hoàn thành chức năng vật thực bằng cách nâng đỡ sắc có bốn nguồn sinh. Nó là nhân của hai dòng sắc, sắc do vật thực sinh và sắc bị nghiệp chấp thủ, tức sắc do nghiệp sinh. Nó trợ cho sắc do nghiệp sinh bằng sức duy trì (anupālakasatti) và trợ cho sắc do vật thực sinh bằng sức trực tiếp làm sinh (janakasatti).
+
+**EN**
+Thus physical nutriment performs its function by supporting materiality of the four origins. It conditions two material continuities: materiality originating from nutriment and materiality taken up by kamma, that is, kamma-born materiality. It supports kamma-born materiality through sustaining power (anupālakasatti), and nutriment-born materiality through directly productive power (janakasatti).
+
+**VI**
+2. Khi xúc thực tiếp xúc với cảnh làm chỗ cho lạc thọ và các thọ khác sinh…
+
+**EN**
+2. When contact as nutriment meets an object that provides the basis for pleasant feeling and other feelings…
+
+
+<a id="M06-body-P162"></a>
+## Hai cách vật thực trợ duyên / Two ways in which nutriment supports
+Miến / Burmese 162
+
+**VI**
+… nó là nhân duy trì chúng sinh bằng cách làm sinh lạc thọ và các thọ khác.
+
+**EN**
+… it is a cause of the continuance of beings by producing pleasant feeling and other feelings.
+
+**VI**
+3. Khi tư niệm thực tích lũy nghiệp bằng sức của nghiệp thiện và bất thiện, nó là nhân duy trì chúng sinh vì làm sinh căn nguyên của hữu.
+
+**EN**
+3. When mental volition as nutriment builds up kamma by the force of wholesome and unwholesome kamma, it is a cause for the continuance of beings because it produces the underlying cause of becoming.
+
+**VI**
+4. Khi thức thực phân biệt nhận biết từng cảnh, nó là nhân duy trì chúng sinh vì làm sinh danh sắc. (Chú giải Saṃyutta II 25.)
+
+**EN**
+4. When consciousness as nutriment distinctly cognizes the object, it is a cause for the continuance of beings because it produces mentality-materiality. (Saṃyutta Commentary II 25.)
+
+**VI**
+“Upādiṇṇarūpasantatiyā upatthambhaneneva utucittajarūpasantatīnampi upatthambhanaṃ siddhanti “dve rūpasantatiyo”ti vuttaṃ. Upatthambhanameva sandhāya “anupālako hutvā”ti ca vuttaṃ.”
+Khi dòng sắc bị nghiệp chấp thủ được nâng đỡ, các dòng sắc do thời tiết và tâm sinh cũng được nâng đỡ. Vì vậy có lời “hai dòng sắc”. Khi nói “làm nhiệm vụ duy trì” là chỉ sự nâng đỡ. Sự duy trì ấy bảo hộ sắc thân, giúp sắc thân tiếp tục tồn tại. (Phụ chú giải Saṃyutta II 29.)
+
+**EN**
+“Upādiṇṇarūpasantatiyā upatthambhaneneva utucittajarūpasantatīnampi upatthambhanaṃ siddhanti “dve rūpasantatiyo”ti vuttaṃ. Upatthambhanameva sandhāya “anupālako hutvā”ti ca vuttaṃ.”
+When the continuity of materiality taken up by kamma is supported, the continuities of materiality born of temperature and consciousness are also supported. Hence the phrase “two material continuities.” “Acting as a sustainer” refers to support. Sustaining safeguards the body and keeps it in existence. (Saṃyutta Subcommentary II 29.)
+
+**VI**
+Chú giải ở trên nói đoàn thực trợ cho sắc bị nghiệp chấp thủ, tức sắc do nghiệp sinh, bằng sức duy trì và trợ cho sắc do vật thực sinh bằng sức làm sinh. Khi nâng đỡ dòng sắc do nghiệp sinh thì chức năng nâng đỡ dòng sắc do thời tiết và do tâm sinh cũng được hoàn thành. Vì vậy, lời giải thích trình bày cách đoàn thực trợ bằng sức duyên vật thực cho hai dòng sắc, tức sắc do nghiệp sinh và sắc do vật thực sinh. Chú giải giải thích sức duy trì nhằm riêng vào tính chất nâng đỡ (upatthambhana). Chỉ chức năng làm cho toàn sắc thân tiếp tục tồn tại, giữ gìn và bảo hộ nó, mới gọi là duy trì (anupālanā). (Phụ chú giải Saṃyutta II 29.)
+
+**EN**
+The commentary above explains that physical nutriment supports materiality taken up by kamma, that is, kamma-born materiality, by sustaining power and nutriment-born materiality by productive power. Support of the kamma-born continuity also accomplishes support of the temperature-born and consciousness-born continuities. The explanation therefore shows how physical nutriment supports the two material continuities, the kamma-born and the nutriment-born, by the force of nutriment condition. The commentary refers to sustaining power specifically with the sense of support (upatthambhana). Only keeping the whole material body in existence, maintaining and guarding it, is termed sustaining (anupālanā). (Saṃyutta Subcommentary II 29.)
+
+**VI**
+Điểm chính cần nắm để quán. (1) Bốn loại vật thực thuộc vòng quả…
+
+**EN**
+The essential point for discernment. (1) The four nutriments in the round of results…
+
+
+<a id="M06-body-P163"></a>
+## Quán từ bốn vật thực thuộc vòng quả / Discernment beginning from the four nutriments in the round of results
+Miến / Burmese 163
+
+**VI**
+… và (2) bốn loại vật thực thuộc vòng nghiệp. Như vậy có hai cách xác định những pháp được gọi là vật thực.
+
+**EN**
+… and (2) the four nutriments in the round of kamma. There are thus two ways of identifying the phenomena called nutriment.
+
+**VI**
+Cách xác định bốn vật thực thuộc vòng quả được giải thích trong Chú giải Kinh Vật thực (Chú giải Saṃyutta II 27). Cách xác định bốn vật thực thuộc vòng nghiệp cũng được giải thích. (Chú giải Saṃyutta II 24. Mūlaṭīkā II 86. Mahāṭīkā II 245.) Nếu muốn quán từ bốn vật thực thuộc vòng quả, hãy bắt đầu từ bốn pháp thuộc vòng quả vào sát-na tái tục như dưới đây. Cũng có thể quán theo cùng cách từ các pháp vòng quả sinh trong suốt đời sống.
+
+**EN**
+The method of identifying the four nutriments of the round of results is explained in the commentary on the Āhāra Sutta (Saṃyutta Commentary II 27). The method of identifying the four nutriments of the round of kamma is also explained. (Saṃyutta Commentary II 24. Mūlaṭīkā II 86. Mahāṭīkā II 245.) To discern beginning with the four nutriments of the round of results, start with the four resultant phenomena at rebirth-linking as below. One may also discern in the same way beginning with resultant phenomena that arise throughout a lifetime.
+
+**VI**
+Nếu đã tái tục bằng tâm hỷ thọ tam nhân, vào sát-na tái tục có ba mươi bốn danh pháp và ba mươi sắc do nghiệp sinh. Khi ấy bốn vật thực là:
+
+**EN**
+If one took rebirth with joyful three-rooted consciousness, there are thirty-four mental phenomena and thirty kamma-born material phenomena at the moment of rebirth-linking. The four nutriments then are:
+
+**VI**
+1. Đoàn thực là dưỡng tố do nghiệp sinh có trong ba mươi sắc do nghiệp sinh.
+2. Xúc thực là xúc tương ưng với thức tái tục.
+3. Tư niệm thực là tư tương ưng với thức tái tục.
+4. Thức thực là thức tái tục.
+
+**EN**
+1. Physical nutriment is the kamma-born nutritive essence in the thirty kamma-born material phenomena.
+2. Contact as nutriment is contact associated with rebirth-linking consciousness.
+3. Mental volition as nutriment is volition associated with rebirth-linking consciousness.
+4. Consciousness as nutriment is rebirth-linking consciousness.
+
+**VI**
+Hãy bắt đầu bằng cách phân biệt và quán bốn vật thực này. Nếu chia theo thời, phép quán ấy như sau. (1) Bốn vật thực, tức bốn vật thực thuộc vòng quả, thuộc hiện tại. (2) Hữu, thủ, ái, thọ, xúc, sáu xứ, danh sắc và thức thuộc đời quá khứ thứ nhất…
+
+**EN**
+Begin by distinguishing and discerning these four nutriments. Divided according to period, the discernment is as follows. (1) The four nutriments, those of the round of results, belong to the present. (2) Becoming, clinging, craving, feeling, contact, the six sense bases, mentality-materiality and consciousness belong to the first past life…
+
+
+<a id="M06-body-P164"></a>
+## Quán từ bốn vật thực thuộc vòng nghiệp / Discernment beginning from the four nutriments in the round of kamma
+Miến / Burmese 164
+
+**VI**
+(3) Hành và vô minh thuộc đời quá khứ thứ hai. Hãy tiếp tục quán về các đời quá khứ và vị lai nối tiếp nhau, phân biệt nhân quả qua từng nhóm ba đời. Cũng có thể quán theo cùng mẫu, bắt đầu từ bốn vật thực còn lại thuộc vòng quả.
+
+**EN**
+(3) Formations and ignorance belong to the second past life. Continue discerning successive past and future lives, distinguishing causes and results three lives at a time. One may also follow the same pattern beginning with the other four nutriments of the round of results.
+
+**VI**
+Nếu muốn phân biệt và quán từ bốn vật thực thuộc vòng nghiệp, hãy bắt đầu với các pháp thuộc vòng nghiệp mà chính mình đang vun bồi cho hành trình luân hồi về vị lai. Ví dụ, nếu đang vun bồi nhiều thiện nghiệp với nguyện vọng trong vị lai được làm một vị tỳ-kheo có thể chứng quả A-la-hán, hãy chọn một thiện nghiệp dễ nhận ra trong số ấy. Khi vun bồi nghiệp đó, bốn vật thực sinh như sau:
+
+**EN**
+To discern from the four nutriments of the round of kamma, start with the phenomena of that round that you yourself are cultivating for the future course of saṃsāra. For example, if you are cultivating much wholesome kamma with the aspiration to become a bhikkhu able to realize arahant fruition in the future, choose one readily discernible wholesome kamma. As that kamma is cultivated, the four nutriments arise as follows:
+
+**VI**
+1. Đoàn thực là từng dưỡng tố có bốn nguồn sinh trong năm mươi bốn sắc có bốn nguồn sinh ở tim khi tạo nghiệp ấy. Nói cách khác, đó là từng dưỡng tố có bốn nguồn sinh trong thân.
+
+**EN**
+1. Physical nutriment is the individual nutritive essences of four origins among the fifty-four material phenomena of four origins in the heart when that kamma is performed. Put another way, it is the individual nutritive essences of four origins in the body.
+
+**VI**
+2. Xúc trong nhóm danh pháp thiện ấy là xúc thực.
+3. Tư là tư niệm thực.
+4. Tâm biết, tức thức thiện, là thức thực (tức nghiệp thức…).
+
+**EN**
+2. Contact in that group of wholesome mental phenomena is contact as nutriment.
+3. Volition is mental volition as nutriment.
+4. The knowing consciousness, that is, wholesome consciousness, is consciousness as nutriment (that is, kamma consciousness…).
+
+
+<a id="M06-body-P165"></a>
+## Một cách giải thích khác / Another explanation
+Miến / Burmese 165
+
+**VI**
+… tức nghiệp thức. Hãy bắt đầu bằng cách phân biệt bốn vật thực này. Xúc, tư và thức ở đây thuộc nhóm hành thiện gọi là nghiệp hữu trong vòng nghiệp.
+
+**EN**
+… kamma consciousness. Begin by distinguishing these four nutriments. Contact, volition and consciousness here belong to the group of wholesome formations known as kamma-becoming in the round of kamma.
+
+**VI**
+1. Nghiệp hữu, tức bốn vật thực, cùng với thủ, ái, (vô minh), thọ, xúc, sáu xứ, danh sắc và thức (thức quả) là các pháp hiện tại.
+2. Hành và vô minh là các pháp của đời quá khứ thứ nhất.
+Hãy áp dụng phương pháp này để hiểu các đời quá khứ và vị lai nối tiếp nhau.
+
+**EN**
+1. Kamma-becoming, represented by the four nutriments, together with clinging, craving, (ignorance), feeling, contact, the six sense bases, mentality-materiality and consciousness (resultant consciousness), are present phenomena.
+2. Formations and ignorance are phenomena of the first past life.
+Apply this method to understand successive past and future lives.
+
+**VI**
+“Āhārā vā taṇhāya pabhāvetabbā anāgato addhā, taṇhādayo paccuppannā, saṅkhārāvijjā atīto”ti. (Mūlaṭīkā II 86. Mahāṭīkā II 244–245.)
+
+**EN**
+“Alternatively, the nutriments to be generated by craving belong to the future period, craving and the others to the present, and formations and ignorance to the past.” (Mūlaṭīkā II 86. Mahāṭīkā II 244–245.)
+
+**VI**
+Hãy hiểu lời “bốn vật thực” (cattāro āhārā) trong Kinh Vật thực là bốn vật thực sinh vào sát-na tái tục của đời vị lai. Chúng sẽ sinh do ái đang được vun bồi trong đời hiện tại, tức do nghiệp được vô minh, ái và thủ bao quanh. Nếu tái tục vị lai ấy là tái tục hỷ thọ tam nhân thì có ba mươi bốn danh pháp tái tục. Hãy lấy làm cảnh sát-na tái tục của đời tỳ-kheo vị lai mà mình đã nguyện, trong đó có thể chứng quả A-la-hán. Trong các pháp tái tục vị lai ấy…
+
+**EN**
+Understand “four nutriments” (cattāro āhārā) in the Āhāra Sutta as the four nutriments arising at rebirth-linking in a future life. They will be produced by the craving cultivated in the present life, that is, by kamma encompassed by ignorance, craving and clinging. If that future rebirth-linking is joyful and three-rooted, it includes thirty-four rebirth-linking mental phenomena. Take as object the rebirth-linking moment of the future bhikkhu life to which you aspire, in which arahant fruition can be attained. Among the phenomena of that future rebirth-linking…
+
+
+<a id="M06-body-P166"></a>
+## Ba thời trong phép quán từ vật thực / The three periods in discernment from nutriment
+Miến / Burmese 166
+
+**VI**
+1. Dưỡng tố do nghiệp sinh có trong sắc do nghiệp sinh là đoàn thực.
+2. Xúc tương ưng với thức tái tục là xúc thực.
+3. Tư tương ưng với thức tái tục là tư niệm thực.
+4. Thức tái tục là thức thực.
+
+**EN**
+1. The kamma-born nutritive essence in kamma-born materiality is physical nutriment.
+2. Contact associated with rebirth-linking consciousness is contact as nutriment.
+3. Volition associated with rebirth-linking consciousness is mental volition as nutriment.
+4. Rebirth-linking consciousness is consciousness as nutriment.
+
+**VI**
+1. Bốn vật thực này là các pháp thuộc thời vị lai.
+2. Các pháp như ái làm nhân cho bốn vật thực vị lai ấy, tức nghiệp hữu, thủ, ái, thọ, xúc, sáu xứ, danh sắc và thức, là các pháp thuộc thời hiện tại.
+3. Hành và vô minh là các pháp thuộc thời quá khứ.
+
+**EN**
+1. These four nutriments are phenomena of the future period.
+2. Craving and the other phenomena that are causes of those four future nutriments, namely kamma-becoming, clinging, craving, feeling, contact, the six sense bases, mentality-materiality and consciousness, are phenomena of the present period.
+3. Formations and ignorance are phenomena of the past period.
+
+**VI**
+Cách hiểu này bao gồm cả ba thời vị lai, hiện tại và quá khứ. Trong phép quán ấy, hãy đi ngược thứ tự, bắt đầu từ bốn vật thực là tái tục vị lai, rồi lần lượt phân biệt sự liên hệ giữa quả và nhân cho đến vô minh thuộc thời quá khứ.
+
+**EN**
+This interpretation includes all three periods: future, present and past. In this discernment, proceed in reverse order from the four nutriments of future rebirth-linking, distinguishing the relationship between result and cause step by step back to ignorance belonging to the past.
+
+**VI**
+Lý do thuyết theo bốn cách.
+
+**EN**
+Why the teaching was given in four ways.
+
+**VI**
+Hỏi. Vì sao Đức Phật phân chia lời dạy Duyên khởi thành bốn cách khác nhau?
+
+**EN**
+Question. Why did the Buddha present dependent origination in four different ways?
+
+**VI**
+Đáp. (1) Vì giáo pháp Duyên khởi khéo léo, tốt đẹp ở mọi mặt…
+
+**EN**
+Answer. (1) Because the teaching on dependent origination is excellent and well presented in every respect…
+
+
+<a id="M06-body-P167"></a>
+## Hai lý do thuyết theo bốn cách / Two reasons for teaching in four ways
+Miến / Burmese 167
+
+**VI**
+… và (2) vì chính Đức Phật đã thành tựu trí toàn giác và trí thuyết pháp thù thắng, có khả năng làm cho lời dạy sáng rõ và trang nghiêm. Do hai lý do này, Ngài đã thuyết Duyên khởi theo bốn cách. (Visuddhimagga II 155. Chú giải Abhidhamma II 125.)
+
+**EN**
+… and (2) because the Buddha himself had attained omniscient knowledge and exceptional knowledge of teaching, through which he could make the teaching clear and distinguished. For these two reasons he taught dependent origination in four ways. (Visuddhimagga II 155. Abhidhamma Commentary II 125.)
+
+**VI**
+Lời dạy Duyên khởi tốt đẹp ở mọi mặt. Nếu một hành giả nghe theo một trong bốn cách thuyết ấy rồi nỗ lực thực hành, người ấy có thể thấu suốt Thánh đạo, tức pháp gọi là điều cần biết đúng như thật. Nói cách khác, người ấy có thể thấu suốt thực tính Duyên khởi, là điều cần biết đúng như thật.
+
+**EN**
+The teaching on dependent origination is excellent in every respect. If a practitioner hears one of these four presentations and strives to practice accordingly, that person can penetrate the noble path, the phenomenon called what is to be rightly known. In other words, that person can penetrate the nature of dependent origination, which is to be rightly known.
+
+**VI**
+Lại nữa, Đức Phật thành tựu bốn trí vô sở úy và bốn trí phân tích (paṭisambhidā). Ngài đạt được bốn chiều sâu:
+
+**EN**
+Moreover, the Buddha possesses the four kinds of knowledge of intrepidity and the four kinds of analytical knowledge (paṭisambhidā). He attained mastery of four kinds of profundity:
+
+**VI**
+1. Pháp thâm sâu (dhammagambhīra) là sự sâu xa của giáo pháp Pāli.
+2. Nghĩa thâm sâu (atthagambhīra) là sự sâu xa của nghĩa trong giáo pháp Pāli ấy.
+3. Thuyết pháp thâm sâu (desanāgambhīra) là sự sâu xa của cách diễn đạt giáo pháp bằng nhiều lối nói và nhiều phương pháp.
+4. Thấu suốt thâm sâu (paṭivedhagambhīra) là sự sâu xa của trí thấu suốt mối liên hệ nhân quả sâu xa của Duyên khởi…
+
+**EN**
+1. Profundity of the teaching (dhammagambhīra) is the depth of the Pāli teaching.
+2. Profundity of meaning (atthagambhīra) is the depth of the meaning of that Pāli teaching.
+3. Profundity of exposition (desanāgambhīra) is the depth of the exposition adorned with many modes of expression and methods.
+4. Profundity of penetration (paṭivedhagambhīra) is the depth of knowledge that penetrates the profound causal relationships of dependent origination…
+
+
+<a id="M06-body-P168"></a>
+## Vì sao thuyết từ vô minh đến già chết / Why the Buddha taught from ignorance to aging and death
+Miến / Burmese 168
+
+**VI**
+… Do đã vững vàng, có chỗ đứng trong bốn chiều sâu ấy, Ngài thành tựu trí toàn giác, nhờ đó lời dạy sáng rõ và trang nghiêm. Chính vì thành tựu trí toàn giác, Đức Phật có thể thuyết pháp bằng nhiều phương pháp. (Visuddhimagga II 155. Chú giải Abhidhamma II 125.)
+
+**EN**
+… Having gained a firm footing in those four kinds of depth, he attained omniscient knowledge, through which the teaching is clear and distinguished. Having attained omniscient knowledge, the Buddha was able to teach the Dhamma by various methods. (Visuddhimagga II 155. Abhidhamma Commentary II 125.)
+
+**VI**
+1. Lời dạy Duyên khởi theo chiều thuận, cách thứ nhất (1).
+
+**EN**
+1. The first teaching of dependent origination in forward order (1).
+
+**VI**
+Đức Thế Tôn đặc biệt thuyết Duyên khởi theo chiều thuận từ vô minh đến già chết. Ngài nhiều lần quán thấy vô số chúng sinh có thể được giáo hóa đang mê mờ trước pháp nhân đặc biệt cần được phân biệt và biết rõ. Đó là sự tiếp nối không ngừng của luân hồi, trong đó các pháp nhân như vô minh liên hệ với các pháp quả như hành và cứ thế nối tiếp nhau.
+
+**EN**
+The Blessed One in particular taught dependent origination in forward order from ignorance to aging and death. He repeatedly surveyed the innumerable beings susceptible to training who were bewildered about the distinctive condition that should be distinguished and known. It is the unbroken continuance of saṃsāra, in which causes such as ignorance relate to results such as formations, and the succession goes on without interruption.
+
+**VI**
+(a) Nhằm làm rõ sự vận hành của khổ luân hồi: do các pháp nhân thích hợp, bắt đầu bằng vô minh, vốn hiện hữu trong dòng tương tục của mỗi người, mà các pháp quả bắt đầu bằng hành sinh khởi.
+(b) Nhằm chỉ rõ trình tự sinh khởi của ba vòng, vòng phiền não, vòng nghiệp và vòng quả…
+
+**EN**
+(a) To show how the suffering of the round proceeds: owing to the appropriate causes starting with ignorance in each person's own continuity, the results starting with formations arise.
+(b) To show the sequence in which the three rounds arise: the round of defilements, the round of kamma and the round of results…
+
+
+<a id="M06-body-P169"></a>
+## Vì sao thuyết từ giữa đến cuối và từ cuối về đầu / Why the Buddha taught from the middle to the end and from the end back to the beginning
+Miến / Burmese 169
+
+**VI**
+… Hãy hiểu rằng vì những lợi ích ấy mà Ngài thuyết lời dạy này. (Visuddhimagga II 155. Chú giải Abhidhamma II 125.)
+
+**EN**
+… Understand that he gave this teaching for these benefits. (Visuddhimagga II 155. Abhidhamma Commentary II 125.)
+
+**VI**
+Lời dạy Duyên khởi theo chiều thuận, cách thứ hai (2).
+
+**EN**
+The second teaching of dependent origination in forward order (2).
+
+**VI**
+Cách thuyết thuận này bắt đầu ở giữa, từ ái sinh do thọ, và đi đến già chết ở cuối. Trong đời hiện tại có thức, danh sắc, sáu xứ, xúc và thọ. Những người đệ tử chưa tự thấy bằng tuệ chánh kiến rằng từ sự sinh của các pháp nhân là vô minh, ái, thủ, hành và nghiệp hữu, các pháp thuộc thời vị lai sinh khởi. Vì các pháp nhân ấy thuộc hiện tại, Ngài có thể chỉ rõ chúng là các nhân hiện tiền, có thể thấy. Ngài thuyết để làm sáng tỏ cách các nhân hiện tại liên hệ với quả vị lai, và cách sự tiếp nối theo nhân quả đưa đến đời vị lai. (Visuddhimagga II 156. Chú giải Abhidhamma II 125.)
+
+**EN**
+This forward presentation begins in the middle, with craving arising conditioned by feeling, and goes as far as aging and death at the end. In the present life there are consciousness, mentality-materiality, the six sense bases, contact and feeling. Disciples have yet to see for themselves with the wisdom of right view how, from the arising of the causal phenomena, ignorance, craving, clinging, formations and kamma-becoming, the phenomena of the future period arise. Because those causes are present, he could point them out as evident causes here and now. He taught in order to show clearly how present causes relate to future results and how causal succession leads into the future period. (Visuddhimagga II 156. Abhidhamma Commentary II 125.)
+
+**VI**
+3. Lời dạy Duyên khởi theo chiều nghịch, cách thứ nhất (1).
+
+**EN**
+3. The first teaching of dependent origination in reverse order (1).
+
+**VI**
+Lời dạy Duyên khởi theo chiều nghịch đi ngược từ già chết ở cuối đến vô minh ở đầu.
+
+**EN**
+The reverse presentation of dependent origination proceeds backward from aging and death at the end to ignorance at the beginning.
+
+**VI**
+“Các chúng sinh này đã rơi vào khổ sở, nhọc nhằn biết bao. Họ phải sinh, tức phải tái tục, phải già, phải chết, lại phải tử và lại phải sinh…”
+
+**EN**
+“How sorely these beings have fallen into suffering and hardship. They must be born, that is, take rebirth, they must age, they must die, and again they must pass away and again be born…”
+
+
+<a id="M06-body-P170"></a>
+## Đại trí minh sát như kim cương / The great diamond-like insight knowledge
+Miến / Burmese 170
+
+**VI**
+… Cứ như thế, chúng sinh lâm vào khổ sở và nhọc nhằn. Sau khi nhập định đại bi, Ngài nhiều lần quán sát họ. Ngài thuyết Duyên khởi theo chiều nghịch để chỉ rõ các pháp nhân, bắt đầu bằng sinh, của những nỗi khổ trong vòng luân hồi, bắt đầu bằng già chết. Chính Ngài đã biết những nhân ấy bằng trí minh sát thấu suốt tuần tự từ khi còn là Bồ-tát, trước khi chứng trí Thánh đạo A-la-hán và trí toàn giác. (Visuddhimagga II 155–156. Chú giải Abhidhamma II 125.)
+
+**EN**
+… In this way beings fall into suffering and hardship. After entering the attainment of great compassion, he surveyed them repeatedly. He taught dependent origination in reverse order to show clearly the causes, beginning with birth, of the sufferings of the round, beginning with aging and death. He had personally known those causes with penetrating insight developed in sequence while still a Bodhisatta, before attaining the knowledge of the arahant path and omniscient knowledge. (Visuddhimagga II 155–156. Abhidhamma Commentary II 125.)
+
+**VI**
+Đại trí minh sát như kim cương (mahāvajiravipassanāñāṇa). Khi còn là Bồ-tát và hướng nguyện thành Phật, vào ban ngày dưới cây sāla ngày trăng tròn tháng Vesākha, ngày Ngài sẽ thành Phật, và trong canh cuối trước rạng sáng của ngày ấy, Ngài dùng trí gom các vô minh trong dòng tương tục của từng chúng sinh trong một nghìn tỉ thế giới, từng thế giới một, thành một nhóm. Ngài lần lượt đặt nhóm ấy dưới ba tướng, một lượt vô thường, một lượt khổ, một lượt vô ngã, rồi dùng trí minh sát quán đi quán lại.
+
+**EN**
+The great diamond-like insight knowledge (mahāvajiravipassanāñāṇa). While still a Bodhisatta intent on Buddhahood, during the day under the sāla trees on the full moon of Vesākha, the day on which he would become a Buddha, and in the last watch toward dawn, he used knowledge to collect the individual instances of ignorance in the continuities of beings throughout a trillion world systems, world system by world system, into a single group. He successively brought that group under the three characteristics, a turn as impermanent, a turn as suffering and a turn as non-self, discerning it repeatedly with insight.
+
+**VI**
+Cũng vậy, Ngài gom các hành thành một nhóm, các thức thành một nhóm, và cứ thế gom mười hai chi Duyên khởi thành mười hai nhóm rồi quán đi quán lại bằng trí minh sát. Đó là đại trí minh sát như kim cương. Do đã thấu suốt như vậy, Ngài chỉ rõ các nhân như sinh của những nỗi khổ luân hồi như già chết. Vì lợi ích ấy, lời dạy Duyên khởi theo chiều nghịch…
+
+**EN**
+Likewise, he collected the individual formations into one group, the individual instances of consciousness into another, and so collected the twelve factors of dependent origination into twelve groups and repeatedly discerned them with insight. This is the great diamond-like insight knowledge. Having penetrated them in this way, he clearly pointed out the causes such as birth of the sufferings of the round such as aging and death. For this benefit, the reverse teaching of dependent origination…
+
+
+<a id="M06-body-P171"></a>
+## Từ bốn vật thực trở về vô minh / From the four nutriments back to ignorance
+Miến / Burmese 171
+
+**VI**
+… được thuyết giảng. (Về đại trí minh sát như kim cương, xem Phụ chú giải Majjhima III 275 trở đi.)
+
+**EN**
+… was given. (For the great diamond-like insight knowledge, see the Majjhima Subcommentary III 275 onward.)
+
+**VI**
+4. Lời dạy Duyên khởi theo chiều nghịch, cách thứ hai (2).
+
+**EN**
+4. The second teaching of dependent origination in reverse order (2).
+
+**VI**
+Kinh Vật thực là cách thuyết nghịch thứ hai, đi từ giữa, tức bốn vật thực, hay nói cách khác từ ái, trở về vô minh ở đầu. Ngài lần lượt phân định nguồn gốc của từng loại vật thực để các đệ tử đang tinh cần hành thiền ghi nhận bằng trí. Theo thứ tự ấy, Ngài dẫn lời dạy Kinh Vật thực đi ngược về thời quá khứ, đến vô minh và hành sinh trong quá khứ. Rồi từ vô minh thuộc thời quá khứ, Ngài trình bày rõ trình tự liên hệ giữa các pháp nhân và pháp quả. Vì lợi ích ấy, Ngài thuyết lời dạy này. (Visuddhimagga II 156. Chú giải Abhidhamma II 125.)
+
+**EN**
+The Āhāra Sutta presents the second reverse method, going back from the middle, the four nutriments, or, put another way, from craving, to ignorance at the beginning. He distinguished the source of each kind of nutriment in turn so that the disciples exerting themselves in meditation could establish it in their knowledge. In sequence he led the Āhāra Sutta teaching back into the past, to ignorance and formations that had arisen in the past. Then, starting from ignorance in the past period, he showed clearly the sequence connecting causes and results. For this benefit he gave the teaching. (Visuddhimagga II 156. Abhidhamma Commentary II 125.)
+
+**VI**
+Lời kết khuyến tấn.
+
+**EN**
+Closing exhortation.
+
+**VI**
+Duyên khởi, mối liên hệ nhân quả gọi là bánh xe hữu, cho thấy guồng luân hồi vận hành thế nào. Vì hết sức sâu xa, khó tìm được chỗ đứng vững trong đó. Vì đan dày như bụi rậm với những mối nối đặc thù, rất khó vượt qua và hiểu thấu.
+
+**EN**
+Dependent origination, the causal relationship called the wheel of becoming, shows how the wheel of saṃsāra turns. Its depth makes it difficult to gain a footing in it. Its particular connections are thickly interwoven like a thicket, making it difficult to cross and to understand.
+
+**VI**
+Bánh xe luân hồi, bánh xe hữu đang vận hành ấy, luôn bức bách và giày vò như vòng sét, rối ren đan lẫn. Nếu không dùng lưỡi kiếm trí tuệ được mài bén trên đá mài là định cao quý…
+
+**EN**
+That turning wheel of saṃsāra, the wheel of becoming, constantly presses and torments like a wheel of lightning, tangled and entwined. Unless one wields the sword of wisdom sharpened on the whetstone of noble concentration…
+
+
+<a id="M06-body-P172"></a>
+## Lời Phật dạy về chiều sâu của Duyên khởi / The Buddha’s words on the depth of dependent origination
+Miến / Burmese 172
+
+**VI**
+… nếu không phá thủng bằng lưỡi kiếm ấy đã được mài cho thật sắc, tức nếu không tự mình thấu suốt bằng trí thông đạt (anubodhañāṇa) và trí thể nhập (paṭivedhañāṇa), thì chưa từng có một người nào, dù trong giấc mộng, có thể vượt thoát hiểm họa lớn là khổ trong vòng luân hồi.
+
+**EN**
+… unless one breaks through with that sword sharpened to a keen edge, that is, unless one personally penetrates it with knowledge of understanding (anubodhañāṇa) and knowledge of penetration (paṭivedhañāṇa), there has never been anyone who could escape the great peril of suffering in the round of saṃsāra, even in a dream.
+
+**VI**
+Quả vậy, Đức Phật đã dạy lời này:
+
+**EN**
+Indeed, the Buddha taught these words:
+
+**VI**
+“Ānanda … pháp Duyên khởi, mối liên hệ nhân quả này, thật sâu xa và có vẻ sâu xa. Ānanda … do không hiểu đúng Duyên khởi bằng sức của tri liễu tri (ñātapariññā), do không thấu suốt bằng sức của thẩm sát liễu tri (tīraṇapariññā) và đoạn trừ liễu tri (pahānapariññā), các chúng sinh này trở nên như cuộn chỉ rối, như tổ chim, như cỏ muñja và cỏ babbaja đan rối. Họ không vượt thoát được đọa xứ, ác thú, nơi sa đọa, và vòng luân hồi.” (D II 47.)
+
+**EN**
+“Ānanda … this dependent origination, this causal relationship, is profound and appears profound. Ānanda … through failing to understand dependent origination properly with the full understanding of the known (ñātapariññā), and failing to penetrate it with full understanding by scrutiny (tīraṇapariññā) and by abandoning (pahānapariññā), these beings become like tangled thread, like a bird’s nest, and like tangled muñja and babbaja grasses. They do not escape the states of loss, bad destinations, places of downfall, and the round of saṃsāra.” (D II 47.)
+
+**VI**
+Đức Phật đã dạy như vậy. Do đó, người có trí thực hành vì lợi ích và an lạc của mình và của người khác hãy gác lại những việc khác, dốc sức làm cho đầy đủ trí thông đạt và trí thể nhập đối với thực tính Duyên khởi, tức mối liên hệ giữa nhân và quả.
+
+**EN**
+Thus the Buddha taught. Therefore, one who practices wisely for one’s own welfare and happiness and for that of others should set other undertakings aside and strive to fulfill the knowledge of understanding and penetration of the nature of dependent origination, the relationship of cause and result.
+
+**VI**
+Trong giáo pháp của Đức Phật, người thiện có trí cần quán thực tính Duyên khởi hết sức sâu xa, với các năng lực và điều kiện khác nhau qua đó những pháp nhân trợ giúp cho các pháp quả sinh khởi…
+
+**EN**
+In the Buddha’s dispensation, the wise good person should discern the very profound nature of dependent origination, with the various powers and circumstances through which causal phenomena support the arising of resultant phenomena…
+
+
+<a id="M06-body-P173"></a>
+## Lời kết và ghi cuối sách / Closing words and colophon
+Miến / Burmese 173
+
+**VI**
+… Nếu nỗ lực đúng cách như vậy thì mới có thể tìm được chỗ đứng vững bằng trí. Với sự nỗ lực đúng mức để có thể đứng vững bằng trí, hãy luôn đầy đủ chánh niệm và tỉnh giác, cố gắng thực hành hết lần này đến lần khác. (Visuddhimagga II 221. Chú giải Abhidhamma II 189.)
+
+**EN**
+… By exerting oneself properly in this way one can gain a firm footing through knowledge. With the proper effort through which one gains such a footing, be endowed at all times with mindfulness and clear comprehension and exert yourself in practice again and again. (Visuddhimagga II 221. Abhidhamma Commentary II 189.)
+
+**VI**
+Thiền sư Pa-Auk Tawya Sayadaw
+Tu viện núi Cittala
+Rừng Pa-Auk
+Miến lịch năm 1367.
+
+**EN**
+Pa-Auk Tawya Sayadaw
+Cittala Hill Monastery
+Pa-Auk Forest
+Myanmar Era 1367.
+
+
+<a id="M06-index-P001"></a>
+## Chỉ mục — Miến 174 / Index — Burmese page 174
+Chỉ mục / Index - Miến / Burmese 174
+
+**VI**
+[Trang để trắng trong PDF chỉ mục.]
+
+**EN**
+[Blank page in the index PDF.]
+
+
+<a id="M06-index-P002"></a>
+## Chỉ mục — Miến 175 / Index — Burmese page 175
+Chỉ mục / Index - Miến / Burmese 175
+
+**VI**
+Chỉ mục những điều đáng ghi nhớ, theo thứ tự chữ Miến
+
+**EN**
+Alphabetical index of points worth remembering, in Burmese order
+
+**VI**
+[အ]
+
+**EN**
+[အ]
+
+**VI**
+Vật thực không do nghiệp sinh = vật thực không bị nghiệp chấp thủ — 155
+
+**EN**
+Non-kamma-born nutriment = nutriment not taken up by kamma — 155
+
+**VI**
+Thuyết vô tác (akiriyavāda) — 50
+
+**EN**
+Doctrine of non-action (akiriyavāda) — 50
+
+**VI**
+Lợi ích và công đức — 44
+
+**EN**
+Benefits and merits — 44
+
+**VI**
+Từ đầu đến cuối, Duyên khởi chiều thuận (1) — 142
+
+**EN**
+Beginning to end, forward dependent origination (1) — 142
+
+**VI**
+Gọi là mối nối — 66
+
+**EN**
+What is called a link — 66
+
+**VI**
+Ba mối nối — 66
+
+**EN**
+Three links — 66
+
+**VI**
+Từ cuối về đầu, Duyên khởi chiều nghịch (1) — 151
+
+**EN**
+End to beginning, reverse dependent origination (1) — 151
+
+**VI**
+Từ cuối về đầu, cách thuyết Duyên khởi chiều nghịch (1) — 144
+
+**EN**
+End to beginning, teaching dependent origination in reverse (1) — 144
+
+**VI**
+Ngã luận thủ (attavādupādāna) — 124
+
+**EN**
+Clinging to a doctrine of self (attavādupādāna) — 124
+
+**VI**
+Ba thời — 65
+
+**EN**
+Three periods — 65
+
+**VI**
+Chú giải về vòng vị lai — 121
+
+**EN**
+Commentary on the future round — 121
+
+**VI**
+Sức duy trì (anupālakasatti) — 161
+
+**EN**
+Sustaining power (anupālakasatti) — 161
+
+**VI**
+Gọi là duy trì (anupālanā) — 162
+
+**EN**
+What is called sustaining (anupālanā) — 162
+
+**VI**
+Duyên khởi chiều thuận, cách thứ hai (2) — 147, 169
+
+**EN**
+Forward dependent origination, second method (2) — 147, 169
+
+**VI**
+Duyên khởi chiều thuận, cách thứ nhất (1) — 168
+
+**EN**
+Forward dependent origination, first method (1) — 168
+
+**VI**
+Bất động hành (āneñjābhisaṅkhāra) — 8
+
+**EN**
+Imperturbable formations (āneñjābhisaṅkhāra) — 8
+
+**VI**
+Gọi là thức của các hành tạo nghiệp (abhisaṅkhāraviññāṇa) — 78
+
+**EN**
+What is called consciousness of kamma formations (abhisaṅkhāraviññāṇa) — 78
+
+**VI**
+Nguồn phát sinh ban đầu (pabhava) — 146
+
+**EN**
+Original source (pabhava) — 146
+
+**VI**
+Chúng sinh hóa sinh (opapātika) — 135
+
+**EN**
+Spontaneously arisen beings (opapātika) — 135
+
+**VI**
+Thánh đạo — 55
+
+**EN**
+The noble path — 55
+
+**VI**
+Pháp hành trung đạo — 55
+
+**EN**
+The practice of the middle way — 55
+
+**VI**
+Từ giữa về đầu
+
+**EN**
+From the middle back to the beginning
+
+**VI**
+Từ giữa về đầu, Duyên khởi chiều nghịch (2) — 145
+
+**EN**
+Middle to beginning, reverse dependent origination (2) — 145
+
+**VI**
+Từ giữa đến cuối, Duyên khởi chiều thuận (2) — 143
+
+**EN**
+Middle to end, forward dependent origination (2) — 143
+
+**VI**
+Bốn nhóm — 67
+
+**EN**
+Four groups — 67
+
+**VI**
+Vô minh duyên hành — 72
+
+**EN**
+Ignorance conditions formations — 72
+
+**VI**
+Vô minh là gì — 7
+
+**EN**
+What ignorance is — 7
+
+**VI**
+Cách trình bày theo sự bất ly (avinābhāva) — 41
+
+**EN**
+The method of inseparability (avinābhāva) — 41
+
+**VI**
+Thuyết vô nhân (ahetuvāda) — 47
+
+**EN**
+Doctrine of causelessness (ahetuvāda) — 47
+
+
+<a id="M06-index-P003"></a>
+## Chỉ mục — Miến 176 / Index — Burmese page 176
+Chỉ mục / Index - Miến / Burmese 176
+
+**VI**
+[အာ]
+
+**EN**
+[အာ]
+
+**VI**
+Bất động hành (āneñjābhisaṅkhāra) — 8
+
+**EN**
+Imperturbable formations (āneñjābhisaṅkhāra) — 8
+
+**VI**
+Sáu xứ (āyatana) — 11
+
+**EN**
+The six sense bases (āyatana) — 11
+
+**VI**
+Tích lũy hành (āyūhanasaṅkhāra) — 82
+
+**EN**
+Accumulation of formations (āyūhanasaṅkhāra) — 82
+
+**VI**
+Bốn loại vật thực — 153
+
+**EN**
+The four nutriments — 153
+
+**VI**
+Công năng của bốn loại vật thực — 158
+
+**EN**
+Functions of the four nutriments — 158
+
+**VI**
+Bốn loại dưỡng tố do vật thực sinh — 156
+
+**EN**
+Four kinds of nutriment-born nutritive essence — 156
+
+**VI**
+Gọi là sắc do vật thực sinh — 98
+
+**EN**
+What is called nutriment-born materiality — 98
+
+**VI**
+Vật thực là gì — 156
+
+**EN**
+What nutriment is — 156
+
+**VI**
+[ဥ …]
+
+**EN**
+[ဥ …]
+
+**VI**
+Thuyết đoạn diệt (ucchedavāda) — 49
+
+**EN**
+Annihilationism (ucchedavāda) — 49
+
+**VI**
+Phần sau của trí sinh diệt (udayabbayañāṇa) — 68
+
+**EN**
+Later part of knowledge of rise and fall (udayabbayañāṇa) — 68
+
+**VI**
+Phần đầu của trí sinh diệt (udayabbayañāṇa) — 69
+
+**EN**
+Initial part of knowledge of rise and fall (udayabbayañāṇa) — 69
+
+**VI**
+Tính chất nâng đỡ (upatthambhaka) — 92
+
+**EN**
+Supporting quality (upatthambhaka) — 92
+
+**VI**
+Sinh hữu (upapattibhava) — 129
+
+**EN**
+Rebirth-becoming (upapattibhava) — 129
+
+**VI**
+Thủ duyên hữu — 128
+
+**EN**
+Clinging conditions becoming — 128
+
+**VI**
+Bốn loại thủ — 13
+
+**EN**
+Four kinds of clinging — 13
+
+**VI**
+Não là gì — 19
+
+**EN**
+What despair is — 19
+
+**VI**
+Già (jarā) là gì — 16
+
+**EN**
+What aging (jarā) is — 16
+
+**VI**
+[က]
+
+**EN**
+[က]
+
+**VI**
+Đoàn thực — 156
+
+**EN**
+Physical nutriment — 156
+
+**VI**
+Đoàn thực — 158
+
+**EN**
+Physical nutriment — 158
+
+**VI**
+Nghiệp hữu — 14, 128
+
+**EN**
+Kamma-becoming — 14, 128
+
+**VI**
+Nghiệp thức = thức của các hành tạo nghiệp — 79
+
+**EN**
+Kamma consciousness = consciousness of kamma formations — 79
+
+**VI**
+Nghiệp thức — 78
+
+**EN**
+Kamma consciousness — 78
+
+**VI**
+Quán từ bốn vật thực thuộc vòng nghiệp — 164
+
+**EN**
+Discernment from the four nutriments in the round of kamma — 164
+
+**VI**
+Dục ái — 122
+
+**EN**
+Craving for sensuality — 122
+
+**VI**
+Dục thủ — 124
+
+**EN**
+Clinging to sensuality — 124
+
+**VI**
+Gọi là dục thủ — 128
+
+**EN**
+What is called clinging to sensuality — 128
+
+**VI**
+Thân hành là gì — 9
+
+**EN**
+What bodily formations are — 9
+
+**VI**
+Chín loại hữu — 15
+
+**EN**
+Nine kinds of becoming — 15
+
+**VI**
+Của riêng mình — 71
+
+**EN**
+One’s own — 71
+
+**VI**
+Nghĩa Pāli cần ghi nhớ — 5
+
+**EN**
+Pāli meaning to keep in mind — 5
+
+**VI**
+Phép quán cần biết trước — 68
+
+**EN**
+Discernment to understand beforehand — 68
+
+**VI**
+[ခ]
+
+**EN**
+[ခ]
+
+**VI**
+Tắt đường hoặc lạc đường — 24
+
+**EN**
+Taking a shortcut or losing the way — 24
+
+**VI**
+Như dây buộc chân — 172
+
+**EN**
+Like a cord binding the feet — 172
+
+**VI**
+Hai mươi phương diện — 68
+
+**EN**
+Twenty aspects — 68
+
+**VI**
+Một cách phân chia để quán, mẫu quán — 126
+
+**EN**
+One way to divide the phenomena for discernment, an example — 126
+
+**VI**
+[စ]
+
+**EN**
+[စ]
+
+**VI**
+Lộ nhãn môn, danh sắc quả — 81
+
+**EN**
+Eye-door process, resultant mentality-materiality — 81
+
+
+<a id="M06-index-P004"></a>
+## Chỉ mục — Miến 177 / Index — Burmese page 177
+Chỉ mục / Index - Miến / Burmese 177
+
+**VI**
+Lộ nhãn môn, các thức quả — 76
+
+**EN**
+Eye-door process, resultant consciousnesses — 76
+
+**VI**
+Nhãn xúc là xúc tương ưng với nhãn thức — 109
+
+**EN**
+Eye-contact is contact associated with eye-consciousness — 109
+
+**VI**
+Thọ do nhãn xúc sinh và thọ có nhãn xúc làm duyên — 113
+
+**EN**
+Feeling born of eye-contact and feeling conditioned by eye-contact — 113
+
+**VI**
+Như tổ chim — 172
+
+**EN**
+Like a bird’s nest — 172
+
+**VI**
+Tâm hành (cittasaṅkhāra) — 9
+
+**EN**
+Mental formations (cittasaṅkhāra) — 9
+
+**VI**
+Bậc Tiểu Tu-đà-hoàn — 130
+
+**EN**
+The lesser stream-enterer — 130
+
+**VI**
+Sầu là sự buồn rầu trong tâm — 17
+
+**EN**
+Sorrow as grief in the mind — 17
+
+**VI**
+[ဇ]
+
+**EN**
+[ဇ]
+
+**VI**
+Sức làm sinh (janakasatti) — 161
+
+**EN**
+Productive power (janakasatti) — 161
+
+**VI**
+Danh ngôn địa phương (janapadanirutti) — 60
+
+**EN**
+Regional usage (janapadanirutti) — 60
+
+**VI**
+Gọi là danh ngôn địa phương — 60
+
+**EN**
+What is called regional usage — 60
+
+**VI**
+Sinh duyên già chết, mẫu quán — 136
+
+**EN**
+Birth conditions aging and death, an example of discernment — 136
+
+**VI**
+Sinh là gì — 67
+
+**EN**
+What birth is — 67
+
+**VI**
+[တ]
+
+**EN**
+[တ]
+
+**VI**
+Mẫu tâm lộ của ái và thủ — 127
+
+**EN**
+Cognitive process patterns for craving and clinging — 127
+
+**VI**
+Ái duyên thủ — 123
+
+**EN**
+Craving conditions clinging — 123
+
+**VI**
+Sáu loại ái — 13
+
+**EN**
+Six kinds of craving — 13
+
+**VI**
+Pháp chỉ trợ cho pháp ấy (tappaccayadhamma) — 32
+
+**EN**
+The phenomenon that conditions that very phenomenon (tappaccayadhamma) — 32
+
+**VI**
+Lời kết khuyến tấn — 171
+
+**EN**
+Closing exhortation — 171
+
+**VI**
+Một cách giải thích khác — 165
+
+**EN**
+Another explanation — 165
+
+**VI**
+[ထ]
+
+**EN**
+[ထ]
+
+**VI**
+Giải thích thêm — 35, 53
+
+**EN**
+Further explanation — 35, 53
+
+**VI**
+[ဒ]
+
+**EN**
+[ဒ]
+
+**VI**
+Kiến thủ — 124
+
+**EN**
+Clinging to views — 124
+
+**VI**
+Gọi là kiến thủ — 128
+
+**EN**
+What is called clinging to views — 128
+
+**VI**
+Khổ là gì — 18
+
+**EN**
+What pain is — 18
+
+**VI**
+Ưu là gì — 19
+
+**EN**
+What grief is — 19
+
+**VI**
+[ဓ]
+
+**EN**
+[ဓ]
+
+**VI**
+Pháp ái — 122
+
+**EN**
+Craving for mental objects — 122
+
+**VI**
+Pháp ái là gì — 126
+
+**EN**
+What craving for mental objects is — 126
+
+**VI**
+[န]
+
+**EN**
+[န]
+
+**VI**
+Thuyết hư vô (natthikavāda) — 49
+
+**EN**
+Nihilism (natthikavāda) — 49
+
+**VI**
+Danh sắc duyên sáu xứ — 87
+
+**EN**
+Mentality-materiality conditions the six sense bases — 87
+
+**VI**
+Trung đạo đưa đến Niết-bàn — 23
+
+**EN**
+The middle way leading to Nibbāna — 23
+
+**VI**
+Nghĩa cần dẫn giải (neyyattha) — 156
+
+**EN**
+Meaning requiring interpretation (neyyattha) — 156
+
+**VI**
+Một cách giải thích nữa — 33
+
+**EN**
+Another explanation — 33
+
+
+<a id="M06-index-P005"></a>
+## Chỉ mục — Miến 178 / Index — Burmese page 178
+Chỉ mục / Index - Miến / Burmese 178
+
+**VI**
+Các phép quán để làm mẫu — 104
+
+**EN**
+Patterns for discernment — 104
+
+**VI**
+Cách danh trợ ý xứ — 88
+
+**EN**
+How mentality conditions the mind base — 88
+
+**VI**
+Cách sắc xứ sinh do danh — 90
+
+**EN**
+How the material sense bases arise conditioned by mentality — 90
+
+**VI**
+Danh và sắc — 80
+
+**EN**
+Mentality and materiality — 80
+
+**VI**
+Cách ý xứ sinh do danh sắc — 102
+
+**EN**
+How the mind base arises conditioned by mentality-materiality — 102
+
+**VI**
+Danh sắc là gì — 10
+
+**EN**
+What mentality-materiality is — 10
+
+**VI**
+[ပ]
+
+**EN**
+[ပ]
+
+**VI**
+Gọi là pháp trợ (paccayadhamma) — 26
+
+**EN**
+What is called a conditioning phenomenon (paccayadhamma) — 26
+
+**VI**
+Gọi là pháp được trợ (paccayuppannadhamma) — 26
+
+**EN**
+What is called a conditionally arisen phenomenon (paccayuppannadhamma) — 26
+
+**VI**
+Gọi là duyên (paccaya) — 32
+
+**EN**
+What is called a condition (paccaya) — 32
+
+**VI**
+Khai ngũ môn, ý xúc với cảnh sắc — 108, 109
+
+**EN**
+Five-door adverting, mind-contact with a visible object — 108, 109
+
+**VI**
+Nghĩa của paṭicca — 44
+
+**EN**
+Meaning of paṭicca — 44
+
+**VI**
+Gọi là paṭicca — 30
+
+**EN**
+What is called paṭicca — 30
+
+**VI**
+Các pháp do duyên sinh (paṭiccasamuppanna) — 25
+
+**EN**
+Dependently arisen phenomena (paṭiccasamuppanna) — 25
+
+**VI**
+Hai từ paṭicca và samuppāda — 52
+
+**EN**
+The two terms paṭicca and samuppāda — 52
+
+**VI**
+Mười hai chi Duyên khởi — 65
+
+**EN**
+The twelve factors of dependent origination — 65
+
+**VI**
+Giải thích nghĩa từ paṭiccasamuppāda — 30
+
+**EN**
+Explanation of the term paṭiccasamuppāda — 30
+
+**VI**
+Pháp Duyên khởi là gì — 21
+
+**EN**
+What the teaching of dependent origination is — 21
+
+**VI**
+Bốn cách thuyết Duyên khởi — 142
+
+**EN**
+Four ways of teaching dependent origination — 142
+
+**VI**
+Gọi là Duyên khởi — 31
+
+**EN**
+What is called dependent origination — 31
+
+**VI**
+Pāli về vòng Duyên khởi, cách phân tích theo Kinh (suttantabhājanīya) — 1
+
+**EN**
+Pāli on the cycle of dependent origination, analysis according to the discourses (suttantabhājanīya) — 1
+
+**VI**
+Duyên khởi là gì — 24
+
+**EN**
+What dependent origination is — 24
+
+**VI**
+Duyên khởi chiều nghịch, cách thứ hai (2) — 153, 171
+
+**EN**
+Reverse dependent origination, second method (2) — 153, 171
+
+**VI**
+Duyên khởi chiều nghịch, cách thứ nhất (1) — 169
+
+**EN**
+Reverse dependent origination, first method (1) — 169
+
+**VI**
+Trí phân tích (paṭisambhidāñāṇa) — 167
+
+**EN**
+Analytical knowledge (paṭisambhidāñāṇa) — 167
+
+**VI**
+Tư hướng nguyện (paṭṭhāpakacetanā) — 82
+
+**EN**
+Aspiring volition (paṭṭhāpakacetanā) — 82
+
+**VI**
+Ý xúc của tốc hành thứ nhất, cảnh sắc, tốc hành thiện — 110
+
+**EN**
+Mind-contact of the first impulsion, visible object, wholesome impulsion — 110
+
+**VI**
+Ý xúc của tâm đăng ký thứ nhất, cảnh sắc — 111
+
+**EN**
+Mind-contact of the first registration, visible object — 111
+
+**VI**
+Bi là gì — 18
+
+**EN**
+What lamentation is — 18
+
+**VI**
+Gọi là khổ trong diễn tiến đời sống (pavattidukkha) — 24
+
+**EN**
+What is called suffering during the course of life (pavattidukkha) — 24
+
+**VI**
+Phúc hành (puññābhisaṅkhāra) là gì — 8
+
+**EN**
+What meritorious formations (puññābhisaṅkhāra) are — 8
+
+**VI**
+Thiết bị phóng ảnh và các bộ phận — 106
+
+**EN**
+Projection equipment and its fittings — 106
+
+
+<a id="M06-index-P006"></a>
+## Chỉ mục — Miến 179 / Index — Burmese page 179
+Chỉ mục / Index - Miến / Burmese 179
+
+**VI**
+Người làm và người thọ nhận — 55
+
+**EN**
+The doer and the experiencer — 55
+
+**VI**
+[ဖ]
+
+**EN**
+[ဖ]
+
+**VI**
+Xúc duyên thọ — 113
+
+**EN**
+Contact conditions feeling — 113
+
+**VI**
+Sáu loại xúc — 11
+
+**EN**
+Six kinds of contact — 11
+
+**VI**
+Xúc thực — 158
+
+**EN**
+Contact as nutriment — 158
+
+**VI**
+[ဘ]
+
+**EN**
+[ဘ]
+
+**VI**
+Hữu ái — 123
+
+**EN**
+Craving for becoming — 123
+
+**VI**
+Hữu duyên sinh — 133
+
+**EN**
+Becoming conditions birth — 133
+
+**VI**
+[မ]
+
+**EN**
+[မ]
+
+**VI**
+Trung đạo — 53
+
+**EN**
+The middle way — 53
+
+**VI**
+Con đường trung đạo — 22
+
+**EN**
+The path of the middle way — 22
+
+**VI**
+Lộ ý môn — 72
+
+**EN**
+Mind-door process — 72
+
+**VI**
+Ý xúc tương ưng với khai ý môn, cảnh sắc — 111
+
+**EN**
+Mind-contact associated with mind-door adverting, visible object — 111
+
+**VI**
+Chuỗi lộ ý môn có tốc hành — 132
+
+**EN**
+Series of mind-door processes with impulsion — 132
+
+**VI**
+Tư niệm thực — 92, 159
+
+**EN**
+Mental volition as nutriment — 92, 159
+
+**VI**
+Gọi là ý xúc — 105
+
+**EN**
+What is called mind-contact — 105
+
+**VI**
+Ý xúc là gì — 117
+
+**EN**
+What mind-contact is — 117
+
+**VI**
+Chết là gì — 16
+
+**EN**
+What death is — 16
+
+**VI**
+Đại kinh Đoạn tận ái (Mahātaṇhāsaṅkhaya Sutta) — 149
+
+**EN**
+The Greater Discourse on the Destruction of Craving (Mahātaṇhāsaṅkhaya Sutta) — 149
+
+**VI**
+Đại trí minh sát như kim cương — 170
+
+**EN**
+Great diamond-like insight knowledge — 170
+
+**VI**
+Hiểm họa lớn của tà kiến — 52
+
+**EN**
+The great dangers of wrong view — 52
+
+**VI**
+Điểm đáng hỏi — 134
+
+**EN**
+A point for inquiry — 134
+
+**VI**
+Như vòng sét — 171
+
+**EN**
+Like a wheel of lightning — 171
+
+**VI**
+[ယ]
+
+**EN**
+[ယ]
+
+**VI**
+Bốn người đàn ông — 142
+
+**EN**
+The four men — 142
+
+**VI**
+[ရ]
+
+**EN**
+[ရ]
+
+**VI**
+Như bánh xe — 45
+
+**EN**
+Like a wheel — 45
+
+**VI**
+Trong dòng tương tục của các bậc A-la-hán — 122
+
+**EN**
+In the continuity of arahants — 122
+
+**VI**
+Nhóm sắc và nhóm danh — 40
+
+**EN**
+Material groups and mental groups — 40
+
+**VI**
+Cách ý xứ sinh do sắc — 98
+
+**EN**
+How the mind base arises conditioned by materiality — 98
+
+**VI**
+Cách sắc xứ sinh do sắc — 97
+
+**EN**
+How the material sense bases arise conditioned by materiality — 97
+
+**VI**
+Mẫu quán vắn tắt — 134, 137
+
+**EN**
+Brief examples of discernment — 134, 137
+
+**VI**
+Một số mẫu quán — 80, 99, 103, 121, 132, 152
+
+**EN**
+Some examples of discernment — 80, 99, 103, 121, 132, 152
+
+**VI**
+Mẫu quán, ý xúc lúc tái tục — 107
+
+**EN**
+Example of discernment, mind-contact at rebirth-linking — 107
+
+**VI**
+Các mẫu quán, tâm ngoài lộ — 76
+
+**EN**
+Examples of discernment, process-free consciousness — 76
+
+**VI**
+Điểm chính cần nắm để quán — 162
+
+**EN**
+The essential point for discernment — 162
+
+
+<a id="M06-index-P007"></a>
+## Chỉ mục — Miến 180 / Index — Burmese page 180
+Chỉ mục / Index - Miến / Burmese 180
+
+**VI**
+[လ]
+
+**EN**
+[လ]
+
+**VI**
+Mẫu quán cần lưu ý — 131
+
+**EN**
+A pattern of discernment to keep in mind — 131
+
+**VI**
+Vì sao thuyết theo bốn cách — 166
+
+**EN**
+Why the teaching was given in four ways — 166
+
+**VI**
+Sự thật quy ước thế gian (lokasammutisacca) — 63
+
+**EN**
+Conventional truth of the world (lokasammutisacca) — 63
+
+**VI**
+[ဝ]
+
+**EN**
+[ဝ]
+
+**VI**
+Khẩu hành — 9
+
+**EN**
+Verbal formations — 9
+
+**VI**
+Thuyết về đấng có quyền năng (vasavattivāda) — 47
+
+**EN**
+Doctrine of an almighty ruler (vasavattivāda) — 47
+
+**VI**
+Các loại học thuyết — 46
+
+**EN**
+Various doctrines — 46
+
+**VI**
+Thức duyên danh sắc — 77
+
+**EN**
+Consciousness conditions mentality-materiality — 77
+
+**VI**
+Thức thực — 159
+
+**EN**
+Consciousness as nutriment — 159
+
+**VI**
+Thức — 74
+
+**EN**
+Consciousness — 74
+
+**VI**
+Sáu loại thức — 10
+
+**EN**
+Six kinds of consciousness — 10
+
+**VI**
+Quán từ bốn vật thực thuộc vòng quả — 163
+
+**EN**
+Discernment from the four nutriments in the round of results — 163
+
+**VI**
+Thức quả = ý thức — 75
+
+**EN**
+Resultant consciousness = mind-consciousness — 75
+
+**VI**
+Sáu loại thức quả — 74
+
+**EN**
+Six kinds of resultant consciousness — 74
+
+**VI**
+Phi hữu ái — 123
+
+**EN**
+Craving for non-becoming — 123
+
+**VI**
+Thuyết nhân sai khác (visamahetuvāda) — 47
+
+**EN**
+Doctrine of a disparate cause (visamahetuvāda) — 47
+
+**VI**
+Ý xúc đi cùng trạo cử, cảnh sắc — 110
+
+**EN**
+Mind-contact associated with restlessness, visible object — 110
+
+**VI**
+Thọ duyên ái — 118
+
+**EN**
+Feeling conditions craving — 118
+
+**VI**
+Sáu loại thọ — 12
+
+**EN**
+Six kinds of feeling — 12
+
+**VI**
+Sáu loại thọ — 113
+
+**EN**
+Six kinds of feeling — 113
+
+**VI**
+Ba vòng — 45
+
+**EN**
+The three rounds — 45
+
+**VI**
+[သ]
+
+**EN**
+[သ]
+
+**VI**
+Hành và nghiệp hữu là nghiệp — 81
+
+**EN**
+Formations and kamma-becoming are kamma — 81
+
+**VI**
+Hành duyên thức — 73
+
+**EN**
+Formations condition consciousness — 73
+
+**VI**
+Hữu có tưởng — 14
+
+**EN**
+Becoming with perception — 14
+
+**VI**
+Điểm cần lưu ý — 128
+
+**EN**
+A point to note — 128
+
+**VI**
+Một điểm cần lưu ý — 129
+
+**EN**
+One point to note — 129
+
+**VI**
+Chúng sinh là gì — 62
+
+**EN**
+What a being is — 62
+
+**VI**
+Ý xúc đi cùng hoài nghi, cảnh sắc — 110
+
+**EN**
+Mind-contact associated with doubt, visible object — 110
+
+**VI**
+Ghi chép về các pháp thực tính — 29
+
+**EN**
+Records on phenomena with intrinsic natures — 29
+
+**VI**
+Năng lực thực tính là gì — 74
+
+**EN**
+What intrinsic causal capacity is — 74
+
+**VI**
+Điều kiện để có thể chấp nhận — 44
+
+**EN**
+Conditions for acceptance — 44
+
+**VI**
+Samaññā anatidhāvanaṃ, không vượt quá cách gọi quy ước — 62
+
+**EN**
+Samaññā anatidhāvanaṃ, not overstepping conventional usage — 62
+
+**VI**
+Từ samuppāda — 48
+
+**EN**
+The term samuppāda — 48
+
+**VI**
+Cũng gọi là samuppāda — 30
+
+**EN**
+Also called samuppāda — 30
+
+**VI**
+Nghĩa của saṃ — 41
+
+**EN**
+Meaning of saṃ — 41
+
+**VI**
+Ý xúc đi cùng nhóm tham hợp tà kiến, cảnh sắc — 110
+
+**EN**
+Mind-contact in the greed group associated with wrong view, visible object — 110
+
+**VI**
+Xứ của pháp tương ưng — 108
+
+**EN**
+Base of the associated phenomena — 108
+
+**VI**
+Chánh kiến — 53
+
+**EN**
+Right view — 53
+
+**VI**
+Chánh tinh tấn — 54
+
+**EN**
+Right effort — 54
+
+
+<a id="M06-index-P008"></a>
+## Chỉ mục — Miến 181 / Index — Burmese page 181
+Chỉ mục / Index - Miến / Burmese 181
+
+**VI**
+Chánh tư duy — 53
+
+**EN**
+Right intention — 53
+
+**VI**
+Chánh niệm — 54
+
+**EN**
+Right mindfulness — 54
+
+**VI**
+Chánh định — 54
+
+**EN**
+Right concentration — 54
+
+**VI**
+Gọi là trượt sai — 32
+
+**EN**
+What is called going astray — 32
+
+**VI**
+Thuyết thường tồn (sassatavāda) — 46
+
+**EN**
+Eternalism (sassatavāda) — 46
+
+**VI**
+Nghĩa của saha — 41
+
+**EN**
+Meaning of saha — 41
+
+**VI**
+Cách danh sắc câu sinh do thức câu sinh — 83
+
+**EN**
+How co-arisen mentality-materiality arises conditioned by co-arisen consciousness — 83
+
+**VI**
+Thức câu sinh — 78
+
+**EN**
+Co-arisen consciousness — 78
+
+**VI**
+Sáu xứ duyên xúc — 105
+
+**EN**
+The six sense bases condition contact — 105
+
+**VI**
+Giới cấm thủ — 124
+
+**EN**
+Clinging to rules and observances — 124
+
+**VI**
+Gọi là giới cấm thủ — 128
+
+**EN**
+What is called clinging to rules and observances — 128
+
+**VI**
+Sầu, bi, khổ, ưu và não — 137
+
+**EN**
+Sorrow, lamentation, pain, grief and despair — 137
+
+**VI**
+Các tâm lộ của sầu, bi, ưu và não — 141
+
+**EN**
+Cognitive processes of sorrow, lamentation, grief and despair — 141
+
+**VI**
+[ဟ]
+
+**EN**
+[ဟ]
+
+**VI**
+Nhóm nhân (hetusamūha) — 34
+
+**EN**
+Group of causes (hetusamūha) — 34

@@ -1,0 +1,5006 @@
+# Nibbānagāminipaṭipadā · Mini · Cuốn 4 / Volume 4
+Phần đề mục thiền về danh (Nāmakammaṭṭhāna)
+Pa-Auk Tawya Sayadaw
+Việt
+
+## Mục lục / Contents
+
+- [Trang nhan đề](#M04-front-P001)
+- [Pháp thí và lời nguyện](#M04-front-P002)
+- [Mục lục — က](#M04-front-P003)
+- [Mục lục — ခ](#M04-front-P004)
+- [Mục lục — ဂ](#M04-front-P005)
+- [Mục lục — ဃ](#M04-front-P006)
+- [Mục lục — င](#M04-front-P007)
+- [Mục lục — စ](#M04-front-P008)
+- [Mục lục — ဆ](#M04-front-P009)
+- [Mục lục — ဇ](#M04-front-P010)
+- [Những điều cần biết về tâm — Một trăm nghìn koṭi](#M04-body-P001)
+- [Ba cách quán danh pháp](#M04-body-P002)
+- [Quán sắc làm nền cho quán danh](#M04-body-P003)
+- [Quán sắc trước khi quán danh](#M04-body-P004)
+- [Ví dụ con bò núi](#M04-body-P005)
+- [Tuệ quán danh của người lấy thiền chỉ làm cỗ xe](#M04-body-P006)
+- [Hai điểm cần biết trước](#M04-body-P007)
+- [Giải thích thêm về vật và môn](#M04-body-P008)
+- [Vì sao quán danh theo môn](#M04-body-P009)
+- [Hai nguyên tắc thực hành và phạm vi danh pháp hiệp thế](#M04-body-P010)
+- [Các tâm hiệp thế thuộc phạm vi quán](#M04-body-P011)
+- [Những điều cần biết trước khi quán danh](#M04-body-P012)
+- [Sáu vật và sáu môn](#M04-body-P013)
+- [Sáu cảnh và sáu loại cảnh pháp](#M04-body-P014)
+- [Nghĩa của cảnh và các thức giới đầu tiên](#M04-body-P015)
+- [Các thức giới còn lại và sáu lộ tâm](#M04-body-P016)
+- [Gọi tên lộ theo thức và thứ tự các tâm](#M04-body-P017)
+- [Các lộ tâm và cách cảnh hiện](#M04-body-P018)
+- [Các cách cảnh hiện còn lại và đối tượng của tuệ minh sát](#M04-body-P019)
+- [Tâm và các loại tâm bất thiện](#M04-body-P020)
+- [Tâm căn tham và tâm căn sân](#M04-body-P021)
+- [Tâm căn si và tâm quả bất thiện vô nhân](#M04-body-P022)
+- [Tâm quả thiện vô nhân và tâm duy tác vô nhân](#M04-body-P023)
+- [Mười tám tâm vô nhân và các tâm dục giới tịnh hảo](#M04-body-P024)
+- [Tâm đại thiện và tâm đại quả](#M04-body-P025)
+- [Tâm đại duy tác và tổng số tâm dục giới](#M04-body-P026)
+- [Tâm dục giới làm cảnh minh sát và năm tâm thiện sắc giới](#M04-body-P027)
+- [Tâm sắc giới và các tâm thiện vô sắc giới](#M04-body-P028)
+- [Tâm vô sắc giới và phạm vi quán của người đắc thiền](#M04-body-P029)
+- [Tám mươi mốt tâm hiệp thế và tám tâm siêu thế](#M04-body-P030)
+- [Tâm đạo, tâm quả và các thiền chi](#M04-body-P031)
+- [Bốn mươi tâm siêu thế](#M04-body-P032)
+- [Phần 2. Những điều cần biết về tâm sở](#M04-body-P033)
+- [Năm mươi hai tâm sở và các tâm sở biến hành](#M04-body-P034)
+- [Bảy tâm sở biến hành, tiếp theo](#M04-body-P035)
+- [Sáu tâm sở biệt cảnh](#M04-body-P036)
+- [Dục và sự khác nhau giữa tầm, tư và tác ý](#M04-body-P037)
+- [Bốn tâm sở bất thiện biến hành và nhóm tham](#M04-body-P038)
+- [Ngã mạn và vô minh](#M04-body-P039)
+- [Biết đúng và biết sai](#M04-body-P040)
+- [Hai loại chấp ngã](#M04-body-P041)
+- [Chấp theo quy ước và chấp theo tà kiến](#M04-body-P042)
+- [Phân biệt si với tà kiến và nhóm sân](#M04-body-P043)
+- [Hối quá, hôn trầm, thụy miên và hoài nghi](#M04-body-P044)
+- [Hoài nghi và các tâm sở tịnh hảo](#M04-body-P045)
+- [Tín, niệm, tàm, quý và vô tham](#M04-body-P046)
+- [Các tâm sở tịnh hảo biến hành, tiếp theo](#M04-body-P047)
+- [Thuần thục, chánh trực và hai dạng dối trá](#M04-body-P048)
+- [Tiết chế, vô lượng và tuệ quyền](#M04-body-P049)
+- [Tuệ quyền và một nguyên tắc quan trọng](#M04-body-P050)
+- [Quán bên trong, bên ngoài, sắc và danh](#M04-body-P051)
+- [Bốn pháp tùy quán và phạm vi cần quán](#M04-body-P052)
+- [Quán đủ các loại và bốn niệm xứ](#M04-body-P053)
+- [Các cửa vào niệm xứ và cách bắt đầu của người tu thiền chỉ](#M04-body-P054)
+- [Bắt đầu quán danh từ thọ](#M04-body-P055)
+- [Quán năm pháp khi bắt đầu từ thọ hoặc thức](#M04-body-P056)
+- [Bắt đầu từ xúc và quán tất cả danh pháp](#M04-body-P057)
+- [Vì sao nêu năm pháp có xúc là thứ năm](#M04-body-P058)
+- [Quán cả các pháp tương ưng](#M04-body-P059)
+- [Một việc rất khó](#M04-body-P060)
+- [Ví dụ dầu trộn và nước năm sông](#M04-body-P061)
+- [Ý nghĩa của ví dụ về việc phân biệt danh](#M04-body-P062)
+- [Các sắc trong hỗn hợp nước và dầu](#M04-body-P063)
+- [Đức Phật phân định từng danh pháp](#M04-body-P064)
+- [Đối thoại giữa Nāgasena và vua Milinda](#M04-body-P065)
+- [Ví dụ nếm nước biển](#M04-body-P066)
+- [Việc khó mà Đức Phật đã làm](#M04-body-P067)
+- [Quán vật và cảnh cùng nhau](#M04-body-P068)
+- [Cách Tôn giả Sāriputta quán danh pháp thiền](#M04-body-P069)
+- [Vật và cảnh cần quán trước](#M04-body-P070)
+- [Quay lại quán sắc](#M04-body-P071)
+- [Thân vật chất là chỗ nương](#M04-body-P072)
+- [Từ nguyên tắc đến các lộ tâm](#M04-body-P073)
+- [Phần 3. Lộ nhập thiền với tợ tướng hơi thở](#M04-body-P074)
+- [Lộ nhập thiền với tợ tướng biến xứ](#M04-body-P075)
+- [Các thiền chi ở cận định và an chỉ](#M04-body-P076)
+- [Bốn phạm trú · Các bảng lộ nhập thiền](#M04-body-P077)
+- [Chỉ dành cho người đã đắc thiền](#M04-body-P078)
+- [Ký hiệu trong lộ tâm và cách bắt đầu quán thiền](#M04-body-P079)
+- [Tập quán danh pháp thiền](#M04-body-P080)
+- [Ba mươi bốn danh pháp sơ thiền với tợ tướng hơi thở](#M04-body-P081)
+- [Các danh pháp sơ thiền từ thọ đến hỷ](#M04-body-P082)
+- [Các danh pháp sơ thiền từ dục đến khinh thân](#M04-body-P083)
+- [Các danh pháp sơ thiền từ khinh tâm đến tuệ](#M04-body-P084)
+- [Tuệ phân định danh](#M04-body-P085)
+- [Cách bắt đầu quán danh pháp sơ thiền](#M04-body-P086)
+- [Tăng dần số danh pháp được quán](#M04-body-P087)
+- [Phân định danh và lưu ý về mười sáu pháp](#M04-body-P088)
+- [Hai cách giải về danh pháp được nêu trong Kinh Bất Đoạn](#M04-body-P089)
+- [Các pháp được bao hàm trong cách giải khác](#M04-body-P090)
+- [Phân biệt danh và sắc](#M04-body-P091)
+- [Từ danh pháp thiền đến danh pháp lấy sắc làm cảnh](#M04-body-P092)
+- [Như lý tác ý và phi như lý tác ý](#M04-body-P093)
+- [Định nghĩa và bốn cách như lý tác ý](#M04-body-P094)
+- [Tác ý thuận và nghịch với bốn Thánh đế](#M04-body-P095)
+- [Đại thiện lấy nhãn tịnh sắc làm cảnh](#M04-body-P096)
+- [Các danh pháp lấy nhãn tịnh sắc làm cảnh](#M04-body-P097)
+- [Chuẩn bị đọc bảng lộ ý môn đơn thuần](#M04-body-P098)
+- [Bảng nhóm thiện của lộ ý môn đơn thuần](#M04-body-P099)
+- [Cách quán lộ ý môn có tốc hành thiện](#M04-body-P100)
+- [Sáu cách như lý tác ý đến nhãn tịnh sắc](#M04-body-P101)
+- [Quán từng danh pháp trong lộ ý môn](#M04-body-P102)
+- [Bốn trường hợp hợp trí và hợp hỷ](#M04-body-P103)
+- [Điều cần biết về tâm đăng ký](#M04-body-P104)
+- [Tâm đăng ký sau tốc hành minh sát còn yếu](#M04-body-P105)
+- [Điều kiện và các loại tâm đăng ký](#M04-body-P106)
+- [Bảng tâm đăng ký và sự khác biệt giữa quả với tốc hành](#M04-body-P107)
+- [Cảnh không đáng ưa và hữu phần khách](#M04-body-P108)
+- [Cảnh của hữu phần khách và ba trường hợp không có đăng ký](#M04-body-P109)
+- [Vai trò nối tiếp của hữu phần khách](#M04-body-P110)
+- [Bảng lộ ý môn thiện lấy sắc chân thật làm cảnh](#M04-body-P111)
+- [Đăng ký với cảnh không đáng ưa và cảnh đáng ưa](#M04-body-P112)
+- [Cách đọc số đăng ký và các sắc chân thật](#M04-body-P113)
+- [Cách quán sắc không chân thật](#M04-body-P114)
+- [Bảng lộ ý môn thiện lấy sắc không chân thật làm cảnh](#M04-body-P115)
+- [Phân tích nhóm sắc trước khi quán danh](#M04-body-P116)
+- [Tiết chế bằng chánh ngữ](#M04-body-P117)
+- [Tiết chế bằng chánh nghiệp](#M04-body-P118)
+- [Tiết chế bằng chánh mạng](#M04-body-P119)
+- [Bảng ba tâm sở tiết chế trong lộ ý môn](#M04-body-P120)
+- [Chánh ngữ và chánh nghiệp theo ba nghĩa](#M04-body-P121)
+- [Chánh mạng và hai loại tiết chế thế gian](#M04-body-P122)
+- [Tiết chế do đoạn trừ và cảnh của hai loại tiết chế thế gian](#M04-body-P123)
+- [Cảnh có thể vi phạm và tư vi phạm](#M04-body-P124)
+- [Cảnh của từng loại tiết chế](#M04-body-P125)
+- [Hai tâm sở vô lượng](#M04-body-P126)
+- [Thọ trong tùy hỷ, tín và tuệ](#M04-body-P127)
+- [Bảng tâm sở vô lượng và đề mục niệm Phật](#M04-body-P128)
+- [Ân đức Phật làm cảnh của lộ ý môn](#M04-body-P129)
+- [Đề mục niệm chết](#M04-body-P130)
+- [Bảng lộ ý môn khi niệm Phật và niệm chết](#M04-body-P131)
+- [Từ niệm chết đến lộ ngũ môn](#M04-body-P132)
+- [Một cảnh xuất hiện đồng thời ở hai cửa](#M04-body-P133)
+- [Ví dụ con chim đậu và bóng chim](#M04-body-P134)
+- [Ký hiệu lộ nhãn môn và hữu phần vừa qua](#M04-body-P135)
+- [Lộ nhãn môn kết thúc bằng đăng ký hoặc tốc hành](#M04-body-P136)
+- [Lộ nhãn môn với cảnh lớn loại hai và cảnh nhỏ loại một](#M04-body-P137)
+- [Nhãn tịnh sắc có thọ mạng trung bình](#M04-body-P138)
+- [Ba nhóm tịnh sắc và vật nương của ý thức](#M04-body-P139)
+- [Từng tâm nương sắc ý vật nào](#M04-body-P140)
+- [Hoạt động của lộ ngũ môn và lộ ý môn](#M04-body-P141)
+- [Các lộ đầu tiên từ cảnh sắc đến nhận biết màu](#M04-body-P142)
+- [Nhận ra màu, quy ước và đối tượng](#M04-body-P143)
+- [Bốn duyên cho tốc hành thiện](#M04-body-P144)
+- [Bốn duyên thiện và cách quán nhóm cảnh sắc](#M04-body-P145)
+- [Bốn loại lộ tùy thời gian tồn tại của cảnh](#M04-body-P146)
+- [Bảng nhóm thiện lấy màu làm cảnh](#M04-body-P147)
+- [Cách quán lộ nhãn môn và ý môn lấy màu làm cảnh](#M04-body-P148)
+- [Giới hạn của ngũ thức và lộ ý môn theo sau](#M04-body-P149)
+- [Tăng dần số tâm sở được quán](#M04-body-P150)
+- [Sắc vật nương, hữu phần và như lý tác ý](#M04-body-P151)
+- [Các cách như lý tác ý đến cảnh sắc](#M04-body-P152)
+- [Vì sao quán danh pháp theo sáu cách](#M04-body-P153)
+- [Đăng ký sau tốc hành minh sát và bảng tâm sở](#M04-body-P154)
+- [Giải thích số tâm và tâm sở trong lộ nhãn môn](#M04-body-P155)
+- [Quán danh pháp thiện lấy tiếng làm cảnh](#M04-body-P156)
+- [Sáu cách tác ý đến cảnh tiếng](#M04-body-P157)
+- [Quán danh pháp thiện lấy mùi làm cảnh](#M04-body-P158)
+- [Quán danh pháp thiện lấy vị làm cảnh](#M04-body-P159)
+- [Sáu cách tác ý đến vị và cách bắt đầu quán xúc](#M04-body-P160)
+- [Quán cảnh xúc theo ba đại](#M04-body-P161)
+- [Não và tuệ biết](#M04-body-P162)
+- [Thân thức, tuệ và thọ](#M04-body-P163)
+- [Bốn nhóm cảnh pháp và danh pháp thiền vô sắc](#M04-body-P164)
+- [Cảnh của các tầng thiền vô sắc còn lại](#M04-body-P165)
+- [Phần 4. Quán danh pháp bất thiện](#M04-body-P166)
+- [Duyên của tốc hành bất thiện](#M04-body-P167)
+- [Quán ba loại tầm bất thiện](#M04-body-P168)
+- [Đoạn trừ tầm bất thiện từng phần và tận gốc](#M04-body-P169)
+- [Bốn trường hợp danh pháp nhóm tham và tà kiến](#M04-body-P170)
+- [Nhóm tham và mạn, nhóm sân](#M04-body-P171)
+- [Sân cùng tật, xan hoặc hối](#M04-body-P172)
+- [Hai nhóm danh pháp căn si](#M04-body-P173)
+- [Bắt đầu từ sắc chân đế hoặc cảnh chế định](#M04-body-P174)
+- [Ví dụ nhóm tham và tà kiến lấy vàng làm cảnh](#M04-body-P175)
+- [Tà kiến khi lấy vàng và các vật quen thuộc làm cảnh](#M04-body-P176)
+- [Các cảnh cho nhóm tham và mạn, nhóm sân](#M04-body-P177)
+- [Cảnh của hối, trạo cử và hoài nghi](#M04-body-P178)
+- [Hai mươi danh pháp nhóm tham và tà kiến](#M04-body-P179)
+- [Các tâm sở từ mạng quyền đến si](#M04-body-P180)
+- [Các tâm sở còn lại và bốn trường hợp của nhóm tham](#M04-body-P181)
+- [Si, vô tàm và vô quý trong các nhóm bất thiện](#M04-body-P182)
+- [Bảng lộ ý môn có tốc hành bất thiện lấy cảnh pháp](#M04-body-P183)
+- [Quán nhóm tham và tà kiến lấy nhãn tịnh sắc làm cảnh](#M04-body-P184)
+- [Quán mạn, sân, tật đố và xan tham với nhãn tịnh sắc](#M04-body-P185)
+- [Quán hối, trạo cử và nghi, cùng quy tắc đăng ký](#M04-body-P186)
+- [Luân phiên quán nhóm thiện và bất thiện](#M04-body-P187)
+- [Cách mười kiết sử sinh khi thấy sắc](#M04-body-P188)
+- [Kiết sử dục tham và hữu tham](#M04-body-P189)
+- [Kiết sử hữu tham, tà kiến và giới cấm thủ](#M04-body-P190)
+- [Giới cấm thủ, mạn, sân và tật đố](#M04-body-P191)
+- [Kiết sử xan tham và hối về điều đã làm](#M04-body-P192)
+- [Hối về điều đã bỏ qua, trạo cử, hoài nghi và vô minh](#M04-body-P193)
+- [Kiết sử sinh theo nhóm và giới hạn của nhãn thức](#M04-body-P194)
+- [Màu sắc trong lộ nhãn môn và ý môn](#M04-body-P195)
+- [Bảng lộ nhãn môn và ý môn có tốc hành bất thiện](#M04-body-P196)
+- [Cách quán nhóm bất thiện lấy cảnh sắc](#M04-body-P197)
+- [Tà kiến ở ý môn và dấu ấn trong lộ nhãn môn](#M04-body-P198)
+- [Thọ của suy đạc, tốc hành và đăng ký](#M04-body-P199)
+- [Áp dụng cách quán cho tiếng, mùi, vị và xúc](#M04-body-P200)
+- [Cảnh vị, cảnh xúc và thứ tự sáu nhóm](#M04-body-P201)
+- [Cách quán danh pháp chi tiết](#M04-body-P202)
+- [Áp dụng phương pháp chi tiết ở sáu cửa và 42 phần](#M04-body-P203)
+- [Ba bảng tóm lược các nhóm danh pháp](#M04-body-P204)
+- [Cảnh của bốn thiền vô sắc và cách xác định danh](#M04-body-P205)
+- [Gộp các danh pháp và quán danh sắc cùng nhau](#M04-body-P206)
+- [Vật nương, cảnh và danh pháp trong từng sát-na](#M04-body-P207)
+- [Phân định danh sắc](#M04-body-P208)
+- [Phần 5. Bốn loại khối danh](#M04-body-P209)
+- [Bốn loại khối và khối tương tục](#M04-body-P210)
+- [Phá khối tương tục và nhận ra khối tập hợp](#M04-body-P211)
+- [Phân biệt từng pháp và từng chức năng](#M04-body-P212)
+- [Phá khối chức năng của danh](#M04-body-P213)
+- [Khối cảnh và hai mặt của tuệ minh sát](#M04-body-P214)
+- [Ba khối trong lộ tâm minh sát](#M04-body-P215)
+- [Phá khối cảnh để thấy vô ngã](#M04-body-P216)
+- [Đặc tính vô ngã và ba tuệ quán](#M04-body-P217)
+- [Phần 6. Tư thế và tỉnh giác](#M04-body-P218)
+- [Quán năm uẩn trong các tư thế và hoạt động](#M04-body-P219)
+- [Ví dụ quán năm uẩn khi nhìn](#M04-body-P220)
+- [Năm uẩn trong lộ nhãn môn và bài tập đi](#M04-body-P221)
+- [Sắc nổi trội và sắc không nổi trội](#M04-body-P222)
+- [Sắc làm chuyển động và sắc được chuyển động](#M04-body-P223)
+- [Ví dụ người vác bao gạo](#M04-body-P224)
+- [Cách quán năm uẩn khi đi](#M04-body-P225)
+- [Bốn việc cần làm và quán nội, ngoại](#M04-body-P226)
+- [Vì sao phải quán cả nội phần lẫn ngoại phần](#M04-body-P227)
+- [Phạm vi ngoại phần và cách bắt đầu](#M04-body-P228)
+- [Quán sắc ngoại phần từ y phục đến vật vô tri](#M04-body-P229)
+- [Mở rộng quán sắc và danh ngoại phần](#M04-body-P230)
+- [Quán các lộ tâm ngoại phần theo nhóm](#M04-body-P231)
+- [Phạm vi của tuệ minh sát và bốn bước thực hành](#M04-body-P232)
+- [Quán sinh và diệt theo duyên và sát-na](#M04-body-P233)
+- [Ba tuệ và hai cách quán duyên](#M04-body-P234)
+- [Phát triển bốn niệm xứ và chọn điểm bắt đầu](#M04-body-P235)
+- [Bắt đầu từ sắc hay danh và tiếp tục với cả hai](#M04-body-P236)
+- [Bốn niệm xứ phân biệt ở giai đoạn chuẩn bị](#M04-body-P237)
+- [Bốn chức năng của một niệm ở sát-na đạo](#M04-body-P238)
+- [Quán thân, quán thọ và tên gọi theo người](#M04-body-P239)
+- [Quán tâm, quán pháp và tên gọi theo pháp](#M04-body-P240)
+- [Một niệm hoàn tất bốn nhiệm vụ](#M04-body-P241)
+- [Thực hành bốn niệm xứ theo bốn điểm bắt đầu](#M04-body-P242)
+- [Ba điểm cần ghi nhớ về thực hành niệm xứ](#M04-body-P243)
+- [Trong cái thấy chỉ là cái thấy](#M04-body-P244)
+- [Cái thấy, nghe, cảm nhận và biết làm cảnh minh sát](#M04-body-P245)
+- [Nhãn thức thấy, các tâm lộ tiếp tục theo duyên](#M04-body-P246)
+- [Điểm cuối của lộ tâm và ý nghĩa của “chỉ là”](#M04-body-P247)
+- [Ý nghĩa thực hành và lời kết](#M04-body-P248)
+- [Chỉ mục theo thứ tự chữ Miến — trang 249](#M04-index-P001)
+- [Chỉ mục theo thứ tự chữ Miến — trang 250](#M04-index-P002)
+- [Chỉ mục theo thứ tự chữ Miến — trang 251](#M04-index-P003)
+- [Chỉ mục theo thứ tự chữ Miến — trang 252](#M04-index-P004)
+- [Chỉ mục theo thứ tự chữ Miến — trang 253](#M04-index-P005)
+- [Chỉ mục theo thứ tự chữ Miến — trang 254](#M04-index-P006)
+- [Chỉ mục theo thứ tự chữ Miến — trang 255](#M04-index-P007)
+- [Chỉ mục theo thứ tự chữ Miến — trang 256](#M04-index-P008)
+- [Chỉ mục theo thứ tự chữ Miến — trang 257](#M04-index-P009)
+- [Chỉ mục theo thứ tự chữ Miến — trang 258](#M04-index-P010)
+- [Chỉ mục theo thứ tự chữ Miến — trang 259](#M04-index-P011)
+
+<a id="M04-front-P001"></a>
+## Trang nhan đề
+Đầu sách / Front matter - 1
+
+Nibbānagāminipaṭipadā. Đường đến Niết-bàn (bản lược), Cuốn 4.
+
+Phần đề mục thiền về danh (Nāmakammaṭṭhāna).
+
+Thiền sư Pa-Auk Tawya.
+
+
+<a id="M04-front-P002"></a>
+## Pháp thí và lời nguyện
+Đầu sách / Front matter - 2
+
+Sabbadānaṃ dhammadānaṃ jināti.
+Sabbarasaṃ dhammaraso jināti.
+Sabbaratiṃ dhammarati jināti.
+Taṇhakkhayo sabbadukkhaṃ jināti.
+
+Pháp thí thắng mọi sự bố thí.
+Vị của Pháp thắng mọi vị.
+Niềm vui trong Pháp thắng mọi niềm vui.
+Sự đoạn tận ái thắng mọi khổ đau.
+
+Ciraṃ tiṭṭhatu saddhammo, dhamme hontu sagāravā.
+
+Nguyện giáo pháp của Đức Phật tồn tại lâu dài.
+Nguyện mọi người kính trọng ba loại Chánh pháp.
+
+
+<a id="M04-front-P003"></a>
+## Mục lục — က
+Đầu sách / Front matter - 3
+
+Namo tassa bhagavato arahato sammāsambuddhassa.
+
+Phần 1. Những điều cần biết về tâm — 1
+
+Một trăm nghìn koṭi — 1
+
+Ba cách quán danh pháp — 2
+
+Hai điểm cần biết trước — 7
+
+Giải thích thêm — 8
+
+Chỉ xét các danh pháp hiệp thế — 10
+
+Những điều cần biết trước — 12
+
+Sáu vật — các sắc làm chỗ nương cho danh pháp sinh — 13
+
+Sáu môn — 13
+
+Sáu cảnh — 14
+
+Sáu loại cảnh pháp — 14
+
+Sáu thức giới — 15
+
+Sáu loại lộ tâm — 16
+
+Sáu cách diễn tiến của đối tượng — 18
+
+Các loại tâm có thể làm đối tượng của tuệ minh sát — 19
+
+Mười hai loại tâm bất thiện — 20
+
+Tám tâm căn tham — 20
+
+Hai tâm căn sân — 21
+
+Hai tâm căn si — 22
+
+Mười tám tâm vô nhân — bảy tâm quả bất thiện — 22
+
+
+<a id="M04-front-P004"></a>
+## Mục lục — ခ
+Đầu sách / Front matter - 4
+
+Tám tâm quả thiện vô nhân — 23
+
+Ba tâm duy tác vô nhân — 23
+
+Hai mươi bốn tâm dục giới tịnh hảo — tám tâm đại thiện — 24
+
+Tám tâm đại quả — 25
+
+Tám tâm đại duy tác — 26
+
+Mười lăm tâm sắc giới — năm tâm thiện — 27
+
+Mười hai tâm vô sắc giới — bốn tâm thiện — 28
+
+Tám tâm siêu thế theo cách kể tóm lược — bốn tâm Thánh đạo — 30
+
+Bốn tâm Thánh quả — 30
+
+Bốn mươi tâm siêu thế theo cách kể chi tiết — 31
+
+Phần 2. Những điều cần biết về tâm sở — 33
+
+Bốn đặc điểm của tâm sở tương ưng với tâm — 33
+
+Năm mươi hai tâm sở — 34
+
+Bảy tâm sở biến hành — 34
+
+Sáu tâm sở biệt cảnh — 36
+
+Tầm, tư và tác ý — 37
+
+Mười bốn tâm sở bất thiện — bốn tâm sở bất thiện biến hành — 38
+
+Ba tâm sở thuộc nhóm tham — 38
+
+Giải thích thêm — 39
+
+Hai loại chấp ngã — 41
+
+Phân biệt si và tà kiến theo cách tóm lược — 43
+
+Bốn tâm sở thuộc nhóm sân — 43
+
+Hai tâm sở thuộc nhóm hôn trầm — 44
+
+
+<a id="M04-front-P005"></a>
+## Mục lục — ဂ
+Đầu sách / Front matter - 5
+
+Một tâm sở thuộc nhóm si — 44
+
+Hai mươi lăm tâm sở tịnh hảo — 45
+
+Mười chín tâm sở tịnh hảo biến hành — 45
+
+Māyā và sāṭheyya — che giấu lỗi và giả dối — 48
+
+Ba tâm sở tiết chế — 49
+
+Hai tâm sở vô lượng — 49
+
+Một tâm sở tuệ quyền — 49
+
+Một nguyên tắc quan trọng — 50
+
+Bốn pháp tùy quán — 52
+
+Nguyên tắc khi bắt đầu quán từ thọ — 55
+
+Nguyên tắc khi bắt đầu quán từ thức — 56
+
+Nguyên tắc khi bắt đầu quán từ xúc — 57
+
+Hãy quán tất cả danh pháp — 57
+
+Một việc rất khó — 60
+
+Quán vật và cảnh cùng nhau — 68
+
+Trở lại quán các sắc pháp — 71
+
+Phần 3. Cách nhận diện và quán — 74
+
+Cảnh tợ tướng của niệm hơi thở — 74
+
+Tuyến cảnh pháp — bảng lộ nhập thiền qua ý môn — 74
+
+Tầm, tứ và hỷ — 75
+
+Bốn phạm trú — bảng lộ nhập thiền — 77
+
+Chỉ dành cho người đã đắc thiền — 78
+
+Tên các tâm trong lộ — 79
+
+Cách quán các danh pháp của thiền — 79
+
+
+<a id="M04-front-P006"></a>
+## Mục lục — ဃ
+Đầu sách / Front matter - 6
+
+Ba mươi bốn danh pháp sơ thiền lấy tợ tướng niệm hơi thở làm cảnh — 81
+
+Tuệ quán danh — 85
+
+Các điểm khác biệt cần lưu ý — 88
+
+Phân biệt danh và sắc — 91
+
+Tác ý như lý và tác ý phi như lý — 93
+
+Thế nào là tác ý như lý — 94
+
+Thế nào là tác ý phi như lý — 95
+
+Ba mươi bốn danh pháp trong tốc hành đại thiện lấy nhãn tịnh sắc làm cảnh — 96
+
+Tuyến cảnh pháp — bảng nhóm thiện của lộ thuần ý môn — 99
+
+Cách nhận diện và quán dòng tâm trong lộ tốc hành thiện qua ý môn — 100
+
+Những điều cần biết về tâm na cảnh — 104
+
+Bảng na cảnh dành cho phàm nhân tam nhân — 107
+
+Quả thực sự và phần ngoài tốc hành — 107
+
+Tuyến cảnh pháp — bảng nhóm thiện của lộ ý môn và cách quán lấy sắc thực làm cảnh — 111
+
+Các sắc thực để quán theo cùng cách — 113
+
+Tuyến cảnh pháp — bảng nhóm thiện của lộ ý môn và cách quán lấy sắc không thực làm cảnh — 115
+
+Chín loại sắc không thực để quán theo cùng cách — 115
+
+Chánh ngữ — tiết chế — 117
+
+Chánh nghiệp — tiết chế — 118
+
+Chánh mạng — tiết chế — 119
+
+Tuyến cảnh pháp — bảng tiết chế trong lộ ý môn — 120
+
+
+<a id="M04-front-P007"></a>
+## Mục lục — င
+Đầu sách / Front matter - 7
+
+Ba loại chánh ngữ — 121
+
+Ba loại chánh nghiệp — 121
+
+Chánh mạng — 122
+
+Tiết chế khi gặp cảnh, do thọ trì và do đoạn tận — 122
+
+Cảnh của tiết chế khi gặp cảnh và tiết chế do thọ trì — 123
+
+Hai tâm sở vô lượng — 126
+
+Tuyến cảnh pháp — bảng tâm sở vô lượng trong lộ ý môn dục giới — 128
+
+Đề mục tùy niệm Phật — 128
+
+Đề mục niệm chết — 130
+
+Tuyến cảnh pháp — bảng tùy niệm Phật và niệm chết — 131
+
+Các điểm cần biết trước — 132
+
+Ký hiệu dùng trong lộ nhãn môn — 135
+
+Lộ nhãn môn với cảnh rất lớn — diễn tiến có na cảnh — 136
+
+Lộ nhãn môn với cảnh lớn, loại thứ nhất — diễn tiến có tốc hành — 136
+
+Lộ nhãn môn với cảnh lớn, loại thứ hai — diễn tiến có tốc hành — 137
+
+Lộ nhãn môn với cảnh nhỏ, loại thứ nhất — diễn tiến có xác định — 137
+
+Tịnh sắc yếu, mạnh và trung bình — 138
+
+Sức của lộ ngũ môn và lộ ý môn — 141
+
+Sự vận hành của tốc hành thiện — 144
+
+Tuyến cảnh sắc — cách quán nhóm thiện — 145
+
+Cảnh sắc — tuyến màu sắc — các bảng nhóm thiện — 147
+
+Tác ý như lý — 151
+
+Bảng số lượng tâm và tâm sở — 154
+
+Giải thích thêm — 155
+
+
+<a id="M04-front-P008"></a>
+## Mục lục — စ
+Đầu sách / Front matter - 8
+
+Tuyến cảnh thinh — cách quán danh pháp thuộc nhóm thiện — 156
+
+Tuyến cảnh mùi — cách quán danh pháp thuộc nhóm thiện — 158
+
+Tuyến cảnh vị — cách quán danh pháp thuộc nhóm thiện — 159
+
+Tuyến cảnh xúc — cách quán danh pháp thuộc nhóm thiện — 160
+
+Não bộ và thức — 162
+
+Phần 4. Cách nhận diện và quán nhóm bất thiện — 166
+
+Khi quán các pháp bất thiện, bất thiện có lại sinh khởi không? — 166
+
+Bốn điểm về danh pháp thuộc nhóm tham và tà kiến — 170
+
+Bốn điểm về danh pháp thuộc nhóm tham và ngã mạn — 171
+
+Hai điểm về danh pháp thuộc nhóm sân — 171
+
+Hai điểm về danh pháp thuộc nhóm sân và tật đố — 172
+
+Hai điểm về danh pháp thuộc nhóm sân và xan tham — 172
+
+Bốn điểm về danh pháp thuộc nhóm sân và hối quá — 172
+
+Một điểm về danh pháp thuộc nhóm si và trạo cử — 173
+
+Một điểm về danh pháp thuộc nhóm si và hoài nghi — 173
+
+Tóm lược cách quán các nhóm danh pháp bất thiện lấy chế định làm cảnh — 175
+
+Hai mươi danh pháp thuộc nhóm tham và tà kiến — 179
+
+Tuyến cảnh pháp — bảng nhóm bất thiện của lộ ý môn — 183
+
+Lấy nhãn tịnh sắc làm cảnh — cách quán nhóm tham và tà kiến — 184
+
+Lấy nhãn tịnh sắc làm cảnh — cách quán nhóm tham và ngã mạn, v.v. — 185
+
+Na cảnh sau tốc hành bất thiện — 186
+
+Xin nêu một cách thực hành thích hợp — 187
+
+Cách mười kiết sử sinh khởi — 188
+
+
+<a id="M04-front-P009"></a>
+## Mục lục — ဆ
+Đầu sách / Front matter - 9
+
+Cảnh sắc — tuyến màu sắc — bảng lộ có tốc hành bất thiện — 196
+
+Điều cần lưu ý — 194
+
+Tuyến cảnh sắc — cách quán nhóm bất thiện khi tốc hành bất thiện vận hành — 197
+
+Tuyến cảnh thinh, cảnh mùi, cảnh vị và cảnh xúc — 200
+
+Cách quán đề mục thiền về danh theo lối chi tiết — 202
+
+Bảng tóm lược sáu tuyến cảnh — 204
+
+Hãy quán danh pháp là “danh pháp, danh pháp” — 205
+
+Hãy quán sắc và danh cùng nhau — công việc quán sắc và danh — 206
+
+Phân định danh sắc (nāmarūpavavatthāna) — phân biệt và ghi nhận danh và sắc — 208
+
+Phần 5. Các khối danh — 209
+
+Bốn loại khối danh — 209
+
+1. Khối tương tục (santatighana) — sự kết chặt của dòng danh nối tiếp — 210
+
+2. Khối tập hợp (samūhaghana) — sự kết chặt của nhóm danh — 211
+
+3. Khối phận sự (kiccaghana) — sự kết chặt về phận sự của danh — 212
+
+4. Khối cảnh (ārammaṇaghana) — sự kết chặt của các danh pháp có khả năng biết cảnh — 214
+
+Phần 6. Oai nghi, tỉnh giác, v.v. — 218
+
+Phạm vi quán oai nghi và tỉnh giác — 218
+
+Tóm lược cách quán năm uẩn — 220
+
+Tóm lược phương pháp quán — 221
+
+1. Padhāna — sắc nổi bật — 222
+
+2. Appadhāna — sắc không nổi bật — 222
+
+Sắc làm chuyển động và sắc được chuyển động — 223
+
+Phương pháp quán năm uẩn — 225
+
+
+<a id="M04-front-P010"></a>
+## Mục lục — ဇ
+Đầu sách / Front matter - 10
+
+Phạm vi quán để tiến thêm một bước — 226
+
+Tóm lược phương pháp quán bên ngoài — 228
+
+Tiến thêm một bước — 232
+
+Cách tiếp tục tu tập bốn niệm xứ — 235
+
+Phương pháp tu tập “trong cái được thấy chỉ là cái được thấy” (diṭṭhe diṭṭhamattaṃ) — 244
+
+
+<a id="M04-body-P001"></a>
+## Những điều cần biết về tâm — Một trăm nghìn koṭi
+Miến / Burmese 1
+
+Namo tassa bhagavato arahato sammāsambuddhassa.
+
+Đề mục thiền về danh. Phần 1. Những điều cần biết về tâm.
+
+Ekaccharakkhaṇe koṭisatasahassasaṅkhyā uppajjitvā nirujjhanti. (Chú giải Tương ưng bộ, tập 2, tr. 295.)
+Trong một cái búng tay, một trăm nghìn koṭi sinh lên rồi diệt.
+
+Trong khoảng thời gian gọi là một chớp mắt, một tia chớp hay một cái búng tay, các danh pháp sinh rồi diệt hơn một trăm nghìn koṭi lần. Dựa vào những lời trong kinh sách ấy, người ta thường đem con số một trăm nghìn koṭi ra chất vấn: “Làm sao quán được các danh pháp sinh diệt hơn một trăm nghìn koṭi lần trong một chớp mắt, một tia chớp hay một cái búng tay?” Vì thế, đề mục từng rực rỡ một thời nay ít được giới minh sát coi trọng, như thể đang lặng lẽ ẩn mình trong một góc của giáo pháp. Nay đã đến phần nhận diện và quán các danh pháp ấy. Mong các thiện hữu có tâm trong sáng dốc sức tu tập, nỗ lực phát triển đề mục này.
+
+
+<a id="M04-body-P002"></a>
+## Ba cách quán danh pháp
+Miến / Burmese 2
+
+Tividho hi arūpakammaṭṭhāne abhiniveso phassavasena vedanāvasena cittavasenāti. (Chú giải Trường bộ, tập 2, tr. 314; Chú giải Trung bộ, tập 1, tr. 280; Chú giải Abhidhamma, tập 2, tr. 252.)
+Có ba cách đi vào đề mục thiền về danh, theo xúc, theo thọ hoặc theo tâm.
+
+Khi bắt đầu thực hành đề mục thiền về danh, tức bắt đầu dùng tuệ phân biệt các danh pháp, có ba cách:
+1. Bắt đầu quán từ xúc, dành cho người thấy xúc nổi bật.
+2. Bắt đầu quán từ thọ, dành cho người thấy thọ nổi bật.
+3. Bắt đầu quán từ tâm, tức thức, dành cho người thấy tâm hay thức nổi bật.
+
+Nếu thiện hữu lấy thuần minh sát làm cỗ xe (suddhavipassanāyānika), khi bắt đầu đề mục thiền về danh, hãy ghi lòng và thực hành theo nguyên tắc dưới đây.
+
+Yasmā ca evaṃ suvisuddharūpapariggahasseva tassa arūpadhammā tīhākārehi pākaṭā honti. Tasmā suvisuddharūpapariggaheneva arūpapariggahāya yogo kātabbo, na itarena. Sace hi ekasmiṃ vā rūpadhamme upaṭṭhite dvīsu vā rūpaṃ pahāya arūpapariggahaṃ ārabhati kammaṭṭhānato parihāyati, pathavīkasiṇabhāvanāya vuttappakārā pabbateyyā gāvī viya. Suvisuddharūpapariggahassa pana arūpapariggahāya yogaṃ karoto kammaṭṭhānaṃ vuddhiṃ virūḷhiṃ vepullaṃ pāpuṇāti. (Thanh tịnh đạo, tập 2, tr. 227.)
+
+Danh pháp hiện rõ theo ba cách ấy khi sự quán sắc đã hoàn toàn thanh tịnh. Vì vậy, hãy bắt đầu quán danh khi đã quán sắc hoàn toàn thanh tịnh. Nếu mới thấy một hay hai sắc pháp mà đã bỏ sắc để bắt đầu quán danh, hành giả sẽ thoái lui khỏi đề mục, như con bò núi trong phần tu tập biến xứ đất. Với người quán sắc hoàn toàn thanh tịnh, khi nỗ lực quán danh, đề mục tăng trưởng, phát triển và trở nên sung mãn.
+
+Cũng như tầng thiền thấp đã được tu tập kỹ và đạt đến thuần thục mới là nền tảng, là điều kiện chính cho tầng thiền cao hơn, chứ chỉ đắc thiền thôi thì chưa đủ. Sự quán sắc cũng vậy … (Đại sớ giải, tập 2, tr. 357. Đoạn dẫn tiếp ở Miến 3.)
+
+
+<a id="M04-body-P003"></a>
+## Quán sắc làm nền cho quán danh
+Miến / Burmese 3
+
+… Sự quán sắc đã thanh tịnh, hết chướng ngại mới là nền tảng và điều kiện chính để quán danh. Vì thế, chừng nào sự quán sắc và danh chưa phát triển dù chỉ một phần thì chưa có tăng trưởng. Đối với người chưa phát triển được nhiều phần, điều ấy lại càng rõ. Vì vậy bản văn nói “sace hi”, nghĩa là “vì nếu”, v.v. (Đại sớ giải, tập 2, tr. 357.) [Còn đối chiếu phiên âm Pāli của đoạn nối từ Miến 2, nhất là cụm ngay trước eva arūpapariggahassa.]
+
+Nếu thiện hữu lấy thuần minh sát làm cỗ xe, trước hết cần là người đã quán sắc hoàn toàn thanh tịnh (suvisuddharūpapariggaha), tức đã dùng tuệ phân biệt, quán các sắc pháp thật rõ ràng. Trong dòng tương tục của chúng sinh có đủ năm uẩn, nhãn tịnh sắc, nhĩ tịnh sắc, tỷ tịnh sắc, thiệt tịnh sắc và thân tịnh sắc là các sắc làm chỗ nương cho những nhóm danh pháp gọi là nhãn thức, nhĩ thức, tỷ thức, thiệt thức và thân thức sinh khởi theo quy luật. Các nhóm danh pháp gọi là ý giới và ý thức giới sinh nương sắc ý vật, với hữu phần, tức ý môn trong sáng, làm chỗ nương cho tiến trình.
+
+Do đó, nếu chưa biết nhận diện, chưa biết quán từng sắc làm chỗ nương cho các danh pháp ấy và hữu phần, tức ý môn trong sáng, thì còn rất xa mới có thể dùng tuệ nhận diện và phân biệt danh pháp đến mức chân đế, làm tan rã các khối danh.
+
+Vì sao? Chỉ trong tuệ của hành giả đã quán sắc hoàn toàn thanh tịnh, các danh pháp mới hiện rõ theo một trong ba cách nhận diện và quán danh đã nêu, hoặc theo cả ba cách. Vì vậy, hãy quán sắc thật thanh tịnh …
+
+
+<a id="M04-body-P004"></a>
+## Quán sắc trước khi quán danh
+Miến / Burmese 4
+
+… và chỉ khi đã quán sắc, hành giả mới nên nỗ lực quán danh pháp. Người chưa quán sắc pháp thật thuần thục và thanh tịnh chớ vội nỗ lực quán danh. Nếu mới thấy rõ bằng tuệ một hay hai sắc pháp mà ngừng tu tập đề mục sắc, bỏ việc quán sắc để chuyển sang quán danh, hành giả có thể thoái lui và mất đề mục. (Thanh tịnh đạo, tập 2, tr. 227, đoạn 671.)
+
+Ví dụ dùng để so sánh là tầng thiền thấp đã được tu tập kỹ đến mức làm chủ theo năm cách. Chỉ tầng thiền như vậy mới có thể làm nền và làm nhân gần nhất cho tầng thiền cao hơn. Tầng thiền thấp chỉ mới chứng được thì chưa thể làm nền và làm duyên gần nhất cho tầng thiền cao hơn. Cũng vậy, chỉ tuệ quán sắc (rūpapariggahañāṇa) thật thanh tịnh, hết rối ren, hết tì vết, mới có thể làm nền và làm nhân gần nhất cho tuệ quán danh (arūpapariggahañāṇa). Nếu tuệ quán sắc chưa thanh tịnh thì chưa thể làm nền và làm nhân gần nhất cho tuệ quán danh. Cho nên ngay cả khi chỉ một phần sắc và danh chưa hiện rõ trong tuệ của hành giả, tuệ quán sắc ấy vẫn được gọi là chưa thanh tịnh. Nếu nhiều…
+
+
+<a id="M04-body-P005"></a>
+## Ví dụ con bò núi
+Miến / Burmese 5
+
+… sắc pháp và danh pháp không hiện rõ, không được thấy bằng tuệ, thì còn nói gì nữa? Vị Chú giải sư đã nói như trên để làm rõ ý nghĩa ấy. (Đại sớ giải, tập 2, tr. 357.)
+
+Trong Tăng chi bộ (tập 3, tr. 216), Đức Phật thuyết Kinh Ví dụ con bò (Gāvī-upamā Sutta). Ngài nói về một con bò ngu dại, vụng về, không quen đi kiếm cỏ trên núi gập ghềnh. Từ một chỗ trên đỉnh núi, nó nhìn thấy một hồ nước lớn trong mát và cỏ cây xanh tốt quanh hồ. Muốn ăn cỏ non và lá xanh, uống nước trong mát trong hồ, nó đi xuống núi. Nó nhấc chân sau khi chân trước chưa đặt vững. Nó ngã lăn xuống núi, không được ăn cỏ lá như mong muốn, không được uống nước và cũng không thể trở lên chỗ cũ trên đỉnh núi.
+
+Cũng vậy, Đức Phật dạy rằng nếu một vị tỳ-khưu hành thiền tiến lên tầng thiền cao hơn mà chưa luyện đến mức làm chủ tầng thiền thấp theo năm cách, vị ấy có thể không đạt được tầng cao hơn và cũng mất tầng thấp đã đắc. (Muốn biết chi tiết, xem Kinh Ví dụ con bò.)
+
+
+<a id="M04-body-P006"></a>
+## Tuệ quán danh của người lấy thiền chỉ làm cỗ xe
+Miến / Burmese 6
+
+Vị Chú giải sư cũng dùng ví dụ ấy để nhắc rằng nếu cố quán đề mục danh khi chưa quán đề mục sắc thật thanh tịnh, hành giả có thể thoái lui và mất đề mục. Nghĩa là đề mục danh mong đạt thì không tiến tới được, mà đề mục sắc đã đạt cũng có thể suy mất.
+
+Nếu thiện hữu lấy thiền chỉ làm cỗ xe (samathayānika), nhờ sức của định thiền, có thể bắt đầu quán các danh pháp của thiền, tức các pháp thiền do những thiền chi như tầm, tứ, hỷ, lạc và nhất tâm dẫn đầu. Sau khi quán chúng, hãy tiếp tục quán sắc ý vật mà các danh pháp ấy nương để sinh, cùng các sắc đại chủng và sắc y sinh đi kèm. Chú giải Thanh tịnh đạo chỉ dẫn như vậy (tập 2, tr. 222). Kế đó, khi tiếp tục quán năm thủ uẩn, được gọi là các hành đã chín (pakkasaṅkhāra), hành giả cũng phải quán danh pháp dục giới. Khi ấy rất cần đã quán các sắc làm vật nương tương ứng. Vì vậy, khi quán danh pháp dục giới, người lấy thiền chỉ làm cỗ xe cũng phải trân trọng ghi lòng và thực hành nguyên tắc trên, như người lấy thuần minh sát làm cỗ xe.
+
+Nếu chưa phát triển một trong hai loại định là cận định và an chỉ định, lại chẳng tuân theo nguyên tắc trên mà bắt đầu đề mục danh…
+
+
+<a id="M04-body-P007"></a>
+## Hai điểm cần biết trước
+Miến / Burmese 7
+
+… tức cố gắng thực hành việc nhận diện và quán danh pháp, thì thiện hữu làm như vậy cũng có thể trở thành một trong những người dùng con số một trăm nghìn koṭi để chất vấn lời Đức Phật dạy về danh pháp.
+
+Tassevaṃ pariggahitarūpassa dvāravasena arūpadhammā pākaṭā honti. (Thanh tịnh đạo, tập 2, tr. 223.)
+Với người đã quán sắc như vậy, các danh pháp hiện rõ theo từng môn.
+
+Kāmaṃ vatthuvasenāpi arūpadhammā pākaṭā honti, dvāravasena pana pariggaho anākuloti katvā vuttaṃ “dvāravasena arūpadhammā pākaṭā hontī”ti. (Đại sớ giải, tập 2, tr. 352–353.)
+Danh pháp cũng hiện rõ theo vật nương. Tuy nhiên, vì quán theo môn thì không rối lẫn, nên bản văn nói “danh pháp hiện rõ theo môn”.
+
+Khi quán danh pháp, có thể theo sắc làm vật nương, hoặc theo các môn thuộc xứ, như trong lộ nhãn môn và lộ nhĩ môn. Trong hai cách ấy, vị Chú giải sư nói rằng với hành giả đã quán đề mục sắc, tức đã quán các sắc pháp thật thanh tịnh, danh pháp hiện rõ theo các môn thuộc xứ. Chỉ dẫn ấy có lý do.
+
+1. Các danh pháp sinh nương nhãn vật.
+2. Các danh pháp sinh nương nhĩ vật.
+3. Các danh pháp sinh nương tỷ vật.
+
+
+<a id="M04-body-P008"></a>
+## Giải thích thêm về vật và môn
+Miến / Burmese 8
+
+4. Các danh pháp sinh nương thiệt vật.
+5. Các danh pháp sinh nương thân vật.
+6. Các danh pháp sinh nương ý vật.
+
+Khi quán danh pháp theo vật nương như vậy, có sự lẫn lộn. Còn khi xét theo môn, có sáu nhóm: danh pháp trong lộ nhãn môn, lộ nhĩ môn, lộ tỷ môn, lộ thiệt môn, lộ thân môn và lộ ý môn.
+
+Quán các nhóm danh pháp theo các môn thuộc xứ như vậy thì không rối lẫn (anākula). Do đó vị Chú giải sư chỉ dẫn quán danh pháp theo các môn thuộc xứ, chẳng hạn nhóm danh pháp của lộ nhãn môn. (Thanh tịnh đạo, tập 2, tr. 223; Đại sớ giải, tập 2, tr. 352–353.)
+
+1. Nhóm danh pháp của nhãn thức sinh nương nhãn vật.
+2. Nhóm danh pháp của nhĩ thức sinh nương nhĩ vật.
+3. Nhóm danh pháp của tỷ thức sinh nương tỷ vật.
+4. Nhóm danh pháp của thiệt thức sinh nương thiệt vật…
+
+
+<a id="M04-body-P009"></a>
+## Vì sao quán danh theo môn
+Miến / Burmese 9
+
+… 5. Nhóm danh pháp của thân thức sinh nương thân vật.
+6. Các nhóm danh pháp gọi là ý giới và ý thức giới sinh nương sắc ý vật.
+
+Các nhóm danh pháp lần lượt nương nhãn vật, nhĩ vật, tỷ vật, thiệt vật và thân vật không lẫn với nhau. Riêng các nhóm danh pháp nương sắc ý vật có thể lấy cả sáu cảnh tùy trường hợp, nên có sự lẫn lộn. Muốn hiểu rõ hơn, hãy xem các bảng trong phần đề mục thiền về danh. Xét theo cảnh:
+
+1. Cảnh sắc: danh pháp trong lộ nhãn môn và lộ ý môn lấy cảnh sắc.
+2. Cảnh thinh: danh pháp trong lộ nhĩ môn và lộ ý môn lấy cảnh thinh.
+3. Cảnh mùi: danh pháp trong lộ tỷ môn và lộ ý môn lấy cảnh mùi.
+4. Cảnh vị: danh pháp trong lộ thiệt môn và lộ ý môn lấy cảnh vị.
+5. Cảnh xúc: danh pháp trong lộ thân môn và lộ ý môn lấy cảnh xúc.
+6. Cảnh pháp: danh pháp trong lộ ý môn lấy cảnh pháp.
+
+Như vậy, quán danh pháp theo các môn thuộc xứ thì không rối lẫn. Vì thế vị Chú giải sư chỉ dẫn quán danh pháp theo các môn thuộc xứ…
+
+
+<a id="M04-body-P010"></a>
+## Hai nguyên tắc thực hành và phạm vi danh pháp hiệp thế
+Miến / Burmese 10
+
+… Nếu thiện hữu muốn quán danh pháp, nhất là nếu lấy thuần minh sát làm cỗ xe, hãy trân trọng ghi nhớ hai nguyên tắc: (1) Phải quán sắc pháp trước. (2) Phải quán danh pháp theo các môn thuộc xứ. Hãy cố gắng thực hành để khỏi trở thành người dùng con số một trăm nghìn koṭi để chất vấn lời Đức Phật dạy về danh pháp.
+
+Āyatanadvāravasenāti āyatanasaṅkhātadvāravasena. Kammadvāranivattanatthaṃ āyatanaggahaṇaṃ. (Đại sớ giải, tập 2, tr. 410.)
+“Theo các môn thuộc xứ” là theo những môn được gọi là xứ. Từ “xứ” được dùng để loại trừ các môn của nghiệp.
+
+Trong giáo pháp, “môn” được dùng theo hai nghĩa. Ba môn thân, khẩu và ý gọi là môn của nghiệp (kammadvāra). Sáu môn mắt, tai, mũi, lưỡi, thân và ý gọi là môn thuộc xứ (āyatanadvāra). Hãy quán các danh pháp theo từng môn thuộc xứ và theo thứ tự tâm trong lộ, dùng tuệ phá tan các khối danh làm cho danh có vẻ nguyên khối, để tuệ thấy đến mức chân đế. (Bốn loại khối danh sẽ được trình bày ở phần sau.)
+
+Chỉ xét các danh pháp hiệp thế. Lokuttaracittāni pana neva suddhavipassakassa, na samathayānikassa pariggahaṃ gacchanti anadhigatattā. (Thanh tịnh đạo, tập 2, tr. 223.)
+Tâm siêu thế không thuộc phạm vi quán của người tu thuần minh sát hay người lấy thiền chỉ làm cỗ xe ở giai đoạn này, vì họ chưa chứng được các tâm ấy.
+
+Khi nêu các danh pháp làm đối tượng cho tuệ minh sát, Chú giải Thanh tịnh đạo nói…
+
+
+<a id="M04-body-P011"></a>
+## Các tâm hiệp thế thuộc phạm vi quán
+Miến / Burmese 11
+
+Ekāsīti lokiyacittāni. (Thanh tịnh đạo, tập 2, tr. 223.)
+“Tám mươi mốt tâm hiệp thế.” Nói như vậy để chỉ các nhóm danh pháp gồm tâm và tâm sở hiệp thế. Vì chưa chứng tâm siêu thế, cả người tu thuần minh sát lẫn người lấy thiền chỉ làm cỗ xe đều chưa thể quán các tâm ấy. Về điểm này, vị Đại sớ giải sư giải thích như sau.
+
+Sabbasaṅgāhikavasena “ekāsīti lokiyacittānī”ti vuttaṃ, lābhino eva pana mahaggatacittāni supākaṭāni honti. (Đại sớ giải, tập 2, tr. 353.)
+Nói “tám mươi mốt tâm hiệp thế” là kể chung tất cả. Các tâm đại hành chỉ hiện rõ đối với người đã chứng được chúng.
+
+Lời ấy nói rằng cả tám mươi mốt tâm hiệp thế và các pháp tương ưng có thể làm đối tượng cho tuệ minh sát, theo cách kể bao quát tất cả các tâm có thể làm đối tượng. Các tâm đại hành chỉ có thể hiện rõ trong tuệ của hành giả đã đắc thiền. (Đại sớ giải, tập 2, tr. 353.)
+
+Chỉ người đã đắc thiền mới có thể quán các tâm đại hành. Vì vậy, khi quán danh pháp, người đã đắc thiền hãy nhận diện và quán cả các danh pháp thuộc tầng thiền mình đã chứng. Người tu thuần minh sát chưa đắc thiền có thể để qua việc nhận diện và quán danh pháp của thiền. Tương tự, tốc hành duy tác chỉ có thể sinh trong dòng tương tục của các vị A-la-hán. Vì vậy, phàm nhân và các bậc hữu học khi quán sắc danh hoặc khi quán minh sát có thể…
+
+
+<a id="M04-body-P012"></a>
+## Những điều cần biết trước khi quán danh
+Miến / Burmese 12
+
+… để qua các tốc hành duy tác ấy.
+
+Tâm không thể tự sinh riêng rẽ mà không có tâm sở. Tâm sở cũng không thể tự sinh riêng rẽ mà không có tâm. Trong mỗi sát-na tâm, tâm và tâm sở chỉ sinh cùng nhau theo từng nhóm. Vì vậy, thiện hữu nên biết trước các tâm và tâm sở mình sẽ phải nhận diện và quán ở giai đoạn minh sát.
+
+Xét đại lược, tâm có hai loại: tâm trong lộ và tâm ngoài lộ (vīthimutta). Tâm ngoài lộ có ba loại: tâm tục sinh, tâm hữu phần và tâm tử. Tâm sinh đầu tiên trong một đời gọi là tâm tục sinh (paṭisandhicitta), vì nối đời trước với đời mới, các uẩn đời trước với các uẩn đời mới. Tâm sinh cuối cùng trong một đời là tâm tử (cuticitta), tức tâm hữu phần ở lúc rời đời sống đang có. Giữa tục sinh và tử, những khi không có tâm trong lộ, tâm quả cùng loại với tâm tục sinh tiếp tục sinh như yếu tố duy trì dòng các uẩn và dòng tâm quả trong suốt đời ấy, chừng nào còn sức nghiệp. Tâm ấy gọi là tâm hữu phần (bhavaṅgacitta). Hữu phần ngừng khi các tâm trong lộ sinh và lại sinh nhiều lần khi các tâm trong lộ ngừng. Suốt đời diễn ra theo cách ấy. Các danh pháp hữu phần sinh cùng tâm hữu phần thường chỉ có thể được quán sau khi đã quán các tâm trong lộ…
+
+
+<a id="M04-body-P013"></a>
+## Sáu vật và sáu môn
+Miến / Burmese 13
+
+… nhất là khi đến tuệ phân biệt nhân duyên (paccayapariggahañāṇa), phần đông hành giả mới có thể quán được. Vì vậy, hành giả muốn quán danh pháp hãy bắt đầu từ các nhóm danh pháp trong chuỗi tâm thuộc lộ. Trước khi quán các danh pháp trong lộ, nên biết những nhóm sáu pháp dưới đây.
+
+Sáu vật (vatthu), tức sắc mà danh pháp nương để sinh:
+1. Nhãn vật (cakkhuvatthu) là nhãn tịnh sắc (cakkhupasāda), sắc trong suốt ở mắt.
+2. Nhĩ vật (sotavatthu) là nhĩ tịnh sắc (sotapasāda), sắc trong suốt ở tai.
+3. Tỷ vật (ghānavatthu) là tỷ tịnh sắc (ghānapasāda), sắc trong suốt ở mũi.
+4. Thiệt vật (jivhāvatthu) là thiệt tịnh sắc (jivhāpasāda), sắc trong suốt ở lưỡi.
+5. Thân vật (kāyavatthu) là thân tịnh sắc (kāyapasāda), sắc trong suốt ở thân.
+6. Ý vật (hadayavatthu) là sắc tim (hadayarūpa), sắc mà ý giới và ý thức giới nương vào.
+
+Sáu môn (dvāra):
+1. Nhãn môn (cakkhudvāra) là nhãn tịnh sắc.
+2. Nhĩ môn (sotadvāra) là nhĩ tịnh sắc.
+3. Tỷ môn (ghānadvāra) là tỷ tịnh sắc.
+4. Thiệt môn (jivhādvāra) là thiệt tịnh sắc.
+5. Thân môn (kāyadvāra) là thân tịnh sắc.
+6. Ý môn (manodvāra) là hữu phần (bhavaṅga), tức ý trong sáng.
+
+Một lối được lắp vào nhà để người ta ra vào, có thể đóng mở, thì gọi theo nghĩa trực tiếp là cửa. Nhà không có cửa thì người ta không vào được. Cũng như cửa nhà là chỗ người ta đi vào…
+
+
+<a id="M04-body-P014"></a>
+## Sáu cảnh và sáu loại cảnh pháp
+Miến / Burmese 14
+
+… vậy, nếu không có nhãn tịnh sắc và các tịnh sắc còn lại thì các tâm trong lộ nhãn môn và các lộ tương ứng không thể sinh. Nhãn tịnh sắc và các tịnh sắc còn lại có trong thân, ví như chỗ đi vào của các tâm trong lộ tương ứng. Vì giống cửa thường lắp trong nhà, nên theo nghĩa ẩn dụ, nhãn tịnh sắc và các tịnh sắc còn lại được gọi là nhãn môn và các môn tương ứng.
+
+Sáu cảnh:
+1. Cảnh sắc (rūpārammaṇa) là màu sắc (vaṇṇa).
+2. Cảnh thinh (saddārammaṇa) là âm thanh.
+3. Cảnh mùi (gandhārammaṇa) là mùi.
+4. Cảnh vị (rasārammaṇa) là vị.
+5. Cảnh xúc (phoṭṭhabbārammaṇa) là cái xúc chạm được: địa, hỏa và phong.
+6. Cảnh pháp (dhammārammaṇa) là các pháp làm cảnh của ý.
+
+Sáu loại cảnh pháp:
+1. Sắc tịnh (pasādarūpa): năm sắc trong suốt.
+2. Sắc tế (sukhumarūpa): mười sáu sắc vi tế.
+3. Tâm (citta): sáu thức giới.
+4. Tâm sở (cetasika): năm mươi hai pháp tương ưng với tâm.
+5. Niết-bàn (Nibbāna): pháp vô vi, giới tịch tịnh.
+6. Chế định (paññatti): các loại chế định như biến xứ, tên gọi và hình dáng.
+
+Ghi chú. Nhóm mười hai sắc pháp gồm năm sắc trong suốt và bảy sắc làm cảnh…
+
+
+<a id="M04-body-P015"></a>
+## Nghĩa của cảnh và các thức giới đầu tiên
+Miến / Burmese 15
+
+… dễ hiện rõ và dễ thấy trong tuệ của hành giả khi quán. Vì thô nên chúng gọi là sắc thô (oḷārikarūpa). Trong hai mươi tám sắc, mười sáu sắc còn lại ngoài mười hai sắc thô không dễ hiện rõ trong tuệ của người đang quán. Vì vi tế nên gọi là sắc tế (sukhumarūpa).
+
+Ārammaṇa và ālambana là hai từ đồng nghĩa, chỉ cảnh. Ārammaṇa có nghĩa là chỗ thích thú. Như vườn hoa là nơi con người vui thích, sáu cảnh, bắt đầu bằng cảnh sắc, là chỗ thích thú của tâm và tâm sở, nên gọi là ārammaṇa. Còn ālambana có nghĩa là chỗ nắm lấy. Như người yếu phải nắm gậy, dây hay vật gì đó mới đứng dậy hoặc ngồi được, tâm và tâm sở cũng chỉ có thể sinh khi nương và nắm lấy một cảnh. Do vậy, sáu cảnh cũng gọi là ālambana, chỗ tâm và tâm sở nương và nắm lấy.
+
+Sáu thức giới:
+1. Nhãn thức là tâm sinh nương nhãn tịnh sắc, chỉ biết cảnh sắc.
+2. Nhĩ thức là tâm sinh nương nhĩ tịnh sắc, chỉ biết cảnh thinh.
+3. Tỷ thức là tâm sinh nương tỷ tịnh sắc, chỉ biết cảnh mùi…
+
+
+<a id="M04-body-P016"></a>
+## Các thức giới còn lại và sáu lộ tâm
+Miến / Burmese 16
+
+4. Thiệt thức là tâm sinh nương thiệt tịnh sắc, chỉ biết cảnh vị.
+5. Thân thức là tâm sinh nương thân tịnh sắc, chỉ biết cảnh xúc.
+6. Ý thức là tâm nương sắc ý vật, với hữu phần tức ý môn trong sáng làm chỗ nương cho lộ, biết sáu cảnh tùy trường hợp.
+
+Ngoài năm cặp thức ở các mục 1–5, tất cả tâm sinh nương sắc ý vật gọi là ý thức theo nghĩa dùng ở đây. Đó là những tâm biết cảnh theo nhiều cách khác nhau. Trong số các tâm ấy, trừ ba loại tâm ngoài lộ, các tâm còn lại và năm thức trên thường sinh theo trật tự nhất định của tâm, gọi là lộ (vīthi). Kể tóm lược có sáu lộ như sau.
+
+Sáu lộ theo môn:
+1. Lộ nhãn môn (cakkhudvāravīthi): chuỗi tâm sinh tại nhãn môn.
+2. Lộ nhĩ môn (sotadvāravīthi): chuỗi tâm sinh tại nhĩ môn.
+3. Lộ tỷ môn (ghānadvāravīthi): chuỗi tâm sinh tại tỷ môn.
+4. Lộ thiệt môn (jivhādvāravīthi): chuỗi tâm sinh tại thiệt môn.
+5. Lộ thân môn (kāyadvāravīthi): chuỗi tâm sinh tại thân môn.
+6. Lộ ý môn (manodvāravīthi): chuỗi tâm sinh tại ý môn.
+Đó là cách kể theo môn. Cũng có cách kể…
+
+
+<a id="M04-body-P017"></a>
+## Gọi tên lộ theo thức và thứ tự các tâm
+Miến / Burmese 17
+
+1. Lộ nhãn thức (cakkhuviññāṇavīthi): lộ được gọi tên theo nhãn thức.
+2. Lộ nhĩ thức (sotaviññāṇavīthi): lộ được gọi tên theo nhĩ thức.
+3. Lộ tỷ thức (ghānaviññāṇavīthi): lộ được gọi tên theo tỷ thức.
+4. Lộ thiệt thức (jivhāviññāṇavīthi): lộ được gọi tên theo thiệt thức.
+5. Lộ thân thức (kāyaviññāṇavīthi): lộ được gọi tên theo thân thức.
+6. Lộ ý thức (manoviññāṇavīthi): lộ được gọi tên theo ý thức.
+
+Như vậy cũng có sáu lộ kể theo thức. Khi cảnh sắc hiện ở nhãn môn, chuỗi tâm lấy cảnh sắc ấy gọi là lộ nhãn môn. Khi cảnh thinh hiện ở nhĩ môn, chuỗi tâm lấy cảnh thinh ấy gọi là lộ nhĩ môn. Pe. Khi cảnh pháp hiện ở ý môn hoặc khi một trong sáu cảnh hiện ở đó tùy trường hợp, chuỗi tâm lấy cảnh pháp hoặc một trong sáu cảnh ấy gọi là lộ ý môn. Lộ cũng được gọi tên theo thức, như sau.
+
+1. Lộ nhãn môn: hướng ngũ môn, nhãn thức, tiếp thọ, suy đạc, xác định, bảy sát-na tốc hành và hai sát-na na cảnh.
+2. Lộ nhĩ môn: hướng ngũ môn, nhĩ thức, tiếp thọ, suy đạc, xác định, bảy sát-na tốc hành và hai sát-na na cảnh.
+3. Lộ tỷ môn: hướng ngũ môn, tỷ thức, tiếp thọ, suy đạc, xác định, bảy sát-na tốc hành và hai sát-na na cảnh.
+
+
+<a id="M04-body-P018"></a>
+## Các lộ tâm và cách cảnh hiện
+Miến / Burmese 18
+
+4. Lộ thiệt môn: hướng ngũ môn, thiệt thức, tiếp thọ, suy đạc, xác định, bảy sát-na tốc hành và hai sát-na na cảnh.
+5. Lộ thân môn: hướng ngũ môn, thân thức, tiếp thọ, suy đạc, xác định, bảy sát-na tốc hành và hai sát-na na cảnh.
+6. Lộ ý môn: hướng ý môn, bảy sát-na tốc hành và hai sát-na na cảnh.
+
+Các tâm làm cho những lộ này khác nhau là các thức như nhãn thức và nhĩ thức. Các tâm như hướng ngũ môn và tiếp thọ không tạo ra sự khác biệt ấy. Do đó, dựa vào thức đặc trưng, lộ được gọi là lộ nhãn thức, v.v. Trong lộ ý môn không có một thức riêng để phân biệt như vậy, vì toàn bộ các tâm ở đó đều là ý thức. Do đó lộ ấy gọi là lộ ý thức. “Lộ” ở đây là sự sinh khởi theo thứ tự của các tâm, như hướng ngũ môn, nhãn thức, v.v., tại các môn tương ứng.
+
+Sáu cách cảnh hiện (visayappavatti).
+1. Cảnh rất lớn (atimahantārammaṇa): từ lúc cảnh hiện tại môn tương ứng đến lúc cảnh diệt, tính được rất nhiều sát-na tâm. Đây là diễn tiến có na cảnh (tadārammaṇavāra).
+2. Cảnh lớn (mahantārammaṇa): từ lúc cảnh hiện tại môn tương ứng đến lúc cảnh diệt, tính được nhiều sát-na tâm. Đây là diễn tiến có tốc hành (javanavāra).
+3. Cảnh nhỏ (parittārammaṇa): từ lúc cảnh hiện tại môn tương ứng đến lúc cảnh diệt, chỉ tính được ít sát-na tâm. Đây là diễn tiến dừng ở xác định (voṭṭhabbanavāra).
+
+
+<a id="M04-body-P019"></a>
+## Các cách cảnh hiện còn lại và đối tượng của tuệ minh sát
+Miến / Burmese 19
+
+4. Cảnh rất nhỏ (atiparittārammaṇa): từ lúc cảnh hiện tại môn tương ứng đến lúc cảnh diệt, chỉ tính được rất ít sát-na tâm. (Diễn tiến vô hiệu, moghavāra, là trường hợp lộ tâm không sinh và chỉ có hữu phần tiếp tục làm phận sự.) Bốn loại trên thuộc ngũ môn.
+5. Cảnh rõ (vibhūtārammaṇa): cảnh hiện rõ. Đây là diễn tiến có na cảnh.
+6. Cảnh không rõ (avibhūtārammaṇa): cảnh không hiện rõ. Đây là diễn tiến có tốc hành. Hai loại này thuộc ý môn.
+
+Như vậy có sáu cách cảnh hiện. Đó là những nhóm sáu pháp cần biết trước. Thiện hữu muốn thực hành đề mục danh nên biết trước các tâm thuộc sáu thức giới và các tâm sở tương ưng. Trước hết sẽ trình bày các tâm có thể sinh trong dòng tương tục của thiện hữu, tức các tâm làm đối tượng của tuệ minh sát và cần được quán, thẩm sát bằng minh sát.
+
+Các loại tâm làm đối tượng của tuệ minh sát. Đức Phật dạy bốn pháp chân đế: tâm, tâm sở, sắc và Niết-bàn. Nếu thiện hữu muốn chứng Niết-bàn, pháp chân đế thứ tư, trước hết hãy nỗ lực biết tâm, tâm sở và sắc, tức ba pháp chân đế đầu tiên, cùng pháp duyên khởi, tức mối liên hệ nhân quả qua đó tâm, tâm sở và sắc liên tục sinh khởi…
+
+
+<a id="M04-body-P020"></a>
+## Tâm và các loại tâm bất thiện
+Miến / Burmese 20
+
+… Bởi chỉ khi có thể quán minh sát một cách thành thục các tâm, tâm sở và sắc cùng các duyên của chúng, đặt chúng dưới ba đặc tướng, thì tuệ Thánh đạo và tuệ Thánh quả sinh ở cuối tiến trình minh sát đã chín muồi mới thấu triệt, thấy được Niết-bàn, pháp chân đế thứ tư. Trong các pháp chân đế ấy, tâm và tâm sở gọi là danh pháp. Bây giờ sẽ trình bày các tâm làm đối tượng của tuệ minh sát.
+
+Tâm (citta) là pháp có khả năng biết cảnh. “Biết” ở đây nghĩa là nhận lấy cảnh: “Vijānanaṃ ārammaṇassa upaladdhi.” (Mūlaṭīkā, tập 1, tr. 87.) Khi thiện hữu có thể lấy nhãn tịnh sắc làm cảnh đến mức chân đế thì nói là biết nhãn tịnh sắc. Nếu chưa thể lấy nhãn tịnh sắc làm cảnh, thì chưa thể nói là biết nhãn tịnh sắc. Hãy hiểu các trường hợp còn lại theo cách ấy.
+
+Mười hai tâm bất thiện. Có bốn loại tâm: tâm dục giới, tâm sắc giới, tâm vô sắc giới và tâm siêu thế. Trong năm mươi bốn tâm dục giới có mười hai tâm bất thiện, kể như sau.
+
+Tám tâm căn tham.
+1. Một tâm câu hữu thọ hỷ (somanassa), tương ưng tà kiến, vô trợ.
+2. Một tâm câu hữu thọ hỷ (somanassa), tương ưng tà kiến, hữu trợ.
+
+
+<a id="M04-body-P021"></a>
+## Tâm căn tham và tâm căn sân
+Miến / Burmese 21
+
+3. Một tâm câu hữu thọ xả, tương ưng tà kiến, vô trợ.
+4. Một tâm câu hữu thọ xả, tương ưng tà kiến, hữu trợ.
+5. Một tâm câu hữu thọ hỷ, ly tà kiến, vô trợ.
+6. Một tâm câu hữu thọ hỷ, ly tà kiến, hữu trợ.
+7. Một tâm câu hữu thọ xả, ly tà kiến, vô trợ.
+8. Một tâm câu hữu thọ xả, ly tà kiến, hữu trợ.
+
+Như vậy có tám tâm căn tham.
+
+Somanassasahagata: sinh cùng thọ hỷ.
+Upekkhāsahagata: sinh cùng thọ xả.
+Diṭṭhigatasampayutta: tương ưng sự chấp nhận sai lầm, tức tà kiến.
+Diṭṭhigatavippayutta: không tương ưng tà kiến.
+Sasaṅkhārika: hữu trợ, có sự thúc đẩy.
+Asaṅkhārika: vô trợ, không có sự thúc đẩy.
+
+Hai tâm căn sân
+
+1. Một tâm câu hữu ưu, tương ưng phẫn hận, vô trợ.
+2. Một tâm câu hữu ưu, tương ưng phẫn hận, hữu trợ.
+
+Domanassasahagata: sinh cùng thọ ưu, tức sự khó chịu của tâm.
+Paṭighasampayutta: tương ưng sự thô bạo, gay gắt của tâm, tức sân.
+
+
+<a id="M04-body-P022"></a>
+## Tâm căn si và tâm quả bất thiện vô nhân
+Miến / Burmese 22
+
+Hai tâm căn si
+
+1. Một tâm câu hữu xả, tương ưng hoài nghi.
+2. Một tâm câu hữu xả, tương ưng trạo cử.
+
+Vicikicchāsampayutta: tương ưng hoài nghi.
+Uddhaccasampayutta: tương ưng trạo cử, sự xao động của tâm.
+
+1. Tám tâm có tham làm căn, gọi là tâm căn tham.
+2. Hai tâm có sân làm căn, gọi là tâm căn sân.
+3. Hai tâm có si làm căn, gọi là tâm căn si.
+
+Như vậy có mười hai tâm bất thiện.
+
+Mười tám tâm vô nhân. Bảy tâm quả bất thiện
+
+1. Một nhãn thức quả bất thiện, câu hữu thọ xả.
+2. Một nhĩ thức quả bất thiện, câu hữu thọ xả.
+3. Một tỷ thức quả bất thiện, câu hữu thọ xả.
+4. Một thiệt thức quả bất thiện, câu hữu thọ xả.
+5. Một thân thức quả bất thiện, câu hữu thọ khổ.
+6. Một tâm tiếp thọ quả bất thiện, câu hữu thọ xả.
+7. Một tâm suy đạc quả bất thiện, câu hữu thọ xả.
+
+Dukkhasahagata: sinh cùng thọ khổ nơi thân.
+Sampaṭicchanacitta: tâm sinh với phận sự tiếp nhận cảnh.
+Santīraṇacitta: tâm sinh với phận sự suy đạc cảnh.
+
+
+<a id="M04-body-P023"></a>
+## Tâm quả thiện vô nhân và tâm duy tác vô nhân
+Miến / Burmese 23
+
+Bảy tâm ấy là quả của nghiệp bất thiện quá khứ. Chúng sinh trong dòng tương tục của thiện hữu khi gặp cảnh bất khả ái, không đáng ưa. Chớ quên rằng việc gặp các cảnh bất khả ái khác nhau trong đời này là do nghiệp bất thiện quá khứ. Đây là một lời nhắc nhở.
+
+Tám tâm quả thiện vô nhân
+
+1. Một nhãn thức quả thiện vô nhân, câu hữu thọ xả.
+2. Một nhĩ thức quả thiện vô nhân, câu hữu thọ xả.
+3. Một tỷ thức quả thiện vô nhân, câu hữu thọ xả.
+4. Một thiệt thức quả thiện vô nhân, câu hữu thọ xả.
+5. Một thân thức quả thiện vô nhân, câu hữu thọ lạc.
+6. Một tâm tiếp thọ quả thiện vô nhân, câu hữu thọ xả.
+7. Một tâm suy đạc quả thiện vô nhân, câu hữu thọ hỷ.
+8. Một tâm suy đạc quả thiện vô nhân, câu hữu thọ xả.
+
+Tám tâm ấy là quả của nghiệp thiện quá khứ. Chúng sinh trong dòng tương tục của thiện hữu do nghiệp thiện quá khứ khi gặp cảnh khả ái.
+Sukhasahagata: sinh cùng thọ lạc nơi thân.
+
+Ba tâm duy tác vô nhân
+
+1. Một tâm hướng ngũ môn câu hữu xả.
+2. Một tâm hướng ý môn câu hữu xả.
+3. Một tâm sinh tiếu câu hữu hỷ.
+
+
+<a id="M04-body-P024"></a>
+## Mười tám tâm vô nhân và các tâm dục giới tịnh hảo
+Miến / Burmese 24
+
+Hướng ngũ môn (pañcadvārāvajjana): tâm hướng đến cảnh hiện ở một trong năm môn.
+Hướng ý môn (manodvārāvajjana): tâm hướng đến cảnh hiện ở ý môn.
+Tâm sinh tiếu (hasituppādacitta): tâm làm phát sinh nụ cười trong dòng tương tục của các vị A-la-hán.
+
+Ba tâm này chỉ làm việc hướng đến cảnh khi môn gặp cảnh, hoặc làm phát sinh nụ cười. Chúng không có sức làm phát sinh quả nào, nên gọi là tâm duy tác (kiriyacitta).
+
+1. Bảy tâm quả bất thiện.
+2. Tám tâm quả thiện vô nhân.
+3. Ba tâm duy tác vô nhân.
+
+Mười tám tâm này không tương ưng bất kỳ nhân nào trong sáu nhân tham, sân, si, vô tham, vô sân và vô si, nên gọi là tâm vô nhân. Các tâm còn lại ngoài tâm bất thiện và tâm vô nhân là những tâm tốt đẹp, nên gọi là tâm tịnh hảo (sobhanacitta). Có năm mươi chín tâm tịnh hảo theo cách kể gọn và chín mươi mốt theo cách kể rộng.
+
+Hai mươi bốn tâm dục giới tịnh hảo. Tám tâm đại thiện
+
+1. Một tâm câu hữu thọ hỷ, tương ưng trí, vô trợ.
+2. Một tâm câu hữu thọ hỷ, tương ưng trí, hữu trợ.
+3. Một tâm câu hữu thọ xả, tương ưng trí, vô trợ.
+
+
+<a id="M04-body-P025"></a>
+## Tâm đại thiện và tâm đại quả
+Miến / Burmese 25
+
+4. Một tâm câu hữu thọ xả, tương ưng trí, hữu trợ.
+5. Một tâm câu hữu thọ hỷ, ly trí, vô trợ.
+6. Một tâm câu hữu thọ hỷ, ly trí, hữu trợ.
+7. Một tâm câu hữu thọ xả, ly trí, vô trợ.
+8. Một tâm câu hữu thọ xả, ly trí, hữu trợ.
+
+Tám tâm ấy là tâm thiện dục giới. Nói chung, chúng có khả năng sinh quả tốt ở mười một cõi dục. Trong dòng tương tục của thiện hữu còn là phàm nhân, các tâm tu tập thiền chỉ đạt đến cận định, cũng như các tâm tu tập minh sát trước và sau Thánh đạo, đều thuộc những tâm thiện dục giới ấy. Phạm vi của chúng rộng nên cũng gọi là tâm đại thiện.
+
+Tám tâm đại quả
+
+1. Một tâm câu hữu thọ hỷ, tương ưng trí, vô trợ.
+
+Pe.
+8. Một tâm câu hữu thọ xả, ly trí, hữu trợ.
+
+Chúng tương tự tám tâm đại thiện, chỉ khác tính chất thiện và quả. Tám tâm đại quả là quả của nghiệp đại thiện. Một trong tám loại đảm nhiệm tục sinh, hữu phần và tử trong dòng tương tục của hành giả phàm nhân tam nhân hoặc nhị nhân. Trong đời sống, khi gặp các cảnh dục khác nhau, cả tám có thể đảm nhiệm phận sự na cảnh, tiếp tục lấy cùng cảnh sau các tốc hành dục giới, và…
+
+
+<a id="M04-body-P026"></a>
+## Tâm đại duy tác và tổng số tâm dục giới
+Miến / Burmese 26
+
+… sinh tùy trường hợp trong dòng tương tục của chúng sinh cõi dục. Cảnh dục ở đây là các tâm và tâm sở dục giới cùng hai mươi tám sắc, những cảnh khả ái và tốt đẹp.
+
+Tám tâm đại duy tác
+
+1. Một tâm câu hữu thọ hỷ, tương ưng trí, vô trợ.
+
+Pe.
+8. Một tâm câu hữu thọ xả, ly trí, hữu trợ.
+
+Các tâm đại duy tác cũng có tám loại như các tâm đại thiện. Đó là những tâm của các vị A-la-hán khi bố thí, trì giới, tu tập thiền chỉ và minh sát. Ở đây thiền chỉ chỉ đến cận định. Các tâm thực hành bố thí, trì giới, thiền chỉ, minh sát ấy của các vị A-la-hán không có sức sinh quả, nên gọi là duy tác, chỉ làm phận sự.
+
+Tám đại thiện, tám đại quả và tám đại duy tác cộng lại thành hai mươi bốn tâm dục giới tịnh hảo, thường vận hành và sinh trong cõi dục.
+
+Mười hai tâm bất thiện, mười tám tâm vô nhân và hai mươi bốn tâm dục giới tịnh hảo. Tổng cộng năm mươi bốn. Vì phần nhiều sinh trong mười một cõi dục nên gọi là tâm dục giới. Danh pháp dục giới gồm năm mươi bốn tâm ấy…
+
+
+<a id="M04-body-P027"></a>
+## Tâm dục giới làm cảnh minh sát và năm tâm thiện sắc giới
+Miến / Burmese 27
+
+… và năm mươi hai tâm sở tương ưng tùy trường hợp. Nếu thiện hữu là phàm nhân tam nhân, các tâm dục giới có thể sinh trong dòng tương tục và làm đối tượng cho tuệ minh sát của mình là:
+
+1. Mười hai tâm bất thiện.
+2. Mười bảy tâm vô nhân, trừ tâm sinh tiếu.
+3. Tám tâm đại thiện.
+4. Tám tâm đại quả.
+
+Tổng cộng bốn mươi lăm tâm.
+
+Mười lăm tâm sắc giới. Năm tâm thiện
+
+1. Tâm thiện sơ thiền sinh cùng 5 thiền chi: tầm, tứ, hỷ, lạc, nhất tâm.
+2. Tâm thiện nhị thiền sinh cùng 4 thiền chi: tứ, hỷ, lạc, nhất tâm.
+3. Tâm thiện tam thiền sinh cùng 3 thiền chi: hỷ, lạc, nhất tâm.
+4. Tâm thiện tứ thiền sinh cùng 2 thiền chi: lạc, nhất tâm.
+5. Tâm thiện ngũ thiền sinh cùng 2 thiền chi: xả, nhất tâm.
+
+
+<a id="M04-body-P028"></a>
+## Tâm sắc giới và các tâm thiện vô sắc giới
+Miến / Burmese 28
+
+Như vậy có năm tâm thiện sắc giới theo cách chia năm thiền. Quả của chúng cũng có năm tâm quả sắc giới. Các tâm quả ấy chỉ sinh ở cõi sắc giới tương ứng trong dòng tương tục của các vị Phạm thiên, làm phận sự tục sinh, hữu phần và tử. Cũng vậy, nếu các vị A-la-hán đắc các thiền sắc giới, những tâm thiền ấy gọi là duy tác vì không có sức sinh quả. Có năm tâm duy tác sắc giới. Tất cả là mười lăm tâm sắc giới.
+
+Nếu thiện hữu đắc một thiền thiện sắc giới thì thiền ấy thuộc các đối tượng của tuệ minh sát của mình. Nếu đã đắc đủ bốn thiền sắc giới theo cách chia bốn, hoặc cả năm theo cách chia năm, thì tất cả đều thuộc các đối tượng của tuệ minh sát của mình.
+
+Mười hai tâm vô sắc giới. Bốn tâm thiện
+
+1. Tâm thiện Không vô biên xứ (ākāsānañcāyatana) lấy chế định hư không không có giới hạn làm cảnh.
+2. Tâm thiện Thức vô biên xứ (viññāṇañcāyatana) lấy thức thuộc Không vô biên xứ làm cảnh.
+3. Tâm thiện Vô sở hữu xứ (ākiñcaññāyatana) lấy…
+
+
+<a id="M04-body-P029"></a>
+## Tâm vô sắc giới và phạm vi quán của người đắc thiền
+Miến / Burmese 29
+
+… sự vắng mặt của thức thuộc Không vô biên xứ, tức chế định không có (natthibhāvapaññatti), làm cảnh.
+
+4. Tâm thiện Phi tưởng phi phi tưởng xứ (nevasaññānāsaññāyatana): không thể nói là có tưởng hay không có tưởng. Không có tưởng rõ và thô, chỉ có tưởng hết sức vi tế.
+
+Có bốn tâm thiện vô sắc giới. Quả của chúng cũng có bốn loại, chỉ có thể sinh trong dòng tương tục của các vị Phạm thiên ở những cõi vô sắc tương ứng. Nếu các vị A-la-hán cũng đắc các thiền vô sắc, những tâm ấy gọi là duy tác vì không có sức sinh quả. Tám tâm thiện và quả vô sắc giới cộng với bốn tâm duy tác vô sắc giới thành mười hai. Nếu thiện hữu đắc các thiền vô sắc thì cả bốn thiền ấy cũng thuộc các đối tượng của tuệ minh sát của mình. Vì vậy, số tâm tối đa có thể sinh trong dòng tương tục và làm cảnh cho tuệ minh sát của thiện hữu đã đắc thiền là:
+
+1. Bốn mươi lăm tâm dục giới.
+2. Năm tâm thiện thiền sắc giới theo cách chia năm.
+3. Bốn tâm thiện thiền vô sắc giới.
+
+Tổng cộng năm mươi bốn tâm. Đây là các tâm mà phàm nhân và bậc hữu học ở cõi dục đã đắc thiền dùng tuệ minh sát để…
+
+
+<a id="M04-body-P030"></a>
+## Tám mươi mốt tâm hiệp thế và tám tâm siêu thế
+Miến / Burmese 30
+
+… quán, tức các pháp làm cảnh cho tuệ minh sát.
+
+Kể bao quát đối với tất cả phàm nhân, bậc hữu học và bậc vô học ở ba cõi dục, sắc và vô sắc, có tám mươi mốt tâm hiệp thế làm cảnh cho tuệ minh sát. Gồm năm mươi bốn tâm dục giới, mười lăm tâm sắc giới và mười hai tâm vô sắc giới. Vì chúng thường vận hành và sinh trong thế gian gồm ba mươi mốt cõi, nên gọi là tâm hiệp thế.
+
+Tám tâm siêu thế theo cách kể gọn. Bốn tâm Thánh đạo
+
+1. Tâm đạo Nhập lưu.
+2. Tâm đạo Nhất lai.
+3. Tâm đạo Bất lai.
+4. Tâm đạo A-la-hán.
+
+Như vậy có bốn tâm đạo.
+
+Bốn tâm Thánh quả
+
+1. Tâm quả Nhập lưu.
+2. Tâm quả Nhất lai.
+3. Tâm quả Bất lai.
+4. Tâm quả A-la-hán.
+
+Như vậy có bốn tâm quả. Chúng là tâm quả của các Thánh đạo tương ứng.
+
+
+<a id="M04-body-P031"></a>
+## Tâm đạo, tâm quả và các thiền chi
+Miến / Burmese 31
+
+Sau khi quán danh pháp hiệp thế, tức tâm và tâm sở có thể sinh trong dòng tương tục của mình, và các sắc pháp đã trình bày ở phần đề mục sắc, hãy tìm các duyên của danh sắc. Khi quán minh sát thật thành thục danh sắc cùng các duyên theo ba đặc tướng, ở cuối tiến trình tuệ minh sát, tuệ Thánh đạo và tuệ Thánh quả ấy sẽ sinh.
+
+Nếu quán minh sát danh pháp dục giới hoặc sắc pháp mà đạt Thánh đạo, Thánh đạo và Thánh quả ấy tương ưng sơ thiền. (Chú giải Abhidhamma, tập 1, tr. 272–273.)
+
+Lokuttaramaggo hi appanaṃ appatto nāma natthi, tasmā rūpaṃ sammasitvā vuṭṭhitassa aṭṭhaṅgiko somanassasahagatamaggo hoti. (Chú giải Abhidhamma, tập 1, tr. 274.)
+Thánh đạo siêu thế luôn đạt an chỉ. Vì vậy, khi xuất khởi sau khi quán sắc, đạo có tám chi và câu hữu thọ hỷ.
+
+Vì vậy, khi quán danh dục giới hoặc sắc mà đạt Thánh đạo thì có tám đạo chi, bảy giác chi và năm thiền chi. Các thiền chi ấy thuộc thiền siêu thế. Đó gọi là Thánh đạo siêu thế tương ưng sơ thiền.
+
+Bốn mươi tâm siêu thế theo cách kể rộng
+
+1. Nếu quán minh sát danh pháp sơ thiền mà đạt Thánh đạo, Thánh đạo và Thánh quả ấy tương ưng sơ thiền.
+
+
+<a id="M04-body-P032"></a>
+## Bốn mươi tâm siêu thế
+Miến / Burmese 32
+
+2. Nếu quán minh sát danh pháp nhị thiền mà đạt Thánh đạo, Thánh đạo và Thánh quả ấy tương ưng nhị thiền.
+3. Nếu quán minh sát danh pháp tam thiền mà đạt Thánh đạo, Thánh đạo và Thánh quả ấy tương ưng tam thiền.
+4. Nếu quán minh sát danh pháp tứ thiền mà đạt Thánh đạo, Thánh đạo và Thánh quả ấy tương ưng tứ thiền.
+5. Nếu quán minh sát danh pháp ngũ thiền mà đạt Thánh đạo, Thánh đạo và Thánh quả ấy tương ưng ngũ thiền.
+
+Còn nếu đạt Thánh đạo khi quán danh dục giới hoặc sắc pháp, thì Thánh đạo và Thánh quả tương ưng sơ thiền. Vì vậy:
+
+1. Năm tâm Thánh đạo Nhập lưu, năm tâm Thánh quả Nhập lưu.
+2. Năm tâm Thánh đạo Nhất lai, năm tâm Thánh quả Nhất lai.
+3. Năm tâm Thánh đạo Bất lai, năm tâm Thánh quả Bất lai.
+4. Năm tâm Thánh đạo A-la-hán, năm tâm Thánh quả A-la-hán.
+
+Tổng cộng bốn mươi tâm siêu thế theo cách kể rộng. Theo cách kể gọn, tám mươi mốt tâm hiệp thế cộng tám tâm siêu thế thành tám mươi chín, tức gần chín mươi. Theo cách kể rộng, tám mươi mốt cộng bốn mươi thành một trăm hai mươi mốt tâm, theo cách chia năm thiền.
+
+
+<a id="M04-body-P033"></a>
+## Phần 2. Những điều cần biết về tâm sở
+Miến / Burmese 33
+
+Xét theo đặc tính biết cảnh, nhận lấy cảnh, tâm chỉ có một loại. Tuy nhiên, vì các tâm sở sinh cùng tâm trong mỗi sát-na khác nhau, nên tâm cũng được chia thành nhiều loại. Tâm không thể sinh riêng khi thiếu tâm sở, tâm sở cũng không thể sinh riêng khi thiếu tâm. Trong mỗi sát-na, tâm và tâm sở luôn sinh cùng nhau theo nhóm. Vị Đại sớ giải sư Thanh tịnh đạo gọi nhóm danh pháp gồm tâm và tâm sở cùng sinh trong một sát-na là nhóm vô sắc (arūpakalāpa), tức nhóm danh (nāmakalāpa). (Đại sớ giải, tập 2, tr. 235.)
+
+Bốn đặc điểm của tâm sở tương ưng với tâm
+
+1. Ekuppāda: đồng sinh, tức sinh cùng tâm.
+2. Ekanirodha: đồng diệt, tức diệt cùng tâm.
+3. Ekārammaṇa: đồng cảnh, tức lấy cùng cảnh với tâm.
+
+
+<a id="M04-body-P034"></a>
+## Năm mươi hai tâm sở và các tâm sở biến hành
+Miến / Burmese 34
+
+4. Ekavatthuka: đồng vật, tức cùng vật nương với tâm.
+
+Như vậy có bốn đặc điểm tương ưng của tâm sở. Khi tâm sở tương ưng với tâm ở cõi dục hoặc cõi sắc, cả bốn đặc điểm đều đầy đủ. Ở cõi vô sắc thì không có đặc điểm đồng vật, vì không có sắc làm vật nương. Có năm mươi hai tâm sở.
+
+1. Bảy tâm sở biến hành (sabbacittasādhāraṇa), chung cho mọi tâm.
+2. Sáu tâm sở biệt cảnh (pakiṇṇaka), chỉ tương ưng trong một số trường hợp.
+3. Mười bốn tâm sở bất thiện, tương ưng với các tâm bất thiện.
+4. Hai mươi lăm tâm sở tịnh hảo, tương ưng với các tâm tịnh hảo.
+
+Tổng cộng năm mươi hai tâm sở.
+
+Bảy tâm sở biến hành: các tâm sở tương ưng với mọi tâm
+
+1. Xúc (phassa): có đặc tính chạm cảnh, có phận sự nối cảnh với tâm biết.
+2. Thọ (vedanā): cảm nhận vị của cảnh.
+
+
+<a id="M04-body-P035"></a>
+## Bảy tâm sở biến hành, tiếp theo
+Miến / Burmese 35
+
+3. Tưởng (saññā): ghi dấu cảnh.
+4. Tư (cetanā): dẫn dắt, thúc đẩy tâm và tâm sở tương ưng hướng đến cảnh.
+5. Nhất tâm (ekaggatā): tâm quy tụ trên một cảnh, đứng vững và giữ cho các pháp tương ưng khỏi tản mát.
+6. Mạng quyền (jīvita): bảo hộ tâm và tâm sở tương ưng, tức mạng sống của danh pháp.
+7. Tác ý (manasikāra): hướng dẫn và đẩy các pháp tương ưng về phía cảnh, đưa cảnh vào tâm.
+
+Ghi chú. Các tâm và tâm sở tương ưng trong một sát-na gọi là các pháp tương ưng (sampayuttadhamma). Tâm sở nhất tâm, tùy trường hợp và tùy sức an trú của tâm, còn được gọi là định quyền, định lực, định giác chi, chánh định, cận định, an chỉ định, v.v. Cũng cần lưu ý về tâm sở thọ. Thọ là tâm sở biến hành, tương ưng với từng tâm. Suốt thời gian có tâm thì luôn có thọ. Thọ có thể là lạc, khổ, hỷ, ưu hoặc xả. Một tâm không có thọ, không tương ưng thọ…
+
+
+<a id="M04-body-P036"></a>
+## Sáu tâm sở biệt cảnh
+Miến / Burmese 36
+
+… không thể có theo Phật pháp. Thọ diệt. Quan niệm cho rằng thọ diệt nhưng tâm biết không diệt không phải quan điểm của Phật pháp.
+
+Sáu tâm sở biệt cảnh (pakiṇṇaka), tức các tâm sở tương ưng tùy trường hợp
+
+1. Tầm (vitakka): đặt tâm và các pháp tương ưng lên cảnh, tức hướng tâm đến cảnh.
+2. Tứ (vicāra): xem xét, suy xét cảnh nhiều lần, tiếp tục nắm lấy cảnh.
+3. Thắng giải (adhimokkha): quyết định đối với cảnh.
+4. Tinh tấn (viriya): nỗ lực, gắng sức, có sức tiến lên.
+
+Tinh tấn là nỗ lực để tâm và các tâm sở tương ưng sinh trên một cảnh. Về mặt bất thiện có nỗ lực làm sinh tham, sân, si, v.v. Về mặt thiện có nỗ lực làm sinh vô tham, vô sân, vô si, v.v. Trong phần định có nỗ lực làm sinh định. Trong phần minh sát có nỗ lực biết bốn đại, biết sắc, biết danh, biết các duyên và biết đặc tướng vô thường, khổ, vô ngã của danh sắc cùng các duyên ấy.
+
+5. Hỷ (pīti): vui thích với cảnh.
+
+
+<a id="M04-body-P037"></a>
+## Dục và sự khác nhau giữa tầm, tư và tác ý
+Miến / Burmese 37
+
+6. Dục (chanda): mong muốn cảnh, muốn làm đối với cảnh.
+
+Tùy trường hợp, hãy hiểu đó là muốn tham, sân, si, vô tham, vô sân, vô si, định hay tuệ đối với một cảnh. Muốn thấy, nghe, ngửi, nếm, xúc chạm hoặc biết cũng là muốn làm đối với cảnh.
+
+Sáu tâm sở này chỉ tương ưng với một số tâm. Vì chúng chỉ đi kèm thỉnh thoảng, cái này hay cái kia tùy lúc, nên gọi là tâm sở biệt cảnh. Bảy tâm sở biến hành và sáu tâm sở biệt cảnh cộng lại thành mười ba tâm sở đồng tha (aññasamāna). Chúng tương ưng tùy trường hợp với tâm bất thiện và vô nhân, gọi là tâm không tịnh hảo, cũng như với năm mươi chín tâm tịnh hảo theo cách kể gọn hoặc chín mươi mốt theo cách kể rộng. Vì vậy chúng chung cho cả hai phía thiện và bất thiện.
+
+Tầm, tư và tác ý
+
+Tầm đặt các pháp tương ưng lên cảnh. Tư kết hợp với cảnh các pháp tương ưng đã được tầm đặt lên. Tác ý thì…
+
+
+<a id="M04-body-P038"></a>
+## Bốn tâm sở bất thiện biến hành và nhóm tham
+Miến / Burmese 38
+
+… đưa các pháp tương ưng đến thẳng cảnh, hướng chúng về phía cảnh.
+
+Mười bốn tâm sở bất thiện. Bốn tâm sở bất thiện biến hành
+
+1. Si (moha): không biết bản chất thật của cảnh, biết cảnh sai lầm.
+2. Vô tàm (ahirika): không hổ thẹn về ác hạnh hay các pháp bất thiện như tham, sân và si.
+3. Vô quý (anottappa): không e sợ ác hạnh hay các pháp bất thiện như tham, sân và si.
+4. Trạo cử (uddhacca): tâm không yên, tán động trên cảnh.
+
+Vì bốn tâm sở này luôn tương ưng với từng tâm bất thiện nên gọi là tâm sở bất thiện biến hành.
+
+Ba tâm sở thuộc nhóm tham
+
+5. Tham (lobha): chấp cảnh là “của tôi”, ham muốn và dính mắc vào cảnh.
+6. Tà kiến (diṭṭhi): chấp và tin cảnh là thường, lạc, ngã và tịnh. Đó là quan điểm sai, sự chấp nhận sai.
+
+
+<a id="M04-body-P039"></a>
+## Ngã mạn và vô minh
+Miến / Burmese 39
+
+7. Mạn (māna): tâm tự cao “ta, ta”, kiêu căng, muốn hơn người.
+
+Giải thích thêm
+
+Paramatthato avijjamānesu itthipurisādīsu javati, vijjamānesupi khandhādīsu na javatīti avijjā. (Chú giải Abhidhamma, tập 2, tr. 127; Thanh tịnh đạo, tập 2, tr. 157.)
+Vô minh chạy theo những gì không hiện hữu theo chân đế, như đàn bà, đàn ông, nhưng không hướng đến những gì hiện hữu, như các uẩn.
+
+Si cũng gọi là vô minh. Khi có thể dùng chánh kiến minh sát phân tích thế giới hữu tình và vô tình trong ba mươi mốt cõi đến mức chân đế, hành giả biết rằng:
+
+1. Chỉ có các nhóm sắc pháp.
+2. Chỉ có các nhóm danh pháp.
+3. Chỉ có các nhóm danh và sắc, tức năm uẩn, mười hai xứ hoặc mười tám giới. Sự biết ấy đúng, gọi là tuệ phân biệt danh sắc.
+4. Chỉ có các nhóm pháp nhân và pháp quả. Sự biết ấy cũng đúng, gọi là tuệ phân biệt nhân duyên.
+
+Sắc, danh, nhân và quả ấy gọi là các pháp hữu vi. Chúng đều vô thường vì sinh rồi diệt, đều là khổ vì luôn bị sự sinh diệt bức bách. Chúng đều vô ngã, vì chẳng có tự ngã bền chắc, không hư hoại, có thể tồn tại như một lõi cứng…
+
+
+<a id="M04-body-P040"></a>
+## Biết đúng và biết sai
+Miến / Burmese 40
+
+… Chúng cũng chỉ là các pháp bất tịnh, đáng nhàm chán. Vì vậy, biết các pháp hữu vi ấy chỉ là vô thường, khổ, vô ngã và bất tịnh thì sự biết ấy là đúng. Đó là các tuệ minh sát.
+
+Nếu biết các vật hữu tình và vô tình trong ba mươi mốt cõi là các nhóm sắc, các nhóm danh, các nhóm danh sắc, tức năm uẩn, mười hai xứ hay mười tám giới, hoặc là các nhóm nhân quả, hoặc là các nhóm pháp vô thường, khổ, vô ngã và bất tịnh, thì sự biết ấy là biết đúng, là chánh kiến hay minh.
+
+Nếu không biết theo thực tánh mà biết là đàn ông, đàn bà, người, chúng sinh, chư thiên hay Phạm thiên, hoặc là sinh mạng, linh hồn, thức hay tự ngã, hoặc là vàng, bạc, cây, nước, đất, rừng hay núi, hoặc trái lại cho các vật hữu tình và vô tình ấy là thường, lạc, ngã và tịnh, thì sự biết sai ấy gọi là vô minh hay si.
+
+Để hiểu rõ hơn sự khác nhau giữa vô minh, tức si, và tà kiến, sẽ trình bày hai loại chấp ngã cần biết trong phương pháp minh sát.
+
+
+<a id="M04-body-P041"></a>
+## Hai loại chấp ngã
+Miến / Burmese 41
+
+Xét đại lược, có hai loại chấp ngã: chấp ngã theo cách gọi quy ước của thế gian (lokavohāra), và chấp ngã theo tà kiến mà những người chủ trương tà kiến ngoài giáo pháp đặt ra. (Sớ giải Trung bộ, tập 1, tr. 365–366.)
+
+1. Chấp ngã theo quy ước thế gian: chấp các vật hữu tình là đàn ông, đàn bà, người, chúng sinh, chư thiên, Phạm thiên, trâu, bò, thú vật, v.v., và các vật vô tình là vàng, bạc, ruộng, vườn, nhà, cây, nước, đất, rừng, núi, v.v.
+
+Khi có thể quán danh sắc bên ngoài, hãy hướng tuệ minh sát đến thế giới hữu tình bên ngoài. Tự mình sẽ thấy bằng chánh kiến rằng những gì gọi là chúng sinh bên ngoài chỉ là các nhóm sắc, danh, danh sắc, nhân, quả, vô thường, khổ, vô ngã và bất tịnh.
+
+Lại hướng tuệ minh sát đến thế giới vô tình bên ngoài. Dùng tuệ soi bốn đại trong các vật vô tình ấy, như vàng và bạc. Khi thấy những hạt nhóm sắc, sẽ thấy chúng chỉ là sắc do thời tiết sinh nối tiếp, do hỏa đại, tức thời tiết, trong từng nhóm sắc. Nếu có âm thanh thì đó là các nhóm chín sắc có âm thanh do thời tiết sinh. Do đó, nếu biết các vật vô tình là những nhóm sắc do thời tiết sinh, hoặc khi có âm thanh…
+
+
+<a id="M04-body-P042"></a>
+## Chấp theo quy ước và chấp theo tà kiến
+Miến / Burmese 42
+
+… là các nhóm chín sắc có âm thanh do thời tiết sinh, thì sự biết ấy đúng. Nếu biết là vàng, bạc, v.v., thì sự biết ấy sai. Đó là vô minh, là si.
+
+Nếu không biết chúng sinh hữu tình là những nhóm sắc, danh, nhân và quả, tức các pháp hữu vi, hay là các nhóm vô thường, khổ, vô ngã và bất tịnh, mà biết là đàn ông, đàn bà, người, chúng sinh, chư thiên, Phạm thiên, v.v., thì sự biết ấy sai, là vô minh hay si. Nếu lại chấp và tin rằng đàn ông, đàn bà, người, chúng sinh, chư thiên và Phạm thiên thực sự tồn tại đúng như cách gọi, thì niềm tin, sự chấp thủ và sự chấp nhận sai ấy là chấp ngã theo quy ước thế gian, tức tà kiến.
+
+Cũng vậy, không biết vật vô tình là các nhóm sắc mà biết là vàng, bạc, kim cương hay đá quý là biết sai, tức vô minh. Nếu chấp, tin và chấp nhận rằng vàng, bạc, kim cương và đá quý thực sự tồn tại đúng như cách gọi của thế gian, thì đó là chấp ngã theo quy ước thế gian, tức sự chấp nhận sai và tà kiến.
+
+2. Tà kiến về tự ngã (attadiṭṭhi). Xét đại lược, có hai loại: (a) kiến chấp tự ngã tối cao (paramattadiṭṭhi); (b) kiến chấp tự ngã sinh mạng (jīvattadiṭṭhi).
+
+(a) Tự ngã tối cao: chấp có một tự ngã sáng tạo thế giới cùng mọi chúng sinh…
+
+
+<a id="M04-body-P043"></a>
+## Phân biệt si với tà kiến và nhóm sân
+Miến / Burmese 43
+
+… là chấp có tự ngã tối cao, tức kiến chấp tự ngã tối cao.
+(b) Kiến chấp tự ngã sinh mạng: tin và chấp rằng trong dòng tương tục của từng chúng sinh có một sinh mạng, linh hồn, thức hay tự ngã thường tồn.
+
+Biết sai rằng có tự ngã tối cao hay tự ngã sinh mạng là vô minh, tức si. Chấp, tin và chấp nhận sai rằng các tự ngã ấy thực sự tồn tại là kiến chấp tự ngã, tức tà kiến.
+
+Phân biệt si và tà kiến theo cách tóm lược
+
+Si là biết sai các vật hữu tình và vô tình trong ba mươi mốt cõi là thường, lạc, ngã và tịnh. Tà kiến là tin và chấp nhận sai rằng chúng thường, lạc, ngã và tịnh. Sự biết sai ấy là si. Quan điểm sai ấy là tà kiến.
+
+Bốn tâm sở thuộc nhóm sân
+
+8. Sân (dosa): tâm thô bạo, gay gắt, muốn phá hủy.
+9. Tật đố (issā): ganh ghét của cải, danh dự, hạnh phúc của người khác, muốn riêng mình hơn người.
+10. Xan tham (macchariya): che giấu của cải của mình, không chịu chia sẻ cho người, tâm hẹp hòi.
+
+
+<a id="M04-body-P044"></a>
+## Hối quá, hôn trầm, thụy miên và hoài nghi
+Miến / Burmese 44
+
+11. Hối quá (kukkucca): về sau nóng lòng vì đã làm việc xấu, bất thiện, ác hạnh, hoặc vì đã bỏ qua việc tốt, thiện, thiện hạnh.
+
+Hai tâm sở thuộc nhóm hữu trợ
+
+12. Hôn trầm (thīna): tâm trì trệ, không tươi tỉnh, không linh hoạt.
+13. Thụy miên (middha): các tâm sở tương ưng trì trệ, không tươi tỉnh, không linh hoạt.
+
+Một tâm sở thuộc nhóm si
+
+14. Hoài nghi (vicikicchā), tức do dự về:
+1. Đức Phật Chánh Đẳng Giác chân thật.
+2. Pháp chân thật của Đức Phật Chánh Đẳng Giác.
+3. Tăng chúng Thánh đệ tử chân thật của Đức Phật Chánh Đẳng Giác.
+4. Ba học là giới học, định học và tuệ học.
+5. Đời quá khứ, tức các uẩn quá khứ, được gọi là đầu trước của luân hồi.
+6. Đời vị lai, tức các uẩn vị lai, được gọi là đầu sau của luân hồi.
+7. Cả đời quá khứ lẫn đời vị lai, tức hai đầu của luân hồi…
+
+
+<a id="M04-body-P045"></a>
+## Hoài nghi và các tâm sở tịnh hảo
+Miến / Burmese 45
+
+… tức cả các uẩn quá khứ lẫn vị lai.
+8. Mối liên hệ nhân quả, tức pháp duyên khởi.
+Hoài nghi là sự nghi ngờ về tám đối tượng này. (Abhidhamma, tập 1, tr. 208.)
+
+Ghi chú. Nghi ngờ nghiệp và quả của nghiệp cũng thuộc nghi ngờ mối liên hệ nhân quả, tức pháp duyên khởi.
+
+Hai mươi lăm tâm sở tịnh hảo
+
+(a) Mười chín tâm sở tịnh hảo biến hành, chung cho mọi tâm tịnh hảo.
+(b) Ba tâm sở tiết chế.
+(c) Hai tâm sở vô lượng.
+(d) Một tâm sở tuệ quyền.
+Tổng cộng hai mươi lăm.
+
+Mười chín tâm sở tịnh hảo biến hành
+
+1. Tín (saddhā): tin và trong sáng đối với tám đối tượng nêu ở mục hoài nghi, tức có lòng tin, có sự xác tín. Ghi chú. Ở đây ghi chung. Tùy trường hợp cần phân biệt như sau:
+1. Khi lấy ân đức Phật làm cảnh, tin ân đức Phật.
+2. Khi lấy ân đức Pháp làm cảnh, tin ân đức Pháp.
+
+
+<a id="M04-body-P046"></a>
+## Tín, niệm, tàm, quý và vô tham
+Miến / Burmese 46
+
+3. Khi lấy ân đức Tăng làm cảnh, tin ân đức Tăng.
+4. Trong phần giới, tin giới học. Trong phần định, tin thiền định học. Trong phần tuệ, tin tuệ học thấu rõ thực tánh danh sắc chân đế, và tin sự tu học để thấu triệt bốn sự thật.
+5. Khi quán quá khứ, tin các uẩn quá khứ.
+6. Khi quán vị lai, tin các uẩn vị lai.
+7. Khi quán cả quá khứ và vị lai, tin cả các uẩn quá khứ lẫn vị lai.
+8. Khi quán mối liên hệ nhân quả, tức duyên khởi, tin thực tánh của mối liên hệ nhân quả ấy.
+
+Hãy hiểu các loại lòng tin khác nhau tùy đối tượng được quán như vậy.
+
+2. Niệm (sati): đối với cảnh làm chỗ đặt niệm, như bốn niệm xứ, giữ cho các pháp tương ưng không nổi như quả bầu mà chìm sâu như viên đá. Tâm đứng vững trên cảnh, không quên mất cảnh.
+3. Tàm (hiri): hổ thẹn về việc bất thiện và ác hạnh.
+4. Quý (ottappa): e sợ việc bất thiện và ác hạnh.
+5. Vô tham (alobha): tâm không dính mắc, không ham muốn cảnh hiệp thế…
+
+
+<a id="M04-body-P047"></a>
+## Các tâm sở tịnh hảo biến hành, tiếp theo
+Miến / Burmese 47
+
+… không chấp là “của tôi”.
+
+6. Vô sân (adosa): tâm không gay gắt hay thô bạo đối với cảnh, không muốn phá hủy.
+7. Trung hòa (tatramajjhattatā): giữ tâm quân bình trên cảnh, không để rơi vào tự cao hoặc co rút do hôn trầm, thụy miên, không để tâm và tâm sở quá mức hay thiếu sức trong phận sự, quán cảnh một cách quân bình.
+8. Tịnh thân (kāyapassaddhi): sự lắng dịu của các tâm sở.
+9. Tịnh tâm (cittapassaddhi): sự lắng dịu của tâm.
+10. Khinh thân (kāyalahutā): sự nhanh nhẹ của các tâm sở.
+11. Khinh tâm (cittalahutā): sự nhanh nhẹ của tâm.
+12. Nhu thân (kāyamudutā): sự mềm mại của các tâm sở.
+13. Nhu tâm (cittamudutā): sự mềm mại của tâm.
+14. Thích ứng thân (kāyakammaññatā): các tâm sở thích hợp để bố thí, trì giới, tu tập, v.v., và hoạt động trôi chảy. Trong tu tập, quán được trôi chảy.
+15. Thích ứng tâm (cittakammaññatā): tâm thích hợp để bố thí, trì giới, tu tập, v.v., và hoạt động trôi chảy. Trong tu tập, quán được trôi chảy.
+16. Thuần thục thân (kāyapāguññatā): trong bố thí, trì giới, tu tập và các việc thiện tương tự…
+
+
+<a id="M04-body-P048"></a>
+## Thuần thục, chánh trực và hai dạng dối trá
+Miến / Burmese 48
+
+… các tâm sở được rèn luyện thuần thục, có kỹ năng, không mắc bệnh phiền não.
+
+17. Thuần thục tâm (cittapāguññatā): trong bố thí, trì giới, tu tập, v.v., tâm được rèn luyện thuần thục, có kỹ năng, không mắc bệnh phiền não.
+18. Chánh trực thân (kāyujukatā): các tâm sở ngay thẳng, không quanh co do che giấu lỗi hay giả dối.
+19. Chánh trực tâm (cittujukatā): tâm ngay thẳng, không quanh co do che giấu lỗi hay giả dối.
+
+Māyā và sāṭheyya
+
+Santadosapaṭicchādanalakkhaṇā māyā. Asantaguṇasambhāvanalakkhaṇaṃ sāṭheyyaṃ. (Đại sớ giải, tập 1, tr. 84.)
+Asantaguṇappakāsanalakkhaṇaṃ sāṭheyyaṃ. (Đại sớ giải, tập 1, tr. 128.)
+Che giấu lỗi thực có là māyā. Phô bày, khoe khoang đức tính mình không có là sāṭheyya.
+
+
+<a id="M04-body-P049"></a>
+## Tiết chế, vô lượng và tuệ quyền
+Miến / Burmese 49
+
+Ba tâm sở tiết chế (virati)
+
+1. Chánh ngữ: tránh bốn khẩu ác hạnh không liên quan đến sinh kế, không phạm khẩu ác hạnh.
+2. Chánh nghiệp: tránh ba thân ác hạnh không liên quan đến sinh kế, không phạm thân ác hạnh.
+3. Chánh mạng: tránh bốn khẩu ác hạnh và ba thân ác hạnh liên quan đến sinh kế, không phạm các thân ác hạnh và khẩu ác hạnh ấy.
+
+Hai tâm sở vô lượng (appamaññā)
+
+1. Bi (karuṇā): lấy chúng sinh đau khổ làm cảnh, thương xót, muốn cứu họ thoát khổ.
+2. Hỷ (muditā): lấy chúng sinh hạnh phúc làm cảnh, vui với hạnh phúc của họ, không ganh tị với sự thành đạt của họ.
+
+Một tâm sở tuệ quyền (paññindriya)
+
+1. Tuệ quyền, tức tuệ: thấu rõ thực tánh của các pháp chân đế…
+
+
+<a id="M04-body-P050"></a>
+## Tuệ quyền và một nguyên tắc quan trọng
+Miến / Burmese 50
+
+… thấu rõ bốn sự thật. Tuệ, còn gọi là trí, vô si, chánh kiến hay trạch pháp, được gọi là tuệ quyền vì giữ vai trò chủ đạo trong việc biết bốn sự thật.
+
+Đến đây đã trình bày đủ hai mươi lăm tâm sở tịnh hảo. Khi mới tập dùng tuệ phân biệt và quán các pháp chân đế, có thể bắt đầu tác ý theo đặc tính riêng hoặc theo phận sự. Vì thế, ở một số tâm sở đã nêu cả đặc tính lẫn phận sự.
+
+Một nguyên tắc quan trọng
+
+Idhekacco āditova ajjhattaṃ pañcasu khandhesu abhinivisati. Abhinivisitvā te aniccādito passati. Yasmā pana na suddhaajjhattadassanamatteneva maggavuṭṭhānaṃ hoti, bahiddhāpi daṭṭhabbameva. Tasmā parassa khandhepi anupādinnasaṅkhārepi “aniccaṃ dukkhamanattā”ti passati. So kālena ajjhattaṃ sammasati, kālena bahiddhāti.
+Có người trước hết đi vào quán năm uẩn bên trong. Sau khi đi vào như vậy, người ấy thấy chúng là vô thường, v.v. Vì tuệ đạo không sinh nếu chỉ thấy bên trong, người ấy cũng quán các uẩn của người khác và các hành không do nghiệp chấp thủ bên ngoài, thấy là vô thường, khổ và vô ngã. Khi thì quán bên trong, khi thì bên ngoài. (Chú giải Abhidhamma, tập 1, tr. 270.)
+
+Aparo āditova rūpe abhinivisati. Abhinivisitvā bhūtarūpañca upādārūpañca paricchinditvā aniccādito passati. Yasmā pana na suddharūpadassanamatteneva vuṭṭhānaṃ hoti, arūpampi daṭṭhabbameva. Tasmā taṃ rūpaṃ ārammaṇaṃ katvā uppannaṃ vedanaṃ saññaṃ saṅkhāre viññāṇañca “idaṃ arūpan”ti paricchinditvā aniccādito passati. So kālena rūpaṃ sammasati kālena arūpaṃ.
+Người khác trước hết đi vào quán sắc. Sau khi đi vào như vậy, người ấy phân biệt sắc đại chủng và sắc y sinh, rồi thấy chúng là vô thường, v.v. Vì tuệ đạo không sinh nếu chỉ thấy sắc, người ấy lấy sắc làm cảnh, phân biệt bốn danh uẩn sinh trên cảnh ấy, biết đó là danh rồi thấy chúng là vô thường, v.v. Khi thì quán sắc, khi thì danh. (Chú giải Abhidhamma, tập 1, tr. 271.)
+
+
+<a id="M04-body-P051"></a>
+## Quán bên trong, bên ngoài, sắc và danh
+Miến / Burmese 51
+
+Ý của đoạn Chú giải trên là thế này. Khi đã đạt tuệ phân biệt danh sắc và tuệ phân biệt nhân duyên, lúc chuyển sang minh sát, hành giả có thể bắt đầu quán năm uẩn bên trong. Cũng có thể bắt đầu quán năm uẩn bên ngoài, kể cả các pháp hữu vi vô tình không do nghiệp chấp thủ. Tuy nhiên, chỉ quán năm uẩn bên trong, hoặc chỉ quán năm uẩn bên ngoài, thì không thể làm sinh tuệ minh sát dẫn đến xuất khởi (vuṭṭhānagāminīvipassanā), dẫn thẳng từ các cảnh hữu vi đến Niết-bàn và Thánh đạo. Vì vậy, hãy lần lượt đặt năm uẩn bên trong rồi năm uẩn bên ngoài dưới ba đặc tướng để quán minh sát.
+
+Cũng vậy, nếu chỉ quán sắc hoặc chỉ quán danh thì tuệ minh sát dẫn đến xuất khởi không thể sinh. Khi thì dùng tuệ phân biệt sắc đại chủng và sắc y sinh đến mức chân đế, rồi quán các sắc ấy theo ba đặc tướng. Khi thì dùng tuệ phân biệt bốn danh uẩn, tức thọ, tưởng, hành và thức, sinh do lấy sắc ấy làm cảnh, rồi quán các danh pháp ấy theo ba đặc tướng. Đó là ý của Chú giải trên, phù hợp với Kinh Aparijānana và các kinh tương tự trong Tương ưng bộ (tập 2, tr. 249–250).
+
+
+<a id="M04-body-P052"></a>
+## Bốn pháp tùy quán và phạm vi cần quán
+Miến / Burmese 52
+
+Dù trong dòng tương tục bên trong hay bên ngoài, chỉ quán sắc hoặc chỉ quán danh đều không thể đạt Thánh đạo, nên hành giả phải quán cả sắc lẫn danh. Vô số nhóm sắc và nhóm danh sinh diệt suốt một đời. Không thể quán hết từng trường hợp theo số lượng, nhưng cần quán đủ các loại.
+
+Nghĩa là thế này. Khi dùng tuệ nhìn các sắc, tức các nhóm sắc sinh đồng thời trong thân, chúng chỉ như những hạt li ti. Trong những nhóm sắc nhỏ hơn hạt bụi vô số lần ấy có đủ bốn đại. Đệ tử không thể quán hết từng đại trong từng nhóm sắc. Họ chỉ có thể quán một số (kesāci), tức một phần. Hãy hiểu tương tự đối với sắc y sinh.
+
+Trong khoảng rất ngắn như một chớp mắt, một tia chớp hay một cái búng tay, danh pháp có thể sinh qua hàng trăm nghìn koṭi sát-na tâm. Suốt một đời thì nhiều không thể đếm. Đệ tử không thể quán hết các danh pháp ấy, chỉ có thể quán một phần. Tuy nhiên, dù không thể quán hết về số lượng…
+
+
+<a id="M04-body-P053"></a>
+## Quán đủ các loại và bốn niệm xứ
+Miến / Burmese 53
+
+… cần quán đủ các loại nhóm sắc, tức các loại sắc, như trong các bảng ở phần đề mục sắc. Cũng cần quán đủ sáu loại lộ tâm, bắt đầu với lộ nhãn môn. Suốt một đời có vô số lộ nhãn môn biết cảnh sắc, không thể quán hết từng lộ, chỉ có thể quán một phần. Hãy hiểu tương tự với lộ nhĩ môn và các lộ còn lại. Vì vậy, các vị Chú giải sư giảng:
+
+1. Kāyānupassanāmukhena: lấy tùy quán thân làm cửa vào.
+2. Vedanānupassanāmukhena: lấy tùy quán thọ làm cửa vào.
+3. Cittānupassanāmukhena: lấy tùy quán tâm làm cửa vào.
+4. Dhammānupassanāmukhena: lấy tùy quán pháp làm cửa vào.
+
+(Xem Chú giải Trung bộ, tập 1, tr. 245.) Hãy ghi nhớ bốn pháp tùy quán như sau.
+
+1. Nếu lấy sắc pháp làm chính, quán sắc, danh, nhân và quả, tức các pháp hữu vi, rồi quán minh sát các pháp ấy, thì thuộc thân tùy quán niệm xứ. Đặc biệt, người lấy thuần minh sát làm cỗ xe vào minh sát qua bốn đại, lấy sắc làm chính để quán các pháp hữu vi, nên phép quán ấy thường thuộc thân tùy quán niệm xứ.
+2. Trong ba cách bắt đầu đề mục danh, nếu lấy thọ làm chính, quán sắc, danh, nhân và quả, tức các pháp hữu vi, rồi quán minh sát chúng, thì thuộc thọ tùy quán niệm xứ.
+
+
+<a id="M04-body-P054"></a>
+## Các cửa vào niệm xứ và cách bắt đầu của người tu thiền chỉ
+Miến / Burmese 54
+
+3. Nếu lấy tâm biết, tức thức, làm chính, quán sắc, danh, nhân và quả, tức các pháp hữu vi, rồi quán minh sát chúng, thì thuộc tâm tùy quán niệm xứ.
+4. Nếu lấy xúc làm chính, quán sắc, danh, nhân và quả, tức các pháp hữu vi, rồi quán minh sát chúng, thì thuộc pháp tùy quán niệm xứ. Cách quán theo năm uẩn, mười hai xứ, mười tám giới, v.v., cũng thuộc pháp tùy quán niệm xứ. (Xem Chú giải Abhidhamma, tập 2, tr. 273.)
+
+Trong ba cách quán của đề mục danh, bắt đầu từ thọ để nhận diện và quán các pháp hữu vi là thọ tùy quán niệm xứ. Bắt đầu từ tâm biết, tức thức, là tâm tùy quán niệm xứ. Bắt đầu từ xúc là pháp tùy quán niệm xứ.
+
+Khi bước sang kiến thanh tịnh, người lấy thiền chỉ làm cỗ xe có thể bắt đầu thực hành từ đề mục danh hoặc đề mục sắc. Nếu bắt đầu từ danh, trước hết phải quán các thiền chi và các pháp tương ưng với thiền. Sau đó quán sắc ý vật làm chỗ nương, cùng các đại chủng và sắc y sinh. (Xem Thanh tịnh đạo, tập 2, tr. 222.) Kế đó, cần tiếp tục quán danh pháp dục giới gọi là các hành đã chín, và các sắc pháp còn lại…
+
+
+<a id="M04-body-P055"></a>
+## Bắt đầu quán danh từ thọ
+Miến / Burmese 55
+
+… Người tu thuần minh sát cũng vậy: sau khi thực hành đề mục sắc, cần tiếp tục quán danh pháp dục giới. Cả người lấy thiền chỉ làm cỗ xe và người lấy thuần minh sát làm cỗ xe, khi muốn quán danh dục giới, đều phải thực hành và quán sắc trước, theo chỉ dẫn sau của Chú giải và của Thanh tịnh đạo đã dẫn ở Miến 2–4:
+
+Pariggahite rūpakammaṭṭhāne — khi đã quán đề mục sắc. (Chú giải Trung bộ, tập 1, tr. 280.)
+Tasmiṃ ārammaṇe — trên cảnh ấy. (Chú giải Trung bộ, tập 1, tr. 280.)
+
+Tasmā taṃ rūpaṃ ārammaṇaṃ katvā uppannaṃ vedanaṃ saññaṃ saṅkhāre viññāṇañca “idaṃ arūpan”ti paricchinditvā aniccādito passati. (Chú giải Abhidhamma, tập 1, tr. 271.)
+Do đó, phân định thọ, tưởng, các hành và thức sinh do lấy sắc ấy làm cảnh là “đây là danh”, rồi thấy chúng là vô thường, v.v.
+
+Theo nguyên tắc ấy, hãy bắt đầu quán từ các danh pháp sinh do lấy chính các sắc ấy làm cảnh. Khi quán như vậy, đặc biệt cần tuân theo những nguyên tắc dưới đây.
+
+Nguyên tắc khi bắt đầu quán từ thọ
+
+Yassa vedanā pākaṭā hoti, so “na kevalaṃ vedanāva uppajjati. Tāya saddhiṃ tadevārammaṇaṃ phusamāno phassopi uppajjati, sañjānanamānā saññāpi, cetayamānā cetanāpi, vijānanamānaṃ viññāṇampi uppajjatī”ti phassapañcamakeyeva pariggaṇhāti. (Chú giải Trường bộ, tập 2, tr. 314; Chú giải Trung bộ, tập 1, tr. 280; Chú giải Abhidhamma, tập 2, tr. 252.)
+
+
+<a id="M04-body-P056"></a>
+## Quán năm pháp khi bắt đầu từ thọ hoặc thức
+Miến / Burmese 56
+
+Người thấy thọ nổi bật hãy tác ý: “Không phải chỉ có thọ sinh. Cùng với thọ ấy, xúc chạm chính cảnh đó cũng sinh. Tưởng ghi dấu cảnh ấy cũng sinh. Tư dẫn dắt, thúc đẩy các pháp tương ưng đến cảnh ấy cũng sinh. Thức phân biệt, tức biết cảnh ấy, cũng sinh.” Hãy quán chính năm pháp có xúc là pháp thứ năm (phassapañcamaka). (Chú giải Trường bộ, tập 2, tr. 314; Chú giải Trung bộ, tập 1, tr. 280; Chú giải Abhidhamma, tập 2, tr. 252.)
+
+Nguyên tắc khi bắt đầu quán từ thức
+
+Yassa viññāṇaṃ pākaṭaṃ hoti, so “na kevalaṃ viññāṇameva uppajjati. Tena saddhiṃ tadevārammaṇaṃ phusamāno phassopi uppajjati, anubhavamānā vedanāpi, sañjānanamānā saññāpi, cetayamānā cetanāpi uppajjatī”ti phassapañcamakeyeva pariggaṇhāti. (Chú giải Trường bộ, tập 2, tr. 314; Chú giải Trung bộ, tập 1, tr. 280–281; Chú giải Abhidhamma, tập 2, tr. 252.)
+
+Người thấy tâm biết, tức thức, nổi bật hãy tác ý: “Không phải chỉ có thức sinh. Cùng với thức ấy, xúc chạm chính cảnh đó cũng sinh. Thọ cảm nhận vị của cảnh ấy cũng sinh. Tưởng ghi dấu cảnh ấy cũng sinh. Tư dẫn dắt, thúc đẩy các pháp tương ưng đến cảnh ấy cũng sinh.” Hãy quán năm pháp có xúc là pháp thứ năm…
+
+
+<a id="M04-body-P057"></a>
+## Bắt đầu từ xúc và quán tất cả danh pháp
+Miến / Burmese 57
+
+… chính các pháp ấy. (Chú giải Trường bộ, tập 2, tr. 314; Chú giải Trung bộ, tập 1, tr. 280–281; Chú giải Abhidhamma, tập 2, tr. 252.)
+
+Nguyên tắc khi bắt đầu quán từ xúc
+
+Yassa phasso pākaṭo hoti, so “na kevalaṃ phassova uppajjati. Tena saddhiṃ tadevārammaṇaṃ anubhavamānā vedanāpi uppajjati, sañjānanamānā saññāpi, cetayamānā cetanāpi, vijānanamānaṃ viññāṇampi uppajjatī”ti phassapañcamakeyeva pariggaṇhāti. (Chú giải Trường bộ, tập 2, tr. 314; Chú giải Trung bộ, tập 1, tr. 280; Chú giải Abhidhamma, tập 2, tr. 252.)
+
+Người thấy xúc nổi bật hãy tác ý: “Không phải chỉ có xúc sinh. Cùng với xúc ấy, thọ cảm nhận chính cảnh đó, tức cảm nhận vị của cảnh ấy, cũng sinh. Tưởng ghi dấu cảnh ấy cũng sinh. Tư dẫn dắt, thúc đẩy các pháp tương ưng đến cảnh ấy cũng sinh. Thức phân biệt, tức biết cảnh ấy, cũng sinh.” Hãy quán chính năm pháp có xúc là pháp thứ năm. (Chú giải Trường bộ, tập 2, tr. 314; Chú giải Trung bộ, tập 1, tr. 280; Chú giải Abhidhamma, tập 2, tr. 252.)
+
+Hãy quán tất cả danh pháp
+
+Evaṃ tassa tasseva pākaṭabhāvepi “sabbaṃ, bhikkhave, abhiññeyyan”ti, “sabbañca kho, bhikkhave, abhijānan”ti ca evamādivacanato sabbe sammasanupagā dhammā pariggahetabbāti dassento “tattha yassā”tiādimāha. Tattha phassapañcamakeyevāti avadhāraṇaṃ tadantogadhattā taggahaṇeneva gahitattā catunnaṃ arūpakkhandhānaṃ. Phassapañcamakaggahaṇaṃ…
+Tuy các pháp ấy hiện rõ cho hành giả theo những cách trên, Đức Thế Tôn đã dạy “Này các tỳ-khưu, tất cả cần được thắng tri” và “Này các tỳ-khưu, khi thắng tri tất cả…”. Do đó cần quán tất cả các pháp tương ưng. Để chỉ bày điều ấy, lời giải bắt đầu bằng “Tattha yassa”. Nếu lời giải chỉ nêu năm pháp có xúc là thứ năm thì đó là lối trình bày nêu các pháp chính, bởi các pháp ấy bao hàm bốn danh uẩn…
+
+
+<a id="M04-body-P058"></a>
+## Vì sao nêu năm pháp có xúc là thứ năm
+Miến / Burmese 58
+
+… hi tassa sabbacittuppādasādhāraṇabhāvato, tattha ca phassacetanāggahaṇena sabbasaṅkhārakkhandhadhammasaṅgaho cetanāpadhānattā tesaṃ. Tathā hi suttantabhājanīye saṅkhārakkhandhavibhaṅge “cakkhusamphassajā cetanā”tiādinā cetanāva vibhattā, itare pana khandhā sarūpeneva gahitā.
+… Trong số ấy, xúc và tư thuộc hành uẩn. Khi nêu các pháp tương ưng, có thể nêu hành uẩn theo tư, vì tư đứng đầu các pháp ấy. Trong cách trình bày hành uẩn theo Kinh, như “sáu nhóm tư bắt đầu với tư đối với sắc”, chỉ nêu tư. Các uẩn còn lại được trình bày theo chính tên của chúng. (Sớ giải Trung bộ, tập 1, tr. 370.)
+
+Dù khi bắt đầu đề mục danh, xúc, thọ hoặc tâm biết, tức thức, hiện rõ hơn tùy người, chính Đức Phật dạy:
+
+Sabbaṃ, bhikkhave, abhiññeyyaṃ. — Này các tỳ-khưu, tất cả cần được thắng tri. (Tương ưng bộ, tập 2, tr. 258; Tiểu bộ, tập 9, tr. 6.)
+Sabbañca kho, bhikkhave, abhijānaṃ. — Và này các tỳ-khưu, khi thắng tri tất cả… (Tương ưng bộ, tập 2, tr. 250.)
+
+Ngài dạy phải nỗ lực dùng ba loại biến tri để phân biệt và biết tất cả các pháp hữu vi thuộc Khổ đế và Tập đế. Để chỉ dẫn rằng hành giả phải dùng tuệ phân biệt mọi pháp thực có và thích hợp để đặt dưới ba đặc tướng mà quán minh sát, vị Chú giải sư đã giảng cách quán đề mục danh như trên.
+
+Trong Chú giải, lời dạy quán năm pháp có xúc là thứ năm là lối nói nêu các pháp chính. Trong nhóm danh của một sát-na tâm còn có những danh pháp khác ngoài năm pháp ấy. Vì những pháp khác thuộc bốn danh uẩn cũng có mặt…
+
+
+<a id="M04-body-P059"></a>
+## Quán cả các pháp tương ưng
+Miến / Burmese 59
+
+… nên nêu năm pháp có xúc là thứ năm cũng bao hàm bốn danh uẩn. Vì vậy Chú giải nói quán năm pháp ấy. Chúng được nêu vì là các pháp chung cho mọi tâm. Trong năm pháp ấy, xúc và tư thuộc hành uẩn. Trong nhóm pháp thuộc hành uẩn, tư là pháp đứng đầu. Do đó, khi được chỉ dẫn quán xúc và tư, hành giả quán hai pháp chính ấy thì cũng phải quán các pháp tương ưng còn lại thuộc hành uẩn. Nêu xúc và tư bao hàm tất cả thực pháp thuộc hành uẩn, vì tư nổi bật trong nhóm pháp ấy. Chính Đức Phật, trong phần phân tích theo Kinh của bộ Phân tích (Abhidhamma, tập 2, tr. 37), cũng nêu tư làm chính khi phân tích hành uẩn. Đó là nguyên tắc đã có từ trước. Các uẩn còn lại ngoài hành uẩn được nêu tên và giảng trực tiếp. (Sớ giải Trung bộ, tập 1, tr. 370.)
+
+Theo nguyên tắc mà Kinh, Chú giải và Sớ giải đã xác lập, nhất là đối với hành giả muốn quán danh pháp dục giới, sau khi quán đề mục sắc, dù bắt đầu từ xúc, thọ hay tâm biết, tức thức, việc quán danh pháp trong một sát-na tâm không phải chỉ lấy riêng một xúc, một thọ hoặc một tâm biết…
+
+
+<a id="M04-body-P060"></a>
+## Một việc rất khó
+Miến / Burmese 60
+
+… rồi gắng gượng, cố chấp như “ếch bám chặt” trong nhiều phút, giờ, ngày, tháng hay năm, lặp đi lặp lại việc nhận diện và quán riêng pháp ấy. Phải nhận diện và quán cả mọi pháp tương ưng với xúc, thọ hay thức ấy. Các thiện hữu hãy lấy tác ý như lý trong sáng và ngay thẳng đi trước, rồi tiếp nhận và ghi nhớ như vậy.
+
+Một việc rất khó
+
+Dùng tuệ phá tan các khối danh làm cho tâm và tâm sở sinh theo định luật của tâm có vẻ nguyên khối, rồi nhận diện và quán chúng đến mức thấy chân đế, là việc khó. Tuy vậy, các đệ tử vẫn có thể nhận diện và quán được. Có người hiểu sai lời trong Mi Tiên vấn đáp nên nói rằng đệ tử không thể quán các danh pháp ấy. Để giải mối nghi, sau đây là lời giải trong Chú giải Tương ưng bộ, Chú giải Aṭṭhasālinī và lời trong Mi Tiên vấn đáp.
+
+Yathā hi tilatelaṃ sāsapatelaṃ madhukatelaṃ eraṇḍakatelaṃ vasātelanti imāni pañca telāni ekacāṭiyaṃ pakkhipitvā divasaṃ yamakamanthehi manthetvā tato “idaṃ tilatelaṃ, idaṃ sāsapatelan”ti ekekassa pāṭiyekkaṃ uddharaṇaṃ nāma dukkaraṃ, idaṃ tato dukkarataraṃ. Bhagavā pana sabbaññutaññāṇassa suppaṭividdhattā dhammissaro dhammarājā imesaṃ arūpīnaṃ dhammānaṃ ekārammaṇe vattamānānaṃ vavatthānaṃ…
+Ví như lấy năm loại dầu, dầu mè, dầu mù tạt, dầu madhuka, dầu thầu dầu và mỡ, đổ chung trong một chậu rồi khuấy suốt ngày. Khó tách riêng ra mà nói: “Đây là dầu mè, đây là dầu mù tạt.” Còn khó hơn việc ấy là điều Đức Thế Tôn, bậc Nhất thiết trí, bậc chủ của Pháp, vua của Pháp, đã làm khi phân định những danh pháp cùng vận hành trên một cảnh…
+
+
+<a id="M04-body-P061"></a>
+## Ví dụ dầu trộn và nước năm sông
+Miến / Burmese 61
+
+… akāsi. Pañcannaṃ mahānadīnaṃ samuddaṃ paviṭṭhānaṃ “idaṃ gaṅgāya udakaṃ, idaṃ yamunāyā”ti evaṃ pāṭiyekkaṃ udakuddharaṇenāpi ayamattho veditabbo.
+… Hãy hiểu ý nghĩa ấy qua ví dụ nước trong biển lớn do năm sông lớn chảy vào. Khó tách riêng mà nói: “Đây là nước sông Gaṅgā, đây là nước sông Yamunā”, v.v. (Chú giải Tương ưng bộ, tập 2, tr. 271.)
+
+Imesañca pana phassapañcamakānaṃ dhammānaṃ pāṭiyekkaṃ pāṭiyekkaṃ vinibbhogaṃ katvā paññattiuddharaṇena bhagavatā dukkaraṃ kataṃ. Nānāudakānañhi nānātelānaṃ vā ekabhājane pakkhipitvā divasaṃ nimadditānaṃ vaṇṇagandharasānaṃ nānatāya disvā vā ghāyitvā vā sāyitvā vā nānākaraṇaṃ sakkā bhaveyya ñātuṃ. Evaṃ santampi taṃ dukkaraṃ vuttaṃ. Sammāsambuddhena pana imesaṃ arūpīnaṃ cittacetasikānaṃ dhammānaṃ ekārammaṇe vattamānānaṃ pāṭiyekkaṃ pāṭiyekkaṃ vinibbhogaṃ katvā paññattiuddharaṇena atidukkaraṃ kataṃ. Tenāha āyasmā Nāgasenatthero:
+Đức Thế Tôn đã làm việc khó khi phân tích từng pháp trong năm pháp có xúc là thứ năm và đặt tên để nêu riêng từng pháp. Trộn lẫn các thứ nước và dầu có màu, mùi và vị khác nhau trong cùng một nồi, rồi khuấy suốt ngày, còn có thể phân biệt phần nào sự khác biệt về màu, mùi và vị bằng nhìn, ngửi hoặc nếm. Vì vậy gọi việc phân định danh pháp là khó. Đức Chánh Đẳng Giác đã làm việc khó hơn khi phân tích từng tâm và tâm sở vô sắc cùng vận hành trên một cảnh và nêu tên từng pháp. Do đó Tôn giả Nāgasena nói:
+
+Dukkaraṃ, mahārāja, bhagavatā katanti. Kiṃ, bhante Nāgasena, bhagavatā dukkaraṃ katanti? Dukkaraṃ, mahārāja, bhagavatā kataṃ, yaṃ imesaṃ arūpīnaṃ cittacetasikānaṃ dhammānaṃ ekārammaṇe pavattamānānaṃ vavatthānaṃ akkhātaṃ: “ayaṃ phasso, ayaṃ vedanā, ayaṃ saññā, ayaṃ cetanā, idaṃ cittan”ti. Opammaṃ, bhante, karohīti.
+“Đại vương, Đức Thế Tôn đã làm một việc khó.”
+“Bạch ngài Nāgasena, Đức Thế Tôn đã làm việc khó gì?”
+“Đại vương, Đức Thế Tôn đã làm việc khó. Ngài đã chỉ rõ các tâm và tâm sở vô sắc cùng vận hành trên một cảnh: ‘Đây là xúc, đây là thọ, đây là tưởng, đây là tư, đây là tâm.’”
+“Xin ngài cho ví dụ.”
+
+Yathā, mahārāja, kocideva puriso nāvāya samuddaṃ ajjhogāhetvā hatthapuṭena udakaṃ gahetvā jivhāya sāyitvā jāneyya nu kho, mahārāja, so puriso “idaṃ gaṅgāya udakaṃ, idaṃ yamunāya udakaṃ, idaṃ aciravatiyā udakaṃ, idaṃ sarabhuyā udakaṃ, idaṃ mahiyā udakan”ti? Dukkaraṃ, bhante, jānitunti.
+“Đại vương, ví như có người xuống biển lớn bằng thuyền, vốc nước trong lòng bàn tay rồi nếm bằng lưỡi. Người ấy có biết ‘đây là nước sông Gaṅgā, đây là nước sông Yamunā, đây là nước sông Aciravatī, đây là nước sông Sarabhū, đây là nước sông Mahī’ không?”
+“Bạch ngài, khó biết được.”
+
+
+<a id="M04-body-P062"></a>
+## Ý nghĩa của ví dụ về việc phân biệt danh
+Miến / Burmese 62
+
+Tato dukkarataraṃ kho, mahārāja, bhagavatā kataṃ, yaṃ imesaṃ arūpīnaṃ cittacetasikānaṃ dhammānaṃ, pe, “idaṃ cittan”ti.
+“Đại vương, Đức Thế Tôn đã làm việc khó hơn thế, khi phân định các tâm và tâm sở vô sắc ấy: pe, ‘đây là tâm’.” (Chú giải Abhidhamma, tập 1, tr. 186–187; Mi Tiên vấn đáp, tr. 94.)
+
+Ý nghĩa của các đoạn Pāli và Chú giải trên là thế này. Khi dùng tuệ phân biệt và quán danh pháp, hoặc khi quán và thẩm sát bằng minh sát, đối với mỗi sát-na của tâm ngoài lộ, tức tục sinh, hữu phần và tử, cũng như mỗi sát-na của tâm trong lộ sinh theo định luật của tâm, phải nhận diện và quán các danh pháp do năm pháp có xúc là thứ năm dẫn đầu. Điều này đã được trình bày ở trên.
+
+Trong mỗi sát-na tâm, Đức Phật phân biệt từng pháp trong năm pháp có xúc là thứ năm và nêu các danh xưng xúc, thọ, tưởng, tư và thức. Khi phân định như vậy, Ngài đã làm một việc khó. Ví dụ sau làm rõ điều ấy.
+
+Giả sử cho vào cùng một nồi các loại nước khác nhau về màu, mùi và vị, rồi kiên trì khuấy suốt ngày. Hoặc cho vào cùng một chảo lớn các loại dầu có vị khác nhau, như bơ lỏng, dầu mè, dầu mù tạt, dầu lạc, mỡ gà và mỡ heo, rồi kiên trì khuấy từ sáng đến tối.
+
+
+<a id="M04-body-P063"></a>
+## Các sắc trong hỗn hợp nước và dầu
+Miến / Burmese 63
+
+Dù các thứ nước hay dầu khác nhau đã được trộn cùng một vật chứa và khuấy suốt ngày, màu, mùi và vị của chúng vẫn khác nhau. Do đó, nhìn bằng mắt, ngửi bằng mũi hoặc nếm bằng lưỡi, vẫn có thể nhận ra phần nào sự khác biệt của thứ này với thứ kia.
+
+Ghi chú. Các sắc chỉ sinh thành những hạt nhỏ gọi là nhóm sắc. Nước và dầu chỉ là những tập hợp nhóm sắc trong đó thực tính và sức của thủy đại trội. Sắc trong một nhóm và sắc trong một nhóm khác được hư không giới phân cách, nên không hòa nhập hay tương ưng với nhau. Người có con mắt tuệ thấy chân đế có thể phân tích, biết và quán màu, mùi và vị trong từng nhóm sắc. Do quán được như vậy, người có tuệ thấy chân đế, dù không thể dùng mắt, mũi hay lưỡi tịnh sắc thông thường để biết sự khác nhau về màu, mùi, vị của các thứ nước hay dầu đã trộn trong một vật chứa và khuấy suốt ngày, vẫn có thể dùng mắt tuệ, mũi tuệ và lưỡi tuệ để nhận ra những sai khác của màu, mùi và vị trong các thứ nước hay dầu ấy…
+
+
+<a id="M04-body-P064"></a>
+## Đức Phật phân định từng danh pháp
+Miến / Burmese 64
+
+… đó là ý chính của lời giải. Dù việc biết như vậy còn có thể làm được, Tôn giả Nāgasena nói trong Mi Tiên vấn đáp rằng sự phân định danh pháp là việc khó. Đức Chánh Đẳng Giác, bậc có sáu ân đức, đã thấu triệt bằng Nhất thiết trí và thực sự là Pháp vương, làm chủ Pháp. Vì thế, đối với từng tâm và tâm sở trong các nhóm danh pháp cùng sinh, cùng lấy một cảnh, Ngài dùng trí phân biệt rõ từng pháp và giảng dạy bằng cách nêu tên: “Đây là xúc, đây là thọ, đây là tưởng, đây là tư, đây là thức.” Khi giảng Pháp bằng cách nêu riêng các danh xưng như vậy, Đức Phật đã làm một việc rất khó.
+
+Ý chính. Chẳng hạn, trong một sát-na tốc hành đại thiện qua ý môn của tuệ phân biệt danh sắc, hay của tuệ minh sát đang dùng tuệ nhận diện và phân biệt sắc, nếu có cả trí và hỷ thì có ba mươi bốn danh pháp, gồm tâm và tâm sở. Chúng cùng sinh, cùng diệt, cùng một sắc làm vật nương, tức sắc ý vật, và cùng lấy một cảnh là sắc đang được quán. Nếu không có Đức Chánh Đẳng Giác, bậc có Nhất thiết trí, thì việc giảng rõ từng pháp bằng tên gọi, như “thực tính này là xúc, thực tính này…
+
+
+<a id="M04-body-P065"></a>
+## Đối thoại giữa Nāgasena và vua Milinda
+Miến / Burmese 65
+
+… là thọ”, để đệ tử có thể dùng tuệ phân biệt và biết chúng qua các danh xưng như xúc và thọ, không thể xuất hiện theo bất cứ cách thế gian nào, trong quá khứ, hiện tại hay các kiếp tương lai. Vì vậy, để làm rõ ý nghĩa ấy cho vua Milinda, Tôn giả Nāgasena nổi tiếng đã dùng ví dụ về nước từ năm sông lớn chảy vào đại dương và nói như sau.
+
+“Đại vương Milinda, Đức Phật đã làm một việc rất khó.”
+“Bạch ngài Nāgasena, Đức Phật đã làm việc gì rất khó?”
+“Đại vương Milinda, các tâm và tâm sở là danh pháp cùng sinh và cùng lấy một cảnh. Đức Phật phân định chúng như sau:
+
+1. Pháp có tính chạm cảnh này là xúc.
+2. Pháp có tính cảm nhận vị của cảnh này là thọ.
+3. Pháp có tính ghi dấu cảnh này là tưởng.
+4. Pháp có tính dẫn dắt các pháp tương ưng đến cảnh này là tư.
+5. Pháp có tính nhận lấy, tức biết cảnh này, là tâm.
+
+Bằng cách nêu những danh xưng ấy, Ngài đã phân định từng danh pháp thực có theo chân đế…
+
+
+<a id="M04-body-P066"></a>
+## Ví dụ nếm nước biển
+Miến / Burmese 66
+
+… và giảng dạy như vậy. Khi phân định và giảng dạy từng pháp, Ngài đã làm một việc rất khó.
+“Bạch ngài, xin cho một ví dụ.”
+
+“Đại vương Milinda, giả sử một người đi thuyền ra biển, vốc nước bằng lòng bàn tay rồi nếm bằng lưỡi. Người ấy có biết được: (1) Đây là nước sông Gaṅgā, (2) đây là nước sông Yamunā, (3) đây là nước sông Aciravatī, (4) đây là nước sông Sarabhū, (5) đây là nước sông Mahī, hay không?”
+“Bạch ngài Nāgasena, khó mà biết được.”
+
+“Đại vương Milinda, các danh pháp là tâm và tâm sở cùng sinh trên một cảnh. Ngài giảng: (1) Pháp có tính chạm cảnh này là xúc. Pe. (5) Pháp có tính nhận lấy, tức biết cảnh này, là tâm. Bằng cách nêu các danh xưng ấy, Ngài đã phân định từng danh pháp thực có theo chân đế và giảng dạy. Sự phân định và giảng dạy ấy…
+
+
+<a id="M04-body-P067"></a>
+## Việc khó mà Đức Phật đã làm
+Miến / Burmese 67
+
+… Đức Phật đã làm một việc rất khó.” (Mi Tiên vấn đáp, tr. 94.)
+
+Ý của Kinh và Chú giải trên là thế này. Trong một sát-na, các thực pháp chân đế là tâm và tâm sở cùng sinh, cùng lấy một cảnh. Dùng trí phân biệt từng pháp, đặt tên và giảng “đây là xúc, đây là thọ”, v.v., là việc rất khó. Đó là điều lời dẫn muốn nói. Các đệ tử vẫn có thể quán các danh pháp có mặt trong một sát-na tâm. Cần hiểu rõ điểm này. Hiểu sai thì cách thực hành cũng có thể sai, nên đặc biệt cẩn thận khi áp dụng vào công việc tu tập.
+
+Hãy lưu ý lại lời Chú giải Aṭṭhasālinī đã dẫn ở trên.
+
+Sammāsambuddhena pana imesaṃ arūpīnaṃ cittacetasikānaṃ dhammānaṃ ekārammaṇe vattamānānaṃ pāṭiyekkaṃ pāṭiyekkaṃ vinibbhogaṃ katvā paññattiuddharaṇena atidukkaraṃ kataṃ.
+Đức Chánh Đẳng Giác đã làm một việc rất khó khi phân biệt từng tâm và tâm sở vô sắc cùng vận hành trên một cảnh và nêu tên từng pháp. (Chú giải Abhidhamma, tập 1, tr. 186.)
+
+Trong mỗi sát-na có cùng một cảnh, Đức Chánh Đẳng Giác dùng Nhất thiết trí phân biệt từng danh pháp, gồm tâm và tâm sở: “Đây là xúc, đây là thọ, đây là tưởng, đây là tư…
+
+
+<a id="M04-body-P068"></a>
+## Quán vật và cảnh cùng nhau
+Miến / Burmese 68
+
+… đây là thức.” Lời giải nhấn mạnh rằng nêu từng danh xưng và giảng dạy theo cách ấy là một việc rất khó. Đó là điểm cần đặc biệt ghi nhớ.
+
+Khi quán danh pháp, một nguyên tắc lâu đời cần trân trọng tuân theo là quán vật và cảnh cùng nhau. Tôn giả Sāriputta đã thực hành theo nguyên tắc này. Hãy lấy cách ngài quán danh pháp sơ thiền làm ví dụ. Đức Phật giảng như sau về sự quán ấy:
+
+Tyāssa dhammā anupadavavatthitā honti. Tyāssa dhammā viditā uppajjanti, viditā upaṭṭhahanti, viditā abbhatthaṃ gacchanti. So evaṃ pajānāti: “Evaṃ kirame dhammā ahutvā sambhonti, hutvā paṭiventī”ti.
+Ngài phân định từng pháp theo thứ tự. Ngài biết rõ chúng khi sinh, khi hiện diện và khi biến mất. Ngài biết: “Các pháp này trước chưa có, nay sinh lên, rồi sau khi có thì biến mất.” (Trung bộ, tập 3, tr. 75.)
+
+Tôn giả Sāriputta biết riêng từng danh pháp sơ thiền theo thứ tự. Các danh pháp thiền hiện rõ trong tuệ ngài khi sinh, khi tồn tại và khi diệt. Nói cách khác, ngài biết rõ sự sinh, sự tồn tại…
+
+
+<a id="M04-body-P069"></a>
+## Cách Tôn giả Sāriputta quán danh pháp thiền
+Miến / Burmese 69
+
+… và sự diệt. Ngài biết rõ: “Những danh pháp thiền này trước đây chưa hiện hữu, nay đột nhiên sinh mới. Sinh rồi, lúc nào cũng nhanh chóng diệt.” (Trung bộ, tập 3, tr. 75.)
+
+Từ sơ thiền đến Vô sở hữu xứ, ngài quán từng danh pháp thiền theo thứ tự, theo cách minh sát từng pháp (anupadadhamma-vipassanā). Đối với Phi tưởng phi phi tưởng xứ, ngài gom các danh pháp thiền và quán theo nhóm (kalāpasammasana). (Chú giải Trung bộ, tập 4, tr. 61.) Khi quán từng pháp, ngài biết rõ sự sinh, trụ và diệt. Chú giải giải thích lý do như sau.
+
+Vatthārammaṇānaṃ pariggahitattāya. Therena hi vatthu ceva ārammaṇañca pariggahitaṃ. Tenassa tesaṃ dhammānaṃ uppādaṃ āvajjentassa uppādo pākaṭo hoti, ṭhānaṃ āvajjentassa ṭhānaṃ pākaṭaṃ hoti, vayaṃ āvajjentassa vayo pākaṭo hoti. Tena vuttaṃ “viditā uppajjanti, viditā upaṭṭhahanti, viditā abbhatthaṃ gacchantī”ti.
+Vì đã quán vật và cảnh. Vị trưởng lão đã quán cả vật lẫn cảnh. Khi hướng tâm đến sự sinh của các pháp ấy, sự sinh hiện rõ. Khi hướng đến sự trụ, sự trụ hiện rõ. Khi hướng đến sự diệt, sự diệt hiện rõ. Do đó nói rằng ngài biết chúng khi sinh, khi hiện diện và khi biến mất. (Chú giải Trung bộ, tập 4, tr. 60.)
+
+Sớ giải nói rằng các vật và các cảnh đã được quán trước bằng tuệ, kể cả các pháp thiền hiện hành trên cảnh ấy. Pe. Đó là các pháp trong lộ nhập thiền. (Sớ giải Trung bộ, tập 3, tr. 278.) Tôn giả Sāriputta quán minh sát được như vậy vì đã quán vật và cảnh cùng nhau…
+
+
+<a id="M04-body-P070"></a>
+## Vật và cảnh cần quán trước
+Miến / Burmese 70
+
+… Trước khi quán riêng từng danh pháp trong một lộ thiền, Tôn giả Sāriputta đã quán cả vật nương của danh pháp thiền, tức ý môn hữu phần nơi chúng sinh khởi, lẫn cảnh thiền tương ứng, chẳng hạn tợ tướng niệm hơi thở hay tợ tướng biến xứ. Vì vậy khi ngài hướng tâm đến sự sinh, sự trụ hoặc sự diệt của danh pháp trong lộ thiền, từng giai đoạn hiện rõ trong tuệ ngài. Đó là lý do Đức Phật dạy rằng ngài biết rõ chúng khi sinh, khi hiện diện và khi diệt. (Chú giải Trung bộ, tập 4, tr. 60.)
+
+Ghi chú. Trong lời dạy quán vật và cảnh cùng nhau, “vật” bao hàm sáu môn: mắt, tai, mũi, lưỡi, thân và ý.
+
+Đối với thiện hữu muốn thực hành đề mục danh, nguyên tắc này quý như viên ngọc vô giá. Hãy thực hành đề mục danh. Tuy nhiên, nếu không quán vật và cảnh cùng nhau, hành giả như vậy…
+
+
+<a id="M04-body-P071"></a>
+## Quay lại quán sắc
+Miến / Burmese 71
+
+… chỉ ngồi quay lưng với lời Đức Phật dạy. Phần nhiều sẽ dùng con số một trăm nghìn koṭi để chất vấn đề mục danh mà Ngài đã dạy.
+
+Như đã trình bày, hành giả muốn quán danh pháp do năm pháp có xúc là thứ năm dẫn đầu phải quán sắc trước, nhất là sắc làm vật nương và sắc làm cảnh. Sau khi quán danh pháp ấy, lại được chỉ dẫn quay về quán sắc như sau.
+
+So ime phassapañcamakā kiṃnissitāti upadhārento “vatthunissitā”ti pajānāti. Vatthu nāma karajakāyo, yaṃ sandhāya vuttaṃ “idañca me viññāṇaṃ ettha sitaṃ ettha paṭibaddhan”ti. So atthato bhūtānicceva upādārūpāni ca.
+Khi xét năm pháp có xúc là thứ năm nương vào đâu, vị ấy biết chúng nương vật. Vật là thân vật chất (karajakāya), như lời dạy: “Thức này của ta nương ở đây, gắn liền với đây.” Xét theo thực nghĩa, thân ấy là các đại chủng và sắc y sinh. (Chú giải Trung bộ, tập 1, tr. 281; Chú giải Abhidhamma, tập 2, tr. 252–253.)
+
+Sớ giải giải thích rằng để phân định danh sắc thì phải quán sắc không sót. Do đó nói “vật là thân vật chất”. Khi trình bày thân vật chất là chỗ nương, Sớ giải dẫn lời: “Thức này của ta nương ở đây, gắn liền với đây.” (Mūlaṭīkā, tập 2, tr. 157.)
+
+Hành giả đã quán danh pháp do năm pháp có xúc là thứ năm dẫn đầu hãy dùng tuệ xét: “Các danh pháp ấy nương đâu mà sinh?”…
+
+
+<a id="M04-body-P072"></a>
+## Thân vật chất là chỗ nương
+Miến / Burmese 72
+
+… Khi xét như vậy, vị ấy biết rõ chúng nương sắc làm vật. Vật là thân vật chất. Về thân ấy, Đức Phật dạy: “Thức này của ta nương thân vật chất này, gắn liền với thân này.” (Trường bộ, tập 1, tr. 72; Trung bộ, tập 2, tr. 209.) Xét theo thực pháp, thân vật chất gồm sắc đại chủng và sắc y sinh. (Chú giải Trường bộ, tập 2, tr. 314–315; Chú giải Trung bộ, tập 1, tr. 281; Chú giải Abhidhamma, tập 2, tr. 252–253.)
+
+“Không có người, chúng sinh, sinh mạng, tự ngã, người trời hay Phạm thiên, chỉ có danh sắc.” Để đạt tuệ phân định danh sắc như vậy, cần quán sắc không sót. Vì thế Chú giải nói “vật là thân vật chất”. Vật ở đây bao hàm cả sắc đại chủng và sắc y sinh có cùng nơi, cùng môn với các vật nương, tức toàn bộ 54 hoặc 44 sắc ở môn tương ứng. Để chỉ rằng toàn bộ các sắc đại chủng và sắc y sinh của thân vật chất làm chỗ nương, Sớ giải nêu lời trong Kinh Sāmaññaphala (Trường bộ, tập 1, tr. 72) và Kinh Mahāsakuludāyi (Trung bộ, tập 2, tr. 209). (Mūlaṭīkā, tập 2, tr. 157.)
+
+Trên đây là một số nguyên tắc hành giả muốn quán danh pháp nên tuân theo. Các nguyên tắc khác…
+
+
+<a id="M04-body-P073"></a>
+## Từ nguyên tắc đến các lộ tâm
+Miến / Burmese 73
+
+… sẽ được trình bày khi thích hợp. Khi quán danh pháp có sáu lộ, bắt đầu bằng lộ nhãn môn. Vì lộ ý môn có ít tâm trong lộ hơn, trước hết sẽ trình bày cách quán danh từ lộ ý môn. Thanh tịnh đạo dạy người lấy thiền chỉ làm cỗ xe bắt đầu từ lộ ý môn có tốc hành an chỉ (tập 2, tr. 222). Vì vậy, trước hết trình bày cách quán các danh pháp thiền trong lộ nhập thiền.
+
+Ghi chú. Các danh pháp của lộ nhãn môn và ý môn lấy cảnh sắc gọi là danh pháp tuyến cảnh sắc. Tương tự, danh pháp của lộ nhĩ môn và ý môn lấy tiếng gọi là tuyến cảnh thinh, của lộ tỷ môn và ý môn lấy mùi là tuyến cảnh mùi, của lộ thiệt môn và ý môn lấy vị là tuyến cảnh vị, của lộ thân môn và ý môn lấy cảnh xúc là tuyến cảnh xúc. Danh pháp của lộ ý môn lấy một pháp gọi là cảnh pháp, hay một pháp trong nhóm ấy, gọi là tuyến cảnh pháp.
+
+
+<a id="M04-body-P074"></a>
+## Phần 3. Lộ nhập thiền với tợ tướng hơi thở
+Miến / Burmese 74
+
+Tợ tướng niệm hơi thở · Tuyến cảnh pháp · Lộ nhập thiền qua ý môn
+Sắc ý vật làm chỗ nương | 54 | 54 | 54 | 54 | 54 | 54
+Sơ thiền | 12 | 34 | 34 | 34 | 34 | 34 …
+Nhị thiền | 12 | 34 | 34 | 34 | 34 | 32 … (bỏ tầm và tứ)
+Tam thiền | 12 | 34 | 34 | 34 | 34 | 31 … (bỏ thêm hỷ)
+Tứ thiền | 12 | 33 | 33 | 33 | 33 | 31 … (xả thay lạc)
+
+Nếu thiện hữu đã tu tập mười biến xứ đến các chứng đắc thuộc tám tầng thiền, hãy tiếp tục quán các danh pháp ấy theo bảng dưới đây.
+
+
+<a id="M04-body-P075"></a>
+## Lộ nhập thiền với tợ tướng biến xứ
+Miến / Burmese 75
+
+Tợ tướng biến xứ · Tuyến cảnh pháp · Lộ nhập thiền qua ý môn
+Sắc ý vật làm chỗ nương | 54 | 54 | 54 | 54 | 54 | 54
+Sơ thiền | 12 | 34 | 34 | 34 | 34 | 34 …
+Nhị thiền | 12 | 34 | 34 | 34 | 34 | 32 … (bỏ tầm và tứ)
+Tam thiền | 12 | 34 | 34 | 34 | 34 | 31 … (bỏ thêm hỷ)
+Tứ thiền | 12 | 33 | 33 | 33 | 33 | 31 … (xả thay lạc)
+Không vô biên xứ | 12 | 33 | 33 | 33 | 33 | 31 … (xả và nhất tâm)
+Thức vô biên xứ | 〃 | 〃 | 〃 | 〃 | 〃 | 〃
+Vô sở hữu xứ | 〃 | 〃 | 〃 | 〃 | 〃 | 〃
+Phi tưởng phi phi tưởng xứ | 〃 | 〃 | 〃 | 〃 | 〃 | 〃
+
+Tầm, tứ và hỷ. Từ bỏ tầm và tứ là vượt qua hai pháp ấy. Vì cả hai đã lắng dịu, nhị thiền không có tầm và tứ. (Thanh tịnh đạo, tập 1, tr. 151.)
+Ở giai đoạn chuẩn bị, các tâm dục giới đi cùng tầm, tứ và hỷ… (Chú giải Abhidhamma, tập 2, tr. 237.) Theo lời giải của các vị Chú giải sư…
+
+
+<a id="M04-body-P076"></a>
+## Các thiền chi ở cận định và an chỉ
+Miến / Burmese 76
+
+… tầm, tứ và hỷ vẫn có trong các tốc hành dục giới thuộc cận định như chuẩn bị và cận hành. Chỉ trong các tâm an chỉ của nhị thiền trở lên mới không có tầm và tứ, theo cách chia bốn thiền. Riêng ở tứ thiền, hỷ cũng không tương ưng với tốc hành dục giới cận định. Thanh tịnh đạo giải thích như sau.
+
+Thọ lạc không thể làm duyên tập hành cho thọ không khổ không lạc. Vì tứ thiền phải sinh với thọ không khổ không lạc nên các tâm ấy tương ưng với thọ xả. Do tương ưng với xả nên hỷ cũng suy mất. (Thanh tịnh đạo, tập 1, tr. 160.) “Các tâm ấy” chỉ các tâm an chỉ và những tâm liên hệ trong lộ ấy. (Đại sớ giải, tập 1, tr. 189.)
+
+Đây là điểm khác biệt. Vì thọ lạc không thể làm duyên tập hành cho thọ xả, bốn hoặc năm tốc hành dục giới cận định và tốc hành an chỉ trong lộ tứ thiền đều tương ưng với thọ xả. Vì các tốc hành của lộ tứ thiền đi cùng thọ xả nên hỷ cũng không có. (Thanh tịnh đạo, tập 1, tr. 160; Đại sớ giải, tập 1, tr. 189.)
+
+
+<a id="M04-body-P077"></a>
+## Bốn phạm trú · Các bảng lộ nhập thiền
+Miến / Burmese 77
+
+Từ (phạm trú)
+Sắc ý vật làm chỗ nương | 54 | 54 | 54 | 54 | 54 | 54
+Sơ thiền | 12 | 34 | 34 | 34 | 34 | 34 …
+Nhị thiền | 12 | 34 | 34 | 34 | 34 | 32 … (bỏ tầm và tứ)
+Tam thiền | 12 | 34 | 34 | 34 | 34 | 31 … (bỏ thêm hỷ)
+
+Bi (phạm trú)
+Sắc ý vật làm chỗ nương | 54 | 54 | 54 | 54 | 54 | 54
+Sơ thiền | 12 | 35 | 35 | 35 | 35 | 35 …
+Nhị thiền | 12 | 35 | 35 | 35 | 35 | 33 … (bỏ tầm và tứ)
+Tam thiền | 12 | 35 | 35 | 35 | 35 | 32 … (bỏ thêm hỷ)
+
+Hỷ (phạm trú)
+Sắc ý vật làm chỗ nương | 54 | 54 | 54 | 54 | 54 | 54
+Sơ thiền | 12 | 35 | 35 | 35 | 35 | 35 …
+Nhị thiền | 12 | 35 | 35 | 35 | 35 | 33 … (bỏ tầm và tứ)
+Tam thiền | 12 | 35 | 35 | 35 | 35 | 32 … (bỏ thêm hỷ)
+
+Xả (phạm trú)
+Sắc ý vật làm chỗ nương | 54 | 54 | 54 | 54 | 54 | 54
+Tứ thiền | 12 | 33 | 33 | 33 | 33 | 31 …
+
+
+<a id="M04-body-P078"></a>
+## Chỉ dành cho người đã đắc thiền
+Miến / Burmese 78
+
+Nếu thiện hữu đã quán bộ xương hay bất tịnh đến an chỉ, hãy quán danh pháp sơ thiền của đề mục bộ xương được tác ý là đáng nhờm gớm và của đề mục bất tịnh như hàng sơ thiền trong các bảng lộ nhập thiền lấy tợ tướng hơi thở hoặc biến xứ. Các bảng trên đủ để quán danh pháp gọi là các pháp thiền.
+
+Lābhino eva pana mahaggatacittāni supākaṭāni honti.
+Các tâm đại hành chỉ hiện rõ với người đã chứng được chúng. (Đại sớ giải, tập 2, tr. 353.) Vì vậy chỉ người đã đắc thiền mới nhận diện và quán danh pháp thiền. Người tu thuần minh sát chưa đắc thiền bỏ qua phần quán danh pháp thiền.
+
+Dù đã quán danh pháp thiền hay là người thuần minh sát chưa đắc thiền, đều cần tiếp tục quán danh pháp dục giới. Theo Thanh tịnh đạo, “Evaṃ chasu dvāresu arūpassa nibbatti passitabbā”, hãy nhận diện và quán để dùng tuệ thấy danh pháp sinh ở sáu môn. (Tập 2, tr. 253.)
+
+
+<a id="M04-body-P079"></a>
+## Ký hiệu trong lộ tâm và cách bắt đầu quán thiền
+Miến / Burmese 79
+
+Tên các tâm trong lộ ở những bảng trên:
+
+M — hướng ý môn: hướng đến, tức xác định, cảnh thiền như tợ tướng hơi thở.
+P — chuẩn bị (parikamma): tốc hành đại thiện dục giới chuẩn bị cho tốc hành thiền sinh.
+U — cận hành (upacāra): tốc hành đại thiện sinh gần tốc hành thiền.
+A — thuận thứ (anuloma): tốc hành đại thiện thuận theo sự sinh của tốc hành thiền.
+G — chuyển tộc (gotrabhū): tốc hành đại thiện vượt khỏi dòng dục giới.
+J — tốc hành thiền: tốc hành thiện sắc giới hoặc vô sắc giới.
+
+Khi quán danh pháp trong lộ nhập sơ thiền ở bảng trên, hành giả biết các tốc hành sinh theo cách chuẩn bị, cận hành, thuận thứ hay chuyển tộc, chứ không phải biết những tên chế định ấy. Các tốc hành chuẩn bị, cận hành, thuận thứ và chuyển tộc, đối với phàm nhân và bậc hữu học…
+
+
+<a id="M04-body-P080"></a>
+## Tập quán danh pháp thiền
+Miến / Burmese 80
+
+… là tốc hành đại thiện. Đối với các vị A-la-hán, chúng là tốc hành đại duy tác. Với người có tuệ sắc bén chỉ có ba tốc hành cận định: cận hành, thuận thứ và chuyển tộc.
+
+Hành giả mới thực hành đề mục danh, muốn quán danh pháp thiền, hãy nhập tầng thiền muốn quán. Sau khi xuất thiền, quán đồng thời ý môn hữu phần trong sáng và cảnh thiền, chẳng hạn tợ tướng hơi thở. Bắt đầu quán các thiền chi. Cần luyện nhiều lần. Khi tướng thiền chỉ, như tợ tướng hơi thở, hiện ở ý môn hữu phần, hãy dùng tuệ thấy, nhận diện và phân biệt các thiền chi cùng sinh trong từng sát-na tốc hành thiền liên tiếp. Khi luyện nhiều lần và đã thành công, có thể bắt đầu từ tâm biết tức thức, từ thọ, hoặc từ xúc.
+
+Chọn một trong ba cách và tăng dần từng danh pháp, cho đến khi quán đủ các thiền chi và các pháp tương ưng bằng tuệ trong từng sát-na. Trước hết nhập thiền, vừa xuất thiền thì luyện thấy một danh pháp thiền trong nhiều sát-na. Lại nhập thiền, vừa xuất thì luyện thấy hai danh pháp trong nhiều sát-na. Theo cách ấy, cứ nhập rồi xuất thiền…
+
+
+<a id="M04-body-P081"></a>
+## Ba mươi bốn danh pháp sơ thiền với tợ tướng hơi thở
+Miến / Burmese 81
+
+… tăng dần mỗi lần một danh pháp thiền. Người có nền tảng A-tỳ-đàm vững và trí nhanh có thể quán theo cách này. Người có nền tảng yếu và trí chậm đôi khi rất khó nắm được tính chất của chúng. Vì vậy, dưới đây trình bày lại 34 danh pháp sơ thiền sinh khởi khi lấy tợ tướng hơi thở làm cảnh.
+
+Nhóm các thiền chi như tầm được gọi là thiền. Tâm và các tâm sở tương ưng với thiền ấy gọi là pháp tương ưng với thiền. Hãy quán thiền và các pháp tương ưng theo đặc tính, chức năng, biểu hiện và nhân gần (Thanh tịnh đạo, tập 2, tr. 222).
+
+1. Tâm biết (citta) — tiếp nhận tợ tướng hơi thở làm cảnh. “Vijānanaṃ ārammaṇassa upaladdhi” (Mūlaṭīkā, tập 1, tr. 87).
+
+2. Xúc (phassa) — có đặc tính tiếp xúc với tợ tướng hơi thở. Chức năng là nối tâm biết với cảnh tợ tướng hơi thở.
+Ghi chú: “cảnh” của các tâm sở kể tiếp dưới đây cũng chỉ tợ tướng hơi thở.
+
+
+<a id="M04-body-P082"></a>
+## Các danh pháp sơ thiền từ thọ đến hỷ
+Miến / Burmese 82
+
+3. Thọ (vedanā) — cảm nghiệm vị của cảnh một cách dễ chịu, vui thích. Trong sơ thiền đây là thọ hỷ (somanassavedanā).
+4. Tưởng (saññā) — ghi dấu cảnh.
+5. Tư (cetanā) — thúc đẩy, đôn đốc các pháp tương ưng đến cảnh.
+6. Nhất tâm (ekaggatā) — tâm đặt trên một cảnh, đứng vững, giữ các pháp tương ưng khỏi phân tán.
+7. Mạng quyền (jīvita) — duy trì các pháp tương ưng.
+8. Tác ý (manasikāra) — hướng và thúc tâm cùng các pháp tương ưng về phía cảnh, đưa cảnh vào tâm.
+
+9. Tầm (vitakka) — đặt tâm cùng các pháp tương ưng lên cảnh, cũng có tính suy nghĩ.
+10. Tứ (vicāra) — xem xét, rà sát và nắm lấy cảnh nhiều lần.
+11. Thắng giải (adhimokkha) — quyết định đối với cảnh.
+12. Tinh tấn (viriya) — nỗ lực để biết cảnh, tức để các pháp tương ưng sinh, và nâng đỡ chúng hướng đến cảnh.
+13. Hỷ (pīti) — thích thú với cảnh.
+
+
+<a id="M04-body-P083"></a>
+## Các danh pháp sơ thiền từ dục đến khinh thân
+Miến / Burmese 83
+
+14. Dục (chanda) — muốn biết cảnh, tức muốn các pháp tương ưng sinh.
+15. Tín (saddhā) — tin vào việc tu tập định thiền.
+16. Niệm (sati) — làm các pháp tương ưng chìm vào cảnh như đá, thay vì nổi như quả bầu. Niệm không quên cảnh và giữ tâm trên cảnh.
+17. Tàm (hiri) — hổ thẹn trước điều xấu, pháp bất thiện và ác hạnh.
+18. Quý (ottappa) — sợ điều xấu, pháp bất thiện và ác hạnh.
+
+19. Vô tham (alobha) — không dính mắc, không đắm vào cảnh, không chiếm hữu là “của tôi”.
+20. Vô sân (adosa) — tâm không thô bạo hay hung dữ đối với cảnh, không muốn hủy hoại cảnh.
+21. Trung tánh (tatramajjhattatā) — giữ tâm quân bình trên cảnh hành thiền, tránh cả phấn khích, tức mạn, lẫn sa sút, tức hôn trầm và thụy miên. Đối với cảnh, trung tánh giữ thái độ xả.
+22. Tịnh thân (kāyapassaddhi) — các tâm sở an tịnh trên cảnh.
+23. Tịnh tâm (cittapassaddhi) — tâm an tịnh trên cảnh.
+24. Khinh thân (kāyalahutā) — các tâm sở nhanh nhẹ trên cảnh.
+
+
+<a id="M04-body-P084"></a>
+## Các danh pháp sơ thiền từ khinh tâm đến tuệ
+Miến / Burmese 84
+
+25. Khinh tâm (cittalahutā) — tâm nhanh nhẹ trên cảnh.
+26. Nhu thân (kāyamudutā) — các tâm sở mềm mại trên cảnh.
+27. Nhu tâm (cittamudutā) — tâm mềm mại trên cảnh.
+28. Thích nghiệp thân (kāyakammaññatā) — các tâm sở dễ sử dụng, thích hợp và thuận tiện đối với cảnh.
+29. Thích nghiệp tâm (cittakammaññatā) — tâm dễ sử dụng, thích hợp và thuận tiện đối với cảnh.
+
+30. Thuần thục thân (kāyapāguññatā) — các tâm sở thành thạo, dễ tu tập và không mắc bệnh phiền não.
+31. Thuần thục tâm (cittapāguññatā) — tâm thành thạo, dễ tu tập và không mắc bệnh phiền não.
+32. Chánh trực thân (kāyujukatā) — các tâm sở ngay thẳng trên cảnh, không quanh co do giả dối và xảo trá.
+33. Chánh trực tâm (cittujukatā) — tâm ngay thẳng trên cảnh, không quanh co do giả dối và xảo trá.
+34. Tuệ (paññā) — thấu rõ cảnh tợ tướng hơi thở.
+
+Ghi chú: 12 danh pháp ở hướng ý môn là tâm cùng các tâm sở từ tâm biết đến tinh tấn, trong 34 danh pháp nêu trên.
+
+
+<a id="M04-body-P085"></a>
+## Tuệ phân định danh
+Miến / Burmese 85
+
+Các danh pháp thiền phần nhiều chỉ lấy tợ tướng làm cảnh, nhưng cũng có ngoại lệ. Trong đề mục hơi thở, thiền và các danh pháp tương ưng lấy tợ tướng hơi thở làm cảnh. Trong đề mục tác ý tính đáng ghê của xương, chúng lấy tợ tướng xương làm cảnh. Trong biến xứ trắng (odāta), chúng lấy tợ tướng biến xứ trắng làm cảnh. Với đề mục từ, cảnh là chúng sinh theo chế định. Với đề mục bất tịnh, cảnh là tợ tướng tử thi bất tịnh. Nếu hành giả đã tu tập và an trú trong thiền với hơi thở, tác ý tính đáng ghê của xương, biến xứ trắng và bốn đề mục hộ trì, hãy quán và tìm các danh pháp thiền như sau.
+
+1. Hơi thở — sơ thiền, nhị thiền, tam thiền, tứ thiền.
+2. Tác ý tính đáng ghê của xương — sơ thiền.
+3. Biến xứ trắng — sơ thiền, nhị thiền, tam thiền, tứ thiền.
+4. Tâm từ — sơ thiền, nhị thiền, tam thiền.
+5. Bất tịnh — sơ thiền.
+
+Nếu thiện nhân đã tu tập cả mười biến xứ, và với mỗi biến xứ đã tu tập các chứng đắc, tất cả tám chứng đắc đều thuộc danh sách cảnh quán của tuệ minh sát. Các tầng thiền vô sắc…
+
+
+<a id="M04-body-P086"></a>
+## Cách bắt đầu quán danh pháp sơ thiền
+Miến / Burmese 86
+
+… đều có 31 danh pháp, bằng số danh pháp của tứ thiền. Hãy tìm và quán theo bảng tứ thiền. Với các đề mục còn lại, hãy hiểu tương tự, ngoại trừ bi và hỷ vô lượng. Hai đề mục này có thể đạt đến tam thiền. Với bi, thêm tâm sở bi vào các danh pháp thiền hơi thở. Với hỷ vô lượng, thêm tâm sở tùy hỷ. Do đó ba tầng lần lượt có 35, 33 và 32 danh pháp.
+
+Hãy tìm và quán các danh pháp thiền theo bảng. Trong các tốc hành dẫn đến nhị thiền và những tầng cao hơn, tức chuẩn bị, cận hành, thuận thứ và chuyển tộc, tầm và tứ vẫn tương ưng (Chú giải A-tỳ-đàm, tập 2, tr. 237). Trong các sát-na cận định của tứ thiền, hỷ cũng vắng mặt (Thanh tịnh đạo, tập 1, tr. 160).
+
+Muốn tìm và quán danh pháp sơ thiền hơi thở, trước hết nhập sơ thiền hơi thở. Sau khi xuất, bắt đầu quán các thiền chi. Hãy tập thấy các thiền chi sinh nối tiếp, không gián đoạn, nhiều lần. Nếu chưa đủ sức, lại lấy tợ tướng hơi thở làm cảnh và nhập sơ thiền. Khi xuất:
+
+1. Quán hữu phần trong sáng, tức ý môn.
+2. Hướng tâm đến và quán cảnh tợ tướng hơi thở.
+3. Khi tợ tướng ấy hiện ở hữu phần trong sáng, tức ý môn, hãy lại quán và tìm các thiền chi.
+
+
+<a id="M04-body-P087"></a>
+## Tăng dần số danh pháp được quán
+Miến / Burmese 87
+
+Khi vừa xuất thiền, tợ tướng hơi thở vẫn còn và chưa dễ biến mất. Nếu tập đi tập lại theo phương pháp này, quán vật nương và cảnh cùng với danh pháp thiền, hành giả sẽ dần tìm và quán được nhiều lần sinh của các thiền chi. Đây là chỉ dẫn cổ truyền do Tôn giả Sāriputta, bậc thống lãnh Chánh pháp, kính cẩn thực hành.
+
+Trước hết, trở lại sơ thiền với tợ tướng hơi thở. Sau đó bắt đầu quán danh pháp thiền từ tâm biết, tức thức, hoặc từ thọ hay xúc. Nếu bắt đầu từ thức, hãy tập thấy riêng một tâm biết sinh nhiều lần liên tiếp. Bắt đầu từ thọ hay xúc cũng tương tự. Khi thành công, nhập thiền lại. Vừa xuất, tập thấy bằng tuệ từng cặp tâm biết và xúc sinh nhiều lần. Khi thành công, lại nhập thiền. Vừa xuất, quán từng nhóm ba là tâm biết, xúc, thọ. Tiếp đến nhóm bốn gồm thêm tưởng, nhóm năm gồm thêm tư, rồi cứ tăng dần từng pháp.
+
+Cuối cùng, hãy tập thấy bằng tuệ 12 danh pháp trong sát-na hướng ý môn và 34 trong mỗi sát-na tốc hành sinh nhiều lần liên tiếp. Hãy nhập thiền nhiều lần và mỗi lần xuất thiền thì tăng thêm một danh pháp để quán. Khi thành công…
+
+
+<a id="M04-body-P088"></a>
+## Phân định danh và lưu ý về mười sáu pháp
+Miến / Burmese 88
+
+Pariggahetvā sabbampetaṃ ārammaṇābhimukhaṃ namanato namanaṭṭhena nāmanti vavatthapeti.
+Sau khi quán, vị ấy phân định tất cả đây là danh theo nghĩa nghiêng về cảnh (Thanh tịnh đạo, tập 2, tr. 222).
+
+Khi dùng tuệ phân biệt được 12 danh pháp ở hướng ý môn và 34 danh pháp đồng sinh ở mỗi sát-na chuẩn bị, cận hành, thuận thứ, chuyển tộc và tốc hành thiền, sinh liên tiếp nhiều lần, hãy thấy tất cả đều hướng và nghiêng về cùng một cảnh là tợ tướng hơi thở. Do tính nghiêng về cảnh, hãy phân định và quán chúng là danh, danh pháp.
+
+Ghi chú: Cần nhiều lần luân phiên nhập thiền và quán danh pháp thiền. Danh pháp thiền hiện rõ với tuệ ngay sau khi xuất thiền. Đừng quên nhập lại khi chúng không rõ.
+
+Những điểm cần lưu ý. Trong Kinh Bất Đoạn (Anupada Sutta), khi Tôn giả Sāriputta quán danh pháp sơ thiền để tu tập minh sát, bản Pāli nêu đích danh 16 danh pháp: tầm, tứ, hỷ, lạc, nhất tâm, xúc, thọ, tưởng, tư, tâm, dục, thắng giải, tinh tấn, niệm, xả tức trung tánh, và tác ý. Chú giải cũng nói “soḷasa dhammā”, mười sáu pháp (Chú giải Trung bộ, tập 4, tr. 60), và giải rằng ngài quán chúng theo đặc tính riêng. Tuy nhiên, vị luận sư có danh hiệu Ācariya Dhammapāla…
+
+
+<a id="M04-body-P089"></a>
+## Hai cách giải về danh pháp được nêu trong Kinh Bất Đoạn
+Miến / Burmese 89
+
+… phân biệt hai cách giải, cách giải của các vị tiền bối và một cách giải khác, như sau (Phụ chú giải Trung bộ, tập 3, tr. 277).
+
+Soḷasannaṃ eva cettha dhammānaṃ gahaṇaṃ tesaṃyeva therena vavatthāpitabhāvato, te evassa tadā upaṭṭhahiṃsu, na itareti vadanti. Vīriyasatiggahaṇena cettha indriyabhāvasāmaññato saddhāpaññā, satiggahaṇeneva ekantānavajjabhāvasāmaññato passaddhiādayo cha yugaḷā, alobhādosā ca saṅgahitā jhānacittuppādapariyāpannattā tesaṃ dhammānaṃ. Therena ca dhammā vavatthānasāmaññato āraddhā. Te na upaṭṭhahiṃsūti na sakkā vattunti apare.
+
+Cách giải của các vị tiền bối. Kinh trực tiếp giảng và nêu riêng 16 pháp tương ưng với thiền vì Tôn giả Sāriputta đã phân định từng pháp trong số ấy bằng tuệ. Khi đó, chính 16 pháp này hiện rõ và đứng vững trong tuệ biết của ngài. Những pháp tương ưng với thiền khác không hiện rõ, theo lời các vị thầy.
+
+Cách giải khác. Trong các danh pháp sơ thiền này, tinh tấn và niệm đảm nhiệm vai trò quyền, gọi là tinh tấn quyền và niệm quyền. Khi nêu đích danh tinh tấn và niệm, thì tín và tuệ, cũng có vai trò quyền, đã được bao hàm và đã được giảng. Mạng quyền cũng theo cách ấy. Niệm chỉ tương ưng với tâm tịnh hảo và hoàn toàn không lỗi. Khi nêu đích danh niệm không lỗi…
+
+
+<a id="M04-body-P090"></a>
+## Các pháp được bao hàm trong cách giải khác
+Miến / Burmese 90
+
+… cũng đã bao hàm và giảng các tâm sở hoàn toàn không lỗi cùng tính chất ấy. Đó là sáu cặp tâm sở, tịnh thân và tịnh tâm, khinh thân và khinh tâm, nhu thân và nhu tâm, thích nghiệp thân và thích nghiệp tâm, thuần thục thân và thuần thục tâm, chánh trực thân và chánh trực tâm, cũng như vô tham và vô sân. Các pháp ấy đều bao hàm trong sự sinh khởi của tâm thiền. Tôn giả Sāriputta cũng phân định mỗi pháp tương ưng với thiền theo đặc tính riêng và tu tập minh sát. Vì thế, các vị theo cách giải khác nói rằng không nên bảo các pháp tương ưng với thiền ngoài 16 pháp ấy đã không hiện rõ trong tuệ biết của ngài (Phụ chú giải Trung bộ, tập 3, tr. 277).
+
+Yo yo aṭṭhakathāvādo vā theravādo vā pacchā vuccati, so pamāṇato daṭṭhabbo.
+Cách giải nào của Chú giải hay của các trưởng lão được nêu sau cùng, hãy xem cách ấy là chuẩn (Chú giải Luật, tập 1, tr. 260).
+
+Theo quy ước giải thích ấy (Chú giải Luật, tập 1, tr. 260), vị phụ chú giải đặt cách giải khác ở cuối để người đọc ghi nhận đó là kết luận có thẩm quyền. Cách giải ấy cũng phù hợp với các kinh giảng theo lối không hạn định. Sau khi quán các danh pháp trong chứng đắc thiền theo cách này, bước thực hành kế tiếp…
+
+
+<a id="M04-body-P091"></a>
+## Phân biệt danh và sắc
+Miến / Burmese 91
+
+… được Chú giải Thanh tịnh đạo chỉ dẫn như sau.
+
+Tato yathā nāma puriso antogehe sappaṃ disvā taṃ anubandhamāno tassa āsayaṃ passati, evameva ayampi yogāvacaro taṃ nāmaṃ upaparikkhanto “idaṃ nāmaṃ kiṃ nissāya pavattatī”ti pariyesamāno tassa nissayaṃ hadayarūpaṃ passati. Tato hadayarūpassa nissayabhūtāni, bhūtanissitāni ca sesupādāyarūpānīti rūpaṃ pariggaṇhāti. So sabbampetaṃ ruppanato rūpanti vavatthapeti. Tato namanalakkhaṇaṃ nāmaṃ, ruppanalakkhaṇaṃ rūpanti saṅkhepato nāmarūpaṃ vavatthapeti.
+Thanh tịnh đạo, tập 2, tr. 222.
+
+Sau khi quán danh pháp thiền, hành giả giống như người thấy con rắn trong nhà rồi theo dấu nó đến chỗ ở. Hành giả dùng tuệ tra xét: “Danh pháp này nương vào đâu mà sinh khởi?” Khi tìm, vị ấy thấy sắc ý vật là chỗ nương của danh. Tiếp đó vị ấy dùng tuệ phân biệt và quán bốn đại chủng mà sắc ý vật nương vào, cùng các sắc y sinh khác nương bốn đại chủng ấy. Do tính biến hoại, vị ấy phân định tất cả các pháp này là sắc. Sau đó…
+
+
+<a id="M04-body-P092"></a>
+## Từ danh pháp thiền đến danh pháp lấy sắc làm cảnh
+Miến / Burmese 92
+
+1. Pháp có đặc tính nghiêng về cảnh là danh.
+2. Pháp có đặc tính biến hoại là sắc.
+Vị ấy phân định danh sắc một cách tóm lược như vậy (Thanh tịnh đạo, tập 2, tr. 222).
+
+Theo lời Chú giải trên, sau khi quán danh pháp thiền, hãy quán tiếp 54 sắc đại chủng và sắc y sinh ở tim, chỗ nương của danh pháp thiền, rồi phân định sắc và danh. Khi quán danh pháp dục giới trong lộ nhãn môn và các lộ ngũ môn, ý môn khác, cũng hãy quán sắc ở cửa tương ứng mà danh pháp ấy nương vào rồi phân định danh và sắc. Xem bảng phần sắc để biết sắc đại chủng và sắc y sinh ở sáu cửa.
+
+Sau khi quán các danh pháp thiền thuộc phạm vi cảnh pháp, hành giả quán tiếp danh pháp sinh khi lấy sắc làm cảnh. Theo cảnh, sắc được phân vào sáu loại: cảnh sắc, tiếng, mùi, vị, xúc và pháp. Trong sáu loại ấy, nếu bắt đầu với dòng lộ ý môn đơn thuần lấy năm sắc thần kinh và mười sáu sắc vi tế thuộc cảnh pháp làm cảnh thì dễ hơn, vì số loại tâm ít hơn. Trong số sắc thuộc cảnh pháp có 11 sắc chân thật và 10 sắc không chân thật. Vì nam hành giả không thấy sắc nữ tính trong dòng tương tục của mình, và nữ hành giả không thấy sắc nam tính trong dòng tương tục của mình, nên chỉ có mười sắc chân thật trong dòng tương tục của mình làm cảnh cho…
+
+
+<a id="M04-body-P093"></a>
+## Như lý tác ý và phi như lý tác ý
+Miến / Burmese 93
+
+… những danh pháp cần tìm và quán. Chỉ xét về thực hành, có thể lấy các sắc theo nhóm chung khi cách thực hành giống nhau. Phụ chú giải cũng giải rằng đây là sự tổng quát dành cho người nghe, xét theo chỗ giống nhau trong cách thực hành, không phân riêng theo dòng tương tục của người khác (Phụ chú giải Trung bộ, tập 3, tr. 274–275). Hãy quán danh pháp sinh khi lấy từng sắc trong số ấy làm cảnh. Khi hướng ý môn trong các lộ ấy xác định cảnh theo như lý tác ý, lộ ý môn đơn thuần có tốc hành thiện sinh. Khi xác định theo phi như lý tác ý, lộ ý môn đơn thuần có tốc hành bất thiện sinh. Dưới đây giải tóm lược hai cách tác ý ấy.
+
+Parasantānagate ca tesaṃ santānavibhāgaṃ akatvā bahiddhābhāvasāmaññato sammasanaṃ, ayaṃ sāvakānaṃ sammasanacāro.
+
+So “idaṃ dukkhan”ti yoniso manasi karoti, “ayaṃ dukkhasamudayo”ti yoniso manasi karoti, “ayaṃ dukkhanirodho”ti yoniso manasi karoti, “ayaṃ dukkhanirodhagāminī paṭipadā”ti yoniso manasi karoti.
+Trung bộ, tập 1, tr. 11–12.
+
+Tattha katamo ayoniso manasikāro? “Anicce niccan”ti ayoniso manasikāro, “dukkhe sukhan”ti ayoniso manasikāro, “anattani attā”ti ayoniso manasikāro, “asubhe subhan”ti ayoniso manasikāro. Saccavippaṭikūlena vā cittassa āvaṭṭanā anāvaṭṭanā ābhogo samannāhāro manasikāro. Ayaṃ vuccati ayoniso manasikāro.
+A-tỳ-đàm, tập 2, tr. 387–388.
+
+
+<a id="M04-body-P094"></a>
+## Định nghĩa và bốn cách như lý tác ý
+Miến / Burmese 94
+
+Tattha yoniso manasikāro nāma upāyamanasikāro pathamanasikāro. Aniccādīsu aniccantiādināva nayena saccānulomikena vā cittassa āvaṭṭanā anāvaṭṭanā ābhogo samannāhāro manasikāro. Ayaṃ vuccati yoniso manasikāroti.
+Chú giải Trung bộ, tập 1, tr. 66.
+
+Ayoniso manasikāroti anupāyamanasikāro uppathamanasikāro. Anicce niccanti dukkhe sukhanti anattani attāti asubhe subhanti ayoniso manasikāro uppathamanasikāro. Saccavippaṭikūlena vā cittassa āvaṭṭanā anāvaṭṭanā ābhogo samannāhāro manasikāro. Ayaṃ vuccati ayoniso manasikāroti.
+Chú giải Trung bộ, tập 1, tr. 66–67.
+
+Cittassa āvaṭṭanātiādīni sabbāni pi āvajjanasseva vevacanāni. Āvaṭṭanāti bhavaṅgaṃ āvaṭṭetīti cittassa āvaṭṭanā.
+Chú giải A-tỳ-đàm, tập 2, tr. 482.
+
+Như lý tác ý là tác ý đúng phương pháp, đúng đường lối: “Đây là Thánh đế về khổ”, “Đây là Thánh đế về nguồn gốc khổ”, “Đây là Thánh đế về sự diệt khổ”, và “Đây là Thánh đế về con đường đưa đến diệt khổ, đến Niết-bàn”. Tác ý như vậy gọi là như lý tác ý (Trung bộ, tập 1, tr. 11–12).
+
+
+<a id="M04-body-P095"></a>
+## Tác ý thuận và nghịch với bốn Thánh đế
+Miến / Burmese 95
+
+Như lý tác ý là đặt cảnh trong tâm và tác ý đúng phương pháp, đúng đường lối, làm nhân cho lợi ích an lạc của đạo, quả và Niết-bàn.
+
+1. Tác ý năm uẩn vô thường là vô thường.
+2. Tác ý năm uẩn khổ là khổ.
+3. Tác ý năm uẩn vô ngã là vô ngã.
+4. Tác ý năm uẩn bất tịnh là bất tịnh.
+
+Hướng tâm theo cách ấy hoặc theo cách thuận với bốn Thánh đế là xoay tâm hữu phần, chuyển tâm theo chiều đúng, đưa cảnh vào tâm, hướng đúng đến một cảnh khác cảnh hữu phần và đặt cảnh khác ấy trong tâm. Hướng tâm tác ý như vậy gọi là như lý tác ý (Chú giải Trung bộ, tập 1, tr. 66).
+
+Phi như lý tác ý là gì?
+1. Tác ý năm uẩn vô thường là thường.
+2. Tác ý năm uẩn khổ là lạc.
+3. Tác ý năm uẩn vô ngã là ngã.
+4. Tác ý năm uẩn bất tịnh là tịnh.
+
+Đó là đặt cảnh trong tâm theo cách không làm nhân cho lợi ích an lạc của đạo, quả và Niết-bàn, là tác ý sai phương pháp, sai đường lối. Lại nữa, hướng tâm xoay hữu phần theo cách bất lợi cho sự thấu suốt bốn Thánh đế…
+
+
+<a id="M04-body-P096"></a>
+## Đại thiện lấy nhãn tịnh sắc làm cảnh
+Miến / Burmese 96
+
+… xoay tâm theo chiều sai, đưa cảnh vào tâm, hướng đến một cảnh khác cảnh hữu phần và đặt cảnh khác ấy trong tâm. Hướng tâm tác ý sai phương pháp, sai đường lối như vậy gọi là phi như lý tác ý (A-tỳ-đàm, tập 2, tr. 387–388. Chú giải Trung bộ, tập 1, tr. 66–67).
+
+Theo lời giải trên, tác ý đến sắc danh chân đế là sắc, danh, nhân, quả, vô thường, khổ, vô ngã hoặc bất tịnh đều là như lý tác ý. Tác ý đến nhãn tịnh sắc là nhãn tịnh sắc, là sắc, vô thường, khổ, vô ngã hoặc bất tịnh cũng là như lý tác ý. Hãy hiểu tương tự với tất cả sắc danh.
+
+Ba mươi bốn danh pháp đại thiện sinh khi lấy nhãn tịnh sắc làm cảnh.
+1. Tâm biết — tiếp nhận cảnh nhãn tịnh sắc.
+2. Xúc — tiếp xúc với cảnh nhãn tịnh sắc và nối tâm biết với cảnh ấy.
+3. Thọ — cảm nghiệm vị của cảnh nhãn tịnh sắc một cách…
+
+
+<a id="M04-body-P097"></a>
+## Các danh pháp lấy nhãn tịnh sắc làm cảnh
+Miến / Burmese 97
+
+… dễ chịu (thọ hỷ).
+4. Tưởng — ghi dấu cảnh nhãn tịnh sắc.
+5. Tư — thúc đẩy và đôn đốc các pháp tương ưng đến cảnh nhãn tịnh sắc.
+6. Nhất tâm — đặt tâm trên một cảnh nhãn tịnh sắc, giữ tâm đứng vững và giữ các pháp tương ưng khỏi phân tán.
+7. Mạng quyền — duy trì các pháp tương ưng.
+8. Tác ý — hướng, thúc tâm cùng các pháp tương ưng về cảnh nhãn tịnh sắc và đưa cảnh ấy vào tâm.
+
+Chừng ấy đủ để nắm ý nên ở đây chỉ nêu vài tâm sở tiêu biểu. Chúng chỉ khác 34 danh pháp thiền ở cảnh, còn chủng loại giống nhau.
+
+15. Tín — tin vào sự tu tập tuệ thấu rõ cảnh nhãn tịnh sắc.
+34. Tuệ — thấu rõ cảnh nhãn tịnh sắc.
+
+Như vậy đủ để hiểu các danh pháp sinh khi lấy nhãn tịnh sắc làm cảnh. Đối với thiện nhân đã học thuộc 52 tâm sở…
+
+
+<a id="M04-body-P098"></a>
+## Chuẩn bị đọc bảng lộ ý môn đơn thuần
+Miến / Burmese 98
+
+… cùng tính chất và nghĩa của chúng, việc này không khó lắm. Hãy hiểu tương tự đối với nhĩ tịnh sắc và các sắc chân thật, không chân thật khác. Lấy nhãn tịnh sắc làm mẫu, dưới đây trình bày một bảng lộ ý môn đơn thuần thuộc nhóm thiện đối với cảnh pháp. “Nhóm thiện” ở đây chỉ các lộ có tốc hành thiện.
+
+
+<a id="M04-body-P099"></a>
+## Bảng nhóm thiện của lộ ý môn đơn thuần
+Miến / Burmese 99
+
+Lộ ý môn đơn thuần lấy cảnh pháp. Sắc vật nương ở tim: 54.
+1. Là nhãn tịnh sắc | 12 | 34 | 34 | Hợp trí, hợp hỷ
+ | 12 | 33 | 33 | Hợp trí, ly hỷ
+ | 12 | 33 | 33 | Ly trí, hợp hỷ
+ | 12 | 32 | 32 | Ly trí, ly hỷ
+2. Là sắc | 12 | 34 (33 / 33 / 32) | 34 (33 / 33 / 32) | Như bốn trường hợp trên
+3. Là vô thường | 12 | 34 (33 / 33 / 32) | 34 (33 / 33 / 32) | Như bốn trường hợp trên
+4. Là khổ | 12 | 34 (33 / 33 / 32) | 34 (33 / 33 / 32) | Như bốn trường hợp trên
+5. Là vô ngã | 12 | 34 (33 / 33 / 32) | 34 (33 / 33 / 32) | Như bốn trường hợp trên
+6. Là bất tịnh | 12 | 34 (33 / 33 / 32) | 34 (33 / 33 / 32) | Như bốn trường hợp trên
+
+
+<a id="M04-body-P100"></a>
+## Cách quán lộ ý môn có tốc hành thiện
+Miến / Burmese 100
+
+Ở đây, tâm và tâm sở biết “nhãn tịnh sắc”, biết “sắc”, biết “vô thường”, biết “khổ”, biết “vô ngã”, và biết “bất tịnh” chính là danh pháp mà hành giả đang tìm và quán.
+
+Bảng trên trình bày cách quán danh pháp sinh khi lấy nhãn tịnh sắc làm cảnh theo 24 trường hợp. Bảng nhằm giúp hiểu cách tốc hành thiện sinh khi biết tác ý đúng. Khi quán, hãy nhớ trước hết phân tích các nhóm sắc cho đến khi thấu đạt nhãn tịnh sắc là chân đế. Hiểu tương tự với tất cả sắc chân thật và không chân thật. Sau đây lấy các lộ ý môn có tốc hành thiện với nhãn tịnh sắc làm cảnh để minh họa phương pháp.
+
+1. Tái lập một định tứ thiền đã đắc hoặc định cao nhất mình ưa thích.
+2. Quán hữu phần trong sáng, tức ý môn.
+
+
+<a id="M04-body-P101"></a>
+## Sáu cách như lý tác ý đến nhãn tịnh sắc
+Miến / Burmese 101
+
+3. Hướng tâm đến nhãn tịnh sắc chân đế. Khi cảnh nhãn tịnh sắc xuất hiện, tức đến trước hữu phần trong sáng là ý môn, các dòng tâm lộ ý môn có tốc hành sẽ sinh. Tâm hướng ý môn trong dòng lộ ấy xác định cảnh theo những cách sau.
+
+1. Xác định đó là nhãn tịnh sắc.
+2. Xác định nhãn tịnh sắc là sắc pháp.
+3. Lấy tính sinh diệt, tức tính tan rã của nhãn tịnh sắc làm cảnh và quán là vô thường.
+4. Lấy tính bị sinh diệt bức bách liên tục làm cảnh và quán là khổ.
+5. Lấy tính không có tự ngã bền vững, thường còn và có thực chất bất hoại làm cảnh và quán là vô ngã.
+6. Lấy tính đáng ghê tởm do nhãn tịnh sắc lẫn với màu sắc, mùi và các thứ bất tịnh làm cảnh và quán là bất tịnh.
+
+Tác ý đúng, tức như lý tác ý, thì tốc hành thiện sẽ sinh. Trong sáu cách ấy, thiện nhân hãy bắt đầu quán dòng tâm lộ ý môn có tốc hành biết cảnh theo cách thứ nhất, là nhãn tịnh sắc. Có thể bắt đầu từ tâm biết tức thức, từ xúc, hoặc từ thọ.
+
+
+<a id="M04-body-P102"></a>
+## Quán từng danh pháp trong lộ ý môn
+Miến / Burmese 102
+
+Nếu bắt đầu từ tâm biết tức thức, hãy tập thấy nhiều lần bằng tuệ rằng các tâm biết sinh một lần ở hướng ý môn, bảy lần ở tốc hành và hai lần ở đăng ký. Khi cảnh nhãn tịnh sắc hiện ở hữu phần trong sáng là ý môn, hãy nương vào ý môn ấy và sắc ý vật để tập thấy các dòng tâm lộ ý môn sinh đi sinh lại, xen giữa các lộ là nhiều tâm hữu phần.
+
+Khi thành công, thêm dần từng tâm sở: tâm biết và xúc, mỗi nhóm hai pháp, rồi thêm thọ thành nhóm ba, thêm tưởng thành nhóm bốn, và cứ tăng như thế. Tập cho đến khi thấy đủ các pháp đồng sinh trong từng sát-na, 12 pháp ở hướng ý môn, 34 ở mỗi tốc hành và 34 ở mỗi đăng ký. Khi tập mà danh pháp không rõ, hãy tái lập một định tứ thiền. Khi ánh sáng tuệ mạnh trở lại, quán đồng thời cảnh đang quán, như nhãn tịnh sắc, và hữu phần trong sáng, rồi tăng dần từng danh pháp. Hãy luyện nhiều lần, quán cùng lúc ý môn và cảnh. Mỗi khi danh pháp không rõ, hãy dùng cách này.
+
+Khi có thể thấy bằng tuệ, hãy thấy các pháp này nghiêng về cảnh nhãn tịnh sắc và quán chúng là “danh pháp, danh pháp”. Quán tương tự trong các cách như lý tác ý còn lại. Khi quán như vậy, ở tốc hành và đăng ký…
+
+
+<a id="M04-body-P103"></a>
+## Bốn trường hợp hợp trí và hợp hỷ
+Miến / Burmese 103
+
+1. Có khi hợp cả trí và hỷ. Đó là tâm đại thiện câu hành thọ hỷ, tương ưng trí.
+2. Có khi hợp trí mà không hợp hỷ. Đó là tâm đại thiện câu hành thọ xả, tương ưng trí.
+3. Có khi không hợp trí nhưng hợp hỷ. Đó là tâm đại thiện câu hành thọ hỷ, ly trí.
+4. Có khi không hợp trí cũng không hợp hỷ. Đó là tâm đại thiện câu hành thọ xả, ly trí.
+Cộng lại có bốn trường hợp.
+
+Khi quán nhãn tịnh sắc là nhãn tịnh sắc, có bốn cách tùy có hay không có trí và hỷ. Cũng hãy quán bốn cách khi biết nhãn tịnh sắc là sắc, là vô thường, là khổ, là vô ngã và là bất tịnh. Cộng lại có 24 lần.
+
+Tâm đại thiện có bốn loại hữu trợ (sasaṅkhārika) và bốn loại vô trợ (asaṅkhārika), tổng cộng tám loại. Hữu trợ là có sự thúc đẩy, vô trợ là không có sự thúc đẩy. Vì sự phân biệt hữu trợ và vô trợ không đổi số tâm sở, ở đây chỉ trình bày bốn cách quán nói trên. Trong khi quán, hành giả sẽ dần hiểu tính chất hữu trợ và vô trợ. Bốn cách ở mỗi nhóm hợp thành tám trường hợp tâm đại thiện. Với tâm đại duy tác chỉ sinh trong dòng tương tục của các vị A-la-hán cũng hiểu tương tự.
+
+
+<a id="M04-body-P104"></a>
+## Điều cần biết về tâm đăng ký
+Miến / Burmese 104
+
+Thông thường, đăng ký chỉ có thể sinh khi tốc hành thuộc dục giới, chúng sinh thuộc dục giới và cảnh cũng thuộc dục giới, tức cảnh rất lớn ở ngũ môn hoặc cảnh rõ ở ý môn. Cảnh dục giới là tâm, tâm sở dục giới và 28 sắc pháp. Trong dòng tương tục của chúng sinh dục giới, đăng ký có thể sinh sau tốc hành dục giới trong các lộ ý môn lấy tâm và tâm sở dục giới làm cảnh. Vì 28 sắc cũng là pháp dục giới, đăng ký có thể sinh sau tốc hành dục giới trong lộ lấy chúng làm cảnh. Tuy nhiên, ở các lộ ngũ môn như lộ nhãn môn, cảnh phải rất lớn, còn ở lộ ý môn, cảnh phải rõ. Vì thế mới nói “thông thường”. Theo điều kiện này, đăng ký không thể sinh sau tốc hành của lộ lấy chế định làm cảnh.
+
+Chú giải Sammohavinodanī của bộ Phân tích giải như sau.
+
+Tilakkhaṇārammaṇikavipassanāya tadārammaṇaṃ na labbhati.
+Sau tốc hành minh sát lấy một trong ba đặc tướng làm cảnh, không có tâm đăng ký (Chú giải A-tỳ-đàm, tập 2, tr. 147).
+
+Các vị thầy giải rằng lời dạy về việc đăng ký không thể sinh sau tốc hành minh sát chỉ nói đến tốc hành minh sát mạnh. Các vị dẫn lời kinh điển và Chú giải sau đây.
+
+
+<a id="M04-body-P105"></a>
+## Tâm đăng ký sau tốc hành minh sát còn yếu
+Miến / Burmese 105
+
+Sekkhā vā puthujjanā vā kusalaṃ aniccato dukkhato anattato vipassanti. Kusale niruddhe vipāko tadārammaṇatā uppajjati.
+Paṭṭhāna, tập 1, tr. 133.
+
+Kusale niruddheti vipassanāvasena pavattitvā niruddhe. Vipākoti kāmāvacaravipāko. Tadārammaṇatāti tadārammaṇatāya. Taṃ kusalassa javanassa ārammaṇabhūtaṃ vipassitakusalaṃ ārammaṇaṃ katvā uppajjatīti attho.
+Chú giải A-tỳ-đàm, tập 3, tr. 436.
+
+Các bậc hữu học và phàm nhân quán danh pháp thiện theo một trong ba đặc tướng vô thường, khổ, vô ngã. Sau tốc hành thiện minh sát ấy, danh pháp quả dục giới lấy chính danh pháp thiện đã được quán, tức cảnh mà tốc hành đã lấy, làm cảnh. Nó sinh để làm nhiệm vụ đăng ký (Paṭṭhāna, tập 1, tr. 133. Chú giải A-tỳ-đàm, tập 3, tr. 436).
+
+Ở đây cảnh của tuệ minh sát là pháp thiện. Dòng tốc hành minh sát quán cảnh ấy cũng là pháp thiện. Vì cảnh là pháp thiện dục giới, tốc hành minh sát quán cảnh ấy là tốc hành đại thiện dục giới. Ba yếu tố là tốc hành dục giới, chúng sinh dục giới và cảnh dục giới đều hội đủ. Vì lời dạy nói đăng ký có thể sinh sau tốc hành minh sát ấy, các vị thầy giải rằng đoạn này chỉ tốc hành minh sát còn yếu (xem Mūlaṭīkā, tập 1, tr. 131).
+
+
+<a id="M04-body-P106"></a>
+## Điều kiện và các loại tâm đăng ký
+Miến / Burmese 106
+
+Đến đây hành giả mới ở giai đoạn tuệ phân định danh sắc, đang quán danh pháp sinh khi lấy sắc thuộc dục giới làm cảnh. Chưa đến phần minh sát thực sự. Khi quán danh pháp lấy sắc làm cảnh ở phần này, sau danh pháp tốc hành đại thiện của tuệ quán sắc, đăng ký cũng có thể sinh nếu sắc làm cảnh là cảnh rõ.
+
+Sau các tốc hành đại thiện, tâm đại quả làm nhiệm vụ đăng ký có thể câu hành thọ hỷ hoặc thọ xả tùy trường hợp. Tâm suy đạc vô nhân cũng có thể làm nhiệm vụ đăng ký tùy trường hợp. Sau tốc hành bất thiện, tâm đại quả và tâm suy đạc vô nhân cũng có thể làm nhiệm vụ ấy tùy trường hợp. Bảng trên chỉ trình bày đăng ký đại quả theo quy tắc thông thường, như một mẫu. Hành giả sẽ dần hiểu các trường hợp còn lại khi quán. Theo quy tắc thông thường, đăng ký thọ hỷ theo sau tốc hành thọ hỷ, còn đăng ký thọ xả theo sau tốc hành thọ xả hay thọ ưu.
+
+Tám tâm đại quả và ba tâm suy đạc, tổng cộng 11 tâm, có tên là đăng ký vì có thể làm nhiệm vụ nhận tiếp chính cảnh mà tốc hành đã lấy. Sau đây là bảng đăng ký có thể sinh sau tốc hành, đặc biệt dành cho thiện hành giả là phàm nhân có ba nhân. Các bậc Dự lưu, Nhất lai và Bất lai cũng có thể hiểu theo cách ấy, sau khi loại ra các phiền não mình đã đoạn trừ.
+
+
+<a id="M04-body-P107"></a>
+## Bảng tâm đăng ký và sự khác biệt giữa quả với tốc hành
+Miến / Burmese 107
+
+Tâm đăng ký của phàm nhân có ba nhân
+Một trong 8 tốc hành đại thiện | Một trong 11 tâm đăng ký
+Một trong 8 tốc hành căn tham | Một trong 11 tâm đăng ký
+Một trong 2 tốc hành căn sân | Một trong 6 tâm đăng ký thọ xả
+Một trong 2 tốc hành căn si | Một trong 11 tâm đăng ký
+
+1. Gặp cảnh đáng ưa tự nhiên hoặc rất đáng ưa tự nhiên là do nghiệp thiện trước đây. Khi gặp cảnh đáng ưa vừa phải, các tâm trong lộ ngoài hướng môn và tốc hành chỉ là tâm đại quả hoặc tâm quả thiện vô nhân. Ở ngũ môn, đây là ngũ thức, tiếp thọ, suy đạc và đăng ký. Ở ý môn, đây là đăng ký. Nếu như lý tác ý thì tốc hành thiện có thể sinh. Nếu phi như lý tác ý thì tốc hành bất thiện có thể sinh.
+
+2. Khi gặp cảnh tự nhiên rất đáng ưa và đáng quý như Đức Phật, chỉ năm loại đăng ký thọ hỷ là quả thiện có thể sinh. Tốc hành có thể là thiện nếu như lý tác ý, hoặc bất thiện nếu phi như lý tác ý.
+
+3. Cảnh tự nhiên không đáng ưa được gặp do nghiệp bất thiện trước đây. Khi gặp cảnh ấy, như lý tác ý thì có tốc hành thiện, phi như lý tác ý thì có tốc hành bất thiện. Trong lộ ngũ môn, các tâm ngũ thức như nhãn thức…
+
+
+<a id="M04-body-P108"></a>
+## Cảnh không đáng ưa và hữu phần khách
+Miến / Burmese 108
+
+… cùng tiếp thọ, suy đạc và đăng ký, và đăng ký ở lộ ý môn, đều phải là tâm quả bất thiện vô nhân. Theo quy tắc này, với cảnh không đáng ưa chỉ có một loại đăng ký, tức tâm suy đạc thọ xả quả bất thiện.
+
+Các bảng chỉ trình bày theo quy tắc thông thường. Theo quy tắc ấy, đăng ký thọ hỷ theo sau tốc hành thọ hỷ, đăng ký thọ xả theo sau tốc hành thọ xả hay thọ ưu. Với chúng sinh tái tục bằng tâm thọ hỷ, hữu phần cùng loại với tâm tái tục nên cũng thọ hỷ. Nếu tốc hành căn sân sinh trong dòng tương tục của chúng sinh ấy mà vì một lý do nào đó đăng ký không thể sinh theo sau, thông thường hữu phần sẽ theo sau tốc hành căn sân. Nhưng tái tục, hữu phần và tử tâm trong cùng một đời đều cùng loại, nên ở đây hữu phần phải là thọ hỷ. Hữu phần thọ hỷ không thích hợp đi liền sau tốc hành căn sân. Gặp trường hợp khó xử này, một trong hai tâm suy đạc thọ xả, quả bất thiện nếu cảnh không đáng ưa hoặc quả thiện nếu cảnh đáng ưa hay rất đáng ưa, sinh làm hữu phần khách, nối tốc hành căn sân với hữu phần gốc thọ hỷ.
+
+Hữu phần khách (āgantukabhavaṅga). Các hữu phần bắt đầu sinh sau tâm tái tục cùng loại với tâm tái tục. Vì có mặt trong căn nhà năm uẩn từ ban đầu và ở đó thường xuyên, chúng được gọi là hữu phần thường trú (āvāsikabhavaṅga)…
+
+
+<a id="M04-body-P109"></a>
+## Cảnh của hữu phần khách và ba trường hợp không có đăng ký
+Miến / Burmese 109
+
+… tức hữu phần chủ nhà. Tâm suy đạc thọ xả chỉ thỉnh thoảng sinh khi gặp khó khăn như trên nên được gọi là hữu phần khách. Vì nó không lấy cảnh mà tốc hành đã lấy, nó không mang tên đăng ký. Nó cũng không thể lấy cảnh của hữu phần thường trú mà chỉ lấy một cảnh dục giới từng quen thuộc. Nếu cảnh quen thuộc, từng được chú tâm nhiều ấy là đáng ưa thì đây là tâm suy đạc thọ xả quả thiện. Nếu không đáng ưa thì đây là tâm suy đạc thọ xả quả bất thiện.
+
+1. Người có tâm tái tục thọ hỷ mà mang tà kiến có thể khởi tốc hành sân khi lấy cảnh rất đáng ưa như Đức Phật làm cảnh rất lớn hoặc cảnh rõ. Hoặc người có tâm tái tục thọ hỷ có thể khởi tốc hành sân vì sợ hãi khi lấy thiên nữ, một cảnh rất đáng ưa, làm cảnh rất lớn hoặc cảnh rõ. Sau tốc hành sân ấy không có cơ hội cho đăng ký. Với cảnh rất đáng ưa chỉ có thể có đăng ký thọ hỷ, và đăng ký thọ hỷ không thích hợp sinh sau tốc hành sân.
+
+2. Nếu người có tâm tái tục thọ hỷ khởi tốc hành sân lấy cảnh dục giới là cảnh lớn hoặc cảnh không rõ, đăng ký không sinh sau tốc hành sân. Chỉ có cơ hội cho đăng ký khi cảnh ngũ môn rất lớn hoặc cảnh ý môn rõ.
+
+3. Nếu hành giả có tâm tái tục thọ hỷ đã đắc thiền rồi bị mất thiền, vị ấy có thể lấy tầng thiền đáo đại đã mất làm cảnh và khởi tốc hành sân: “Pháp cao quý của ta đã hư mất rồi!” Vì cảnh thuộc đáo đại, đăng ký không sinh.
+
+
+<a id="M04-body-P110"></a>
+## Vai trò nối tiếp của hữu phần khách
+Miến / Burmese 110
+
+4. Nếu người có tâm tái tục thọ hỷ khởi tốc hành sân lấy một cảnh chế định làm cảnh, đăng ký không sinh với chế định ấy, vì đó không phải cảnh dục giới.
+
+Trong các lộ tâm không có cơ hội cho đăng ký như vậy, hữu phần gốc thọ hỷ, cùng loại với tâm tái tục, cũng không thể sinh ngay sau tốc hành sân. Vì cả đăng ký lẫn hữu phần gốc đều không thể sinh ngay sau, tâm suy đạc câu hành thọ xả sinh làm hữu phần khách, nối tốc hành sân với hữu phần gốc thọ hỷ.
+
+Để hiểu một trường hợp đăng ký theo các lời giải trên, dưới đây lại trình bày bảng nhóm thiện của lộ ý môn đơn thuần lấy cảnh pháp. Dựa vào bảng này, hãy hiểu tương tự các bảng còn lại. Hãy nhớ quy tắc thông thường: đăng ký thọ hỷ theo sau tốc hành thọ hỷ và đăng ký thọ xả theo sau tốc hành thọ xả, tùy trường hợp. Tuy nhiên, với cảnh không đáng ưa, các tâm quả ngũ thức, tiếp thọ, suy đạc và đăng ký trong lộ ngũ môn phải là quả bất thiện. Vì thế ngay cả khi tốc hành thọ hỷ sinh với cảnh không đáng ưa, đăng ký chỉ có thể là tâm suy đạc thọ xả quả bất thiện, có 11 danh pháp. Tâm suy đạc thọ xả quả thiện cũng có 11 danh pháp (xem bảng lộ cảnh sắc). Bởi vậy, khi thấy số 11 trong bảng, hãy hiểu là suy đạc thọ xả quả bất thiện với cảnh không đáng ưa, và suy đạc thọ xả quả thiện với cảnh đáng ưa.
+
+
+<a id="M04-body-P111"></a>
+## Bảng lộ ý môn thiện lấy sắc chân thật làm cảnh
+Miến / Burmese 111
+
+Nhóm thiện của lộ ý môn lấy cảnh pháp. Sắc vật nương ở tim: 54.
+1. Là nhãn tịnh sắc | 12 | 34 | 34 | 12/11
+ | 12 | 33 | 33 | 11/11
+ | 12 | 33 | 33 | 12/11
+ | 12 | 32 | 32 | 11/11
+2. Là sắc | 12 | 34 | 34 | 12/11
+ | 12 | 33 | 33 | 11/11
+ | 12 | 33 | 33 | 12/11
+ | 12 | 32 | 32 | 11/11
+3. Là vô thường | 12 | 34 | 34 | 12/11
+ | 12 | 33 | 33 | 11/11
+ | 12 | 33 | 33 | 12/11
+ | 12 | 32 | 32 | 11/11
+4. Là khổ | 12 | 34 | 34 | 12/11
+ | 12 | 33 | 33 | 11/11
+ | 12 | 33 | 33 | 12/11
+ | 12 | 32 | 32 | 11/11
+5. Là vô ngã | 12 | 34 | 34 | 12/11
+ | 12 | 33 | 33 | 11/11
+ | 12 | 33 | 33 | 12/11
+ | 12 | 32 | 32 | 11/11
+6. Là bất tịnh | 12 | 34 | 34 | 12/11
+ | 12 | 33 | 33 | 11/11
+ | 12 | 33 | 33 | 12/11
+ | 12 | 32 | 32 | 11/11
+
+
+<a id="M04-body-P112"></a>
+## Đăng ký với cảnh không đáng ưa và cảnh đáng ưa
+Miến / Burmese 112
+
+Bảng trên trình bày đăng ký thọ hỷ theo sau tốc hành thọ hỷ và đăng ký thọ xả theo sau tốc hành thọ xả. Dù gặp cảnh không đáng ưa, người có như lý tác ý vẫn có thể khởi tốc hành thọ hỷ hoặc thọ xả tùy trường hợp. Tuy nhiên, do cảnh không đáng ưa, ở vị trí đăng ký chỉ có thể sinh tâm suy đạc thọ xả, vô nhân, là quả bất thiện.
+
+Nếu cảnh đáng ưa vừa phải, như lý tác ý có thể đưa đến tốc hành thọ hỷ hoặc thọ xả tùy trường hợp. Có thể có đăng ký đại quả hữu nhân hoặc đăng ký quả thiện vô nhân. Cần hiểu rằng trong cùng một lộ tâm chỉ sinh một trong hai loại, không phải cả hai. Nếu tốc hành đại thiện hợp trí thọ hỷ, đăng ký có thể là đại quả hợp trí thọ hỷ hoặc suy đạc quả thiện vô nhân thọ hỷ. Nếu tốc hành đại thiện hợp trí thọ xả, đăng ký có thể là đại quả hợp trí thọ xả hoặc suy đạc quả thiện vô nhân thọ xả. Hiểu tương tự với tốc hành ly trí thọ hỷ và ly trí thọ xả, chỉ khác ở chỗ không có trí.
+
+Nếu cảnh rất đáng ưa, do như lý tác ý, tốc hành có thể thọ hỷ hoặc thọ xả tùy trường hợp. Tuy nhiên, thọ hỷ thường sinh nhiều hơn.
+
+
+<a id="M04-body-P113"></a>
+## Cách đọc số đăng ký và các sắc chân thật
+Miến / Burmese 113
+
+Ở đăng ký có thể sinh một trong năm loại tùy trường hợp: bốn tâm đăng ký đại quả thọ hỷ và một tâm suy đạc quả thiện vô nhân thọ hỷ.
+
+Theo lời giải này, cột đăng ký vô nhân trong bảng ghi 12/11 hoặc 11/11. Số 12 đứng trước chỉ nhóm danh pháp đăng ký quả thiện vô nhân thọ hỷ. Số 11 đứng trước chỉ nhóm danh pháp đăng ký suy đạc quả thiện vô nhân thọ xả. Số 11 đứng sau chỉ nhóm danh pháp đăng ký suy đạc quả bất thiện vô nhân thọ xả, sinh khi gặp cảnh không đáng ưa.
+
+Các sắc chân thật cần quán theo mẫu: 1. Nhĩ tịnh sắc. 2. Tỷ tịnh sắc. 3. Thiệt tịnh sắc. 4. Thân tịnh sắc. 5. Thủy giới. 6. Sắc nữ tính. 7. Sắc nam tính. 8. Sắc ý vật. 9. Sắc mạng quyền. 10. Sắc vật thực.
+
+Kể cả nhãn tịnh sắc, có 11 sắc chân thật thuộc nhóm cảnh pháp. Hãy phân tích nhóm sắc chứa sắc pháp muốn lấy làm cảnh, chọn sắc chân thật ấy làm cảnh, rồi tìm và quán danh pháp sinh khi lấy sắc ấy làm cảnh. Khi quán nội phần, nam hành giả lấy sắc nam tính, nữ hành giả lấy sắc nữ tính, và quán danh pháp sinh với cảnh tương ứng…
+
+
+<a id="M04-body-P114"></a>
+## Cách quán sắc không chân thật
+Miến / Burmese 114
+
+… mà thôi. Về phương pháp thực hành, hai loại sắc tính giống nhau. Nếu xét chung, có thể tìm và quán danh pháp sinh khi lấy cả hai loại sắc tính làm cảnh.
+
+Mười sắc không chân thật, tức sắc phi thực tính thuộc cảnh pháp, không phải sắc để quán minh sát theo ba đặc tướng. Vì vậy, dù quán một sắc trong số ấy hay tất cả là vô thường, dòng lộ tâm có tốc hành minh sát biết “vô thường” cũng không thể sinh. Hiểu tương tự với khổ và vô ngã. Do đó với mỗi sắc không chân thật chỉ quán theo hai cách, chẳng hạn:
+
+1. Quán là hư không giới. Quán bốn trường hợp của tâm và tâm sở biết đó là hư không giới, tùy có hay không có trí và hỷ.
+2. Quán chính hư không giới ấy là sắc. Quán bốn trường hợp của tâm và tâm sở biết đó là sắc, tùy có hay không có trí và hỷ.
+
+Ở đây cũng vậy, trước hết hãy thấy hư không giới là khoảng hở giữa các nhóm sắc. Sau đó quán danh pháp lấy hư không giới ấy làm cảnh. Hiểu theo cùng mẫu đối với tất cả sắc không chân thật kể dưới đây.
+
+
+<a id="M04-body-P115"></a>
+## Bảng lộ ý môn thiện lấy sắc không chân thật làm cảnh
+Miến / Burmese 115
+
+Nhóm thiện của lộ ý môn lấy cảnh pháp. Sắc vật nương ở tim: 54.
+Là hư không giới | 12 | 34 | 34 | 12/11
+ | 12 | 33 | 33 | 11/11
+ | 12 | 33 | 33 | 12/11
+ | 12 | 32 | 32 | 11/11
+Là sắc | 12 | 34 | 34 | 12/11
+ | 12 | 33 | 33 | 11/11
+ | 12 | 33 | 33 | 12/11
+ | 12 | 32 | 32 | 11/11
+
+Chín sắc không chân thật cần quán theo mẫu: 1. Thân biểu tri (kāyaviññatti). 2. Khẩu biểu tri (vacīviññatti). 3. Sắc khinh (rūpassa lahutā). 4. Sắc nhu (rūpassa mudutā). 5. Sắc thích nghiệp (rūpassa kammaññatā). 6. Sắc tích tập (upacaya).* 7. Sắc tương tục (santati). 8. Sắc lão (jaratā). 9. Sắc vô thường (aniccatā).
+
+* Ghi chú: Danh pháp sinh khi lấy sắc tích tập làm cảnh chỉ quán được khi có thể quán danh sắc hiện hữu vào sát-na tái tục, ở giai đoạn phôi kalala.
+
+
+<a id="M04-body-P116"></a>
+## Phân tích nhóm sắc trước khi quán danh
+Miến / Burmese 116
+
+Khi tìm và quán danh pháp lấy sắc không chân thật làm cảnh, hãy phân tích nhóm sắc có chứa sắc cần quán cho đến khi trí thấy được sắc chân đế do tâm, thời tiết hoặc vật thực sinh trong cùng nhóm ấy. Rồi chọn riêng sắc cần quán. Sắc vốn sinh theo nhóm, theo cụm.
+
+Trước hết hãy thấy nhóm sắc. Phân tích bằng tuệ thành các sắc chân đế riêng biệt, đủ tám, chín hay mười tùy nhóm. Sau đó chọn một sắc chân thật như nhãn tịnh sắc hoặc một sắc không chân thật như thân biểu tri. Khi sắc ấy hiện trước hữu phần trong sáng, tức ý môn, hãy tìm và quán danh pháp sinh với sắc ấy làm cảnh.
+
+Trên đây đã trình bày cách quán danh pháp trong lộ ý môn có tốc hành thiện khi lấy sắc chân thật hoặc không chân thật thuộc cảnh pháp làm cảnh. Để gọi cho tiện, nhóm danh pháp tốc hành và đăng ký đại quả ấy được gọi là nhóm tín và tuệ. Tiếp theo là cách quán danh pháp trong lộ ý môn có tốc hành thiện tương ưng với tâm sở tiết chế và tâm sở vô lượng.
+
+
+<a id="M04-body-P117"></a>
+## Tiết chế bằng chánh ngữ
+Miến / Burmese 117
+
+Trong ba tâm sở tiết chế (virati), chánh ngữ là tránh bốn loại khẩu ác hạnh ngoài phạm vi sinh kế. Hãy quán riêng bốn trường hợp vì cảnh khác nhau: lấy sự tránh nói dối làm cảnh một lần, tránh nói chia rẽ một lần, tránh nói lời thô ác một lần, tránh nói lời phù phiếm một lần. Mỗi lần quán bốn trường hợp tùy có hay không có trí và hỷ.
+
+1. Quán hữu phần trong sáng, tức ý môn, vào lúc trước khi đã tránh nói dối.
+2. Hướng tâm lấy sự từng tránh nói dối làm cảnh.
+3. Khi cảnh ấy hiện ở ý môn, quán danh pháp tốc hành ý môn đã sinh lúc tránh nói dối.
+
+Trong mỗi tốc hành, 34 danh pháp nhóm tín và tuệ cộng thêm chánh ngữ thành 35. Hãy quán bốn trường hợp tùy trí và hỷ. Nếu cảnh rõ, có thể có đăng ký đại quả hữu nhân hoặc đăng ký vô nhân tùy trường hợp. Nếu là đăng ký đại quả thì chánh ngữ…
+
+
+<a id="M04-body-P118"></a>
+## Tiết chế bằng chánh nghiệp
+Miến / Burmese 118
+
+… không thể tương ưng. Chỉ có các danh pháp thuộc nhóm tín và tuệ, với 34 pháp tùy trường hợp. Hãy quán bốn trường hợp tùy trí và hỷ. Với việc tránh nói chia rẽ, lời thô ác và lời phù phiếm, cũng quán tương tự.
+
+Chánh nghiệp là tránh ba loại thân ác hạnh ngoài phạm vi sinh kế. Hãy quán riêng ba trường hợp vì cảnh khác nhau: lấy sự tránh sát sinh làm cảnh một lần, tránh lấy của không cho một lần, tránh tà hạnh trong các dục một lần. Mỗi lần quán bốn trường hợp tùy trí và hỷ.
+
+1. Quán hữu phần trong sáng, tức ý môn, ở thời điểm đã tránh sát sinh.
+2. Hướng tâm đến sự từng tránh sát sinh. Ví dụ, hướng tâm đến lần đã tránh giết một con muỗi.
+3. Khi cảnh ấy hiện ở ý môn, quán danh pháp trong lộ ý môn có tốc hành đại thiện đã sinh khi tránh sát sinh.
+
+Trong mỗi tốc hành, 34 danh pháp nhóm tín và tuệ cộng thêm chánh nghiệp thành 35. Tùy có hay không có trí và hỷ, hãy quán bốn…
+
+
+<a id="M04-body-P119"></a>
+## Tiết chế bằng chánh mạng
+Miến / Burmese 119
+
+… trường hợp. Nếu cảnh rõ, đăng ký có thể sinh. Có thể là đăng ký đại quả hữu nhân hoặc đăng ký vô nhân tùy trường hợp. Chánh nghiệp không thể tương ưng với đăng ký đại quả. Ở đăng ký đại quả có thể có 34 danh pháp thuộc nhóm tín và tuệ tùy trường hợp. Hãy quán bốn trường hợp tùy trí và hỷ. Với sự tránh lấy của không cho và tránh tà hạnh cũng quán tương tự.
+
+Chánh mạng là tránh thân ác hạnh và khẩu ác hạnh liên quan đến sinh kế. Có ba thân ác hạnh và bốn khẩu ác hạnh nên có nhiều cách quán. Hãy lấy một cảnh mà mình thường tránh hoặc đã từng tránh. Ví dụ, không dùng một món ăn khi biết một con vật bị giết riêng cho mình.
+
+1. Quán hữu phần trong sáng, tức ý môn, ở thời điểm đã tránh tà mạng.
+2. Hướng tâm đến một trường hợp đã tránh tà mạng. Ví dụ, nếu đã tránh dùng thịt hay cá không thích hợp, hãy hướng tâm đến sự tránh ấy.
+3. Khi cảnh ấy hiện ở ý môn, quán danh pháp trong lộ ý môn có tốc hành đại thiện đã sinh lúc tránh tà mạng. Đăng ký có thể sinh.
+
+
+<a id="M04-body-P120"></a>
+## Bảng ba tâm sở tiết chế trong lộ ý môn
+Miến / Burmese 120
+
+Tâm sở tiết chế trong lộ ý môn lấy cảnh pháp. Sắc vật nương ở tim: 54.
+1. Chánh ngữ | 12 | 35 | 34 | 12/11
+ | 12 | 34 | 33 | 11/11
+ | 12 | 34 | 33 | 12/11
+ | 12 | 33 | 32 | 11/11
+2. Chánh nghiệp | 12 | 35 | 34 | 12/11
+ | 12 | 34 | 33 | 11/11
+ | 12 | 34 | 33 | 12/11
+ | 12 | 33 | 32 | 11/11
+3. Chánh mạng | 12 | 35 | 34 | 12/11
+ | 12 | 34 | 33 | 11/11
+ | 12 | 34 | 33 | 12/11
+ | 12 | 33 | 32 | 11/11
+
+
+<a id="M04-body-P121"></a>
+## Chánh ngữ và chánh nghiệp theo ba nghĩa
+Miến / Burmese 121
+
+Chánh ngữ có ba loại: chánh ngữ là lời đã nói (kathāsammāvācā), chánh ngữ là tư (cetanāsammāvācā), và chánh ngữ là tiết chế (viratisammāvācā). Lời nói thiện, không lỗi, có liên hệ với nhân và quả là chánh ngữ theo nghĩa lời đã nói. Tư tương ưng với tốc hành chuẩn bị, tốc hành thần thông, tốc hành đại thiện hoặc đại duy tác khiến lời nói không lỗi ấy được nói ra là chánh ngữ theo nghĩa tư. Khi có dịp nói dối, nói chia rẽ, nói lời thô ác hoặc phù phiếm mà tránh điều ấy, vị ấy có thể nói lời chân thật, hòa hợp, dịu dàng hoặc có ích, hoặc giữ im lặng. Sự tiết chế có mặt trong tâm sinh khi nói hoặc khi im lặng ấy mới gọi là chánh ngữ theo nghĩa tiết chế. Các ác hạnh được tránh bằng chánh ngữ tiết chế ở đây đều ngoài phạm vi sinh kế.
+
+Chánh nghiệp cũng có ba loại: chánh nghiệp là hành động, là tư và là tiết chế. Thân hành của người làm một việc không lỗi, như bố thí, giữ giới hoặc tu tập, là chánh nghiệp theo nghĩa hành động. Tư thực hiện việc không lỗi ấy là chánh nghiệp theo nghĩa tư. Khi có dịp phạm thân ác hạnh mà tránh, dù sau đó có làm một thân hành khác hay không, đó là chánh nghiệp theo nghĩa tiết chế. Mọi ác hạnh được tránh theo nghĩa này đều ngoài phạm vi sinh kế.
+
+
+<a id="M04-body-P122"></a>
+## Chánh mạng và hai loại tiết chế thế gian
+Miến / Burmese 122
+
+Chánh mạng có hai loại: chánh mạng theo nghĩa hành động và chánh mạng theo nghĩa tiết chế. Hành động chân chánh khi kiếm sống bằng nghề nghiệp truyền thống như làm ruộng hay buôn bán, hoặc khi một vị xuất gia tìm bốn vật dụng đúng pháp, tránh các cách tà mạng như làm thân với gia đình thí chủ và mưu cầu vật dụng bằng cách đưa tặng, gọi là chánh mạng theo nghĩa hành động. Việc tránh thân ác hạnh và khẩu ác hạnh liên quan đến sinh kế, hoặc tránh sử dụng bốn vật dụng có được bằng những cách tà mạng ấy, gọi là chánh mạng theo nghĩa tiết chế.
+
+Có ba loại tiết chế: tiết chế khi gặp dịp (sampattavirati), tiết chế do thọ trì (samādānavirati) và tiết chế do đoạn trừ (samucchedavirati). Người chưa thọ trì học giới suy xét đến dòng họ, tuổi tác, học vấn hay điều tốt lành của mình và nghĩ: “Chúng ta không nên làm việc xấu như vậy.” Khi gặp đối tượng có thể phạm, vị ấy tránh phạm. Tiết chế sinh trong dòng tương tục của vị ấy gọi là tiết chế khi gặp dịp (Chú giải A-tỳ-đàm, tập 1, tr. 146).
+
+Người đã thọ trì học giới, ngay lúc thọ trì hoặc về sau, tránh vi phạm vì đã thọ trì, dù phải hy sinh mạng sống. Tiết chế sinh trong dòng tương tục của người ấy gọi là tiết chế do thọ trì (Chú giải A-tỳ-đàm, tập 1, tr. 146).
+
+
+<a id="M04-body-P123"></a>
+## Tiết chế do đoạn trừ và cảnh của hai loại tiết chế thế gian
+Miến / Burmese 123
+
+Tiết chế do đoạn trừ là tiết chế tương ưng với Thánh đạo, sinh do cắt đứt tận gốc các khuynh hướng tiềm ẩn của những pháp bất thiện đưa đến ác hạnh và tà mạng. Từ khi tiết chế ấy sinh, ngay cả ý nghĩ “Ta sẽ giết chúng sinh” cũng không sinh trong dòng tương tục của bậc Thánh (Chú giải A-tỳ-đàm, tập 1, tr. 147). Vì tương ưng với Thánh đạo, tiết chế này rõ ràng lấy Niết-bàn làm cảnh. Còn cảnh của tiết chế khi gặp dịp và do thọ trì cần được xem xét thêm.
+
+Ārammaṇato pāṇātipāto jīvitindriyārammaṇo. Adinnādānaṃ sattārammaṇaṃ vā saṅkhārārammaṇaṃ vā. Micchācāro itthipurisārammaṇo. Musāvādo sattārammaṇo vā saṅkhārārammaṇo vā. Surāpānaṃ saṅkhārārammaṇaṃ.
+Chú giải A-tỳ-đàm, tập 2, tr. 366.
+
+Satta-itthi-purisārammaṇato tathāgahitasaṅkhārārammaṇatāya dhammā.
+Mūlaṭīkā, tập 2, tr. 189.
+
+Về cảnh, sát sinh lấy mạng quyền làm cảnh. Lấy của không cho và các trường hợp tương tự có thể lấy chúng sinh hoặc hành làm cảnh. Tà hạnh lấy nữ hoặc nam làm cảnh. Nói dối có thể lấy chúng sinh hoặc hành làm cảnh. Uống chất say lấy hành làm cảnh (Chú giải A-tỳ-đàm, tập 2, tr. 366). Theo Mūlaṭīkā, các pháp được gọi là lấy chúng sinh, nữ hay nam làm cảnh có các hành tương ứng làm cảnh (tập 2, tr. 189).
+
+Ārammaṇato pāṇātipātā veramaṇī parassa jīvitindriyaṃ ārammaṇaṃ katvā attano veracetanāya viramati. Itarāsupi eseva nayo. Sabbāpi hi etā vītikkamitabbavatthuṃ ārammaṇaṃ katvā veracetanāhiyeva viramanti.
+Chú giải A-tỳ-đàm, tập 2, tr. 368.
+
+Khi tiết chế sát sinh, vị ấy lấy mạng quyền của chúng sinh có thể bị giết làm cảnh và tránh tư phạm điều ấy. Các trường hợp tương tự cũng theo cách này, vì tiết chế sinh do lấy đối tượng có thể vi phạm làm cảnh và tránh tư vi phạm (Chú giải A-tỳ-đàm, tập 2, tr. 368).
+
+Parittārammaṇā… pe… paccuppannārammaṇā… pe… bahiddhārammaṇā.
+Lấy cảnh hữu hạn… pe… lấy cảnh hiện tại… pe… lấy cảnh ngoại phần (A-tỳ-đàm, tập 2, tr. 205).
+
+
+<a id="M04-body-P124"></a>
+## Cảnh có thể vi phạm và tư vi phạm
+Miến / Burmese 124
+
+Ārammaṇattikesu pana yāni sikkhāpadāni ettha sattārammaṇānīti vuttāni, tāni yasmā sattoti saṅkhaṃ gate saṅkhāreyeva ārammaṇaṃ karonti, yasmā ca sabbānipi etāni sampattavirativaseneva niddiṭṭhāni, tasmā “parittārammaṇā”ti ca “paccuppannārammaṇā”ti ca vuttā. Yato pana viramati, tassa vatthuno accantabahiddhattā sabbesampi bahiddhārammaṇatā veditabbāti.
+Trong các bộ ba về cảnh, những học giới được nói là lấy chúng sinh làm cảnh thật ra lấy chính các hành được gọi là “chúng sinh” làm cảnh. Vì tất cả các học giới ấy đều được giải theo tiết chế khi gặp dịp, nên chúng được gọi là “lấy cảnh hữu hạn” và “lấy cảnh hiện tại”. Vì đối tượng mà người ấy tiết chế hoàn toàn thuộc ngoại phần, nên hiểu rằng tất cả đều lấy cảnh ngoại phần. (Chú giải A-tỳ-đàm, tập 2, tr. 369.)
+
+“Tư tiết chế khi gặp dịp” là tư có cảnh hiện tại vào lúc gặp dịp, khi đã tiết chế đối tượng có thể vi phạm (Mūlaṭīkā, tập 2, tr. 190).
+
+Sampattaviraticetanāti sampatte paccuppanne ārammaṇe yathāviramitabbato viraticetanāti attho.
+Mūlaṭīkā, tập 2, tr. 190.
+
+Ý các lời kinh, Chú giải và Phụ chú giải trên như sau. Tiết chế khi gặp dịp và do thọ trì chỉ lấy pháp hữu hạn thuộc dục giới làm cảnh, gọi là đối tượng có thể vi phạm (vītikkamitabbavatthu), hay đối tượng cần tiết chế (viramitabbavatthu). Đó là các hành danh sắc dục giới. Cảnh ấy chỉ là hiện tại, và là danh sắc ngoại phần.
+
+Tư bất thiện sinh do vi phạm đối với cảnh ấy là tư vi phạm (veracetanā), kẻ thù thực sự. Khi lấy danh sắc dục giới có thể vi phạm ấy làm cảnh, tính chất tránh tư vi phạm sinh trong dòng tương tục của mình chính là tiết chế. Tiết chế sát sinh lấy mạng quyền của chúng sinh khác làm cảnh, và tránh tư bất thiện vi phạm đã sinh trong dòng tương tục của mình. Tiết chế lấy của không cho lấy đối tượng có thể vi phạm…
+
+
+<a id="M04-body-P125"></a>
+## Cảnh của từng loại tiết chế
+Miến / Burmese 125
+
+… là chúng sinh hoặc hành làm cảnh, và tránh tư vi phạm đã sinh trong dòng tương tục của mình. Tiết chế tà hạnh lấy nữ hoặc nam, đối tượng có thể vi phạm, làm cảnh, và tránh tư tà hạnh đã sinh trong dòng tương tục của mình. Tiết chế nói dối lấy chúng sinh hoặc hành, đối tượng có thể vi phạm, làm cảnh, và tránh tư nói dối đã sinh trong dòng tương tục của mình. Tiết chế uống chất say lấy các hành là chất say, đối tượng có thể vi phạm, làm cảnh, và tránh tư bất thiện uống chất say đã sinh trong dòng tương tục của mình (Chú giải A-tỳ-đàm, tập 2, tr. 366–368).
+
+Lời giải nói rằng tiết chế lấy chúng sinh, nữ hoặc nam làm cảnh có nghĩa là chúng chỉ lấy các hành, tức danh sắc dục giới, hiện hữu theo cách có thể gọi là chúng sinh, nữ hoặc nam (Chú giải A-tỳ-đàm, tập 2, tr. 369. Mūlaṭīkā, tập 2, tr. 187).
+
+Chỉ khi gặp cảnh hiện tại có thể vi phạm, tiết chế mới lấy cảnh ấy làm cảnh và tránh tư bất thiện vi phạm sinh trong dòng tương tục của mình. Do đó, tiết chế khi gặp dịp và tiết chế do thọ trì lấy danh sắc dục giới hiện tại có thể vi phạm làm cảnh. Danh sắc ấy thuộc ngoại phần.
+
+
+<a id="M04-body-P126"></a>
+## Hai tâm sở vô lượng
+Miến / Burmese 126
+
+Ở đây còn cần xét tiết chế có lấy chúng sinh, nữ hay nam làm cảnh hay không. Nếu lấy những cảnh ấy thì không có cơ hội cho đăng ký.
+
+Bi (karuṇā) là muốn cứu một chúng sinh đang chịu khổ. 1. Quán hữu phần trong sáng, tức ý môn. 2. Hướng tâm đến một chúng sinh đang khổ mà mình muốn cứu. 3. Khi cảnh chúng sinh chế định ấy hiện ở ý môn, quán dòng tâm lộ ý môn có tốc hành với bi nổi trội. Tốc hành có 34 danh pháp thuộc nhóm tín và tuệ, thêm tâm sở bi thành 35 tùy trường hợp. Hãy quán bốn trường hợp tùy trí và hỷ.
+
+Tùy hỷ (muditā) là vui mừng trước hạnh phúc của một chúng sinh. 1. Quán hữu phần trong sáng, tức ý môn. 2. Hướng tâm đến một chúng sinh đang hạnh phúc. 3. Khi cảnh chúng sinh hạnh phúc theo chế định hiện ở ý môn, quán dòng tâm lộ ý môn có tốc hành đã sinh.
+
+
+<a id="M04-body-P127"></a>
+## Thọ trong tùy hỷ, tín và tuệ
+Miến / Burmese 127
+
+Nếu tùy hỷ chưa thuần thục đến mức đắc thiền tùy hỷ, tốc hành chỉ nên có thọ hỷ. Hãy quán hai trường hợp hợp trí và ly trí. Có trí thì 34 cộng tùy hỷ thành 35, không có trí thì 33 cộng tùy hỷ thành 34. Tôn giả Anuruddha cho rằng đối với người đã tu tập tùy hỷ đến mức đắc thiền, do sức tu tập, tốc hành cận định cũng có thể tương ưng thọ xả. Do đó, người ấy có thể quán bốn trường hợp tùy trí và hỷ. Vì bi và tùy hỷ lấy chúng sinh chế định làm cảnh, đăng ký không thể sinh sau các tốc hành ấy. Xem cách quán danh pháp thiền bi và tùy hỷ trong các bảng thiền phạm trú.
+
+Trong nhóm danh pháp tốc hành có tâm sở tiết chế hoặc vô lượng, tín là tin nghiệp và quả của nghiệp. Tuệ là hiểu nghiệp và quả của nghiệp, tức chánh kiến về nghiệp là của mình (kammassakatā sammādiṭṭhi). Theo cách khác, tín ở tâm sở tiết chế là tin vào việc tu tập giới. Ở đây đặc biệt chỉ các tốc hành dục giới gọi là chuẩn bị và cận hành đi trước thiền bi và tùy hỷ.
+
+
+<a id="M04-body-P128"></a>
+## Bảng tâm sở vô lượng và đề mục niệm Phật
+Miến / Burmese 128
+
+Lộ ý môn với tốc hành dục giới lấy cảnh pháp. Sắc vật nương ở tim: 54.
+1. Bi | 12 | 35
+ | 12 | 34
+ | 12 | 34
+ | 12 | 33
+2. Tùy hỷ | 12 | 35
+ | 12 | 34
+ | 12 | 34
+ | 12 | 33
+
+Nếu đã tu tập bốn đề mục hộ trì, hãy quán dòng tâm lộ ý môn có tốc hành đại thiện lấy ân đức Phật làm cảnh. Danh pháp tốc hành thuộc nhóm tín và tuệ. Niệm Phật là đề mục chỉ đưa đến cận định, nên chỉ có bảy sát-na tốc hành. Đăng ký sau tốc hành có thể có hoặc không. Các ân đức của Đức Phật…
+
+
+<a id="M04-body-P129"></a>
+## Ân đức Phật làm cảnh của lộ ý môn
+Miến / Burmese 129
+
+… có cả thế gian và siêu thế. Ví dụ, ân đức bố thí, giới, định đến mức cận định, tuệ minh sát, trí thuyết pháp và trí toàn giác, xét theo thực pháp, là những dòng tâm tốc hành đại duy tác vô trợ, hợp trí, thuộc dục giới. Nếu niệm Phật lấy các ân đức ấy làm cảnh, vì đó là cảnh dục giới nên đăng ký có cơ hội sinh sau tốc hành đại thiện của hành giả. Cảnh rõ thì đăng ký có thể sinh, cảnh không rõ thì không. Tuy vậy, rất khó thấu suốt ân đức Phật đến mức thấy như pháp chân đế.
+
+Ân đức định an chỉ và các thắng trí của Đức Phật là pháp duy tác đáo đại. Trí đạo và trí quả của Ngài là tuệ siêu thế. Khi niệm Phật lấy những ân đức định và tuệ đáo đại hoặc siêu thế ấy làm cảnh, đăng ký không thể sinh sau tốc hành đại thiện của hành giả, vì cảnh không thuộc dục giới.
+
+Nếu có đăng ký, đăng ký hữu nhân hoặc vô nhân có thể sinh tùy trường hợp. Tuy nhiên, “atikuddake pana somanassasahagatāneva santīraṇatadārammaṇāni”: với cảnh rất đáng ưa, ở suy đạc và đăng ký chỉ có thọ hỷ. Các ân đức Phật là cảnh rất đáng ưa, nên chỉ một trong năm loại đăng ký thọ hỷ có thể sinh tùy trường hợp.
+
+
+<a id="M04-body-P130"></a>
+## Đề mục niệm chết
+Miến / Burmese 130
+
+Niệm chết cũng là đề mục chỉ đưa đến cận định. Tốc hành tu tập là tốc hành cận định dục giới và chỉ sinh bảy lần. Sau tốc hành có thể có đăng ký hoặc không. Nếu lấy sự cắt đứt mạng quyền của mình làm cảnh, thì đó là mạng quyền sắc và danh đi cùng tử tâm, thuộc cảnh dục giới. Cảnh rõ thì có cơ hội cho đăng ký, cảnh không rõ thì không.
+
+Nếu không thể lấy sự cắt đứt mạng quyền làm cảnh mà chỉ an trú trên cảnh chế định “tôi đang chết”, đăng ký không thể theo sau tốc hành niệm chết ấy. Chỉ người đã quán danh sắc đến mức chân đế mới có thể lấy sự cắt đứt mạng sắc và mạng danh làm cảnh đến mức chân đế. Với người chưa đắc tuệ phân định danh sắc đến mức ấy, tâm tu tập niệm chết phần nhiều chỉ an trú trên cảnh chế định “tôi đang chết”.
+
+
+<a id="M04-body-P131"></a>
+## Bảng lộ ý môn khi niệm Phật và niệm chết
+Miến / Burmese 131
+
+Niệm Phật và niệm chết. Sắc vật nương ở tim: 54.
+1. Niệm Phật | 12 | 34 | 34 | 12
+ | 12 | 33 | 34 | 12
+ | 12 | 33 | 33 (hợp hỷ) | 12
+ | 12 | 32 | 33 (hợp hỷ) | 12
+2. Niệm chết | 12 | 34 | 34 | 12/11
+ | 12 | 33 | 33 | 11/11
+ | 12 | 33 | 33 | 12/11
+ | 12 | 32 | 32 | 11/11
+
+Ghi chú: Trong đề mục niệm Phật, đăng ký thọ hỷ rất khó sinh sau tốc hành thọ xả. Vì cảnh rất đáng ưa nên đăng ký thọ xả cũng không có cơ hội sinh sau tốc hành thọ xả. Hãy thực hành quán để biết chắc.
+
+Người đã tu tập niệm Phật muốn quán danh pháp lấy ân đức Phật làm cảnh thì: 1. Quán hữu phần trong sáng, tức ý môn. 2. Hướng tâm đến một ân đức Phật mình ưa thích. 3. Khi ân đức ấy hiện ở ý môn, quán danh pháp trong dòng lộ ý môn có tốc hành đã sinh.
+
+
+<a id="M04-body-P132"></a>
+## Từ niệm chết đến lộ ngũ môn
+Miến / Burmese 132
+
+Người đã tu tập niệm chết muốn quán danh pháp lấy sự cắt đứt mạng quyền của mình làm cảnh thì: 1. Quán hữu phần trong sáng, tức ý môn. 2. Hướng tâm đến sự cắt đứt mạng quyền của mình. 3. Khi cảnh ấy hiện ở ý môn, quán danh pháp trong dòng lộ ý môn có tốc hành đã sinh. Khi quán danh pháp lấy ân đức Phật hay cái chết làm cảnh, có thể mở rộng cách quán tùy sức tuệ.
+
+Trên đây đã trình bày phương pháp quán dòng lộ ý môn có tốc hành đại thiện thuộc nhóm cảnh pháp. Tiếp theo là phương pháp quán danh pháp trong các lộ ngũ môn có tốc hành đại thiện.
+
+Tattha ekekaṃ ārammaṇaṃ dvisu dvisu dvāresu āpāthamāgacchati. Rūpārammaṇañhi cakkhupasādaṃ ghaṭṭetvā taṅkhaṇaññeva manodvāre āpāthamāgacchati, bhavaṅgacalanassa paccayo hotīti attho. Sadda-gandha-rasa-phoṭṭhabbārammaṇesupi eseva nayo. Yathā hi sakuṇo ākāsenāgantvā rukkhagge nilīyamānova rukkhasākhaṃ ghaṭṭeti, chāyā cassa pathaviyaṃ paṭihaññati, sākhāghaṭṭana-chāyāpharaṇāni apubbaṃ acarimaṃ ekakkhaṇeyeva bhavanti. Evaṃ paccuppannarūpādīnaṃ cakkhupasādādighaṭṭanānañca bhavaṅga-
+Trích đoạn nối sang Miến 133.
+
+Điều cần biết trước. Một cảnh đi vào phạm vi hai cửa. Cảnh sắc chạm nhãn tịnh sắc rồi đồng thời đi vào phạm vi ý môn, nghĩa là nó làm hữu phần rung động. Cảnh tiếng, mùi, vị và xúc cũng theo cách ấy. Như con chim từ không trung đáp lên cành cây thì bóng của nó cùng lúc hiện trên mặt đất, sự chạm và bóng cùng sinh…
+
+
+<a id="M04-body-P133"></a>
+## Một cảnh xuất hiện đồng thời ở hai cửa
+Miến / Burmese 133
+
+calanasamatthatāya manodvāre āpāthagamanāñca apubbaṃ acarimaṃ ekakkhaṇeyeva hoti. Tato bhavaṅgaṃ vicchinditvā cakkhudvārādīsu uppannānaṃ āvajjanādīnaṃ voṭṭhabbanapariyosānānaṃ anantarā tesaṃ ārammaṇānaṃ aññatarasmiṃ idaṃ mahācittaṃ uppajjati.
+Chú giải A-tỳ-đàm, tập 1, tr. 114.
+
+… cũng vậy, khi cảnh sắc chạm nhãn tịnh sắc và có khả năng làm hữu phần rung động, sự chạm và việc vào phạm vi ý môn diễn ra đồng thời. Sau khi hữu phần dừng, tiếp theo hướng môn và những tâm khác cùng với các pháp tương ưng, một tâm đại thiện sinh lấy một trong các cảnh ấy làm cảnh (Chú giải A-tỳ-đàm, tập 1, tr. 114).
+Āpāthamāgacchati manasā pañcaviññāṇehi ca gahetabbabhāvūpagamanena. Ghaṭṭetvā paṭimukhabhāvāpāthaṃ gantvā.
+“Đi vào phạm vi” là trở thành đối tượng mà ý và năm thức giác quan có thể nhận biết. “Chạm” là đi vào phạm vi đối diện với cửa tương ứng. (Mūlaṭīkā, tập 1, tr. 70.)
+
+1. Cảnh sắc hiện ở nhãn môn và ý môn. 2. Cảnh tiếng hiện ở nhĩ môn và ý môn. 3. Cảnh mùi hiện ở tỷ môn và ý môn. 4. Cảnh vị hiện ở thiệt môn và ý môn. 5. Cảnh xúc hiện ở thân môn và ý môn. Mỗi cảnh hiện đồng thời ở hai cửa như vậy. Khi cảnh hiện, các ngũ thức như nhãn thức, cũng như ý thức như hướng ngũ môn, sinh theo trật tự cố định của lộ tâm. Vì thế cảnh phải hiện ở ngũ môn liên hệ để ngũ thức biết và ở hữu phần, tức ý môn, để ý thức biết.
+
+Khi cảnh sắc chạm nhãn tịnh sắc, ngay lúc ấy nó cũng hiện ở hữu phần, tức ý môn, và làm hữu phần rung động. Hiểu tương tự với tiếng, mùi, vị…
+
+
+<a id="M04-body-P134"></a>
+## Ví dụ con chim đậu và bóng chim
+Miến / Burmese 134
+
+… và cảnh xúc (Chú giải A-tỳ-đàm, tập 1, tr. 114). Chú giải dùng từ “ghaṭṭetvā”, nghĩa là chạm hoặc va. Có thể tưởng rằng cảnh sắc thực sự va vào cả nhãn môn lẫn ý môn. Thực ra đây là sự tiếp cận giữa cảnh và cửa đủ để có tác dụng như va chạm (Mūlaṭīkā, tập 1, tr. 70).
+
+Ví dụ, con chim từ trời bay đến đậu trên cành. Khi chim chạm cành, bóng của nó cũng chạm đất. Hai việc xảy ra đồng thời, không trước không sau. Cũng vậy, cảnh sắc hiện tại chạm nhãn tịnh sắc, và đến trước ý môn nhờ có khả năng làm hữu phần rung động. Hai việc diễn ra đồng thời, không trước không sau. Sau khi hữu phần rung động rồi dừng lại, xen giữa các tâm lộ từ hướng môn đến xác định ở nhãn môn và các cửa khác, tâm đại thiện đầu tiên sinh để làm nhiệm vụ tốc hành đối với một trong các cảnh như cảnh sắc, tùy cách ghi nhận (Chú giải A-tỳ-đàm, tập 1, tr. 114).
+
+
+<a id="M04-body-P135"></a>
+## Ký hiệu lộ nhãn môn và hữu phần vừa qua
+Miến / Burmese 135
+
+Ký hiệu trong lộ nhãn môn: hữu phần vừa qua (atītabhavaṅga), hữu phần rung động (bhavaṅgacalana) khi cảnh hiện ở ý môn, hữu phần dứt dòng (bhavaṅgupaccheda) khi cảnh hiện ở ý môn, hướng ngũ môn hướng đến cảnh hiện ở hai cửa, nhãn thức nương nhãn vật biết cảnh sắc, tiếp thọ nhận cảnh của nhãn thức, suy đạc dò xét cảnh ấy, xác định quyết định về cảnh ấy, tốc hành liên tiếp cảm nghiệm vị của cảnh ấy, và đăng ký tiếp tục lấy chính cảnh của tốc hành.
+
+Hữu phần vừa qua. Cảnh sắc không thể hiện ở nhãn môn và ý môn ngay khi vừa sinh. Nó chỉ có thể hiện sau khi đã qua một hay nhiều sát-na tâm. Các sát-na hữu phần đã trôi qua từ khi cảnh sắc sinh đến khi nó có thể hiện ở hai cửa gọi là hữu phần vừa qua. Hữu phần trước khi cảnh sắc sinh được ký hiệu khác. Điều này không có nghĩa có sát-na tâm nào hoàn toàn không có cảnh sắc sinh, vì nói chung sắc do nghiệp, tâm, thời tiết và vật thực có cảnh sắc đi kèm có thể sinh trong các giai đoạn sinh, trụ và diệt của tâm. Ở đây chỉ nói đến cảnh sắc có thể hiện ở nhãn môn và ý môn.
+
+
+<a id="M04-body-P136"></a>
+## Lộ nhãn môn kết thúc bằng đăng ký hoặc tốc hành
+Miến / Burmese 136
+
+Cảnh rất lớn — lộ kết thúc bằng đăng ký
+Hữu phần | Cảnh nghiệp, nghiệp tướng hoặc thú tướng. Hữu phần trước cảnh sắc → hữu phần vừa qua ×1 → rung động → dứt dòng.
+Lộ nhãn môn | Cảnh sắc hiện tại. Hướng ngũ môn → nhãn thức → tiếp thọ → suy đạc → xác định ×1 → tốc hành ×7 → đăng ký ×2 → hữu phần.
+Nhãn tịnh sắc thọ mạng ngắn | 37
+Nhãn tịnh sắc thọ mạng trung bình | 1
+Nhãn tịnh sắc thọ mạng dài | 11
+
+Cảnh lớn loại một — lộ kết thúc bằng tốc hành
+Hữu phần | Cảnh nghiệp, nghiệp tướng hoặc thú tướng. Hữu phần trước cảnh sắc → hữu phần vừa qua ×2 → rung động → dứt dòng.
+Lộ nhãn môn | Cảnh sắc hiện tại. Hướng ngũ môn → nhãn thức → tiếp thọ → suy đạc → xác định ×1 → tốc hành ×7 → hữu phần.
+Nhãn tịnh sắc thọ mạng ngắn | 34
+Nhãn tịnh sắc thọ mạng trung bình | 1
+Nhãn tịnh sắc thọ mạng dài | 14
+
+
+<a id="M04-body-P137"></a>
+## Lộ nhãn môn với cảnh lớn loại hai và cảnh nhỏ loại một
+Miến / Burmese 137
+
+Cảnh lớn loại hai — lộ kết thúc bằng tốc hành
+Hữu phần | Cảnh nghiệp, nghiệp tướng hoặc thú tướng. Hữu phần trước cảnh sắc → hữu phần vừa qua ×3 → rung động → dứt dòng.
+Lộ nhãn môn | Cảnh sắc hiện tại. Hướng ngũ môn → nhãn thức → tiếp thọ → suy đạc → xác định ×1 → tốc hành ×7 → hữu phần.
+Nhãn tịnh sắc thọ mạng ngắn | 31
+Nhãn tịnh sắc thọ mạng trung bình | 1
+Nhãn tịnh sắc thọ mạng dài | 17
+
+Cảnh nhỏ loại một — lộ kết thúc bằng xác định
+Hữu phần | Cảnh nghiệp, nghiệp tướng hoặc thú tướng. Hữu phần trước cảnh sắc → hữu phần vừa qua ×4 → rung động → dứt dòng.
+Lộ nhãn môn | Cảnh sắc hiện tại. Hướng ngũ môn → nhãn thức → tiếp thọ → suy đạc → xác định ×2 → hữu phần.
+Nhãn tịnh sắc thọ mạng ngắn | 28
+Nhãn tịnh sắc thọ mạng trung bình | 1
+Nhãn tịnh sắc thọ mạng dài | 20
+
+
+<a id="M04-body-P138"></a>
+## Nhãn tịnh sắc có thọ mạng trung bình
+Miến / Burmese 138
+
+Trong lộ cảnh rất lớn, một sát-na hữu phần vừa qua đã trôi qua. Nhãn tịnh sắc sinh cùng lúc với hữu phần vừa qua ấy gọi là nhãn tịnh sắc thọ mạng trung bình (majjhimāyuka). Trong lộ cảnh lớn loại một có hai hữu phần vừa qua. Nhãn tịnh sắc sinh cùng hữu phần vừa qua đầu tiên gọi là thọ mạng trung bình. Lộ cảnh lớn loại hai có ba hữu phần vừa qua. Các lộ cảnh nhỏ loại một đến loại sáu lần lượt có bốn, năm, sáu, bảy, tám và chín hữu phần vừa qua. Tính từ hữu phần, nhãn tịnh sắc sinh cùng hữu phần vừa qua đầu tiên gọi là thọ mạng trung bình.
+
+Từ tái tục cho đến tâm thứ mười bảy tính ngược từ tử tâm, sắc do nghiệp sinh, kể cả nhãn tịnh sắc, sinh liên tục trong các tiểu sát-na sinh, trụ và diệt của từng tâm suốt đời. Tùy sức nghiệp, nhiều nhóm sắc thuộc từng loại có thể sinh trong mỗi tiểu sát-na, kể cả nhiều nhóm mười sắc mắt. Khi nhãn thức sinh, trong các nhóm ấy có nhãn tịnh sắc đang sinh, đang trụ và đang diệt. Danh pháp nhãn thức sinh nương nhãn tịnh sắc thọ mạng trung bình mạnh nhất trong số ấy.
+
+Các tịnh sắc gọi là thọ mạng ngắn, dài và trung bình đều kéo dài mười bảy sát-na tâm, không thực sự dài ngắn hơn nhau. Các tên này xét tương quan với cảnh ngũ môn làm cảnh cho lộ ngũ môn…
+
+
+<a id="M04-body-P139"></a>
+## Ba nhóm tịnh sắc và vật nương của ý thức
+Miến / Burmese 139
+
+… tùy diệt cùng lúc, trước hay sau cảnh. Ở lộ nhãn môn cảnh rất lớn, nhãn tịnh sắc sinh ở tiểu sát-na sinh của hữu phần vừa qua diệt cùng lúc với cảnh sắc đã chạm nó, nên gọi là thọ mạng trung bình. Ba mươi bảy nhãn tịnh sắc sinh trong các sát-na trước hữu phần vừa qua diệt trước cảnh sắc ấy, nên gọi là thọ mạng ngắn. Mười một nhãn tịnh sắc sinh từ tiểu sát-na trụ của hữu phần vừa qua đến các sát-na sau vẫn chưa diệt khi cảnh sắc diệt, nên gọi là thọ mạng dài. Hiểu tương tự với các lộ nhãn môn khác và các lộ nhĩ môn trở đi.
+
+Ngũ thức nương sắc tịnh đã sinh trước và còn tồn tại khi ngũ thức sinh, tức pháp trợ bằng y chỉ tiền sinh. Trong ba loại tịnh sắc, Phụ chú giải A-tỳ-đàm xác định ngũ thức nương loại thọ mạng trung bình. Cách giải cho rằng ngũ thức nương tịnh sắc sinh cùng hướng ngũ môn hoặc cùng hữu phần dứt dòng bị bác bỏ (Vīthipāṭha, tr. 2–3).
+
+Đối với ý thức trong đời sống ở cõi ngũ uẩn, tâm tái tục nương sắc ý vật cùng sinh với nó. Tất cả tâm ý thức kể từ hữu phần, gồm hướng ngũ môn, tiếp thọ, suy đạc, xác định, tốc hành, đăng ký, cũng như hướng ý môn, tốc hành và đăng ký trong lộ ý môn, nương sắc ý vật sinh cùng tâm liền trước. Khi xuất khỏi định diệt…
+
+
+<a id="M04-body-P140"></a>
+## Từng tâm nương sắc ý vật nào
+Miến / Burmese 140
+
+… tâm quả Bất lai hoặc quả A-la-hán nương sắc ý vật sinh trước đó một sát-na tâm. Gần lúc chết, hữu phần, hướng môn và các tâm ý thức tương tự nương sắc ý vật sinh cùng tâm thứ mười bảy tính ngược từ tử tâm (Thanh tịnh đạo, tập 2, tr. 279). Hãy ghi nhớ các trường hợp sau.
+
+Sắc ý vật làm chỗ nương
+1. Tâm tái tục | Chính tâm ấy
+2. Hữu phần thứ nhất | Tâm tái tục
+3. Hữu phần thứ hai | Hữu phần thứ nhất
+4. Hướng ngũ môn | Hữu phần dứt dòng
+5. Tiếp thọ | Ngũ thức
+6. Suy đạc | Tiếp thọ
+7. Xác định | Suy đạc
+8. Tốc hành thứ nhất | Xác định… pe…
+9. Tốc hành thứ bảy | Tốc hành thứ sáu
+10. Đăng ký thứ nhất | Tốc hành thứ bảy
+11. Đăng ký thứ hai | Đăng ký thứ nhất
+
+Hãy ghi nhớ từng tâm nương như vậy. Cũng nên hiểu theo cách ấy đối với các lộ ý môn.
+
+
+<a id="M04-body-P141"></a>
+## Hoạt động của lộ ngũ môn và lộ ý môn
+Miến / Burmese 141
+
+Thông thường, trong lộ ngũ môn và lộ ý môn có tốc hành dục giới, tốc hành sinh bảy lần, đăng ký hai lần. Các tâm lộ còn lại chỉ sinh một lần mỗi loại. Sau các lộ ngũ môn như lộ nhãn môn, nhiều lộ ý môn có thể sinh xen kẽ với hữu phần. Lộ ý môn đầu gọi là lộ ý môn theo sau (tadanuvattaka). Từ lộ ý môn thứ hai trở đi, các lộ kế tiếp gọi là lộ ý môn đơn thuần. Một số vị thầy gọi tất cả là lộ ý môn theo sau. Trong các bảng ở đây chỉ ghi “lộ ý môn”.
+
+Pañcamajavanepi … pe … na hotīti idaṃ pañcaviññāṇavīthiyaṃ itthipurisoti rajjanādīnaṃ abhāvaṃ sandhāya vuttaṃ. Tattha hi āvajjanavoṭṭhabbanānaṃ ayoniso āvajjanavoṭṭhabbanavasena iṭṭhe itthirūpādimhi lobho, aniṭṭhe ca paṭigho uppajjati. Manodvāre pana itthipurisoti rajjanādi hoti.
+Câu “ngay cả ở tốc hành thứ năm… pe… cũng không có” nói đến việc tham đắm và các phản ứng tương tự đối với đối tượng được nhận ra là “nữ” hay “nam” chưa có trong lộ ngũ thức. Trong lộ ấy, do hướng tâm và xác định phi như lý, tham có thể sinh đối với cảnh đáng ưa như sắc tướng nữ, và sân có thể sinh đối với cảnh không đáng ưa. Ở ý môn mới có sự tham đắm và các phản ứng tương tự đối với đối tượng được nhận ra là “nữ” hay “nam”. (Mūlaṭīkā, tập 2, tr. 188.)
+
+Tatthāyaṃ pavattikkamo, pañcadvāre rūpādiārammaṇe āpāthagate niyamitādivasena kusalākusalajavane uppajjitvā bhavaṅgaṃ otiṇṇe manodvārikajavanaṃ taṃyevārammaṇaṃ katvā bhavaṅgaṃ otarati. Puna tasmiṃyeva dvāre itthipurisotiādinā vavatthapetvā javanaṃ uppajjitvā bhavaṅgaṃ otarati. Puna vāre pasādarajjanādivasena javanaṃ javati.
+Anuṭīkā, tập 1, tr. 200.
+
+Trong quá trình ấy, ở ngũ môn, khi cảnh sắc hoặc cảnh tương tự đi vào phạm vi, tốc hành thiện hoặc bất thiện sinh do sự xác định và các duyên tương tự, rồi tâm chìm vào hữu phần. Lộ ý môn kế tiếp lấy chính cảnh đó, chạy rồi trở lại hữu phần. Một lộ ý môn nữa xác định đối tượng theo những cách như “nữ”, “nam”, rồi chạy và trở lại hữu phần. Đến lượt khác, tốc hành sinh do tín, tham và các duyên tương tự (Anuṭīkā, tập 1, tr. 200).
+
+
+<a id="M04-body-P142"></a>
+## Các lộ đầu tiên từ cảnh sắc đến nhận biết màu
+Miến / Burmese 142
+
+Saññaṃ paṭhamavīthena, tītaṃ dutiyacetasā. Nāmaṃ tatiyavīthena, atthaṃ catutthacetasā.
+Tưởng ở lộ thứ nhất, cảnh quá khứ ở tâm thứ hai, tên ở lộ thứ ba, nghĩa ở tâm thứ tư.
+
+1. Khi cảnh sắc đến trước nhãn môn và ý môn, lộ nhãn môn có tốc hành thiện hay bất thiện sinh tùy sự xác định từ trước, chẳng hạn “Tôi sẽ chỉ làm cho thiện sinh” hoặc chiều ngược lại. Danh pháp trong lộ nhãn môn chỉ biết màu của cảnh sắc, chưa biết là đàn ông, đàn bà, nồi hay vải. Đây mới là cảnh và cửa gặp nhau. Như lý tác ý thì tốc hành thiện có thể sinh, phi như lý tác ý thì tốc hành bất thiện có thể sinh. Các tốc hành ấy vẫn chỉ lấy màu của cảnh sắc, trên cơ sở sự xác định trước và các duyên khác.
+
+2. Sau lộ nhãn môn có một lộ ý môn gọi là lộ ý môn theo sau. Nó chỉ có thể lấy cảnh sắc quá khứ mà lộ nhãn môn vừa lấy. Tốc hành thiện hay bất thiện có thể sinh tùy trường hợp. Tính cả lộ nhãn môn thì đây là lộ thứ hai. Có thể có đăng ký hoặc không.
+3. Sau lộ ý môn thứ hai lại có lộ ý môn thứ ba, gọi là lộ ý môn đơn thuần thứ ba. Lộ này…
+
+
+<a id="M04-body-P143"></a>
+## Nhận ra màu, quy ước và đối tượng
+Miến / Burmese 143
+
+… biết chính cảnh sắc quá khứ ấy là nâu, vàng, xanh và các màu tương tự. Hai lộ đầu chỉ biết màu sắc. Đến lộ ý môn thứ ba mới phân biệt được các màu khác nhau. Lộ này phân định cảnh sắc quá khứ đã được thấy qua hai lộ trước. Có thể có đăng ký hoặc không. Tốc hành thiện hoặc bất thiện sinh tùy như lý tác ý hay phi như lý tác ý.
+
+4. Lộ ý môn đơn thuần thứ tư dựa trên cảnh sắc đã được thấy và phân biệt qua ba lộ trước để biết chế định về sự vật theo quy ước, như đàn ông, đàn bà, nồi, vải, y, vàng và bạc. Khi lấy chế định làm cảnh, đăng ký không có cơ hội sinh. Nếu chỉ lấy chân đế, tiếp tục biết riêng màu của cảnh sắc, thì có thể có đăng ký. Tốc hành thiện hoặc bất thiện cũng tùy cách tác ý.
+
+5. Đến lộ ý môn đơn thuần thứ năm mới phân biệt được chế định cụ thể là đàn ông, đàn bà, nồi, vải, vàng hay bạc. Nếu như lý tác ý thì tín có thể sinh, nếu phi như lý tác ý thì dính mắc và ưa thích có thể sinh. Hành giả minh sát có khả năng cũng có thể chỉ lấy màu chân đế làm cảnh trong lộ này, và khi ấy đăng ký có cơ hội sinh. Nếu chỉ lấy chế định làm cảnh thì đăng ký không có cơ hội sinh.
+
+
+<a id="M04-body-P144"></a>
+## Bốn duyên cho tốc hành thiện
+Miến / Burmese 144
+
+1. Quyết định (niyamita): nhất định hướng tâm vào việc thiện, nghĩ “Tôi chỉ nên làm điều thiện”. Do sức của tâm đã quyết định thực hành bố thí, giới, tu tập và các việc thiện tương tự, tốc hành thiện sinh.
+
+2. Chuyển hướng (pariṇāmita): kéo tâm ra khỏi bất thiện và hướng tâm chỉ đến việc thiện. Tốc hành thiện sinh do sức của tâm đã được hướng về điều thiện như vậy.
+3. Thường hành (samudācāra): thường xuyên thực hành bố thí, giới, thiền chỉ, minh sát và các pháp thiện khác, rèn tâm sinh liên tục theo chiều thiện. Tốc hành thiện sinh do sức của tâm quen với pháp thiện.
+
+4. Như lý tác ý (ābhoga): sống ở nơi thích hợp, nơi Tam bảo hưng thịnh và có thiện nhân, nương bậc chân nhân như Đức Phật, nghe Chánh pháp liên hệ bốn Thánh đế, và có phước đã làm từ trước. Do các duyên ấy, vị ấy biết tác ý đúng phương pháp, đúng đường lối. Tốc hành thiện sinh do sức như lý tác ý ấy. Do những duyên trên, tốc hành thiện sinh (Chú giải A-tỳ-đàm, tập 1, tr. 117).
+
+
+<a id="M04-body-P145"></a>
+## Bốn duyên thiện và cách quán nhóm cảnh sắc
+Miến / Burmese 145
+
+Người đã quyết định “Dù gặp cảnh gì, tôi chỉ để tâm thiện sinh” thì tâm thiện sinh. Người giữ tâm khỏi bất thiện và hướng tâm đến thiện thì tâm thiện sinh. Người quen tâm thiện từ trước cũng thường có tâm thiện. Người có khả năng tác ý đúng phương pháp, đúng đường lối trong mọi việc, tức có như lý tác ý, cũng thường có tâm thiện. Do bốn duyên này, dù gặp tịnh tướng hay cảnh đáng ưa, tâm thiện sinh thay cho tâm tham.
+
+Nhóm thiện lấy cảnh sắc. Danh pháp lấy cảnh sắc làm cảnh gồm danh pháp lộ nhãn môn và danh pháp lộ ý môn. Sau một lộ nhãn môn, nhiều lộ ý môn có thể sinh, xen giữa các lộ là nhiều hữu phần. Chú giải Kinh Meghiya nói rằng trong một thời gian cực ngắn như chớp mắt, tia chớp hoặc búng ngón tay, vô số tâm có thể sinh diệt (Chú giải Tăng chi bộ, tập 2, tr. 325). Vì thế trong thời gian ngắn ấy cũng có thể sinh nhiều lộ nhãn môn và ý môn.
+
+Trong đó có những lộ quán được và những lộ chưa quán được. Hãy dùng tuệ phân tích, phá khối danh và quán đến mức thấy các pháp chân đế trong những lộ mình quán được, đã quán kịp…
+
+
+<a id="M04-body-P146"></a>
+## Bốn loại lộ tùy thời gian tồn tại của cảnh
+Miến / Burmese 146
+
+… Bốn loại khối danh được trình bày ở tr. 209–217 sách này. Tùy thời gian tồn tại còn lại của cảnh, tính từ khi hành giả kịp quán, có bốn trường hợp.
+
+1. Chỉ có hữu phần rung động (moghavāra).
+2. Chỉ đến xác định (voṭṭhabbanavāra).
+3. Đến tốc hành (javanavāra).
+4. Đến đăng ký (tadārammaṇavāra).
+
+Trong bốn loại, các bảng mẫu lấy lộ đăng ký làm chính. Hành giả có thể dần hiểu các lộ khác trong lúc quán. Chú giải Aṭṭhasālinī gọi ba trường hợp đầu lần lượt là lộ vô hiệu thứ nhất, thứ hai và thứ ba, vì lần lượt thiếu tâm lộ, thiếu tốc hành và thiếu đăng ký (Chú giải A-tỳ-đàm, tập 1, tr. 130).
+
+
+<a id="M04-body-P147"></a>
+## Bảng nhóm thiện lấy màu làm cảnh
+Miến / Burmese 147
+
+Cảnh sắc — nhãn môn, hữu phần xen giữa và ý môn. Vật nương: 54 sắc ở mắt hoặc tim như chỉ trong bảng nguồn.
+11 | 8 | 11 | 12 | 12 | 34 | 34/12/11 | 34 | 12 | 34 | 34/12/11
+11 | 8 | 11 | 11 | 12 | 33 | 33/11/11 | 34 | 12 | 33 | 33/11/11
+11 | 8 | 11 | 12 | 12 | 33 | 33/12/11 | 34 | 12 | 33 | 33/12/11
+11 | 8 | 11 | 11 | 12 | 32 | 32/11/11 | 34 | 12 | 32 | 32/11/11
+
+Ý môn — các cách quán tiếp theo
+2. Là sắc | 12 | 34 (33 / 33 / 32) | 34 (33 / 33 / 32), 12/11
+3. Là vô thường | 12 | 34 (33 / 33 / 32) | 34 (33 / 33 / 32), 12/11
+4. Là khổ | 12 | 34 (33 / 33 / 32) | 34 (33 / 33 / 32), 12/11
+5. Là vô ngã | 12 | 34 (33 / 33 / 32) | 34 (33 / 33 / 32), 12/11
+6. Là bất tịnh | 12 | 34 (33 / 33 / 32) | 34 (33 / 33 / 32), 12/11
+
+
+<a id="M04-body-P148"></a>
+## Cách quán lộ nhãn môn và ý môn lấy màu làm cảnh
+Miến / Burmese 148
+
+Muốn quán các lộ nhãn môn và ý môn sinh khi lấy cảnh sắc, hãy làm như sau.
+1. Tái lập tuần tự định tứ thiền đã đắc.
+2. Quán đồng thời cho hiện rõ hai cửa: nhãn tịnh sắc là nhãn môn và hữu phần trong sáng là ý môn.
+3. Hướng tâm đến màu của nhiều nhóm sắc hoặc của một nhóm sắc.
+4. Khi màu ấy đồng thời đến trước và hiện ở nhãn môn, ý môn, lộ nhãn môn sinh, rồi các lộ ý môn tiếp tục lấy chính cảnh sắc ấy.
+5. Hướng môn, xác định và hướng ý môn trong các lộ ấy hướng đến và xác định cảnh ấy chỉ là cảnh sắc, tức màu. Do như lý tác ý, tốc hành thiện sinh. Các danh pháp của tốc hành thiện và đăng ký, như nhóm 34 pháp, thuộc nhóm tín và tuệ.
+
+Có quan điểm cho rằng danh pháp lộ nhãn môn chỉ có thể lấy màu của nhiều nhóm sắc làm cảnh. Lộ ý môn có thể biết màu của một nhóm sắc hoặc của nhiều nhóm sắc. Vì thế ở đây trình bày cả hai trường hợp cảnh sắc của nhiều nhóm và của một nhóm.
+
+
+<a id="M04-body-P149"></a>
+## Giới hạn của ngũ thức và lộ ý môn theo sau
+Miến / Burmese 149
+
+Pañcahi viññāṇehi na kañci dhammaṃ paṭivijānāti aññatra abhinipātamattā. Pañcannaṃ viññāṇānaṃ samanantarāpi na kañci dhammaṃ paṭivijānāti.
+Bằng năm thức, không nhận biết pháp nào ngoài sự chạm đơn thuần. Ngay sau năm thức cũng chưa nhận biết pháp nào theo cách ấy (A-tỳ-đàm, tập 2, tr. 123).
+
+Theo đoạn Pāli này và các Chú giải, Phụ chú giải về bộ Phân tích, các dòng lộ ngũ môn có tốc hành chỉ biết sự gặp nhau của cửa và cảnh, tức biết cảnh đến trước cửa tương ứng. Chúng chỉ biết màu, tiếng, mùi, vị hoặc xúc, chưa thể phân biệt trắng, đỏ, vàng, xanh và các loại tương tự. Vì thế sự hướng đến và xác định trong lộ ngũ môn và hướng ý môn trong lộ ý môn theo sau chưa thực sự có thể phân định cảnh theo những loại ấy. Phải đến các lộ ý môn tiếp theo mới có khả năng phân định thích hợp. Các tâm hướng đến và xác định ở lộ ngũ môn và lộ theo sau được gọi như vậy vì hoạt động tương tự như sự quyết định.
+
+Hãy tập thấy tâm biết tức thức trong từng sát-na: hướng ngũ môn, nhãn thức, tiếp thọ, suy đạc, xác định, bảy tốc hành và hai đăng ký. Sau đó có nhiều hữu phần xen giữa, rồi hướng ý môn, bảy tốc hành và hai đăng ký…
+
+
+<a id="M04-body-P150"></a>
+## Tăng dần số tâm sở được quán
+Miến / Burmese 150
+
+Hãy luyện nhiều lần, quán cùng lúc hai cửa là nhãn tịnh sắc và hữu phần trong sáng, và cảnh sắc. Khi một lộ nhãn môn sinh, nhiều lộ ý môn tiếp tục lấy cảnh sắc, xen giữa chúng là nhiều hữu phần. Hãy tập cho đến khi dùng tuệ phân biệt được các lộ ấy. Khi đã quán thành công từng tâm lộ, thêm từng tâm sở như xúc và thọ, lần lượt thành hai, ba, bốn, năm, sáu, bảy, tám pháp và tiếp tục như vậy. Khi thấy rõ chúng cùng sinh ở mỗi sát-na tâm, hãy quán tâm và tâm sở theo bảng. Có thể bắt đầu từ xúc hoặc thọ theo cách tương tự. Nếu chưa thành công, hãy nhiều lần trở lại quán sắc. Khi tuệ quán sắc đã trong sáng và hết rối, danh pháp tự hiện rõ với tuệ hành giả, như Thanh tịnh đạo chỉ dẫn (tập 2, tr. 223).
+
+Sắc chân thật và không chân thật. Trong các lộ ấy, nhãn thức chỉ nương sắc nhãn vật tức nhãn tịnh sắc thọ mạng trung bình. Các danh pháp còn lại trong lộ nhãn môn và ý môn đều nương sắc ý vật sinh cùng tâm liền trước của chúng. Bảng cũng trình bày các sắc vật nương ấy. Theo phương pháp trong kinh, phải dùng tuệ phân tích đến mức phá khối và quán các sắc chân đế, nên xét theo vật nương…
+
+
+<a id="M04-body-P151"></a>
+## Sắc vật nương, hữu phần và như lý tác ý
+Miến / Burmese 151
+
+… cần quán cả các sắc đại chủng và sắc y sinh có thể biết được, cùng với sắc vật nương, chứ không chỉ riêng các sắc vật như nhãn vật. Chú giải Trung bộ, phần đầu (tập 1, tr. 281) và các nguồn tương tự chỉ dẫn cách quán như vậy. Các bảng đặt trọng tâm vào sắc chân thật. Ở giai đoạn tuệ phân định danh sắc, hãy quán cả các sắc không chân thật có thể biết được. Đến giai đoạn minh sát, để riêng sắc không chân thật và chỉ quán sắc chân thật.
+
+Bảng ghi 34 danh pháp hữu phần cho người có tái tục ba nhân với thọ hỷ. Với người có tái tục ba nhân với thọ xả, nhóm hữu phần ấy có 33 danh pháp. Tâm hữu phần chỉ lấy một trong ba cảnh là nghiệp, nghiệp tướng hoặc thú tướng, đã hiện làm cảnh của tốc hành cận tử lúc sắp chết ở đời trước. Chỉ khi có thể quán cảnh quá khứ của hữu phần theo đúng mẫu, hành giả mới nên quán cả các hữu phần xen giữa các dòng tâm lộ. Khi mới bắt đầu quán danh pháp, nếu chưa quán được cảnh thật của hữu phần, có thể tạm để riêng danh pháp hữu phần.
+
+Như lý tác ý. 1. Khi quán cảnh sắc, tức màu, là cảnh sắc hay màu, lộ nhãn môn biết màu, cùng với các lộ ý môn theo sau và các lộ ý môn đơn thuần, sẽ sinh. Cách quán đã trình bày. Lại nữa, tâm hướng ý môn trong lộ ý môn…
+
+
+<a id="M04-body-P152"></a>
+## Các cách như lý tác ý đến cảnh sắc
+Miến / Burmese 152
+
+2. Khi quán cảnh sắc ấy là sắc pháp, hãy quán các tâm lộ ý môn biết nó là sắc pháp.
+3. Khi lấy tính sinh và diệt của cảnh sắc ấy làm cảnh, thấy bằng tuệ và quán là vô thường, hãy quán các tâm lộ ý môn biết nó là vô thường.
+4. Khi lấy tính liên tục bị sinh diệt bức bách của cảnh sắc ấy làm cảnh, thấy bằng tuệ và quán là khổ, hãy quán các tâm lộ ý môn biết nó là khổ.
+
+5. Khi lấy tính không có tự ngã bất hoại, bền vững, thường còn và có thực chất làm cảnh, thấy bằng tuệ và quán cảnh sắc ấy là vô ngã, hãy quán các dòng tâm lộ ý môn biết nó là vô ngã.
+6. Khi lấy tính bất tịnh, đáng ghê do lẫn màu sắc và mùi không tốt làm cảnh, thấy bằng tuệ và quán cảnh sắc ấy là bất tịnh, hãy quán các tâm lộ ý môn biết nó là bất tịnh. Hãy tiếp tục quán các danh pháp này.
+
+Các tâm lộ nhãn môn chỉ có thể biết cảnh sắc là cảnh sắc, tức màu. Chúng không biết màu ấy là sắc pháp, vô thường, khổ, vô ngã hay bất tịnh. Các tâm lộ ý môn có thể biết cảnh sắc ấy là cảnh sắc hay màu…
+
+
+<a id="M04-body-P153"></a>
+## Vì sao quán danh pháp theo sáu cách
+Miến / Burmese 153
+
+… hoặc là sắc pháp, vô thường, khổ, vô ngã hay bất tịnh.
+
+Quán sáu lượt danh pháp lấy cảnh sắc làm cảnh để hiểu cách tốc hành thiện sinh do như lý tác ý. Một lý do khác là để chuẩn bị cho phần minh sát, ở đoạn quán theo nhóm (kalāpasammasana) trong Thanh tịnh đạo, tập 2, tr. 260–264, và các phần về các tuệ tiếp theo.
+
+Ñātañca ñāṇañca ubhopi vipassati.
+Quán minh sát cả cái được biết lẫn tuệ biết (Thanh tịnh đạo, tập 2, tr. 278).
+
+Theo lời xác định của các vị Chú giải xưa, hãy quán minh sát cả hai: cái được biết (ñāta), tức pháp thuộc khổ đế và tập đế cần tuệ minh sát thấu suốt, và tuệ biết (ñāṇa), tức tâm và tâm sở trong lộ ý môn có tốc hành minh sát, gồm tuệ đang quán. Vì về sau cũng phải quán lại chính các tâm và tâm sở trong lộ tốc hành minh sát, việc này chuẩn bị để quán tuệ minh sát và các danh pháp đi cùng. Do hai lý do ấy, hãy quán sáu lượt như trên. Mỗi lượt có bốn trường hợp, tổng cộng 24.
+
+Ở đây cũng vậy, theo Chú giải Sammohavinodanī, sau tốc hành minh sát lấy các đặc tướng vô thường, khổ và vô ngã của hành làm cảnh, đăng ký không thể sinh…
+
+
+<a id="M04-body-P154"></a>
+## Đăng ký sau tốc hành minh sát và bảng tâm sở
+Miến / Burmese 154
+
+… nên một số sách bỏ đăng ký sau các tốc hành minh sát biết vô thường, khổ và vô ngã. Tuy vậy, theo Paṭṭhāna và Chú giải, sau các tốc hành minh sát còn yếu, đăng ký vẫn có cơ hội sinh. Vì vậy, sau tốc hành minh sát, nếu đăng ký sinh thì quán các danh pháp theo trường hợp có đăng ký, nếu không sinh thì quán theo trường hợp không có đăng ký.
+
+Số lượng tâm và tâm sở
+11 | 8 | 11 | 12/11 | 12
+1. Tâm biết | Tâm biết | Tâm biết | Tâm biết | Tâm biết
+2. Xúc | Xúc | Xúc | Xúc | Xúc
+3. Thọ | Thọ | Thọ | Thọ | Thọ
+4. Tưởng | Tưởng | Tưởng | Tưởng | Tưởng
+5. Tư | Tư | Tư | Tư | Tư
+6. Nhất tâm | Nhất tâm | Nhất tâm | Nhất tâm | Nhất tâm
+7. Mạng quyền | Mạng quyền | Mạng quyền | Mạng quyền | Mạng quyền
+8. Tác ý | Tác ý | Tác ý | Tác ý | Tác ý
+9. Tầm |  | Tầm | Tầm | Tầm
+10. Tứ |  | Tứ | Tứ | Tứ
+11. Thắng giải |  | Thắng giải | Thắng giải | Thắng giải
+12 |  |  | Hỷ* | Tinh tấn
+
+
+<a id="M04-body-P155"></a>
+## Giải thích số tâm và tâm sở trong lộ nhãn môn
+Miến / Burmese 155
+
+Hướng ngũ môn có 11 tâm và tâm sở, luôn tương ưng thọ xả. Nhãn thức có 8 tâm và tâm sở, luôn tương ưng thọ xả. Tiếp thọ có 11 tâm và tâm sở, luôn tương ưng thọ xả. Suy đạc có 12 tâm và tâm sở khi tương ưng thọ hỷ vì có hỷ. Ở hàng thứ hai, suy đạc tương ưng thọ xả, không có hỷ, nên có 11 tâm và tâm sở. Xác định có 12 tâm và tâm sở, luôn tương ưng thọ xả.
+
+Số 34 ở tốc hành là 34 danh pháp thuộc nhóm tín và tuệ. 1. Hợp trí, hợp hỷ: 34, tương ưng thọ hỷ. 2. Hợp trí, ly hỷ: 33, tương ưng thọ xả. 3. Ly trí, hợp hỷ: 33, tương ưng thọ hỷ. 4. Ly trí, ly hỷ: 32, tương ưng thọ xả.
+
+Với đăng ký, hãy ghi nhớ bốn trường hợp như ở tốc hành. Tuy nhiên, nếu đăng ký là suy đạc vô nhân thọ hỷ thì có 12 tâm và tâm sở. Nếu là suy đạc thọ xả thì có 11. Với cảnh không đáng ưa là quả bất thiện, với cảnh đáng ưa là quả thiện, tùy trường hợp. Nếu là đăng ký đại quả, hãy quán bốn trường hợp như ở tốc hành.
+
+
+<a id="M04-body-P156"></a>
+## Quán danh pháp thiện lấy tiếng làm cảnh
+Miến / Burmese 156
+
+Hướng ý môn giống tâm xác định và tương ưng thọ xả.
+
+Ghi chú. Thông thường suy đạc, tốc hành và đăng ký có cùng loại thọ. Nếu tốc hành có thọ hỷ thì suy đạc và đăng ký phần nhiều cũng có thọ hỷ. Nếu tốc hành có thọ xả thì suy đạc và đăng ký phần nhiều cũng có thọ xả. Nếu tốc hành là đại thiện, đăng ký phần nhiều là đại quả. Bảng trình bày theo quy tắc chung này (xem Chú giải A-tỳ-đàm, tập 1, tr. 130–131). Tiếp theo là cách quán tóm lược nhóm cảnh tiếng và các nhóm sau.
+
+Muốn tìm và quán danh pháp trong lộ nhĩ môn và ý môn có tốc hành thiện lấy tiếng làm cảnh, hãy làm như sau.
+1. Nếu cần, tái lập định đã đắc theo từng bậc.
+2. Quán đồng thời nhĩ tịnh sắc, tức nhĩ môn, và hữu phần trong sáng, tức ý môn.
+
+3. Hướng tâm đến một tiếng mà mình có thể nghe, thuộc nội phần hoặc ngoại phần.
+4. Khi tiếng ấy đồng thời chạm, tức đến trước nhĩ môn và ý môn, sinh hướng ngũ môn, nhĩ thức, tiếp thọ, suy đạc, xác định, bảy tốc hành và hai đăng ký. Đó là lộ nhĩ môn…
+
+
+<a id="M04-body-P157"></a>
+## Sáu cách tác ý đến cảnh tiếng
+Miến / Burmese 157
+
+… rồi các lộ ý môn có hướng ý môn, bảy tốc hành và hai đăng ký sinh. Hướng ngũ môn và xác định, hoặc hướng ý môn, hướng đến cảnh tiếng theo các cách sau. Cách thứ nhất biết là tiếng. Năm cách còn lại thuộc hướng ý môn.
+
+1. Là tiếng.
+2. Là sắc pháp.
+3. Là vô thường.
+4. Là khổ.
+5. Là vô ngã.
+6. Là bất tịnh.
+
+Hãy quán riêng từng cách như vậy. Do như lý tác ý, tốc hành thiện sinh. Trong mỗi cách, quán bốn trường hợp tùy có hay không có trí và hỷ. Cộng lại là 24 lượt.
+
+Lưu ý. Chỉ tái lập định khi cần. Đầu mỗi buổi ngồi hãy tái lập định, có thể đến tứ thiền. Nếu sau một lần tái lập đã quán được danh sắc liên tục suốt buổi thì không cần lập định lại. Chỉ lập lại khi gặp khó khăn trong việc quán danh sắc. Nếu có thể quán liên tục trong cả sáu nhóm từ cảnh sắc trở đi thì cứ tiếp tục. Người đã thuần thục có thể chỉ cần tái lập định một lần cho mỗi buổi ngồi.
+
+
+<a id="M04-body-P158"></a>
+## Quán danh pháp thiện lấy mùi làm cảnh
+Miến / Burmese 158
+
+Hiểu theo cách ấy khi quán danh pháp thuộc nhóm cảnh mùi và các nhóm sau.
+
+Muốn tìm và quán danh pháp trong lộ tỷ môn và ý môn có tốc hành thiện lấy mùi làm cảnh, hãy làm như sau.
+1. Nếu cần, tái lập định đã đắc theo từng bậc.
+2. Quán đồng thời tỷ tịnh sắc, tức tỷ môn, và hữu phần trong sáng, tức ý môn.
+
+3. Hướng tâm đến mùi của nhiều nhóm sắc hoặc của một nhóm sắc.
+
+4. Khi mùi đồng thời chạm, tức hiện trước tỷ môn và ý môn, lộ tỷ môn sinh với hướng ngũ môn, tỷ thức, tiếp thọ, suy đạc, xác định, bảy tốc hành và hai đăng ký. Tiếp theo là các lộ ý môn với hướng ý môn, bảy tốc hành và hai đăng ký, có nhiều hữu phần xen giữa các lộ.
+
+Hướng ngũ môn và xác định, hoặc hướng ý môn, biết mùi: 1. Là mùi. 2. Là sắc pháp. 3. Là vô thường. 4. Là khổ…
+
+
+<a id="M04-body-P159"></a>
+## Quán danh pháp thiện lấy vị làm cảnh
+Miến / Burmese 159
+
+5. Là vô ngã.
+6. Là bất tịnh.
+
+Hãy quán riêng từng cách như vậy. Do như lý tác ý, tốc hành thiện sinh. Trong mỗi cách, quán bốn trường hợp tùy có hay không có trí và hỷ. Cộng lại là 24 lượt.
+
+Muốn tìm và quán danh pháp trong lộ thiệt môn và ý môn có tốc hành thiện lấy vị làm cảnh, hãy làm như sau.
+1. Nếu cần, tái lập định đã đắc theo từng bậc.
+2. Quán đồng thời thiệt tịnh sắc, tức thiệt môn, và hữu phần trong sáng, tức ý môn.
+
+3. Hướng tâm đến vị của nhiều nhóm sắc hoặc của một nhóm sắc.
+
+4. Khi vị đồng thời chạm, tức hiện trước thiệt môn và ý môn, lộ thiệt môn sinh với hướng ngũ môn, thiệt thức, tiếp thọ, suy đạc, xác định, bảy tốc hành và hai đăng ký. Tiếp theo là các lộ ý môn với hướng ý môn, bảy tốc hành và hai đăng ký, có nhiều hữu phần xen giữa các lộ.
+
+Sau một lộ thiệt môn có thể có nhiều lộ ý môn. Hướng ngũ môn và xác định, hoặc hướng ý môn, tác ý theo các cách sau.
+
+
+<a id="M04-body-P160"></a>
+## Sáu cách tác ý đến vị và cách bắt đầu quán xúc
+Miến / Burmese 160
+
+1. Là vị.
+2. Là sắc pháp.
+3. Là vô thường.
+4. Là khổ.
+5. Là vô ngã.
+6. Là bất tịnh.
+
+Hãy quán riêng từng cách như vậy. Do như lý tác ý, tốc hành thiện sinh. Trong mỗi cách, quán bốn trường hợp tùy có hay không có trí và hỷ. Cộng lại là 24 lượt.
+
+Muốn tìm và quán danh pháp trong lộ thân môn và ý môn có tốc hành thiện lấy cảnh xúc làm cảnh, hãy làm như sau.
+1. Nếu cần, tái lập định đã đắc theo từng bậc.
+2. Quán đồng thời thân tịnh sắc, tức thân môn, và hữu phần trong sáng, tức ý môn.
+
+3. Hướng tâm đến cảnh xúc của nhiều nhóm sắc hoặc của một nhóm sắc. Đó là cảnh xúc trong các nhóm sắc ở sát thân tịnh sắc, tức thân môn, mà mình đang quán.
+
+
+<a id="M04-body-P161"></a>
+## Quán cảnh xúc theo ba đại
+Miến / Burmese 161
+
+Có ba loại cảnh xúc. Hãy lấy một trong ba đại đất, lửa hoặc gió làm cảnh để quán.
+
+4. Khi cảnh xúc đồng thời chạm, tức hiện trước thân môn và ý môn, lộ thân môn sinh với hướng ngũ môn, thân thức, tiếp thọ, suy đạc, xác định, bảy tốc hành và hai đăng ký. Tiếp theo là các lộ ý môn với hướng ý môn, bảy tốc hành và hai đăng ký, có nhiều hữu phần xen giữa các lộ.
+
+Sau một lộ thân môn có thể sinh nhiều lộ ý môn. Hướng ngũ môn và xác định, hoặc hướng ý môn, biết cảnh theo sáu cách sau.
+
+1. Là cảnh xúc, tức địa giới, hỏa giới hoặc phong giới.
+2. Là sắc pháp.
+3. Là vô thường.
+4. Là khổ.
+5. Là vô ngã.
+6. Là bất tịnh.
+
+Hãy quán riêng sáu cách cho từng đại: sáu lượt lấy địa giới, sáu lượt lấy hỏa giới và sáu lượt lấy phong giới. Mỗi lượt quán bốn trường hợp có hay không có trí và hỷ. Tổng cộng 3 × 6 × 4 = 72 lượt.
+
+
+<a id="M04-body-P162"></a>
+## Não và tuệ biết
+Miến / Burmese 162
+
+Ở đây hành giả có thể tự kiểm nghiệm não có tuệ gọi là tuệ quyền hay không. Theo A-tỳ-đàm của Đức Phật, não chỉ là tập hợp các nhóm sắc. Hãy chú tâm quán bốn đại trong não. Chẳng bao lâu sẽ dễ thấy các hạt nhóm sắc, vì ở phần đề mục sắc đã quán kỹ năm loại nhóm sắc và 44 loại sắc có trong não. Hãy quán lại 44 sắc ấy, rồi chọn riêng thân tịnh sắc và quán lại.
+
+1. Quán thân tịnh sắc, tức thân môn, và hữu phần trong sáng, tức ý môn.
+2. Quán cùng lúc một trong các đại đất, lửa hay gió có trong một hay nhiều nhóm sắc sát thân tịnh sắc ấy.
+
+Khi một cảnh xúc như vậy đồng thời đến trước và hiện ở hai cửa, thân tịnh sắc ở não và hữu phần trong sáng, các tâm lộ thân môn và các dòng tâm lộ ý môn có tốc hành sẽ sinh, lấy chính cảnh xúc ấy làm cảnh. Trong các lộ ấy…
+
+
+<a id="M04-body-P163"></a>
+## Thân thức, tuệ và thọ
+Miến / Burmese 163
+
+… nếu xác định và hướng ý môn tác ý đúng, xác định là đất, lửa, gió, sắc pháp, vô thường và các cách tương tự, các dòng lộ có tốc hành đại thiện sinh. Trong mỗi sát-na tốc hành có 34 danh pháp nếu hợp trí và hỷ, hoặc 33 nếu hợp trí mà ly hỷ. Các nhóm 34 hoặc 33 danh pháp ấy sinh nương sắc ý vật, lấy hữu phần trong sáng làm cửa. Trong chúng có tuệ gọi là tuệ quyền. Còn thân thức nương thân tịnh sắc ở não chỉ có thể sinh cùng bảy tâm sở biến hành, tổng cộng tám danh pháp. Tám pháp ấy không có tuệ. Hãy tự thực hành nhiều lần để xác nhận lời này.
+
+Ghi chú. Với cảnh xúc đáng ưa, thân thức tương ưng lạc thọ. Với cảnh không đáng ưa, thân thức tương ưng khổ thọ. Hãy quán để hiểu rõ. Ngoài thân thức, cũng hãy quán để phân biệt thọ hỷ, thọ xả và các thọ tương ứng trong mỗi sát-na tâm lộ thuộc cả sáu nhóm.
+
+Đến đây đã trình bày cách quán danh pháp nhóm thiện có tốc hành thiện trong sáu nhóm cảnh: sắc, tiếng, mùi, vị, xúc và pháp. Khi đã quán thành thạo các danh pháp tương ưng với tốc hành thiện trong cả sáu nhóm…
+
+
+<a id="M04-body-P164"></a>
+## Bốn nhóm cảnh pháp và danh pháp thiền vô sắc
+Miến / Burmese 164
+
+… hãy quán lần lượt từ nhóm cảnh sắc đến nhóm cảnh pháp. Để dễ ghi nhớ, các nhóm lộ có tốc hành thiện lấy cảnh pháp được chia làm bốn.
+
+a. Danh pháp quán với 10 hoặc 11 sắc chân thật làm cảnh.
+b. Danh pháp quán với 10 sắc không chân thật làm cảnh.
+c. Danh pháp tiết chế, vô lượng, niệm Phật và niệm chết.
+d. Danh pháp thiền.
+
+Đến đây kết thúc cách quán danh pháp nhóm có tốc hành thiện. Nếu đã tu tập mười biến xứ và tám chứng đắc, hãy quán tiếp danh pháp trong các chứng đắc ấy. Bốn thiền vô sắc chỉ có hai thiền chi là xả và nhất tâm. Vì không có tầm, tứ và hỷ, mỗi thiền có 31 danh pháp.
+
+1. Muốn quán danh pháp Không vô biên xứ, quán đồng thời ý môn và cảnh chế định không gian vô biên, rồi tìm và quán danh pháp thiền ấy.
+2. Muốn quán danh pháp Thức vô biên xứ, quán ý môn cùng cảnh là thức của Không vô biên xứ…
+
+
+<a id="M04-body-P165"></a>
+## Cảnh của các tầng thiền vô sắc còn lại
+Miến / Burmese 165
+
+… rồi tìm và quán danh pháp thiền ấy.
+3. Muốn quán danh pháp Vô sở hữu xứ, quán đồng thời ý môn và cảnh chế định “không có”, tức sự vắng mặt của thức thuộc Không vô biên xứ, rồi tìm và quán danh pháp thiền ấy.
+4. Muốn quán danh pháp Phi tưởng phi phi tưởng xứ, quán đồng thời ý môn và cảnh là thiền Vô sở hữu xứ, rồi tìm và quán danh pháp thiền ấy.
+
+Tiếp theo sẽ trình bày cách tìm và quán danh pháp nhóm bất thiện, có tốc hành bất thiện.
+
+
+<a id="M04-body-P166"></a>
+## Phần 4. Quán danh pháp bất thiện
+Miến / Burmese 166
+
+Quán pháp bất thiện có làm bất thiện sinh thêm không? Nhiều hành giả thường hỏi như vậy. Để trả lời, Đức Phật dạy trong Kinh Đại niệm xứ:
+
+Sarāgaṃ vā cittaṃ sarāgaṃ cittanti pajānāti, vītarāgaṃ vā cittaṃ vītarāgaṃ cittanti pajānāti.
+Vị ấy biết rõ tâm có tham là tâm có tham, tâm ly tham là tâm ly tham (Trung bộ, tập 1, tr. 56).
+
+Khi nghe giải rằng chính Đức Phật dạy quán tâm có tham và tâm ly tham như vậy, có người nghĩ lời dạy chỉ bảo quán tham, sân, si khi chúng tự nhiên sinh. Không có pháp hữu vi nào tự sinh theo ý muốn. Các pháp hữu vi chỉ có thể sinh khi các duyên tương ứng hội đủ và tác động. Trong các duyên của những pháp hữu vi ấy…
+
+
+<a id="M04-body-P167"></a>
+## Duyên của tốc hành bất thiện
+Miến / Burmese 167
+
+… phi như lý tác ý là duyên gần nhất cho tốc hành bất thiện. Khi gặp một cảnh mà tác ý sai đường lối, tức phi như lý tác ý, thì tốc hành bất thiện sinh tùy trường hợp. Chúng sinh cũng thường mê đắm pháp bất thiện. Họ tự hào vì yêu con trai, vui thích vì yêu con gái, và yêu cháu đến độ không thể rời. Họ lại mê đắm bất thiện của mình, nghĩ “Tham của tôi khác tham của người khác, sân của tôi khác sân của người khác”. Do những lần tham hay sân trước làm duyên, những lần tham hay sân sau lại sinh. Vì thế cần quán minh sát cả tham, sân và các pháp bất thiện ấy. Nếu chưa rõ, hãy đọc lời Chú giải sau đây.
+
+Tattha yogāvacaro kāmavitakkassa padaghātanatthaṃ kāmavitakkaṃ vā sammasati aññaṃ vā kiñci saṅkhāraṃ. Athassa vipassanākkhaṇe vipassanāsampayutto saṅkappo tadaṅgavasena kāmavitakkassa padaghātaṃ padacchedaṃ karonto uppajjati. Vipassanaṃ ussukkāpetvā maggaṃ pāpeti. Athassa maggakkhaṇe maggasampayutto saṅkappo samucchedavasena kāmavitakkassa padaghātaṃ padacchedaṃ karonto uppajjati. Byāpādavitakkassāpi padaghātanatthaṃ byāpādavitakkaṃ vā aññaṃ vā saṅkhāraṃ, vihiṃsāvitakkassa padaghātanatthaṃ vihiṃsāvitakkaṃ vā aññaṃ vā saṅkhāraṃ sammasati. Athassa vipassanākkhaṇeti sabbaṃ purimanayeneva yojetabbaṃ.
+Chú giải A-tỳ-đàm, tập 2, tr. 100. Lời giải tiếp ở Miến 168–169.
+
+
+<a id="M04-body-P168"></a>
+## Quán ba loại tầm bất thiện
+Miến / Burmese 168
+
+Có ba tầm bất thiện: dục tầm, sân tầm và hại tầm. Muốn đoạn trừ các duyên cho dục tầm, tức suy nghĩ và dự tính về dục, hành giả quán dục tầm hoặc một hành khác theo một trong ba đặc tướng vô thường, khổ và vô ngã. Trong khi quán, tầm gọi là chánh tư duy tương ưng với tuệ minh sát sinh. Do sức đoạn trừ từng phần (tadaṅgappahāna), nó dẹp và cắt các duyên cho dục tầm sinh. Hành giả tinh cần làm cho minh sát tiến triển đến Thánh đạo. Khi đến sát-na đạo, chánh tư duy tương ưng với Thánh đạo sinh và dẹp, cắt các duyên cho dục tầm do sức đoạn tận (samucchedappahāna).
+
+Muốn đoạn trừ duyên cho sân tầm, tức suy nghĩ và dự tính muốn hủy hoại chúng sinh, hãy quán sân tầm hoặc một hành khác theo ba đặc tướng. Muốn đoạn trừ duyên cho hại tầm, tức suy nghĩ và dự tính muốn làm chúng sinh đau khổ, hãy quán hại tầm hoặc một hành khác theo ba đặc tướng. Trong khi quán như vậy…
+
+
+<a id="M04-body-P169"></a>
+## Đoạn trừ tầm bất thiện từng phần và tận gốc
+Miến / Burmese 169
+
+… trong dòng tương tục hành giả, khi tuệ minh sát sinh, tầm gọi là chánh tư duy tương ưng với tuệ ấy sinh, dẹp và cắt các duyên của sân tầm và hại tầm bằng sức đoạn trừ từng phần. Hành giả tinh cần tu tập theo trình tự các tuệ cho đến Thánh đạo. Ở sát-na Thánh đạo, chánh tư duy tương ưng với đạo sinh và dẹp, cắt các duyên của sân tầm và hại tầm bằng sức đoạn tận (Chú giải A-tỳ-đàm, tập 2, tr. 100).
+
+Dục tầm là tầm tương ưng với tâm căn tham cùng các tâm sở của nó. Sân tầm và hại tầm là tầm tương ưng với tâm căn sân cùng các tâm sở của nó. Hãy quán các nhóm danh pháp căn tham có dục tầm và các nhóm căn sân có sân tầm hoặc hại tầm theo ba đặc tướng. Cũng hãy quán các hành khác. Trong khi quán, tuệ minh sát, hay chánh tư duy tương ưng với nó, đoạn trừ từng phần các tầm bất thiện. Thánh đạo sinh vào cuối tiến trình minh sát đã chín muồi đoạn trừ chúng tận gốc. Đó là ý đoạn Chú giải trên.
+
+Vì vậy, quán minh sát các pháp bất thiện là để đoạn trừ chúng từng phần và tận gốc…
+
+
+<a id="M04-body-P170"></a>
+## Bốn trường hợp danh pháp nhóm tham và tà kiến
+Miến / Burmese 170
+
+… Hãy hiểu rằng mục đích của việc quán ấy là đoạn trừ bất thiện. Sau đây trình bày trước các nhóm danh pháp bất thiện thường sinh theo nhóm.
+
+Nhóm tham và tà kiến
+Tâm biết | 1
+Tâm sở tợ tha | 13
+Tâm sở bất thiện biến hành | 4
+Tham và tà kiến | 2
+Tổng | 20
+
+Bốn trường hợp hợp tà kiến
+1. Thọ hỷ, vô trợ | 20
+2. Thọ xả, vô trợ, không hỷ | 19
+3. Thọ hỷ, hữu trợ | 20 + hôn trầm và thụy miên = 22
+4. Thọ xả, hữu trợ | 19 + hôn trầm và thụy miên = 21
+
+Trong các nhóm này, thọ hỷ đi với hỷ, thọ xả không đi với hỷ. Tinh tấn ở đây là nỗ lực đặc biệt khiến tham và tà kiến sinh. Dục là tính muốn cho tham và tà kiến sinh…
+
+
+<a id="M04-body-P171"></a>
+## Nhóm tham và mạn, nhóm sân
+Miến / Burmese 171
+
+… Nói cách khác, tinh tấn là cố gắng làm cho tham sinh, còn dục là muốn tham sinh. Các tâm sở còn lại có thể hiểu theo tính chất của chúng.
+
+Nhóm tham và mạn có bốn trường hợp. Thay tà kiến bằng mạn trong nhóm tham và tà kiến, số danh pháp vẫn là 20, 19, 22 và 21. Mạn là tâm sở bất định, có khi không tương ưng. Khi không có mạn, cũng không có tà kiến, các số lần lượt là 19, 18, 21 và 20. Hãy quán bốn trường hợp ấy. Bốn tâm hợp tà kiến và bốn tâm ly tà kiến hợp thành tám tâm căn tham.
+
+Hai trường hợp nhóm sân
+Tâm biết | 1
+Tâm sở tợ tha, không có hỷ | 12
+Tâm sở bất thiện biến hành | 4
+Sân | 1
+Tổng vô trợ | 18
+Hữu trợ, thêm hôn trầm và thụy miên | 20
+
+
+<a id="M04-body-P172"></a>
+## Sân cùng tật, xan hoặc hối
+Miến / Burmese 172
+
+Nhóm sân và tật đố
+Danh pháp nhóm sân | 18
+Tật đố | 1
+Tổng vô trợ | 19
+Hữu trợ, thêm hôn trầm và thụy miên | 21
+
+Nhóm sân và xan tham
+Danh pháp nhóm sân | 18
+Xan tham | 1
+Tổng vô trợ | 19
+Hữu trợ, thêm hôn trầm và thụy miên | 21
+
+Nhóm sân và hối
+Danh pháp nhóm sân | 18
+Hối | 1
+Tổng vô trợ | 19
+Hữu trợ, thêm hôn trầm và thụy miên | 21
+
+Với hối, lấy một ác hạnh đã làm làm cảnh và quán hai trường hợp vô trợ, hữu trợ. Lấy một thiện hạnh đáng làm mà chưa làm làm cảnh và quán hai trường hợp vô trợ, hữu trợ. Đến đây đã trình bày cách quán hai tâm căn sân. Sau đây là cách quán hai tâm căn si.
+
+
+<a id="M04-body-P173"></a>
+## Hai nhóm danh pháp căn si
+Miến / Burmese 173
+
+Si và trạo cử
+Tâm biết | 1
+Tâm sở biến hành | 7
+Tầm, tứ, thắng giải và tinh tấn. Không có hỷ và dục. | 4
+Tâm sở bất thiện biến hành | 4
+Tổng | 16
+
+Si và hoài nghi
+Tâm biết | 1
+Tâm sở biến hành | 7
+Tầm, tứ và tinh tấn. Không có thắng giải, hỷ và dục. | 3
+Tâm sở bất thiện biến hành | 4
+Hoài nghi | 1
+Tổng | 16
+
+Đến đây đã trình bày cách quán hai tâm căn si. Tám tâm căn tham, hai tâm căn sân và hai tâm căn si hợp thành 12 tâm bất thiện cần quán. Theo phần phân tích lộ tâm trong Thắng pháp tập yếu và các lời dạy A-tỳ-đàm như Dhammasaṅgaṇī, cả 29 tốc hành dục giới có thể sinh trong lộ ngũ môn, chẳng hạn lộ nhãn môn, và trong lộ ý môn. Trong số 29 có 12 tốc hành bất thiện. Chính Đức Phật cũng dạy quán tâm có tham đi cùng tham…
+
+
+<a id="M04-body-P174"></a>
+## Bắt đầu từ sắc chân đế hoặc cảnh chế định
+Miến / Burmese 174
+
+… tâm có sân đi cùng sân và tâm có si đi cùng si, trong phần quán tâm của Kinh Đại niệm xứ.
+
+Tasmā taṃ rūpaṃ ārammaṇaṃ katvā uppannaṃ vedanaṃ saññaṃ saṅkhāre viññāṇañca “idaṃ arūpan”ti vavatthapetvā aniccādito passati.
+Lời dẫn Chú giải A-tỳ-đàm, tập 1, tr. 128. Hành giả mới học đề mục danh trước hết quán các danh pháp sinh với từng sắc trong 28 sắc làm cảnh. Hãy tìm và quán đủ cả 28. Nếu chia theo cảnh thì có sáu loại. Trước hết trình bày các danh pháp sinh khi lấy từng sắc chân thật trong số 10 hoặc 11 sắc và từng sắc trong 10 sắc không chân thật thuộc cảnh pháp làm cảnh.
+
+Khi quán từng nhóm bất thiện sinh với một sắc chân đế làm cảnh, một số hành giả có thể thấy khó. Nếu vậy, hãy bắt đầu bằng các nhóm bất thiện sinh với những cảnh chế định đặc biệt đã quen từ trước. Việc này dễ hơn vì tâm của người chưa có tuệ về chân đế thường hoạt động trong phạm vi chế định. Như khi tưới nước cho cây, để dễ biết cách quán, cũng hãy tập quán danh pháp sinh với chế định làm cảnh, theo cách dẫn nước vào rãnh…
+
+
+<a id="M04-body-P175"></a>
+## Ví dụ nhóm tham và tà kiến lấy vàng làm cảnh
+Miến / Burmese 175
+
+… và nhờ đó hiểu được pháp bất thiện. Với hai mục đích ấy, người gặp khó khăn có thể bắt đầu bằng việc quán danh pháp sinh với chế định làm cảnh. Cũng có thể quán trực tiếp lấy sắc chân đế làm cảnh. Khi đã quán được nhóm danh pháp bất thiện lấy sắc chân đế làm cảnh thì không cần quán lại nhóm lấy chế định làm cảnh. Dưới đây trình bày một mẫu cho người có tuệ còn yếu, với danh pháp trong lộ ý môn có tốc hành bất thiện lấy chế định làm cảnh.
+
+Nhóm tham và tà kiến.
+1. Nếu cần, tái lập định.
+2. Quán hữu phần trong sáng, tức ý môn.
+3. Hướng tâm đến cảnh vàng, chẳng hạn vàng của mình mà mình ưa thích.
+4. Khi cảnh vàng hiện ở ý môn, các dòng lộ ý môn có tốc hành sẽ sinh lấy một vật chế định là vàng làm cảnh. Hướng ý môn trong các lộ ấy hướng đến và xác định “vàng”. Hãy tác ý theo cách phi như lý. Khi ấy nhóm danh pháp tốc hành bất thiện có tham và tà kiến sẽ sinh.
+
+
+<a id="M04-body-P176"></a>
+## Tà kiến khi lấy vàng và các vật quen thuộc làm cảnh
+Miến / Burmese 176
+
+Khi lộ này lấy chế định làm cảnh, đăng ký không có cơ hội sinh. Nhưng nếu thay vì lấy vật chế định “vàng”, hành giả lấy màu của nhiều nhóm sắc trong vật ấy làm cảnh, đăng ký có cơ hội sinh.
+
+Trong nhóm tốc hành bất thiện có tham và tà kiến, biết sai là “vàng” thuộc về si, còn tin và chấp “vàng” thuộc về tà kiến. Đây là một loại quy ước thông dụng thế gian. Hiểu các tâm sở còn lại theo tính chất của chúng. Cũng hãy thử xác định khối vàng ấy là thường, là lạc, là ngã, hay là đẹp. Những dòng lộ có tốc hành bất thiện thuộc nhóm tham và tà kiến cũng sinh như vậy. Trong các danh pháp ấy, biết sai là thường, lạc, ngã, tịnh thuộc về si, còn tin và chấp như vậy thuộc về tà kiến. Hiểu và quán tương tự với y phục. Hãy quán cho rõ sự khác nhau giữa hỷ thường sinh đối với áo hay y mới và hỷ không sinh đối với áo hay y cũ.
+
+Sự nhận biết sai và tin chấp là thường ở đây như sau: “Hôm qua là vàng của tôi, hôm nay vẫn là vàng của tôi. Hôm qua là áo của tôi, là y của tôi, hôm nay vẫn là áo, là y của tôi. Hôm qua là con trai tôi, hôm nay vẫn là con trai tôi.” Nếu ai nói “Đó không phải vàng, áo, y hay con trai của anh”, người chưa có tuệ chân đế, đang bám chấp, khó chấp nhận. Hãy hiểu tính chất ấy dựa vào sự nhận biết sai và tin chấp.
+
+
+<a id="M04-body-P177"></a>
+## Các cảnh cho nhóm tham và mạn, nhóm sân
+Miến / Burmese 177
+
+Nhóm tham và mạn. Mạn là muốn hơn người, muốn đứng trên người. Người ấy cho rằng của cải dục lạc của mình, dù có sinh mạng hay không, hơn của người khác và thuộc hạng cao, rồi tự đề cao mình và tự đắc. Hãy lấy một cảnh quen thuộc mà mình muốn ganh đua hoặc vượt trội, chẳng hạn quần áo, nhà cửa, xe cộ, con trai hoặc vợ, rồi quán đồng thời ý môn và quán. Khi đã hiểu danh pháp nhóm tham và tà kiến hoặc tham và mạn sinh với chế định làm cảnh, hãy quán với sắc chân đế làm cảnh.
+
+Các nhóm căn sân. 1. Với nhóm sân, lấy một người mình thường ghét hoặc một vật gây sân. 2. Với sân và tật đố, lấy tài sản của người khác hơn tài sản mình. 3. Với sân và xan tham, lấy một vật hay đối tượng dục lạc của mình, có sinh mạng hay không, mà mình không muốn người khác có. 4. Với sân và hối, lấy một ác hạnh đã làm, chẳng hạn một lần sát sinh, hoặc một thiện hạnh đã bỏ qua, chẳng hạn đã không thực hiện được việc bố thí hay giữ giới.
+
+
+<a id="M04-body-P178"></a>
+## Cảnh của hối, trạo cử và hoài nghi
+Miến / Burmese 178
+
+Hối là sự nóng lòng về sau vì đã làm một ác hạnh, nên có thể quán lấy ác hạnh đã làm làm cảnh. Nó cũng là sự nóng lòng vì đã không làm một thiện hạnh, nên cũng có thể quán lấy thiện hạnh đã bỏ qua làm cảnh. Có thể mở rộng tùy sức tuệ. Nhiều hành giả thấy nhóm này khó quán với sắc chân đế làm cảnh.
+
+Các nhóm căn si. Với si và trạo cử, trước hết hãy quán với một cảnh chế định quen thuộc làm tâm phóng dật mà không có tham hay sân. Với si và hoài nghi, hãy lấy một cảnh có thể khơi lên hoài nghi, chẳng hạn “Có thật đời trước hay không?”
+
+Khi quán chế định như vậy, đăng ký không sinh sau các tốc hành bất thiện ở ý môn. Nếu có thể lấy màu, tiếng, mùi và các sắc chân đế tương tự làm cảnh thì có cơ hội cho đăng ký. Khi đã quán được danh pháp bất thiện lấy chế định làm cảnh, hãy tiếp tục quán danh pháp bất thiện lấy từng sắc chân đế làm cảnh. Cũng như khi quán các lộ có tốc hành thiện, hãy bắt đầu với nhóm cảnh pháp.
+
+
+<a id="M04-body-P179"></a>
+## Hai mươi danh pháp nhóm tham và tà kiến
+Miến / Burmese 179
+
+Để giúp người có tuệ còn yếu, dưới đây trình bày lại 20 danh pháp nhóm tham và tà kiến sinh khi lấy nhãn tịnh sắc làm cảnh. Hiểu theo mẫu này với các nhóm danh pháp bất thiện còn lại.
+
+1. Tâm biết. Tiếp nhận cảnh nhãn tịnh sắc.
+2. Xúc (phassa). Có tính chạm cảnh nhãn tịnh sắc và nối cảnh ấy với tâm biết. Ghi chú: “cảnh” ở các tâm sở tiếp theo đều chỉ nhãn tịnh sắc.
+3. Thọ (vedanā). Cảm nghiệm vị của cảnh, ở đây là thọ hỷ.
+4. Tưởng (saññā). Ghi nhận cảnh là đẹp. Hiểu tương tự khi ghi nhận là thường, lạc hoặc ngã.
+5. Tư (cetanā). Thúc đẩy và đôn đốc các pháp tương ưng đến cảnh.
+6. Nhất tâm (ekaggatā). Đặt tâm trên một cảnh, giữ các pháp tương ưng không tán loạn đối với cảnh ấy.
+
+
+<a id="M04-body-P180"></a>
+## Các tâm sở từ mạng quyền đến si
+Miến / Burmese 180
+
+7. Mạng quyền (jīvita). Duy trì các pháp tương ưng trên cảnh.
+8. Tác ý (manasikāra). Hướng và thúc tâm cùng các pháp tương ưng về cảnh, đưa cảnh vào tâm.
+9. Tầm (vitakka). Đặt tâm và các pháp tương ưng lên cảnh, suy nghĩ về cảnh.
+10. Tứ (vicāra). Liên tục xem xét và rà sát cảnh, lấy cảnh đi lấy cảnh lại.
+11. Thắng giải (adhimokkha). Quyết định cảnh là đẹp. Hiểu tương tự khi quyết định là thường, lạc hay ngã.
+
+12. Tinh tấn (viriya). Cố gắng làm cho tham, tà kiến và các bất thiện tương tự sinh đối với cảnh.
+13. Hỷ (pīti). Thích thú với cảnh.
+14. Dục (chanda). Mong muốn cảnh, tức muốn tham sinh.
+15. Si (moha). Không biết tính thật bất tịnh của cảnh. Hiểu tương tự với tính thật vô thường, khổ và vô ngã. Si cũng là biết sai cảnh là đẹp. Hiểu tương tự khi biết sai là thường, lạc hay ngã.
+
+
+<a id="M04-body-P181"></a>
+## Các tâm sở còn lại và bốn trường hợp của nhóm tham
+Miến / Burmese 181
+
+16. Vô tàm (ahirika). Không hổ thẹn khi tham, tà kiến và các bất thiện tương tự sinh đối với cảnh.
+17. Vô quý (anottappa). Không e sợ các bất thiện ấy sinh đối với cảnh.
+18. Trạo cử (uddhacca). Tâm không yên, tán động đối với cảnh.
+19. Tham (lobha). Chấp cảnh là “của tôi”, muốn và đắm vào cảnh, dính mắc vào cảnh.
+20. Tà kiến (diṭṭhi). Chấp và tin cảnh là đẹp, hiểu sai và nhận định sai như vậy. Hãy hiểu tương tự khi chấp là thường, lạc hay ngã.
+
+Thọ, hỷ, hôn trầm và thụy miên. Tâm căn tham thọ hỷ có hỷ. Tâm căn tham thọ xả không có hỷ. Tâm vô trợ không có hôn trầm và thụy miên, tâm hữu trợ có thể có hai pháp ấy. Hãy quán bốn trường hợp tùy hỷ, hôn trầm và thụy miên có tương ưng hay không.
+
+Tinh tấn và dục. Với mỗi nhóm sân, sân và tật đố, sân và xan tham, sân và hối, tinh tấn là nỗ lực đặc biệt làm cho các pháp tương ứng ấy sinh. Dục là muốn chúng sinh.
+
+
+<a id="M04-body-P182"></a>
+## Si, vô tàm và vô quý trong các nhóm bất thiện
+Miến / Burmese 182
+
+Si là biết sai nhãn tịnh sắc và các cảnh tương tự là thường, lạc, ngã hoặc tịnh, hoặc biết sai theo cách “nhãn tịnh sắc của người khác”, “nhãn tịnh sắc của tôi” và các cách tương tự.
+
+Vô tàm và vô quý là không hổ thẹn, không e sợ các bất thiện sinh, như tham và tà kiến, tham và mạn, sân, sân và tật đố, sân và xan tham, sân và hối, si và trạo cử, si và hoài nghi. Khi quán danh pháp sinh vào lúc làm ác hạnh, vô tàm và vô quý sinh trong lúc ấy là sự không hổ thẹn, không e sợ chính ác hạnh đang làm.
+
+Với danh pháp bất thiện sinh lấy chín hoặc mười sắc chân thật còn lại và mười sắc không chân thật thuộc cảnh pháp làm cảnh, hãy quán theo mẫu nhãn tịnh sắc. Trước hết trình bày bảng lộ ý môn có tốc hành bất thiện.
+
+
+<a id="M04-body-P183"></a>
+## Bảng lộ ý môn có tốc hành bất thiện lấy cảnh pháp
+Miến / Burmese 183
+
+Nhóm bất thiện lấy cảnh pháp. Sắc vật nương ở tim: 54.
+1. Tham và tà kiến | 12 | 20 (19/22/21) | 12 (11/12/11) (8) | 34/33/33/32
+2. Tham và mạn | 12 | 20 (19/22/21) | 12 (11/12/11) | 34/33/33/32
+3. Sân | 12 | 18 (20) | 11 (11) | 33/32
+4. Sân và tật đố | 12 | 19 (21) | 11 (11) | 33/32
+5. Sân và xan tham | 12 | 19 (21) | 11 (11) | 33/32
+6. Sân và hối | 12 | 19 (21) | 11 (11) | 33/32
+7. Trạo cử | 12 | 16 | 12 (11/11) | 34/33/33/32
+8. Hoài nghi | 12 | 16 | 12 (11/11) | 34/33/33/32
+
+
+<a id="M04-body-P184"></a>
+## Quán nhóm tham và tà kiến lấy nhãn tịnh sắc làm cảnh
+Miến / Burmese 184
+
+1. Nếu cần, tái lập định theo từng bậc.
+2. Quán hữu phần trong sáng, tức ý môn.
+3. Phân tích nhóm mười sắc mắt và hướng tâm đến nhãn tịnh sắc.
+4. Khi cảnh nhãn tịnh sắc hiện trước ý môn, các dòng lộ ý môn có tốc hành lấy nhãn tịnh sắc ấy làm cảnh sinh. Hướng ý môn trong các lộ ấy xác định nhãn tịnh sắc là đẹp. Dù nhãn tịnh sắc ấy là cảnh đáng ưa, do phi như lý tác ý, các danh pháp thuộc nhóm tham và tà kiến sinh ở tốc hành, thích thú và đắm chấp vì cho là đẹp. Sự tác ý sai, tức tác ý là đẹp, là một trong những duyên gần nhất để tốc hành tham sinh.
+
+Hãy hiểu tương tự khi xác định và tác ý nhãn tịnh sắc là thường, lạc hoặc ngã. Trong tám tâm căn tham, có bốn tâm hợp tà kiến. Tâm thọ hỷ có hỷ, tâm thọ xả không có hỷ. Hữu trợ là có thúc đẩy nên có thể có hôn trầm và thụy miên. Vô trợ là không có thúc đẩy nên không có hai pháp ấy. Thúc đẩy là tự thúc đẩy hoặc được người khác thúc đẩy để tham, sân hay các pháp bất thiện tương tự sinh. Số lượng tâm và tâm sở trong từng sát-na của dòng lộ được trình bày trong bảng.
+
+
+<a id="M04-body-P185"></a>
+## Quán mạn, sân, tật đố và xan tham với nhãn tịnh sắc
+Miến / Burmese 185
+
+Trong nhóm tham và mạn, mạn là tâm sở bất định, chỉ tương ưng khi có duyên. Khi không có mạn, cũng không có tà kiến, số tâm và tâm sở ở các tốc hành lần lượt là 19, 18, 21 và 20. Có bốn trường hợp tùy thọ hỷ hay xả, hữu trợ hay vô trợ.
+
+Nhóm tham và mạn lấy nhãn tịnh sắc. Quán ý môn cùng nhãn tịnh sắc và thử tác ý “Ta có được nhãn tịnh sắc này”. Các dòng lộ ý môn có tốc hành bất thiện với tham và mạn nổi trội sẽ sinh. Hãy phá khối danh và quán danh pháp chân đế.
+
+Nhóm sân. Lấy nhãn tịnh sắc không đáng ưa, từng có lúc không tốt, làm cảnh. Quán đồng thời ý môn và các danh pháp nhóm sân.
+Sân và tật đố. Lấy nhãn tịnh sắc của người khác hơn mình, tức mắt của người khác đẹp hơn mắt mình, và tác ý “Giá như người ấy không có nhãn tịnh sắc như vậy”, tức “Giá như người ấy không có đôi mắt như thế”. Danh pháp có sân và tật đố nổi trội sẽ sinh. Hãy quán đến chân đế.
+Sân và xan tham. Lấy nhãn tịnh sắc của mình mà mình không muốn ai đụng đến. Có thể lấy làm cảnh thái độ không chịu nổi khi người khác chê “Mắt chị có gì đẹp?”
+
+
+<a id="M04-body-P186"></a>
+## Quán hối, trạo cử và nghi, cùng quy tắc đăng ký
+Miến / Burmese 186
+
+Sân và hối. Có thể lấy làm cảnh một việc xấu đã nói hay làm liên quan đến nhãn tịnh sắc. Cũng có thể lấy làm cảnh sự nóng lòng về sau vì đã bỏ qua một việc đáng làm liên quan đến nhãn tịnh sắc.
+Si và trạo cử. Nếu tâm từng tán động liên quan đến nhãn tịnh sắc, hãy quán lấy chính cảnh ấy, khi không có tham và sân.
+Si và hoài nghi. Hãy quán với câu hỏi “Nhãn tịnh sắc này có phải là tịnh sắc của một tự ngã không?” Cách quán này dựa trên cách mười kiết sử sinh khi lấy cảnh sắc như Chú giải trình bày. Xem Chú giải Trường bộ, tập 2, tr. 377, và Chú giải Trung bộ, tập 1, tr. 292. Phần sau sẽ nói rõ.
+
+Đăng ký. Bảng trình bày cả đăng ký vô nhân và hữu nhân. Không nên hiểu cả hai loại sinh trong cùng một dòng lộ. Một loại đăng ký vô nhân hoặc một loại đăng ký hữu nhân có thể sinh tùy trường hợp. Trong 11 loại đăng ký, chỉ một loại có thể sinh trong một lộ. Thông thường tốc hành và đăng ký cùng loại thọ. Khi tốc hành thọ hỷ, đăng ký cũng thọ hỷ. Khi tốc hành hợp hỷ, đăng ký cũng hợp hỷ. Khi tốc hành thọ xả, đăng ký cũng thọ xả. Khi tốc hành ly hỷ, đăng ký cũng ly hỷ. Tuy vậy, khi tốc hành có thọ ưu, đăng ký không thể có thọ ưu mà chỉ có thọ xả. Như vậy, sau tốc hành sân chỉ có cơ hội cho đăng ký thọ xả. Như bảng trước đã nêu…
+
+
+<a id="M04-body-P187"></a>
+## Luân phiên quán nhóm thiện và bất thiện
+Miến / Burmese 187
+
+… đăng ký đại quả cũng có thể sinh sau tốc hành bất thiện tùy trường hợp. Chẳng hạn, khi gặp cảnh rất đáng ưa như Đức Phật, nếu phi như lý tác ý thì tốc hành bất thiện có thể sinh, và đăng ký đại quả cũng có thể theo sau tùy trường hợp. Vì thế bảng trình bày cả đăng ký vô nhân và hữu nhân. Hành giả sẽ hiểu rõ qua thực hành.
+
+Với danh pháp bất thiện lấy các sắc chân thật và không chân thật còn lại thuộc cảnh pháp làm cảnh, hãy quán theo mẫu nhãn tịnh sắc.
+
+Một cách thực hành. Qua quan sát nhiều hành giả, khi họ dành cả buổi ngồi chỉ quán lộ có tốc hành bất thiện, đôi khi tâm trở nên vẩn đục và ánh sáng dần mờ. Vì đã biết quán lộ có tốc hành thiện, tốt hơn là quán luân phiên lộ thiện và lộ bất thiện. Chẳng hạn, sau khi quán lộ ý môn thiện lấy nhãn tịnh sắc làm cảnh, tiếp tục quán lộ ý môn bất thiện lấy chính nhãn tịnh sắc làm cảnh, tức xác định cùng một cảnh…
+
+
+<a id="M04-body-P188"></a>
+## Cách mười kiết sử sinh khi thấy sắc
+Miến / Burmese 188
+
+… Nếu lần lượt quán nhóm thiện và bất thiện sinh với từng sắc làm cảnh như vậy, tâm thường không vẩn đục và ánh sáng không mờ đi.
+
+Tiếp theo là cách quán danh pháp trong các lộ ngũ môn và ý môn có tốc hành bất thiện lấy năm cảnh, bắt đầu với cảnh sắc. Trước khi quán, nên biết cách mười kiết sử sinh, như các bản Chú giải giải thích.
+
+Cakkhudvāre tāva āpāthagataṃ iṭṭhārammaṇaṃ kāmassādavasena assādayato abhinandato kāmarāgasaṃyojanaṃ uppajjati. Aniṭṭhārammaṇe kujjhato paṭighasaṃyojanaṃ uppajjati. “Ṭhapetvā maṃ na koci añño etaṃ ārammaṇaṃ vibhāvetuṃ samattho atthī”ti maññato mānasaṃyojanaṃ uppajjati. “Etaṃ rūpārammaṇaṃ niccaṃ dhuvan”ti gaṇhato diṭṭhisaṃyojanaṃ uppajjati. “Etaṃ rūpārammaṇaṃ satto nu kho, sattassa nu kho”ti vicikicchato vicikicchāsaṃyojanaṃ uppajjati. “Sampattibhave vata no idaṃ sulabhaṃ jātan”ti bhavaṃ patthentassa bhavarāgasaṃyojanaṃ uppajjati. “Āyatimpi evarūpaṃ sīlabbataṃ samādiyitvā sakkā laddhun”ti sīlabbataṃ samādiyantassa sīlabbataparāmāsasaṃyojanaṃ uppajjati. “Aho vata etaṃ rūpārammaṇaṃ aññe na labheyyun”ti usūyato issāsaṃyojanaṃ uppajjati. Attanā laddhaṃ rūpārammaṇaṃ aññassa maccharāyato macchariyasaṃyojanaṃ uppajjati. Sabbeheva sahajātaaññāṇavasena avijjāsaṃyojanaṃ uppajjati.
+Chú giải Trường bộ, tập 2, tr. 377. Chú giải Trung bộ, tập 1, tr. 292. Phần dịch và giải từng kiết sử ở các trang tiếp theo.
+
+
+<a id="M04-body-P189"></a>
+## Kiết sử dục tham và hữu tham
+Miến / Burmese 189
+
+Niccaṃ dhuvanti etaṃ nidassanamattaṃ. “Ucchijjissati vinassissatī”ti gaṇhatoti evamādīnampi saṅgaho icchitabbo. Bhavaṃ patthentassāti “īdise sampattibhave yasmā amhākaṃ idaṃ iṭṭhārammaṇaṃ sulabhaṃ jātaṃ, tasmā āyatimpi sampattibhavo bhaveyyā”ti bhavaṃ nikāmentassa. Evarūpaṃ sakkā laddhunti yojanā.
+“Thường, bền vững” chỉ là ví dụ. Cũng cần kể cả lối chấp “sẽ bị cắt đứt, sẽ tiêu mất” và các lối chấp tương tự. “Người mong hữu” là người mong một đời sống như vậy, nghĩ “Vì trong đời sống đầy đủ này ta dễ được cảnh đáng ưa, mong sau này cũng có một đời sống đầy đủ”. Câu được hiểu là có thể có được cảnh như vậy. (Phụ chú giải Trung bộ, tập 1, tr. 379.)
+
+Trong 28 sắc, Chú giải Trường bộ, phần Đại phẩm (tập 2, tr. 377), và Chú giải Trung bộ, phần Căn bản (tập 1, tr. 292), giải cách mười kiết sử sinh với cảnh sắc trong phần giải về các xứ của Kinh Đại niệm xứ. Hiểu cách sinh với cảnh sắc thì cũng có thể hiểu và quán cách sinh với 27 sắc còn lại. Chú giải cũng giải cách sinh của mười kiết sử theo phương pháp A-tỳ-đàm. Ở đây trình bày theo thứ tự các tâm căn tham, sân và si để dễ quán và ghi nhớ.
+
+1. Kiết sử dục tham. Khi cảnh sắc đáng mong muốn, đáng ưa và đáng quý hiện trước nhãn môn và ý môn, kiết sử dục tham sinh trong dòng tương tục người quán cảnh ấy là đẹp và say mê thưởng thức do vị ngọt của dục. Kiết sử này là ái, tức tham đi cùng tám tâm căn tham, cả hợp tà kiến lẫn ly tà kiến, đắm vào các vật dục có hoặc không có sinh mạng.
+
+2. Kiết sử hữu tham. Kiết sử hữu tham sinh trong dòng tương tục người mong một đời sống đầy đủ, nghĩ “Quả thật ở một đời sống đầy đủ, cảnh sắc như vậy dễ có được”.
+
+
+<a id="M04-body-P190"></a>
+## Kiết sử hữu tham, tà kiến và giới cấm thủ
+Miến / Burmese 190
+
+Xét theo thực pháp, đó là tham dính mắc vào đời sống đầy đủ. Theo cách kinh, cũng có sắc tham và vô sắc tham thay cho hữu tham. Ái, tức tham, đắm vào thiền sắc giới và quả của thiền ấy là kiết sử sắc tham. Ái đắm vào thiền vô sắc và quả của nó là kiết sử vô sắc tham. Ở đây, các Chú giải lấy ví dụ mong một đời sống đầy đủ cả sáu cảnh như cảnh sắc. Vì vậy, phạm vi nghĩa của hữu tham có thể khác sắc tham và vô sắc tham. Hãy hiểu hữu tham là tham có thể tương ưng với cả tám tâm căn tham tùy trường hợp.
+
+3. Kiết sử tà kiến. Nó sinh khi chấp chính cảnh sắc ấy là (a) thường, bền vững, chắc thật, (b) lạc, dễ chịu, hay (c) ngã, một sinh thể, linh hồn, thức hay tự ngã. Biết sai là thường, lạc và ngã thuộc về si. Chấp và tin sai như vậy thuộc về tà kiến. Mỗi tốc hành có các danh pháp nhóm tham và tà kiến, với các số 20, 19, 22 hoặc 21. Đó là tham tương ưng tà kiến.
+
+4. Kiết sử giới cấm thủ. Nghĩ rằng nếu thực hành những lối tu sai như hạnh bò hoặc hạnh chó, mai sau có thể được cảnh sắc như vậy, rồi chấp thủ các lối tu ấy…
+
+
+<a id="M04-body-P191"></a>
+## Giới cấm thủ, mạn, sân và tật đố
+Miến / Burmese 191
+
+… và thực hành theo, thì kiết sử giới cấm thủ sinh trong dòng tương tục. Kiết sử này thuộc nhóm tham và tà kiến với 20, 19, 22 hoặc 21 danh pháp, tức tham hợp tà kiến. Với một phàm nhân đã quy y Tam bảo, có tín vào nghiệp và quả của nghiệp, có chánh kiến về nghiệp là của mình và đang nỗ lực đạt đến tuệ phân định danh sắc, giới cấm thủ như vậy rất khó sinh. Lời giải ở đây nói đến chúng sinh có thể khởi kiết sử ấy.
+
+5. Kiết sử mạn. Khi tự đề cao, nghĩ “Ngoài ta ra, không ai có thể làm cho màu của cảnh sắc trong nhóm sắc này hiện rõ với tuệ. Chỉ ta thấy được màu ấy”, kiết sử mạn sinh. Đó là tốc hành bất thiện của nhóm tham và mạn, ly tà kiến, với 20, 19, 22 hoặc 21 danh pháp trong mỗi sát-na tốc hành.
+
+6. Kiết sử sân. Khi gặp cảnh sắc không mong muốn, không đáng ưa mà ghét hay nổi sân, kiết sử sân sinh. Đó là danh pháp nhóm sân. Hãy quán lấy cảnh sắc không đáng ưa làm cảnh. Trong mỗi tốc hành có 18 hoặc 20 danh pháp.
+
+7. Kiết sử tật đố. Trong dòng tương tục người ganh tị, nghĩ “Giá như người khác ngoài ta không có được cảnh sắc như thế”, kiết sử tật đố sinh. Đó là danh pháp nhóm sân và tật đố. Trong mỗi tốc hành…
+
+
+<a id="M04-body-P192"></a>
+## Kiết sử xan tham và hối về điều đã làm
+Miến / Burmese 192
+
+… có 19 hoặc 21 danh pháp nhóm sân và tật đố. Hãy quán lấy cảnh sắc của người mình thường ganh tị làm cảnh. Ví dụ, lấy màu của hoa tai sáng lấp lánh, sang trọng của người khác làm cảnh để quán.
+
+8. Kiết sử xan tham. Trong dòng tương tục người giữ riêng cảnh sắc đã có và miễn cưỡng cho người khác cùng hưởng, kiết sử xan tham sinh. Đó là danh pháp nhóm sân và xan tham, 19 hoặc 21 trong mỗi tốc hành. Hãy quán lấy màu của một vật dục của mình, có sinh mạng hay không, mà mình thường không chịu được khi người khác đụng đến. Ví dụ, mình không nói ra khi ai đó chạm vào chiếc áo sạch của mình bằng bàn tay dính mực, nhưng trong lòng không chịu được. Hãy quán lấy cảnh đã khơi lên hay thường khơi lên thái độ ấy.
+
+Hối không nằm trong mười kiết sử này. Hãy quán riêng hai loại: (a) ác hạnh đã làm, (b) thiện hạnh đã bỏ qua. Với (a), hối sinh khi về sau nóng lòng vì một ác hạnh liên quan đến cảnh sắc đã làm. Đó là nhóm sân và hối. Lấy cảnh đã từng gây hối để quán. Chẳng hạn đã bôi mực làm hỏng màu áo người khác rồi về sau bứt rứt, không vui, hãy quán lấy chính cảnh ấy. Với (b), lấy một thiện hạnh đã bỏ qua…
+
+
+<a id="M04-body-P193"></a>
+## Hối về điều đã bỏ qua, trạo cử, hoài nghi và vô minh
+Miến / Burmese 193
+
+… rồi về sau nóng lòng, thì hối sinh. Đó là nhóm sân và hối, với 19 hoặc 21 danh pháp trong mỗi tốc hành. Ví dụ, đã định cúng hoa lên Đức Phật mà không thực hiện được, về sau không vui, hãy quán lấy cảnh ấy. Với nhóm sân và hối, một số hành giả khó quán lấy chân đế làm cảnh. Khi ấy hãy quán các danh pháp lấy chế định làm cảnh trước, rồi lại quán chính nhóm ấy lấy chân đế làm cảnh.
+
+Trạo cử không nằm trong mười kiết sử theo phương pháp A-tỳ-đàm ở đây, nhưng có trong mười kiết sử theo phương pháp kinh. Khi lấy cảnh sắc làm cảnh và tâm tán động thì trạo cử sinh. Đó là nhóm si và trạo cử, có 16 danh pháp trong mỗi tốc hành. Không có tham hay sân. Hãy quán lấy màu của cảnh sắc đã làm tâm không yên.
+
+9. Kiết sử hoài nghi. Nó sinh khi nghi “Cảnh sắc này có phải là một chúng sinh, một tự ngã, thuộc về một chúng sinh, hay thuộc về một tự ngã, tức màu của tự ngã không?” Đó là nhóm hoài nghi, có 16 danh pháp trong mỗi tốc hành. Hãy quán lấy cảnh sắc làm cảnh, với nghi vấn nó có phải màu của tự ngã hay không.
+
+10. Kiết sử vô minh. Mỗi khi các kiết sử kể trên sinh, vô minh, tức biết sai, luôn có mặt cùng chúng. Xem Chú giải Trường bộ, tập 2, tr. 377 và Chú giải Trung bộ, tập 1, tr. 292. Các kiết sử trên không sinh riêng lẻ…
+
+
+<a id="M04-body-P194"></a>
+## Kiết sử sinh theo nhóm và giới hạn của nhãn thức
+Miến / Burmese 194
+
+… mà tương ưng với các tâm và tâm sở khác, sinh theo nhóm. Các nhóm danh pháp ấy sinh theo trình tự cố định của lộ tâm. Khi quán chúng, hành giả hãy phá khối danh để tuệ thấu đến chân đế.
+
+Điểm cần lưu ý. Khi giải mười kiết sử sinh với cảnh sắc, Chú giải nói “ở nhãn môn” (cakkhudvāre), nghĩa là chúng cũng có thể sinh trong lộ nhãn môn (Chú giải Trường bộ, tập 2, tr. 377. Chú giải Trung bộ, tập 1, tr. 292). Khi tác ý cảnh sắc là thường, lạc, ngã hay tịnh, sau lộ nhãn môn có nhiều lộ ý môn. Sau khi các lộ ý môn ấy đã quán cảnh theo các cách ấy nhiều lần, ở các lộ nhãn môn sinh về sau có thể có dấu vết của việc lấy cảnh theo các cách ấy. Việc phân định rõ cảnh là thường, lạc, ngã hay tịnh chưa xảy ra ngay trong lộ nhãn môn. Ở đó có thể chỉ có một dấu ấn chung như vậy. Hãy xem lời Chú giải và Phụ chú giải sau.
+
+Cakkhuviññāṇañhi rūpe rūpamattameva passati, na niccādisabhāvaṃ.
+Nhãn thức thấy cảnh sắc chỉ là cảnh sắc, chưa biết các đặc tính như thường hay vô thường (Chú giải Tương ưng bộ, tập 3, tr. 28).
+
+Rūpamattamevāti nīlādibhedaṃ rūpāyatanamattaṃ, na nīlādi. Visesanivattanattho hi ayaṃ matta-saddo. Yadi evaṃ, eva-kāro kimatthiyo? Cakkhuviññāṇañhi rūpāyatane labbhamānampi nīlādivisesaṃ “idaṃ nīlaṃ nāma, idaṃ pītaṃ nāmā”ti na gaṇhāti. Kuto niccādisabhāvatthanti…
+Lời Phụ chú giải nối sang Miến 195.
+
+
+<a id="M04-body-P195"></a>
+## Màu sắc trong lộ nhãn môn và ý môn
+Miến / Burmese 195
+
+… saṃhitassapi nivattanatthaṃ evakāraggahaṇaṃ. Tenāha “na niccādisabhāvan”ti.
+Phụ chú giải Tương ưng bộ, tập 2, tr. 303.
+
+Lời Phụ chú giải nối trang. “Chỉ là cảnh sắc” nghĩa là chỉ phạm vi sắc xứ, chưa phân biệt xanh và các màu khác. Màu vẫn là cảnh của nhãn thức, nhưng không thể nói nhãn thức xác định “cái này gọi là xanh, cái này gọi là vàng”. Vì thế mới nói “không biết các đặc tính như thường hay vô thường” (Phụ chú giải Tương ưng bộ, tập 2, tr. 303).
+
+Theo Chú giải và Phụ chú giải, nhãn thức, hay nhóm danh pháp của lộ nhãn môn đi cùng nhãn thức, chỉ biết màu, như nâu và vàng, mà chưa biết phân biệt “màu nâu”, “màu vàng”. Dù có thể lấy cảnh sắc làm cảnh, các pháp ấy không đủ khả năng nhận định “đây là nâu, đây là vàng”. Lại càng không thể lấy đặc tính thật của cảnh làm cảnh để phân định là thường hay vô thường (Chú giải Tương ưng bộ, tập 3, tr. 28. Phụ chú giải Tương ưng bộ, tập 2, tr. 303).
+
+Tuy vậy, tâm sở tà kiến có thể sinh ở tốc hành trong lộ nhãn môn, vì mọi tốc hành bất thiện đều có thể sinh ở lộ này. Vì thế, tâm hợp tà kiến ở lộ nhãn môn có thể mang dấu ấn của quan điểm do tâm hợp tà kiến trong lộ ý môn đã chấp, tức chấp cảnh là thường, lạc, ngã hay tịnh. Hành giả hãy tự thử nghiệm. Người đã quán kỹ đề mục sắc trước khi chuyển sang đề mục danh có thể gặp khó khăn khi chấp các sắc ấy là thường, lạc hay ngã, và có lẽ chỉ còn chấp là tịnh. Với người chưa có tuệ chân đế, các chấp thường, lạc, ngã và tịnh dễ có mặt.
+
+
+<a id="M04-body-P196"></a>
+## Bảng lộ nhãn môn và ý môn có tốc hành bất thiện
+Miến / Burmese 196
+
+Nhóm bất thiện lấy màu làm cảnh. Sắc vật nương ở mắt hoặc tim: 54 theo cột tương ứng.
+1. Tham và tà kiến | 11 | 8 | 11 | 12 | 12 | 20 | 34/33/12/11 | 34 | 12 | 20 | 34/33/12/11
+2. Tham và tà kiến | 11 | 8 | 11 | 11 | 12 | 19 | 33/32/11/11 | 34 | 12 | 19 | 33/32/11/11
+3. Tham và tà kiến | 11 | 8 | 11 | 12 | 12 | 22 | 34/33/12/11 | 34 | 12 | 22 | 34/33/12/11
+4. Tham và tà kiến | 11 | 8 | 11 | 11 | 12 | 21 | 33/32/11/11 | 34 | 12 | 21 | 33/32/11/11
+5. Tham và mạn | 11 | 8 | 11 | 12 | 12 | 20 | 34/33/12/11 | 34 | 12 | 20 | 34/33/12/11
+6. Tham và mạn | 11 | 8 | 11 | 11 | 12 | 19 | 33/32/11/11 | 34 | 12 | 19 | 33/32/11/11
+7. Tham và mạn | 11 | 8 | 11 | 12 | 12 | 22 | 34/33/12/11 | 34 | 12 | 22 | 34/33/12/11
+8. Tham và mạn | 11 | 8 | 11 | 11 | 12 | 21 | 33/32/11/11 | 34 | 12 | 21 | 33/32/11/11
+9. Sân | 11 | 8 | 11 | 11 | 12 | 18 | 33/32/11/11 | 34 | 12 | 18 | 33/32/11/11
+10. Sân | 11 | 8 | 11 | 11 | 12 | 20 | 33/32/11/11 | 34 | 12 | 20 | 33/32/11/11
+11. Sân và tật đố | 11 | 8 | 11 | 11 | 12 | 19 | 33/32/11/11 | 34 | 12 | 19 | 33/32/11/11
+12. Sân và tật đố | 11 | 8 | 11 | 11 | 12 | 21 | 33/32/11/11 | 34 | 12 | 21 | 33/32/11/11
+13. Sân và xan tham | 11 | 8 | 11 | 11 | 12 | 19 | 33/32/11/11 | 34 | 12 | 19 | 33/32/11/11
+14. Sân và xan tham | 11 | 8 | 11 | 11 | 12 | 21 | 33/32/11/11 | 34 | 12 | 21 | 33/32/11/11
+15. Sân và hối | 11 | 8 | 11 | 11 | 12 | 19 | 33/32/11/11 | 34 | 12 | 19 | 33/32/11/11
+16. Sân và hối | 11 | 8 | 11 | 11 | 12 | 21 | 33/32/11/11 | 34 | 12 | 21 | 33/32/11/11
+17. Trạo cử | 11 | 8 | 11 | 11 | 12 | 16 | 33/32/11/11 | 34 | 12 | 16 | 33/32/11/11
+18. Hoài nghi | 11 | 8 | 11 | 11 | 12 | 16 | 33/32/11/11 | 34 | 12 | 16 | 33/32/11/11
+
+Ghi chú: Với nhóm sân và hối, quán hai trường hợp lấy ác hạnh đã làm làm cảnh và hai trường hợp lấy thiện hạnh đã bỏ qua làm cảnh. Tổng cộng bốn trường hợp.
+
+
+<a id="M04-body-P197"></a>
+## Cách quán nhóm bất thiện lấy cảnh sắc
+Miến / Burmese 197
+
+Ở trên đã giải cách mười kiết sử sinh trong các tâm và tâm sở thuộc lộ nhãn môn có tốc hành bất thiện lấy cảnh sắc. Đó là một phương pháp quán danh pháp của lộ nhãn môn và ý môn có tốc hành bất thiện với cảnh sắc. Có thể quán tương tự với 27 sắc còn lại. Sau đây lấy nhóm tham và tà kiến làm mẫu.
+
+1. Nếu cần, tái lập định theo từng bậc.
+2. Quán đồng thời cho hiện rõ bằng tuệ hai cửa: nhãn tịnh sắc, tức nhãn môn, và hữu phần trong sáng, tức ý môn.
+3. Hướng tâm đến màu của nhiều nhóm sắc quanh nhãn tịnh sắc ấy.
+4. Khi màu ấy đồng thời chạm và hiện ở hai cửa, các lộ nhãn môn và ý môn lấy chính cảnh sắc ấy sinh. Hướng ngũ môn, xác định và hướng ý môn trong các lộ ấy tác ý màu là: (a) thường, bền vững, (b) lạc, dễ chịu, (c) ngã, một tự ngã, (d) tịnh, đẹp đẽ…
+
+
+<a id="M04-body-P198"></a>
+## Tà kiến ở ý môn và dấu ấn trong lộ nhãn môn
+Miến / Burmese 198
+
+… hãy hướng tâm và xác định từng cách riêng. Vì phi như lý tác ý, các dòng lộ nhãn môn và ý môn có tốc hành bất thiện do tham và tà kiến dẫn đầu sẽ sinh. Tuy nhiên, như đã giải, hướng ngũ môn và xác định chưa thể quyết định dứt khoát cảnh là thường, lạc, ngã hay tịnh. Chỉ hướng ý môn trong các lộ ý môn lặp đi lặp lại, hoặc tâm sở thắng giải đi cùng hướng ý môn, mới có thể quyết định dứt khoát. Tham và tà kiến trong các lộ ý môn quyết định như vậy mới chấp cảnh là thường, lạc, ngã hay tịnh. Hướng ngũ môn và xác định hoạt động theo cách tương tự sự quyết định, như đã nói.
+
+Người đã thấy đến chân đế có thể khó quán cảnh sắc ấy là thường, lạc hay ngã. Tuy nhiên, chấp là tịnh và say mê cảnh, tức kiết sử dục tham, vẫn có thể sinh. Chấp là thường, lạc, ngã hay tịnh thuộc bốn tâm căn tham hợp tà kiến. Khi say mê cảnh đẹp và dục tham sinh, cả tám tâm căn tham đều có thể sinh tùy trường hợp. Khi chấp cảnh sắc và đắm vào một đời sống đầy đủ cũng vậy. Hãy mở rộng theo sức tuệ. Thọ hỷ thì có hỷ, thọ xả thì không. Tâm hữu trợ, có thúc đẩy, có hôn trầm và thụy miên tương ưng. Tâm vô trợ, không thúc đẩy, không có hai pháp ấy.
+
+
+<a id="M04-body-P199"></a>
+## Thọ của suy đạc, tốc hành và đăng ký
+Miến / Burmese 199
+
+Bảng cho số tâm và tâm sở trong từng sát-na của dòng lộ. Khi tốc hành có thọ hỷ và hỷ, suy đạc và đăng ký cũng có thọ hỷ và hỷ. Khi tốc hành có thọ xả và không có hỷ, suy đạc và đăng ký cũng có thọ xả và không có hỷ. Thông thường thọ của suy đạc và đăng ký giống thọ ở tốc hành. Nhưng khi tốc hành có thọ ưu, suy đạc và đăng ký không thể có thọ ưu, nên chỉ có suy đạc và đăng ký thọ xả.
+
+Với cảnh rất đáng ưa chỉ có năm loại đăng ký thọ hỷ. Có thể sinh đăng ký đại quả thọ hỷ hợp trí (34 danh pháp), đăng ký đại quả thọ hỷ ly trí (33 danh pháp), hoặc đăng ký suy đạc quả thiện vô nhân thọ hỷ (12 danh pháp).
+
+Với cảnh đáng ưa có thể sinh tám loại đăng ký đại quả (34/33/33/32 danh pháp) và hai loại đăng ký quả thiện vô nhân (12/11). Với cảnh không đáng ưa chỉ có một loại đăng ký quả bất thiện (11 danh pháp). Vì vậy bảng gộp hai số 11. Một số là suy đạc thọ xả quả thiện vô nhân, số kia là suy đạc thọ xả quả bất thiện vô nhân. Cảnh đáng ưa thì có quả thiện, cảnh không đáng ưa thì có quả bất thiện tùy trường hợp. Nhưng trong một lộ…
+
+
+<a id="M04-body-P200"></a>
+## Áp dụng cách quán cho tiếng, mùi, vị và xúc
+Miến / Burmese 200
+
+… chỉ một loại đăng ký có thể sinh. Hãy quán loại đăng ký thực sự sinh.
+
+Số danh pháp ở hướng ngũ môn, nhãn thức, tiếp thọ, suy đạc và xác định theo cùng mẫu với số danh pháp của nhóm thiện. Điểm khác giữa nhóm thiện và nhóm bất thiện là số danh pháp ở tốc hành. Với các nhóm bất thiện còn lại, như tham và mạn, sân và các nhóm khác, xem phần mười kiết sử sinh và quán theo mẫu nhóm tham và tà kiến.
+
+Các nhóm cảnh tiếng, mùi, vị và xúc. Với nhóm cảnh sắc, đã quán cùng nhau nhãn tịnh sắc và hữu phần trong sáng, rồi lấy màu của các nhóm sắc đáng ưa hay không đáng ưa làm cảnh để quán danh pháp của nhóm có tốc hành thiện và nhóm có tốc hành bất thiện. Hãy theo mẫu ấy.
+
+Với cảnh tiếng, quán nhĩ tịnh sắc cùng hữu phần trong sáng và quán lấy tiếng đáng ưa hay không đáng ưa làm cảnh. Tùy như lý hay phi như lý tác ý, các lộ nhĩ môn và ý môn có tốc hành thiện hoặc bất thiện sẽ sinh. Tương tự, với cảnh mùi, quán tỷ tịnh sắc cùng hữu phần trong sáng và quán lấy mùi đáng ưa hay không đáng ưa của các nhóm sắc làm cảnh.
+
+
+<a id="M04-body-P201"></a>
+## Cảnh vị, cảnh xúc và thứ tự sáu nhóm
+Miến / Burmese 201
+
+Với cảnh vị, quán thiệt tịnh sắc cùng hữu phần trong sáng và quán vị của các nhóm sắc đáng ưa hoặc không đáng ưa.
+
+Với cảnh xúc, quán thân tịnh sắc cùng hữu phần trong sáng và quán cảnh xúc của các nhóm sắc đáng ưa hoặc không đáng ưa. Vì cảnh xúc gồm địa giới, hỏa giới và phong giới, hãy quán đủ nhóm thiện và bất thiện riêng với mỗi đại làm cảnh. Như vậy chia cảnh xúc thành ba và quán ba lượt. Cách quán danh pháp lấy sắc thuộc cảnh pháp làm cảnh đã trình bày ở trên. Khi có thể quán nhóm danh pháp có tốc hành thiện và nhóm có tốc hành bất thiện trong cả sáu nhóm, hãy quán theo thứ tự cảnh sắc, tiếng, mùi, vị, xúc, pháp. Như vậy dễ phân biệt nhóm nào đã quán và nhóm nào còn phải quán.
+
+Cách quán danh pháp đã trình bày đến đây là phương pháp tóm lược để quán danh pháp thiền và danh pháp sinh với sắc làm cảnh.
+
+
+<a id="M04-body-P202"></a>
+## Cách quán danh pháp chi tiết
+Miến / Burmese 202
+
+Theo phương pháp chi tiết, hãy quán danh pháp sinh khi lấy từng sắc ở sáu cửa và 42 phần làm cảnh. Chẳng hạn, ở nhãn môn có 54 sắc. Bắt đầu bằng việc quán danh pháp sinh khi lấy từng sắc ấy làm cảnh. Trước hết, trong nhóm mười sắc mắt ở nhãn môn có mười loại:
+
+1. Địa giới — danh pháp nhóm cảnh xúc.
+2. Thủy giới — danh pháp lộ ý môn nhóm cảnh pháp.
+3. Hỏa giới — danh pháp nhóm cảnh xúc.
+4. Phong giới — danh pháp nhóm cảnh xúc.
+5. Màu, tức cảnh sắc — danh pháp nhóm cảnh sắc.
+6. Mùi — danh pháp nhóm cảnh mùi.
+7. Vị — danh pháp nhóm cảnh vị.
+8. Vật thực — danh pháp nhóm cảnh pháp.
+9. Mạng quyền — danh pháp nhóm cảnh pháp.
+10. Nhãn tịnh sắc — danh pháp nhóm cảnh pháp.
+
+Hãy quán riêng từng loại danh pháp như vậy. Với mỗi sắc làm cảnh, quán đầy đủ cả lộ có tốc hành thiện và lộ có tốc hành bất thiện, tức cả nhóm thiện và nhóm bất thiện. Sau khi lấy từng sắc trong nhóm mười sắc mắt làm cảnh…
+
+
+<a id="M04-body-P203"></a>
+## Áp dụng phương pháp chi tiết ở sáu cửa và 42 phần
+Miến / Burmese 203
+
+… tiếp tục với mười sắc trong nhóm thân, mười sắc trong nhóm giới tính, tám sắc trong nhóm do tâm sinh, tám sắc trong nhóm do thời tiết sinh và tám sắc trong nhóm do vật thực sinh. Với từng sắc, quán danh pháp nhóm thiện và bất thiện lấy sắc ấy làm cảnh. Ở nhãn môn có 54 lượt. Tiếp tục riêng ở nhĩ môn 54 lượt, tỷ môn 54 lượt, thiệt môn 54 lượt, thân môn 44 lượt, và ý môn ở tim 54 lượt. Cũng quán danh pháp lấy từng sắc trong 42 phần làm cảnh. Có thể xem phương pháp chi tiết này trong Thanh tịnh đạo, tập 2, tr. 226. Chỉ thực hành cách chi tiết khi cần, tức khi chưa thành công với cách tóm lược.
+
+Sau đây tóm lược sáu nhóm của đề mục danh. Nhóm cảnh pháp gồm danh pháp lộ ý môn lấy sắc thuộc cảnh pháp, cùng các pháp chân đế và chế định khác, làm cảnh. Nhóm ấy được chia thành bốn phần (a), (b), (c), (d). Khi đã thuần thục cả sáu nhóm, hãy quán danh pháp theo thứ tự ở các bảng sau.
+
+
+<a id="M04-body-P204"></a>
+## Ba bảng tóm lược các nhóm danh pháp
+Miến / Burmese 204
+
+Tóm lược sáu nhóm
+1. Sắc | Tốc hành thiện | Tốc hành bất thiện
+2. Tiếng | Tốc hành thiện | Tốc hành bất thiện
+3. Mùi | Tốc hành thiện | Tốc hành bất thiện
+4. Vị | Tốc hành thiện | Tốc hành bất thiện
+5. Xúc | Tốc hành thiện | Tốc hành bất thiện
+6. Pháp | Tốc hành thiện | Tốc hành bất thiện
+(a) Sắc chân thật (10/11) | Tốc hành thiện | Tốc hành bất thiện
+(b) Sắc không chân thật (10) | Tốc hành thiện | Tốc hành bất thiện
+
+(c) Cảnh pháp — lộ ý môn nhóm thiện
+Chánh ngữ | 12 | 35/34/34/33 | 34/33/33/32 | 12/11/11
+Chánh nghiệp | 12 | 35/34/34/33 | 34/33/33/32 | 12/11/11
+Chánh mạng | 12 | 35/34/34/33 | 34/33/33/32 | 12/11/11
+Bi | 12 | 35/34/34/33 | × | ×
+Tùy hỷ | 12 | 35/34/34/33 | × | ×
+Niệm Phật | 12 | 34/33/33/32 | 34/33 | 12
+Niệm chết | 12 | 34/33/33/32 | 34/33/33/32 | 12/11/11
+
+(d) Cảnh pháp — danh pháp thiền
+Hơi thở | Sơ thiền, nhị thiền, tam thiền, tứ thiền
+Các biến xứ từ đất đến ánh sáng | Sơ thiền, nhị thiền, tam thiền, tứ thiền, Không vô biên xứ, Thức vô biên xứ, Vô sở hữu xứ, Phi tưởng phi phi tưởng xứ
+Biến xứ hư không | Sơ thiền, nhị thiền, tam thiền, tứ thiền
+Từ | Sơ thiền, nhị thiền, tam thiền
+Bi | Sơ thiền, nhị thiền, tam thiền
+Tùy hỷ | Sơ thiền, nhị thiền, tam thiền
+Xả | Tứ thiền
+Xương (đáng ghê) | Sơ thiền
+Bất tịnh | Sơ thiền
+
+
+<a id="M04-body-P205"></a>
+## Cảnh của bốn thiền vô sắc và cách xác định danh
+Miến / Burmese 205
+
+Nếu đã đắc các thiền vô sắc, hãy quán đồng thời ý môn và cảnh của tầng thiền tương ứng, rồi quán danh pháp thiền ấy. 1. Cảnh của Không vô biên xứ là chế định không gian không có giới hạn. 2. Cảnh của Thức vô biên xứ là thức của Không vô biên xứ. 3. Cảnh của Vô sở hữu xứ là chế định “không có”, tức sự vắng mặt của thức của Không vô biên xứ. 4. Cảnh của Phi tưởng phi phi tưởng xứ là thức của Vô sở hữu xứ.
+
+Quán hữu phần ý môn cùng cảnh tương ứng, rồi quán danh pháp của tầng thiền ấy. Mẫu quán giống bảng tứ thiền. Hướng ý môn có 12 danh pháp. Chuẩn bị, cận hành, thuận thứ và chuyển tộc mỗi sát-na có 33. Mỗi tốc hành an chỉ có 31.
+
+So sabbepi te arūpadhamme namanalakkhaṇena ekato katvā taṃ nāmanti passati.
+Hãy quán danh pháp là danh pháp. Vị ấy gộp tất cả các pháp vô sắc ấy theo đặc tính nghiêng về cảnh và thấy chúng là danh (Thanh tịnh đạo, tập 2, tr. 223).
+
+
+<a id="M04-body-P206"></a>
+## Gộp các danh pháp và quán danh sắc cùng nhau
+Miến / Burmese 206
+
+Theo lời Chú giải trên, hãy quán danh pháp thành một nhóm. Như các bảng đã nêu, khi quán danh pháp theo các cửa và các xứ, hãy bắt đầu bằng tâm biết, rồi lần lượt thêm xúc, thọ, tưởng, tư và từng danh pháp tiếp theo. Khi đã quán đủ các pháp trong từng sát-na như bảng, và chúng hiện rõ đồng thời với tuệ, hãy lấy tính nghiêng về cảnh của danh pháp làm đối tượng, rồi quán thành một nhóm với sự ghi nhận “Đây là danh pháp” hoặc “Danh pháp, danh pháp”. Khi chưa thấy tất cả các danh pháp đồng sinh trong từng sát-na lộ tâm thì chưa quán gộp theo cách này. Khi đã thấy bằng tuệ, hãy gộp cả nhóm mà quán.
+
+Rūpārūpānaṃ lakkhaṇādīhi paricchinditvā gahaṇaṃ rūpārūpapariggaho.
+Rūpārūpaṃ pana pariggaṇhanto…
+Paricchinditvā gahaṇaṃ pariggaho.
+Quán danh sắc cùng nhau (rūpārūpapariggaha). Sau khi phân định danh và sắc theo đặc tính và các phương diện khác, hãy phân biệt danh sắc. Mūlaṭīkā, tập 1, tr. 112. Chú giải A-tỳ-đàm, tập 1, tr. 260. Anuṭīkā, tập 1, tr. 139.
+
+
+<a id="M04-body-P207"></a>
+## Vật nương, cảnh và danh pháp trong từng sát-na
+Miến / Burmese 207
+
+Theo chỉ dẫn trên, hành giả nên nhận diện và phân biệt danh sắc bằng tuệ theo đặc tính, chức năng, biểu hiện và nhân gần. Việc ấy sẽ được trình bày riêng trong phần về đặc tính và các phương diện còn lại. Ở đây đã nhấn mạnh quán theo đặc tính riêng của danh sắc chân đế. Vì khi quán danh pháp đã dùng phương pháp theo xứ và cửa, khi quán danh sắc cùng nhau cũng nên theo xứ và cửa. Khi quán sắc vật nương như trong bảng, hãy lấy sắc chân thật làm chính, đồng thời quán cả sắc không chân thật. Bảng chỉ lấy các sắc chân thật có thể làm cảnh của tuệ minh sát làm chính. Ví dụ trong lộ nhãn môn:
+
+1. Ở hướng ngũ môn, 54 sắc vật nương ở tim và cảnh sắc là sắc, 11 tâm và tâm sở là danh.
+2. Ở nhãn thức, 54 sắc vật nương ở mắt và cảnh sắc là sắc, 8 tâm và tâm sở là danh. Hãy quán đầy đủ từng sát-na như vậy. Quán danh sắc cùng nhau theo cách ấy trong cả sáu nhóm, ở mọi lượt. Xem bảng.
+
+
+<a id="M04-body-P208"></a>
+## Phân định danh sắc
+Miến / Burmese 208
+
+Yopi rūpārūpaṃ pariggahetvā nāmarūpaṃ vavatthapento…
+Chú giải A-tỳ-đàm, tập 1, tr. 260.
+
+Tato namanalakkhaṇaṃ nāmaṃ, ruppanalakkhaṇaṃ rūpanti saṅkhepato nāmarūpaṃ vavatthapeti.
+Thanh tịnh đạo, tập 2, tr. 222.
+
+Iti idañca nāmaṃ, idañca rūpaṃ, idaṃ vuccati nāmarūpanti saṅkhepato nāmarūpaṃ vavatthapeti.
+Thanh tịnh đạo, tập 2, tr. 223.
+
+Na añño sattādikoti vavatthāpanaṃ nāmarūpavavatthāpanaṃ.
+Mūlaṭīkā, tập 1, tr. 112.
+
+Khi đã quán được danh sắc cùng nhau trong từng sát-na của cả sáu nhóm, hãy lấy chính danh sắc ấy làm cảnh và dùng tuệ thấy rằng chỉ có các nhóm danh sắc, không có người, chúng sinh, sinh mạng, tự ngã, người phàm, chư thiên hay Phạm thiên trong danh sắc ấy. Hãy phân định: “Không có người, chúng sinh, sinh mạng, tự ngã, người phàm, chư thiên hay Phạm thiên. Chỉ có danh sắc.”
+
+
+<a id="M04-body-P209"></a>
+## Phần 5. Bốn loại khối danh
+Miến / Burmese 209
+
+Khối (ghana) nghĩa là một cụm hay nhóm. Khối sắc là nhóm sắc, khối danh là nhóm danh. Ba loại khối sắc đã được giải trong phần đề mục sắc. Ở đây trình bày bốn loại khối danh.
+
+Santatighanādīnaṃ ayaṃ viseso: purimapacchimānaṃ nirantaratāya ekībhūtānamiva pavatti santatighanatā. Tathā phassādīnaṃ ekasamūhavasena dubbiññeyyakiccabhedavasena ekārammaṇatāvasena ca ekībhūtānamiva pavatti samūhādighanatā.
+Phụ chú giải phân biệt khối tương tục với khối tập hợp. Do diễn tiến liên tục mà sự khác nhau giữa trước và sau không hiện rõ. Còn trong các pháp như xúc, vì không phân tích các thành phần riêng nên sự tập hợp hiện như một khối (Mūlaṭīkā, tập 1, tr. 80). Khi phân tích các giới khác nhau, khối bị phá vỡ và vô ngã hiện đúng thực tính (Chú giải A-tỳ-đàm, tập 2, tr. 47. Thanh tịnh đạo, tập 2, tr. 276).
+
+Nānādhātuyo vinibbhujitvā ghanavinibbhoge kate anattalakkhaṇaṃ yāthāvasarasato upaṭṭhāti.
+Phụ chú giải giải sự phân tích các giới khác nhau bằng cách nhận ra mỗi giới theo thực tính riêng, chẳng hạn “địa giới là một pháp, thủy giới là một pháp khác”, hoặc “xúc là một pháp, thọ là một pháp khác”. Như vậy tuệ phân tích và phá vỡ khối. Lời dẫn nối sang trang sau.
+
+
+<a id="M04-body-P210"></a>
+## Bốn loại khối và khối tương tục
+Miến / Burmese 210
+
+Do nhiều pháp cùng sinh trong các nhóm danh sắc hiện như một khối nên có khối tập hợp. Do các pháp ấy làm những nhiệm vụ riêng mà nhiệm vụ của chúng không được phân biệt nên có khối chức năng. Do các pháp lấy cảnh hiện như một khối nên có khối cảnh. Khi dùng tuệ phân tích các khối, đặc tính vô ngã của các pháp hiện rõ, do chúng vận hành tùy duyên, rỗng không và vô chủ. Vì vậy nói “Có bốn loại khối” (Mahāṭīkā, tập 2, tr. 437).
+
+Danh pháp có bốn khối: 1. Khối tương tục (santatighana). 2. Khối tập hợp (samūhaghana). 3. Khối chức năng (kiccaghana). 4. Khối cảnh (ārammaṇaghana).
+
+1. Khối tương tục là sự liền nhau của dòng danh. Dùng lộ nhãn môn làm mẫu thì có thể hiểu những lộ còn lại. Có danh pháp thuộc lộ và ngoài lộ, cả hai đều sinh thành nhóm gọi là nhóm danh. Các tâm thuộc lộ chỉ có thể sinh theo trật tự cố định gọi là định luật lộ tâm. Khi cảnh sắc rất lớn đến trước nhãn môn và ý môn, các nhóm danh pháp lộ nhãn môn sinh theo thứ tự hướng ngũ môn, nhãn thức, tiếp thọ, suy đạc, xác định, bảy tốc hành, hai đăng ký…
+
+
+<a id="M04-body-P211"></a>
+## Phá khối tương tục và nhận ra khối tập hợp
+Miến / Burmese 211
+
+… sinh không gián đoạn theo định luật của tâm (Chú giải A-tỳ-đàm, tập 1, tr. 128). Nếu chưa dùng tuệ phân biệt từng sát-na trong lộ ấy, từ hướng ngũ môn, nhãn thức, tiếp thọ, suy đạc, xác định, tốc hành thứ nhất… pe… tốc hành thứ bảy, đến đăng ký thứ nhất và thứ hai, thì chúng được nắm như một khối. Đó là khối tương tục của danh. Khi tuệ phân biệt từng sát-na thì khối tương tục bị phá. Cũng vậy với tâm ngoài lộ, hãy phân biệt tâm tái tục, hữu phần thứ nhất, hữu phần thứ hai và các tâm sau, từng sát-na riêng biệt, để phá khối tương tục. Hành giả nên quán danh pháp theo cách ấy.
+
+2. Khối tập hợp là sự kết nhóm của danh. Danh pháp sinh theo định luật của tâm chỉ sinh trong từng sát-na thành nhóm danh, chứ không sinh riêng lẻ. Các danh pháp cùng nhóm gọi là các pháp tương ưng hay nhóm danh. Một sát-na có ít nhất tám danh pháp. Chẳng hạn, nhãn thức cùng bảy tâm sở biến hành thành tám…
+
+
+<a id="M04-body-P212"></a>
+## Phân biệt từng pháp và từng chức năng
+Miến / Burmese 212
+
+… không có nhóm danh nào nhỏ hơn tám. Khi chưa dùng chánh kiến, tức tuệ, phân tích từng danh pháp trong một sát-na là “đây là xúc, đây là thọ, đây là tưởng, đây là tư, đây là thức”, mà nắm chúng như một pháp, thì khối tập hợp chưa bị phá. Khi trực tiếp thấu rõ từng pháp bằng tuệ, khối tập hợp bị phá. Hành giả phải phân tích bằng tuệ và quán cho đến chân đế.
+
+3. Khối chức năng là sự gộp chung nhiệm vụ của danh. Phá được khối tương tục và tập hợp rồi vẫn phải tiếp tục quán để phá khối chức năng. Trong các danh pháp cùng sinh thành nhóm trong từng sát-na: 1. Xúc có chức năng làm cảnh và tâm biết gặp nhau, nối chúng với nhau (saṅghaṭṭanarasa). 2. Lạc thọ có chức năng làm tăng trưởng các pháp tương ưng (sampayuttānaṃ upabrūhanarasā). 3. Tưởng có chức năng ghi dấu cảnh để về sau nhận lại…
+
+
+<a id="M04-body-P213"></a>
+## Phá khối chức năng của danh
+Miến / Burmese 213
+
+… (paccābhiññāṇarasā). 4. Tư có chức năng tích lũy, tạo tác (āyūhanarasā). 5. Thức có chức năng dẫn đầu trong việc biết cảnh (pubbaṅgamarasa).
+
+Từng danh pháp trong một sát-na đều có nhiệm vụ riêng. Khi chưa phân tích bằng chánh kiến, tức tuệ, và thấy các nhiệm vụ ấy riêng biệt, mà gộp như một nhiệm vụ, thì khối chức năng chưa bị phá. Khi phân biệt bằng tuệ “đây là chức năng của xúc, đây là của thọ, đây là của tưởng, đây là của tư, đây là của thức”, và thấy chức năng riêng của từng danh pháp trong từng sát-na, thì khối chức năng bị phá. Hành giả cần phân tích và quán danh pháp bằng chánh kiến như vậy.
+
+Danh pháp trong lộ nhãn môn chỉ lấy cảnh sắc, và chỉ có thể sinh khi lấy cảnh sắc ấy làm cảnh. Vì vậy chúng là pháp có cảnh (sārammaṇa). Đối với nhóm danh pháp lộ nhãn môn có cảnh ấy, đã giải ba loại khối tương tục, tập hợp và chức năng.
+
+
+<a id="M04-body-P214"></a>
+## Khối cảnh và hai mặt của tuệ minh sát
+Miến / Burmese 214
+
+Đối với một nhóm danh khác còn có khối cảnh (ārammaṇaghana), tức khối của các danh pháp lấy cảnh. Trong phạm vi minh sát có hai loại: danh pháp làm cảnh bị quán và danh pháp do tuệ minh sát dẫn đầu đang quán cảnh ấy. Danh pháp đang quán cũng là pháp có cảnh. Phải phá ba khối tương tục, tập hợp và chức năng ở danh pháp bị quán. Cũng phải phá ba khối ấy ở danh pháp minh sát đang quán. Trong phần quán theo nhóm (Thanh tịnh đạo, tập 2, tr. 260–262) và các tuệ cao hơn như tuệ hoại diệt có chỉ dẫn sau:
+
+Ñātañca ñāṇañca ubhopi vipassati.
+Quán minh sát cả cái được biết lẫn tuệ biết (Thanh tịnh đạo, tập 2, tr. 278).
+
+1. Cái được biết (ñāta) là năm thủ uẩn thuộc khổ đế và các hành như vô minh, ái, thủ, nghiệp thuộc tập đế, cần được tuệ minh sát thấu rõ. 2. Tuệ biết (ñāṇa) là các danh pháp do tuệ minh sát đang quán dẫn đầu. Hãy quán cả hai theo ba đặc tướng. Nhóm danh do tuệ minh sát đang quán dẫn đầu…
+
+
+<a id="M04-body-P215"></a>
+## Ba khối trong lộ tâm minh sát
+Miến / Burmese 215
+
+… đối với phàm nhân và bậc hữu học là dòng lộ ý môn có tốc hành đại thiện. Hướng ý môn có 12 danh pháp, và mỗi sát-na trong bảy tốc hành có 34, 33, 33 hoặc 32 tùy trường hợp. Ở minh sát còn yếu có thể có đăng ký. Ở minh sát mạnh, như tuệ hoại diệt, đăng ký không có cơ hội sinh. Số danh pháp có khi ghi 33 vì tuệ có thể tương ưng. Có khi không có hỷ, nên cũng ghi 33 hoặc 32.
+
+Đối với dòng danh pháp lộ ý môn có tốc hành do tuệ minh sát dẫn đầu: 1. Phân biệt từng sát-na là hướng ý môn, tốc hành thứ nhất, thứ hai, v.v. thì phá khối tương tục. 2. Phân biệt trong mỗi sát-na “đây là xúc, thọ, tưởng, tư, thức”, v.v. thì phá khối tập hợp. 3. Phân biệt bằng tuệ chức năng riêng của mỗi danh pháp trong từng sát-na thì phá khối chức năng.
+
+Như vậy có ba loại khối ở danh pháp bị quán và ba loại ở nhóm do tuệ đang quán dẫn đầu. Ba khối ở danh pháp bị quán được gọi riêng là khối tương tục, tập hợp và chức năng. Ba khối ở phía tuệ đang quán được gọi chung là khối cảnh…
+
+
+<a id="M04-body-P216"></a>
+## Phá khối cảnh để thấy vô ngã
+Miến / Burmese 216
+
+… Khi chưa phân biệt các pháp lấy cảnh và nắm chúng như một, khối cảnh vẫn còn. Khi phân biệt từng sát-na từ hướng ý môn đến tốc hành thứ nhất… pe… tốc hành thứ bảy, phân biệt xúc, thọ, tưởng, tư, thức và chức năng riêng của mỗi pháp, thì khối cảnh bị phá.
+
+Hành giả phải dùng tuệ phá từng khối danh và sắc, quán, phân biệt và quán minh sát thì mới thấu đến chân đế. Khi thấu đến chân đế mới thấy vô ngã, và khi thấu vô ngã mới có thể đạt tuệ đạo, tuệ quả và Niết-bàn. Các Chú giải nói:
+
+Nānādhātuyo vinibbhujitvā ghanavinibbhoge kate anattalakkhaṇaṃ yāthāvasarasato upaṭṭhāti.
+Khi phân tích các giới khác nhau và phá khối, đặc tính vô ngã hiện đúng thực tính (Chú giải A-tỳ-đàm, tập 2, tr. 47. Thanh tịnh đạo, tập 2, tr. 276).
+
+
+<a id="M04-body-P217"></a>
+## Đặc tính vô ngã và ba tuệ quán
+Miến / Burmese 217
+
+Như vậy đặc tính vô ngã, là tính chất đúng thật của các pháp, hiện rõ trong tuệ hành giả (Chú giải A-tỳ-đàm, tập 2, tr. 47. Thanh tịnh đạo, tập 2, tr. 276).
+
+Quán các hành gọi là cái được biết (ñāta) và tuệ biết (ñāṇa) theo ba đặc tướng. Khi tuệ quán vô thường, tuệ quán khổ và tuệ quán vô ngã chín muồi thì có thể đạt Thánh đạo (Thanh tịnh đạo, tập 2, tr. 301). Vì cần phá khối để tuệ thấu vô ngã, hãy tiếp tục quán các hành danh sắc theo đặc tính, chức năng, biểu hiện và nhân gần. Điều ấy sẽ rõ trong phần giải bốn phương diện này.
+
+
+<a id="M04-body-P218"></a>
+## Phần 6. Tư thế và tỉnh giác
+Miến / Burmese 218
+
+1. Khi đã quán được bốn đại, hãy quán bốn đại trong khi đi, đứng, ngồi, nằm và trong các hoạt động thuộc tỉnh giác như bước tới, bước lui, nhìn thẳng, nhìn sang bên, co và duỗi.
+2. Khi đã quán được các sắc pháp, hãy quán tất cả các sắc trong các tư thế và hoạt động ấy (rūpapariggaha).
+3. Khi đã quán được danh pháp, hãy quán danh pháp trong các tư thế và hoạt động ấy (arūpapariggaha).
+4. Khi đã quán được danh sắc cùng nhau, hãy nhận diện và phân biệt danh sắc trong các tư thế và hoạt động ấy (rūpārūpapariggaha).
+5. Khi đã phân định được danh sắc…
+
+
+<a id="M04-body-P219"></a>
+## Quán năm uẩn trong các tư thế và hoạt động
+Miến / Burmese 219
+
+… hãy phân định danh sắc cả trong các hoạt động thuộc tỉnh giác (nāmarūpavavatthāna). Khi quán được như vậy thì đã bước vào phạm vi quán năm uẩn. Sắc là sắc uẩn. Danh pháp trong mỗi sát-na chia thành bốn danh uẩn: thọ, tưởng, hành và thức. Ngoài thọ và tưởng, tất cả tâm sở còn lại trong một sát-na thuộc hành uẩn. Một sắc uẩn và bốn danh uẩn hợp thành năm uẩn. Uẩn nghĩa là một nhóm.
+
+Hãy quán năm uẩn: 1. Khi đi. 2. Khi đứng. 3. Khi ngồi. 4. Khi nằm. 5. Khi bước tới. 6. Khi bước lui. 7. Khi nhìn thẳng (lộ nhãn môn và ý môn). 8. Khi nhìn sang bên (lộ nhãn môn và ý môn). 9. Khi co tay chân. 10. Khi duỗi tay chân. 11. Khi mang y hai lớp. 12. Khi mang bát. 13. Khi mang y. 14. Khi ăn. 15. Khi uống…
+
+
+<a id="M04-body-P220"></a>
+## Ví dụ quán năm uẩn khi nhìn
+Miến / Burmese 220
+
+16. Khi liếm. 17. Khi nhai. 18. Khi đại tiện. 19. Khi tiểu tiện. 20. Khi đi. 21. Khi đứng. 22. Khi ngồi. 23. Khi ngủ. 24. Khi thức dậy. 25. Khi nói. 26. Khi im lặng. Hãy hiểu cách quán năm uẩn theo những trường hợp ấy (xem Chú giải Trung bộ, tập 1, tr. 255–257).
+
+Ettha hi cakkhu ceva rūpañca rūpakkhandho, dassanaṃ viññāṇakkhandho, taṃsampayuttā vedanā vedanākkhandho, saññā saññākkhandho, phassādikā saṅkhārakkhandho. Evam etesaṃ pañcannaṃ khandhānaṃ samavāye ālokanavilokanaṃ paññāyati.
+Chú giải giải rằng mắt và cảnh sắc thuộc sắc uẩn, tâm thấy thuộc thức uẩn, thọ tương ưng thuộc thọ uẩn, tưởng thuộc tưởng uẩn, còn xúc và các pháp tương tự thuộc hành uẩn. Việc nhìn thẳng và nhìn sang bên hiện rõ do năm uẩn ấy phối hợp (Chú giải Trung bộ, tập 1, tr. 267–268).
+
+Khi nhìn thẳng hay nhìn sang bên, các nhóm danh pháp lộ nhãn môn và ý môn đã sinh. Ở sát-na nhãn thức, năm uẩn như sau. 1. Nhãn tịnh sắc và cảnh sắc, tức 54 sắc ở mắt và cảnh sắc, thuộc sắc uẩn…
+
+
+<a id="M04-body-P221"></a>
+## Năm uẩn trong lộ nhãn môn và bài tập đi
+Miến / Burmese 221
+
+2. Nhãn thức thấy cảnh sắc là thức uẩn. 3. Thọ tương ưng với nhãn thức là thọ uẩn. 4. Tưởng là tưởng uẩn. 5. Xúc, tư, nhất tâm, mạng quyền và tác ý là hành uẩn. Khi năm uẩn kết hợp như vậy, việc nhìn thẳng và nhìn sang bên mới hiện rõ (Chú giải Trung bộ, tập 1, tr. 267–268).
+
+Nhãn thức không thể sinh nếu trước đó không có hướng ngũ môn. Khi nhãn thức sinh, lộ cảnh nhỏ có thể đến xác định, lộ cảnh lớn đến tốc hành, lộ cảnh rất lớn đến đăng ký. Vì thế, khi đã quán được năm uẩn ở nhãn thức, hãy quán năm uẩn ở từng sát-na còn lại từ hướng ngũ môn trở đi. Chú giải chỉ ra cách này bằng lối nêu đặc tính, dấu hiệu và ví dụ.
+
+Bài tập. Đứng ở một đầu đường kinh hành, tái lập định theo từng bậc. Quán sắc ở sáu cửa và 42 phần, rồi bước tới một ít. Trong các sắc làm chuyển động và các sắc được chuyển động, có thể lấy một trong hai nhóm làm chính…
+
+
+<a id="M04-body-P222"></a>
+## Sắc nổi trội và sắc không nổi trội
+Miến / Burmese 222
+
+… để quán từng sắc. Cần phân biệt sắc nổi trội (padhāna) và sắc không nổi trội (appadhāna).
+
+1. Sắc nổi trội. Trong các nhóm sắc do tâm sinh, đi cùng sắc không chân thật, có nhóm chín sắc gồm thân biểu tri và nhóm mười hai sắc gồm thân biểu tri, khinh, nhu, thích nghiệp và các sắc cùng nhóm. Hai loại nhóm này, tức chín hoặc mười hai sắc trong từng nhóm, là sắc nổi trội trong khi quán các tư thế và hoạt động thuộc tỉnh giác. Trong chúng, sức của phong giới vượt trội. Phong giới mạnh ấy làm sinh thân biểu tri, tức động tác của thân.
+
+2. Sắc không nổi trội. Các sắc còn lại trong toàn thân, thuộc sáu cửa và 42 phần, là sắc không nổi trội. “Không nổi trội” ở đây chỉ nói trong phạm vi quán tư thế và tỉnh giác.
+
+
+<a id="M04-body-P223"></a>
+## Sắc làm chuyển động và sắc được chuyển động
+Miến / Burmese 223
+
+Sắc nổi trội làm cho các nhóm sắc còn lại của thân, do nghiệp, tâm, thời tiết và vật thực sinh, xuất hiện theo cách đi. Các sắc tư thế làm chuyển động, tức sắc trong nhóm chín hay mười hai có thân biểu tri, không thực sự mang các sắc do bốn nguồn sinh từ nơi này sang nơi khác. “Làm chuyển động” có nghĩa là khiến sắc sinh tiếp nối ở vị trí mới. Sắc chân đế không thể rời nơi đã sinh và diệt ngay tại đó. Do các duyên tiếp tục tác động, sắc mới nối tiếp nhau sinh ở các vị trí mới. Hiện tượng liên tục ấy là do sức của các nhóm có phong giới mạnh và thân biểu tri.
+
+Sắc không nổi trội, tức các sắc còn lại do bốn nguồn sinh ở sáu cửa và 42 phần, là sắc được chuyển động. Những sắc ấy không thực sự được mang đi…
+
+
+<a id="M04-body-P224"></a>
+## Ví dụ người vác bao gạo
+Miến / Burmese 224
+
+… mà “được chuyển động” chỉ có nghĩa là sinh liên tục ở các vị trí mới, nối nhau trước sau. Khi quán sắc làm chuyển động làm chính, việc quán sắc không nổi trội được chuyển động cũng theo đó hoàn tất. Nghĩa là khi chú trọng sắc làm chuyển động, sắc được chuyển động dễ được thấy và quán.
+
+Cũng có thể lấy sắc do bốn nguồn sinh được chuyển động làm chính. Khi ưu tiên sắc không nổi trội được chuyển động, có thể thấy cả sắc nổi trội làm chuyển động. Khi quán sắc được chuyển động làm chính, việc quán sắc làm chuyển động cũng theo đó hoàn tất (xem Chú giải Trung bộ, tập 1, tr. 273).
+
+Ví dụ, khi có người vác bao gạo, nếu chú ý nhìn người vác, cũng dễ thấy bao gạo được vác. Nếu chú ý nhìn bao gạo, cũng dễ thấy người vác. Hãy nhớ ví dụ này. Xem lại phần đề mục sắc.
+
+
+<a id="M04-body-P225"></a>
+## Cách quán năm uẩn khi đi
+Miến / Burmese 225
+
+Như đã trình bày, đứng ở đường kinh hành và tái lập mức định cao nhất đã đắc. Phân tích và quán sắc do bốn nguồn sinh ở sáu cửa và 42 phần. Sau đó bước tới một ít. Hãy lần lượt lấy sắc làm chuyển động và sắc được chuyển động làm chính để quán. Cả hai thuộc sắc uẩn.
+
+Các dòng lộ ý môn có tốc hành muốn đi trực tiếp làm sinh sắc tư thế, tức sắc làm chuyển động, thuộc bốn danh uẩn. Hãy quán bốn danh uẩn ấy. Trong dòng lộ ý môn này, tốc hành có thể thiện, duy tác hoặc bất thiện. Ở đây nói lộ ý môn vì lộ ngũ môn có tốc hành không thể làm sinh sắc tư thế. Mỗi sát-na lộ ý môn có bốn danh uẩn: thọ là thọ uẩn, tưởng là tưởng uẩn, các tâm sở còn lại là hành uẩn, tâm biết là thức uẩn. Sắc vật nương, sắc tư thế làm chuyển động và sắc được chuyển động là sắc uẩn. Tổng cộng là năm uẩn. Sau khi quán được năm uẩn, hãy quán danh sắc cùng nhau, rồi phân định danh và sắc. Cũng làm như vậy trong các tư thế và hoạt động tỉnh giác…
+
+
+<a id="M04-body-P226"></a>
+## Bốn việc cần làm và quán nội, ngoại
+Miến / Burmese 226
+
+… hãy tiếp tục bốn việc: 1. Quán sắc (rūpapariggaha). 2. Quán danh (arūpapariggaha). 3. Quán danh sắc cùng nhau (rūpārūpapariggaha). 4. Phân định danh và sắc (nāmarūpavavatthāna). Khi đã thực hành được như vậy, hãy tiến thêm một bậc theo lời Đức Phật dạy trong Kinh Đại niệm xứ.
+
+Iti ajjhattaṃ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati.
+Vị ấy sống quán thân trong thân nội phần, ngoại phần, hoặc cả nội lẫn ngoại phần (Trung bộ, tập 1, tr. 73).
+
+Iti ajjhattaṃ vā vedanāsu vedanānupassī viharati, bahiddhā vā vedanāsu vedanānupassī viharati, ajjhattabahiddhā vā vedanāsu vedanānupassī viharati.
+Vị ấy sống quán thọ trong thọ nội phần, ngoại phần, hoặc cả nội lẫn ngoại phần (Trung bộ, tập 1, tr. 75…).
+
+Iti ajjhattaṃ vā citte cittānupassī viharati, bahiddhā vā citte cittānupassī viharati, ajjhattabahiddhā vā citte cittānupassī viharati.
+Vị ấy sống quán tâm trong tâm nội phần, ngoại phần, hoặc cả nội lẫn ngoại phần (Trung bộ, tập 1, tr. 76).
+
+Iti ajjhattaṃ vā dhammesu dhammānupassī viharati, bahiddhā vā dhammesu dhammānupassī viharati, ajjhattabahiddhā vā dhammesu dhammānupassī viharati.
+Vị ấy sống quán pháp trong pháp nội phần, ngoại phần, hoặc cả nội lẫn ngoại phần (Trung bộ, tập 1, tr. 77).
+
+Trong các lời Pāli trên, thân, thọ, tâm và pháp chỉ năm uẩn, tức danh pháp và sắc pháp…
+
+
+<a id="M04-body-P227"></a>
+## Vì sao phải quán cả nội phần lẫn ngoại phần
+Miến / Burmese 227
+
+… Hãy nhận diện và quán đi quán lại năm uẩn ở nội phần, ngoại phần, rồi cả nội lẫn ngoại phần. Đức Phật đã dạy như vậy. Các bản Chú giải cũng chỉ rõ cách tiến hành theo lời dạy ấy.
+
+Yasmā pana na suddhaajjhattadassanamatteneva maggavuṭṭhānaṃ hoti, bahiddhāpi daṭṭhabbameva. Tasmā parassa khandhepi anupādinnasaṅkhārepi aniccaṃ dukkhamanattāti passati.
+Chỉ thấy nội phần thì chưa thể xuất khởi Thánh đạo. Cũng phải thấy ngoại phần. Vì thế vị ấy thấy các uẩn của người khác và các hành không do nghiệp chấp thủ là vô thường, khổ và vô ngã (Chú giải A-tỳ-đàm, tập 1, tr. 270. Thanh tịnh đạo, tập 2, tr. 300).
+
+Minh sát dẫn đến xuất khởi (vuṭṭhānagāminivipassanā) là các dòng lộ ý môn có tốc hành minh sát, hai hay ba lượt đi liền trước lộ đạo, vượt khỏi cảnh các hành để hướng sang Niết-bàn, pháp vô vi, sự tịch tịnh của các hành.
+
+
+<a id="M04-body-P228"></a>
+## Phạm vi ngoại phần và cách bắt đầu
+Miến / Burmese 228
+
+Tasmā sasantānagate sabbadhamme, parasantānagate ca tesaṃ santānavibhāgaṃ akatvā bahiddhābhāvasāmaññato sammasanaṃ, ayaṃ sāvakānaṃ sammasanacāro.
+Phạm vi quán của các đệ tử là quán tất cả các pháp thuộc dòng tương tục của mình, và quán các pháp thuộc dòng tương tục của người khác theo tính chung là ngoại phần, không phân riêng từng dòng tương tục (Phụ chú giải Trung bộ, phần Hậu, Phụ chú giải Kinh Bất Đoạn).
+
+Theo lời chỉ dẫn ấy, khi quán ngoại phần trong phạm vi tuệ của đệ tử, không phân riêng nam, nữ, người, chúng sinh, người phàm, chư thiên, Phạm thiên, ông này, bà kia. Hãy quán chung năm uẩn có sinh mạng và các sắc do thời tiết sinh trong vật vô tri, gọi là hành không do nghiệp chấp thủ. Không cần quán riêng từng người.
+
+Khi đã quán được năm uẩn nội phần, tức danh sắc, đến mức chân đế, có thể bắt đầu quán năm uẩn ngoại phần. Cũng có hành giả bắt đầu từ ngoại phần. Người bắt đầu từ nội phần vẫn phải quán năm uẩn ngoại phần và các hành không do nghiệp chấp thủ, vì chỉ quán nội phần không thể đạt Thánh đạo. Tương tự, người bắt đầu từ ngoại phần…
+
+
+<a id="M04-body-P229"></a>
+## Quán sắc ngoại phần từ y phục đến vật vô tri
+Miến / Burmese 229
+
+… cũng phải tiếp tục quán năm uẩn nội phần, vì chỉ quán ngoại phần không thể đạt Thánh đạo (xem Chú giải A-tỳ-đàm, tập 1, tr. 270–271. Thanh tịnh đạo, tập 2, tr. 300).
+
+1. Nếu cần, tái lập định. 2. Khi ánh sáng mạnh, lại quán sắc nội phần. 3. Nhờ ánh sáng ấy, quán bốn đại trong y phục đang mặc.
+
+Nếu thấy bốn đại trong y phục bằng tuệ thì dễ thấy các hạt nhóm sắc. Nếu chưa thành công, trở lại quán sắc nội phần rồi trở lại bốn đại trong y phục. Khi thấy khối bốn đại, hãy chú tâm đến hư không giới nhờ ánh sáng. Các hạt nhóm sắc sẽ dễ hiện ra. Khi ấy y phục không còn hiện như y phục mà như một tập hợp các nhóm sắc. Phân tích các nhóm ấy. Sắc trong mỗi nhóm là sắc có vật thực thứ tám do thời tiết sinh, nối tiếp sinh do hỏa giới trong nhóm. Hãy dần mở rộng tuệ đến bốn đại trong cây, nước, đất, rừng, núi, vàng, bạc, gạch và đá…
+
+
+<a id="M04-body-P230"></a>
+## Mở rộng quán sắc và danh ngoại phần
+Miến / Burmese 230
+
+… trong thế giới vô tri. Khi chỉ còn thấy các hạt nhóm sắc, phân tích chúng để tuệ thấu đến sắc chân đế. Sắc trong thế giới vô tri chỉ có hai loại: nhóm tám sắc do thời tiết sinh và nhóm tám sắc do thời tiết sinh có tiếng.
+
+Tiếp tục quán sắc chân thật và không chân thật ở sáu cửa và 42 phần của thế giới hữu tình ngoại phần theo mẫu nội phần. Bắt đầu từ chỗ gần. Chẳng hạn quán 54 sắc ở mắt nội phần, rồi 54 sắc ở mắt ngoại phần gần đó, gộp chung, không phân biệt nam, nữ, Phạm thiên, ông này, bà kia. Hãy quán một lượt nội phần rồi một lượt ngoại phần để sức tu tập mạnh lên. Cũng làm vậy ở năm cửa còn lại và 42 phần. Khi thấy đủ sắc chân thật và không chân thật ở sáu cửa và 42 phần, quán là “sắc, sắc”, luân phiên nội ngoại. Dần mở rộng đến 31 cõi, và nếu có thể đến vô số thế giới. Hãy ghi nhớ rằng luân phiên nội ngoại làm sức tu tập lớn mạnh.
+
+Tiếp theo quán danh pháp cả sáu nhóm theo mẫu nội phần. Ví dụ, khi quán danh pháp nhóm cảnh sắc nội phần, quán nhãn môn và ý môn cùng nhau rồi lấy màu của nhiều nhóm sắc hoặc một nhóm sắc làm cảnh. Tùy như lý tác ý…
+
+
+<a id="M04-body-P231"></a>
+## Quán các lộ tâm ngoại phần theo nhóm
+Miến / Burmese 231
+
+… hay phi như lý tác ý, quán nhóm thiện hoặc bất thiện trong lộ nhãn môn và ý môn. Ngoại phần cũng theo mẫu ấy, gộp chung, không chia theo nhãn tịnh sắc, hữu phần và cảnh sắc của từng cá nhân.
+
+1. Quán cùng lúc nhãn tịnh sắc, tức nhãn môn, và hữu phần trong sáng, tức ý môn. 2. Lấy màu của nhiều nhóm sắc hoặc một nhóm sắc làm cảnh. Quán danh pháp thiện và bất thiện của lộ nhãn môn và ý môn sinh tùy như lý tác ý hay phi như lý tác ý. Hiểu tương tự với nhóm tiếng và các nhóm còn lại. Nếu có thể quán xa đến 31 cõi, dần mở rộng đến vô số thế giới. Luân phiên nội và ngoại để sức tu tập mạnh hơn.
+
+Khi quán danh sắc ngoại phần, hãy gộp chung theo tính ngoại phần, không phân riêng dòng tương tục theo nam, nữ, người, chúng sinh, người phàm, chư thiên, Phạm thiên hay từng cá nhân. Khi quán 32 phần ngoại phần, có thể quán 32 phần trong dòng tương tục của một chúng sinh…
+
+
+<a id="M04-body-P232"></a>
+## Phạm vi của tuệ minh sát và bốn bước thực hành
+Miến / Burmese 232
+
+… Vì vậy, khi quán sắc ngoại phần, có thể phân tích và quán tất cả sắc, kể cả sắc trong 32 phần thuộc dòng tương tục của một chúng sinh. Đối với danh pháp, trong phạm vi minh sát, một người không thể dùng tuệ minh sát để biết đích xác tâm của một người khác. Biết chính xác tâm người khác thuộc phạm vi tha tâm thông (cetopariyañāṇa), không thuộc phạm vi tuệ minh sát. Trong minh sát hãy quán chung, không phân riêng người và chúng sinh. Đó là phạm vi quán của đệ tử, tức phạm vi của tuệ quán theo ba đặc tướng.
+
+Khi đã thành công trong việc quán danh sắc cả nội phần và ngoại phần, hãy lần lượt thực hành ở cả hai: 1. Quán riêng sắc ở sáu cửa và 42 phần. 2. Quán riêng danh trong cả sáu nhóm. 3. Quán cùng nhau và phân biệt danh sắc trong cả sáu nhóm. 4. Phân định danh sắc trong cả sáu nhóm.
+
+Khi đã làm nhiều lần bốn việc lớn ấy ở nội và ngoại phần, hãy tiến thêm theo lời Đức Phật chỉ dạy dưới đây…
+
+
+<a id="M04-body-P233"></a>
+## Quán sinh và diệt theo duyên và sát-na
+Miến / Burmese 233
+
+Samudayadhammānupassī vā kāyasmiṃ viharati, vayadhammānupassī vā kāyasmiṃ viharati, samudayavayadhammānupassī vā kāyasmiṃ viharati.
+Vị ấy sống quán tính sinh trong thân, quán tính diệt trong thân, hoặc quán cả tính sinh và diệt trong thân (Trung bộ, tập 1, tr. 73). Thọ, tâm và pháp cũng được dạy theo cùng mẫu.
+
+Ở đây Đức Phật dạy quán minh sát đến mức thấy sinh diệt theo duyên (paccayato udayabbayadassana) và theo sát-na (khaṇato udayabbayadassana).
+
+1. Thấy năm uẩn quả sinh vì các nhân như vô minh, ái, thủ, hành và nghiệp sinh, tức thấy sinh theo duyên.
+2. Thấy năm uẩn quả không còn sinh ở tương lai sau Bát-niết-bàn vì các nhân như vô minh, ái, thủ, hành và nghiệp bị đoạn tận bởi A-la-hán đạo và không sinh lại, tức thấy diệt theo duyên.
+3. Thấy sát-na sinh của cả nhân và quả, tức thấy sinh theo sát-na.
+4. Thấy sát-na diệt của cả nhân và quả…
+
+
+<a id="M04-body-P234"></a>
+## Ba tuệ và hai cách quán duyên
+Miến / Burmese 234
+
+… tức thấy diệt theo sát-na. Đức Phật dạy dùng tuệ quán để thấy bốn phương diện ấy rồi quán các hành nhân và quả theo ba đặc tướng. Ở đây Ngài giảng chung ba tuệ: tuệ phân biệt nhân duyên, tuệ quán theo nhóm, và tuệ sinh diệt. Trong phần tuệ phân biệt nhân duyên cũng có hai cách: quán duyên và quán theo suy rộng.
+
+Quán duyên (paccayapariggaha) là chú trọng thấy năm quả hiện tại gồm thức, danh sắc, sáu xứ, xúc và thọ, do các nhân quá khứ tương ứng như vô minh, ái, thủ, hành và nghiệp đã được tạo tác. Quán theo suy rộng (anvayapariggaha) là quán các nhân và quả tương ứng trong những đời quá khứ và vị lai nối tiếp. Hai cách ấy gọi chung là tuệ phân biệt nhân duyên, cũng gọi là phần thanh tịnh do vượt qua hoài nghi. Cách tu tập để đạt tuệ này sẽ được trình bày ở phần duyên khởi theo phương pháp thứ năm và thứ nhất.
+
+
+<a id="M04-body-P235"></a>
+## Phát triển bốn niệm xứ và chọn điểm bắt đầu
+Miến / Burmese 235
+
+Yasmā pana na suddharūpadassanamatteneva vuṭṭhānaṃ hoti, arūpampi daṭṭhabbameva.
+Chỉ quán sắc theo ba đặc tướng thì chưa thể đạt tuệ Thánh đạo, tức chưa thành minh sát dẫn đến xuất khởi. Cũng phải quán danh theo ba đặc tướng (Chú giải A-tỳ-đàm, tập 1, tr. 270. Thanh tịnh đạo, tập 2, tr. 300).
+
+Khi bắt đầu hướng đến và quán danh sắc làm cảnh cho minh sát, có thể bắt đầu từ sắc hoặc từ danh. Bắt đầu từ sắc thích hợp cho cả người lấy thiền chỉ làm cỗ xe và người lấy minh sát làm cỗ xe (xem Thanh tịnh đạo, tập 2, tr. 222. Mahāṭīkā, tập 2, tr. 373).
+
+Pariggahite rūpakammaṭṭhāneti idaṃ rūpamukhena vipassanābhinivesaṃ sandhāya vuttaṃ, arūpamukhena pana vipassanābhiniveso yebhuyyena samathayānikassa icchitabbo. So ca paṭhamaṃ jhānaṅgāni pariggahetvā tato paraṃ sesadhamme pariggaṇhāti.
+Phụ chú giải nói rằng “đã quán sắc” hàm ý bắt đầu minh sát từ sắc. Bắt đầu từ danh thì thích hợp hơn cho người lấy thiền chỉ làm cỗ xe, đã quán các thiền chi rồi tiếp tục với các pháp tương ưng (Phụ chú giải Trung bộ, tập 1, tr. 369). Người thuần minh sát thường bắt đầu quán danh sắc làm cảnh của tuệ minh sát từ sắc…
+
+
+<a id="M04-body-P236"></a>
+## Bắt đầu từ sắc hay danh và tiếp tục với cả hai
+Miến / Burmese 236
+
+… Vì ý này, Chú giải nói người muốn bắt đầu đề mục danh nên quán đề mục sắc trước. Bắt đầu từ danh khi quán danh sắc làm cảnh cho tuệ minh sát nói chung thích hợp cho người lấy thiền chỉ làm cỗ xe. Vị ấy quán thiền chi trước, rồi tiếp tục quán các pháp tương ưng với thiền cùng danh sắc gọi là các hành thông thường (Phụ chú giải Trung bộ, tập 1, tr. 369). Xem thêm Thanh tịnh đạo, tập 2, tr. 222, và Mahāṭīkā, tập 2, tr. 373.
+
+Dù bắt đầu quán sắc làm cảnh cho minh sát, chỉ quán sắc thì không đạt Thánh đạo. Phải tiếp tục nhận diện và quán danh pháp sinh khi lấy sắc làm cảnh. Dù bắt đầu quán các hành danh làm cảnh cho minh sát, chỉ quán danh cũng không đạt Thánh đạo. Phải tiếp tục nhận diện và quán sắc. Phần đầu sách đã dẫn Kinh Aparijānana, trong đó Đức Phật nói không thể đoạn tận khổ nếu chưa phân biệt và biết đầy đủ năm uẩn danh sắc bằng ba loại liễu tri…
+
+
+<a id="M04-body-P237"></a>
+## Bốn niệm xứ phân biệt ở giai đoạn chuẩn bị
+Miến / Burmese 237
+
+Đức Phật dạy rằng không thể đoạn tận khổ nếu chưa phân biệt và biết đầy đủ năm uẩn bằng ba loại liễu tri. Chú giải cũng giải rằng chỉ quán sắc hay chỉ quán danh đều không thể đạt Thánh đạo. Khi quán sắc, hãy phân biệt đại chủng và sắc y sinh bằng tuệ rồi quán minh sát. Khi quán danh, hãy phân biệt bằng tuệ bốn danh uẩn là thọ, tưởng, hành và thức sinh khi lấy sắc làm cảnh, rồi quán minh sát (Chú giải A-tỳ-đàm, tập 1, tr. 270–271. Thanh tịnh đạo, tập 2, tr. 300–301). Lời kinh và Chú giải hòa hợp như nước sông Gaṅgā và Yamunā. Vì vậy các Chú giải giải niệm xứ như sau.
+
+Iti ime cattāro satipaṭṭhānā pubbabhāge nānācittesu labbhanti. Aññeneva hi cittena kāyaṃ pariggaṇhāti, aññena vedanaṃ, aññena cittaṃ, aññena dhamme pariggaṇhāti. Lokuttaramaggakkhaṇe pana ekacitteyeva labbhanti. Ādito hi kāyaṃ pariggaṇhitvā āgatassa vipassanāsampayuttā sati kāyānupassanā nāma, tāya satiyā samannāgato puggalo kāyānupassī nāma. Vipassanaṃ ussukkāpetvā ariyamaggaṃ pattassa maggakkhaṇe maggasampayuttā sati kāyānupassanā nāma, tāya satiyā samannāgato puggalo kāyānupassī nāma. Vedanaṃ pariggaṇhitvā, cittaṃ pariggaṇhitvā, dhamme pariggaṇhitvā āgatassa vipassanāsampayuttā sati…
+Hỏi: Bốn niệm xứ có được trong các tâm khác nhau ở giai đoạn chuẩn bị không? Có. Với những tâm khác nhau, vị ấy quán thân, thọ, tâm và pháp. Tuy nhiên, trong sát-na siêu thế, chúng được ở chính cùng một tâm. Sau khi quán thân, niệm tương ưng với minh sát gọi là quán thân. Người có niệm ấy gọi là người quán thân. Khi minh sát đã được làm cho tiến triển và Thánh đạo đạt được, niệm tương ưng với đạo cũng gọi là quán thân, và người có niệm ấy gọi là người quán thân. Tương tự, sau khi quán thọ, tâm hoặc pháp…
+
+
+<a id="M04-body-P238"></a>
+## Bốn chức năng của một niệm ở sát-na đạo
+Miến / Burmese 238
+
+… dhammānupassanā nāma, tāya satiyā samannāgato puggalo dhammānupassī nāma. Vipassanaṃ ussukkāpetvā ariyamaggaṃ pattassa maggakkhaṇe maggasampayuttā sati dhammānupassanā nāma, tāya satiyā samannāgato puggalo dhammānupassī nāma. Evaṃ tāva desanā puggale tiṭṭhati.
+… niệm tương ưng với minh sát và niệm tương ưng với Thánh đạo lần lượt được gọi là quán thọ, quán tâm hay quán pháp. Người có niệm tương ứng được gọi là người quán thọ, quán tâm hay quán pháp. Đó là cách giảng theo người.
+
+Kāye pana “subhan”ti vipallāsappahānā kāyapariggāhikā sati maggena samijjhatīti kāyānupassanā nāma. Vedanāya “sukhan”ti vipallāsappahānā vedanāpariggāhikā sati maggena samijjhatīti vedanānupassanā nāma. Citte “niccan”ti vipallāsappahānā cittapariggāhikā sati maggena samijjhatīti cittānupassanā nāma. Dhammesu “attā”ti vipallāsappahānā dhammapariggāhikā sati maggena samijjhatīti dhammānupassanā nāma.
+Theo pháp, 1. Niệm nhận diện thân, đoạn trừ điên đảo cho thân là đẹp, viên mãn nhờ đạo, gọi là quán thân. 2. Niệm nhận diện thọ, đoạn trừ điên đảo cho thọ là lạc, viên mãn nhờ đạo, gọi là quán thọ. 3. Niệm nhận diện tâm, đoạn trừ điên đảo cho tâm là thường, viên mãn nhờ đạo, gọi là quán tâm. 4. Niệm nhận diện pháp, đoạn trừ điên đảo cho pháp là ngã, viên mãn nhờ đạo, gọi là quán pháp.
+
+Iti ekāva maggasampayuttā sati catukiccasādhanena cattāri nāmāni labhati. Tena vuttaṃ “lokuttaramaggakkhaṇe pana ekacitteyeva labbhantī”ti.
+Hỏi: Vì sao một niệm tương ưng với đạo có bốn tên? Vì nó hoàn thành bốn nhiệm vụ. Do đó mới nói ở sát-na siêu thế, bốn niệm xứ có được trong cùng một tâm (Chú giải A-tỳ-đàm, tập 2, tr. 273–274).
+
+Đức Phật dạy quán thân với cả thiền chỉ và minh sát. Quán thọ, quán tâm và quán pháp được dạy theo minh sát. Trước Thánh đạo, bốn niệm xứ có được trong các tâm khác nhau: 1. Tâm quán thân là một loại riêng. 2. Tâm quán thọ là một loại riêng…
+
+
+<a id="M04-body-P239"></a>
+## Quán thân, quán thọ và tên gọi theo người
+Miến / Burmese 239
+
+… 3. Tâm nhận diện tâm là một loại riêng. 4. Tâm quán pháp là một loại riêng. Nhưng ở sát-na Thánh đạo siêu thế, cả bốn niệm xứ có được trong một tâm duy nhất.
+
+1. Khi hành giả ban đầu nhận diện và phân biệt thân bằng tuệ rồi tiến sang minh sát, niệm tương ưng với tuệ minh sát ấy gọi là quán thân (kāyānupassanā). Người có niệm ấy gọi là người quán thân (kāyānupassī). Khi hành giả tinh cần làm cho minh sát tiến đến Thánh đạo, niệm tương ưng với đạo cũng gọi là quán thân, và người có niệm ấy gọi là người quán thân. “Thân” có hai loại, danh thân và sắc thân (Paṭisambhidāmagga, tập 1, tr. 177–178).
+
+2. Khi hành giả ban đầu nhận diện và phân biệt thọ bằng tuệ rồi tiến sang minh sát, niệm tương ưng với tuệ minh sát ấy gọi là quán thọ (vedanānupassanā). Người có niệm ấy gọi là người quán thọ (vedanānupassī). Khi hành giả tinh cần làm cho minh sát tiến đến Thánh đạo, niệm tương ưng với đạo cũng gọi là quán thọ, và người có niệm ấy gọi là người quán thọ.
+3. Khi hành giả ban đầu nhận diện và phân biệt tâm bằng tuệ rồi tiến sang minh sát…
+
+
+<a id="M04-body-P240"></a>
+## Quán tâm, quán pháp và tên gọi theo pháp
+Miến / Burmese 240
+
+… niệm tương ưng với tuệ minh sát gọi là quán tâm (cittānupassanā). Người có niệm ấy gọi là người quán tâm (cittānupassī). Khi hành giả tinh cần làm cho minh sát tiến đến Thánh đạo, niệm tương ưng với đạo cũng gọi là quán tâm, và người có niệm ấy gọi là người quán tâm.
+
+4. Khi hành giả ban đầu nhận diện và phân biệt các pháp bằng tuệ rồi tiến sang minh sát, niệm tương ưng với tuệ minh sát gọi là quán pháp (dhammānupassanā). Người có niệm ấy gọi là người quán pháp (dhammānupassī). Khi hành giả tinh cần làm cho minh sát tiến đến Thánh đạo, niệm tương ưng với đạo cũng gọi là quán pháp, và người có niệm ấy gọi là người quán pháp.
+
+Các tên người quán thân, thọ, tâm và pháp dựa vào đường minh sát trước khi đến Thánh đạo. Đó là lối giảng theo người. Theo lối giảng theo pháp, hãy hiểu như sau. 1. Niệm nhận diện và phân biệt thân, đoạn trừ điên đảo chấp thân là đẹp, viên mãn nhờ Thánh đạo, nên gọi là quán thân. 2. Niệm nhận diện và phân biệt thọ, đoạn trừ điên đảo chấp thọ là lạc…
+
+
+<a id="M04-body-P241"></a>
+## Một niệm hoàn tất bốn nhiệm vụ
+Miến / Burmese 241
+
+… và viên mãn nhờ Thánh đạo, nên gọi là quán thọ. 3. Niệm nhận diện và phân biệt tâm, đoạn trừ điên đảo chấp tâm là thường, viên mãn nhờ Thánh đạo, nên gọi là quán tâm. 4. Niệm nhận diện và phân biệt các pháp, đoạn trừ điên đảo chấp pháp là ngã, viên mãn nhờ Thánh đạo, nên gọi là quán pháp.
+
+Một niệm duy nhất tương ưng với Thánh đạo có bốn tên vì nó hoàn tất bốn nhiệm vụ đoạn trừ điên đảo chấp tịnh, lạc, thường và ngã. Vì vậy Chú giải nói bốn niệm xứ đạt được trong một tâm duy nhất ở sát-na Thánh đạo siêu thế (Chú giải A-tỳ-đàm, tập 2, tr. 273–274).
+
+Lời kinh nói rằng nếu chưa phân biệt đầy đủ danh sắc thuộc năm thủ uẩn bằng ba loại liễu tri thì không thể đạt Thánh đạo, không thể đoạn khổ luân hồi. Các Chú giải cũng nói chỉ quán riêng năm uẩn nội phần, chỉ quán riêng ngoại phần, chỉ quán sắc hay chỉ quán danh đều không thể đạt Thánh đạo…
+
+
+<a id="M04-body-P242"></a>
+## Thực hành bốn niệm xứ theo bốn điểm bắt đầu
+Miến / Burmese 242
+
+… Đối chiếu các lời dạy ấy, hãy ghi nhớ bốn niệm xứ như sau.
+
+Bắt đầu với sắc, rồi quán danh sắc và tìm các duyên. Khi quán minh sát danh sắc cùng các duyên theo ba đặc tướng, gọi là đang tu tập niệm xứ quán thân.
+
+Bắt đầu với thọ, rồi quán danh sắc và tìm các duyên. Khi quán minh sát danh sắc cùng các duyên theo ba đặc tướng, gọi là đang tu tập niệm xứ quán thọ.
+
+Bắt đầu với tâm biết, tức thức, rồi quán danh sắc và tìm các duyên. Khi quán minh sát danh sắc cùng các duyên theo ba đặc tướng, gọi là đang tu tập niệm xứ quán tâm.
+
+Bắt đầu với xúc, rồi quán danh sắc và tìm các duyên. Khi quán minh sát danh sắc cùng các duyên theo ba đặc tướng, gọi là đang tu tập niệm xứ quán pháp.
+
+Đối với quán pháp, cũng có thể bắt đầu từ năm triền cái hoặc bảy giác chi rồi quán minh sát các hành danh sắc nhân quả. Quán các hành danh sắc nhân quả theo năm uẩn, mười hai xứ, các đế và những mẫu tương tự cũng là tu tập niệm xứ quán pháp. Hành giả muốn quán nhóm danh pháp do thọ, tâm biết hoặc xúc dẫn đầu…
+
+
+<a id="M04-body-P243"></a>
+## Ba điểm cần ghi nhớ về thực hành niệm xứ
+Miến / Burmese 243
+
+… cần quán đồng thời sắc vật nương và sắc làm cảnh của danh pháp ấy. Sau khi quán danh pháp, lại quán sắc vật nương để quán danh sắc cùng nhau. Điều này đã được giải nhiều lần ở trên.
+
+1. Tu tập một niệm xứ được gọi là tu tập cả bốn niệm xứ. 2. Quán cho thấu rõ năm uẩn bằng ba loại liễu tri chính là tu tập niệm xứ. 3. Nếu chưa quán năm uẩn danh sắc đến chân đế, chưa quán được chúng cùng các duyên theo ba đặc tướng, thì chưa gọi là đang tu tập cả bốn niệm xứ. Người tha thiết muốn đạt Chánh pháp và hướng đến Niết-bàn hãy trân trọng ghi nhớ ba điểm này.
+
+Ở đây sẽ trình bày tóm lược về tâm thuộc lộ và tâm ngoài lộ để tiện ghi nhớ.
+
+
+<a id="M04-body-P244"></a>
+## Trong cái thấy chỉ là cái thấy
+Miến / Burmese 244
+
+Tasmātiha te, Bāhiya, evaṃ sikkhitabbaṃ: diṭṭhe diṭṭhamattaṃ bhavissati, sute sutamattaṃ bhavissati, mute mutamattaṃ bhavissati, viññāte viññātamattaṃ bhavissatīti.
+Này Bāhiya, hãy học tập như sau: trong cái thấy chỉ là cái thấy, trong cái nghe chỉ là cái nghe, trong cái cảm nhận chỉ là cái cảm nhận, trong cái được biết chỉ là cái được biết (Udāna, tr. 85).
+
+Đức Phật dạy cách thực hành này trong Kinh Māluṅkyaputta (Tương ưng bộ, tập 2, tr. 94) và Kinh Bāhiya (Udāna, tr. 85). Ý của cách thực hành như sau.
+
+Ettha hi rūpāyatanaṃ passitabbaṭṭhena diṭṭhaṃ nāma, cakkhuviññāṇaṃ pana saddhiṃ taṃdvārikaviññāṇehi dassanaṭṭhena. Tadubhayampi yathāpaccayaṃ pavattamānaṃ dhammamattameva, na ettha koci kattā vā kāretā vā. Yato taṃ hutvā abhāvaṭṭhena aniccaṃ, udayabbayappaṭipīḷanaṭṭhena dukkhaṃ, avasavattanaṭṭhena anattāti, kuto tattha paṇḍitassa rajjanādīnaṃ okāsoti? Ayamettha adhippāyo sutādīsupi.
+Lời giải gọi sắc xứ là “cái thấy” vì nó là cái cần được thấy. Gọi nhãn thức và các thức trong lộ nhãn môn cũng như những lộ ý môn tiếp tục lấy cảnh ấy là “cái thấy” vì chúng có chức năng thấy cảnh sắc. Các pháp ấy chỉ vận hành tùy duyên. Không có ai làm hay khiến chúng làm. Xét sự sinh diệt và tính không lệ thuộc vào ý muốn, chúng là vô thường, khổ và vô ngã. Hiểu tương tự với cái nghe và các loại còn lại (Chú giải Udāna, tr. 152).
+
+Hành giả hãy quán: 1. Cảnh sắc được thấy và các nhóm danh pháp lộ nhãn môn, ý môn thấy cảnh ấy. 2. Tiếng được nghe và các nhóm danh pháp lộ nhĩ môn, ý môn nghe tiếng ấy…
+
+
+<a id="M04-body-P245"></a>
+## Cái thấy, nghe, cảm nhận và biết làm cảnh minh sát
+Miến / Burmese 245
+
+3. Các cảnh mùi, vị và xúc được cảm nhận, và các nhóm danh pháp lộ tỷ môn, thiệt môn, thân môn cùng các lộ ý môn tương ứng cảm nhận chúng. 4. Cảnh pháp được biết và các nhóm danh pháp lộ ý môn biết cảnh ấy.
+
+Trước hết quán các danh sắc ấy. Sau đó tìm các nhân làm chúng sinh như vô minh, ái, thủ, hành và nghiệp, rồi quán sâu cái thấy, nghe, cảm nhận và biết cùng các nhân theo ba đặc tướng. Khi thực hành được như vậy, tham, sân và si không còn cơ hội sinh do những cảnh ấy. Thay vào đó, các dòng lộ ý môn có tốc hành minh sát đại thiện sinh liên tục. Khi tuệ minh sát phát triển đến Thánh đạo, cách thực hành “trong cái thấy chỉ là cái thấy” được viên mãn.
+
+Một số vị thầy dạy “Khi thấy, chỉ để tâm ở chỗ thấy. Đừng để tâm khác sinh tiếp trên cảnh này”. Cần giải thích thêm điểm ấy.
+
+Ettha pana cakkhuviññāṇameva dassanakiccaṃ sādheti.
+Ở đây, chỉ nhãn thức hoàn thành nhiệm vụ thấy cảnh sắc (Chú giải A-tỳ-đàm, tập 1, tr. 130).
+
+
+<a id="M04-body-P246"></a>
+## Nhãn thức thấy, các tâm lộ tiếp tục theo duyên
+Miến / Burmese 246
+
+Nếu hiểu lời “chỉ để tâm ở chỗ thấy” là chỉ cho nhãn thức sinh với cảnh sắc và không cho các tâm khác trong lộ sinh, thì cần hỏi một đệ tử có thể tập cho việc ấy xảy ra hay không. Chú giải giải như sau.
+
+Sace pana bhavaṅgaṃ āvaṭṭeti, kiriyāmanodhātuyā bhavaṅge āvaṭṭite voṭṭhabbanaṃ appāpetvā antarā cakkhuviññāṇe vā sampaṭicchane vā santīraṇe vā ṭhatvā nivattissatīti netaṃ ṭhānaṃ vijjati. Voṭṭhabbanavasena pana ṭhatvā ekaṃ vā dve vā tīṇi vā cittāni vattanti.
+Nếu hữu phần bị hướng đến và ngắt do tâm hướng ngũ môn gọi là ý giới duy tác, thì trước khi đến xác định không có trường hợp lộ dừng ngay ở nhãn thức, tiếp thọ hoặc suy đạc rồi trở về hữu phần. Tâm xác định có thể sinh một, hai hoặc ba lần làm nhiệm vụ quyết định cảnh (Chú giải A-tỳ-đàm, tập 1, tr. 129–130).
+
+Ở đây Chú giải lấy lộ cảnh nhỏ làm ví dụ. Khi cảnh sắc chạm, tức hiện trước nhãn môn và ý môn, cảnh nhỏ phải đến xác định, cảnh lớn đến tốc hành, cảnh rất lớn đến đăng ký. Lộ không thể dừng giữa chừng trước các điểm ấy. Hiểu tương tự đối với cảnh nghe và cảm nhận. Cảnh hiện ở ý môn…
+
+
+<a id="M04-body-P247"></a>
+## Điểm cuối của lộ tâm và ý nghĩa của “chỉ là”
+Miến / Burmese 247
+
+… nếu không rõ thì không thể dừng trước tốc hành, nếu rõ thì không thể dừng trước đăng ký. Với cảnh hiện ở hai cửa tương ứng: 1. Cảnh nhỏ đi đến xác định. 2. Cảnh lớn đi đến tốc hành. 3. Cảnh rất lớn đi đến đăng ký. Với cảnh ở ý môn: 1. Cảnh rõ đi đến đăng ký. 2. Cảnh không rõ đi đến tốc hành. Sau đó mới trở về hữu phần.
+
+Vì vậy, hãy tập “trong cái thấy chỉ là cái thấy”, “trong cái nghe chỉ là cái nghe”, “trong cái cảm nhận chỉ là cái cảm nhận”, “trong cái được biết chỉ là cái được biết”. Những lời ấy không có nghĩa là khi thấy chỉ cho nhãn thức sinh, khi nghe chỉ cho nhĩ thức sinh, khi cảm nhận chỉ cho tỷ thức, thiệt thức hay thân thức sinh, và tập cho các tâm lộ sau không sinh. Ý thật là…
+
+
+<a id="M04-body-P248"></a>
+## Ý nghĩa thực hành và lời kết
+Miến / Burmese 248
+
+1. Pháp được thấy và pháp thấy. 2. Pháp được nghe và pháp nghe. 3. Pháp được cảm nhận và pháp cảm nhận. 4. Pháp được biết và pháp biết. Khi đã nhận diện và phân biệt các pháp ấy bằng tuệ, hãy tìm các nhân và quán sâu cái thấy, nghe, cảm nhận và biết cùng các nhân theo ba đặc tướng. Đó là ý chính cần ghi nhớ. Đây là một chỉ dẫn thực hành để tham, sân và si không sinh đối với cái thấy, nghe, cảm nhận và biết.
+
+Nguyện các vị tinh cần tu tập và tự mình chứng ngộ Niết-bàn ngay trong đời này, không để lỡ cơ hội gặp Giáo pháp của Đức Phật, và bước theo dấu chân các bậc A-la-hán như Tôn giả Bāhiya Dārucīriya và Tôn giả Māluṅkyaputta…
+
+Pa-Auk Tawya Sayadaw
+Tu viện Cittalapabbata, Pa-Auk Tawya
+Kỷ nguyên Miến Điện 1367.
+
+
+<a id="M04-index-P001"></a>
+## Chỉ mục theo thứ tự chữ Miến — trang 249
+Chỉ mục / Index - Miến / Burmese 249
+
+Tâm quả bất thiện, bảy loại — 22
+
+Tên gọi tâm sở bất thiện biến hành — 38
+
+Mười bốn tâm sở bất thiện, bốn tâm sở bất thiện biến hành — 38
+
+Mười hai tâm bất thiện — 20
+
+Quán bất thiện có làm bất thiện sinh thêm không? — 166
+
+Bốn mươi tâm siêu thế theo cách chi tiết — 31
+
+Tâm sở tợ tha — 37
+
+Cảnh rất nhỏ — 19
+
+Cảnh rất lớn — 18
+
+Lộ nhãn môn cảnh rất lớn kết thúc bằng đăng ký — 136
+
+Hữu phần vừa qua — 135
+
+Khối tập hợp được phá — 212
+
+Hai loại chấp ngã — 41
+
+Quán theo suy rộng — 234
+
+Phương pháp minh sát từng pháp theo thứ tự — 69
+
+Bốn phép quán — 52
+
+Tên gọi hành không do nghiệp chấp thủ — 228
+
+Cách giải khác — 89
+
+Sắc không nổi trội — 222
+
+Hai tâm sở vô lượng — 49, 126
+
+Phần 1. Những điều cần biết về tâm — 1
+
+Phần 2. Những điều cần biết về tâm sở — 33
+
+Phần 3. Cách quán — 74
+
+Phần 4. Cách quán nhóm bất thiện — 166
+
+Phần 5. Khối danh — 209
+
+Phần 6. Tư thế và tỉnh giác — 218
+
+Tịnh sắc thọ mạng dài — 139
+
+
+<a id="M04-index-P002"></a>
+## Chỉ mục theo thứ tự chữ Miến — trang 250
+Chỉ mục / Index - Miến / Burmese 250
+
+Phi như lý tác ý — 95
+
+Bốn tâm Thánh quả — 30
+
+Tuệ quán danh — 4
+
+Mười hai tâm vô sắc giới, bốn tâm thiện — 28
+
+Một quy tắc quan trọng — 58
+
+Tôn giả Nāgasena — 65
+
+Việc rất khó — 66
+
+Kiết sử vô minh — 193
+
+Cảnh không rõ — 19
+
+Biết sai, vô minh hay si — 40
+
+Biết sai và tin chấp sai — 176
+
+Biết đúng, chánh kiến hay tuệ quyền — 40
+
+Ba tâm duy tác vô nhân — 23
+
+Bảy tâm quả bất thiện vô nhân — 23
+
+Tên gọi tâm vô nhân — 24
+
+Mười tám tâm vô nhân — 22
+
+Hành giả mới thực hành — 80
+
+Cảnh tợ tướng hơi thở — 74
+
+Ba mươi bốn danh pháp sơ thiền lấy tợ tướng hơi thở — 81
+
+Phá khối cảnh — 216
+
+Khối cảnh của danh pháp lấy cảnh — 214
+
+Cảnh và ngoại lệ — 85
+
+Sáu cảnh — 14
+
+Tên gọi cảnh (ārammaṇa) — 15
+
+Quán tư thế và tỉnh giác — 218
+
+Kiết sử tật đố — 191
+
+Hai quy tắc — 10
+
+Não và tuệ biết — 162
+
+Não — 162
+
+
+<a id="M04-index-P003"></a>
+## Chỉ mục theo thứ tự chữ Miến — trang 251
+Chỉ mục / Index - Miến / Burmese 251
+
+Hữu phần khách — 109
+
+Tên gọi sắc căn — 15
+
+Hữu phần chủ nhà — 108
+
+Chánh ngữ theo nghĩa lời nói — 121
+
+Thân của người tạo tác — 72
+
+Bi — 126
+
+Phương pháp phân tích nhóm — 69
+
+Cảnh dục giới — 104
+
+Danh pháp dục giới — 26
+
+Kiết sử dục tham — 189
+
+Dục tầm — 169
+
+Hai mươi bốn tâm tịnh hảo dục giới — 24
+
+Lộ thân môn — 18
+
+Quán thân — 239
+
+Người quán thân — 239
+
+Khối chức năng của danh — 212
+
+Phá khối chức năng — 215
+
+Tên gọi tâm duy tác — 24
+
+Chánh nghiệp theo nghĩa hành động — 121
+
+Một trăm nghìn koṭi — 1
+
+Các duyên của tốc hành thiện — 144
+
+Một cách thực hành thích hợp — 187
+
+Lời dẫn kinh điển — 1
+
+Những điều cần biết trước — 132
+
+Hai điểm cần ghi nhớ trước — 7
+
+Những điều cần ghi nhớ trước — 12
+
+Quán năm uẩn — 220
+
+Ví dụ quán năm uẩn — 220
+
+Cách quán năm uẩn — 225
+
+Bảng tóm lược sáu nhóm — 204
+
+Như nước Gaṅgā và Yamunā hòa nhau — 237
+
+Quán nhóm thiện lấy cảnh mùi — 158
+
+
+<a id="M04-index-P004"></a>
+## Chỉ mục theo thứ tự chữ Miến — trang 252
+Chỉ mục / Index - Miến / Burmese 252
+
+Kinh Ví dụ con rắn — 5
+
+Khối — 209
+
+Bốn loại khối — 210
+
+Lộ tỷ môn — 17
+
+Ví dụ con chim — 134
+
+Quán tham và tà kiến lấy nhãn tịnh sắc làm cảnh — 184
+
+Quán tham và mạn lấy nhãn tịnh sắc làm cảnh — 185
+
+Ba mươi bốn danh pháp đại thiện lấy nhãn tịnh sắc làm cảnh — 96
+
+Lộ nhãn môn — 17
+
+Ký hiệu của lộ nhãn môn — 135
+
+Lộ ý môn đơn thuần thứ tư — 143
+
+Định luật của tâm — 211
+
+Quán tâm — 240
+
+Người quán tâm — 240
+
+Tử tâm — 12
+
+Chánh nghiệp theo nghĩa tư — 121
+
+Chánh ngữ theo nghĩa tư — 121
+
+Năm mươi hai tâm sở — 34
+
+Bảng số lượng tâm và tâm sở — 154
+
+Bốn đặc tính của tâm sở tương ưng với tâm — 33
+
+Tâm — 20
+
+Lộ thiệt môn — 18
+
+Chấp sinh mạng là tự ngã — 43
+
+Quán danh pháp thiền — 79
+
+Dành cho người đã đắc thiền — 78
+
+Cái được biết và tuệ biết — 153, 214
+
+
+<a id="M04-index-P005"></a>
+## Chỉ mục theo thứ tự chữ Miến — trang 253
+Chỉ mục / Index - Miến / Burmese 253
+
+Lộ ý môn đơn thuần thứ ba — 142
+
+Đăng ký sau tốc hành bất thiện — 186
+
+Điều cần biết về đăng ký — 104
+
+Bảng đăng ký cho phàm nhân ba nhân — 107
+
+Giải thích thêm — 155
+
+Giải thích thêm — 8, 39
+
+Cái thấy — 244
+
+Kiết sử tà kiến — 190
+
+Trong cái thấy chỉ là cái thấy — 243, 244
+
+Lộ ý môn thứ hai — 142
+
+Lộ nhãn môn cảnh lớn loại hai, kết thúc bằng tốc hành — 137
+
+Hai trường hợp nhóm sân và tật đố — 172
+
+Bốn tâm sở nhóm sân — 43
+
+Hai trường hợp nhóm sân — 171
+
+Bốn trường hợp nhóm sân và hối — 172
+
+Hai trường hợp nhóm sân và xan tham — 172
+
+Hai tâm căn sân — 21
+
+Hai cách dùng từ cửa — 10
+
+Cửa — 13
+
+Sáu cửa — 13, 78
+
+Lối giảng theo pháp — 240
+
+Quán pháp — 240
+
+Người quán pháp — 240
+
+Bảng tâm sở vô lượng trong lộ ý môn có tốc hành dục giới — 128
+
+Bảng niệm Phật và niệm chết — 131
+
+Bảng lộ ý môn nhập thiền với cảnh pháp — 74
+
+Bảng lộ ý môn thiện lấy sắc chân thật làm cảnh — 111
+
+
+<a id="M04-index-P006"></a>
+## Chỉ mục theo thứ tự chữ Miến — trang 254
+Chỉ mục / Index - Miến / Burmese 254
+
+Bảng lộ ý môn thiện lấy sắc không chân thật làm cảnh — 115
+
+Bảng lộ ý môn bất thiện lấy cảnh pháp — 183
+
+Bảng tâm sở tiết chế trong lộ ý môn — 120
+
+Bảng nhóm thiện của lộ ý môn đơn thuần — 99
+
+Sáu loại cảnh pháp — 14
+
+Tuệ phân định danh — 85
+
+Phân định danh sắc — 208
+
+Lộ ý môn theo sau — 141
+
+Cách quán danh pháp chi tiết — 202
+
+Ba cách quán danh pháp — 2
+
+Cách quán danh pháp — 57
+
+Tên gọi nhóm danh — 33
+
+Bốn loại khối danh — 209
+
+Quán đủ các danh pháp — 57
+
+Dùng tuệ thấy danh pháp sinh — 78
+
+Quán danh pháp là danh pháp — 205
+
+Phân biệt danh và sắc — 91
+
+Ví dụ so sánh — 4
+
+Tên gọi tâm sở biệt cảnh — 37
+
+Sáu tâm sở biệt cảnh — 36
+
+Quán duyên — 234
+
+Hoạt động của lộ ngũ môn và lộ ý môn — 141
+
+Lộ ý môn đơn thuần thứ năm — 143
+
+Một tâm sở tuệ quyền — 49
+
+Tên gọi tuệ quyền — 50
+
+Ví dụ quán danh pháp bất thiện lấy chế định — 175
+
+Tâm tái tục — 12
+
+
+<a id="M04-index-P007"></a>
+## Chỉ mục theo thứ tự chữ Miến — trang 255
+Chỉ mục / Index - Miến / Burmese 255
+
+Lộ nhãn môn cảnh nhỏ loại một, kết thúc bằng xác định — 137
+
+Lộ nhãn môn cảnh lớn loại một, kết thúc bằng tốc hành — 136
+
+Sắc nổi trội — 222
+
+Phạm vi tha tâm thông — 232
+
+Chấp tự ngã tối thượng — 42
+
+Cảnh nhỏ — 18
+
+Sắc chân thật quán theo mẫu — 113
+
+Chín sắc không chân thật quán theo mẫu — 115
+
+Sắc không thể chuyển từ nơi này sang nơi khác — 223
+
+Quy tắc khi bắt đầu từ xúc — 57
+
+Năm pháp bắt đầu bằng xúc — 56
+
+Như con rắn — 60
+
+Quán nhóm thiện lấy cảnh xúc — 160
+
+Ví dụ cách quán ngoại phần — 228
+
+Quan điểm của các vị tiền bối — 89
+
+Đề mục niệm Phật — 128
+
+Bảng lộ nhập thiền của bốn phạm trú — 77
+
+Kiết sử hữu tham — 189
+
+Người ngồi nghe Đức Phật thuyết pháp — 71
+
+Kiết sử xan tham — 192
+
+Nhãn tịnh sắc thọ mạng trung bình — 138
+
+Tên gọi thọ mạng trung bình — 139
+
+Vùng giữa thân con nai — 70
+
+Lộ ý môn — 18
+
+Quán lộ ý môn có tốc hành thiện — 100
+
+Ý thức — 16
+
+Tịnh sắc thọ mạng ngắn, dài và trung bình — 138
+
+Tên gọi thọ mạng ngắn — 139
+
+Đề mục niệm chết — 130
+
+
+<a id="M04-index-P008"></a>
+## Chỉ mục theo thứ tự chữ Miến — trang 256
+Chỉ mục / Index - Miến / Burmese 256
+
+Cảnh lớn — 18
+
+Tám tâm đại thiện — 24
+
+Tám tâm đại duy tác — 26
+
+Tám tâm đại quả — 25
+
+Kiết sử mạn — 191
+
+Giả dối và xảo trá — 48
+
+Kinh Māluṅkyaputta — 244
+
+Mi Tiên vấn đáp — 65
+
+Tùy hỷ — 126
+
+Nhóm si và trạo cử — 173
+
+Một tâm sở thuộc nhóm si — 44
+
+Phân biệt tóm lược si và tà kiến — 43
+
+Hai tâm căn si — 22
+
+Nhóm si và hoài nghi — 173
+
+Sáu cặp tâm sở — 90
+
+Như lý tác ý — 151
+
+Như lý tác ý và phi như lý tác ý — 93
+
+Định nghĩa như lý tác ý — 94
+
+Quán nhóm thiện lấy cảnh vị — 159
+
+Tuệ quán sắc — 4
+
+Bảng nhóm thiện lấy màu làm cảnh — 147
+
+Bảng tốc hành bất thiện lấy màu làm cảnh — 196
+
+Cách quán nhóm bất thiện lấy cảnh sắc — 197
+
+Cách quán nhóm thiện lấy cảnh sắc — 145
+
+Mười lăm tâm sắc giới, năm tâm thiện — 27
+
+Không có sự xen lẫn danh sắc — 9
+
+Có sự xen lẫn danh sắc — 8
+
+Trở lại quán sắc — 73
+
+
+<a id="M04-index-P009"></a>
+## Chỉ mục theo thứ tự chữ Miến — trang 257
+Chỉ mục / Index - Miến / Burmese 257
+
+Sắc không thể di chuyển — 63
+
+Quán danh sắc cùng nhau — 206
+
+Tiến thêm một bậc — 232
+
+Cách quán để tiến thêm một bậc — 226
+
+Ví dụ cách quán — 221
+
+Ví dụ thế gian — 91
+
+Chấp ngã theo cách nói thế gian — 41
+
+Tên gọi tâm thế gian — 30
+
+Danh pháp thế gian — 10
+
+Tám tâm siêu thế theo cách tóm lược, bốn tâm Thánh đạo — 30
+
+Ví dụ thế gian — 224
+
+Ba tâm sở nhóm tham — 38
+
+Hai mươi danh pháp nhóm tham và tà kiến — 179
+
+Bốn trường hợp nhóm tham và tà kiến — 170
+
+Bốn trường hợp nhóm tham và mạn — 171
+
+Tám tâm căn tham — 20
+
+Bốn việc lớn cần thực hành — 226
+
+Quán vật và cảnh cùng nhau — 68
+
+Sáu vật nương của danh pháp — 13
+
+Cách giải của các vị tiền bối — 89
+
+Bốn loại lộ — 146
+
+Kiết sử hoài nghi — 193
+
+Sáu thức giới — 15
+
+Quy tắc khi bắt đầu quán từ thức — 56
+
+Tầm, tư và tác ý — 37
+
+Tầm, tứ và hỷ — 75
+
+Loại tâm làm cảnh của tuệ minh sát — 39
+
+Sự khác biệt giữa quả và tốc hành — 107
+
+Cảnh rõ — 19
+
+Ba tâm sở tiết chế — 49
+
+Chánh mạng theo nghĩa tiết chế — 122
+
+Chánh nghiệp theo nghĩa tiết chế — 121
+
+Chánh ngữ theo nghĩa tiết chế — 121
+
+Sáu lộ tâm — 18
+
+
+<a id="M04-index-P010"></a>
+## Chỉ mục theo thứ tự chữ Miến — trang 258
+Chỉ mục / Index - Miến / Burmese 258
+
+Hại tầm — 169
+
+Đối tượng có thể vi phạm và đối tượng cần tiết chế — 124
+
+Tên các tâm lộ — 79
+
+Sự dừng lại của các tâm lộ — 246
+
+Sáu lộ — 16
+
+Tinh tấn và dục — 181
+
+Chánh mạng theo nghĩa hành động — 122
+
+Minh sát dẫn đến xuất khởi — 51
+
+Tên gọi minh sát dẫn đến xuất khởi — 227
+
+Quy tắc khi bắt đầu quán từ thọ — 55
+
+Quán thọ — 239
+
+Người quán thọ — 239
+
+Tên gọi các hành — 39
+
+Bốn niệm xứ — 242
+
+Cách phát triển bốn niệm xứ — 235
+
+Lưu ý — 157
+
+Điểm cần lưu ý — 194
+
+Các cách giải cần lưu ý — 88
+
+Quán nhóm thiện lấy cảnh tiếng — 156
+
+Các nhóm cảnh tiếng, mùi, vị và xúc — 200
+
+Khối tương tục của danh — 210
+
+Phá khối tương tục — 215
+
+Bảy tâm sở biến hành — 34
+
+Cảnh tự nhiên rất đáng ưa — 107
+
+Cảnh tự nhiên không đáng ưa — 107
+
+Cảnh tự nhiên đáng ưa — 107
+
+Người lấy thiền chỉ làm cỗ xe — 6
+
+Dành cho người lấy thiền chỉ làm cỗ xe — 236
+
+Tiết chế do thọ trì — 122
+
+Tiết chế do đoạn trừ — 123
+
+Khối tập hợp của danh — 211
+
+Phá khối tập hợp — 215
+
+Tiết chế khi gặp dịp — 122
+
+
+<a id="M04-index-P011"></a>
+## Chỉ mục theo thứ tự chữ Miến — trang 259
+Chỉ mục / Index - Miến / Burmese 259
+
+Cảnh của tiết chế khi gặp dịp và do thọ trì — 123
+
+Tiết chế khi gặp dịp, do thọ trì và do đoạn trừ — 122
+
+Tên gọi pháp tương ưng — 35
+
+Chánh mạng — 122
+
+Chánh mạng theo nghĩa tiết chế — 119
+
+Định nghĩa chánh mạng theo nghĩa tiết chế — 119
+
+Chánh nghiệp theo nghĩa tiết chế — 118
+
+Định nghĩa chánh nghiệp theo nghĩa tiết chế — 118
+
+Ba loại chánh nghiệp — 121
+
+Chánh ngữ theo nghĩa tiết chế — 117
+
+Định nghĩa chánh ngữ — 117
+
+Ba loại chánh ngữ — 121
+
+Hai tâm sở có thể đi cùng nhóm hữu trợ — 44
+
+Kiết sử giới cấm thủ — 190
+
+Tên gọi sắc vi tế — 15
+
+Lộ ý môn đơn thuần — 141
+
+Người lấy thuần minh sát làm cỗ xe — 3
+
+Lộ nhĩ môn — 17
+
+Hai mươi lăm tâm sở tịnh hảo — 45
+
+Các tâm tịnh hảo — 24
+
+Mười chín tâm sở tịnh hảo biến hành — 45
+
+Kiết sử — 190
+
+Cách mười kiết sử sinh — 188
+
+Sắc làm chuyển động và sắc được chuyển động — 223

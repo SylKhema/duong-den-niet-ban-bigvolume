@@ -1,0 +1,66 @@
+[
+  {
+    "id": "M01",
+    "number": 1,
+    "title": "Phần đề mục thiền chỉ (Samatha kammaṭṭhāna) — A",
+    "source": "available"
+  },
+  {
+    "id": "M02",
+    "number": 2,
+    "title": "Phần pháp hành thiền chỉ (Samatha kammaṭṭhāna) — B",
+    "source": "available",
+    "body_last": 15,
+    "toc_entries": 93
+  },
+  {
+    "id": "M03",
+    "number": 3,
+    "title": "Phần đề mục sắc (Rūpakammaṭṭhāna)",
+    "source": "available"
+  },
+  {
+    "id": "M04",
+    "number": 4,
+    "title": "Phần đề mục thiền về danh (Nāmakammaṭṭhāna)",
+    "source": "available"
+  },
+  {
+    "id": "M05",
+    "number": 5,
+    "title": "Phần Duyên khởi (Paṭiccasamuppāda) — A",
+    "source": "available"
+  },
+  {
+    "id": "M06",
+    "number": 6,
+    "title": "Phần Duyên khởi (Paṭiccasamuppāda) — B",
+    "source": "available",
+    "body_last": 173,
+    "toc_entries": 120
+  },
+  {
+    "id": "M07",
+    "number": 7,
+    "title": "Các mối quan hệ duyên theo Paṭṭhāna",
+    "source": "available",
+    "body_last": 156,
+    "toc_entries": 88
+  },
+  {
+    "id": "M08",
+    "number": 8,
+    "title": "Bộ bốn đặc tính và các phương diện liên hệ (Lakkhaṇādicatukka)",
+    "source": "available",
+    "body_last": 184,
+    "toc_entries": 208
+  },
+  {
+    "id": "M09",
+    "number": 9,
+    "title": "Đề mục thiền minh sát (Vipassanākammaṭṭhāna)",
+    "source": "available",
+    "body_last": 209,
+    "toc_entries": 187
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "project_id": "appgprj_6ae50633ab8081918e19d5ca4be40297",
+  "volume": "M03",
+  "complete_content_pages": 188,
+  "self_checked_image_pages": 188,
+  "integrated_content_pages": 188,
+  "published_content_pages": 188,
+  "frontmatter_pages": 7,
+  "cover_images": 1,
+  "toc_entries": 93,
+  "next_body": null,
+  "body_last": 188,
+  "index_pages": 9,
+  "index_source_pages": 9,
+  "version": 84,
+  "volume_complete": true,
+  "next": null,
+  "publication_state": "included_in_version84",
+  "owner_approval": false,
+  "independent_review": false
+}

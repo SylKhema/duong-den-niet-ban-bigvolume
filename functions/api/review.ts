@@ -56,14 +56,14 @@ export async function onRequestPatch(context: { request: Request; env: Env }): P
   }
 
   const contentLength = Number(request.headers.get('content-length') || 0);
-  if (contentLength > 18000) {
+  if (contentLength > 90000) {
     return json({ error: 'Nội dung quá dài.' }, 413);
   }
 
   let body: Record<string, unknown>;
   try {
     const raw = await request.text();
-    if (raw.length > 18000) throw new Error();
+    if (raw.length > 90000) throw new Error();
     body = JSON.parse(raw);
   } catch {
     return json({ error: 'Dữ liệu chưa đúng định dạng JSON.' }, 400);
@@ -74,6 +74,9 @@ export async function onRequestPatch(context: { request: Request; env: Env }): P
   const editorialNote = body.editorial_note;
   const publicNote = body.public_note;
   const published = body.published;
+  const original = body.original;
+  const revision = body.revision;
+  const releaseCommit = body.release_commit;
 
   if (
     typeof id !== 'string' ||
@@ -84,7 +87,10 @@ export async function onRequestPatch(context: { request: Request; env: Env }): P
     editorialNote.length > 4000 ||
     typeof publicNote !== 'string' ||
     publicNote.length > 4000 ||
-    typeof published !== 'boolean'
+    typeof published !== 'boolean' ||
+    typeof original !== 'string' || original.length > 12000 ||
+    typeof revision !== 'string' || revision.length > 12000 ||
+    typeof releaseCommit !== 'string' || (releaseCommit !== '' && !/^[a-f0-9]{40}$/.test(releaseCommit))
   ) {
     return json({ error: 'Dữ liệu cập nhật chưa đúng yêu cầu.' }, 400);
   }
@@ -94,16 +100,34 @@ export async function onRequestPatch(context: { request: Request; env: Env }): P
   }
 
   try {
+    const existing = await env.DB.prepare(
+      'SELECT status, original, revision, release_commit FROM feedback WHERE id=?'
+    ).bind(id).first<{ status: string; original: string; revision: string; release_commit: string }>();
+    if (!existing) return json({ error: 'Không tìm thấy góp ý tương ứng.' }, 404);
+
+    const before = original.trim();
+    const after = revision.trim();
+    const sameRevision = existing.original === before && existing.revision === after;
+    if (status === 'approved' && (!before || !after || before === after || !sameRevision ||
+        !['reviewing', 'approved'].includes(existing.status))) {
+      return json({ error: 'Hãy lưu hai đoạn khác nhau ở trạng thái Đang đối chiếu, rồi mở lại và duyệt.' }, 409);
+    }
+    if (status === 'resolved' && !(existing.status === 'resolved' && !existing.original && !existing.revision) &&
+        (!sameRevision || !releaseCommit || !['approved', 'resolved'].includes(existing.status))) {
+      return json({ error: 'Hãy duyệt bản sửa và nhập mã commit GitHub đầy đủ sau khi kiểm tra bản đã lên website.' }, 409);
+    }
     const now = new Date().toISOString();
     const result = await env.DB.prepare(
       `UPDATE feedback
-       SET status=?, editorial_note=?, public_note=?, published=?, updated_at=?
-       WHERE id=?`
+       SET status=?, editorial_note=?, public_note=?, published=?, updated_at=?, original=?, revision=?, release_commit=?
+       WHERE id=? AND status=? AND original=? AND revision=? AND release_commit=?`
     )
-      .bind(status, editorialNote.trim(), publicNote.trim(), published ? 1 : 0, now, id)
+      .bind(status, editorialNote.trim(), publicNote.trim(), published ? 1 : 0, now,
+        before, after, status === 'resolved' ? releaseCommit : '', id,
+        existing.status, existing.original, existing.revision, existing.release_commit)
       .run();
 
-    return result.meta.changes ? json({ saved: true }) : json({ error: 'Không tìm thấy góp ý tương ứng.' }, 404);
+    return result.meta.changes ? json({ saved: true }) : json({ error: 'Góp ý vừa thay đổi. Hãy tải lại trước khi lưu.' }, 409);
   } catch (err) {
     console.error('Lỗi cập nhật feedback:', err);
     return json({ error: 'Chưa thể lưu thay đổi vào cơ sở dữ liệu.' }, 503);

@@ -1,0 +1,29 @@
+{
+  "project_id": "appgprj_6ae50633ab8081918e19d5ca4be40297",
+  "volume": "M02",
+  "complete_content_pages": 135,
+  "self_checked_image_pages": 135,
+  "integrated_content_pages": 135,
+  "published_content_pages": 135,
+  "frontmatter_pages": 6,
+  "cover_images": 1,
+  "toc_entries": 93,
+  "next_body": null,
+  "body_last": 136,
+  "index_pages": 6,
+  "index_source_pages": 6,
+  "blank_source_pages": [
+    56,
+    137
+  ],
+  "draft_partial_pages": 0,
+  "published_partial_pages": 0,
+  "independent_review": false,
+  "owner_approval": false,
+  "version": 28,
+  "volume_complete": true,
+  "next": "Cuốn 2 đã dịch hết 135 trang chính văn và 6 trang chỉ mục. Còn các điểm cần xác minh.",
+  "publication_state": "included_in_version28",
+  "index_self_checked_pages": 6,
+  "total_with_index": 141
+}

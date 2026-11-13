@@ -2,11 +2,10 @@ export interface Env {
   DB: D1Database;
   ADMIN_PASSWORD?: string;
   ADMIN_KEY?: string;
-  REVIEWER_EMAIL?: string;
 }
 
 export const categories = ['typo', 'translation', 'terminology', 'question', 'other'] as const;
-export const statuses = ['new', 'reviewing', 'needs-info', 'resolved', 'unchanged', 'duplicate'] as const;
+export const statuses = ['new', 'reviewing', 'needs-info', 'approved', 'resolved', 'unchanged', 'duplicate'] as const;
 
 export function validateSubmission(raw: Record<string, unknown>) {
   const field = (key: string, max: number, required = false) => {
@@ -22,9 +21,14 @@ export function validateSubmission(raw: Record<string, unknown>) {
     throw new Error('Mã gửi không hợp lệ. Vui lòng mở lại biểu mẫu.');
   }
 
+  const series = raw.series ?? 'big';
+  const language = raw.language ?? 'vi';
+  if ((series !== 'big' && series !== 'mini') || (language !== 'vi' && language !== 'en' && language !== 'bi')) {
+    throw new Error('Bộ sách hoặc ngôn ngữ không hợp lệ.');
+  }
   const volume = Number(raw.volume);
   const pdfPage = Number(raw.pdfPage);
-  if (!Number.isInteger(volume) || volume < 1 || volume > 5 || !Number.isInteger(pdfPage) || pdfPage < 1 || pdfPage > 1000) {
+  if (!Number.isInteger(volume) || volume < 1 || volume > (series === 'mini' ? 9 : 5) || !Number.isInteger(pdfPage) || pdfPage < (series === 'mini' ? 0 : 1) || pdfPage > 1000) {
     throw new Error('Vị trí trang không hợp lệ.');
   }
 
@@ -34,7 +38,8 @@ export function validateSubmission(raw: Record<string, unknown>) {
   }
 
   const anchor = field('anchor', 140, true);
-  if (!/^[A-Za-z0-9_.:-]+$/.test(anchor)) {
+  if (!/^[A-Za-z0-9_.:-]+$/.test(anchor) ||
+      (series === 'mini' && anchor !== 'general' && !anchor.startsWith('M0' + volume + '-'))) {
     throw new Error('Mã vị trí không hợp lệ.');
   }
 
@@ -58,6 +63,8 @@ export function validateSubmission(raw: Record<string, unknown>) {
 
   return {
     id,
+    series,
+    language,
     volume,
     anchor,
     printed: field('printed', 80, true),
@@ -114,14 +121,5 @@ export function isAuthorized(req: Request, env: Env): boolean {
     }
   }
 
-  // Check Cloudflare Access (Zero Trust) header if REVIEWER_EMAIL is configured
-  if (env.REVIEWER_EMAIL) {
-    const accessEmail = req.headers.get('cf-access-authenticated-user-email');
-    if (accessEmail && accessEmail.toLowerCase() === env.REVIEWER_EMAIL.toLowerCase()) {
-      return true;
-    }
-  }
-
   return false;
 }
-

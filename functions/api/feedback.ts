@@ -65,8 +65,9 @@ export async function onRequestPost(context: { request: Request; env: Env }): Pr
       `INSERT INTO feedback (
         id, created_at, updated_at, volume, anchor, printed, pdf_page,
         excerpt, category, message, suggestion, reference, name, email,
-        status, editorial_note, public_note, published
-      ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`
+        status, editorial_note, public_note, published, series, language
+      ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+      ON CONFLICT(id) DO NOTHING`
     )
       .bind(
         value.id,
@@ -86,7 +87,9 @@ export async function onRequestPost(context: { request: Request; env: Env }): Pr
         'new',
         '',
         '',
-        0
+        0,
+        value.series,
+        value.language
       )
       .run();
 
