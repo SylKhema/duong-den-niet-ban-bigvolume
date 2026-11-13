@@ -33,7 +33,7 @@ def get_git_lastmod(path: Path) -> str:
 
 def generate_sitemap(base_url: str = DEFAULT_DOMAIN, clean_urls: bool = True) -> str:
     base = base_url.rstrip('/')
-    catalog_file = WEB / 'catalog.json'
+    catalog_file = WEB / 'big' / 'catalog.json'
     catalog = json.loads(catalog_file.read_text(encoding='utf-8'))
 
     # Root XML element
@@ -60,17 +60,20 @@ def generate_sitemap(base_url: str = DEFAULT_DOMAIN, clean_urls: bool = True) ->
     # 1. Homepage & Web Reader Hub (Highest Priority)
     add_url('', WEB / 'index.html', priority='1.0', changefreq='weekly')
 
+    add_url('big/', WEB / 'big' / 'index.html', priority='0.9', changefreq='weekly')
+    add_url('mini/', WEB / 'mini' / 'index.html', priority='0.9', changefreq='weekly')
+
     # 2. Complete HTML Book Editions (Clean URLs for Cloudflare Pages: tap-1 .. tap-5)
     for b in catalog:
         vol = b['vol']
-        html_file = WEB / 'downloads' / 'html' / f'tap-{vol}.html'
-        add_url(f'downloads/html/tap-{vol}.html', html_file, priority='0.9', changefreq='monthly')
+        html_file = WEB / 'big' / 'downloads' / 'html' / f'tap-{vol}.html'
+        add_url(f'big/downloads/html/tap-{vol}.html', html_file, priority='0.9', changefreq='monthly')
 
     # 3. Preserved PDF Editions (PDFs retain .pdf and return 200 directly)
     for b in catalog:
         vol = b['vol']
-        pdf_file = WEB / 'downloads' / f'tap-{vol}.pdf'
-        add_url(f'downloads/tap-{vol}.pdf', pdf_file, priority='0.8', changefreq='monthly')
+        pdf_file = WEB / 'big' / 'downloads' / f'tap-{vol}.pdf'
+        add_url(f'big/downloads/tap-{vol}.pdf', pdf_file, priority='0.8', changefreq='monthly')
 
     # 4. Public Revision Errata & Feedback Lookup
     add_url('hieu-dinh.html', WEB / 'hieu-dinh.html', priority='0.7', changefreq='weekly')

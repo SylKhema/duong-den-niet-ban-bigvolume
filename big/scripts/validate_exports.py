@@ -4,7 +4,7 @@ from lxml import etree, html
 from urllib.parse import unquote, urlsplit
 import argparse, hashlib, json, posixpath, re, zipfile
 
-ROOT=Path(__file__).resolve().parents[1];WEB=ROOT/'docs'
+ROOT=Path(__file__).resolve().parents[2];WEB=ROOT/'docs/big'
 norm=lambda s: re.sub(r'\s+','',s)
 
 def main():
@@ -69,14 +69,14 @@ def main():
     for fmt in ['txt','md']:
         assert len(list((WEB/'downloads/unicode').glob('*.'+fmt)))==5
     allfiles=[]
-    for p in sorted(ROOT.rglob('*')):
+    for p in sorted([*WEB.rglob('*'), *(ROOT/'big').rglob('*')]):
         if not p.is_file() or any(x in p.parts for x in ['.git','__pycache__']):continue
         rel=p.relative_to(ROOT).as_posix()
-        if rel in ('records/validation-exports.json','records/file-manifest.json'):continue
+        if rel in ('big/records/validation-exports.json','big/records/file-manifest.json'):continue
         assert p.stat().st_size<100*1024*1024,(rel,'GitHub file limit')
         allfiles.append({'path':rel,'bytes':p.stat().st_size,'sha256':hashlib.sha256(p.read_bytes()).hexdigest(),'git_blob_sha':hashlib.sha1(b'blob '+str(p.stat().st_size).encode()+b'\0'+p.read_bytes()).hexdigest()})
-    (ROOT/'records/validation-exports.json').write_text(json.dumps({'volumes':reports,'all_checks_passed':True,'epubcheck_run':False,'reader_app_visual_review_performed':False,'independent_semantic_review':False},ensure_ascii=False,indent=2)+'\n')
-    (ROOT/'records/file-manifest.json').write_text(json.dumps(allfiles,ensure_ascii=False,indent=2)+'\n')
+    (ROOT/'big/records/validation-exports.json').write_text(json.dumps({'volumes':reports,'all_checks_passed':True,'epubcheck_run':False,'reader_app_visual_review_performed':False,'independent_semantic_review':False},ensure_ascii=False,indent=2)+'\n')
+    (ROOT/'big/records/file-manifest.json').write_text(json.dumps(allfiles,ensure_ascii=False,indent=2)+'\n')
     print('Files:',len(allfiles),'Bytes:',sum(x['bytes'] for x in allfiles),flush=True)
 
 if __name__=='__main__':main()

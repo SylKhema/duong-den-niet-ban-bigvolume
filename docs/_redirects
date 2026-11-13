@@ -1,0 +1,14 @@
+/bo-dai /big/ 301
+/bo-dai/ /big/ 301
+/bo-dai/index.html /big/ 301
+/books/* /big/books/:splat 301
+/downloads/* /big/downloads/:splat 301
+/sources/* /big/sources/:splat 301
+/original/* /big/original/:splat 301
+/fonts/* /big/fonts/:splat 301
+/catalog.json /big/catalog.json 301
+/provenance.json /big/provenance.json 301
+/app.js /big/app.js 301
+/style.css /big/style.css 301
+/feedback.css /big/feedback.css 301
+/feedback.js /big/feedback.js 301

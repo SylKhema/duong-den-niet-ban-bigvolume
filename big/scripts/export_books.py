@@ -5,8 +5,8 @@ from lxml import etree, html
 import base64, copy, hashlib, json, re, shutil, zipfile
 from html import escape
 
-ROOT = Path(__file__).resolve().parents[1]
-WEB = ROOT / 'docs'
+ROOT = Path(__file__).resolve().parents[2]
+WEB = ROOT / 'docs/big'
 OUT = WEB / 'downloads'
 NS = 'http://www.w3.org/1999/xhtml'
 EPUB = 'http://www.idpf.org/2007/ops'
@@ -190,10 +190,10 @@ def main():
         txt=OUT/'unicode'/f'tap-{i}.txt';txt.write_text(plain,encoding='utf-8')
         markdown = [section.replace('(như trên)', '*(như trên)*') for section in sections]
         md=OUT/'unicode'/f'tap-{i}.md'
-        md.write_text('# '+title+'\n\n> Bản Unicode UTF-8. JSON trong docs/books giữ cấu trúc, mã đoạn và liên kết đầy đủ.\n\n'+'\n\n'.join(markdown[1:])+'\n',encoding='utf-8')
+        md.write_text('# '+title+'\n\n> Bản Unicode UTF-8. JSON trong docs/big/books giữ cấu trúc, mã đoạn và liên kết đầy đủ.\n\n'+'\n\n'.join(markdown[1:])+'\n',encoding='utf-8')
         epub=make_epub(book,chunks(book));offline=make_html(book)
         reports.append({'vol':i,'source_json_sha256':hashlib.sha256(source.read_bytes()).hexdigest(),'source_page_markers':len(book['pages']),'toc_entries':len(book['toc']),'unicode_characters':len(plain),'epub_bytes':epub.stat().st_size,'offline_html_bytes':offline.stat().st_size})
         print('Exported',i,flush=True)
-    (ROOT/'records/export-summary.json').write_text(json.dumps(reports,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+    (ROOT/'big/records/export-summary.json').write_text(json.dumps(reports,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 
 if __name__=='__main__':main()

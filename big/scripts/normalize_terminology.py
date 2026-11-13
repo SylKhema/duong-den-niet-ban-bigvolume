@@ -2,7 +2,7 @@
 """Apply the editor-approved Vietnamese terminology without changing Pāli or IDs."""
 import json,re,sys,collections,bisect
 from pathlib import Path
-ROOT=Path(__file__).resolve().parents[1]
+ROOT=Path(__file__).resolve().parents[2]
 SPLIT=re.compile(r'(<[^>]+>)')
 CHI=re.compile(r'\bchỉ\b',re.I)
 PREFIX=re.compile(r'\b(?:tu tập|tu|thực hành|pháp hành|cỗ xe|tướng của|tướng|phần|sức|lực|đề mục|nghiệp xứ|thuần|phương diện)\s+$',re.I)
@@ -62,7 +62,7 @@ def change(value,events,where):
 def main():
     apply='--apply' in sys.argv;events=[]
     for i in range(1,6):
-        p=ROOT/f'docs/books/{i}.json';b=json.loads(p.read_text())
+        p=ROOT/f'docs/big/books/{i}.json';b=json.loads(p.read_text())
         b['title']=change(b['title'],events,f'{i}:title')
         for page in b['pages']:
             page['html']=change(page['html'],events,f'{i}:{page["printed"]}')
@@ -70,6 +70,6 @@ def main():
         for row in b['toc']:row['title']=change(row['title'],events,f'{i}:toc:{row.get("printed","")}')
         b['notesHtml']=change(b['notesHtml'],events,f'{i}:notes')
         if apply:p.write_text(json.dumps(b,ensure_ascii=False,separators=(',',':'))+'\n')
-    (ROOT/'records/terminology-changes-2026-11-01.json').write_text(json.dumps({'date':'2026-11-01','rules':{'kammaṭṭhāna':'đề mục','samatha':'thiền chỉ'},'changes':events},ensure_ascii=False,indent=2)+'\n')
+    (ROOT/'big/records/terminology-changes-2026-11-01.json').write_text(json.dumps({'date':'2026-11-01','rules':{'kammaṭṭhāna':'đề mục','samatha':'thiền chỉ'},'changes':events},ensure_ascii=False,indent=2)+'\n')
     print(dict(collections.Counter((x['where'].split(':')[0]+':'+x['term']) for x in events)))
 if __name__=='__main__':main()

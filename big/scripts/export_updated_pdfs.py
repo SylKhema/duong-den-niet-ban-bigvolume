@@ -6,7 +6,7 @@ from reportlab.lib.styles import getSampleStyleSheet,ParagraphStyle
 from reportlab.pdfbase import pdfmetrics
 from reportlab.pdfbase.ttfonts import TTFont
 from reportlab.lib.enums import TA_LEFT
-ROOT=Path(__file__).resolve().parents[1];WEB=ROOT/'docs'
+ROOT=Path(__file__).resolve().parents[2];WEB=ROOT/'docs/big'
 for name,file in [('Book','DejaVuSerif.ttf'),('Book-Bold','DejaVuSerif-Bold.ttf'),('Book-Italic','DejaVuSerif-Italic.ttf'),('Book-BoldItalic','DejaVuSerif-BoldItalic.ttf')]:pdfmetrics.registerFont(TTFont(name,'/usr/share/fonts/truetype/dejavu/'+file))
 pdfmetrics.registerFontFamily('Book',normal='Book',bold='Book-Bold',italic='Book-Italic',boldItalic='Book-BoldItalic')
 pdfmetrics.registerFont(TTFont('Myanmar',str(WEB/'fonts/NotoSerifMyanmar-Regular.ttf')))

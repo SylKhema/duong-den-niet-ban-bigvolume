@@ -4,7 +4,7 @@ Bản này dùng trang chủ từ nhánh main của Bộ Đại, commit `3edb664
 
 ## Hai kho nguồn và một bản triển khai
 
-- Bộ Đại lấy từ `SylKhema/duong-den-niet-ban-bigvolume`. Thư mục xuất bản là `docs/`. Mã tiếp nhận và duyệt góp ý dùng `functions/api/` ở gốc dự án.
+- Bộ Đại lấy từ `SylKhema/duong-den-niet-ban-bigvolume`. Thư mục xuất bản là `docs/`. Bộ Đại nằm tại `docs/big/`, Bộ Tóm Lược tại `docs/mini/`. Trang đọc Bộ Đại dùng `/big/` và liên kết `/bo-dai/` chuyển tiếp về địa chỉ mới. Mã tiếp nhận và duyệt góp ý dùng `functions/api/` ở gốc dự án.
 - Bộ Tóm Lược lấy từ `SylKhema/duong-den-niet-ban-mini`, nhánh `main` tại mốc `57a04b4`. Thư mục `docs/mini/` trong gói này là bản xuất bản đã bổ sung ảnh, PDF nguyên tác và 135 tệp riêng. Sau khi dùng tài khoản có quyền ghi repo Mini, đưa bản đã bổ sung vào kho Mini riêng tư, rồi lấy bản từ đó cho các lần xuất bản sau.
 - Khi chuẩn bị bản phát hành, sao chép thư mục xuất bản của Bộ Đại vào thư mục dựng bản phát hành. Sao chép bản của Bộ Tóm Lược từ kho Mini vào `docs/mini/` trong thư mục đó. Commit của từng bộ được theo dõi ở kho nguồn tương ứng. Tệp ZIP này đã lắp sẵn cây xuất bản để kiểm tra hoặc triển khai.
 
