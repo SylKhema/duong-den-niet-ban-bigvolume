@@ -1,0 +1,32 @@
+.lazibook-guide {
+  margin: 1rem 0;
+  padding: 1rem;
+  border: 1px solid var(--line, #dedccb);
+  border-inline-start: .25rem solid var(--green, #386451);
+  border-radius: .45rem;
+  background: var(--theme-surface, #fffdf7);
+  font: .95rem/1.55 system-ui, sans-serif;
+}
+.lazibook-guide h3 {
+  margin: 0 0 .65rem;
+  font: bold 1.25rem/1.35 Georgia, serif;
+}
+.lazibook-guide h3 span { display: block; font: normal .9rem/1.5 system-ui, sans-serif; }
+.lazibook-instructions {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 19rem), 1fr));
+  gap: .75rem 1.4rem;
+}
+.lazibook-instructions ol { margin: 0; padding-inline-start: 1.3em; }
+.lazibook-instructions li + li { margin-top: .25rem; }
+.lazibook-guide p { margin: .5rem 0; font-size: .875rem; }
+.lazibook-guide .lazibook-store {
+  display: inline-block;
+  margin-top: .4rem;
+  padding: .4rem .65rem;
+  border: 1px solid currentColor;
+  border-radius: .35rem;
+  font-weight: 600;
+}
+.lazibook-guide .lazibook-devices { margin-bottom: 0; }
+:root[data-theme="dark"] .lazibook-guide { border-inline-start-color: var(--theme-link); }
