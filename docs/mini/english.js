@@ -42,7 +42,7 @@ function englishParagraphContent(paragraph, text){
 }
 function translatedParagraphs(page,translation){
  return page.paragraphs.map(p=>{
-  const english='<div id="'+p.id+'-en" class="feedback-paragraph" lang="en"><div class="feedback-text">'+englishParagraphContent(p,translation.paragraphs[p.id])+'</div><button type="button" data-feedback-paragraph>Comment on this paragraph</button></div>';
+  const english='<div id="'+p.id+'-en" class="feedback-paragraph" lang="en"><div class="feedback-text">'+englishParagraphContent(p,translation.paragraphs[p.id])+'</div></div>';
   return englishOnly?english:'<div class="language-pair">'+paragraphHtml(p)+english+'</div>';
  }).join('');
 }

@@ -61,11 +61,6 @@
       openFeedback();
       return;
     }
-    const button = event.target.closest('[data-feedback-paragraph]');
-    if (button) {
-      openFeedback(button.closest('.feedback-paragraph'));
-      return;
-    }
     if (event.target.closest('a, button, input, textarea, select, summary, dialog')) return;
 
     const block = textBlock(event.target);
