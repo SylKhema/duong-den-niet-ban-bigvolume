@@ -1,0 +1,3963 @@
+# Nibbānagāminipaṭipadā · Mini · Cuốn 3 / Volume 3
+Phần đề mục sắc (Rūpakammaṭṭhāna)
+Pa-Auk Tawya Sayadaw
+Việt
+
+## Mục lục / Contents
+
+- [Bìa trước và bìa sau](#M03-cover-P001)
+- [Trang nhan đề](#M03-front-P001)
+- [Pháp thí và lời nguyện](#M03-front-P002)
+- [Mục lục — က](#M03-front-P003)
+- [Mục lục — ခ](#M03-front-P004)
+- [Mục lục — ဂ](#M03-front-P005)
+- [Mục lục — ဃ](#M03-front-P006)
+- [Mục lục — င](#M03-front-P007)
+- [Phần đề mục sắc — Đề mục tứ đại](#M03-body-P001)
+- [Hai cách tác ý về tứ đại](#M03-body-P002)
+- [Bốn sắc đại chủng và mười hai tính chất](#M03-body-P003)
+- [Quán từng tính chất khắp thân](#M03-body-P004)
+- [Bắt đầu bằng tính đẩy](#M03-body-P005)
+- [Nhận ra tính đẩy trong toàn thân](#M03-body-P006)
+- [Từ tính đẩy đến tính cứng và tính nhám](#M03-body-P007)
+- [Tính nặng và tính nâng đỡ](#M03-body-P008)
+- [Nhận ra tính nâng đỡ và tính mềm](#M03-body-P009)
+- [Tính trơn, nhẹ và nóng](#M03-body-P010)
+- [Tính lạnh, kết dính và chảy](#M03-body-P011)
+- [Quán đủ mười hai tính chất theo thứ tự](#M03-body-P012)
+- [Quán toàn thân và nhận diện từng đại](#M03-body-P013)
+- [Điểm cần ghi nhớ — Quán cho cân bằng các đại](#M03-body-P014)
+- [Các đại được nhận ra lần lượt ở những vị trí khác nhau](#M03-body-P015)
+- [Sáu tính chất của địa đại](#M03-body-P016)
+- [Quân bình những tính chất đối nhau](#M03-body-P017)
+- [Điều chỉnh khi một đại trở nên quá mạnh](#M03-body-P018)
+- [Quân bình phong đại và phát triển định](#M03-body-P019)
+- [Vì sao trong Kinh nêu cứng và nhám](#M03-body-P020)
+- [Tính chất của thủy đại, hỏa đại và phong đại](#M03-body-P021)
+- [Nhận biết các đại trong mọi tư thế](#M03-body-P022)
+- [Đề mục tứ đại và các quy tắc thực hành](#M03-body-P023)
+- [Quy tắc 1–3 về thứ tự và tốc độ](#M03-body-P024)
+- [Quy tắc 4. Ngăn tâm tán ra ngoài](#M03-body-P025)
+- [Giữ tâm trên đề mục tứ đại](#M03-body-P026)
+- [Quy tắc 5–6. Vượt qua tên gọi và tạm bỏ qua tính chưa rõ](#M03-body-P027)
+- [Quy tắc 7. Ưu tiên nhận biết đặc tính](#M03-body-P028)
+- [Chuyên chú vào đặc tính riêng của từng đại](#M03-body-P029)
+- [Nhận biết các đại bên ngoài và hai trở ngại đối với cận định](#M03-body-P030)
+- [Thực hành để quân bình năm căn](#M03-body-P031)
+- [Điều chỉnh khi tín hoặc tinh tấn quá mạnh](#M03-body-P032)
+- [Quân bình tín và tuệ](#M03-body-P033)
+- [Khi hiểu biết nhiều mà tín còn yếu](#M03-body-P034)
+- [Quân bình định và tinh tấn](#M03-body-P035)
+- [Vai trò của niệm và ba giác chi đầu](#M03-body-P036)
+- [Bốn giác chi còn lại và cách nâng tâm khi trì trệ](#M03-body-P037)
+- [Làm lắng tâm và phát triển cận định](#M03-body-P038)
+- [Năm thiền chi khi cận định hiện rõ](#M03-body-P039)
+- [Bảy điều kiện hỗ trợ đề mục tứ đại](#M03-body-P040)
+- [Tuệ soi sáng đặc tính của bốn đại](#M03-body-P041)
+- [Giải thích thêm về ánh sáng](#M03-body-P042)
+- [Những biểu hiện khác nhau khi định mạnh](#M03-body-P043)
+- [Từ khối màu khói đến khối trong suốt](#M03-body-P044)
+- [Các nhóm sắc trong suốt và sự phát sinh ánh sáng](#M03-body-P045)
+- [Ánh sáng của tuệ và thời điểm chuyển đề mục](#M03-body-P046)
+- [Chuyển từ tứ đại sang đề mục thiền chỉ](#M03-body-P047)
+- [Những khó khăn khi định suy giảm](#M03-body-P048)
+- [Khi khối trong chưa phân giải](#M03-body-P049)
+- [Lời chú giải về hư không giới](#M03-body-P050)
+- [Khoảng không làm ranh giới giữa các nhóm sắc](#M03-body-P051)
+- [Sáu loại trong suốt](#M03-body-P052)
+- [Ánh sáng liên hệ với tâm](#M03-body-P053)
+- [Bắt đầu phân tích các nhóm sắc](#M03-body-P054)
+- [Thấy nhóm sắc và thấy sắc chân đế](#M03-body-P055)
+- [Cách nhận biết bốn đại trong từng nhóm sắc](#M03-body-P056)
+- [Luyện nhận biết từng đặc tính trong nhóm sắc](#M03-body-P057)
+- [Định khi nhận biết bốn đại trong từng nhóm](#M03-body-P058)
+- [Doṇamatta — khoảng một đấu](#M03-body-P059)
+- [Những loại sắc cần nhận biết đầy đủ](#M03-body-P060)
+- [Nhận biết đủ các loại nhóm sắc ở sáu cửa](#M03-body-P061)
+- [Ví dụ người đồ tể](#M03-body-P062)
+- [Từ tưởng về chúng sinh đến nhận biết các giới](#M03-body-P063)
+- [Quán thân theo giới và ba loại khối sắc](#M03-body-P064)
+- [Phân giải khối liên tục và khối tập hợp](#M03-body-P065)
+- [Phân giải khối phận sự](#M03-body-P066)
+- [Trong sắc không có khối về cảnh](#M03-body-P067)
+- [Các pháp có cảnh và không có cảnh](#M03-body-P068)
+- [Khối về cảnh và quán xét theo giới](#M03-body-P069)
+- [Quán bốn đại đến mức chân đế](#M03-body-P070)
+- [Hai cách chấp tự ngã](#M03-body-P071)
+- [Khi hai cách chấp tan và cách nhận biết sắc y sinh](#M03-body-P072)
+- [Nhận biết tứ đại ở sáu cửa và ba mươi hai thể phần](#M03-body-P073)
+- [Sắc đại chủng và sắc y sinh phân định lẫn nhau](#M03-body-P074)
+- [Ví dụ ánh nắng và bóng cây](#M03-body-P075)
+- [Sắc y sinh có mặt trong nhóm sắc](#M03-body-P076)
+- [Vì sao cần nhận biết cả đại chủng lẫn sắc y sinh](#M03-body-P077)
+- [Màu sắc và mùi](#M03-body-P078)
+- [Dùng hai cửa để nhận biết mùi](#M03-body-P079)
+- [Vị và dưỡng chất](#M03-body-P080)
+- [Dưỡng chất và mạng quyền của sắc](#M03-body-P081)
+- [Tìm mạng quyền và sắc tính](#M03-body-P082)
+- [Phân biệt sắc tính và chuẩn bị đọc các bảng](#M03-body-P083)
+- [Nhãn môn — 54 sắc ở mắt](#M03-body-P084)
+- [Nhĩ môn — 54 sắc ở tai](#M03-body-P085)
+- [Tỷ môn — 54 sắc ở mũi](#M03-body-P086)
+- [Thiệt môn — 54 sắc ở lưỡi](#M03-body-P087)
+- [Thân môn — 44 sắc ở thân](#M03-body-P088)
+- [Ý môn — 54 sắc ở tim](#M03-body-P089)
+- [Thế nào là ý môn](#M03-body-P090)
+- [Nhóm chín sắc mạng quyền và các nhóm sắc ở sáu cửa](#M03-body-P091)
+- [Các nhóm trong suốt và đặc tính của nhãn, thân tịnh sắc](#M03-body-P092)
+- [Cách nhận biết nhãn tịnh sắc](#M03-body-P093)
+- [Cách nhận biết thân tịnh sắc ở mắt](#M03-body-P094)
+- [Ba nhóm sắc do nghiệp sinh ở mắt và nhĩ tịnh sắc](#M03-body-P095)
+- [Phân biệt nhĩ tịnh sắc và nhận biết tỷ tịnh sắc](#M03-body-P096)
+- [Phân biệt tỷ tịnh sắc và nhận biết thiệt tịnh sắc](#M03-body-P097)
+- [Thân môn và nhận biết sắc tính](#M03-body-P098)
+- [Sắc nữ tính và sắc ý vật](#M03-body-P099)
+- [Phân tích nhóm mười sắc ý vật](#M03-body-P100)
+- [Phân biệt hữu phần trong sáng với thân tịnh sắc](#M03-body-P101)
+- [Khi đã thấy các hạt nhóm sắc khắp thân](#M03-body-P102)
+- [Hai mươi tám sắc và bốn sắc đại chủng](#M03-body-P103)
+- [Sắc trong suốt, sắc cảnh, sắc tính và sắc ý vật](#M03-body-P104)
+- [Mạng quyền, vật thực và tên gọi của mười tám sắc](#M03-body-P105)
+- [Sắc giới hạn, sắc biểu tri và sắc biến hóa](#M03-body-P106)
+- [Bốn sắc đặc tướng](#M03-body-P107)
+- [Vì sao vẫn cần nhận biết các sắc không thành tựu](#M03-body-P108)
+- [Nhận biết các đặc tướng và bắt đầu quán sắc do tâm sinh](#M03-body-P109)
+- [Tâm sinh các nhóm sắc và cách quán sắc do thời tiết sinh](#M03-body-P110)
+- [Các thế hệ sắc do thời tiết sinh](#M03-body-P111)
+- [Sức hỗ trợ cho hỏa đại và sự sinh sắc bên ngoài](#M03-body-P112)
+- [Hỏa đại do tâm sinh](#M03-body-P113)
+- [Sự tiếp nối của sắc do tâm thù thắng sinh](#M03-body-P114)
+- [Hỏa đại trong sắc do vật thực sinh](#M03-body-P115)
+- [Khi nào dưỡng chất làm phận sự của vật thực](#M03-body-P116)
+- [Tên gọi vật thực ăn được và sắc trong thức ăn](#M03-body-P117)
+- [Thức ăn không di chuyển dưới dạng các sắc chân đế](#M03-body-P118)
+- [Sự tiếp nối của sắc trong thức ăn](#M03-body-P119)
+- [Vật thực làm duyên cho sắc](#M03-body-P120)
+- [Vật thực làm duyên cho sắc (tiếp)](#M03-body-P121)
+- [Dưỡng chất trong thức ăn mới](#M03-body-P122)
+- [Dưỡng chất có đặc tướng của đoàn thực](#M03-body-P123)
+- [Dưỡng chất trợ giúp và dưỡng chất được trợ giúp](#M03-body-P124)
+- [Vật thực bên ngoài và vật thực bên trong](#M03-body-P125)
+- [Vật thực bên ngoài trợ cho vật thực bên trong](#M03-body-P126)
+- [Quán trong lúc đang ăn](#M03-body-P127)
+- [Quán sau khi ăn và ví dụ ở cửa mắt](#M03-body-P128)
+- [Dưỡng chất do nghiệp sinh ở cửa mắt](#M03-body-P129)
+- [Dưỡng chất do tâm sinh ở cửa mắt](#M03-body-P130)
+- [Dưỡng chất do thời tiết sinh ở cửa mắt](#M03-body-P131)
+- [Dưỡng chất do vật thực sinh ở cửa mắt](#M03-body-P132)
+- [Điều cốt yếu cần ghi nhớ](#M03-body-P133)
+- [Điều cần lưu ý về sắc do thời tiết sinh](#M03-body-P134)
+- [Khi sắc do nghiệp sinh chấm dứt](#M03-body-P135)
+- [Sắc còn tiếp tục sau khi sắc do nghiệp sinh chấm dứt](#M03-body-P136)
+- [Quán sự sinh nối tiếp ở các nhóm sắc](#M03-body-P137)
+- [Cách quán đề mục tứ đại chi tiết](#M03-body-P138)
+- [Bốn thể phần có hỏa đại trội](#M03-body-P139)
+- [Sáu thể phần có phong đại trội](#M03-body-P140)
+- [Cách quán gió và hơi thở](#M03-body-P141)
+- [Các nhóm sắc trong hơi thở và chín nhóm do nghiệp sinh](#M03-body-P142)
+- [Chín nhóm do nghiệp sinh và tám nhóm do tâm sinh](#M03-body-P143)
+- [Thành phần các nhóm sắc do tâm sinh](#M03-body-P144)
+- [Quán thân biểu tri khi co duỗi](#M03-body-P145)
+- [Quán khẩu biểu tri và âm thanh](#M03-body-P146)
+- [Bốn nhóm sắc do thời tiết sinh](#M03-body-P147)
+- [Ba loại âm thanh](#M03-body-P148)
+- [Hai nhóm sắc do vật thực sinh](#M03-body-P149)
+- [Cách quán bốn sắc đặc tướng](#M03-body-P150)
+- [Sự sinh và diệt của sắc](#M03-body-P151)
+- [Thời điểm hỏa đại bắt đầu làm sinh sắc](#M03-body-P152)
+- [Sắc do thời tiết và vật thực sinh trong các sát-na](#M03-body-P153)
+- [Sắc sinh, trụ và diệt trong cùng một sát-na tâm](#M03-body-P154)
+- [Sự nối tiếp che lấp tính sinh diệt](#M03-body-P155)
+- [Khi nào quán “sắc, sắc”](#M03-body-P156)
+- [Đặc tính biến đổi của sắc](#M03-body-P157)
+- [Điều cần ghi nhớ khi quán sắc](#M03-body-P158)
+- [Biết sắc theo số lượng và nguồn sinh](#M03-body-P159)
+- [Tinh cần để biết sắc đúng như thật](#M03-body-P160)
+- [Kết phần quán sắc](#M03-body-P161)
+- [Phần oai nghi và tỉnh giác](#M03-body-P162)
+- [Cách quán oai nghi và tỉnh giác](#M03-body-P163)
+- [Bốn oai nghi và bảy nhóm hoạt động có tỉnh giác](#M03-body-P164)
+- [Mối liên hệ giữa oai nghi và tỉnh giác](#M03-body-P165)
+- [Ba phạm vi quán oai nghi](#M03-body-P166)
+- [Quán trong lúc thực hiện và sau khi thực hiện](#M03-body-P167)
+- [Sự biết có khả năng đoạn trừ tưởng về chúng sinh](#M03-body-P168)
+- [Ai đi, sự đi của ai, và do đâu mà đi](#M03-body-P169)
+- [Tâm muốn đi và phong đại](#M03-body-P170)
+- [Sắc làm chuyển động và sắc được chuyển động](#M03-body-P171)
+- [Hai cách phân biệt sắc trong oai nghi](#M03-body-P172)
+- [Các sắc sinh ở vị trí mới](#M03-body-P173)
+- [Những tâm làm sinh và nâng đỡ sắc oai nghi](#M03-body-P174)
+- [Sắc do tâm sinh có mặt ở cả hai bên](#M03-body-P175)
+- [Cách thực hành khi đứng rồi đi](#M03-body-P176)
+- [Biết thân đang ở oai nghi nào](#M03-body-P177)
+- [Một câu kinh bao quát cả bốn oai nghi](#M03-body-P178)
+- [Một cách giải thích của vị Sớ giải sư](#M03-body-P179)
+- [Quán sắc nổi bật và sắc không nổi bật trong bốn oai nghi](#M03-body-P180)
+- [Khi nêu ví dụ trong đời thường](#M03-body-P181)
+- [Những trường hợp quán tương tự](#M03-body-P182)
+- [Bốn loại tỉnh giác](#M03-body-P183)
+- [Tỉnh giác về cảnh hành và tỉnh giác không mê lầm](#M03-body-P184)
+- [Dòng tâm nối tiếp và tỉnh giác không mê lầm](#M03-body-P185)
+- [Quán năm uẩn trong các oai nghi và hoạt động](#M03-body-P186)
+- [Tóm lược những điểm cần ghi nhớ khi quán](#M03-body-P187)
+- [Kết thúc phần đề mục thiền về sắc](#M03-body-P188)
+- [Chỉ mục theo thứ tự chữ cái Miến — 189](#M03-index-P001)
+- [Chỉ mục theo thứ tự chữ cái Miến — 190](#M03-index-P002)
+- [Chỉ mục theo thứ tự chữ cái Miến — 191](#M03-index-P003)
+- [Chỉ mục theo thứ tự chữ cái Miến — 192](#M03-index-P004)
+- [Chỉ mục theo thứ tự chữ cái Miến — 193](#M03-index-P005)
+- [Chỉ mục theo thứ tự chữ cái Miến — 194](#M03-index-P006)
+- [Chỉ mục theo thứ tự chữ cái Miến — 195](#M03-index-P007)
+- [Chỉ mục theo thứ tự chữ cái Miến — 196](#M03-index-P008)
+- [Chỉ mục theo thứ tự chữ cái Miến — 197](#M03-index-P009)
+
+<a id="M03-cover-P001"></a>
+## Bìa trước và bìa sau
+Bìa / Cover
+
+Nibbānagāminipaṭipadā — Đường đến Niết-bàn (bản lược), Cuốn 3. Phần đề mục sắc (Rūpakammaṭṭhāna). Pa-Auk Tawya Sayadaw.
+
+Kathañca, bhikkhave, bhikkhu na rūpaññū hoti? Idha, bhikkhave, bhikkhu “yaṃ kiñci rūpaṃ sabbaṃ rūpaṃ cattāri mahābhūtāni catunnañca mahābhūtānaṃ upādāyarūpan”ti yathābhūtaṃ nappajānāti. Evaṃ kho, bhikkhave, bhikkhu na rūpaññū hoti.
+
+Này các tỳ-khưu, thế nào là một vị tỳ-khưu không biết rõ sắc? Ở đây, vị tỳ-khưu không biết đúng như thật rằng mọi sắc đều là bốn sắc đại chủng và hai mươi bốn sắc y sinh nương vào bốn sắc đại chủng. Này các tỳ-khưu, như vậy là vị tỳ-khưu không biết rõ sắc. (Ma 1,282.)
+
+So gaṇanato (samuṭṭhānato) rūpaṃ ajānanto rūpaṃ pariggahetvā arūpaṃ vavatthapetvā rūpārūpaṃ pariggahetvā paccayaṃ sallakkhetvā lakkhaṇaṃ āropetvā kammaṭṭhānaṃ matthakaṃ pāpetuṃ na sakkoti. [CHƯA XÁC MINH cách đọc chữ ghép trong câu Pāli.]
+
+Nếu vị tỳ-khưu hành thiền không biết các pháp sắc theo số lượng là hai mươi tám sắc, cũng như theo nguyên nhân sinh khởi là nghiệp, tâm, thời tiết và vật thực, thì không thể phân biệt sắc bằng tuệ, xác định danh, phân biệt danh sắc cùng nhau, nhận rõ các duyên của danh sắc, đặt chúng dưới ba đặc tính và đưa đề mục minh sát đến chỗ tột cùng là tuệ đạo và tuệ quả. (Ma-ṭṭha 2,63.)
+
+
+<a id="M03-front-P001"></a>
+## Trang nhan đề
+Đầu sách / Front matter - 1
+
+Nibbānagāminipaṭipadā
+
+Đường đến Niết-bàn (bản lược) — Cuốn 3
+
+Phần đề mục sắc (Rūpakammaṭṭhāna)
+
+Pa-Auk Tawya Sayadaw
+
+
+<a id="M03-front-P002"></a>
+## Pháp thí và lời nguyện
+Đầu sách / Front matter - 2
+
+Sabbadānaṃ dhammadānaṃ jināti.
+Sabbarasaṃ dhammaraso jināti.
+Sabbaratiṃ dhammarati jināti.
+Taṇhakkhayo sabbadukkhaṃ jināti.
+
+Pháp thí thắng mọi sự bố thí.
+Vị của Pháp thắng mọi hương vị.
+Niềm vui trong Pháp thắng mọi niềm vui.
+Sự diệt tận ái thắng mọi khổ đau.
+
+Ciraṃ tiṭṭhatu saddhammo, dhamme hontu sagāravā.
+
+Mong Chánh pháp của Đức Phật tồn tại lâu dài.
+Mong mọi người tôn kính ba loại Chánh pháp.
+
+
+<a id="M03-front-P003"></a>
+## Mục lục — က
+Đầu sách / Front matter - 3
+
+Namo tassa bhagavato arahato sammāsambuddhassa.
+Kính lễ Đức Thế Tôn, bậc A-la-hán, bậc Chánh Đẳng Giác.
+
+Phần đề mục sắc — Mục lục
+
+Đề mục tứ đại — 1
+
+Cách thực hành đề mục tứ đại tóm lược — 1
+
+Bốn sắc đại chủng — 3
+
+Bắt đầu từ chữ tròn ဝ — 5
+
+Điểm cần ghi nhớ (a) — Quán cho cân bằng các đại — 14
+
+(b) Kéo các đại từ chỗ này sang chỗ khác — 15
+
+(c) Cứng, nhám, nặng — mềm, trơn, nhẹ — 16
+
+(d) Quán theo quy ước về oai nghi — 22
+
+(e) Khi chưa phải là hành giả thuần thục thiền chỉ — 22
+
+Các nguyên tắc cần tuân theo — 23
+
+1. Anupubbato — quán theo thứ tự — 24
+
+2. Nātisīghato — đừng quá nhanh — 24
+
+3. Nātisaṇikato — đừng quá chậm — 24
+
+4. Vikkhepapaṭibāhanato — ngăn tâm tán loạn sang cảnh ngoài — 25
+
+5. Paññattisamatikkamato — vượt qua tên gọi chế định — 27
+
+6. Anupubbamuñcanato — lần lượt buông những đại chưa hiện rõ — 27
+
+
+<a id="M03-front-P004"></a>
+## Mục lục — ခ
+Đầu sách / Front matter - 4
+
+7. Lakkhaṇato — ưu tiên quán đặc tính riêng — 28
+
+8. Kinh Adhicitta, tức kinh Nimitta (Aṅ 1,258) — 31
+
+9. Kinh Anuttarasītibhāva (Aṅ 2,379) — 31
+
+10. Kinh Bojjhaṅga (Saṃ 3,71–73) — 31
+
+Cách quân bình năm căn — 31
+
+Cách quân bình bảy giác chi — 36
+
+Ánh sáng và phạm vi của cận định — 38
+
+Giải thích thêm — 42
+
+Các khó khăn — 48
+
+Sáu loại trong suốt — 52
+
+Phân tích các đại trong nhóm sắc — 54
+
+Doṇamatta — khoảng một đấu [CHƯA XÁC MINH cách diễn đạt đơn vị Miến] — 59
+
+Ý niệm chúng sinh và ý niệm tự ngã đã tan — 61
+
+Ba loại khối sắc (rūpaghana) — 64
+
+Trong các pháp sắc không có khối về cảnh (ārammaṇaghana) — 67
+
+Quán xét theo các đại (dhātuso paccavekkhati) — 69
+
+Cách phân biệt các sắc y sinh — 72
+
+Vaṇṇa — màu sắc — 78
+
+Gandha — mùi — 78
+
+Rasa — vị — 79
+
+Ojā — dưỡng chất — 80
+
+Jīvita — mạng quyền của sắc — 81
+
+Sắc tính — sắc biểu hiện nam tính và nữ tính — 82
+
+Các bảng trong phần đề mục sắc — 84
+
+
+<a id="M03-front-P005"></a>
+## Mục lục — ဂ
+Đầu sách / Front matter - 5
+
+Thế nào là ý môn — 90
+
+Cách phân tích nhóm sắc ở sáu môn — cách phân biệt sắc — 91
+
+Sắc trong suốt của mắt — 92
+
+Sắc trong suốt của thân — 92
+
+Nhãn tịnh sắc — 93
+
+Thân tịnh sắc — 94
+
+Nhĩ tịnh sắc — 95
+
+Tỷ tịnh sắc — 96
+
+Thiệt tịnh sắc — 97
+
+Nơi nương của thân — thân môn — 98
+
+Ý môn — sắc ý vật — 99
+
+Sự trong sáng của ý môn hữu phần và thân tịnh sắc — 100
+
+Ghi chú — 101
+
+Hai mươi tám sắc — 103
+
+(1) Bốn sắc đại chủng — 103
+
+(2) Năm sắc tịnh (pasādarūpa), tức các sắc trong suốt — 103
+
+(3) Bảy sắc cảnh (gocararūpa) — 104
+
+(4) Hai sắc tính — 104
+
+(5) Một sắc ý vật — 104
+
+(6) Một sắc mạng quyền — 105
+
+(7) Một sắc vật thực — 105
+
+(8) Một sắc giới hạn — 106
+
+(9) Hai sắc biểu tri — 106
+
+(10) Sắc biến hóa, năm loại hoặc ba loại — 106
+
+(11) Bốn sắc đặc tướng — 107
+
+
+<a id="M03-front-P006"></a>
+## Mục lục — ဃ
+Đầu sách / Front matter - 6
+
+Cách quán sắc do tâm sinh — 109
+
+Cách quán sắc do thời tiết sinh — 110
+
+Cách quán sắc do vật thực sinh — 115
+
+Một mẫu quán ở mắt — 128
+
+Điểm cốt yếu cần ghi nhớ — 133
+
+Điều cần chú ý — 134
+
+Cách quán đề mục tứ đại chi tiết — 138
+
+Bốn thân phần có hỏa đại trội — 139
+
+Sáu thân phần có phong đại trội — 140
+
+Chín nhóm sắc do nghiệp sinh — 142
+
+Tám nhóm sắc do tâm sinh — 143
+
+Bốn nhóm sắc do thời tiết sinh — 147
+
+Ba âm thanh — 148
+
+Hai nhóm sắc do vật thực sinh — 149
+
+Cách quán bốn sắc đặc tướng — 150
+
+Cách quán sắc sinh và diệt — 151
+
+Khi nào cần quán “sắc, sắc” — 156
+
+Tính chất biến đổi — 157
+
+Điều cần ghi nhớ khi quán sắc — 158
+
+Hãy thúc đẩy sự tinh cần — 158
+
+Phần hiểu biết rõ về oai nghi — 163
+
+Cách quán với sự hiểu biết rõ về oai nghi — 163
+
+Yathā yathā vā panassa kāyo paṇihito hoti — 177
+
+Một cách giải của vị soạn phụ chú giải — 179
+
+
+<a id="M03-front-P007"></a>
+## Mục lục — င
+Đầu sách / Front matter - 7
+
+Khi đưa ra ví dụ thế gian — 181
+
+Các cách quán tương tự — 182
+
+Bốn loại tỉnh giác (sampajañña) — 183
+
+Tóm lược điều cốt yếu cần nhớ khi quán — 187
+
+
+<a id="M03-body-P001"></a>
+## Phần đề mục sắc — Đề mục tứ đại
+Miến / Burmese 1
+
+Namo tassa bhagavato arahato sammāsambuddhassa.
+Kính lễ Đức Thế Tôn, bậc A-la-hán, bậc Chánh Đẳng Giác.
+
+Để phân biệt và biết rõ sắc, danh cùng nhân và quả của chúng, tức các pháp hành trong hai dòng tương tục bên trong và bên ngoài suốt ba thời, bằng ba loại tuệ liễu tri (pariññā), trước hết phải phát triển một trong hai loại định: cận định và an chỉ định. Trong hai cuốn trước của Nibbānagāminipaṭipadā (bản lược), phần đề mục thiền chỉ đã trình bày về định và tâm thanh tịnh. Nay sẽ trình bày tiếp phần đề mục sắc, tức cách nhận diện và phân biệt bằng tuệ các pháp sắc thuộc kiến thanh tịnh.
+
+Cách thực hành đề mục tứ đại tóm lược
+
+Duvidhañhi kammaṭṭhānaṃ — rūpakammaṭṭhānaṃ arūpakammaṭṭhānañca. Rūpapariggaho arūpapariggahotipi etadeva vuccati. Tattha bhagavā rūpakammaṭṭhānaṃ kathento saṅkhepamanasikāravasena vā vitthāramanasikāravasena vā catudhātuvavatthānaṃ katheti. (Abhi-ṭṭha 2,252; Ma-ṭṭha 1,280; Dī-ṭṭha 2,314.)
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Abhi-ṭṭha, tập 2, tr. 252; Ma-ṭṭha, tập 1, tr. 280; Dī-ṭṭha, tập 2, tr. 314.
+
+
+<a id="M03-body-P002"></a>
+## Hai cách tác ý về tứ đại
+Miến / Burmese 2
+
+Phần thiền chỉ có bốn mươi đề mục thiền chỉ, tức phần định. Phần minh sát có hai loại là đề mục sắc và đề mục danh. Cũng gọi là phân biệt sắc (rūpapariggaha), tức nhận diện và phân biệt sắc bằng tuệ, và phân biệt danh (arūpapariggaha), tức nhận diện và phân biệt danh bằng tuệ. Khi dạy đề mục sắc, Đức Phật dạy cách xác định bốn đại (catudhātuvavatthāna), tức dùng tuệ phân biệt đặc tính riêng của mỗi đại, theo một trong hai cách:
+1. Tác ý tóm lược.
+2. Tác ý chi tiết.
+
+Trong sách này, trước hết trình bày cách tu tập đề mục tứ đại tóm lược, sau đó trình bày cách tu tập chi tiết.
+
+Puna caparaṃ, bhikkhave, bhikkhu imameva kāyaṃ yathāṭhitaṃ yathāpaṇihitaṃ dhātuso paccavekkhati: “Atthi imasmiṃ kāye pathavīdhātu āpodhātu tejodhātu vāyodhātū”ti. (Ma 1,73.)
+
+Lại nữa, này các tỳ-khưu, vị tỳ-khưu quán xét chính thân này, dù đang ở tư thế nào, được đặt như thế nào, theo các đại: “Trong thân này có địa đại, có thủy đại, có hỏa đại, có phong đại.” Vị ấy quán xét từng đại một theo cách ấy. (Ma 1,73.)
+
+Lời dạy trên là cách tu tập đề mục tứ đại trong phần tác ý các đại của kinh Mahāsatipaṭṭhāna. Hành giả hãy đưa bàn tay là tuệ vào giữa xương, gân…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Abhi-ṭṭha, tập 2, tr. 252; Ma-ṭṭha, tập 1, tr. 280; Dī-ṭṭha, tập 2, tr. 314; Ma, tập 1, tr. 73.
+
+
+<a id="M03-body-P003"></a>
+## Bốn sắc đại chủng và mười hai tính chất
+Miến / Burmese 3
+
+…thịt và da của thân này. Hãy dùng tuệ soi xét để biết và thấy đặc tính riêng của từng đại: địa, thủy, hỏa và phong. Nếu chưa thể thấy dễ dàng ngay như vậy, hãy đưa bàn tay là tuệ vào giữa xương, gân, thịt và da, rồi lần lượt quán từ đầu đến bàn chân, từ bàn chân lên đầu, theo cách dưới đây.
+
+1. Địa đại (pathavīdhātu)
+Ba tính chất của địa đại thô: cứng, nhám, nặng.
+Ba tính chất của địa đại nhẹ: mềm, trơn, nhẹ.
+
+2. Thủy đại (āpodhātu)
+Chảy và kết dính.
+
+3. Hỏa đại (tejodhātu)
+Nóng và lạnh.
+
+4. Phong đại (vāyodhātu)
+Nâng đỡ và đẩy.
+
+Cứng, nhám, nặng, mềm, trơn, nhẹ là đặc tính của địa đại…
+
+
+<a id="M03-body-P004"></a>
+## Quán từng tính chất khắp thân
+Miến / Burmese 4
+
+…Chảy và kết dính là đặc tính của thủy đại. Nóng và lạnh là đặc tính của hỏa đại. Nâng đỡ là đặc tính của phong đại, còn đẩy là phận sự của phong đại.
+
+Trước hết hãy an lập lại tứ thiền niệm hơi thở đã đạt. Nếu muốn, có thể an lập định đến tứ thiền kasiṇa trắng. Mỗi lần ngồi thiền hãy nhớ an lập định. Sau đó:
+
+1. Bắt đầu nơi tính cứng hiện rõ, quán để thấy tính cứng khắp thân, từ đầu đến bàn chân. Cũng theo cách ấy:
+2. Bắt đầu nơi tính nhám hiện rõ, quán tính nhám. Pe.
+3. Bắt đầu nơi tính nặng hiện rõ, quán tính nặng. Pe.
+4. Bắt đầu nơi tính mềm hiện rõ, quán tính mềm. Pe.
+5. Bắt đầu nơi tính trơn hiện rõ, quán tính trơn. Pe.
+6. Bắt đầu nơi tính nhẹ hiện rõ, quán tính nhẹ. Pe.
+7. Bắt đầu nơi tính chảy hiện rõ, quán tính chảy. Pe.
+8. Bắt đầu nơi tính kết dính hiện rõ, quán tính kết dính. Pe.
+9. Bắt đầu nơi tính nóng hiện rõ, quán tính nóng. Pe.
+10. Bắt đầu nơi tính lạnh hiện rõ, quán tính lạnh. Pe.
+11. Bắt đầu nơi tính nâng đỡ hiện rõ, quán tính nâng đỡ. Pe.
+12. Bắt đầu nơi tính đẩy hiện rõ, quán để thấy tính đẩy khắp thân, từ đầu đến bàn chân.
+
+
+<a id="M03-body-P005"></a>
+## Bắt đầu bằng tính đẩy
+Miến / Burmese 5
+
+Trong mười hai tính chất của các đại này, dù quán tính chất nào, hãy thấy tính chất ấy lan khắp thân, có mặt khắp thân. Trước hết hãy thử quán tính cứng để thấy nó khắp thân. Nếu thành công, tiếp tục quán các tính chất còn lại. Nếu chưa thành công, hãy bắt đầu quán tính đẩy. Tính đẩy hỗ trợ rất nhiều để thấy các tính chất còn lại bằng tuệ.
+
+Bắt đầu từ chữ tròn “ဝ”
+
+Trong ba mươi ba chữ cái, tuy có thứ tự bắt đầu bằng ka và kha, khi dạy trẻ nhỏ người ta bắt đầu với chữ tròn “ဝ” vì chữ ấy dễ học. Cũng vậy, tính đẩy của phong đại giống như chữ “ဝ”. Nhiều hành giả thấy tính ấy dễ quán. Vì thế nếu cách trên chưa thành công, hãy bắt đầu từ tính dễ như chữ “ဝ”.
+
+Vị thiện nhân hãy đặt tâm tu tập ở khoảng giữa đỉnh đầu. Mỗi khi hơi thở vào hay ra, hãy soi bằng tuệ ngay nơi ấy để thấy tính đẩy. Trong khi thở vào và thở ra, hãy liên tục soi bằng tuệ tính đẩy. Đừng nhìn hơi. Nó giống như sức đẩy phía trong má khi thổi ống. Khi thấy tính đẩy, chỉ đặt tâm tu tập yên tĩnh trên tính đẩy ấy.
+
+Nếu vẫn chưa thành công, hãy an lập lại tứ thiền niệm hơi thở đã đạt hoặc, nếu muốn, tứ thiền kasiṇa trắng…
+
+
+<a id="M03-body-P006"></a>
+## Nhận ra tính đẩy trong toàn thân
+Miến / Burmese 6
+
+…Hãy an lập lại định. Khi sức định đã mạnh, hãy quán tính đẩy một lần nữa theo cách trên.
+
+Tứ thiền niệm hơi thở hoặc tứ thiền kasiṇa trắng, như đã trình bày trước trong sách này, là nền tảng và là nhân trợ giúp cho minh sát của vị thiện nhân. Hãy phát triển định ấy cho đến khi có đủ sức mạnh và ánh sáng mạnh. Đây là một nguyên tắc cần theo mỗi lần ngồi thiền, nhất là khi gặp khó khăn.
+
+Khi thấy rõ tính đẩy bên trong đầu, hãy giữ tâm tu tập yên tĩnh trên chính tính đẩy ấy. Khi tâm an trú yên tĩnh trên đó, tính đẩy sẽ hiện càng rõ. Khi nó hiện rõ, hãy từng bước quán bằng tuệ cho đến khi thấy rõ tính đẩy từ bên trong đầu đến bên ngoài đầu. Hãy đưa bàn tay là tuệ vào giữa xương, gân, thịt và da mà quán. Khi thấy rõ tính đẩy khắp đầu, hãy hướng tuệ xuống cổ, ngực, bụng và toàn thân. Đưa bàn tay là tuệ vào giữa xương, gân, thịt và da để quán. Khi thấy rõ tính đẩy khắp thân từ đầu đến chân, vị thiện nhân đã thành công trong việc quán một tính chất của đại. Như vậy đã viết được một chữ “ဝ” trọn vẹn. Nếu khi hơi thở vào ra…
+
+
+<a id="M03-body-P007"></a>
+## Từ tính đẩy đến tính cứng và tính nhám
+Miến / Burmese 7
+
+…tính đẩy chưa hiện rõ ở nơi đang đặt tâm, hoặc nếu tâm muốn bắt đầu quán ở bụng hơn, cũng có thể bắt đầu từ chỗ tính đẩy hiện rõ ở bụng. Từ đó tiếp tục quán để thấy tính đẩy khắp toàn thân.
+
+Khi thấy rõ một tính chất đẩy khắp toàn thân, theo cách ấy hãy bắt đầu ở nơi tính cứng hiện rõ, nhất là chỗ hai hàm răng chạm nhau. Quán cho đến khi thấy tính cứng khắp thân. Khi đã rõ, hãy quán đi quán lại hai tính chất đẩy và cứng. Hãy tập làm chủ hai tính ấy trong mọi oai nghi, như đi, đứng và ngồi.
+
+Khi quán đi quán lại đẩy và cứng, có thể thấy bằng tuệ tính nhám, tức thô ráp. Có thể thấy tính nhám như khi lấy tay vuốt thân thể. Nếu chưa thấy, bắt đầu ở nơi tính nhám hiện rõ. Lật bàn tay lên, dùng lòng bàn tay chà vào y. Lấy lưỡi chà lên đầu răng trên. Có thể thấy rõ tính nhám. Khi nó hiện rõ, bắt đầu ở nơi ấy và tiếp tục quán để thấy tính nhám khắp thân. Nếu chưa thành công, ở nơi tính nhám hiện rõ, hãy quán chung với đẩy và cứng. Nương vào tính đã hiện rõ để tìm ra tính chưa hiện, như dùng voi đã thuần để dụ bắt voi rừng. Nếu thành công thì tốt. Nếu chưa thành công, hãy an lập lại…
+
+
+<a id="M03-body-P008"></a>
+## Tính nặng và tính nâng đỡ
+Miến / Burmese 8
+
+…các định thiền đã đạt.
+
+Samāhito yathābhūtaṃ jānāti passati. (Aṅ 3,259.)
+Người có định biết và thấy đúng như thật, không sai lệch. Vì Đức Phật đã dạy như vậy, hãy an lập lại cho định được đầy đủ sức mạnh. Khi định đã mạnh, hãy quán lại các tính đẩy, cứng và nhám.
+
+Khi đã thành công, bắt đầu ở nơi tính nặng hiện rõ và quán để thấy tính nặng khắp thân. Nếu chưa rõ, hãy dùng mông ấn nhẹ xuống chỗ ngồi, hoặc ấn nhẹ bàn tay đặt trên đùi. Khi thành công, hãy ghi nhận. Hãy quán đi quán lại các tính đẩy, cứng, nhám và nặng. Dù chỉ quán một tính chất, nếu các tính chất khác cùng hiện rõ trong tuệ thì càng tốt.
+
+Sau đó tiếp tục quán tính nâng đỡ. Ví như một căn nhà sắp đổ được chống bằng một cây gỗ, nhờ thế đứng vững không sụp, trong thân này cũng có tính chất nâng đỡ và duy trì tư thế. Khi đi, nó nâng đỡ để thân đi không ngã. Khi đứng, nó nâng đỡ để thân đứng không ngã. Khi ngồi, nó nâng đỡ để thân ngồi không ngã. Khi nằm, nó nâng đỡ và duy trì tư thế nằm…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Aṅ, tập 3, tr. 259.
+
+
+<a id="M03-body-P009"></a>
+## Nhận ra tính nâng đỡ và tính mềm
+Miến / Burmese 9
+
+…Đó là tính nâng đỡ. Nếu quán tính nâng đỡ cùng với tính cứng, có thể hiểu dễ hơn. Nếu nó chưa rõ, hãy hơi nghiêng người, rồi dùng tuệ thấy cái nâng đỡ, giữ cho thân đứng vững, không ngã. Có thể thành công. Khi thành công, tiếp tục thấy tính nâng đỡ khắp thân. Quán cùng tính cứng, như thấy sự nâng đỡ giữ thân trong mỗi tư thế không ngã, giống một căn nhà được chống bằng cột. Do dễ nhận ra theo cách ấy, ở đây dạy quán phong đại nâng đỡ sau khi đã quán cứng, nhám và nặng của địa đại thô. Đó là cách tiến từ dễ đến khó.
+
+Khi thành công, hãy nhiều lần quán đi quán lại năm tính chất đẩy, cứng, nhám, nặng và nâng đỡ. Đó là mài lưỡi dao tuệ cho sắc trên hòn đá quý là định. Khi đã thành thạo, quán tiếp tính mềm. Hãy dùng lưỡi chạm nhẹ vào phía trong môi dưới, lấy tính mềm làm cảnh. Có thể nhận ra tính mềm dịu. Hãy giữ tâm tu tập yên tĩnh trên tính mềm ấy.
+
+Khi nó hiện rõ, tiếp tục quán để thấy tính mềm từ bàn chân đến đỉnh đầu, khắp toàn thân. Hãy cố gắng thấy tính mềm khắp thân như một khối bông đã được đánh tơi.
+
+Khi đã thấy tính mềm một cách thuần thục…
+
+
+<a id="M03-body-P010"></a>
+## Tính trơn, nhẹ và nóng
+Miến / Burmese 10
+
+…hãy quán tiếp tính trơn. Dùng lưỡi chạm vào bên trong môi, nơi đã thấy tính mềm, cho ướt bằng nước bọt rồi vuốt nhẹ. Có thể thấy tính trơn. Hãy giữ tâm tu tập yên tĩnh trên tính trơn ấy. Khi nó hiện rõ, tiếp tục quán để thấy nó khắp thân, như thấy một thân được thoa dầu, trơn nhẵn khi vuốt.
+
+Khi thấy như vậy, quán tiếp tính nhẹ. Nếu quán đi quán lại tính mềm và trơn, tính nhẹ có thể tự nhiên hiện rõ trong tuệ của vị thiện nhân. Nếu chưa rõ, hãy nhẹ nhàng nhấc một ngón tay hay một bàn tay đang đặt trên đùi. Tính nhẹ có thể hiện rõ. Nếu chưa rõ, quán lại tính nặng. Khi thấy rõ tính nặng khắp thân, hãy chậm rãi nhấc một ngón tay đang đặt trên đùi như trên. Hãy chú tâm xem tính nhẹ. Có thể thấy rõ tính nhẹ, như một miếng bông bay trong gió.
+
+Cứng, nhám, nặng, mềm, trơn và nhẹ thuộc địa đại. Nâng đỡ và đẩy thuộc phong đại. Hãy nhận diện tám tính chất của các đại này rồi quán nhiều lần. Khi đã thành thạo, quán tiếp tính nóng của hỏa đại. Khi đặt bàn tay phải lên bàn tay trái, có thể thấy tính nóng trong bàn tay phải. Lấy tính nóng ấy làm cảnh mà quán. Cũng có thể quán ở bất cứ chỗ nào trên thân mà tính nóng hiện rõ. Khi soi xét tính nóng như vậy…
+
+
+<a id="M03-body-P011"></a>
+## Tính lạnh, kết dính và chảy
+Miến / Burmese 11
+
+…và tính nóng hiện rõ trong tuệ, hãy đưa bàn tay là tuệ vào giữa xương, gân, thịt và da, quán để thấy rõ tính nóng khắp thân.
+
+Khi thành công, tiếp tục quán tính lạnh. Có thể quán ở bất cứ nơi nào tính lạnh hiện rõ. Nếu khó tìm, hãy quán để thấy tính lạnh ở đầu mũi khi hơi vào. Chỉ lấy tính lạnh làm cảnh. Khi nó dần hiện rõ, tiếp tục quán tính lạnh khắp thân.
+
+Khi thấy tính lạnh từ bàn chân đến đỉnh đầu, việc quán hỏa đại đã thành công. Như vậy đã nhận ra mười tính chất: cứng, nhám, nặng, mềm, trơn, nhẹ, nóng, lạnh, nâng đỡ và đẩy. Nếu nhiều lần quán đi quán lại mười tính ấy, đặc tính kết dính của thủy đại có thể hiện rõ trong tuệ. Nếu đã cố gắng mà tính kết dính chưa rõ, hãy chỉ quán đi quán lại hai tính đẩy và cứng. Tính kết dính sẽ hiện rõ. Đó là tính chất giữ thân gắn kết, như lấy dây buộc chặt toàn thân.
+
+Khi thấy rõ tính kết dính bằng tuệ, bắt đầu ở một nơi tính chảy hiện rõ và quán để thấy tính chảy. Nếu chưa nhận ra, hãy bắt đầu từ gốc răng, nơi nước bọt chảy ra, rồi quán cho đến khi thấy tính chảy khắp thân…
+
+
+<a id="M03-body-P012"></a>
+## Quán đủ mười hai tính chất theo thứ tự
+Miến / Burmese 12
+
+…Vị thiện nhân đã thuần thục quán ba mươi hai thân phần cũng đã biết cách quán mười hai thân phần có thủy đại trội. Khi đặt tâm quán một thân phần có tính chảy trội, như máu, việc này càng dễ. Nếu thấy được tính chảy khắp thân, như dòng nước chảy lên xuống, thì đã thành công trong việc quán hai tính của thủy đại. Lúc ấy hãy quán đi quán lại mười hai tính theo thứ tự: đẩy, cứng, nhám, nặng, nâng đỡ, mềm, trơn, nhẹ, nóng, lạnh, kết dính và chảy. Mỗi lần quán một tính, hãy cố thấy rõ khắp thân từ bàn chân đến đỉnh đầu, từ đầu đến chân. Sau đó tập thấy nhanh. Mỗi lượt đủ mười hai tính là một vòng. Hãy tập được hai hoặc ba vòng trong một phút.
+
+Khi đã thành công theo cách luyện tập trên, đã học được chữ “ဝ”. Bấy giờ hãy đổi sang quán theo thứ tự Đức Phật dạy: cứng, nhám, nặng, mềm, trơn, nhẹ, chảy, kết dính, nóng, lạnh, nâng đỡ, đẩy. Cũng như khi đã viết thạo chữ “ဝ” thì học lại theo thứ tự ka, kha v.v. Khi đã quán nhanh theo thứ tự lời dạy:
+
+Taṃ taṃ anusārinā ñāṇahatthena vinibbhujitvā vinibbhujitvā … (Visuddhi 1,347.)
+
+Hãy đưa bàn tay là tuệ vào giữa xương, gân, thịt và da, dùng tuệ phân biệt riêng từng đặc tính của bốn đại…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Visuddhimagga, tập 1, tr. 347.
+
+
+<a id="M03-body-P013"></a>
+## Quán toàn thân và nhận diện từng đại
+Miến / Burmese 13
+
+…Cách quán ấy đã thành công, nhưng con đường chưa đến cuối. Có hành giả quán các tính chất của đại như vậy mà đã thấy các nhóm sắc. Cũng có hành giả chưa thấy. Người chưa thấy các nhóm sắc hãy thực hành theo lời:
+
+Sakalampi attano rūpakāyaṃ āvajjetvā. (Visuddhi 1,346.)
+
+Hướng tuệ đến toàn bộ sắc thân của chính mình. Theo chỉ dẫn của Visuddhimagga, hãy nhìn bao quát thân mình từ phía trên và quán mười hai tính: cứng, nhám, nặng, mềm, trơn, nhẹ, chảy, kết dính, nóng, lạnh, nâng đỡ và đẩy. Hãy tập nhìn bao quát toàn thân. Khi nhìn bao quát từ phía đầu, nhiều hành giả có thể thấy đầu trở nên nặng cứng, không chịu nổi sau một thời gian. Vì vậy hãy bắt đầu khoảng cổ trở xuống, nhìn bao quát và quán mười hai tính. Nếu có thể quán như vậy, chỉ lấy các tính chất của đại làm cảnh, đừng lấy thân làm cảnh. Khi thấy nhanh và rõ cả mười hai tính bằng tuệ, đến mức chúng như hiện đồng thời, hãy nhận diện cứng, nhám, nặng, mềm, trơn, nhẹ là địa đại, chảy và kết dính là thủy đại, nóng và lạnh là hỏa đại, nâng đỡ và đẩy là phong đại.
+
+Chưa thấy cứng, nhám, nặng, mềm, trơn, nhẹ thì chưa nên quán gọi là địa đại. Chưa thấy chảy, kết dính thì chưa nên quán gọi là thủy đại. Chưa thấy nóng, lạnh thì chưa nên quán gọi là hỏa đại. Chưa thấy nâng đỡ, đẩy thì chưa nên quán gọi là phong đại…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Visuddhimagga, tập 1, tr. 346.
+
+
+<a id="M03-body-P014"></a>
+## Điểm cần ghi nhớ — Quán cho cân bằng các đại
+Miến / Burmese 14
+
+…Hãy nhớ giữ cho đề mục không chỉ là lời nói. Nếu chưa thấy những tính chất ấy, trước hết hãy luyện để thấy. Chỉ khi từng tính chất đã được biết rõ, phân biệt rành rẽ bằng tuệ, hiện rõ như viên hồng ngọc trong lòng bàn tay, mới quán trong một thời gian dài là địa, thủy, hỏa, phong. Hãy giữ tâm tu tập yên tĩnh trên cảnh bốn đại và an lập định.
+
+(a) Quán cho cân bằng các đại
+
+Dù ở giai đoạn quán cho hiện rõ từng tính chất trong mười hai tính cứng, nhám, nặng, mềm, trơn, nhẹ, chảy, kết dính, nóng, lạnh, nâng đỡ và đẩy, hay ở giai đoạn quán địa, thủy, hỏa, phong, đừng chỉ chú ý một tính chất, một đại duy nhất quá lâu. Làm như vậy đại ấy có thể trở nên quá trội. Khi đó, nhất là khi cứng, đẩy hay nóng quá trội, hành giả có thể không chịu nổi. Cũng vậy, khi mềm, nhẹ hay kết dính quá trội thì cũng có thể không chịu nổi. Đại nào quá trội có thể làm trở ngại việc tu tập đến mức không đạt định. Vì thế đừng chỉ chú tâm quá lâu vào một đại. Hãy giữ cho bốn đại cân bằng khi quán.
+
+
+<a id="M03-body-P015"></a>
+## Các đại được nhận ra lần lượt ở những vị trí khác nhau
+Miến / Burmese 15
+
+Ruppanañcettha sītādivirodhipaccayasannipāte visadisuppatti. [CHƯA XÁC MINH dạng chuyển tự của câu Pāli.] (Mahāṭīkā 2,86.)
+
+Sắc có đặc tính bị biến đổi (ruppana). Sự biến đổi ấy nghĩa là do các duyên đối nghịch như lạnh và nóng, dòng sắc sinh sau khác với dòng sắc đã sinh trước. (Mahāṭīkā 2,86.)
+
+Pháp chân đế diệt ngay tại nơi nó sinh. Nó không chuyển từ chỗ này sang chỗ khác. Vì vậy khi bắt đầu quán tính đẩy từ trong đầu, đừng kéo tính đẩy sinh trong đầu xuống dần cho đến bàn chân. Tính đẩy hiện hữu khắp thân. Hãy dùng tuệ tìm và thấy tính đẩy ngay ở từng nơi nó hiện rõ, khắp thân. Đối với những tính chất khác, cũng hiểu như vậy. Bốn đại hiện hữu khắp thân, dù ở vị trí nào hay bộ phận nào. Chừng nào sức trợ giúp của các duyên còn tồn tại, các sắc là quả vẫn sinh khởi liên tục. Dòng sắc sinh trước và dòng sắc sinh sau khác nhau, nhưng sự sinh diệt nối tiếp diễn ra theo cùng một cách. Vì thế sắc không chuyển từ nơi này sang nơi khác. Do sức của các duyên, ở các vị trí khác nhau lại có những sắc mới…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Mahāṭīkā, tập 2, tr. 86.
+
+
+<a id="M03-body-P016"></a>
+## Sáu tính chất của địa đại
+Miến / Burmese 16
+
+Các sắc mới liên tục sinh lên. Vì vậy, đừng đem tính chất đã nhận biết ở chỗ này gán sang chỗ khác.
+
+(c) Cứng, nhám, nặng, mềm, trơn, nhẹ. Trong Kinh, khi giảng địa đại, Đức Phật nêu hai tính chất kakkaḷa, tức cứng, và kharigata, tức nhám. Trong Thanh tịnh đạo cũng giảng theo cách ấy. Nhưng khi phân tích xúc xứ trong Dhammasaṅgaṇī, Ngài dạy: “Kakkaḷaṃ mudukaṃ saṇhaṃ pharusaṃ (sukhasamphassaṃ dukkhasamphassaṃ) garukaṃ lahukaṃ.” Đó là cứng, mềm, trơn, nhám, xúc dễ chịu, xúc khó chịu, nặng và nhẹ.
+
+Aṭṭhasālinī giải thích: cứng là rắn chắc, mềm là không rắn chắc, trơn là nhẵn, nhám là thô ráp, xúc dễ chịu là xúc làm duyên cho thọ lạc, xúc khó chịu là xúc làm duyên cho thọ khổ, nặng là có sức nặng, nhẹ là không nặng. Sáu tính cứng, mềm, trơn, nhám, nặng và nhẹ thuộc địa đại. Xúc làm duyên cho thọ lạc và thọ khổ có thể thuộc địa đại, hỏa đại hoặc phong đại.
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Ma, tập 2, tr. 84; Visuddhimagga, tập 1, tr. 346; Abhi, tập 1, tr. 170; Abhi-ṭṭha, tập 1, tr. 368.
+
+
+<a id="M03-body-P017"></a>
+## Quân bình những tính chất đối nhau
+Miến / Burmese 17
+
+Thọ khổ ở đây là thọ khổ do xúc. Vì vậy xúc dễ chịu và xúc khó chịu không phải là những đặc tính riêng của ba đại ấy. Trong Dhammasaṅgaṇī, khi phân tích xúc đại, Đức Phật dạy sáu tính cứng, nhám, nặng, mềm, trơn, nhẹ. Aṭṭhasālinī đã giải thích rõ rằng sáu tính chất ấy được dạy riêng về địa đại.
+
+Trong các bài Kinh, ở chỗ dạy cách nhận biết địa đại, Đức Phật chỉ nêu cứng và nhám. Cách trình bày sáu tính chất ở đây dựa theo Dhammasaṅgaṇī và có lý do thực hành. Khi hành giả tu tập mười hai tính chất hoặc đề mục tứ đại, có lúc một số đại trở nên quá mạnh. Do vậy, có hành giả bị mất định và không nhận biết được các đại. Nhất là khi cứng, nặng và kết dính trở nên quá mạnh, cả đầu có thể nặng cứng, đến mức khó chịu đựng. Khi ấy, hãy ưu tiên nhận biết tính chất đối lại để quân bình các đại.
+
+1. Cứng quá thì ưu tiên nhận biết mềm, mềm quá thì ưu tiên nhận biết cứng, để quân bình các đại.
+2. Nhám quá thì nhận biết trơn, trơn quá thì nhận biết nhám. Pe.
+3. Nặng quá thì nhận biết nhẹ, nhẹ quá thì nhận biết nặng. Pe.
+
+
+<a id="M03-body-P018"></a>
+## Điều chỉnh khi một đại trở nên quá mạnh
+Miến / Burmese 18
+
+4. Chảy quá thì nhận biết kết dính, kết dính quá thì nhận biết chảy. Pe.
+5. Nóng quá thì nhận biết lạnh, lạnh quá thì nhận biết nóng. Pe.
+6. Nâng đỡ quá thì nhận biết đẩy, đẩy quá thì ưu tiên nhận biết nâng đỡ, để quân bình các đại.
+
+Sáu tính chất của địa đại được trình bày ở đây để hành giả có thể xử lý những khó khăn như vậy. Có lúc cứng, nhám và nặng nổi lên rất rõ, đến mức không chịu nổi. Khi ấy, hãy tạm ưu tiên nhận biết mềm, trơn và nhẹ, cố gắng cho đến khi các đại quân bình. Nếu mềm, trơn và nhẹ trở nên quá mạnh, có lúc thân như đang trôi nổi trên không. Khi ấy, hãy ưu tiên nhận biết cứng, nhám và nặng để lập lại quân bình.
+
+Có lúc tính chảy mạnh đến mức như nước sông đang chảy, khiến định suy giảm. Hãy ưu tiên nhận biết tính kết dính. Nếu kết dính lại nổi rõ đến mức như nghẹt thở, khó chịu đựng, hãy ưu tiên nhận biết tính chảy để lập lại quân bình. Có lúc nóng quá mạnh, như bị lửa đốt, toàn thân nóng lên, mồ hôi túa ra. Khi ấy, hãy tạm chuyển sang nhận biết lạnh để quân bình các đại.
+
+
+<a id="M03-body-P019"></a>
+## Quân bình phong đại và phát triển định
+Miến / Burmese 19
+
+Nếu lạnh trở nên quá mạnh thì dùng nóng để quân bình. Khi nâng đỡ quá mạnh, hãy hướng tâm đến đẩy. Khi đẩy mạnh lên, hãy tạm chú tâm vào nâng đỡ để lập lại quân bình. Nếu đã ưu tiên nâng đỡ mà sự chuyển động và lay động của thân vẫn mạnh, hãy ưu tiên nhận biết cứng, nhám và nặng thuộc địa đại. Hãy hiểu như trường hợp một vật nhẹ rung lên trong gió, rồi được chặn bằng một vật nặng và đứng yên.
+
+Mười hai tính chất được trình bày ở đây để hành giả điều chỉnh các đại quá yếu hay quá mạnh và phát triển định. Những chênh lệch ấy thường xảy ra với hành giả thuần minh sát và ít xảy ra hơn với hành giả lấy thiền chỉ làm cỗ xe. Người tu thuần minh sát chưa có thiền chứng làm nền, đi thẳng vào minh sát. Khi nhận biết tứ đại, họ có thể phải dành nhiều thời gian để các tính chất trở nên rõ trong tuệ. Trong khi thực tập lâu như vậy, khi định có sức mạnh, một số tính chất đôi khi trở nên quá mức. Khi ấy hãy nhận biết đại đối lại để lập lại quân bình.
+
+Như vậy, trong các bài Kinh và Chú giải Thanh tịnh đạo, vì lý do gì mà địa đại chỉ được trình bày qua hai tính chất kakkaḷa và kharigata, tức cứng và nhám?
+
+
+<a id="M03-body-P020"></a>
+## Vì sao trong Kinh nêu cứng và nhám
+Miến / Burmese 20
+
+Câu trả lời như sau.
+
+Dù một vật mềm đến đâu, khi quan sát kỹ bằng tuệ, tính cứng vẫn hiện rõ ở mức tương ứng với vật đó. Khi cứng nhiều thì gọi là cứng, khi cứng ít thì gọi là mềm. Cũng vậy, dù một vật trơn đến đâu, khi quan sát kỹ bằng tuệ, tính nhám vẫn hiện rõ ở mức tương ứng. Khi nhám nhiều thì gọi là nhám, khi nhám ít thì gọi là trơn. Hơn nữa, nặng thường đi kèm cứng và nhám. Khi mềm và trơn hiện rõ thì nhẹ thường đi kèm. Bởi vậy, khi nhận biết hai tính cứng và nhám, các tính cứng, mềm, nhám, trơn, nặng và nhẹ cũng sẽ hiện rõ. Đó là lý do trong các bài Kinh, địa đại được giảng bằng hai tính kakkaḷa và kharigata.
+
+Cũng vậy, khi tính chảy nhiều và trội thì chính nó hiện rõ. Khi tính chảy suy yếu, tính kết dính có thể hiện rõ. Trong hai mươi phần thân thuộc địa giới, địa đại có sức mạnh trội, còn tính chảy yếu đi. Vì vậy, ở các phần thân thuộc địa giới, tính chảy suy giảm và tính kết dính hiện rõ hơn.
+
+
+<a id="M03-body-P021"></a>
+## Tính chất của thủy đại, hỏa đại và phong đại
+Miến / Burmese 21
+
+Trong các phần thân thuộc hỏa giới và phong giới, các tính chảy và kết dính vẫn có mặt nhưng yếu. Hãy lấy xi măng làm ví dụ. Trộn với lượng nước vừa phải thì sức kết dính mạnh, xi măng đóng thành khối. Trộn với quá nhiều nước thì tính chảy mạnh lên và sức kết dính giảm, không đóng thành khối được. Hãy hiểu theo ví dụ ấy. Do đó, Chú giải Thanh tịnh đạo chỉ dạy nhận biết cả hai tính của thủy đại: paggharaṇa, tức chảy, và ābandhana, tức kết dính.
+
+Trong bốn phần thuộc hỏa giới, năng lực riêng của hỏa đại trội. Trong các phần thuộc địa giới, thủy giới và phong giới, hỏa đại cũng có mặt nhưng ít hơn. Hỏa đại có sức mạnh trội gọi là nóng. Khi sức mạnh suy giảm, hỏa đại yếu gọi là lạnh. Vì vậy, sách này trình bày cách nhận biết cả hai. Thanh tịnh đạo cũng dạy nhận biết paripācana, tức làm chín. Theo cách chỉ dẫn này, nếu nóng và lạnh chưa hiện rõ, có thể nhận biết qua phận sự làm chín.
+
+Đối với phong đại, Chú giải dạy nhận biết hai tính: vitthambhana, tức nâng đỡ, và samudīraṇa, tức đẩy. Giống như chống một vật bằng một thanh gỗ để vật ấy đứng vững, phong đại nâng đỡ các sắc để thân giữ được tư thế đã đặt.
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Visuddhimagga, tập 1, tr. 347.
+
+
+<a id="M03-body-P022"></a>
+## Nhận biết các đại trong mọi tư thế
+Miến / Burmese 22
+
+Nâng đỡ là giữ cho các sắc đứng vững theo tư thế đã đặt. Sức giữ cho vững được gọi là nâng đỡ. Sức làm chuyển động được gọi là đẩy.
+
+Nâng đỡ là đặc tính, đẩy là phận sự. Cả hai liên hệ chặt chẽ và đi sát với nhau. Do đó Chú giải Thanh tịnh đạo dạy nhận biết cả nâng đỡ lẫn đẩy.
+
+(d) Nhận biết trong các tư thế và với sự tỉnh giác. Nếu trong khi ngồi hành giả chỉ nhận biết được một đại, hãy nhận biết đại ấy trong cả bốn tư thế đi, đứng, ngồi, nằm, và trong mọi động tác thuộc phạm vi tỉnh giác như co tay, duỗi tay. Nếu lúc ngồi nhận biết được hai đại thì Pe. Nếu nhận biết được cả bốn đại thì hãy tiếp tục nhận biết cả bốn trong mọi tư thế và mọi động tác. Hãy thực tập sao cho việc nhận biết nối tiếp từ tư thế này sang tư thế kế tiếp.
+
+(e) Khi chưa tu tập theo lối lấy thiền chỉ làm cỗ xe. Nếu hành giả chưa từng tu tập các đề mục thiền chỉ như niệm hơi thở hay biến xứ trắng, …
+
+
+<a id="M03-body-P023"></a>
+## Đề mục tứ đại và các quy tắc thực hành
+Miến / Burmese 23
+
+Đề mục tứ đại này là một trong bốn mươi đề mục thiền chỉ, gọi là phân định bốn đại (catudhātuvavatthāna). Nó có thể đưa đến cận định nhờ sức mạnh của tuệ và cũng là đề mục sắc để tiến tới kiến thanh tịnh. Khi tu tập đề mục sắc đến cận định, hành giả có thể dùng ánh sáng phát sinh do định và tuệ để chuyển sang ba mươi hai thể phần. Nếu từ ba mươi hai thể phần chuyển sang các biến xứ màu như biến xứ trắng, hành giả có thể đạt thiền chứng và đi theo lối lấy thiền chỉ làm cỗ xe.
+
+Các quy tắc cần tuân theo. Như đã trình bày, hãy nhận biết trên toàn thân: cứng, nhám, nặng, mềm, trơn, nhẹ là địa đại, chảy và kết dính là thủy đại, nóng và lạnh là hỏa đại, nâng đỡ và đẩy là phong đại. Hãy nhận biết theo thứ tự địa, thủy, hỏa, phong trong một thời gian dài và giữ tâm tu tập chuyên nhất trên bốn đại. Khi cố gắng như vậy, hãy thực hành theo các quy tắc sau đây.
+
+
+<a id="M03-body-P024"></a>
+## Quy tắc 1–3 về thứ tự và tốc độ
+Miến / Burmese 24
+
+Hãy thiện xảo trong tác ý theo bảy cách: theo thứ tự, không quá nhanh, không quá chậm, ngăn tâm tán ra ngoài, vượt qua chế định, tạm bỏ qua những gì chưa hiện rõ, và theo đặc tính. Đoạn Pāli bắt đầu ở cuối trang trước và tiếp sang đầu trang này. [CHƯA XÁC MINH: phiên âm đầy đủ đoạn Pāli.]
+
+1. Anupubbato, theo thứ tự. Khi tác ý đến đề mục tứ đại, hãy nhận biết theo thứ tự đã được Đức Phật dạy và đã học từ thầy: địa đại, thủy đại, hỏa đại, phong đại. Đừng đảo thứ tự hay nhảy từ đại này sang đại kia.
+
+2. Nātisīghato, đừng quá nhanh. Khi tác ý đến tứ đại theo lời Phật dạy, đừng làm quá vội. Tuy sự tác ý của người làm quá nhanh có thể nối tiếp không gián đoạn, các tính chất của bốn đại là cảnh của đề mục lại không hiện rõ. Khi cảnh đề mục không rõ, tâm tu tập không thể đưa đến những pháp thù thắng như cận định. Vì vậy, đừng tác ý quá nhanh.
+
+3. Nātisaṇikato, đừng quá chậm. Cũng đừng tác ý một cách chậm chạp, trì trệ. Vì đối với người tác ý như thế, đề mục tứ đại không đi đến chỗ hoàn tất.
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Mahāṭīkā, tập 1, tr. 434.
+
+
+<a id="M03-body-P025"></a>
+## Quy tắc 4. Ngăn tâm tán ra ngoài
+Miến / Burmese 25
+
+Khi đề mục chưa được tu tập đến chỗ hoàn tất, nó không thể làm nhân cho các pháp thù thắng như tuệ đạo và tuệ quả trong minh sát.
+
+4. Vikkhepapaṭibāhanato, ngăn tâm tán ra cảnh bên ngoài. Hãy ngăn tâm rời đề mục tứ đại và tán ra các cảnh chân đế hoặc chế định khác. Nếu tâm tán ra một cảnh khác ngoài tứ đại, hành giả sẽ thối giảm hoặc rơi khỏi đề mục.
+
+“Bahiddhā vikkhepe hi sati kammaṭṭhānā parihāyati paribhaṃsati.” [CHƯA XÁC MINH: phiên âm câu Pāli.] Khi tâm tán ra ngoài, hành giả thối giảm và rơi khỏi đề mục thiền.
+
+Đây là quy tắc phải tuân theo nghiêm túc. Khi phát triển định bằng cách lấy các đặc tính riêng của tứ đại làm cảnh, nếu chạy theo các cảnh chân đế và chế định khác ngoài bốn đại, thì đó không còn là đề mục phân định tứ đại, tức dùng tuệ phân biệt đặc tính riêng của từng đại. Chỉ khi nhận biết cả bốn đại mới có thể gọi là đề mục phân định tứ đại. Đặc biệt, trong khi đang phát triển định, việc chạy theo các cảnh khác không thể gọi là đề mục tứ đại. Hành giả thuần minh sát càng cần ghi nhớ điều này, vì thông thường vị ấy bắt đầu bằng đề mục sắc để tiến tới kiến thanh tịnh.
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Mahāṭīkā, tập 1, tr. 434.
+
+
+<a id="M03-body-P026"></a>
+## Giữ tâm trên đề mục tứ đại
+Miến / Burmese 26
+
+Để đi đến kiến thanh tịnh, hãy bắt đầu bằng một trong hai cách, tóm lược hoặc chi tiết, và tu tập chính bốn đại. Nếu vừa nhận biết các đại lại vừa chạy theo những cảnh khác, việc ấy không đem lại lợi ích và cũng không nên làm. Hãy tự xét: do lúc nhận biết tứ đại, lúc lại chạy theo cảnh khác tùy ý, có phải hành giả chưa thấy được những hạt nhỏ gọi là nhóm sắc? Nếu đã thấy, có dùng tuệ nhận biết và phân biệt được tứ đại trong từng nhóm sắc không?
+
+Nếu câu trả lời là chưa thấy các nhóm sắc, hoặc thấy nhưng chưa nhận biết và phân biệt được tứ đại trong từng nhóm, thì hãy tuân theo quy tắc ngăn tâm chạy theo cảnh khác khi đang phát triển định với đề mục tứ đại. Chỉ khi nhận biết được tứ đại trong từng nhóm sắc mới bắt đầu đi vào cách nhận biết theo chân đế.
+
+“Ekapadikamaggamhi puriso setu niddiṭṭho.” [CHƯA XÁC MINH: phiên âm câu Pāli.] Ví dụ, để vượt qua một con lạch, con sông hoặc khe núi, người ta bắc một cây cầu chỉ rộng bằng một tấm ván, vừa đủ cho một bàn chân. Một người đi trên lối hẹp ấy …
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Visuddhimagga, tập 2, tr. 222; Mahāṭīkā, tập 1, tr. 434.
+
+
+<a id="M03-body-P027"></a>
+## Quy tắc 5–6. Vượt qua tên gọi và tạm bỏ qua tính chưa rõ
+Miến / Burmese 27
+
+… nếu vừa đi vừa mải nhìn những cảnh chung quanh thì không sang được bờ bên kia. Người ấy chỉ có thể rơi xuống lạch, sông hoặc khe núi. Hãy áp dụng ví dụ ấy vào chỗ này.
+
+5. Paṇṇattisamatikkamanato, vượt qua chế định. Đừng đặt tâm tu tập trên tên gọi “địa đại”, mà hãy đặt trên các tính cứng, nhám, nặng, mềm, trơn, nhẹ của địa đại. Đừng đặt tâm trên tên gọi “thủy đại”, mà hãy đặt trên tính chảy và kết dính. Đừng đặt tâm trên tên gọi “hỏa đại”, mà hãy đặt trên tính nóng và lạnh. Đừng đặt tâm trên tên gọi “phong đại”, mà hãy đặt trên tính nâng đỡ và đẩy. Đừng để tâm dừng ở các tên gọi, hãy gắn tâm tu tập với cảnh chân đế của bốn đại.
+
+6. Anupaṭṭhānamuñcanato, tạm bỏ qua một vài tính chưa hiện rõ. Lúc này đang ưu tiên tu tập để đạt tâm thanh tịnh, tức định. Vì thế, nếu một số tính chất chưa hiện rõ trong tuệ, có thể tạm bỏ qua chúng.
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Mahāṭīkā, tập 1, tr. 434.
+
+
+<a id="M03-body-P028"></a>
+## Quy tắc 7. Ưu tiên nhận biết đặc tính
+Miến / Burmese 28
+
+Hành giả có thể tạm bỏ qua và không nhận biết những tính ấy. Có lúc một đại trở nên quá mạnh, làm thân thọ khổ dữ dội. Nếu thọ khổ đến mức làm mất sự thoải mái và cản trở định, có thể tạm bỏ qua một số tính đang hiện rõ. Khi một đại quá mạnh và thân thọ khổ lấn át, nếu không giữ tâm được trên đề mục tứ đại, tâm sẽ chạy qua chạy lại giữa đề mục và thọ khổ. Nếu tình trạng ấy cản trở tâm thanh tịnh và định, hãy tu tập bằng cách tác ý trở lại để quân bình các đại. Tuy vậy, lúc đầu ít nhất phải có một đặc tính của địa đại, một của thủy đại, một của hỏa đại và một của phong đại hiện rõ. Nếu cả mười hai tính chất đều hiện rõ thì càng tốt.
+
+7. Lakkhaṇato, ưu tiên nhận biết đặc tính. Hãy ưu tiên nhận biết đặc tính riêng của từng đại. Lúc mới bắt đầu, khi các đặc tính riêng chưa hiện rõ trong tuệ, có thể nhận biết theo biểu hiện hoặc phận sự. Khi định trên đề mục mạnh lên, tâm tu tập có thể đứng vững trên cảnh tứ đại trong một hay hai giờ, v.v. Nhờ tâm đứng vững như vậy, tuệ tu tập cũng mạnh lên, và nhờ sức định, những đại trước đây chưa rõ cũng trở nên rõ. Khi ấy hãy nhận biết như sau.
+
+
+<a id="M03-body-P029"></a>
+## Chuyên chú vào đặc tính riêng của từng đại
+Miến / Burmese 29
+
+1. Địa đại: cứng, nhám.
+2. Thủy đại: chảy, kết dính.
+3. Hỏa đại: nóng, lạnh.
+4. Phong đại: nâng đỡ.
+
+Đừng để tâm tu tập rời các đặc tính riêng ấy. Hãy chuyên chú nhận biết chúng để định do tác ý đến các đại càng trở nên sắc bén. Nếu sức định còn yếu thì chỉ nên ưu tiên nhận biết cứng, chảy, nóng và nâng đỡ để phát triển định.
+
+Người tu bỏ qua các tên gọi và tu tập tác ý vào đặc tính riêng của từng đại. Những đặc tính ấy hiện ngày càng rõ trong tuệ. Do tác ý đi tác ý lại nhiều lần, tâm tu tập được lặp lại thường xuyên và có được duyên tập hành (āsevanapaccaya). Toàn thân hiện ra như một khối các tính chất của tứ đại. Vì sức tác ý mà chúng hiện ra như vô sinh vật, không có một chúng sinh. Như bộ máy lớn với các bộ phận nối nhau chuyển động qua lại, thân hiện ra chỉ là một khối các tính chất của tứ đại, nối tiếp và chuyển động.
+
+Đoạn trích Pāli ở cuối trang bắt đầu bằng: “Sace pana bahiddhāpi manasikāraṃ upasaṃharati …”
+
+
+<a id="M03-body-P030"></a>
+## Nhận biết các đại bên ngoài và hai trở ngại đối với cận định
+Miến / Burmese 30
+
+[CHƯA XÁC MINH: phiên âm đầy đủ đoạn Pāli nối từ trang trước. Bản dịch dưới đây theo lời giải thích tiếng Miến.]
+
+Nếu hành giả mở rộng sự tác ý đến tứ đại ra thế giới bên ngoài, tức hướng tuệ nhận biết các đại ở bên ngoài, thì trong tuệ của vị ấy, người, xe cộ đi lại, đàn ông, đàn bà, v.v. hiện ra không còn dưới tướng chúng sinh mà như một tập hợp của bốn đại. Những việc họ làm hiện ra như sự vận hành của một bộ máy do bốn đại hợp thành. Những thứ họ nhai, ăn và uống cũng hiện ra như một tập hợp của bốn đại được đưa vào một tập hợp của bốn đại.
+
+Khi ấy, tâm tu tập đã có duyên tập hành có thể gặp hai trường hợp:
+
+a. Tinh tấn quá mạnh, khiến trạo cử, tức tâm tán động (uddhacca), sinh lên.
+b. Tinh tấn quá yếu, khiến biếng nhác (kosajja) sinh lên.
+
+Do một trong hai trường hợp ấy, hành giả có thể chưa đi vào được con đường tu tập thiền chỉ dẫn đến cận định. Khi ấy …
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Mahāṭīkā, tập 1, tr. 434–435.
+
+
+<a id="M03-body-P031"></a>
+## Thực hành để quân bình năm căn
+Miến / Burmese 31
+
+8. Aggivittasutta, cũng gọi là Dīpitasutta. [CHƯA XÁC MINH: cách đọc nhan đề Pāli ở mục 8.]
+9. Anuttarasītibhāvasutta.
+10. Bojjhaṅgasutta.
+
+Hãy thực tập quân bình tinh tấn và định theo các phương pháp trong ba bài kinh này. Đây là những bài kinh dạy cách quân bình năm căn và bảy giác chi. Chi tiết có thể xem trong bản kinh Pāli và chú giải của các bộ kinh ấy. Ở đây chỉ trình bày tóm lược. Mười quy tắc thực tập đề mục tứ đại được trích từ Đại sớ giải Thanh tịnh đạo. (Mahāṭīkā 1,434–435; Abhi-ṭṭha 2,216–217.)
+
+Trong đề mục tứ đại, lòng tin đối với việc tu tập là tín căn. Sự cố gắng để biết đặc tính của bốn đại và giữ tâm tu tập vững trên cảnh ấy là tấn căn. Niệm nhận biết và ghi nhận bốn đại là niệm căn. Tâm tu tập đứng vững trên cảnh tứ đại là định căn. Sự thấu biết đặc tính riêng của bốn đại là tuệ căn. Hãy thực tập để năm căn ấy được quân bình.
+
+Khi tín trong việc tu tập tác ý đến tứ đại quá mạnh …
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Aṅ, tập 1, tr. 258; Aṅ, tập 2, tr. 379; Saṃ, tập 3, tr. 71–73; Mahāṭīkā, tập 1, tr. 434–435; Abhi-ṭṭha, tập 2, tr. 216–217.
+
+
+<a id="M03-body-P032"></a>
+## Điều chỉnh khi tín hoặc tinh tấn quá mạnh
+Miến / Burmese 32
+
+… sự quyết tin vào việc tác ý đến tứ đại trở nên quá nổi bật. Tuệ thấu biết đặc tính của từng đại chưa rõ, còn tấn căn, niệm căn và định căn thì yếu. Khi tín căn quá mạnh như vậy, tấn căn không làm được phận sự nâng đỡ để các pháp đồng sinh không rời cảnh tứ đại. Niệm căn không làm được phận sự khiến các đặc tính của bốn đại hiện rõ trong tuệ. Định căn không làm được phận sự giữ tâm khỏi tán ra ngoài cảnh tứ đại. Tuệ căn cũng không thể làm phận sự thấu biết đặc tính của từng đại, vì tín căn quá mạnh lấn át.
+
+Do đó, hãy làm giảm sức trội của tín căn bằng cách xét kỹ tính chân đế, đặc biệt là tìm hiểu cho thấu đặc tính riêng của bốn đại, hoặc bằng cách tạm ngừng tác ý theo lối đang khiến tín căn tăng mạnh.
+
+Nếu sự cố gắng để nhận biết tứ đại và giữ tâm vững trên cảnh ấy trở nên quá mạnh, thì tín căn không thực hiện được phận sự quyết tin, niệm căn không làm cảnh hiện rõ, định căn không giữ tâm khỏi tán động và tuệ căn không thấu biết. Tinh tấn quá mạnh nghiêng về phía trạo cử, làm tâm thường tán ra cảnh ngoài tứ đại.
+
+
+<a id="M03-body-P033"></a>
+## Quân bình tín và tuệ
+Miến / Burmese 33
+
+Bởi vậy, hãy làm lắng tinh tấn quá mức bằng cách phát triển khinh an giác chi, định giác chi và xả giác chi.
+
+Các bậc Thánh đặc biệt tán thán sự quân bình giữa tín và tuệ, giữa tinh tấn và định. Trên đường tu tập tứ đại, nếu tín quá mạnh mà tuệ nhận biết đặc tính của từng đại lại yếu, hành giả không thấy rõ ràng và phân minh các đặc tính ấy. Tín và tuệ không quân bình, hành giả có thể đánh giá quá cao chút ít kinh nghiệm tu tập của mình.
+
+Ngược lại, có người dễ dàng và nhanh chóng nhận biết các đặc tính của tứ đại, thấy chúng rõ ràng, nhưng tín đối với đường lối tu tập lại yếu. Người ấy nghi ngờ liệu thực tập đúng cách có thấy được các nhóm sắc và có phân biệt được bốn đại trong từng nhóm hay không. Đôi khi người ấy cho rằng chỉ Đức Phật Chánh Đẳng Giác mới thấy được sắc và danh. Rồi người ấy dựa vào cách hiểu riêng của mình mà nói rằng chỉ cần quán minh sát các pháp chân đế được dạy trong Vi Diệu Pháp. Người ấy nhìn người khác bằng thái độ xem thường, với vẻ mặt lạnh nhạt.
+
+
+<a id="M03-body-P034"></a>
+## Khi hiểu biết nhiều mà tín còn yếu
+Miến / Burmese 34
+
+Thái độ ấy xuất phát từ lòng tin yếu đối với lời Phật dạy về cách thực hành. Chú giải ghi như sau.
+
+“Balavapañño mandasaddho kerāṭikapakkhaṃ bhajati, bhesajjasamuṭṭhito viya rogo atekiccho hoti.” Người có tuệ mạnh mà tín yếu nghiêng về phía xảo trá, như bệnh do thuốc gây ra thì khó chữa. (Thanh tịnh đạo, tập 1, tr. 126.)
+
+Khi kiến thức học từ kinh điển (pariyattibāhusacca) và hiểu biết do chứng nghiệm (paṭivedhabāhusacca) trở nên mạnh mà tín yếu, người ấy có thể nghiêng về phía quanh co. Cũng như bệnh do thuốc gây ra rất khó trị, khó dùng thuốc Chánh pháp chân thật của Đức Phật để chữa căn bệnh tà kiến phát sinh từ sự hiểu sai những gì đã học. Người ấy có thể đem kiến thức ra bàn cãi, cứ xoay vòng như trong một luồng gió, giống như Saccaka. Người như vậy khó thành công trong việc tu tập. Vì vậy cần quân bình tín và tuệ. [CHƯA XÁC MINH: cách đọc thuật ngữ thứ hai.]
+
+Lại nữa, định giữ tâm vững trên tứ đại có thể mạnh, trong khi sự cố gắng để nhận biết rõ từng đặc tính và giữ tâm trên cảnh bốn đại lại yếu. Khi ấy định nghiêng về phía biếng nhác (kosajja).
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Visuddhimagga, tập 1, tr. 126.
+
+
+<a id="M03-body-P035"></a>
+## Quân bình định và tinh tấn
+Miến / Burmese 35
+
+Biếng nhác có thể lấn át người định mạnh mà tinh tấn yếu. Do đó, khi phát triển định lấy các đặc tính của tứ đại làm cảnh và tâm tu tập đã vững trên cảnh ấy, đừng chỉ để tâm yên nghỉ trên cảnh tứ đại. Việc buông lỏng và đặt tâm một cách dễ dãi là dấu hiệu tinh tấn suy giảm. Nếu để tâm như thế, sự biếng nhác tăng lên, các đặc tính của tứ đại dần không còn rõ, và việc tu tập suy giảm. Khi ấy hãy tăng cường cố gắng để thấy rõ từng đặc tính và giữ tâm vững trên cảnh ấy.
+
+Lại nữa, vì tinh tấn có thể nghiêng về phía trạo cử, nếu tinh tấn quá mạnh và định yếu, người ấy cố sức quá mức để nhận biết tứ đại và giữ tâm trên cảnh ấy. Trạo cử có thể lấn át, khiến tâm tán đi các cảnh khác.
+
+Nói gọn lại, hãy quân bình định, tức sự đứng vững trên cảnh tứ đại, với tinh tấn, tức nỗ lực nhận biết từng đặc tính và giữ tâm vững trên cảnh ấy.
+
+
+<a id="M03-body-P036"></a>
+## Vai trò của niệm và ba giác chi đầu
+Miến / Burmese 36
+
+Khi định được quân bình với tinh tấn, tâm tu tập không rơi vào biếng nhác. Khi tinh tấn để thấy đặc tính của các đại và giữ tâm vững trên cảnh ấy được quân bình với định, tâm không rơi vào trạo cử. Vì vậy, hãy làm cho định và tinh tấn quân bình.
+
+Khi cả tín và tuệ, tinh tấn và định quân bình, cận định có thể sinh lên. Niệm, tức sự nhớ biết để ghi nhận từng đặc tính của bốn đại, cần có trong mọi lúc. Hãy xem Thanh tịnh đạo.
+
+Thực tập quân bình bảy giác chi.
+
+1. Niệm giác chi là niệm không quên cảnh đặc tính riêng của tứ đại và nhận biết cảnh ấy nhiều lần.
+2. Trạch pháp giác chi là tuệ thấu biết và xem xét kỹ từng đặc tính riêng của bốn đại.
+3. Tinh tấn giác chi là sự cố gắng để trạch pháp và tinh tấn hiện rõ trên cảnh đặc tính của bốn đại, và đặc biệt là để tâm đứng vững trên cảnh tứ đại, làm định giác chi sinh lên.
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Visuddhimagga, tập 1, tr. 125–126.
+
+
+<a id="M03-body-P037"></a>
+## Bốn giác chi còn lại và cách nâng tâm khi trì trệ
+Miến / Burmese 37
+
+4. Hỷ giác chi là sự vui thích của tâm tu tập đối với cảnh đặc tính của tứ đại.
+5. Khinh an giác chi là sự lắng dịu của tâm và các tâm sở khi lấy đặc tính của tứ đại làm cảnh.
+6. Định giác chi là sự đứng vững của tâm tu tập trên cảnh đặc tính của tứ đại.
+7. Xả giác chi là sự quân bình của các pháp đồng sinh (tatramajjhattatā), giữ cho tâm tu tập trên cảnh đặc tính của tứ đại không nghiêng về phía hăng quá, tán động, cũng không nghiêng về phía thối lui, biếng nhác.
+
+Đó là bảy giác chi trong công việc tu tập tứ đại.
+
+Nếu nỗ lực quá yếu hoặc thiếu sự hứng thú với việc tu tập, tâm có thể trì trệ, biếng nhác đối với đề mục tứ đại. Khi ấy đừng phát triển khinh an, định và xả, mà hãy phát triển trạch pháp, tinh tấn và hỷ. Hãy cố gắng nhận biết rõ từng đặc tính của bốn đại, làm tâm phấn chấn và hỷ sinh lên. Hãy nâng tâm đang sa sút.
+
+Nếu tinh tấn quá mạnh hoặc suy xét quá nhiều, tâm tu tập sẽ tán động, thường chạy từ đặc tính của tứ đại ra các cảnh bên ngoài.
+
+
+<a id="M03-body-P038"></a>
+## Làm lắng tâm và phát triển cận định
+Miến / Burmese 38
+
+Khi tâm thường xao động và kích động, đừng phát triển trạch pháp, tinh tấn và hỷ. Hãy phát triển khinh an, định và xả. Bớt suy xét, bớt cố sức nhận biết quá gắt các đặc tính của tứ đại. Đừng cố làm cho tâm vui thích và phấn chấn. Hãy cố gắng làm tâm và các tâm sở lắng dịu để nhận biết tứ đại một cách quân bình và giữ tâm tu tập vững trên các đặc tính ấy.
+
+Ánh sáng và phạm vi cận định. “Tasseva vāyamamānassa nacireneva catudhātuppabhedāvabhāsanapaññāpariggahito sabhāvadhammārammaṇattā appanaṃ appatto upacāramatto samādhi uppajjati.” [CHƯA XÁC MINH: phiên âm đầy đủ câu Thanh tịnh đạo.]
+
+Khi quân bình tín với tuệ, tinh tấn với định, và tu tập bằng cách tác ý đến từng đặc tính của bốn đại, năm căn trong dòng tâm đạt quân bình, trong sáng và sắc bén. Do bất tín, trì trệ (līna), thất niệm (pamāda), trạo cử và si không biết đúng các đặc tính của bốn đại đã lắng xa, bảy giác chi thù thắng trở nên rất mạnh …
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Visuddhimagga, tập 1, tr. 347.
+
+
+<a id="M03-body-P039"></a>
+## Năm thiền chi khi cận định hiện rõ
+Miến / Burmese 39
+
+… và đầy đủ. Do bảy giác chi nâng đỡ với sức mạnh lớn, các thiền chi trở nên vững chắc:
+
+1. Tầm (vitakka) đưa tâm đến cảnh đặc tính của bốn đại.
+2. Tứ (vicāra) xem xét đi xem xét lại cảnh đặc tính của bốn đại.
+3. Hỷ (pīti) là sự vui thích đối với cảnh ấy.
+4. Lạc (sukha) là sự cảm nhận cảnh ấy một cách an vui.
+5. Nhất tâm (ekaggatā) là tâm quy tụ, đứng vững trên một cảnh là các đặc tính của bốn đại.
+
+Năm thiền chi ấy trở nên đặc biệt sắc bén và rõ ràng. Các triền cái trực tiếp đối nghịch với các thiền chi, cùng những phiền não đồng sinh với chúng, bị đè nén. Hành giả tu tập theo cách vừa trình bày đạt được cận định, với cảnh là các đặc tính của bốn đại. Đó là ý nghĩa lời giải thích của vị Chú giải sư được trích ở trên.
+
+Theo mười quy tắc tu tập tứ đại đã nêu, hành giả cố gắng giữ tâm đứng vững trên từng đặc tính của bốn đại, quân bình năm căn và bảy giác chi …
+
+
+<a id="M03-body-P040"></a>
+## Bảy điều kiện hỗ trợ đề mục tứ đại
+Miến / Burmese 40
+
+… bằng những cách sau đây:
+
+1. Tôn trọng, trân quý và thực hành nghiêm túc công việc tu tập đề mục tứ đại.
+2. Thường xuyên tác ý và nhận biết bốn đại trong cả bốn tư thế nằm, ngồi, đứng và đi.
+3. Dùng những điều thích hợp về thời tiết, chỗ ở, thức ăn và nghe pháp.
+4. Ghi nhận kỹ cảnh là các đặc tính của bốn đại, tức tướng của thiền chỉ.
+5. Làm cho bảy giác chi sinh lên một cách thích hợp.
+6. Có thân và mạng sống khỏi các nguy hiểm.
+7. Không để việc tu tập suy giảm giữa chừng.
+
+Hành giả nỗ lực đều đặn để đề mục tứ đại tiến triển từng bước. Vị ấy điều chỉnh nỗ lực quá mức bằng sự thực hành quân bình, và làm cho nỗ lực được tăng lên từng bước. Trong dòng tâm của người tu tập như vậy, tuệ tác ý đến các đại, phân biệt và thấu biết riêng từng đặc tính của bốn đại, sinh lên.
+
+
+<a id="M03-body-P041"></a>
+## Tuệ soi sáng đặc tính của bốn đại
+Miến / Burmese 41
+
+Như ngọn đèn soi sáng các vật cho người có mắt thấy, tuệ đi cùng tâm tu thiền chỉ tác ý đến tứ đại làm hiện rõ từng đặc tính riêng của bốn đại bằng ánh sáng của tuệ. Các đặc tính ấy là cứng, nhám, nặng, mềm, trơn, nhẹ, chảy, kết dính, nóng, lạnh, nâng đỡ và đẩy.
+
+Tuệ tu tập soi sáng từng đặc tính như vậy cũng biết đầu, giữa và cuối, tức sinh, trụ và diệt, của từng đặc tính. Tuệ không rời sự nhận biết ở đầu, giữa và cuối. Tuệ ấy có thể nắm bắt và phân biệt đầy đủ sinh, trụ và diệt của mỗi đặc tính.
+
+Định đi cùng tuệ tu tập ấy chưa đạt đến an chỉ, chỉ đạt đến mức cận định cao nhất, là định thuộc dục giới. Đây là cách cận định có thể phát sinh trong dòng tâm của hành giả nhận biết từng đặc tính của bốn đại và tu tập theo đúng các quy tắc trên.
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Visuddhimagga, tập 1, tr. 347; Mahāṭīkā, tập 1, tr. 435–436.
+
+
+<a id="M03-body-P042"></a>
+## Giải thích thêm về ánh sáng
+Miến / Burmese 42
+
+Những lời trong chú giải và sớ giải ở trên là cách nói người có tuệ mới dễ hiểu. Vì vậy, ở đây giải thích thêm cho người mới học.
+
+Nếu hành giả đã tu các đề mục thiền chỉ như niệm hơi thở hoặc biến xứ trắng đến tứ thiền, theo lối lấy thiền chỉ làm cỗ xe, ánh sáng có thể phát ra do định tứ thiền ấy. Sau khi xuất khỏi tứ thiền và phát triển định bằng cách lấy bốn đại làm cảnh, ánh sáng cũng có thể sinh lên do tuệ đi cùng định tu tập tác ý đến tứ đại.
+
+Nếu hành giả theo lối thuần minh sát và chỉ tu tập đề mục tứ đại, thì trong khi phát triển định lấy từng đặc tính của tứ đại làm cảnh, ánh sáng có thể bắt đầu sinh từ giai đoạn định chuẩn bị, khi chưa đạt hoặc đã gần cận định.
+
+Tùy theo ba-la-mật (pāramī) của từng người, có một số khác biệt. Có người khi định trên tứ đại mạnh lên thì thấy sáng quanh mình, giống như trong một căn phòng có ánh sáng. Người khác lúc đầu không nhận thấy ánh sáng, vẫn tiếp tục nhận biết bốn đại trong thân, và khi định mạnh lên …
+
+
+<a id="M03-body-P043"></a>
+## Những biểu hiện khác nhau khi định mạnh
+Miến / Burmese 43
+
+… mới thấy màu xám đục như khói. Có người thấy các đặc tính của bốn đại như lan rộng ra, tưởng thân mình lớn dần. Có người thấy hình thân biến mất, chỉ còn một khối các đại, rồi tưởng khối ấy dần nhỏ đi và thu hẹp lại. Đây là những biểu hiện có thể sinh lên trong khi tác ý tu tập và định mạnh lên. Khi ấy hành giả cần đặc biệt giữ niệm, tránh để tâm xao động vì muốn các đại lan rộng hoặc co lại. Nếu tâm biến động nhiều trong giai đoạn này, sức định tu tập có thể suy giảm dần và trạo cử có thể xen vào.
+
+Khi định mạnh, hành giả có thể không còn thấy riêng các phần tay, chân, đầu và thân, mà chỉ thấy một khối các tính chất của bốn đại. Lúc ấy định đã có sức mạnh. Điều quan trọng là vượt qua tưởng về chúng sinh (sattasaññā), tức những tên gọi quy ước như tôi, người khác, đàn ông, đàn bà, người hay chúng sinh. Hành giả cần nỗ lực để vượt qua tưởng ấy.
+
+Khi cố gắng như vậy, hành giả có thể bắt đầu thấy trong khối các đại một ánh sáng xám đục như khói. Với người có ba-la-mật mạnh và định mạnh, giai đoạn này có thể qua nhanh.
+
+
+<a id="M03-body-P044"></a>
+## Từ khối màu khói đến khối trong suốt
+Miến / Burmese 44
+
+Chẳng bao lâu sau, nếu dùng tuệ phân biệt bốn đại trong khối màu xám đục ấy, tiếp tục nhận biết và phát triển định, hành giả có thể thấy một khối trắng như bông, trắng sáng như mây. Nếu tiếp tục nhận biết bốn đại trong khối trắng ấy và phát triển định, hành giả có thể thấy một khối rất trong sáng, như nước đá, thủy tinh hoặc gương. Trong khi chưa phân giải được các khối gọi là khối đặc (ghana), hành giả vẫn thấy bốn đại theo từng cụm, từng khối.
+
+Đức Phật dạy năm sắc trong suốt (pasādarūpa): nhãn tịnh sắc, nhĩ tịnh sắc, tỷ tịnh sắc, thiệt tịnh sắc và thân tịnh sắc.
+
+“Cakkhādippasādo rūpādīnaṃ gahaṇasamatthānaṃ … ādāsatalaṃ viya vippasannattā pasādarūpaṃ.” [CHƯA XÁC MINH: phiên âm đầy đủ câu trích.] Những sắc này trợ giúp các thức tương ứng, như nhãn thức nhận biết cảnh sắc, bằng năng lực làm duyên y chỉ (nissayapaccaya). Do có tính đặc biệt trong sáng như mặt gương, chúng được gọi là sắc trong suốt.
+
+Theo đoạn chú giải trên, khối mà hành giả thấy gồm những nhóm sắc có sắc trong suốt và những nhóm sắc không trong suốt. Trong thân này, năm sắc trong suốt nói trên có mặt trong các nhóm sắc trong suốt. Trong các nhóm sắc không trong suốt, chúng không có mặt.
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Visuddhimagga, tập 2, tr. 81.
+
+
+<a id="M03-body-P045"></a>
+## Các nhóm sắc trong suốt và sự phát sinh ánh sáng
+Miến / Burmese 45
+
+Trong thân, những nhóm sắc trong suốt và không trong suốt xen lẫn với nhau như bột gạo trộn với bột nghệ. Thân tịnh sắc có mặt khắp thân, ở bất cứ chỗ nào cảm nhận được xúc. Các nhóm sắc có một trong năm sắc trong suốt, kể cả thân tịnh sắc, là các nhóm sắc trong suốt. Khi sức định do tác ý đến tứ đại trở nên mạnh, hành giả thấy những nhóm sắc ấy như từng cụm, từng khối, giống như nước đá, pha lê hoặc thủy tinh. Đây vẫn là giai đoạn chưa phân biệt được nhóm sắc trong suốt với nhóm sắc không trong suốt. Nếu tiếp tục dùng tuệ nhận biết bốn đại trong khối trong suốt ấy, phân biệt và phát triển định, thì khi sức định tăng lên, ánh sáng có thể lóe ra.
+
+Trong các nhóm sắc do tâm tu thiền chỉ tác ý đến tứ đại sinh ra có cảnh sắc. Do hỏa đại có mặt trong những nhóm sắc do tâm sinh ấy, các nhóm sắc do thời tiết sinh tiếp nối xuất hiện và cũng có cảnh sắc. Ánh sáng đến từ cảnh sắc của hai loại nhóm sắc ấy. Ánh sáng của cảnh sắc thuộc nhóm do tâm sinh lan tỏa bên trong thân. Ánh sáng của cảnh sắc thuộc nhóm do thời tiết sinh có thể tỏa bên trong và ra ngoài thân, xa tùy sức tuệ. Những ánh sáng ấy phát sinh liên hệ với tâm tu thiền chỉ nương vào sắc ý vật (hadayavatthu) …
+
+
+<a id="M03-body-P046"></a>
+## Ánh sáng của tuệ và thời điểm chuyển đề mục
+Miến / Burmese 46
+
+… và tâm tu minh sát. Ánh sáng xuyên qua khối trong suốt, tỏa ra ngoài, lúc đầu lóe lên từng chớp. Ánh sáng do tuệ đi cùng định của phép tác ý đến tứ đại gọi là ánh sáng của tuệ (ñāṇāloka). Ánh sáng ấy làm phận sự soi tỏ, như ngọn đèn, để hành giả thấy và biết đúng như thật các pháp chân đế. Nếu tiếp tục làm định mạnh thêm, năng lực của tuệ cũng tăng, và ánh sáng càng rực. Vì vậy, muốn ánh sáng mạnh hơn, hãy phát triển định thêm.
+
+Nếu là người tu thuần minh sát và đã bắt đầu phát triển định với đề mục tứ đại, có thể cân nhắc chuyển sang một đề mục khác trong những trường hợp sau đây:
+
+1. Khi ánh sáng còn yếu.
+2. Khi muốn chuyển sang một đề mục thiền chỉ như biến xứ trắng để phát triển định.
+3. Khi muốn tu tập bốn đề mục bảo hộ (caturārakkhakammaṭṭhāna).
+
+Nếu chuyển đề mục, thời điểm thuận lợi nhất là khi ánh sáng đã mạnh mà các nhóm sắc chưa hiện rõ. Nếu đã phân biệt và nhận biết các nhóm sắc trong thân và ngoài thân đến mức thấy các pháp chân đế rồi mới chuyển sang thiền chỉ, thì khi hướng tâm đến một tướng thiền chỉ, chẳng hạn tướng xương, tướng ấy thường tan thành những hạt nhóm sắc. Thay vì thấy bộ xương, hành giả chỉ thấy các nhóm sắc…
+
+
+<a id="M03-body-P047"></a>
+## Chuyển từ tứ đại sang đề mục thiền chỉ
+Miến / Burmese 47
+
+… nên có thể hơi khó làm cho tướng thiền chỉ ổn định để phát triển định. Tuy vậy, nếu cố gắng vẫn có thể thành công.
+
+Nếu là người tu thuần minh sát và muốn chuyển sang một đề mục thiền chỉ, trước hết hãy phát triển định lấy tứ đại làm cảnh. Như đã nói ở trên, hãy tiếp tục phát triển định bằng cách lấy chính bốn đại trong khối trong như nước đá, pha lê hay gương làm cảnh. Khi ánh sáng rực lên liên tục trong một, hai giờ, có thể tu tập theo thứ tự đã trình bày trong phần đề mục thiền chỉ:
+
+1. Ba mươi hai thể phần.
+2. Đề mục bất tịnh (asubhakammaṭṭhāna).
+3. Biến xứ trắng và các biến xứ màu.
+
+Khi đã đạt tứ thiền với biến xứ trắng, có thể chuyển sang các đề mục thiền chỉ khác, nhất là bốn đề mục bảo hộ. Hãy xem lại phần đề mục thiền chỉ để biết cách tu mười biến xứ, tám thiền chứng, bốn phạm trú và bốn đề mục bảo hộ. Nếu muốn chuyển sang minh sát, hãy tiếp tục thực tập như dưới đây.
+
+Với người đã tích lũy ba-la-mật mạnh từ trước, khi thực tập đúng trình tự của đề mục tứ đại, khối trong như nước đá, pha lê hay gương hiện ra…
+
+
+<a id="M03-body-P048"></a>
+## Những khó khăn khi định suy giảm
+Miến / Burmese 48
+
+… và khi nhận biết bốn đại trong khối trong ấy, ngay lúc đang nhận biết hoặc không lâu sau, khối trong có thể vỡ ra và các hạt nhóm sắc bắt đầu hiện rõ. Nếu ba-la-mật còn yếu, định chưa đủ mạnh và chưa thấy nhóm sắc, hãy tiếp tục nhận biết cho đến khi thấy được hư không giới.
+
+Khi phát triển định bằng cách lấy từng đặc tính của tứ đại làm cảnh, nếu định suy giảm, hành giả có thể từ khối trong trở lại thấy màu trắng. Định suy giảm thêm, màu trắng trở lại thành màu khói. Nếu định còn suy giảm nữa, ngay cả màu khói cũng biến mất và hành giả chỉ nhận biết được các đặc tính tứ đại như lúc đầu. Những khó khăn này thường xảy ra nhiều hơn đối với người tu thuần minh sát.
+
+Khi ấy hãy tinh tấn lấy chính đặc tính tứ đại làm cảnh, giữ tâm tu tập vững trên cảnh ấy, làm định kiên cố. Hãy cố giữ tâm trên tứ đại một cách yên ổn, như ngọn đèn ở nơi kín gió. Nếu giữ được tâm vững trên cảnh tứ đại trong một hay hai giờ, dần dần hành giả sẽ lại thấy màu khói. Khi ấy hãy tiếp tục nhận biết cho rõ chính bốn đại…
+
+
+<a id="M03-body-P049"></a>
+## Khi khối trong chưa phân giải
+Miến / Burmese 49
+
+… và tiếp tục phát triển định. Hành giả sẽ thấy màu trắng như mây, thành cụm, thành khối hay thành một vùng trắng. Nếu tiếp tục dùng tuệ phân biệt bốn đại trong khối trắng ấy, nhận biết và phát triển định, hành giả sẽ lại thấy khối trong như nước đá, pha lê hay gương.
+
+Tùy định lên xuống, hành giả có thể nhiều lần thấy màu khói, màu trắng và khối trong, rồi từ khối trong trở về màu trắng và màu khói. Người lấy thiền chỉ làm cỗ xe thường ít gặp khó khăn ở giai đoạn này. Nếu gặp khó khăn, hãy khôi phục định đã chứng, như tứ thiền niệm hơi thở hay tứ thiền biến xứ trắng. Khi định đủ mạnh, hãy lại nhận biết bốn đại và phát triển định theo từng bước. Chẳng bao lâu hành giả sẽ gặp lại khối trong. Nếu tiếp tục dùng tuệ phân biệt tứ đại trong đó và phát triển định, tùy sức ba-la-mật, khối trong có thể vỡ ra và các hạt nhóm sắc bắt đầu hiện rõ. Nếu chúng chưa hiện, hãy tiếp tục quan sát hư không giới trong khối trong ấy.
+
+Trong kinh Mahārāhulovāda và những kinh tương tự, khi giảng đề mục sáu giới, Đức Phật cũng dạy tu tập hư không giới. Chú giải giải thích lời dạy ấy như sau.
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Ma, tập 2, tr. 86.
+
+
+<a id="M03-body-P050"></a>
+## Lời chú giải về hư không giới
+Miến / Burmese 50
+
+[CHƯA XÁC MINH: phiên âm đầy đủ các đoạn Pāli dẫn ở trang này.]
+
+Vì sao Ngài giảng rộng hư không giới? Để chỉ rõ sắc y sinh. Bốn sắc đại chủng đã được giảng rõ. Những sắc nương vào chúng, tức sắc y sinh, vẫn còn phải được chỉ rõ. Lại nữa, sắc được giới hạn bởi khoảng không thì hiện ra rõ ràng. Hư không giới phân định sắc, nhờ đó sắc hiện rõ. Đó là lý do bậc Đạo sư giảng giới ấy.
+
+Sớ giải nói rằng khi mới giảng bốn sắc đại chủng, các sắc y sinh chưa được trình bày theo đặc tính, phận sự và các mặt khác. Vì thế, phần “Vì sao Ngài giảng rộng hư không giới?” được nêu lên. Câu “Để chỉ rõ sắc y sinh” không chỉ có nghĩa là nhằm trình bày sắc y sinh. Còn có lý do nữa: nhờ giới hạn bằng hư không, sắc có thể được nhận biết riêng biệt. Câu kệ chỉ ra sự phân định các nhóm sắc theo cách ấy.
+
+Bốn sắc đại chủng là các sắc chân đế có thể đặt dưới ba đặc tính để quán minh sát, cho nên dễ hiểu vì sao được giảng rộng. Có thể hỏi vì sao Đức Phật cũng giảng rộng hư không giới, vốn không thích hợp để đặt dưới ba đặc tính mà quán minh sát. Câu trả lời là Ngài muốn chỉ dẫn cách nhận biết và tu tập đối với các sắc y sinh.
+
+Trong phần trước của kinh Mahārāhulovāda, Đức Phật mới giảng rộng cách tu tập bốn sắc đại chủng…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Ma-ṭṭha, tập 3, tr. 97; Ma-ṭīkā, tập 2, tr. 63.
+
+
+<a id="M03-body-P051"></a>
+## Khoảng không làm ranh giới giữa các nhóm sắc
+Miến / Burmese 51
+
+… chưa giảng cách nhận biết các sắc y sinh. Vì các sắc y sinh cùng nương vào bốn sắc đại chủng, nên ở đây, qua phần hư không giới, Ngài trình bày chung các sắc y sinh bằng phương pháp nêu đặc tính và các mặt khác. Khi đã chỉ cách nhận biết hư không giới thì cũng đã chỉ cách nhận biết tất cả sắc y sinh. Phải hiểu đó là một lý do giảng rộng hư không giới.
+
+Còn một lý do nữa. Đức Phật giảng rộng hư không giới để chỉ cách nhận biết các sắc sao cho dễ phân biệt. Hư không giới là khe hở giữa những nhóm sắc, là sắc phân định nhóm này với nhóm kia, khiến chúng không lẫn vào nhau. Nhờ hư không giới làm ranh giới, toàn thể các nhóm sắc hiện rõ trong tuệ của hành giả. Khi toàn thể các nhóm hiện rõ, các pháp sắc trong từng nhóm cũng hiện rõ và dễ nhận biết hơn. Để chỉ dạy phương pháp ấy, Đức Phật giảng rộng cách nhận biết hư không giới. (Majjhima Nikāya Aṭṭhakathā, tập 3, tr. 97; Majjhima Nikāya Ṭīkā, tập 2, tr. 63.)
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Ma-ṭṭha, tập 3, tr. 97; Ma-ṭīkā, tập 2, tr. 63.
+
+
+<a id="M03-body-P052"></a>
+## Sáu loại trong suốt
+Miến / Burmese 52
+
+Có năm loại sắc trong suốt: nhãn tịnh sắc, nhĩ tịnh sắc, tỷ tịnh sắc, thiệt tịnh sắc và thân tịnh sắc. Cùng với sự trong sáng của danh, tức hữu phần hay ý môn, có tất cả sáu loại trong suốt.
+
+Trong số ấy, thân tịnh sắc phân bố khắp thân. Những nhóm sắc có một trong năm loại sắc trong suốt, kể cả thân tịnh sắc, là nhóm sắc trong suốt.
+
+[CHƯA XÁC MINH: phiên âm câu Pāli về pasādarūpa.] Năm loại sắc như nhãn tịnh sắc trợ giúp các thức tương ứng, như nhãn thức nhận biết cảnh sắc, bằng năng lực làm duyên y chỉ tiền sinh của vật (vatthupurejātanissaya). Do trong sáng như mặt gương, chúng được gọi là sắc trong suốt.
+
+Ngoài những nhóm sắc trong suốt ấy, các nhóm sắc còn lại do bốn nhân nghiệp, tâm, thời tiết và vật thực sinh ra là những nhóm sắc không trong suốt. Hai loại xen lẫn khắp thân như bột gạo trộn đều với bột nghệ. Trước khi thấy hư không giới và các nhóm sắc, vì tuệ chưa sắc bén, hành giả thấy các nhóm sắc trong suốt và không trong suốt như một khối liền. Vì thế, các nhóm sắc ấy, nhất là những nhóm sắc bị các sắc trong suốt che lấp…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Visuddhimagga, tập 2, tr. 81.
+
+
+<a id="M03-body-P053"></a>
+## Ánh sáng liên hệ với tâm
+Miến / Burmese 53
+
+… hiện ra thành một khối hay một vùng liền. Nhờ ánh sáng phát sinh do tuệ đi cùng định khi tác ý đến tứ đại, nếu chăm chú nhận biết hư không giới trong khối trong ấy, hành giả sẽ thấy các khe hở giữa các nhóm sắc. Khi thấy hư không giới làm ranh giới, hành giả cũng bắt đầu thấy các nhóm sắc.
+
+Về danh pháp, hữu phần, tức ý môn, cũng trong sáng và có ánh sáng lóe rực. Đức Phật dạy trong Tăng chi bộ: “Pabhassaramidaṃ, bhikkhave, cittaṃ.” Này các tỳ-khưu, tâm này sáng chói. Phụ chú giải giải thích rằng tất cả tâm đều trong sáng theo bản tính. Điều ấy muốn nói tâm vốn trong, còn sự ô nhiễm là do các tâm sở bất thiện đi cùng. (Tăng chi bộ, tập 1, tr. 9; Mūlaṭīkā, tập 1, tr. 125.) [CHƯA XÁC MINH: phiên âm đầy đủ lời phụ chú giải.]
+
+Trong các tâm ấy, tâm hữu phần trong sáng và cũng sinh sắc do tâm sinh. Cảnh sắc trong mỗi nhóm sắc do tâm sinh ấy lóe sáng ít hay nhiều tùy năng lực của tuệ đi cùng tâm hữu phần. Hỏa đại trong mỗi nhóm sắc do tâm sinh lại lần lượt sinh các nhóm sắc mới do thời tiết sinh. Cảnh sắc trong các nhóm do thời tiết sinh ấy cũng lóe sáng ít hay nhiều, tùy năng lực của tuệ đi cùng tâm hữu phần…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Aṅ, tập 1, tr. 9; Mūlaṭīkā, tập 1, tr. 125.
+
+
+<a id="M03-body-P054"></a>
+## Bắt đầu phân tích các nhóm sắc
+Miến / Burmese 54
+
+… và tỏa sáng. Cảnh sắc trong các nhóm sắc do tâm sinh và trong các nhóm sắc do thời tiết sinh là quả. Vì tâm hữu phần làm nhân cho sự trong sáng của chúng theo duyên tăng thượng, tâm hữu phần cũng được gọi là pabhassara, sáng chói. Trong các tâm ấy, tâm thiện tu thiền chỉ và tâm thiện tu minh sát, hoặc tâm duy tác của bậc A-la-hán, đặc biệt trong sáng. Như đã giải thích ở trên, các tâm tu thiền chỉ và minh sát cũng có thể làm phát sinh ánh sáng lóe rực.
+
+Xét tổng quát, có hai loại nhóm sắc: nhóm trong suốt và nhóm không trong suốt. Những hạt nhóm sắc chứa một trong năm sắc trong suốt thì trong sáng, còn những nhóm khác thì không. Khi mới thấy nhóm sắc, có người vẫn thấy các khối lớn hoặc những khối cỡ hạt gạo hay hạt gạo vỡ. Có người thấy những hạt như gạo vỡ hoặc hạt kim cương nhỏ nằm trên một nền tối. Trong những khối ấy, nếu tiếp tục nhận biết cho rõ tứ đại hoặc hư không giới, hành giả sẽ thấy các hạt nhóm sắc. Như vậy, những khối trong như hạt gạo vỡ hay hạt kim cương…
+
+
+<a id="M03-body-P055"></a>
+## Thấy nhóm sắc và thấy sắc chân đế
+Miến / Burmese 55
+
+… cần được hiểu là những cụm gồm nhiều nhóm sắc trong suốt. Cũng vậy, nếu nhận biết tứ đại hay hư không giới trong các khối trên nền tối như nhung, hành giả có thể thấy những hạt nhóm sắc không trong suốt tụ lại với nhau.
+
+Khi thấy các nhóm sắc, hãy bắt đầu nhận biết bốn đại trong từng nhóm, cả nhóm trong suốt lẫn nhóm không trong suốt. Hãy nhận biết và phân biệt chúng bằng tuệ. Hành giả sẽ thấy các nhóm sắc xuất hiện và biến mất rất nhanh. Nếu chưa phân tích được chúng, các việc cần làm trong quán minh sát chưa thể thực hiện. Chừng nào chỉ thấy những hạt nhóm sắc, tuệ tu tập vẫn còn trong phạm vi chế định.
+
+Nhóm sắc là một tổ hợp rất nhỏ của các sắc chân đế, còn bị che bởi chế định về tập hợp và hình dạng. Hạt ấy nhỏ hơn hạt bụi cực nhỏ rất nhiều lần. Nếu chưa dùng tuệ phân tích và nhận biết tám, chín hoặc mười sắc trong từng nhóm, sự thấy bằng tuệ chưa đến phạm vi chân đế. Bởi vì cái gọi là nhóm sắc vẫn còn là chế định về một cụm nhỏ nhất, chưa thoát khỏi chế định về tập hợp và hình dạng. Nếu chưa phân tích nhóm sắc và phân biệt các sắc chân đế mà lấy ngay sự xuất hiện và biến mất của cả hạt làm cảnh để quán sinh diệt…
+
+
+<a id="M03-body-P056"></a>
+## Cách nhận biết bốn đại trong từng nhóm sắc
+Miến / Burmese 56
+
+… thì cái được quán vẫn chỉ là sự sinh diệt theo chế định và minh sát trên chế định. Vì thế, hãy phân tích các nhóm sắc. Để tuệ thấy sắc chân đế, hãy nhận biết và phân biệt các pháp sắc chân đế có mặt trong từng nhóm.
+
+Muốn nhận biết và phân biệt chúng bằng tuệ, hãy bắt đầu với bốn đại. Nhận biết ở đây là phân biệt bằng tuệ cho đến mức thấy pháp chân đế. Nếu vì các nhóm sắc sinh diệt quá nhanh mà không thể chăm chú nhận biết bốn đại trong từng nhóm, hãy làm như người gặp người mình không muốn nhìn, làm như thể không nhìn thấy. Đừng tác ý đến sự xuất hiện và biến mất của các nhóm sắc. Hãy làm như không thấy sự xuất hiện và biến mất ấy, chỉ chuyên chú nhận biết bốn đại trong từng nhóm. Hãy nhận biết, nhận diện và phân biệt bằng tuệ.
+
+Nếu chưa nhận biết được tứ đại trong từng nhóm, hãy bắt đầu với địa đại trên toàn thân. Lúc này có thể không thấy một khối thân lớn mà chỉ thấy các hạt nhóm sắc. Hãy nhận biết địa đại trong toàn thể các nhóm trong suốt khắp thân. Sau đó nhận biết địa đại trong một nhóm. Nếu nhóm đang nhận biết biến mất, hãy tiếp tục nhận biết địa đại trong nhóm kế tiếp. Nếu thành công…
+
+
+<a id="M03-body-P057"></a>
+## Luyện nhận biết từng đặc tính trong nhóm sắc
+Miến / Burmese 57
+
+… hãy chuyển từ nhóm này sang nhóm khác và chỉ nhận biết địa đại. Địa đại có sáu tính chất: cứng, nhám, nặng, mềm, trơn, nhẹ. Trong một nhóm, khi cứng, nhám và nặng hiện rõ thì mềm, trơn và nhẹ không hiện rõ. Khi mềm, trơn và nhẹ hiện rõ thì cứng, nhám và nặng không hiện rõ. Nếu khó nhận biết địa đại, hãy ưu tiên nhận biết riêng tính cứng. Khi thành công, dần dần thêm từng tính chất. Hãy thực tập cho quen nhận biết cứng, nhám, nặng hoặc mềm, trơn, nhẹ trong mỗi nhóm.
+
+Hãy luyện nhiều lần: lúc nhận biết tính cứng trong tất cả các nhóm, lúc nhận biết tính cứng trong một nhóm. Khi thành công, hãy luyện nhiều lần nhận biết cứng và nhám trong tất cả các nhóm, rồi trong một nhóm. Khi thành công, hãy luyện nhiều lần nhận biết cứng, nhám và nặng trong tất cả các nhóm, rồi trong một nhóm. Hãy hiểu cách làm tương tự đối với các nhóm mà mềm, trơn và nhẹ hiện rõ. Dựa theo cách này, tiếp tục nhận biết thủy đại, hỏa đại và phong đại.
+
+Trong hai tính chảy và kết dính của thủy đại, thường chỉ một tính hiện rõ hơn. Trước khi nhóm sắc phân giải có thể thấy cả hai, nhưng trong mỗi nhóm chỉ một tính nổi trội hơn. Trong hai tính nóng và lạnh của hỏa đại, mỗi nhóm chỉ có một tính. Khi nóng hiện rõ thì lạnh không hiện rõ, và ngược lại. Hai tính nâng đỡ và đẩy của phong đại có mặt trong mỗi nhóm. Nâng đỡ là đặc tính, đẩy là phận sự.
+
+
+<a id="M03-body-P058"></a>
+## Định khi nhận biết bốn đại trong từng nhóm
+Miến / Burmese 58
+
+Hãy luyện nhiều lần cho đến khi tuệ có thể thấy đồng thời bốn đại trong mỗi nhóm sắc. Khi thành công, định đứng vững trên các đặc tính của bốn đại trong từng nhóm. Định ấy, khi đạt mức cao nhất, được gọi theo nghĩa chuyển là cận định, một định thuộc dục giới.
+
+Vì lấy các pháp chân đế làm cảnh, mà các pháp ấy vi tế và không bền, sinh lên rồi tan biến tức khắc, nên dù tiếp tục phát triển, định này cũng không thể đạt an chỉ. Theo nghĩa trực tiếp, định ở gần an chỉ mới gọi là cận định. Trong phép tác ý đến tứ đại này không có an chỉ. Tuy vậy, xét về đặc tính của định, mức định cao nhất đạt được trong phép tác ý đến tứ đại giống với cận định ở gần an chỉ. Vì thế, định vững chắc trên bốn đại trong từng nhóm sắc, khi đạt mức cao nhất, cũng được gọi theo nghĩa chuyển là cận định. (Visuddhimagga 1,347; Mahāṭīkā 1,435–436.)
+
+[CHƯA XÁC MINH: phiên âm đoạn Pāli cuối trang.] Nên hiểu cách gọi cận định ở đây theo nghĩa chuyển. Theo nghĩa trực tiếp, cận định là định vận hành ở gần an chỉ. Vì sao định này không đạt an chỉ dù có đặc tính tương tự? Vì nó lấy các pháp có đặc tính riêng làm cảnh.
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Visuddhimagga, tập 1, tr. 347; Mahāṭīkā, tập 1, tr. 435–436; Mahāṭīkā, tập 1, tr. 435.
+
+
+<a id="M03-body-P059"></a>
+## Doṇamatta — khoảng một đấu
+Miến / Burmese 59
+
+Trong một thân cỡ trung bình, lượng địa đại có thể được tuệ phân tích. Khi xét đến mức cực nhỏ, hay đến những nhóm sắc nhỏ hơn hạt bụi cực nhỏ nhiều lần, lượng địa đại, tức toàn thể những nhóm sắc trong đó địa đại trội, được ví khoảng một đấu. [CHƯA XÁC MINH: quy đổi đơn vị đo theo bản Miến.]
+
+Địa đại ấy được gom lại nhờ sức kết dính của thủy đại với lượng tương ứng. Hỏa đại duy trì để nó không hóa lỏng do tính chảy của thủy đại. Phong đại nâng đỡ khiến nó đứng vững. Như khi dùng một vật chống đỡ để giữ cho vật khác không đổ, phong đại có tính nâng đỡ và đẩy giúp nó đứng vững. Bởi vậy, nó không rời rạc, phân tán hay vỡ vụn. Do không tan rã theo cách ấy, trong phạm vi chế định, người ta phân biệt những hình dạng nam, nữ khác nhau. Sự hỗ trợ của các duyên vi tế làm cho tướng được thấy hiện ra như một khối vững chắc. (Thanh tịnh đạo, tập 1, tr. 361.) [CHƯA XÁC MINH: chi tiết về vật chống đỡ trong ví dụ.]
+
+Theo lời Chú giải trên, nếu nói đại lược, tổng lượng các nhóm sắc có địa đại trội trong thân này vào khoảng một đấu. Hành giả không thể thấy hết mọi đặc tính của bốn đại trong từng nhóm trong toàn bộ số nhóm ấy. Có những nhóm nhận biết được các đại…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Visuddhimagga, tập 1, tr. 361.
+
+
+<a id="M03-body-P060"></a>
+## Những loại sắc cần nhận biết đầy đủ
+Miến / Burmese 60
+
+… và có những nhóm không nhận biết được. Nói cách khác, có những nhóm sắc hành giả có thể dùng tuệ phân biệt đến mức chân đế và có những nhóm không thể phân biệt được như vậy. Tùy sức của tuệ trong các ba-la-mật mà mỗi người đã tích lũy và tùy năng lực của tuệ khởi lên do các duyên thích hợp, có người nhận biết được nhiều, có người nhận biết được ít. Tuy nhiên, cần nhận biết đủ các loại. Hãy đọc lời giải thích dưới đây.
+
+[CHƯA XÁC MINH: phiên âm đầy đủ đoạn Pāli dẫn ở trang này.] Tất cả các loại sắc và danh có mặt trong dòng tương tục của chính mình, và tất cả các loại sắc và danh trong dòng tương tục của người khác, cần được gom lại theo tính chất chung, không phân chia thành đàn ông, đàn bà, người, chúng sinh, chư thiên hay Phạm thiên. Việc gom các pháp lại và quán minh sát chúng là phạm vi của tuệ minh sát nơi người đệ tử, tức sự quán theo nhóm (sammasana).
+
+Theo lời giải thích ấy, trong cả dòng tương tục bên trong và bên ngoài, cần phân biệt đủ các loại sắc thuộc hai mươi tám sắc, như đã trình bày trong phần đề mục sắc. (Ma-ṭīkā 3,274–275.)
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Ma-ṭīkā, tập 3, tr. 274–275.
+
+
+<a id="M03-body-P061"></a>
+## Nhận biết đủ các loại nhóm sắc ở sáu cửa
+Miến / Burmese 61
+
+Nói rõ hơn, trong mắt có rất nhiều nhóm mười sắc có nhãn tịnh sắc. Đang nói đến những nhóm có mặt cùng lúc. Trong số đó, hành giả có thể nhận biết các sắc chân đế trong một số nhóm, còn một số nhóm thì không. Hãy hiểu theo cách ấy. Tuy không thể nhận biết đến chân đế tất cả những nhóm thuộc cùng một loại, hành giả vẫn cần nhận biết đủ các loại nhóm sắc, như nhóm mười sắc có nhãn tịnh sắc, nhóm mười sắc có thân tịnh sắc, v.v. Hãy hiểu tương tự ở cả sáu cửa: mắt, tai, mũi, lưỡi, thân và tim.
+
+Hãy nhận biết đến mức chân đế bốn đại trong các nhóm sắc trong suốt và bốn đại trong các nhóm sắc không trong suốt ở cả sáu cửa. Khi làm được như thế, phần thiền chỉ của phép tác ý đến tứ đại, gọi là phân định bốn đại (catudhātuvavatthāna), đã hoàn tất. Hành giả cũng đã đặt chân vào phạm vi kiến thanh tịnh.
+
+Tưởng về chúng sinh và tưởng về tự ngã đã tan. [CHƯA XÁC MINH: phiên âm đầy đủ đoạn Pāli nối sang trang sau.] Đối với vị tỳ-khưu này, trước kia khi còn là phàm phu ngu muội, dù tại gia hay xuất gia, tưởng về chúng sinh hay về người vẫn chưa mất, chừng nào vị ấy chưa phân tích thân này, dù được đặt hay duy trì thế nào, theo các giới. Khi phân tích theo các giới, tưởng về chúng sinh mất đi, tâm chỉ đứng vững trên các giới. Vì vậy Đức Thế Tôn dạy rằng vị ấy quán chính thân này theo các giới: trong thân này có địa giới, thủy giới, hỏa giới và phong giới. Ví như người đồ tể khéo nghề…
+
+
+<a id="M03-body-P062"></a>
+## Ví dụ người đồ tể
+Miến / Burmese 62
+
+… hoặc người học việc của người ấy. Pe. Phong giới.
+
+[CHƯA XÁC MINH: phiên âm lời Sớ giải ở đầu trang.] Để phân tích riêng các khối liên tục, tập hợp và phận sự, vị ấy phân tích theo giới. Khi phân tích như vậy, tưởng về chúng sinh, tức tưởng do chấp có tự ngã, hoặc tưởng về người theo cách gọi thông thường, không còn tồn tại. Với vị tu tập tác ý đến các giới, khi thực hành như vậy, ví dụ trở nên tương ứng. Vì thế có lời “tâm chỉ đứng vững trên các giới”.
+
+Khi dạy cách tu tập đề mục tứ đại trong kinh Mahāsatipaṭṭhāna, Đức Phật đưa vào ví dụ người đồ tể. Ý nghĩa như sau.
+
+Khi nuôi bò cho lớn, dẫn bò đến lò mổ, trói bò ở đó, giết bò, hoặc nhìn xác bò sau khi giết, người đồ tể vẫn còn tưởng “bò” chừng nào chưa phân riêng từng phần: thịt, xương, gân, gan, v.v. Nhưng khi đã phân riêng từng phần ấy rồi ngồi bán thịt ở một ngã tư, tưởng “bò” trong dòng tâm của người đồ tể biến mất. Tưởng “thịt bò”…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Ma-ṭṭha, tập 1, tr. 276; Ma-ṭīkā, tập 1, tr. 365–366.
+
+
+<a id="M03-body-P063"></a>
+## Từ tưởng về chúng sinh đến nhận biết các giới
+Miến / Burmese 63
+
+… xuất hiện. Người đồ tể không nghĩ “Tôi bán bò, những người này đang mua bò”. Người ấy nghĩ “Tôi bán thịt bò, những người này đang mua thịt bò”. Đó là phần ví dụ.
+
+Cũng vậy, trong dòng tâm của vị tỳ-khưu hành thiền, khi tuệ chân đế còn bị che lấp và vị ấy còn là phàm phu ngu muội, dù tại gia hay xuất gia, tưởng về chúng sinh và về người chưa mất. Chừng nào chưa dùng tuệ phá vỡ các khối sắc theo tính liên tục, tập hợp và phận sự, chưa phân tích riêng địa, thủy, hỏa và phong trong từng nhóm sắc, chưa nhận biết chúng như những tập hợp các đặc tính của giới, thì tưởng ấy vẫn còn. Nhưng khi dùng tuệ phá vỡ từng khối sắc, quán xét và nhận biết được địa, thủy, hỏa và phong chân đế trong từng nhóm sắc, tưởng về chúng sinh trong dòng tâm vị ấy biến mất. Tâm chỉ đứng vững trên các giới. Đó là phần được ví.
+
+Vì vậy Đức Phật dạy như sau. Vị tỳ-khưu hành thiền quán chính thân này, dù đang được đặt hay duy trì thế nào…
+
+
+<a id="M03-body-P064"></a>
+## Quán thân theo giới và ba loại khối sắc
+Miến / Burmese 64
+
+… vị ấy quán xét từng phần như một tập hợp các đặc tính của giới: trong thân này có địa giới, có thủy giới, có hỏa giới và có phong giới. Vị ấy quán như vậy vì ở đó không có người hay chúng sinh.
+
+Này các tỳ-khưu, ví như người đồ tể khéo nghề hoặc người học việc của người ấy, sau khi giết bò, chia riêng thành từng phần, như thịt, xương, v.v., rồi ngồi ở ngã tư để bán. Cũng vậy, này các tỳ-khưu, vị tỳ-khưu hành thiền quán chính thân này, dù đang được đặt hay duy trì thế nào: trong thân này có địa giới, có thủy giới, có hỏa giới và có phong giới. Vị ấy quán xét từng phần như một tập hợp các đặc tính của giới, vì ở đó không có người hay chúng sinh. (Majjhima Nikāya Aṭṭhakathā, tập 1, tr. 275–276; Majjhima Nikāya Ṭīkā, tập 1, tr. 365–366.)
+
+Ba loại khối sắc (rūpaghana). [CHƯA XÁC MINH: phiên âm câu dẫn Đại sớ giải.]
+
+Trong phạm vi sắc có ba loại khối: khối liên tục (santatighana), khối tập hợp (samūhaghana) và khối phận sự (kiccaghana). Như đã trình bày, khi tu tập đề mục tứ đại, chừng nào chưa thấy các nhóm sắc thì khối liên tục, tức khối do sắc nối tiếp nhau, chưa tan. Chế định về sự liên tục vẫn che lấp tuệ. Khi ấy, cảnh đang được nhận biết, tức các đặc tính của bốn đại, vẫn là các đặc tính sắc chưa được tách khỏi các khối liên tục, tập hợp và phận sự…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Ma-ṭṭha, tập 1, tr. 275–276; Ma-ṭīkā, tập 1, tr. 365–366; Ma-ṭīkā, tập 1, tr. 365.
+
+
+<a id="M03-body-P065"></a>
+## Phân giải khối liên tục và khối tập hợp
+Miến / Burmese 65
+
+… còn bị các chế định về sự liên tục, tập hợp và hình dạng che lấp.
+
+Khi tuệ sắc bén, hành giả bắt đầu thấy các nhóm sắc như đã nói trên. Lúc ấy khối lớn do sắc nối tiếp đã tan. Hành giả không còn thấy khối trong, vùng trong hay mảng trong lớn như trước, mà thấy những hạt nhóm sắc xuất hiện và biến mất rất nhanh. Đó là khối liên tục đã tan. Hai khối còn lại, khối tập hợp và khối phận sự, vẫn chưa tan.
+
+Nếu dùng tuệ phân biệt và nhận biết địa, thủy, hỏa và phong trong từng nhóm sắc, khối tập hợp cũng bắt đầu tan. Nếu tiếp tục nhận biết các sắc y sinh trong từng nhóm thì khối tập hợp hoàn toàn tan. Tuệ phân biệt sắc (rūpapariggahañāṇa) lúc ấy phá được cả khối liên tục và khối tập hợp. Nếu chưa dùng tuệ phân biệt và nhận biết được tám, chín hoặc mười sắc chân đế trong một nhóm, chỉ thấy nguyên cả nhóm, thì chế định về tập hợp và hình dạng chưa mất. Tuệ vẫn mắc lại trong phạm vi chế định…
+
+
+<a id="M03-body-P066"></a>
+## Phân giải khối phận sự
+Miến / Burmese 66
+
+… và chưa vượt khỏi phạm vi ấy. Chỉ khi dùng tuệ phân biệt riêng từng sắc trong mỗi nhóm, nhận biết đến đặc tính chân đế của từng sắc, sự thấy mới đến mức chân đế. Chế định về tập hợp mất đi và khối tập hợp tan.
+
+Nếu có thể nhận biết những sắc chân đế trong mỗi nhóm theo đặc tính, phận sự, biểu hiện và nhân gần như đã trình bày ở phần nói về bốn mặt này, thì không những khối liên tục và khối tập hợp đã tan, mà cả khối phận sự cũng tan. Khối lớn do các phận sự của sắc gộp lại đã được tuệ phá vỡ.
+
+Mỗi sắc có phận sự riêng. Địa đại làm chỗ nương cho các sắc cùng nhóm, đó là phận sự làm nền (patiṭṭhānarasa). Thủy đại làm các sắc tăng trưởng, đó là phận sự tăng trưởng (brūhanarasa). Hỏa đại làm chín các sắc cùng nhóm, đó là phận sự làm chín (paripācanarasa). Phong đại đẩy, đó là phận sự làm chuyển động (samudīraṇarasa). Từng sắc có phận sự riêng như thế. Hành giả hãy dùng tuệ nhận biết và phân biệt từng phận sự. Kinh, Chú giải và Sớ giải đã chỉ dẫn theo cách ấy. Nếu chưa biết từng phận sự, tuệ phân biệt sắc vẫn bị khối phận sự che lấp. Tuy phận sự của từng sắc có khác nhau…
+
+
+<a id="M03-body-P067"></a>
+## Trong sắc không có khối về cảnh
+Miến / Burmese 67
+
+… nếu chưa biết sự khác nhau ấy mà vẫn nắm bắt như thể chỉ có một phận sự, thì gọi là còn bị khối phận sự che lấp. Hãy dùng tuệ phá vỡ khối ấy và nhận biết các pháp sắc chân đế.
+
+(Abhidhamma, tập 1, tr. 9; Abhidhamma, tập 1, tr. 238; Abhidhamma, tập 1, tr. 238; Abhidhamma, tập 1, tr. 287; Abhidhamma, tập 1, tr. 287; Chú giải Abhidhamma, tập 1, tr. 96; Đại sớ giải, tập 2, tr. 437.) [CHƯA XÁC MINH: phiên âm đầy đủ các đoạn Pāli liệt kê ở trang này.]
+
+Các pháp có cảnh và các pháp không có cảnh. Những pháp nào có cảnh? Thọ uẩn, tưởng uẩn, hành uẩn và thức uẩn. Đó là những pháp có cảnh.
+
+Những pháp nào không có cảnh? Toàn bộ sắc và giới vô vi. Đó là những pháp không có cảnh.
+
+Những pháp nào có cảnh? Pháp thiện trong bốn địa và pháp bất thiện, tâm quả trong bốn địa, và pháp duy tác vô ký trong ba địa. Đó là những pháp có cảnh.
+
+Những pháp nào không có cảnh? Sắc và Niết-bàn. Đó là những pháp không có cảnh.
+
+Các pháp không có cảnh không lấy cảnh. Ngay trong các pháp có cảnh, khối về cảnh được phân biệt theo sự sai khác trong cách lấy cảnh.
+
+Trong sự truyền dạy của các vị thầy, có nơi nói cả sắc lẫn danh đều có bốn khối: liên tục, tập hợp, phận sự và cảnh. Tuy nhiên, các đoạn kinh, Chú giải và Sớ giải vừa nêu giải thích rằng sắc không có khối về cảnh, mà chỉ có ba khối: liên tục, tập hợp và phận sự…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Abhi, tập 1, tr. 9; Abhi, tập 1, tr. 238; Abhi, tập 1, tr. 287; Abhi-ṭṭha, tập 1, tr. 96; Mahāṭīkā, tập 2, tr. 437.
+
+
+<a id="M03-body-P068"></a>
+## Các pháp có cảnh và không có cảnh
+Miến / Burmese 68
+
+… như đã nói.
+
+Trong Dhammasaṅgaṇī, Đức Phật chia các pháp chân đế thành hai nhóm: pháp có khả năng lấy cảnh (sārammaṇa) và pháp không lấy cảnh (anārammaṇa). Bốn danh uẩn là thọ, tưởng, hành và thức, khi phân tích theo loại, là các pháp thiện, bất thiện, quả và duy tác vô ký. Đức Phật dạy đó là các pháp có cảnh. Cũng trong Dhammasaṅgaṇī, Ngài dạy rằng toàn bộ các sắc và pháp vô vi Niết-bàn là các pháp không có cảnh.
+
+Chỉ những pháp có cảnh mới có khối về cảnh (ārammaṇaghana), tức khối do các pháp cùng lấy cảnh. Chú giải và Sớ giải ở trên giải thích như vậy. Các pháp có cảnh có thể lấy một cảnh chế định, như tướng của đề mục niệm hơi thở hay tướng của biến xứ trắng. Chúng cũng có thể lấy một cảnh chân đế, như đặc tính riêng của bốn đại có mặt trong từng nhóm sắc. Chúng lấy được cả cảnh chế định lẫn cảnh chân đế. Khi lấy cảnh, các tâm và tâm sở cùng sinh trong mỗi sát-na tâm, ít nhất có tám danh pháp. Có khi, như trong tâm tu thiền chỉ hay tâm tu minh sát, có đến ba mươi bốn tâm và tâm sở đi cùng trong một sát-na. Các tâm và tâm sở cùng sinh trong mỗi sát-na, tuy lấy cùng một cảnh, có cách lấy cảnh riêng…
+
+
+<a id="M03-body-P069"></a>
+## Khối về cảnh và quán xét theo giới
+Miến / Burmese 69
+
+[CHƯA XÁC MINH: phiên âm hai đoạn Pāli dẫn đầu trang.] Thức được gọi là thức vì nhận biết cảnh. Nhận biết là nắm bắt cảnh.
+
+Theo Chú giải và Sớ giải, trong các danh pháp này, tâm là pháp nhận biết cảnh. Ví dụ, khi hướng tâm nhận biết địa đại trong một nhóm sắc, nếu lấy được cảnh, tức nhận biết được địa đại, thì nói là biết địa đại. Nếu không lấy được cảnh, tức không nhận biết được địa đại, thì không thể nói là biết địa đại. Vậy sự biết, tức tâm, là sự nhận biết cảnh. Xúc là sự tiếp xúc với cảnh, nối tâm biết với cảnh. Thọ là sự cảm nhận vị của cảnh. Các pháp có cảnh khác cũng có cách lấy cảnh riêng. Hãy hiểu theo cách tương tự.
+
+Tuy các pháp có cảnh có cách lấy cảnh khác nhau, nếu chưa phân biệt đây là xúc, đây là thọ, đây là tưởng, đây là tư, đây là thức, mà vẫn nắm bắt chúng như một khối duy nhất, đó gọi là khối về cảnh. (Mahāṭīkā 2,437.)
+
+Vì vậy, khối về cảnh chỉ liên hệ với các pháp có cảnh. Trong phần sắc, cần hiểu rằng Chú giải chỉ nêu ba khối: liên tục, tập hợp và phận sự.
+
+Quán xét theo giới (dhātuso paccavekkhati). Khi dạy phần tác ý đến các giới trong kinh Mahāsatipaṭṭhāna, Đức Phật dạy quán theo giới…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Ma-ṭṭha, tập 1, tr. 280; Mūlaṭīkā, tập 1, tr. 87; Mahāṭīkā, tập 2, tr. 437.
+
+
+<a id="M03-body-P070"></a>
+## Quán bốn đại đến mức chân đế
+Miến / Burmese 70
+
+… nghĩa là quán xét từng phần như một tập hợp các đặc tính của giới, vì ở đó không có người, chúng sinh hay tự ngã. Chú giải và Sớ giải nói rằng đây là lời chỉ dẫn dùng tuệ phá vỡ ba loại khối, để nhận biết trong mỗi nhóm sắc các đặc tính chân đế của địa, thủy, hỏa và phong. Vì thế, hãy ghi nhớ rằng khi tu tập đề mục tứ đại, chỉ khi nhận biết và phân biệt được đặc tính riêng của bốn đại trong từng nhóm sắc đến mức chân đế, hành giả mới thực hành đề mục tứ đại theo ý Đức Phật, mới có thể quán xét theo giới.
+
+Chỉ khi dùng tuệ phân biệt từng đặc tính của bốn đại trong mỗi nhóm sắc thì sự thấy bằng tuệ mới đến chân đế. Khi ấy, ánh sáng của vô ngã mới thực sự chiếu sáng. Đến mức ấy, tưởng về chúng sinh và tưởng về tự ngã mới tan.
+
+[CHƯA XÁC MINH: phiên âm đoạn Pāli dẫn ở cuối trang.] Khi có thể phân tích từng sắc và danh riêng biệt theo từng pháp chân đế, và dùng tuệ phá vỡ từng khối sắc và khối danh, đặc tính vô ngã mới có thể hiện rõ đúng theo bản tính của nó trong tuệ hành giả…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Abhi-ṭṭha, tập 2, tr. 47.
+
+
+<a id="M03-body-P071"></a>
+## Hai cách chấp tự ngã
+Miến / Burmese 71
+
+… và hiện rõ trong sự biết bằng tuệ.
+
+Chỉ khi ánh sáng của vô ngã thực sự chiếu lên thì tưởng về chúng sinh và tưởng về tự ngã mới tan. Về hai loại tưởng ấy, các vị Sớ giải sư nêu hai cách chấp tự ngã.
+
+1. Chấp theo tà kiến về tự ngã (attadiṭṭhi). Một số người ngoài giáo pháp cho rằng tự ngã bị tiêu diệt khi chết. Đó là đoạn kiến. Một số cho rằng tự ngã không tiêu diệt khi chết. Đó là thường kiến. Họ cho rằng tự ngã sở hữu thân uẩn, thân uẩn thay đổi từ đời này sang đời khác nhưng tự ngã không đổi, vẫn luôn đi theo thân uẩn. Họ cho rằng tự ngã có thể làm, cảm thọ, sai khiến và bắt thân uẩn làm theo ý muốn. Họ nói tự ngã tồn tại theo cách ấy. Đó là thường kiến. Cả đoạn kiến lẫn thường kiến đều là chấp theo tà kiến về tự ngã.
+
+2. Chấp theo quy ước của thế gian, tức cách gọi thông thường. Người ta tin đàn ông, đàn bà, người, chúng sinh, chư thiên và Phạm thiên thực sự hiện hữu theo cách gọi thường ngày. Đó là chấp theo quy ước hay ngôn ngữ thế gian, tức tưởng về chúng sinh.
+
+Khi hành giả thực tập đúng trình tự của đề mục tứ đại, vị ấy nhận biết bốn đại cùng những sắc y sinh trong từng nhóm sắc…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Abhi-ṭṭha, tập 2, tr. 47.
+
+
+<a id="M03-body-P072"></a>
+## Khi hai cách chấp tan và cách nhận biết sắc y sinh
+Miến / Burmese 72
+
+… và dùng tuệ phân biệt đến mức chân đế. Vị ấy thấy rõ bằng tuệ các sắc ấy sinh diệt hết sức nhanh. Thấy chúng vô thường, vỡ tan, không bền, vị ấy thấy không có tự ngã hay người sở hữu. Vị ấy cũng không thấy một tự ngã nào ẩn đằng sau các nhóm sắc trong hay ngoài thân. Không còn căn cứ để chỉ ra đây là đàn ông hay đây là đàn bà. Vị ấy không tìm được tự ngã hay người nam, người nữ như cách gọi thông thường. Khi ấy, cả chấp theo tà kiến về tự ngã lẫn chấp theo quy ước thế gian đều tan trong dòng tâm của hành giả.
+
+Cách nhận biết các sắc y sinh. Khi đã nhận biết được bốn đại trong các nhóm sắc trong suốt và không trong suốt ở cả sáu cửa, có thể tiếp tục nhận biết các sắc y sinh. Tốt hơn nữa nếu cũng nhận biết được bốn đại trong các nhóm sắc trong suốt và không trong suốt ở ba mươi hai thể phần. Khi đã nhận biết bốn đại trong các nhóm của cả sáu cửa và ba mươi hai thể phần, tuệ sắc bén hơn và các sắc y sinh có thể dần hiện rõ. Cách làm là trước hết hướng tâm đến mắt. Khi ấy có thể dễ dàng thấy các hạt nhóm sắc. Nếu chưa thấy, hãy chú tâm nhận biết bốn đại ở mắt…
+
+
+<a id="M03-body-P073"></a>
+## Nhận biết tứ đại ở sáu cửa và ba mươi hai thể phần
+Miến / Burmese 73
+
+… tuệ sẽ sắc bén hơn và hành giả có thể dễ dàng thấy các hạt nhóm sắc. Khi ấy hãy tiếp tục nhận biết bốn đại trong các nhóm trong suốt và không trong suốt. Hãy hiểu tương tự đối với tai, mũi, lưỡi, thân và tim. Trong ba mươi hai thể phần, hãy hướng tâm đến phần mà mình muốn nhận biết. Khi thấy thể phần ấy, hãy nhận biết bốn đại trong đó. Khi thấy các hạt nhóm sắc, hãy nhận biết cho rõ bốn đại trong cả nhóm trong suốt và nhóm không trong suốt. Khi đã thành công ở sáu cửa và ba mươi hai thể phần, có thể tiếp tục nhận biết các sắc y sinh.
+
+[CHƯA XÁC MINH: phiên âm đầy đủ ba đoạn Pāli ở nửa dưới trang, đoạn cuối nối sang trang 74.] Khi nhận biết bốn sắc đại chủng, sắc y sinh hiện rõ. Các sắc đại chủng được phân định bằng các sắc y sinh, và các sắc y sinh được phân định bằng các sắc đại chủng. Ví như ánh nắng được phân biệt nhờ bóng và bóng được phân biệt nhờ ánh nắng. Cũng vậy, hai loại sắc được phân biệt lẫn nhau.
+
+“Như xanh, vàng, v.v.” nói đến màu và các sắc y sinh tương tự. Sắc y sinh nương vào sắc đại chủng cùng nhóm và không thể có ngoài các sắc đại chủng ấy. Câu nói về bóng và ánh nắng chỉ cách hai pháp phân định lẫn nhau…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Abhi-ṭṭha, tập 2, tr. 241; Mūlaṭīkā, tập 2, tr. 154.
+
+
+<a id="M03-body-P074"></a>
+## Sắc đại chủng và sắc y sinh phân định lẫn nhau
+Miến / Burmese 74
+
+… vì ánh nắng làm duyên cho bóng và bóng sinh do ánh nắng. Do mối quan hệ làm duyên và được duyên ấy, hai pháp phân định lẫn nhau. (Anuṭīkā 2,156.)
+
+Trong sự biết bằng tuệ của hành giả đang nhận biết, phân biệt bốn sắc đại chủng trong từng nhóm, sắc y sinh hiện rõ. Cần dùng sắc y sinh cùng nhóm để phân biệt sắc đại chủng, và dùng sắc đại chủng cùng nhóm để phân biệt sắc y sinh. Ví như phân biệt ánh nắng nhờ bóng và phân biệt bóng nhờ ánh nắng, cũng vậy hãy phân biệt sắc đại chủng và sắc y sinh cùng nhóm nhờ nhau.
+
+Lời Chú giải trên là một mốc chỉ dẫn hết sức quý cho người đang dùng tuệ nhận biết các sắc đến mức chân đế. Các vị Sớ giải sư cũng giảng rõ để hành giả có thể thực hành. Lời giải thích như sau.
+
+Khi sắc đại chủng được phân định bằng sắc y sinh cùng nhóm, có thể nói sắc đại chủng có màu nâu, có màu vàng, có mùi thơm hay có mùi hôi, v.v. Những sắc y sinh cùng nhóm như màu (vaṇṇa) và mùi (gandha) phân định cho sắc đại chủng hiện rõ. Vì các sắc y sinh cùng nhóm nương vào sắc đại chủng và không có ở ngoài các sắc đại chủng cùng nhóm, chúng cũng được các sắc đại chủng cùng nhóm phân định. Muốn bóng râm xuất hiện, phải có nhân là ánh nắng…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Anuṭīkā, tập 2, tr. 156; Abhi-ṭṭha, tập 2, tr. 241.
+
+
+<a id="M03-body-P075"></a>
+## Ví dụ ánh nắng và bóng cây
+Miến / Burmese 75
+
+… hiện rõ. Vào ban đêm không có ánh nắng, bóng râm không hiện rõ. Như vậy, ánh nắng là nhân làm cho bóng râm sinh lên. Do nhân là ánh nắng đang hiện rõ, bóng râm, tức bóng cây, hiện ra. Cũng chính vì ánh nắng là nhân làm sinh bóng cây mà ánh nắng và bóng cây phân định lẫn nhau. (Mūlaṭīkā 2,154; Anuṭīkā 2,156.)
+
+Lời giải thích ấy chỉ ra rằng mối quan hệ giữa pháp được sinh và pháp làm sinh cũng làm cho chúng phân biệt lẫn nhau.
+
+Vào ngày có nắng, hãy hướng tâm nhận biết ánh nắng chiếu xuống mặt đất và bóng cây. Hành giả dễ thấy ánh nắng trên mặt đất và bóng râm, tức bóng cây. Bóng cây hiện ra do nhân là ánh nắng. Nếu không có ánh nắng, bóng cây không hiện ra. Ánh nắng giúp phân biệt đây là bóng cây. Bóng cây cũng giúp phân biệt đây là ánh nắng. Tuy vậy, ánh nắng là nhân làm sinh bóng cây, còn bóng cây là pháp được sinh do ánh nắng. Chính mối quan hệ giữa pháp được sinh và pháp làm sinh khiến chúng phân biệt lẫn nhau.
+
+Cũng vậy, khi hành giả nhận biết một nhóm sắc theo cách này…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Mūlaṭīkā, tập 2, tr. 154; Anuṭīkā, tập 2, tr. 156.
+
+
+<a id="M03-body-P076"></a>
+## Sắc y sinh có mặt trong nhóm sắc
+Miến / Burmese 76
+
+… vị ấy chỉ có thể nhận biết bốn đại trong nhóm ấy sau khi dùng tuệ thấy được nhóm sắc. Nếu chưa thấy nhóm sắc thì chưa thể nhận biết bốn đại trong nó. Ngay cả việc thấy nhóm sắc bằng tuệ cũng cần ít nhất thấy màu, tức cảnh sắc (rūpārammaṇa) gọi là vaṇṇa, có mặt trong nhóm. Sau khi thấy nhóm sắc, hành giả có thể lần lượt nhận biết bốn đại trong đó.
+
+Mặt khác, khi nhận biết được bốn đại trong nhóm sắc, hành giả có thể tiếp tục nhận biết các sắc y sinh cùng nhóm như màu (vaṇṇa), mùi (gandha), vị (rasa) và dưỡng chất (ojā). Có thể làm được như vậy vì những sắc y sinh ấy không thể có ngoài nhóm sắc chứa bốn sắc đại chủng.
+
+Sắc y sinh cùng nhóm sinh lên do nương vào bốn sắc đại chủng. Các sắc đại chủng cùng nhóm trợ giúp bằng những duyên như câu sinh và y chỉ. Nhờ vậy, các sắc y sinh cùng nhóm mới sinh lên được. Mặt khác, các sắc đại chủng cũng không thể sinh riêng rẽ mà không có các sắc y sinh. Khi biết màu đẹp hay xấu, mùi thơm hay hôi, v.v., hành giả biết nhờ các sắc y sinh cùng nhóm. Sắc đại chủng là pháp làm sinh…
+
+
+<a id="M03-body-P077"></a>
+## Vì sao cần nhận biết cả đại chủng lẫn sắc y sinh
+Miến / Burmese 77
+
+… còn sắc y sinh cùng nhóm là pháp được sinh. Quan hệ làm sinh và được sinh ấy cho thấy cách sắc đại chủng và sắc y sinh cùng nhóm phân định lẫn nhau. Sắc đại chủng ví như ánh nắng, sắc y sinh ví như bóng cây hiện ra nhờ ánh nắng.
+
+Theo lời giải thích này, khi nhận biết sắc để tuệ thấy chân đế, không thể nhận biết sắc y sinh mà chưa nhận biết sắc đại chủng, cũng không thể nhận biết sắc đại chủng mà chưa nhận biết sắc y sinh. Chẳng hạn, nếu chưa nhận biết được hư không giới và màu sắc, là các sắc y sinh, hành giả không thể dùng tuệ thấy nhóm sắc. Khi không thấy nhóm sắc, việc nhận biết bốn đại trong từng nhóm vẫn chỉ là điều mong đợi. Nếu chưa thể nhận biết bốn đại trong từng nhóm, hành giả chưa biết sắc chân đế. Trong dòng tâm của người chưa biết sắc chân đế, tuệ minh sát chân thật không thể sinh lên bằng cách nào cả.
+
+Lại nữa, nếu chưa biết cách nhận biết bốn đại trong từng nhóm, khả năng tiếp tục nhận biết các sắc y sinh cùng nhóm vẫn còn xa. Vì thế, sau khi đã nhận biết bốn đại trong mỗi nhóm sắc, hãy tiếp tục nhận biết các sắc y sinh cùng nhóm.
+
+
+<a id="M03-body-P078"></a>
+## Màu sắc và mùi
+Miến / Burmese 78
+
+Màu sắc (vaṇṇa). Mỗi nhóm sắc đều có màu, tức cảnh sắc. Màu là sắc dễ thấy. Do tuệ đi cùng những tâm tu thiền chỉ và minh sát sinh nối tiếp trong dòng tâm của hành giả, ánh sáng lóe rực. Nhờ ánh sáng ấy, hành giả có thể thấy cảnh sắc của các nhóm bằng tuệ đi cùng các tâm đổng lực minh sát đại thiện ở ý môn.
+
+Mùi (gandha). Mỗi nhóm sắc đều có mùi. Mùi có thể được biết bằng các tâm đổng lực minh sát đại thiện ở ý môn. Nhưng đối với một số hành giả, khi hướng tâm đến mùi trong từng nhóm sắc ở mắt, nơi xa mũi, mùi có thể không hiện rõ, thậm chí không thể lấy làm cảnh. Đây là khó khăn thường gặp, nhất là với người tu thuần minh sát.
+
+Khi ấy, hãy nhận biết cùng nhau tỷ tịnh sắc và sự trong sáng của hữu phần, tức ý môn. Nếu chuyên chú vào bốn đại ở chỗ nương của mũi bên trong mũi, hành giả dễ thấy các nhóm sắc. Trong đó có cả các nhóm sắc trong suốt, tức nhóm mười sắc có tỷ tịnh sắc và nhóm mười sắc có thân tịnh sắc. Hãy nhận biết trước tỷ tịnh sắc có mặt trong nhóm mười sắc có tỷ tịnh sắc. Sau khi đã nhận biết thành công bốn đại trong những nhóm sắc trong suốt và không trong suốt ở sáu cửa, lúc ấy, ở bên trong tim…
+
+
+<a id="M03-body-P079"></a>
+## Dùng hai cửa để nhận biết mùi
+Miến / Burmese 79
+
+… hành giả cũng có thể dễ thấy sự trong sáng của hữu phần, tức ý môn, lóe sáng, nương vào sắc ý vật (hadayavatthu) thuộc nhóm mười sắc ý vật không trong suốt. Hãy nhận biết sự trong sáng ấy.
+
+Hãy nhận biết tỷ tịnh sắc và sự trong sáng của hữu phần cùng nhau, rồi hướng tâm đến mùi trong nhóm sắc muốn quán. Mùi là pháp có thể biết bằng tỷ thức, cũng có thể biết bằng ý thức. Tỷ thức nương vào tỷ tịnh sắc. Ý thức, ở đây là những tâm đổng lực minh sát đại thiện ở ý môn, nương vào sắc ý vật với hữu phần làm cửa.
+
+Vì vậy, khi khó nhận biết mùi, việc giữ đồng thời hai cửa trong sáng tương ứng rồi nhận biết cảnh mùi chỉ là cách hỗ trợ lúc mới bắt đầu. Khi thành công, hành giả cũng có thể nhận biết cảnh mùi bằng ý thức, tức tâm đổng lực minh sát đại thiện ở ý môn. Vì đã quen nhận biết cảnh mùi bằng tỷ thức nên có thể dùng cách ấy. Nếu thành công thì tốt. Nếu chưa thành công, hãy phát triển lại mức định đã có, nhận biết nhiều lần bốn đại trong từng nhóm sắc, rồi tiếp tục nhận biết mùi như trên. Hành giả có thể thành công. Hãy quán mùi trong các nhóm sắc trong suốt và không trong suốt ở sáu cửa.
+
+Vị (rasa). Hãy nhận biết vị trong các nhóm sắc trong suốt và không trong suốt ở cả sáu cửa…
+
+
+<a id="M03-body-P080"></a>
+## Vị và dưỡng chất
+Miến / Burmese 80
+
+… Vị trong những nhóm sắc ấy có thể là một trong sáu vị: ngọt, chua, mặn, cay, chát và đắng. [CHƯA XÁC MINH: cách dịch chính xác hai vị cuối theo thứ tự bản Miến.] Vị có thể được biết bằng thiệt thức và cũng có thể được biết bằng ý thức. Trước hết, sau khi đã nhận biết được bốn đại, màu và mùi trong các nhóm sắc, hãy tiếp tục nhận biết vị trong những nhóm ấy. Trước hết hãy nhận biết bằng ý thức. Nếu khó, hãy nhận biết thiệt tịnh sắc và sự trong sáng của hữu phần cùng nhau, rồi hướng tâm nhận biết vị của nước bọt có trên lưỡi. Cách ấy có thể giúp thành công. Vì chúng sinh quen lấy vị làm cảnh bằng thiệt thức nên có thể dễ nhận biết hơn khi dùng cách hỗ trợ này.
+
+Khi sức tu tập mạnh hơn, màu, mùi và vị đều có thể được nhận biết bằng ý thức, tức bằng các tâm đổng lực minh sát đại thiện ở ý môn. Hãy đối chiếu lời Chú giải sau đây.
+
+“Sabbopi panesa pabhedo manodvārikajavaneneva labbhati.” (Chú giải Abhidhamma, tập 2, tr. 388.) [CHƯA XÁC MINH: phiên âm câu Pāli về tốc hành ý môn.] Tất cả những sự phân biệt này đều có thể đạt được bằng đổng lực ở ý môn. Trước khi sức tu tập đủ mạnh, dùng sự trợ giúp của tỷ thức và thiệt thức để dễ nhận biết mùi và vị.
+
+Dưỡng chất (ojā) là chất nuôi dưỡng trong từng nhóm sắc. Có bốn loại dưỡng chất: do nghiệp, do tâm, do thời tiết và do vật thực sinh. Hãy chuyên chú quan sát bên trong nhóm sắc, sẽ thấy dưỡng chất…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Abhi-ṭṭha, tập 2, tr. 388.
+
+
+<a id="M03-body-P081"></a>
+## Dưỡng chất và mạng quyền của sắc
+Miến / Burmese 81
+
+… Dưỡng chất là pháp có thể được biết bằng ý thức. Ở nơi tiếp sau chỗ nhận biết dưỡng chất, có thể thấy những hạt nhóm sắc liên tiếp sinh ra do dưỡng chất ấy. Nhiều hành giả thấy dưỡng chất như một chất tinh ở giữa nhóm sắc. Họ cũng có thể nhận ra các hạt nhóm sắc tăng lên từ chất ấy. Cách tăng trưởng sẽ được trình bày sau. Hãy quán ở cả sáu cửa.
+
+Mạng quyền của sắc (jīvita). Đây là tính chất duy trì sự sống, bảo hộ những sắc do nghiệp sinh trong cùng nhóm. Mạng quyền của sắc chỉ có trong các nhóm sắc do nghiệp sinh. Trước hết hãy tìm và nhận biết nó trong các nhóm sắc trong suốt. Vì các nhóm trong suốt có một loại sắc trong suốt và chắc chắn là sắc do nghiệp sinh, trong chúng nhất định có mạng quyền. Do vậy, trước hết hãy quán mạng quyền ở nhóm trong suốt.
+
+Khi bắt đầu quán mạng quyền trong nhóm trong suốt, hãy nhận biết tính đang sống. Nhiều hành giả thấy tính sống động và duy trì sự sống, không phải sự chuyển động. Khi thấy được như vậy, hãy tiếp tục nhận biết tính bảo hộ các sắc do nghiệp sinh trong cùng nhóm. Mạng quyền duy trì sự sống và bảo hộ các sắc do nghiệp sinh chỉ trong chính nhóm ấy, không bảo hộ các sắc do nghiệp sinh ở nhóm khác.
+
+Nếu đã tìm và nhận biết được mạng quyền trong các nhóm trong suốt, hãy tiếp tục tìm mạng quyền trong một số nhóm không trong suốt…
+
+
+<a id="M03-body-P082"></a>
+## Tìm mạng quyền và sắc tính
+Miến / Burmese 82
+
+… Các nhóm không trong suốt có mạng quyền gồm nhóm mười sắc có sắc tính và nhóm chín sắc có mạng quyền, có mặt khắp thân, cùng nhóm mười sắc ý vật có mặt trong tim. Các nhóm sắc do tâm, thời tiết và vật thực sinh cũng không trong suốt, nhưng không có mạng quyền. Nhóm mười sắc ý vật, nhóm mười sắc có sắc tính và nhóm chín sắc có mạng quyền đều không trong suốt nhưng có mạng quyền. Hãy nhận biết mạng quyền trong các nhóm trong suốt và trong một số nhóm không trong suốt ở sáu cửa.
+
+Sắc tính (bhāvarūpa) là sắc cho biết tính nam hoặc tính nữ. Sắc này có mặt khắp sáu cửa, trong một số nhóm sắc không trong suốt. Nếu đã hiểu, nhận biết và thấy được mạng quyền trong nhóm sắc trong suốt, hãy tìm mạng quyền trong nhóm không trong suốt. Nếu không thấy mạng quyền thì đừng tìm tiếp sắc tính trong nhóm ấy, vì không có mạng quyền thì không thể có sắc tính. Nếu tìm thấy mạng quyền trong nhóm không trong suốt, hãy tiếp tục tìm sắc tính trong nhóm ấy.
+
+Tuy vậy, nếu đó là nhóm chín sắc có mạng quyền, chỉ có mạng quyền và không có sắc tính. Nếu là nhóm mười sắc có sắc tính, có cả mạng quyền và sắc tính. Nhóm không có mạng quyền không thể có sắc tính. Chỉ khi có mạng quyền mới có thể có sắc tính. Sắc tính chắc chắn là sắc do nghiệp sinh. Mạng quyền bảo hộ các sắc do nghiệp sinh trong cùng nhóm. Vì vậy, chỉ tìm sắc tính trong nhóm có mạng quyền. Nếu nhóm ấy không phải nhóm chín sắc có mạng quyền hay nhóm mười sắc ý vật…
+
+
+<a id="M03-body-P083"></a>
+## Phân biệt sắc tính và chuẩn bị đọc các bảng
+Miến / Burmese 83
+
+… mà là nhóm mười sắc có sắc tính thì sẽ thấy sắc tính. Hành giả nam hãy quán sắc nam tính (purisabhāvarūpa). Hành giả nữ hãy quán sắc nữ tính (itthibhāvarūpa). Nam có sắc nam tính, nữ có sắc nữ tính, mỗi người có một loại. Sắc nam tính là dấu hiệu để biết người này là nam. Sắc nữ tính là dấu hiệu để biết người này là nữ. Khi thấy, hãy quán lần lượt ở sáu cửa. Sắc tính có mặt ở cả sáu cửa dưới dạng nhóm mười sắc có sắc tính.
+
+Trong phạm vi sắc, những sắc nhiều hành giả thấy khó nhận biết là dưỡng chất, mạng quyền và sắc tính. Khi phân tích và nhận biết được những sắc đã trình bày, tức địa, thủy, hỏa, phong, màu, mùi, vị và dưỡng chất, trong các nhóm mười sắc trong suốt, và trong các nhóm tám, chín hay mười sắc không trong suốt ở sáu cửa, hãy nhận biết đủ các sắc như trình bày trong các bảng thuộc phần đề mục sắc.
+
+[CHƯA XÁC MINH: phiên âm đầy đủ đoạn Pāli ở cuối trang.] Ở nhãn môn có ba nhóm mười sắc do nghiệp sinh: nhóm mắt, nhóm thân và nhóm sắc tính. Các nhóm do thời tiết, tâm và vật thực sinh có tám sắc mỗi nhóm. Tại nhĩ môn, tỷ môn và thiệt môn cũng vậy. Ở thân môn có nhóm thân, nhóm sắc tính và ba nhóm tám sắc do thời tiết, tâm và vật thực sinh. Ở ý môn có nhóm ý vật, nhóm thân, nhóm sắc tính và ba nhóm tám sắc do thời tiết, tâm và vật thực sinh.
+
+Các bảng dưới đây được trình bày theo lời Chú giải ấy.
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Visuddhimagga, tập 2, tr. 259.
+
+
+<a id="M03-body-P084"></a>
+## Nhãn môn — 54 sắc ở mắt
+Miến / Burmese 84
+
+54 sắc ở nhãn môn
+1. Nhóm mười sắc — nhãn tịnh sắc
+2. Nhóm mười sắc — thân tịnh sắc
+3. Nhóm mười sắc — sắc tính
+4. Nhóm tám sắc — dưỡng chất do tâm sinh
+5. Nhóm tám sắc — dưỡng chất do thời tiết sinh
+6. Nhóm tám sắc — dưỡng chất do vật thực sinh
+1. Địa đại · 1. Địa đại · 1. Địa đại · 1. Địa đại · 1. Địa đại · 1. Địa đại
+2. Thủy đại · 2. Thủy đại · 2. Thủy đại · 2. Thủy đại · 2. Thủy đại · 2. Thủy đại
+3. Hỏa đại · 3. Hỏa đại · 3. Hỏa đại · 3. Hỏa đại · 3. Hỏa đại · 3. Hỏa đại
+4. Phong đại · 4. Phong đại · 4. Phong đại · 4. Phong đại · 4. Phong đại · 4. Phong đại
+5. Màu · 5. Màu · 5. Màu · 5. Màu · 5. Màu · 5. Màu
+6. Mùi · 6. Mùi · 6. Mùi · 6. Mùi · 6. Mùi · 6. Mùi
+7. Vị · 7. Vị · 7. Vị · 7. Vị · 7. Vị · 7. Vị
+8. Dưỡng chất · 8. Dưỡng chất · 8. Dưỡng chất · 8. Dưỡng chất · 8. Dưỡng chất · 8. Dưỡng chất
+9. Mạng quyền · 9. Mạng quyền · 9. Mạng quyền
+10. Nhãn tịnh sắc · 10. Thân tịnh sắc · 10. Sắc tính
+Nghiệp sinh · trong suốt · Nghiệp sinh · trong suốt · Nghiệp sinh · không trong suốt · Tâm sinh · không trong suốt · Thời tiết sinh · không trong suốt · Vật thực sinh · không trong suốt
+
+1. Nhóm mười sắc có nhãn tịnh sắc là nhóm trong suốt có sắc thứ mười là nhãn tịnh sắc, nơi cảnh sắc tác động.
+2. Nhóm mười sắc có thân tịnh sắc là nhóm trong suốt có sắc thứ mười là thân tịnh sắc, nơi cảnh xúc, tức địa, hỏa và phong, tác động.
+3. Nhóm mười sắc có sắc tính là nhóm không trong suốt có sắc thứ mười là sắc tính.
+4. Nhóm tám sắc có dưỡng chất do tâm sinh là nhóm không trong suốt có sắc thứ tám là dưỡng chất do tâm nương sắc ý vật làm sinh.
+5. Nhóm tám sắc có dưỡng chất do thời tiết sinh là nhóm không trong suốt có sắc thứ tám là dưỡng chất do hỏa đại, tức thời tiết, có mặt trong nhóm sắc làm sinh.
+6. Nhóm tám sắc có dưỡng chất do vật thực sinh là nhóm không trong suốt có sắc thứ tám là dưỡng chất do vật thực, tức dưỡng chất, làm sinh.
+
+Ghi chú. Năm mươi bốn sắc này được gọi chung là thân nhãn (sasambhāracakkhu). Trong đó, nhãn tịnh sắc cũng được gọi là mắt trong suốt (pasādacakkhu). [CHƯA XÁC MINH: cách diễn đạt tên gọi thân nhãn theo ngữ cảnh.]
+
+
+<a id="M03-body-P085"></a>
+## Nhĩ môn — 54 sắc ở tai
+Miến / Burmese 85
+
+54 sắc ở nhĩ môn
+1. Nhóm mười sắc — nhĩ tịnh sắc
+2. Nhóm mười sắc — thân tịnh sắc
+3. Nhóm mười sắc — sắc tính
+4. Nhóm tám sắc — dưỡng chất do tâm sinh
+5. Nhóm tám sắc — dưỡng chất do thời tiết sinh
+6. Nhóm tám sắc — dưỡng chất do vật thực sinh
+1. Địa đại · 1. Địa đại · 1. Địa đại · 1. Địa đại · 1. Địa đại · 1. Địa đại
+2. Thủy đại · 2. Thủy đại · 2. Thủy đại · 2. Thủy đại · 2. Thủy đại · 2. Thủy đại
+3. Hỏa đại · 3. Hỏa đại · 3. Hỏa đại · 3. Hỏa đại · 3. Hỏa đại · 3. Hỏa đại
+4. Phong đại · 4. Phong đại · 4. Phong đại · 4. Phong đại · 4. Phong đại · 4. Phong đại
+5. Màu · 5. Màu · 5. Màu · 5. Màu · 5. Màu · 5. Màu
+6. Mùi · 6. Mùi · 6. Mùi · 6. Mùi · 6. Mùi · 6. Mùi
+7. Vị · 7. Vị · 7. Vị · 7. Vị · 7. Vị · 7. Vị
+8. Dưỡng chất · 8. Dưỡng chất · 8. Dưỡng chất · 8. Dưỡng chất · 8. Dưỡng chất · 8. Dưỡng chất
+9. Mạng quyền · 9. Mạng quyền · 9. Mạng quyền
+10. Nhĩ tịnh sắc · 10. Thân tịnh sắc · 10. Sắc tính
+Nghiệp sinh · trong suốt · Nghiệp sinh · trong suốt · Nghiệp sinh · không trong suốt · Tâm sinh · không trong suốt · Thời tiết sinh · không trong suốt · Vật thực sinh · không trong suốt
+
+1. Nhóm mười sắc có nhĩ tịnh sắc là nhóm trong suốt có sắc thứ mười là nhĩ tịnh sắc, nơi cảnh thinh, tức âm thanh, tác động.
+
+Ghi chú. Năm mươi bốn sắc này được gọi chung là thân nhĩ (sasambhārasota). Trong đó, nhĩ tịnh sắc cũng được gọi là tai trong suốt (pasādasota). Đối với ý nghĩa của năm nhóm sắc còn lại, như nhóm mười sắc có thân tịnh sắc, hãy hiểu như đã trình bày ở nhãn môn.
+
+
+<a id="M03-body-P086"></a>
+## Tỷ môn — 54 sắc ở mũi
+Miến / Burmese 86
+
+54 sắc ở tỷ môn
+1. Nhóm mười sắc — tỷ tịnh sắc
+2. Nhóm mười sắc — thân tịnh sắc
+3. Nhóm mười sắc — sắc tính
+4. Nhóm tám sắc — dưỡng chất do tâm sinh
+5. Nhóm tám sắc — dưỡng chất do thời tiết sinh
+6. Nhóm tám sắc — dưỡng chất do vật thực sinh
+1. Địa đại · 1. Địa đại · 1. Địa đại · 1. Địa đại · 1. Địa đại · 1. Địa đại
+2. Thủy đại · 2. Thủy đại · 2. Thủy đại · 2. Thủy đại · 2. Thủy đại · 2. Thủy đại
+3. Hỏa đại · 3. Hỏa đại · 3. Hỏa đại · 3. Hỏa đại · 3. Hỏa đại · 3. Hỏa đại
+4. Phong đại · 4. Phong đại · 4. Phong đại · 4. Phong đại · 4. Phong đại · 4. Phong đại
+5. Màu · 5. Màu · 5. Màu · 5. Màu · 5. Màu · 5. Màu
+6. Mùi · 6. Mùi · 6. Mùi · 6. Mùi · 6. Mùi · 6. Mùi
+7. Vị · 7. Vị · 7. Vị · 7. Vị · 7. Vị · 7. Vị
+8. Dưỡng chất · 8. Dưỡng chất · 8. Dưỡng chất · 8. Dưỡng chất · 8. Dưỡng chất · 8. Dưỡng chất
+9. Mạng quyền · 9. Mạng quyền · 9. Mạng quyền
+10. Tỷ tịnh sắc · 10. Thân tịnh sắc · 10. Sắc tính
+Nghiệp sinh · trong suốt · Nghiệp sinh · trong suốt · Nghiệp sinh · không trong suốt · Tâm sinh · không trong suốt · Thời tiết sinh · không trong suốt · Vật thực sinh · không trong suốt
+
+1. Nhóm mười sắc có tỷ tịnh sắc là nhóm trong suốt có sắc thứ mười là tỷ tịnh sắc, nơi cảnh mùi tác động.
+
+Ghi chú. Năm mươi bốn sắc này được gọi chung là thân tỷ (sasambhāraghāna). Trong đó, tỷ tịnh sắc cũng được gọi là mũi trong suốt (pasādaghāna).
+
+
+<a id="M03-body-P087"></a>
+## Thiệt môn — 54 sắc ở lưỡi
+Miến / Burmese 87
+
+54 sắc ở thiệt môn
+1. Nhóm mười sắc — thiệt tịnh sắc
+2. Nhóm mười sắc — thân tịnh sắc
+3. Nhóm mười sắc — sắc tính
+4. Nhóm tám sắc — dưỡng chất do tâm sinh
+5. Nhóm tám sắc — dưỡng chất do thời tiết sinh
+6. Nhóm tám sắc — dưỡng chất do vật thực sinh
+1. Địa đại · 1. Địa đại · 1. Địa đại · 1. Địa đại · 1. Địa đại · 1. Địa đại
+2. Thủy đại · 2. Thủy đại · 2. Thủy đại · 2. Thủy đại · 2. Thủy đại · 2. Thủy đại
+3. Hỏa đại · 3. Hỏa đại · 3. Hỏa đại · 3. Hỏa đại · 3. Hỏa đại · 3. Hỏa đại
+4. Phong đại · 4. Phong đại · 4. Phong đại · 4. Phong đại · 4. Phong đại · 4. Phong đại
+5. Màu · 5. Màu · 5. Màu · 5. Màu · 5. Màu · 5. Màu
+6. Mùi · 6. Mùi · 6. Mùi · 6. Mùi · 6. Mùi · 6. Mùi
+7. Vị · 7. Vị · 7. Vị · 7. Vị · 7. Vị · 7. Vị
+8. Dưỡng chất · 8. Dưỡng chất · 8. Dưỡng chất · 8. Dưỡng chất · 8. Dưỡng chất · 8. Dưỡng chất
+9. Mạng quyền · 9. Mạng quyền · 9. Mạng quyền
+10. Thiệt tịnh sắc · 10. Thân tịnh sắc · 10. Sắc tính
+Nghiệp sinh · trong suốt · Nghiệp sinh · trong suốt · Nghiệp sinh · không trong suốt · Tâm sinh · không trong suốt · Thời tiết sinh · không trong suốt · Vật thực sinh · không trong suốt
+
+1. Nhóm mười sắc có thiệt tịnh sắc là nhóm trong suốt có sắc thứ mười là thiệt tịnh sắc, nơi cảnh vị tác động.
+
+Ghi chú. Năm mươi bốn sắc này được gọi chung là thân thiệt (sasambhārajivhā). Trong đó, thiệt tịnh sắc cũng được gọi là lưỡi trong suốt (pasādajivhā).
+
+
+<a id="M03-body-P088"></a>
+## Thân môn — 44 sắc ở thân
+Miến / Burmese 88
+
+44 sắc ở thân môn
+1. Nhóm mười sắc — thân tịnh sắc
+2. Nhóm mười sắc — sắc tính
+4. Nhóm tám sắc — dưỡng chất do tâm sinh
+5. Nhóm tám sắc — dưỡng chất do thời tiết sinh
+6. Nhóm tám sắc — dưỡng chất do vật thực sinh
+1. Địa đại · 1. Địa đại · 1. Địa đại · 1. Địa đại · 1. Địa đại
+2. Thủy đại · 2. Thủy đại · 2. Thủy đại · 2. Thủy đại · 2. Thủy đại
+3. Hỏa đại · 3. Hỏa đại · 3. Hỏa đại · 3. Hỏa đại · 3. Hỏa đại
+4. Phong đại · 4. Phong đại · 4. Phong đại · 4. Phong đại · 4. Phong đại
+5. Màu · 5. Màu · 5. Màu · 5. Màu · 5. Màu
+6. Mùi · 6. Mùi · 6. Mùi · 6. Mùi · 6. Mùi
+7. Vị · 7. Vị · 7. Vị · 7. Vị · 7. Vị
+8. Dưỡng chất · 8. Dưỡng chất · 8. Dưỡng chất · 8. Dưỡng chất · 8. Dưỡng chất
+9. Mạng quyền · 9. Mạng quyền
+10. Thân tịnh sắc · 10. Sắc tính
+Nghiệp sinh · trong suốt · Nghiệp sinh · không trong suốt · Tâm sinh · không trong suốt · Thời tiết sinh · không trong suốt · Vật thực sinh · không trong suốt
+
+Ghi chú. Bốn mươi bốn sắc này được gọi chung là toàn bộ thân vật chất (sasambhārakāya). Trong đó, thân tịnh sắc cũng gọi là thân trong suốt (pasādakāya). Trong cách quán đề mục tứ đại chi tiết, bốn mươi hai thể phần được nói đến chính là cách phân biệt thêm các sắc có mặt ở thân môn. Vì vậy khi xem cách quán chi tiết, chỗ nào nói đếm được bốn mươi bốn sắc có mặt trong một số thể phần thì nên hiểu là bốn mươi bốn sắc nêu trên.
+
+
+<a id="M03-body-P089"></a>
+## Ý môn — 54 sắc ở tim
+Miến / Burmese 89
+
+54 sắc ở ý môn
+1. Nhóm mười sắc — sắc ý vật
+2. Nhóm mười sắc — thân tịnh sắc
+3. Nhóm mười sắc — sắc tính
+4. Nhóm tám sắc — dưỡng chất do tâm sinh
+5. Nhóm tám sắc — dưỡng chất do thời tiết sinh
+6. Nhóm tám sắc — dưỡng chất do vật thực sinh
+1. Địa đại · 1. Địa đại · 1. Địa đại · 1. Địa đại · 1. Địa đại · 1. Địa đại
+2. Thủy đại · 2. Thủy đại · 2. Thủy đại · 2. Thủy đại · 2. Thủy đại · 2. Thủy đại
+3. Hỏa đại · 3. Hỏa đại · 3. Hỏa đại · 3. Hỏa đại · 3. Hỏa đại · 3. Hỏa đại
+4. Phong đại · 4. Phong đại · 4. Phong đại · 4. Phong đại · 4. Phong đại · 4. Phong đại
+5. Màu · 5. Màu · 5. Màu · 5. Màu · 5. Màu · 5. Màu
+6. Mùi · 6. Mùi · 6. Mùi · 6. Mùi · 6. Mùi · 6. Mùi
+7. Vị · 7. Vị · 7. Vị · 7. Vị · 7. Vị · 7. Vị
+8. Dưỡng chất · 8. Dưỡng chất · 8. Dưỡng chất · 8. Dưỡng chất · 8. Dưỡng chất · 8. Dưỡng chất
+9. Mạng quyền · 9. Mạng quyền · 9. Mạng quyền
+10. Sắc ý vật · 10. Thân tịnh sắc · 10. Sắc tính
+Nghiệp sinh · không trong suốt · Nghiệp sinh · trong suốt · Nghiệp sinh · không trong suốt · Tâm sinh · không trong suốt · Thời tiết sinh · không trong suốt · Vật thực sinh · không trong suốt
+
+1. Nhóm mười sắc ý vật là nhóm sắc không trong suốt có sắc thứ mười là sắc ý vật, chỗ nương cho các tâm biết, gồm ý giới và ý thức giới, sinh lên.
+
+Ghi chú. Năm mươi bốn sắc này được gọi chung là toàn bộ tim vật chất (sasambhārahadaya). Trong đó, sắc tim cũng được gọi là sắc ý vật (hadayavatthu).
+
+
+<a id="M03-body-P090"></a>
+## Thế nào là ý môn
+Miến / Burmese 90
+
+Ở đây, vị Chú giải sư gọi tim là ý môn. (Visuddhimagga 2,259.) Liên hệ với cách dùng từ ấy, dưới đây trình bày tiếp về ý môn.
+
+[CHƯA XÁC MINH: phiên âm đầy đủ hai đoạn Pāli dẫn ở trang này.] Ý ở đây là hữu phần. Hữu phần cùng với sát-na hướng tâm là ý môn. Ý môn là hữu phần. Do tim là chỗ nương của hữu phần nên tên gọi ý môn cũng được dùng cho sắc ý vật, theo cách gọi chỗ nương bằng tên pháp nương vào nó.
+
+Theo lời giải thích trong Chú giải và Sớ giải:
+
+1. Hữu phần được gọi là ý môn.
+2. Hữu phần cùng với tâm hướng ý môn cũng được gọi là ý môn.
+3. Sắc ý vật cũng được gọi là ý môn theo cách chuyển tên sang chỗ nương (ṭhānūpacāra).
+
+Cách chuyển tên sang chỗ nương. Hữu phần, hoặc hữu phần cùng với tâm hướng ý môn, sinh nương vào sắc ý vật. Tên “ý môn” của hữu phần, hoặc của hữu phần cùng với tâm hướng ý môn, được dùng chuyển sang sắc ý vật là nơi nương của chúng. Vì vậy, chính sắc ý vật được gọi là ý môn theo cách chuyển tên sang chỗ nương. (Saṃ-ṭṭha 3,5; Visuddhimagga 2,259; Mahāṭīkā 2,410.)
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Visuddhimagga, tập 2, tr. 259; Saṃ-ṭṭha, tập 3, tr. 5; Mahāṭīkā, tập 2, tr. 410.
+
+
+<a id="M03-body-P091"></a>
+## Nhóm chín sắc mạng quyền và các nhóm sắc ở sáu cửa
+Miến / Burmese 91
+
+Nhóm chín sắc mạng quyền (jīvitanavakakalāpa). Các bảng về đề mục sắc trên đây chưa đưa nhóm chín sắc mạng quyền vào. Tuy nhiên, Chú giải Thanh tịnh đạo, khi trình bày các nhóm sắc ở các thể phần thuộc hỏa đại và phong đại, có nêu nhóm chín sắc mạng quyền. Hành giả có thể xen việc nhận biết nhóm này khi thực tập. Đặc biệt, trong các thể phần thuộc hỏa đại và phong đại, phải nhận biết nhóm này, vì những thể phần ấy có mặt khắp thân. (Visuddhimagga 2,223.)
+
+Phân tích các nhóm sắc ở sáu cửa, tức cách nhận biết sắc. Nhóm mười sắc có thân tịnh sắc và nhóm mười sắc có sắc tính đều phân bố khắp sáu cửa. Những nhóm có sắc trong suốt, như nhóm mười sắc mắt và nhóm mười sắc thân, xen lẫn ở các cửa, như bột gạo và bột nghệ trộn đều.
+
+Nhóm mười sắc mắt chỉ có ở mắt, nhóm mười sắc tai chỉ có ở tai, nhóm mười sắc mũi chỉ có trong mũi, nhóm mười sắc lưỡi chỉ có ở lưỡi, nhóm mười sắc ý vật chỉ có ở tim. Nhóm mười sắc thân và nhóm mười sắc có sắc tính có mặt ở cả mắt, tai, mũi, lưỡi, thân và tim. Vì thế ở mắt có hai loại nhóm trong suốt, nhóm mười sắc mắt và nhóm mười sắc thân. Ở tai…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Visuddhimagga, tập 2, tr. 223.
+
+
+<a id="M03-body-P092"></a>
+## Các nhóm trong suốt và đặc tính của nhãn, thân tịnh sắc
+Miến / Burmese 92
+
+… có nhóm mười sắc tai và nhóm mười sắc thân. Ở mũi có nhóm mười sắc mũi và nhóm mười sắc thân. Ở lưỡi có nhóm mười sắc lưỡi và nhóm mười sắc thân. Ở thân có một loại nhóm trong suốt là nhóm mười sắc thân. Ở tim cũng có một loại nhóm trong suốt là nhóm mười sắc thân. Vì mắt, tai, mũi và lưỡi đều có hai loại nhóm trong suốt với hai loại sắc trong suốt, cần dùng tuệ phân biệt chúng. Lúc này, hành giả mới thấy chúng dưới dạng những hạt nhóm sắc trong suốt.
+
+Nhãn tịnh sắc. “Rūpābhighātārahabhūtappasādalakkhaṇaṃ … cakkhu.” (Thanh tịnh đạo, tập 2, tr. 74.) Pháp có đặc tính là sự trong suốt của bốn đại có thể chịu sự tác động của cảnh sắc gọi là mắt. Nói cách khác, tính trong suốt của bốn đại có thể chịu sự tác động của cảnh sắc gọi là nhãn tịnh sắc.
+
+Thân tịnh sắc. “Phoṭṭhabbābhighātārahabhūtappasādalakkhaṇo … kāyo.” (Thanh tịnh đạo, tập 2, tr. 74.) Pháp có đặc tính là sự trong suốt của bốn đại có thể chịu sự tác động của cảnh xúc, tức địa, hỏa và phong, gọi là thân tịnh sắc. Nói cách khác, tính trong suốt của bốn đại có thể chịu sự tác động của cảnh xúc…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Visuddhimagga, tập 2, tr. 74.
+
+
+<a id="M03-body-P093"></a>
+## Cách nhận biết nhãn tịnh sắc
+Miến / Burmese 93
+
+… được gọi là thân tịnh sắc.
+
+Theo lời giải thích ấy, nhãn tịnh sắc là sắc trong suốt có thể chịu sự tác động của cảnh sắc. Thân tịnh sắc là sắc trong suốt có thể chịu sự tác động của cảnh xúc. Ở mắt, nhóm mười sắc mắt chứa nhãn tịnh sắc và nhóm mười sắc thân chứa thân tịnh sắc xen lẫn nhau. Để biết sắc trong suốt nào là nhãn tịnh sắc, sắc nào là thân tịnh sắc, nhóm nào là nhóm mười sắc mắt và nhóm nào là nhóm mười sắc thân, hãy phân biệt theo cảnh tác động. Các sắc trong suốt này có đặc tính là sự trong suốt của bốn đại cùng nhóm. Vì vậy, việc trước hết đã nhận biết được bốn đại trong những nhóm này là điều đặc biệt cần thiết.
+
+Để nhận biết nhãn tịnh sắc, trước hết hãy nhận biết bốn đại ở mắt. Khi thấy các hạt nhóm sắc, hãy lấy một hạt trong suốt làm cảnh và nhận biết nó. Tiếp tục nhận biết mười sắc trong nhóm ấy. Hãy nhận biết sắc trong suốt trong mười sắc ấy, hoặc nhận biết sự trong suốt trong nhiều hạt nhóm sắc trong suốt. Hướng tâm đến cảnh sắc có trong một hay nhiều nhóm sắc ở cách sắc trong suốt ấy một khoảng vừa phải. Nếu cảnh sắc tác động vào sắc trong suốt ấy…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Visuddhimagga, tập 2, tr. 74.
+
+
+<a id="M03-body-P094"></a>
+## Cách nhận biết thân tịnh sắc ở mắt
+Miến / Burmese 94
+
+… thì sắc trong suốt ấy là nhãn tịnh sắc. Nhóm chứa nhãn tịnh sắc là nhóm mười sắc mắt. Hãy dùng tuệ phân biệt lần lượt mười sắc trong nhóm ấy đến mức chân đế. Nếu cảnh sắc không tác động vào sắc trong suốt ấy, nó có thể là thân tịnh sắc, vì ở mắt chỉ có hai loại sắc trong suốt. Hãy kiểm tra như dưới đây.
+
+Thân tịnh sắc là sắc trong suốt có thể chịu sự tác động của cảnh xúc, tức địa, hỏa hoặc phong. Hãy chuyên chú nhận biết bằng tuệ bốn đại ngay ở mắt. Khi thấy các nhóm sắc, hãy nhận biết sắc trong suốt trong một hay nhiều nhóm trong suốt. Hướng tâm đến một cảnh xúc, tức địa, hỏa hoặc phong, có mặt trong một hay nhiều nhóm sắc gần sắc trong suốt ấy. Hãy nhận biết và chuyên chú vào đó, chẳng hạn chuyên chú vào tính cứng. Nếu cảnh xúc tác động vào sắc trong suốt ấy, thì sắc chịu sự tác động của cảnh xúc là thân tịnh sắc. Nhóm chứa thân tịnh sắc là nhóm mười sắc thân. Nếu không có cảnh xúc nào tác động, sắc trong suốt ấy có thể là nhãn tịnh sắc. Hãy kiểm tra xem có phải nhãn tịnh sắc hay không theo cách nhận biết nhãn tịnh sắc ở trên.
+
+
+<a id="M03-body-P095"></a>
+## Ba nhóm sắc do nghiệp sinh ở mắt và nhĩ tịnh sắc
+Miến / Burmese 95
+
+Như vậy, hành giả đã có thể phân biệt ở mắt nhóm mười sắc mắt và nhóm mười sắc thân. Hãy tiếp tục nhận biết đến mức chân đế mười sắc trong nhóm mười sắc mắt và mười sắc trong nhóm mười sắc thân. Trong các nhóm không trong suốt ở mắt, hãy nhận biết đến mức chân đế nhóm mười sắc có sắc tính. Như vậy đã nhận biết ba nhóm ấy ở mắt. Ba nhóm đều do nghiệp sinh, do nghiệp đã tạo trong một đời quá khứ với vô minh, ái và thủ, rồi tích lũy qua hành và nghiệp. Hãy nhận biết nhóm mười sắc thân và nhóm mười sắc có sắc tính ở năm cửa còn lại theo cách tương tự.
+
+Nhĩ tịnh sắc. “Saddābhighātārahabhūtappasādalakkhaṇaṃ … sotaṃ.” (Thanh tịnh đạo, tập 2, tr. 74.) Sự trong suốt của bốn đại có thể chịu sự tác động của cảnh thinh gọi là nhĩ tịnh sắc. Hãy chuyên chú nhận biết bốn đại ở bên trong tai. Khi thấy các nhóm sắc, hãy nhận biết sắc trong suốt trong một hay nhiều nhóm trong suốt và giữ nó làm cảnh. Hướng tâm đến một âm thanh, chẳng hạn tiếng hơi thở hoặc tiếng từ bên ngoài. Nếu âm thanh ấy…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Visuddhimagga, tập 2, tr. 74.
+
+
+<a id="M03-body-P096"></a>
+## Phân biệt nhĩ tịnh sắc và nhận biết tỷ tịnh sắc
+Miến / Burmese 96
+
+… tác động vào sắc trong suốt ấy thì sắc chịu sự tác động ấy là nhĩ tịnh sắc. Nhóm chứa nhĩ tịnh sắc là nhóm mười sắc tai. Hãy nhận biết từng sắc trong mười sắc của nhóm ấy đến mức chân đế. Nếu không có âm thanh tác động vào sắc trong suốt ở tai, sắc ấy có thể là thân tịnh sắc. Hãy lấy cảnh xúc làm cảnh để kiểm tra như đã trình bày ở trên. Ở tai cũng hãy nhận biết đến mức chân đế nhóm mười sắc tai, nhóm mười sắc thân và nhóm mười sắc có sắc tính. Đó là các nhóm sắc do nghiệp sinh.
+
+Tỷ tịnh sắc. “Gandhābhighātārahabhūtappasādalakkhaṇaṃ … ghānaṃ.” (Thanh tịnh đạo, tập 2, tr. 74.) Sự trong suốt của bốn đại có thể chịu sự tác động của mùi, tức cảnh mùi, gọi là tỷ tịnh sắc. Hãy nhận biết bốn đại ở chỗ nương của mũi bên trong mũi. Khi thấy các nhóm sắc, hãy nhận biết sắc trong suốt trong một hay nhiều nhóm trong suốt. Hướng tâm lấy mùi trong một hay nhiều nhóm sắc ở bất cứ chỗ nào trong thân làm cảnh. Nếu cảnh mùi tác động vào sắc trong suốt ấy, sắc chịu sự tác động của mùi là tỷ…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Visuddhimagga, tập 2, tr. 74.
+
+
+<a id="M03-body-P097"></a>
+## Phân biệt tỷ tịnh sắc và nhận biết thiệt tịnh sắc
+Miến / Burmese 97
+
+… tịnh sắc. Nhóm có tỷ tịnh sắc là sắc thứ mười gọi là nhóm mười sắc mũi. Hãy phân tích nhóm này và nhận biết mười sắc chân đế. Nếu cảnh mùi không tác động vào sắc trong suốt ấy, nó có thể là thân tịnh sắc. Để biết chắc, hãy lấy cảnh xúc làm cảnh và kiểm tra như đã trình bày ở trên. Khi thành công, hãy nhận biết đến mức chân đế nhóm mười sắc mũi, nhóm mười sắc thân và nhóm mười sắc có sắc tính trong mũi. Đó là những nhóm sắc do nghiệp sinh.
+
+Thiệt tịnh sắc. “Rasābhighātārahabhūtappasādalakkhaṇā … jivhā.” (Thanh tịnh đạo, tập 2, tr. 74.) Sự trong suốt của bốn đại có thể chịu sự tác động của cảnh vị gọi là thiệt tịnh sắc. Hãy chuyên chú nhận biết bốn đại ở lưỡi. Khi thấy các hạt nhóm sắc, hãy nhận biết sắc trong suốt trong một hoặc nhiều nhóm trong suốt. Hướng tâm đến vị có trong một hay nhiều nhóm sắc ở gần đó. Nếu vị tác động vào sắc trong suốt ấy, sắc chịu sự tác động của vị là thiệt tịnh sắc. Nhóm có thiệt tịnh sắc là sắc thứ mười gọi là nhóm mười sắc lưỡi. Hãy phân tích nhóm ấy và nhận biết mười sắc chân đế. Nếu vị không tác động vào sắc trong suốt ấy…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Visuddhimagga, tập 2, tr. 74.
+
+
+<a id="M03-body-P098"></a>
+## Thân môn và nhận biết sắc tính
+Miến / Burmese 98
+
+… thì sắc ấy có thể là thân tịnh sắc. Để biết chắc, hãy lấy cảnh xúc trong một hay nhiều nhóm sắc gần sắc trong suốt ấy làm cảnh mà kiểm tra. Khi đã biết chắc, hãy nhận biết mười sắc chân đế trong mỗi loại thuộc ba nhóm sắc do nghiệp sinh ở lưỡi: nhóm mười sắc lưỡi, nhóm mười sắc thân và nhóm mười sắc có sắc tính.
+
+Chỗ nương của thân, tức thân môn. Ở đây chỉ có hai nhóm sắc do nghiệp sinh là nhóm mười sắc thân và nhóm mười sắc có sắc tính. Trong thân, chỗ nào nhận biết được xúc thì có nhóm mười sắc thân. Nhóm mười sắc có sắc tính cũng phân bố ở cả sáu cửa: mắt, tai, mũi, lưỡi, thân và tim. Không có cả hai sắc tính trong cùng một người. Nhờ sắc tính mà có thể phân biệt người này là nam, người kia là nữ. Điều ấy không có nghĩa là sắc tính được biết bằng nhãn thức. Do sắc tính mà các hình dáng, đặc điểm và cử chỉ bên ngoài của nam hay nữ có thể được nhận ra.
+
+Hành giả nam tìm sắc nam tính trong một số nhóm sắc không trong suốt có mạng quyền. Khi tìm, vị ấy có thể thấy một tính chất cứng cỏi. Nhờ dấu hiệu ấy có thể hiểu đây là sắc nam tính. Tuy nhiên, tính chất cứng cỏi ấy khác với tính cứng của địa đại…
+
+
+<a id="M03-body-P099"></a>
+## Sắc nữ tính và sắc ý vật
+Miến / Burmese 99
+
+… và thông thường hành giả có thể hiểu sự khác nhau ấy. Tương tự, khi hành giả nữ tìm sắc nữ tính trong một số nhóm không trong suốt có mạng quyền trong dòng tương tục của mình, vị ấy có thể thấy một tính chất mềm mại. Nhờ dấu hiệu ấy có thể hiểu đây là sắc nữ tính. Tuy nhiên, có thể hiểu được tính mềm mại ấy khác với tính mềm của địa đại. Hãy quán ở cả sáu cửa.
+
+Ý môn và sắc ý vật. “Manodhātumanoviññāṇadhātūnaṃ nissayalakkhaṇaṃ hadayavatthu.” (Visuddhimagga 2,77.) Sắc ý vật có đặc tính là chỗ nương của ý giới và ý thức giới. Đó là sắc làm chỗ nương cho các tâm được gọi là ý giới và ý thức giới.
+
+Trước hết hãy nhận biết bốn đại ở trong tim. Khi thấy các hạt nhóm sắc, hãy nhận biết sự trong sáng của hữu phần, tức ý môn. Nếu đã nhận biết sự trong sáng ấy trong khi tu thiền chỉ thì ở đây không khó nhận biết lại. Giữ tâm tu tập ở sự trong sáng của hữu phần, rồi muốn co hoặc duỗi một ngón tay. Hãy tiếp tục quan sát cho thấy rõ tâm muốn co, muốn duỗi và tâm trong lúc co, duỗi. Sau khi nhận biết được tâm, hãy tiếp tục nhận biết sắc ý vật làm chỗ nương của tâm ấy. Cách ấy có thể thành công. Nếu thành công…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Visuddhimagga, tập 2, tr. 77.
+
+
+<a id="M03-body-P100"></a>
+## Phân tích nhóm mười sắc ý vật
+Miến / Burmese 100
+
+… hãy tiếp tục quan sát để hiểu rằng hữu phần trong sáng, các tâm muốn co và duỗi, v.v., đều là những tâm thuộc ý thức giới nương vào cùng loại sắc ý vật ấy. Sắc ý vật có mặt trong những hạt nhóm sắc bên dưới ý giới và ý thức giới đã nêu. Việc nói các tâm ấy nương vào sắc ý vật chỉ có nghĩa là ý giới và ý thức giới có sự sinh khởi liên hệ với sắc ý vật. Nếu không có sắc ý vật thì các tâm ấy không thể sinh theo cách đó. Nhóm chứa sắc ý vật là nhóm mười sắc ý vật. Hãy phân tích nhóm ấy và nhận biết mười sắc chân đế.
+
+Việc ban đầu nhận biết nhanh tâm muốn co, muốn duỗi chỉ nhằm xác định cho chắc sắc ý vật làm chỗ nương của tâm. Một số hành giả, sau khi nhận biết được hữu phần trong sáng, có thể dễ dàng nhận biết ngay sắc ý vật làm chỗ nương cho hữu phần. Khi đã nhận biết đến mức chân đế các sắc trong nhóm mười sắc ý vật, hãy tiếp tục phân tích và nhận biết các sắc chân đế trong nhóm mười sắc thân và nhóm mười sắc có sắc tính ngay trong tim. Như vậy trong tim cũng có ba loại nhóm sắc do nghiệp sinh.
+
+Sự trong sáng của hữu phần và thân tịnh sắc. Trong tim có hai loại trong sáng. Theo lời dạy “Pabhassaramidaṃ, bhikkhave, cittaṃ”, tức “Này các tỳ-khưu, tâm này sáng chói”, tâm hữu phần nương vào sắc ý vật cũng trong sáng, lóe và tỏa ánh sáng. (Tăng chi bộ, tập 1, tr. 9.)
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Aṅ, tập 1, tr. 9.
+
+
+<a id="M03-body-P101"></a>
+## Phân biệt hữu phần trong sáng với thân tịnh sắc
+Miến / Burmese 101
+
+Theo lời Phụ chú giải, “Sabhāveneva panetaṃ cittaṃ pabhassaraṃ”, tâm vốn trong sáng theo bản tính. Tất cả tâm nương vào sắc ý vật sinh lên đều trong sáng theo bản tính, và trở nên ô nhiễm do các tâm sở bất thiện. (Mūlaṭīkā, tập 1, tr. 125.) [CHƯA XÁC MINH: nguyên văn Pāli và chi tiết lời phụ chú giải.]
+
+Theo những lời dạy ấy, ở trong tim có hữu phần trong sáng làm phát sinh ánh sáng lóe rực. Đó là sự trong sáng của danh. Ở đó còn có thân tịnh sắc là chỗ nương của thân thức. Đó là sự trong suốt của sắc. Thân tịnh sắc hiện ra dưới dạng hạt nhóm sắc, có mặt trong hạt nhóm sắc trong suốt. Hữu phần trong sáng là một loại trong sáng nương vào sắc ý vật không trong suốt, và không phải là một hạt nhóm sắc. Như đã giải thích ở phần đề mục thiền chỉ và các trang 53–54 ở trên, màu của các nhóm sắc do tâm sinh và do thời tiết sinh có thể lóe sáng. Hữu phần trong sáng, tức ý môn, thì trong sáng, còn sắc ý vật làm chỗ nương cho ý môn thì không trong suốt. Các nhóm mười sắc thân chứa thân tịnh sắc phân bố khắp tim. Chúng có mặt thành những hạt quanh hữu phần trong sáng.
+
+Ghi chú. Để nhận biết các nhóm sắc do nghiệp sinh ở sáu cửa, sách đã trình bày cách nhận biết bốn đại có mặt ở mắt, tai, mũi, lưỡi, thân và tim. Cách trình bày này dành cho người có tuệ còn yếu…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Mūlaṭīkā, tập 1, tr. 125.
+
+
+<a id="M03-body-P102"></a>
+## Khi đã thấy các hạt nhóm sắc khắp thân
+Miến / Burmese 102
+
+… Hãy hiểu như vậy. Với người có tuệ sắc bén, khi bao quát toàn thân để nhận biết bốn đại, vị ấy không thấy những khối lớn khắp thân mà chỉ thấy các hạt nhóm sắc. Vị ấy cũng có thể nhận biết đến mức chân đế bốn đại trong những nhóm trong suốt và không trong suốt ở sáu cửa. Ở mức này, dù hướng tâm đến mắt, vị ấy không thấy hình dạng con mắt mà chỉ thấy các hạt nhóm sắc. Người đã thấy các hạt nhóm sắc như thế không cần tìm lại mắt để nhận biết riêng bốn đại ở mắt. Nếu dễ dàng thấy các nhóm sắc ở mắt, hãy phân tích đến mức chân đế nhóm mười sắc mắt, nhóm mười sắc thân và nhóm mười sắc có sắc tính trong những nhóm sắc ấy. Hãy hiểu tương tự ở tai, mũi, lưỡi, thân và tim. Cách nhận biết các nhóm sắc còn lại do tâm, thời tiết và vật thực sinh cũng tương tự.
+
+Các sắc do nghiệp sinh có mặt ở sáu cửa là những sắc đầu tiên sinh lên trong một đời. Một số sắc do nghiệp sinh sinh đồng thời với tâm tái tục. Chừng nào năng lực của nghiệp đã tạo và tích lũy từ trước còn hiệu lực, chúng cứ sinh diệt, nối tiếp nhau trong suốt đời. Sau khi đã nhận biết thành công các sắc do nghiệp sinh ở cả sáu cửa, hành giả có thể tiếp tục nhận biết các sắc còn lại do tâm, thời tiết và vật thực sinh. Tuy vậy, hành giả cần biết trước mình phải nhận biết những loại sắc nào…
+
+
+<a id="M03-body-P103"></a>
+## Hai mươi tám sắc và bốn sắc đại chủng
+Miến / Burmese 103
+
+… Vì vậy dưới đây trình bày hai mươi tám sắc.
+
+Các pháp sắc được chia làm hai loại: sắc đại chủng và sắc y sinh. Bốn đại được gọi là sắc đại chủng (mahābhūtarūpa) vì đặc tính của chúng nổi bật hơn các sắc khác và chúng hiện ra như thân vật chất lớn. Hai mươi bốn sắc nương vào bốn đại mà sinh gọi là sắc y sinh (upādāyarūpa). Chúng giúp làm rõ bốn đại, chẳng hạn qua màu trắng, màu vàng, v.v.
+
+Bốn sắc đại chủng cũng được gọi là giới (dhātu). Pháp mang đặc tính của chính nó và hiện ra theo đặc tính ấy gọi là giới. Địa giới mang đặc tính cứng, nhám, nặng, mềm, trơn và nhẹ. Thủy giới mang đặc tính chảy và kết dính. Hỏa giới mang đặc tính nóng và lạnh. Phong giới mang đặc tính nâng đỡ và đẩy. Vì thế bốn đại cũng được gọi là các giới.
+
+(1) Bốn sắc đại chủng. Địa đại, thủy đại, hỏa đại và phong đại.
+
+(2) Năm sắc trong suốt (pasādarūpa).
+1. Nhãn tịnh sắc (cakkhupasāda), sắc trong suốt ở mắt.
+
+
+<a id="M03-body-P104"></a>
+## Sắc trong suốt, sắc cảnh, sắc tính và sắc ý vật
+Miến / Burmese 104
+
+2. Nhĩ tịnh sắc (sotapasāda), sắc trong suốt ở tai.
+3. Tỷ tịnh sắc (ghānapasāda), sắc trong suốt ở mũi.
+4. Thiệt tịnh sắc (jivhāpasāda), sắc trong suốt ở lưỡi.
+5. Thân tịnh sắc (kāyapasāda), sắc trong suốt ở thân.
+
+(3) Bảy sắc cảnh (gocararūpa).
+1. Cảnh sắc (rūpārammaṇa), tức màu sắc (vaṇṇa).
+2. Cảnh thinh (saddārammaṇa), tức âm thanh.
+3. Cảnh mùi (gandhārammaṇa).
+4. Cảnh vị (rasārammaṇa).
+5. Cảnh xúc (phoṭṭhabbārammaṇa).
+
+Ghi chú. Vì có thể xúc chạm địa đại, hỏa đại và phong đại nên ba đại này gọi là sắc xúc. Tính cả ba đại ấy thì có bảy sắc cảnh. Nhưng theo cách đếm các sắc riêng, một sắc đã đếm thì không đếm lại. Khi đếm hai mươi tám sắc, ba đại này đã được tính trong bốn đại nên chỉ tính thêm bốn sắc cảnh.
+
+(4) Hai sắc tính (bhāvarūpa).
+1. Sắc nữ tính (itthibhāvarūpa).
+2. Sắc nam tính (purisabhāvarūpa).
+
+(5) Một sắc tim (hadayarūpa). Sắc ý vật (hadayavatthu) là sắc làm chỗ nương cho các tâm biết, tức ý giới và ý thức giới. Sắc ấy có mặt trong máu ở bên trong tim.
+
+
+<a id="M03-body-P105"></a>
+## Mạng quyền, vật thực và tên gọi của mười tám sắc
+Miến / Burmese 105
+
+(6) Một sắc mạng quyền. Mạng quyền (jīvitindriya), cũng gọi là jīvita, là sắc duy trì sự sống. Nó có mặt trong các nhóm sắc do nghiệp sinh và bảo hộ các sắc do nghiệp sinh trong cùng nhóm.
+
+(7) Một sắc vật thực. Vật thực ăn được (kabaḷīkārāhāra) là dưỡng chất, tức ojā, có trong vật thực được ăn.
+
+Ghi chú. Đây là cách nói theo duyên trong Paṭṭhāna. Dưỡng chất có mặt trong mọi nhóm sắc do nghiệp, tâm, thời tiết và vật thực sinh. Chúng lần lượt được gọi là dưỡng chất do nghiệp, tâm, thời tiết và vật thực sinh. Thức ăn được ăn vào lan trong thân dưới dạng những nhóm sắc do thời tiết sinh. Dưỡng chất trong những nhóm ấy được gọi là vật thực ăn được theo cách trình bày về duyên vật thực trong Paṭṭhāna và theo phương pháp của các bộ kinh. Hãy xem phần quán sắc vật thực để biết chi tiết.
+
+Mười tám sắc này được gọi là sắc có thực tính (sabhāvarūpa) vì mỗi sắc có đặc tính riêng. Chúng cũng được gọi là sắc có đặc tướng (salakkhaṇarūpa) vì có chung các đặc tướng vô thường, khổ và vô ngã. Chúng được gọi là sắc thành tựu (nipphannarūpa) vì được sinh ra do nghiệp, tâm, thời tiết hoặc vật thực. Chúng được gọi là sắc sắc (rūparūpa) vì thật sự có tính biến đổi. Và vì có thể được đặt dưới ba đặc tướng vô thường, khổ và vô ngã để quán minh sát…
+
+
+<a id="M03-body-P106"></a>
+## Sắc giới hạn, sắc biểu tri và sắc biến hóa
+Miến / Burmese 106
+
+… vì thích hợp để quán xét như vậy nên chúng cũng gọi là sắc để quán (sammasanarūpa). Mười sắc còn lại khác với chúng. Đó là sắc không có thực tính riêng, sắc không có đặc tướng, sắc không thành tựu, sắc không phải sắc thực và sắc không dùng làm đối tượng quán xét.
+
+(8) Một sắc giới hạn (paricchedarūpa). Hư không giới là khe hở giữa các nhóm sắc, tức sắc giới hạn. Khoảng hở ấy phân định để nhóm này không lẫn với nhóm kia. Vì làm ranh giới giữa các nhóm nên hư không giới được gọi là sắc giới hạn. Hư không giới không phải sắc chân đế thực sự. Khi có hai nhóm sắc hay nhiều nhóm sắc sinh lên thì chế định về khoảng hở cũng theo đó mà có.
+
+(9) Hai sắc biểu tri (viññattirūpa).
+1. Thân biểu tri (kāyaviññatti), cử chỉ nơi thân làm cho người khác hiểu.
+2. Khẩu biểu tri (vacīviññatti), biểu hiện nơi miệng, tức bằng lời nói, làm cho người khác hiểu.
+
+(10) Năm sắc biến hóa, hoặc ba sắc biến hóa (vikārarūpa).
+1. Sắc nhẹ (rūpassa lahutā), tính nhẹ của sắc do tâm, thời tiết và vật thực sinh.
+2. Sắc mềm (rūpassa mudutā), tính mềm của sắc do tâm, thời tiết và vật thực sinh.
+3. Sắc thích ứng (rūpassa kammaññatā), tính thích hợp cho hoạt động của sắc do tâm, thời tiết và vật thực sinh.
+
+
+<a id="M03-body-P107"></a>
+## Bốn sắc đặc tướng
+Miến / Burmese 107
+
+Hai sắc biểu tri cùng với ba sắc vừa nêu cũng được gọi chung là sắc biến hóa, tức những cách biểu hiện riêng khác nhau.
+
+(11) Bốn sắc đặc tướng (lakkhaṇarūpa).
+1. Sắc tích tập (upacaya). (a) Sự sinh khởi đầu tiên của các sắc thực trong một đời. (b) Sự tăng trưởng tiếp theo của các sắc thực cho đến khi các sắc cần thiết trong đời ấy được đầy đủ, tức cho đến khi các căn đầy đủ.
+2. Sắc tương tục (santati). Sau khi các căn đầy đủ, các sắc thực vẫn sinh nối tiếp nhau, trước sau không gián đoạn.
+
+Ghi chú. Đức Phật phân sự sinh khởi của sắc thực thành hai loại theo giai đoạn thời gian để phù hợp với căn cơ người nghe. Cả hai đều là sự sinh khởi của sắc thực, tức tính sinh (uppāda).
+
+3. Sắc già (jaratā). Tính chín muồi, cũ đi và suy già của sắc thực. Chỉ giai đoạn sắc thực đang tồn tại.
+4. Sắc vô thường (aniccatā). Tính diệt của sắc thực, tức sự tan rã (bhaṅga).
+
+Hư không giới, năm sắc biến hóa và bốn sắc đặc tướng, tổng cộng mười sắc, không thích hợp để đặt dưới ba đặc tướng mà quán minh sát, nên gọi là sắc không dùng làm đối tượng quán (asammasanarūpa). Vì chúng không phải các sắc thành tựu do nghiệp, tâm, thời tiết hay vật thực sinh…
+
+
+<a id="M03-body-P108"></a>
+## Vì sao vẫn cần nhận biết các sắc không thành tựu
+Miến / Burmese 108
+
+… nên gọi là sắc không thành tựu (anipphannarūpa). Chúng không phải các sắc thực. Hư không giới chỉ là khoảng phân định.
+
+(Đại sớ giải, tập 2, tr. 354.) [CHƯA XÁC MINH: phiên âm câu Pāli về khoảng phân định.] Khoảng phân định là khe hở, ranh giới giữa các nhóm sắc, nhờ đó nhóm này không lẫn với nhóm kia.
+
+Các sắc biểu tri chỉ là cách biểu hiện của cử chỉ thân và lời nói, tức cách hoạt động của các sắc thực. Các sắc đặc tướng chỉ là những cách sinh, tồn tại và diệt của sắc thực. Các sắc biến hóa chỉ là những cách biểu hiện riêng khác nhau của sắc do tâm, thời tiết và vật thực sinh. Vì vậy chúng không phải sắc thực và không thích hợp để quán minh sát. Tuy vậy, khi dùng tuệ nhận biết các sắc đến mức chân đế, trong phần phân biệt danh sắc thuộc kiến thanh tịnh, Chú giải Thanh tịnh đạo dạy xen việc nhận biết mười sắc này. Đức Phật cũng giảng như vậy theo phương pháp đặc tính, phận sự và các mặt khác trong những kinh như Mahārāhulovāda. (Visuddhimagga 2,225.)
+
+Nếu không thấy hư không giới thì không thấy các nhóm sắc. Nếu không thấy các nhóm sắc thì không thể nhận biết các sắc chân đế thực sự trong từng nhóm. Nếu tuệ không đến chân đế thì cũng không thể thấy vô ngã. Nếu không thấy vô ngã…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Mahāṭīkā, tập 2, tr. 354; Visuddhimagga, tập 2, tr. 225.
+
+
+<a id="M03-body-P109"></a>
+## Nhận biết các đặc tướng và bắt đầu quán sắc do tâm sinh
+Miến / Burmese 109
+
+… thì không thể có tuệ minh sát chân thật. Vì vậy, trong khi phân biệt danh sắc ở giai đoạn kiến thanh tịnh, có lời chỉ dẫn nhận biết hư không giới. Khi có thể nhận biết các sắc chân đế thực sự trong từng nhóm, hành giả cũng sẽ thấy sự sinh, tồn tại và diệt của các sắc ấy. Do vậy, cũng hãy nhận biết các sắc đặc tướng. Sinh, tồn tại và diệt là những đặc tướng của pháp hữu vi. Chỉ khi thấy các đặc tướng hữu vi này, hành giả mới phân biệt được pháp hữu vi này với pháp hữu vi trước hay sau nó. Khi ấy có thể phá khối liên tục của sắc. Phá được khối thì tuệ mới đến chân đế. Đến chân đế thì mới thấy vô ngã. Khi thấy vô ngã thì ba đặc tướng mới hiện rõ và tuệ minh sát chân thật có thể sinh. (Aṅ 1,150.)
+
+Khi quán các oai nghi, khi quán với sự hiểu biết rõ, hoặc khi nhận biết sắc do tâm, thời tiết và vật thực sinh, không thể tránh khỏi thấy các sắc biến hóa. Chúng chỉ là những cách biểu hiện riêng của các sắc thực. Vì vậy Kinh và Chú giải dạy xen việc nhận biết chúng ở giai đoạn này. Tuy nhiên, các sắc ấy chỉ sinh nương vào các sắc thực. Khi đã tới phần minh sát, từ tuệ quán theo nhóm và tuệ sinh diệt trở đi, có lời dạy rằng không nên quán minh sát các sắc không thực này.
+
+Cách quán sắc do tâm sinh. Với người đã biết nhận biết sắc ý vật, việc quán sắc do tâm sinh ở đây sẽ dễ. Ở bên trong tim…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Aṅ, tập 1, tr. 150.
+
+
+<a id="M03-body-P110"></a>
+## Tâm sinh các nhóm sắc và cách quán sắc do thời tiết sinh
+Miến / Burmese 110
+
+… ngoại trừ tâm tái tục, các tâm thuộc ý giới và ý thức giới sinh nương sắc ý vật trong suốt đời đều có thể sinh các nhóm tám sắc có dưỡng chất do tâm sinh. Mỗi tâm có thể sinh nhiều nhóm sắc, phân bố khắp thân. Hãy chuyên chú vào hữu phần trong sáng và quan sát các nhóm sắc sinh liên tục do các tâm nương sắc ý vật. Nếu chưa rõ, hãy giữ tâm ở hữu phần trong sáng và thử co, duỗi một ngón tay. Hãy quan sát cho rõ các nhóm sắc sinh do tâm muốn co, muốn duỗi, phân bố khắp sáu cửa. Nếu vẫn chưa rõ, hãy chớp mắt nhẹ. Có thể thấy nhiều nhóm sắc do tâm sinh quanh mắt. Hãy hiểu tương tự ở năm cửa còn lại. Các nhóm ấy không trong suốt. Khi phân tích, mỗi nhóm có tám sắc. Hãy xem bảng và nhận biết những sắc chân đế ấy lần lượt ở sáu cửa.
+
+Cách quán sắc do thời tiết sinh. “Tattha utu nāma catusamuṭṭhānā tejodhātu, uṇhutu sītutūti evaṃ panesa duvidho hoti.” (Thanh tịnh đạo, tập 2, tr. 251.) Ở đây, thời tiết là hỏa đại có bốn nguồn sinh, gồm hai loại là thời tiết nóng và thời tiết lạnh.
+
+Hỏa đại có mặt trong các nhóm do nghiệp sinh, như nhóm mười sắc mắt ở sáu cửa, và trong các nhóm do tâm, thời tiết và vật thực sinh, được gọi là thời tiết (utu). Hỏa đại ấy làm sinh những nhóm tám sắc mới có dưỡng chất do thời tiết sinh. Đó là thế hệ con của thời tiết. Trong các nhóm sắc mới ấy…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Visuddhimagga, tập 2, tr. 251.
+
+
+<a id="M03-body-P111"></a>
+## Các thế hệ sắc do thời tiết sinh
+Miến / Burmese 111
+
+… cũng có hỏa đại, tức thời tiết. Hỏa đại ấy lại sinh những nhóm tám sắc mới có dưỡng chất do thời tiết sinh. Đó là thế hệ cháu của thời tiết. Cứ như thế, dựa vào các nhân tương ứng là nghiệp, tâm, thời tiết và vật thực, các nhóm sắc tiếp nối nhiều hay ít thế hệ.
+
+Hỏa đại do nghiệp sinh. Nếu hỏa đại là thời tiết có mặt trong các nhóm sắc do nghiệp sinh, chẳng hạn nhóm mười sắc mắt, hỏa đại do nghiệp sinh ấy làm cho các nhóm sắc do thời tiết sinh tiếp nối bốn hoặc năm thế hệ như đã nói.
+
+(Thanh tịnh đạo, tập 2, tr. 250.) [CHƯA XÁC MINH: phiên âm đoạn Pāli về các thế hệ sắc do thời tiết sinh.] Hỏa đại do nghiệp sinh khi đến giai đoạn trụ làm sinh nhóm tám sắc có dưỡng chất do thời tiết sinh. Thời tiết trong nhóm này lại sinh một nhóm tám sắc khác. Cứ như thế, bốn hoặc năm thế hệ tiếp nối nhau.
+
+Khi làm sinh sắc như vậy, hỏa đại, tức thời tiết, chỉ có thể sinh các nhóm tám sắc mới khi đến giai đoạn trụ, vì theo quy luật của sắc, đến giai đoạn trụ nó mới có sức. Việc nói sinh tiếp bốn hoặc năm lần ở đây chỉ là cách nói theo sức của dòng sắc tiếp nối.
+
+(Đại sớ giải, tập 2, tr. 401.) [CHƯA XÁC MINH: phiên âm lời Sớ giải về sức tiếp nối của các nhóm sắc.]
+
+1. Hỏa đại do nghiệp sinh được nghiệp trợ giúp…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Visuddhimagga, tập 2, tr. 250; Mahāṭīkā, tập 2, tr. 401.
+
+
+<a id="M03-body-P112"></a>
+## Sức hỗ trợ cho hỏa đại và sự sinh sắc bên ngoài
+Miến / Burmese 112
+
+2. Hỏa đại do tâm sinh được hỗ trợ bởi những tâm thù thắng, như tâm thiền, tâm tu minh sát, tâm đạo và tâm quả.
+3. Hỏa đại do thời tiết sinh được hỗ trợ bởi thời tiết thuận hợp.
+4. Hỏa đại do vật thực sinh được hỗ trợ bởi dưỡng chất thù thắng, như dưỡng chất cõi trời.
+
+Khi có những hỗ trợ mạnh ấy, (Thanh tịnh đạo, tập 2, tr. 252.) [CHƯA XÁC MINH: phiên âm câu dẫn Thanh tịnh đạo.] hãy hiểu rằng dù bên trong hay bên ngoài, thời tiết vẫn có thể làm sinh nhiều nhóm sắc khác nhau nối tiếp.
+
+Ở đây, việc sắc sinh bên ngoài bao gồm sắc sinh từ bên trong lan ra ngoài, sắc tiếp tục sinh cho đến giai đoạn thân thành xác chết, và sắc do thời tiết sinh trong những thể phần đã lìa khỏi thân. Sắc sinh ra đến bên ngoài còn gồm những nhóm tám sắc do hỏa đại trong sắc do tâm sinh làm sinh. Những nhóm sắc này xuất hiện nhờ các tâm thù thắng như tâm tu thiền chỉ và tâm tu minh sát. Chúng có thể hiện ra thành ánh sáng thiền chỉ và ánh sáng minh sát ở cả bên trong lẫn bên ngoài.
+
+Ghi chú. Dưỡng chất cũng có mặt trong những nhóm tám sắc do hỏa đại của sắc do tâm sinh làm sinh. Khi được lửa do nghiệp sinh và dưỡng chất do vật thực sinh hỗ trợ, dưỡng chất ấy có thể làm sinh những nhóm tám sắc…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Visuddhimagga, tập 2, tr. 252.
+
+
+<a id="M03-body-P113"></a>
+## Hỏa đại do tâm sinh
+Miến / Burmese 113
+
+… có dưỡng chất do vật thực sinh. Tóm lại, thông thường trong mỗi nhóm sắc, hỏa đại có thể sinh nhóm tám sắc và dưỡng chất cũng có thể sinh sắc. Hãy ghi nhớ như vậy.
+
+Trong các nhóm tám sắc do tâm sinh từ những tâm dục giới thông thường nương sắc ý vật, ngoài các tâm tu thiền chỉ và minh sát thù thắng, cũng có hỏa đại, tức thời tiết. Hỏa đại ấy làm sinh những nhóm tám sắc mới có dưỡng chất do thời tiết sinh. Hỏa đại do tâm sinh là thế hệ ông. Hỏa đại trong nhóm sắc do thời tiết sinh là thế hệ con, lại làm sinh những nhóm tám sắc mới do thời tiết sinh. Hỏa đại trong nhóm sắc thế hệ cháu ấy lại làm sinh một nhóm tám sắc do thời tiết sinh. Như vậy, các nhóm sắc tiếp nối hai hoặc ba thế hệ.
+
+“Evaṃ dve tisso vā pavattiyo ghaṭeti.” (Thanh tịnh đạo, tập 2, tr. 251.) Như vậy, nó duy trì hai hoặc ba lượt tiếp nối.
+
+Hỏa đại trong các sắc do những tâm tu thiền chỉ ở định chuẩn bị, cận định và an chỉ định, tâm tu minh sát, tâm đạo và tâm quả làm sinh, có thể làm cho các nhóm tám sắc do thời tiết sinh tiếp nối cả bên trong lẫn bên ngoài. Tùy sức tuệ đi cùng tâm tu thiền chỉ và tâm tu minh sát, tùy định mạnh hay yếu…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Visuddhimagga, tập 2, tr. 251.
+
+
+<a id="M03-body-P114"></a>
+## Sự tiếp nối của sắc do tâm thù thắng sinh
+Miến / Burmese 114
+
+… chúng tỏa ra nhiều hay ít, rồi sinh nối tiếp nhiều lần.
+
+[CHƯA XÁC MINH: phiên âm đầy đủ lời Sớ giải đầu trang.] Đối với những sắc do tâm sinh ấy, hai hoặc ba lượt tiếp nối được nói theo mức thông thường. Còn những sắc do tâm thù thắng làm sinh thì có thể tiếp nối nhiều lượt do sức mạnh của tâm làm nguồn sinh.
+
+Những tâm tu thiền chỉ, tâm tu minh sát ở mức cao, cùng các tâm đại hành và siêu thế, là những tâm rất thù thắng. Chúng có năng lực lớn. Đặc biệt các tâm đổng lực thuộc thiền chứng hay quả chứng có thể sinh nhiều nhóm sắc trong một thời gian dài. Những sắc do các tâm thù thắng nối tiếp không gián đoạn, trong nhiều phút hay nhiều giờ, sinh ra cũng là những sắc do tâm thù thắng sinh. Do các sắc ấy có sức lan rộng, hỏa đại trong mỗi nhóm có thể làm sinh những sắc do thời tiết sinh, nối tiếp nhiều lần cả trong lẫn ngoài. Hãy nhớ rằng hỏa đại ấy chỉ làm sinh sắc khi đến giai đoạn trụ. (Mahāṭīkā 2,403.)
+
+Ghi chú. Dưỡng chất có mặt trong những nhóm sắc do hỏa đại của sắc do tâm sinh làm sinh cũng có thể sinh các nhóm tám sắc do vật thực sinh ở bên trong, nếu được lửa do nghiệp sinh và dưỡng chất do vật thực sinh hỗ trợ.
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Mahāṭīkā, tập 2, tr. 403.
+
+
+<a id="M03-body-P115"></a>
+## Hỏa đại trong sắc do vật thực sinh
+Miến / Burmese 115
+
+Hỏa đại, tức thời tiết, cũng có trong các nhóm sắc do vật thực sinh, sẽ được trình bày tiếp ở phần sau. Khi đến giai đoạn trụ, hỏa đại do vật thực sinh lại sinh nhóm tám sắc khác do thời tiết sinh. Đó là thế hệ con.
+
+(Đại sớ giải, tập 2, tr. 403.) [CHƯA XÁC MINH: phiên âm lời Đại sớ giải.] Cách nói số lượt tiếp nối của hỏa đại do vật thực sinh cũng như với vật thực làm duyên. Tùy sự hỗ trợ mà số lượt tiếp nối có thể khác nhau, vì không có một số cố định.
+
+Hỏa đại trong nhóm sắc do thời tiết sinh thuộc thế hệ con lại sinh nhóm tám sắc khác do thời tiết sinh. Đó là thế hệ cháu. Hỏa đại trong nhóm sắc do thời tiết sinh thuộc thế hệ cháu lại sinh nhóm tám sắc khác, tức thế hệ chắt. Các nhóm có thể nối tiếp như vậy mười hoặc mười hai lượt. Khi được dưỡng chất của thức ăn thù thắng, như dưỡng chất cõi trời, hỗ trợ, hỏa đại có thể sinh các nhóm tám sắc do thời tiết sinh trong thời gian dài hơn.
+
+Ghi chú. Nếu được lửa do nghiệp sinh và dưỡng chất do vật thực sinh hỗ trợ, dưỡng chất trong những nhóm tám sắc do thời tiết sinh này cũng có thể làm sinh những nhóm tám sắc do vật thực sinh ở bên trong dòng tương tục, khi đến giai đoạn trụ.
+
+Cách quán sắc do vật thực sinh. “Tattha āhāro nāma kabaḷīkāro āhāro.” Ở đây, vật thực là vật thực ăn được. (Thanh tịnh đạo, tập 2, tr. 251.)
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Mahāṭīkā, tập 2, tr. 403; Visuddhimagga, tập 2, tr. 251.
+
+
+<a id="M03-body-P116"></a>
+## Khi nào dưỡng chất làm phận sự của vật thực
+Miến / Burmese 116
+
+… Dưỡng chất trong sắc có bốn nguồn sinh gọi là vật thực. Tuy nhiên, khi được vo thành miếng rồi nuốt vào, nó làm phận sự vật thực. Theo cách nói ấy, không phải bản thân miếng thức ăn làm phận sự. Dưỡng chất được gọi là vật thực ăn được vì nó có mặt trong thức ăn có thể vo thành miếng và được nuốt vào. (Chú giải Abhidhamma, tập 3, tr. 377; Mūlaṭīkā, tập 3, tr. 190; Anuṭīkā, tập 3, tr. 258.) [CHƯA XÁC MINH: phiên âm đầy đủ các đoạn Pāli Chú giải và Sớ giải ở nửa trên trang.]
+
+Dưỡng chất có mặt trong từng loại nhóm sắc, tức nhóm do nghiệp, tâm, thời tiết và vật thực sinh, gọi là vật thực (āhāra). Tuy dưỡng chất có mặt trong sắc do cả bốn nguồn sinh đều gọi là vật thực, nó chỉ thực hiện phận sự sinh sắc do vật thực sinh khi có sự hỗ trợ từ thức ăn có thể ăn, nhai, uống, nếm, như một miếng cơm. Khi thức ăn ấy còn ở ngoài thân, dưỡng chất có bốn nguồn sinh chưa thể thực hiện phận sự làm sinh sắc do vật thực sinh. Vì vậy, trong Paṭṭhāna, Đức Phật không chỉ nói “vật thực” mà nói “vật thực ăn được” (kabaḷīkāra āhāra). (Paṭṭhāna, tập 1, tr. 7; Thanh tịnh đạo, tập 2, tr. 251; Chú giải Abhidhamma, tập 3, tr. 377.)
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Abhi-ṭṭha, tập 3, tr. 377; Mūlaṭīkā, tập 3, tr. 190; Anuṭīkā, tập 3, tr. 258; Paṭṭhāna, tập 1, tr. 7; Visuddhimagga, tập 2, tr. 251.
+
+
+<a id="M03-body-P117"></a>
+## Tên gọi vật thực ăn được và sắc trong thức ăn
+Miến / Burmese 117
+
+Nói theo cách khác, tuy dưỡng chất không phải thứ có thể tự nó được vo thành miếng, nó nương trong thức ăn có thể vo thành miếng và ăn được. Khi được vật thực hỗ trợ, dưỡng chất có thể làm phận sự sinh sắc do vật thực sinh. Bởi thế dưỡng chất trong sắc có bốn nguồn sinh được gọi là vật thực ăn được. Ý nghĩa là tên gọi ấy chỉ dưỡng chất nương trong thức ăn có thể ăn được. Vì dưỡng chất có bốn nguồn sinh có mặt trong thức ăn có thể vo thành miếng để ăn, tên “vật thực ăn được” của thức ăn là chỗ nương được chuyển sang dưỡng chất nương vào nó. Đây là cách chuyển tên theo chỗ nương (ṭhānūpacāra). (Chú giải Abhidhamma, tập 3, tr. 377.)
+
+(Thanh tịnh đạo, tập 2, tr. 223.) [CHƯA XÁC MINH: phiên âm đầy đủ câu Pāli.] Thức ăn trong dạ dày, phân, mủ và nước tiểu. Trong bốn thể phần này, sắc có thời tiết làm nguồn sinh hiện rõ hơn cả, theo Chú giải.
+
+Theo lời giải thích ấy, bốn thể phần là thức ăn mới, thức ăn cũ, mủ và nước tiểu đều là tập hợp các sắc do thời tiết sinh, tức các nhóm tám sắc có dưỡng chất do thời tiết sinh. Thức ăn ăn được là tập hợp những nhóm như vậy. Dưỡng chất trong các nhóm ấy là vật thực. Dưỡng chất không thể tự nó được vo thành miếng để ăn, không tách khỏi các sắc cùng nhóm. Chỉ tập hợp nhiều nhóm sắc do thời tiết sinh…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Abhi-ṭṭha, tập 3, tr. 377; Visuddhimagga, tập 2, tr. 223.
+
+
+<a id="M03-body-P118"></a>
+## Thức ăn không di chuyển dưới dạng các sắc chân đế
+Miến / Burmese 118
+
+… mới có thể được vo thành miếng và ăn. Do đó Đức Phật dạy gọi dưỡng chất ấy là vật thực ăn được. Cách giải thích này vẫn dùng ngôn ngữ quy ước. Dưới đây giải thích thêm.
+
+Dù thức ăn mới còn trên mâm, trong bát, đã nằm trong dạ dày, hoặc đang được nhai trong miệng, hãy chuyên chú nhận biết bốn đại có mặt trong thể phần ấy. Chỉ những hạt nhóm sắc hiện ra. Những nhóm sắc ấy, hay các pháp sắc trong chúng, vừa sinh lên liền diệt rất nhanh ngay tại chỗ sinh.
+
+[CHƯA XÁC MINH: phiên âm đầy đủ câu dẫn ở giữa trang.] Nói “đến” là theo cách nói quy ước, vì sắc sinh ở chỗ nào thì diệt ngay tại đó, không đi sang chỗ khác.
+
+Theo lời giải thích ấy, các sắc chân đế diệt ngay tại nơi sinh, không có khả năng chuyển từ nơi này sang nơi khác. Vì vậy, các nhóm tám sắc do thời tiết sinh trong bát hay trên mâm không chuyển vào miệng. Các nhóm có mặt trong miệng cũng không chuyển xuống dạ dày để tồn tại thành thể phần thức ăn mới. Chúng không sống lâu đến mức di chuyển như vậy. Khi đủ tuổi thọ là mười bảy sát-na tâm, chúng diệt. Tuy nhiên, trong mỗi nhóm tám sắc do thời tiết sinh ấy đều có hỏa đại, tức thời tiết. Hỏa đại ấy…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Anuṭīkā, tập 1, tr. 162.
+
+
+<a id="M03-body-P119"></a>
+## Sự tiếp nối của sắc trong thức ăn
+Miến / Burmese 119
+
+… thường có khả năng làm sinh những nhóm sắc mới. Chừng nào sự trợ giúp của hỏa đại do thời tiết sinh chưa cạn, dù ở trong đĩa, trong bát, trong miệng hay trong dạ dày, các nhóm sắc cứ sinh liên tục trước sau. Xét theo các pháp chân đế, các nhóm tám sắc do thời tiết sinh ấy không thể thực sự được vo thành miếng, ăn hay nuốt như cách gọi một miếng cơm. Do đó các vị thầy xưa giải thích rằng “vật thực ăn được” là dưỡng chất nương trong thứ có thể vo thành miếng để ăn, dù bản thân dưỡng chất không thể được vo thành miếng. Theo lời giải thích ấy, dưỡng chất riêng lẻ trong nhóm sắc do thời tiết sinh không thể ăn được, và tập hợp các nhóm sắc chân đế ấy cũng không phải một vật thực có thể ăn hay nuốt theo nghĩa chân đế. Cái được gọi là thức ăn có thể ăn, nuốt là khối liên tục của các thế hệ sắc do hỏa đại trong các nhóm ấy làm sinh. Đó là cách gọi theo sự thật quy ước.
+
+Các nhóm tám sắc do thời tiết sinh được gọi là thể phần thức ăn mới cũng chỉ là các sắc luôn sinh mới do hỏa đại trong từng nhóm sắc, như đã giải thích. Chúng chỉ là những sắc nối tiếp sinh lên do hỏa đại, tức một trong bốn sắc đại chủng. Các vị thầy xưa gọi sự sinh như vậy là sinh nối tiếp, do các đại liên tục tác động. Khi tu tập đề mục sắc, đặc biệt khi quán sắc do tâm, thời tiết và vật thực sinh…
+
+
+<a id="M03-body-P120"></a>
+## Vật thực làm duyên cho sắc
+Miến / Burmese 120
+
+… điều đặc biệt cần thiết là thấy sâu sự sinh nối tiếp do các đại tác động như thế. Để giúp thấy được điều ấy, dưới đây dẫn Kinh, Chú giải và Sớ giải. Hãy cố hiểu nghĩa của những đoạn này.
+
+[CHƯA XÁC MINH: phiên âm đầy đủ các đoạn Pāli Paṭṭhāna, Chú giải và Sớ giải ở trang này.]
+
+Trong bốn vật thực trợ giúp các sắc bằng cách nâng đỡ, ở đây nói về vật thực ăn được. Vật thực ăn được làm duyên vật thực cho thân này. Vật thực bên trong làm duyên vật thực cho các sắc do vật thực sinh và các sắc trong chính nhóm của nó. Theo lời giải thích trong Thanh tịnh đạo, ở phần câu hỏi Paṭṭhāna cũng nói vật thực làm duyên vật thực cho các sắc do vật thực sinh, cho thân và cho các uẩn. [CHƯA XÁC MINH: phạm vi của các danh từ trong câu dẫn thứ hai.]
+
+Trong Chú giải, lời “trợ giúp các sắc” được nói vì vật thực có tính nâng đỡ. Vật thực ăn được có đặc tính là dưỡng chất (ojā). Dưỡng chất là phần tinh của vị có mặt trong thức ăn đã vào dạ dày. Nó là sắc nương vào các đại và có phận sự nâng đỡ. “Ăn được” là vì có thể làm thành miếng rồi nuốt vào. Theo cách nói quy ước, vật thực là thứ chúng sinh ăn, nhai, uống, nếm. Khi được vật thực bên ngoài làm duyên, vật thực bên trong làm sinh sắc. Chính nó làm duyên vật thực cho sắc, nên nói là sắc do vật thực sinh. Vì nó nâng đỡ thân bằng cách làm sinh nhóm tám sắc có dưỡng chất, và vì dưỡng chất cũng thực hiện phận sự vật thực đối với các sắc cùng nhóm, nên có lời giải thích về duyên vật thực.
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Paṭṭhāna, tập 1, tr. 7; Paṭṭhāna, tập 1, tr. 156; Visuddhimagga, tập 2, tr. 170; Mahāṭīkā, tập 2, tr. 282; Visuddhimagga, tập 2, tr. 80; Mahāṭīkā, tập 2, tr. 104.
+
+
+<a id="M03-body-P121"></a>
+## Vật thực làm duyên cho sắc (tiếp)
+Miến / Burmese 121
+
+Trong đoạn này, vật thực là đoàn thực (kabaḷīkārāhāra). Sắc do vật thực sinh là các sắc phát sinh từ dưỡng chất đã đạt đến giai đoạn trụ, nhờ lấy sắc do nghiệp sinh trong thân làm duyên. Đó là nhóm tám sắc có dưỡng chất, hư không giới, tính nhẹ, tính mềm, tính thích ứng, sự sinh khởi và sự tiếp nối. Vật thực duyên là các sắc được sinh theo lời “Đoàn thực làm duyên cho thân này bằng vật thực duyên”.
+
+Trong các sắc do vật thực sinh, dưỡng chất ở giai đoạn trụ lại sinh nhóm tám sắc có dưỡng chất. Dưỡng chất trong những nhóm ấy lại sinh tiếp theo mười hoặc mười hai lượt. Vật thực chim mái ăn nuôi phôi trong trứng. Dưỡng chất cũng nuôi dưỡng trứng và phôi đang phát triển. Vật thực người mẹ ăn lan vào thân thai nhi và làm sinh sắc. Vật thực được thoa lên thân cũng làm sinh sắc. Dưỡng chất do nghiệp sinh gọi là vật thực được chấp thủ (upādinnakāhāra). Khi đến giai đoạn trụ, nó làm sinh sắc, và dưỡng chất trong các nhóm sắc ấy lại tiếp nối năm hoặc sáu lượt. [CHƯA XÁC MINH: phiên âm nguyên đoạn Pāli và chi tiết câu về trứng.]
+
+Lời Sớ giải “nhờ lấy sắc do nghiệp sinh được chấp thủ làm duyên” cho thấy dưỡng chất không được chấp thủ không tự làm nhiệm vụ nuôi sắc nếu thiếu duyên ấy. “Trong các sắc ấy, đã đạt đến giai đoạn trụ” liên hệ với khả năng hỗ trợ của hỏa đại do nghiệp sinh. Sự phân biệt giữa vật thực được chấp thủ và không được chấp thủ đã được nêu ở trước. Để làm rõ trường hợp vật thực không được chấp thủ trong vật thực duyên, bản văn nói tiếp về dưỡng chất do nghiệp sinh. [CHƯA XÁC MINH: phiên âm và mạch cú pháp của lời Sớ giải.]
+
+Sau đây là cách quán, trình bày theo ý chính của Chánh văn, Chú giải và Sớ giải vừa dẫn.
+
+Như đã giải thích, thức ăn mới được nuốt cùng với những pháp sắc trong các nhóm, dù có vo thành miếng hay không, hiện diện trong dạ dày với tên gọi “thể phần thức ăn mới”…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Visuddhimagga, tập 2, tr. 251; Mahāṭīkā, tập 2, tr. 403.
+
+
+<a id="M03-body-P122"></a>
+## Dưỡng chất trong thức ăn mới
+Miến / Burmese 122
+
+…chỉ là tập hợp các nhóm tám sắc có dưỡng chất do thời tiết sinh, liên tục sinh tiếp mà chưa lan khắp thân. Dưỡng chất trong các nhóm này là dưỡng chất do thời tiết sinh. Chính dưỡng chất ấy được gọi trực tiếp là đoàn thực.
+
+Dưỡng chất vi tế trong các nhóm sắc được gọi là đoàn thực ấy, khi được lửa tiêu hóa trợ giúp, sẽ sinh một nhóm tám sắc có dưỡng chất khác. Lửa tiêu hóa là hỏa đại do nghiệp sinh có trong các nhóm chín sắc mạng quyền tại vùng chung quanh dạ dày, tức lửa do nghiệp làm nguồn sinh. Các nhóm sắc mới này là nhóm tám sắc có dưỡng chất do vật thực sinh, phát sinh nhờ dưỡng chất do thời tiết sinh. Đoàn thực đã nuốt là dưỡng chất do thời tiết sinh, còn các nhóm vừa sinh là sản phẩm trực tiếp của dưỡng chất ấy.
+
+Khi số nhóm sắc do thời tiết sinh mang tên “thể phần thức ăn mới”, tức số dưỡng chất do thời tiết sinh, càng nhiều thì số nhóm tám sắc do vật thực sinh cũng có thể càng nhiều theo cách giải thích vừa nêu. Theo cách nói quy ước, chúng lan đi như chất bổ. Theo chân đế, những nhóm sắc liên tục sinh tiếp, lan khắp thân, đến cả sáu cửa. Dưỡng chất có trong các nhóm sắc do vật thực sinh ấy là đoàn thực đã đạt đặc tướng của dưỡng chất, theo câu Chú giải “Ojālakkhaṇo kabaḷīkāro āhāro” (đoàn thực có đặc tướng là dưỡng chất).
+
+
+<a id="M03-body-P123"></a>
+## Dưỡng chất có đặc tướng của đoàn thực
+Miến / Burmese 123
+
+“Đạt đặc tướng của dưỡng chất” có nghĩa chỉ dưỡng chất trong các nhóm tám sắc do vật thực sinh ấy mới có thể làm pháp trợ theo sức của vật thực duyên (āhārapaccaya), khiến dưỡng chất thuộc bốn nguồn sinh, cũng được gọi là đoàn thực, sinh thêm các nhóm tám sắc có dưỡng chất. Dưỡng chất do thời tiết sinh trong các nhóm tám sắc tạo thành thể phần thức ăn mới ban đầu thì…
+
+1. Đối với dưỡng chất do nghiệp sinh trong các nhóm sắc do nghiệp sinh.
+2. Đối với dưỡng chất do tâm sinh trong các nhóm sắc do tâm sinh.
+3. Đối với dưỡng chất do thời tiết sinh trong các nhóm sắc do thời tiết sinh.
+4. Đối với dưỡng chất do vật thực sinh ở nhóm khác, tức dưỡng chất có trong những sắc do vật thực sinh mà dưỡng chất thuộc các nhóm sắc do thời tiết sinh đã được nuốt làm phát sinh.
+
+…đối với dưỡng chất thuộc cả bốn nguồn sinh ấy, nó không thể trợ bằng sức vật thực duyên, không thể làm chỗ nương nâng đỡ. Dưỡng chất do thời tiết sinh trong các nhóm tạo thành thể phần thức ăn mới ban đầu, nhờ được lửa tiêu hóa do nghiệp sinh hỗ trợ, chỉ có sức sinh (janaka) để làm phát sinh các nhóm tám sắc có dưỡng chất mới. Các nhóm sắc xuất hiện nhờ sức sinh ấy gọi là nhóm tám sắc có dưỡng chất do vật thực sinh.
+
+Dưỡng chất trong mỗi nhóm sắc do vật thực sinh nương vào các sắc đại chủng cùng nhóm mà sinh. Trước khi lan vào thân dưới dạng những nhóm sắc do vật thực sinh, nó không nương vào bốn đại ở một nhóm riêng thuộc những nhóm tám sắc do thời tiết sinh làm thành thể phần thức ăn mới. Chỉ dưỡng chất trong những nhóm sắc do vật thực sinh đã lan vào thân như chất bổ…
+
+
+<a id="M03-body-P124"></a>
+## Dưỡng chất trợ giúp và dưỡng chất được trợ giúp
+Miến / Burmese 124
+
+…mới trợ giúp được cho:
+
+1. Dưỡng chất do nghiệp sinh trong các nhóm sắc do nghiệp sinh.
+2. Dưỡng chất do tâm sinh trong các nhóm sắc do tâm sinh.
+3. Dưỡng chất do thời tiết sinh trong các nhóm sắc do thời tiết sinh.
+4. Dưỡng chất do vật thực sinh trong những nhóm sắc do vật thực sinh khác.
+
+Nó làm pháp trợ cho dưỡng chất thuộc bốn nguồn sinh ấy bằng sức vật thực duyên, nâng đỡ để các nhóm tám sắc có dưỡng chất mới sinh tiếp theo từng đợt. Chỉ khi đến giai đoạn trụ và được dưỡng chất do vật thực sinh nâng đỡ, dưỡng chất thuộc bốn nguồn sinh ấy mới có thể làm sinh các nhóm mới.
+
+Hãy ghi nhớ rằng ở đây có hai loại nhóm sắc do vật thực sinh. Vì có hai loại nhóm, dưỡng chất do vật thực sinh cũng có hai loại, gồm loại trợ giúp và loại được trợ giúp. Dưỡng chất làm nhiệm vụ trợ giúp có trong các nhóm tám sắc do vật thực sinh do dưỡng chất do thời tiết sinh trong thể phần thức ăn mới làm phát sinh, như đã nói trên. Dưỡng chất được trợ giúp là dưỡng chất đã đến giai đoạn trụ và đã sinh từ một dưỡng chất khác, tức dưỡng chất do vật thực sinh thuộc nhóm khác với loại có nhiệm vụ trợ giúp. Dưỡng chất sinh từ vật thực khác ấy, cùng với dưỡng chất do nghiệp, tâm và thời tiết sinh, đều được loại dưỡng chất trợ giúp nói trên nâng đỡ bằng sức vật thực duyên. Chỉ khi được nâng đỡ bằng sức ấy…
+
+
+<a id="M03-body-P125"></a>
+## Vật thực bên ngoài và vật thực bên trong
+Miến / Burmese 125
+
+…dưỡng chất do nghiệp, tâm và thời tiết sinh, cùng với dưỡng chất sinh từ một vật thực khác, mới có thể liên tục sinh các nhóm tám sắc có dưỡng chất mới. Chính loại dưỡng chất do vật thực sinh có nhiệm vụ nâng đỡ cũng phải nhờ dưỡng chất do thời tiết sinh trong những nhóm tám sắc của thể phần thức ăn mới, với sự hỗ trợ của lửa tiêu hóa do nghiệp sinh, trực tiếp làm phát sinh bằng sức sinh (janakasatti, hay sức vật thực duyên làm sinh). Dưỡng chất do thời tiết sinh đó, hoặc các sắc do thời tiết sinh có chứa nó, được gọi là vật thực bên ngoài (bāhira-āhāra). Chính vì ý nghĩa này, bản văn nói:
+
+“Chỉ khi có được vật thực bên ngoài làm duyên, vật thực bên trong mới làm sinh sắc.” [CHƯA XÁC MINH: phiên âm đầy đủ câu Sớ giải.]
+
+Ý của lời giải thích là phải có vật thực bên ngoài làm điều kiện thì vật thực bên trong mới có thể sinh các nhóm tám sắc có dưỡng chất. Vật thực bên trong ở đây là dưỡng chất do nghiệp, tâm và thời tiết sinh, và dưỡng chất do vật thực sinh thuộc nhóm khác, do một vật thực khác làm sinh.
+
+Dưỡng chất do vật thực sinh từ một vật thực khác (aññāhārasamuṭṭhita-āhāra-ojā). Dưỡng chất do vật thực sinh đã đến giai đoạn trụ, do dưỡng chất của một nhóm khác làm phát sinh như giải thích ở trên, và dưỡng chất do vật thực sinh nhờ dưỡng chất trong các nhóm tám sắc do thời tiết sinh thuộc thể phần thức ăn mới mà hành giả vừa ăn, đều được gọi là vật thực bên trong. Còn các sắc do thời tiết sinh làm thành thể phần thức ăn mới, dù ở trong dạ dày hay trong ruột…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Mahāṭīkā, tập 2, tr. 104.
+
+
+<a id="M03-body-P126"></a>
+## Vật thực bên ngoài trợ cho vật thực bên trong
+Miến / Burmese 126
+
+…chỉ được gọi là vật thực bên ngoài. Chỉ dưỡng chất do vật thực sinh trong các nhóm tám sắc mà dưỡng chất do thời tiết sinh, tức vật thực bên ngoài, làm phát sinh nhờ được lửa tiêu hóa do nghiệp sinh nâng đỡ, mới được gọi là vật thực bên trong. Chỉ khi dưỡng chất thuộc vật thực bên trong này nâng đỡ, dưỡng chất thuộc bốn nguồn sinh mới có thể sinh các nhóm tám sắc có dưỡng chất. Sức sinh các nhóm ấy của vật thực bên trong gắn liền với vật thực bên ngoài. Vì vậy, đối với sự sinh nhóm tám sắc có dưỡng chất từ vật thực bên trong đã đạt đặc tướng của dưỡng chất, vật thực bên ngoài là điều kiện gần nhất.
+
+Khi dưỡng chất do thời tiết sinh, gọi là vật thực bên ngoài, làm sinh nhóm tám sắc có dưỡng chất do vật thực sinh, nó cũng chỉ sinh được khi có sự hỗ trợ của lửa tiêu hóa, tức hỏa đại trong sắc do nghiệp sinh được chấp thủ.
+
+Các sắc vừa sinh là nhóm tám sắc có dưỡng chất do vật thực sinh. Chúng có chứa dưỡng chất đã đạt đặc tướng của dưỡng chất và là sản phẩm trực tiếp của đoàn thực đã ăn, tức dưỡng chất do thời tiết sinh gọi là vật thực bên ngoài. Những nhóm này liên tục sinh tiếp, lan đến cả sáu cửa. Dưỡng chất đã đạt đặc tướng của dưỡng chất trong các nhóm ấy, với sự hỗ trợ của lửa tiêu hóa, có thể liên tục nâng đỡ dưỡng chất thuộc bốn nguồn sinh đã nói trên suốt bảy ngày, dù chỉ ăn một lần. Một lần dùng vật thực bên ngoài, nhờ sự sinh liên tục của các nhóm tám sắc có dưỡng chất do vật thực sinh và nhờ lửa tiêu hóa, có thể nâng đỡ dưỡng chất thuộc bốn nguồn sinh trong bảy ngày. (Câu nói “cơm nuôi mạng sống bảy ngày”…
+
+
+<a id="M03-body-P127"></a>
+## Quán trong lúc đang ăn
+Miến / Burmese 127
+
+…là lời nói bắt nguồn từ đoạn này.) Dưỡng chất của chư thiên cũng có thể nâng đỡ theo cách ấy trong một tuần hoặc hai tuần. Vật thực người mẹ đã ăn lan vào thân thai nhi. Nhờ lửa tiêu hóa trong dòng tương tục của thai nhi nâng đỡ, vật thực ấy có thể làm sinh nhóm tám sắc có dưỡng chất do vật thực sinh trong thân thai nhi. Nhờ lửa tiêu hóa trong dòng tương tục của thai nhi, dưỡng chất ấy lại có thể trợ cho dưỡng chất thuộc bốn nguồn sinh trong dòng tương tục ấy bằng sức vật thực duyên.
+
+Vật thực bên ngoài được xoa lên thân cũng chỉ có thể làm sinh nhóm tám sắc có dưỡng chất do vật thực sinh khi được lửa tiêu hóa do nghiệp sinh trong các nhóm chín sắc mạng quyền khắp thân nâng đỡ. Dưỡng chất trong các nhóm tám sắc do vật thực sinh ấy đã đạt đặc tướng của dưỡng chất. Với sự giúp sức của lửa tiêu hóa, nó trợ cho dưỡng chất thuộc bốn nguồn sinh bằng sức vật thực duyên để các nhóm tám sắc có dưỡng chất phát sinh. Vì vậy, cách quán thực tế như sau.
+
+1. Trong lúc đang ăn uống. Có thể quán ngay lúc đang ăn uống. Vật thực sinh sắc ngay tại các nơi như trong miệng, ở cổ họng, trong dạ dày và trong ruột, rồi những sắc do vật thực sinh ấy có thể lan khắp thân. Hành giả nào có khả năng tăng cường định ngay khi đang ăn uống thì hãy chọn một nơi muốn quán, chẳng hạn trong miệng hay trong dạ dày, rồi hướng đến thức ăn mới tại nơi ấy…
+
+
+<a id="M03-body-P128"></a>
+## Quán sau khi ăn và ví dụ ở cửa mắt
+Miến / Burmese 128
+
+…và chuyên chú nhận biết bốn đại có mặt trong thức ăn ấy. Khi ấy có thể thấy các hạt nhóm sắc. Hãy quán để thấy bằng trí rằng nhờ lửa tiêu hóa, tức hỏa đại do nghiệp sinh có trong các nhóm chín sắc mạng quyền quanh nơi thể phần thức ăn mới đang được quán, dưỡng chất trong các nhóm sắc do thời tiết sinh làm sinh những nhóm sắc mới nối tiếp nhau, lan rộng khắp thân.
+
+2. Sau khi ăn uống. Có thể quán sau khi ăn uống, cả khi ngồi thiền. Sau khi tăng cường định từng bước, hãy chuyên chú nhận biết bốn đại trong thể phần thức ăn mới còn trong dạ dày. Các hạt nhóm sắc sẽ hiện ra. (Cũng có thể quán tương tự thể phần thức ăn cũ trong ruột.) Nhờ lửa tiêu hóa nâng đỡ, dưỡng chất trong các nhóm sắc do thời tiết sinh làm sinh những nhóm tám sắc có dưỡng chất do vật thực sinh, liên tục nối tiếp và lan khắp thân. Hãy quán để thấy điều ấy bằng trí. Các nhóm sắc ấy có tính đục. Phân tích mỗi nhóm thì có tám pháp sắc. Sau khi thấy bằng trí sự lan tỏa của các nhóm tám sắc do vật thực sinh đến cả sáu cửa, có thể chuyển sang quán lần lượt ở bốn mươi hai thể phần của sáu cửa.
+
+Cách quán sắc ở cửa mắt, lấy một trường hợp làm ví dụ. Hành giả hãy tăng cường định từng bước rồi quán để thấy bằng trí rằng các nhóm tám sắc có dưỡng chất do vật thực sinh lan tới tận cửa mắt. Hãy dùng trí phân biệt tám pháp sắc…
+
+
+<a id="M03-body-P129"></a>
+## Dưỡng chất do nghiệp sinh ở cửa mắt
+Miến / Burmese 129
+
+…đến mức thấy được các pháp chân đế. Trong tám pháp sắc ấy, dưỡng chất có khả năng nâng đỡ dưỡng chất thuộc bốn nguồn sinh, tức đã đạt đặc tướng của dưỡng chất, được ghi nhận là dưỡng chất do vật thực sinh.
+
+1. Dưỡng chất do nghiệp sinh. Khi dưỡng chất do nghiệp sinh trong nhóm mười sắc mắt gặp dưỡng chất do vật thực sinh đã lan đến mắt, dưỡng chất do nghiệp sinh ấy được cả dưỡng chất do vật thực sinh và lửa tiêu hóa nâng đỡ. Khi ấy, dưỡng chất do nghiệp sinh trong nhóm mười sắc mắt làm cho các nhóm sắc sinh liên tiếp bốn hoặc năm đợt. Do dưỡng chất trong nhóm mười sắc mắt, một nhóm tám sắc có dưỡng chất sinh lên. Khi dưỡng chất trong nhóm mới đến giai đoạn trụ, được dưỡng chất do vật thực sinh và lửa tiêu hóa nâng đỡ, nó lại làm sinh một nhóm tám sắc có dưỡng chất mới. Như vậy các nhóm sắc sinh nối tiếp bốn hoặc năm lượt.
+
+Ghi chú. Số lượt có thể ít hay nhiều tùy sức nâng đỡ của nghiệp mạnh hay yếu, vật thực bên ngoài (dưỡng chất) tốt hay kém và các điều kiện khác. Trong các nhóm sắc sinh qua bốn hoặc năm lượt ấy cũng có hỏa đại, tức thời tiết. Hãy ghi nhận rằng khi đến giai đoạn trụ, hỏa đại ấy cũng có thể làm sinh các nhóm tám sắc có dưỡng chất do thời tiết sinh, nối tiếp từng lượt.
+
+Dưỡng chất trong nhóm mười sắc thân và nhóm mười sắc giới tính cũng hiện diện tại cửa mắt…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Visuddhimagga, tập 2, tr. 251.
+
+
+<a id="M03-body-P130"></a>
+## Dưỡng chất do tâm sinh ở cửa mắt
+Miến / Burmese 130
+
+…Khi được lửa tiêu hóa và dưỡng chất do vật thực sinh trợ giúp, chúng lần lượt làm sinh các nhóm tám sắc có dưỡng chất do vật thực sinh. Hỏa đại, tức thời tiết, trong các nhóm sắc này cũng lần lượt làm sinh những nhóm tám sắc có dưỡng chất do thời tiết sinh. Hãy quán để thấy bằng trí các tiến trình ấy và dùng trí phân biệt từng pháp đến mức thấy được các pháp chân đế.
+
+2. Dưỡng chất do tâm sinh. Trong mỗi nhóm tám sắc do tâm sinh có mặt ở cửa mắt đều có dưỡng chất. Khi được lửa tiêu hóa và dưỡng chất do vật thực sinh nâng đỡ, dưỡng chất do tâm sinh ấy cũng làm sinh các nhóm tám sắc có dưỡng chất do vật thực sinh trong hai hoặc ba lượt. Hãy quán để thấy sự sinh liên tiếp hai hoặc ba lượt của các nhóm sắc này.
+
+Ở đây, sự sinh các nhóm tám sắc qua hai hoặc ba lượt được giải thích theo sức của các tâm dục giới thông thường, chưa đạt đến các tâm tu tập thiền chỉ và minh sát bậc cao. Do sức của tâm đại hành và tâm siêu thế, các nhóm tám sắc có dưỡng chất có thể sinh nhiều hơn. Điều này do sắc do tâm sinh từ các tâm đại hành và tâm siêu thế có sức lan tỏa lớn hơn và mạnh hơn.
+
+Ghi chú. Hỏa đại, tức thời tiết, trong các nhóm sắc ấy cũng có thể làm sinh các nhóm tám sắc có dưỡng chất do thời tiết sinh mới. Nếu sắc do tâm sinh từ các tâm mạnh như tâm tu tập thiền chỉ, tâm tu tập minh sát, tâm đạo và tâm quả, hỏa đại trong sắc ấy có thể làm sinh liên tục các nhóm tám sắc do thời tiết sinh ở bên trong và lan cả ra bên ngoài, từng lượt…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Visuddhimagga, tập 2, tr. 251; Mahāṭīkā, tập 2, tr. 403.
+
+
+<a id="M03-body-P131"></a>
+## Dưỡng chất do thời tiết sinh ở cửa mắt
+Miến / Burmese 131
+
+…trong một khoảng thời gian dài. Ánh sáng của trí cũng do cảnh sắc trong các nhóm sắc do tâm sinh và do thời tiết sinh ấy trợ giúp.
+
+3. Dưỡng chất do thời tiết sinh. Như đã trình bày ở phần quán sắc do thời tiết sinh tại cửa mắt, mỗi nhóm tám sắc có dưỡng chất do thời tiết sinh phát sinh từ hỏa đại do nghiệp sinh, do tâm sinh, do thời tiết sinh hoặc do vật thực sinh đều có dưỡng chất. Khi được lửa tiêu hóa và dưỡng chất do vật thực sinh nâng đỡ, mỗi dưỡng chất do thời tiết sinh ấy cũng khiến các nhóm sắc sinh nối tiếp đến mười hoặc mười hai lượt. Hãy quán để thấy.
+
+“Dưỡng chất do thời tiết làm nguồn sinh, khi đến giai đoạn trụ, sinh nhóm tám sắc có dưỡng chất. Dưỡng chất trong đó lại làm cho tiến trình tiếp nối mười hoặc mười hai lượt.” [CHƯA XÁC MINH: phiên âm câu Pāli trong Thanh tịnh đạo.]
+
+Hành giả hãy quán riêng từng nhóm, theo cách đã trình bày trong các bảng đề mục thiền về sắc.
+
+Ghi chú. Hỏa đại, tức thời tiết, trong các nhóm tám sắc có dưỡng chất do vật thực sinh ấy cũng khiến các nhóm sắc sinh nối tiếp đến mười hoặc mười hai lượt.
+
+4. Dưỡng chất do vật thực sinh. Như đã giải thích, tại cửa mắt các nhóm tám sắc có dưỡng chất do vật thực sinh lan rộng nhờ dưỡng chất trong các nhóm tám sắc có dưỡng chất do thời tiết sinh, thuộc đoàn thực đã ăn. Dưỡng chất đã đạt đặc tướng của dưỡng chất trong các nhóm do vật thực sinh ấy là dưỡng chất…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Visuddhimagga, tập 2, tr. 252; Mahāṭīkā, tập 2, tr. 403.
+
+
+<a id="M03-body-P132"></a>
+## Dưỡng chất do vật thực sinh ở cửa mắt
+Miến / Burmese 132
+
+…do vật thực sinh. Những nhóm tám sắc ấy sinh liên tục nhờ lửa tiêu hóa nâng đỡ. Vật thực ăn chỉ một lần cũng có sức nâng đỡ để các nhóm sắc do vật thực sinh liên tục sinh suốt bảy ngày. Dưỡng chất trong những nhóm sắc đang liên tiếp sinh ấy, khi được dưỡng chất của một nhóm sắc do vật thực sinh khác nâng đỡ và khi chính nó đã đến giai đoạn trụ, làm sinh liên tiếp các nhóm sắc mới. Số lần ít hay nhiều tùy vào lửa tiêu hóa, tức hỏa đại do nghiệp sinh làm tiêu thức ăn, mạnh hay yếu, và vào dưỡng chất nâng đỡ, tức vật thực bên ngoài đã được ăn, tốt hay kém. “Dasa dvādasa vāre pavattiṃ yāpeti”, nghĩa là khiến các sắc sinh nối tiếp mười hoặc mười hai lượt. Hãy quán để thấy.
+
+Trong đoạn này, dưỡng chất được trợ giúp là dưỡng chất có trong nhóm tám sắc có dưỡng chất do vật thực sinh. Dưỡng chất có nhiệm vụ nâng đỡ cũng là dưỡng chất có trong nhóm tám sắc có dưỡng chất do vật thực sinh. Cả dưỡng chất làm nhân và dưỡng chất là quả đều là dưỡng chất do vật thực sinh, nhưng thuộc những nhóm sắc khác nhau.
+
+Ghi chú. Trong mỗi nhóm tám sắc có dưỡng chất do vật thực sinh cũng có hỏa đại, tức thời tiết. Hỏa đại ấy cũng có thể làm sinh các nhóm tám sắc có dưỡng chất do thời tiết sinh mới. Hãy quán để thấy.
+
+
+<a id="M03-body-P133"></a>
+## Điều cốt yếu cần ghi nhớ
+Miến / Burmese 133
+
+Mỗi nhóm sắc nhất thiết có hỏa đại, tức thời tiết, và dưỡng chất. Theo cách đã trình bày, nhờ thời tiết hoặc nhờ dưỡng chất trong mỗi nhóm, khi có sự hỗ trợ của các điều kiện tương ứng, các nhóm sắc sinh tăng thêm từng đôi. Ví dụ, khi phân tích nhóm mười sắc mắt, có mười pháp sắc. Trong số ấy có hỏa đại, tức thời tiết, và dưỡng chất. Khi có sự hỗ trợ của sắc do nghiệp sinh được chấp thủ và khi đến giai đoạn trụ, thời tiết làm sinh nhóm tám sắc có dưỡng chất do thời tiết sinh. Cũng vậy, khi được lửa tiêu hóa và dưỡng chất do vật thực sinh nâng đỡ, dưỡng chất đến giai đoạn trụ lại làm sinh một nhóm tám sắc có dưỡng chất do vật thực sinh mới. Có thể gọi chúng là các nhóm con.
+
+Mặt khác, khi phân tích nhóm tám sắc có dưỡng chất do thời tiết sinh từ hỏa đại trong nhóm mười sắc mắt, thấy có tám pháp sắc. Trong đó lại có hỏa đại và dưỡng chất. Đó là hỏa đại do thời tiết sinh và dưỡng chất do thời tiết sinh. Hỏa đại do thời tiết sinh ấy lại làm sinh nhóm tám sắc có dưỡng chất do thời tiết sinh khác khi được sắc do nghiệp sinh được chấp thủ nâng đỡ. Có thể gọi đó là nhóm cháu.
+
+“Gọi là sắc có thời tiết làm nguồn sinh vì thời tiết, nhờ sắc được chấp thủ làm duyên và khi đã đạt đến giai đoạn trụ, làm sinh sắc trong dòng tương tục.” [CHƯA XÁC MINH: phiên âm nguyên câu Pāli trong Thanh tịnh đạo.]
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Visuddhimagga, tập 2, tr. 251.
+
+
+<a id="M03-body-P134"></a>
+## Điều cần lưu ý về sắc do thời tiết sinh
+Miến / Burmese 134
+
+Lời Sớ giải. Tuy thời tiết có thể sinh sắc ngay cả khi không có sắc được chấp thủ, không có trường hợp nó sinh sắc trong dòng tương tục của một chúng sinh mà hoàn toàn thiếu duyên ấy. Vì vậy mới nói “nhờ sắc được chấp thủ làm duyên”. Do thời tiết thuộc bốn nguồn sinh đều có thể làm sinh sắc, bản văn nói “thời tiết thuộc bốn nguồn sinh”. [CHƯA XÁC MINH: phiên âm và một cụm cú pháp trong câu Sớ giải.]
+
+Ý chính của Chú giải và Sớ giải là như sau. Hỏa đại, gọi là thời tiết, trong mỗi nhóm sắc vẫn có thể làm sinh nhóm tám sắc có dưỡng chất do thời tiết sinh khi không có sắc do nghiệp sinh gọi là sắc được chấp thủ. Tuy nhiên, trong thời gian dòng sắc của một chúng sinh còn tiếp diễn, nó không sinh các nhóm ấy nếu tách rời sắc do nghiệp sinh được chấp thủ. Trường hợp hỏa đại, tức thời tiết, làm sinh nhóm tám sắc có dưỡng chất do thời tiết sinh trong điều kiện hoàn toàn thiếu sắc do nghiệp sinh được chấp thủ không phải là trường hợp đang được giải thích ở đây. Vì vậy Chú giải nói chỉ khi được sắc do nghiệp sinh, gọi là sắc được chấp thủ, trợ làm duyên thì hỏa đại, tức thời tiết, mới có thể làm sinh các nhóm ấy. Trong các sắc do thời tiết sinh, chỉ hỏa đại có trong đó có thể làm sinh thêm các nhóm tám sắc do thời tiết sinh khi thiếu sắc do nghiệp sinh được chấp thủ.
+
+Nói rõ thêm, trong thân này có các sắc do nghiệp đã tích lũy trong quá khứ làm sinh. Các sắc ấy gọi là sắc do nghiệp sinh được chấp thủ (upādinnaka-kammajarūpa). Nghiệp đã tạo và tích lũy dựa vào một đối tượng trong quá khứ làm phát sinh các pháp sắc này, như thể nhận lấy chúng là “quả của ta”. Khi nghiệp làm điều kiện cho các pháp sắc ấy thực sự không còn có thể tiếp tục cho quả…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Mahāṭīkā, tập 2, tr. 404; Visuddhimagga, tập 2, tr. 251.
+
+
+<a id="M03-body-P135"></a>
+## Khi sắc do nghiệp sinh chấm dứt
+Miến / Burmese 135
+
+…vì thời hạn cho quả đã hết, các sắc do nghiệp sinh mới không còn phát sinh. Khi các sắc do nghiệp sinh ấy không còn, hỏa đại, tức thời tiết, trong các sắc ấy cũng không còn. Dưỡng chất do nghiệp sinh cũng không còn. Vì vậy, các nhóm tám sắc có dưỡng chất do thời tiết sinh vốn phát sinh nhờ hỏa đại do nghiệp sinh không thể phát sinh. Dưỡng chất do nghiệp sinh cũng không thể làm sinh nhóm tám sắc có dưỡng chất do vật thực sinh với sự hỗ trợ của lửa tiêu hóa và dưỡng chất do vật thực sinh.
+
+Cũng vậy, khi các sắc do nghiệp sinh đã chấm dứt, các sắc làm chỗ nương cho danh pháp, gồm mắt, tai, mũi, lưỡi, thân và ý vật, cũng không còn. Khi không còn sắc làm chỗ nương, các danh pháp gồm tâm và tâm sở trong dòng tương tục hiện tại gồm năm uẩn cũng không còn điều kiện phát sinh. Do đó, sắc do tâm và tâm sở sinh không còn. Vì sắc do tâm sinh không còn nên hỏa đại và dưỡng chất do tâm sinh cũng không còn. Các nhóm tám sắc do thời tiết sinh từ hỏa đại do tâm sinh, và các nhóm tám sắc do vật thực sinh từ dưỡng chất do tâm sinh, cũng không còn.
+
+Cũng vậy, khi các sắc do nghiệp sinh đã chấm dứt, lửa tiêu hóa do nghiệp sinh cũng không còn. Vì không được lửa tiêu hóa nâng đỡ, dưỡng chất do thời tiết sinh trong các nhóm tám sắc do thời tiết sinh làm thành thể phần thức ăn mới cũng không thể làm sinh nhóm tám sắc do vật thực sinh. Vì không còn dưỡng chất do vật thực sinh đã đạt đặc tướng của dưỡng chất ấy, cũng không còn dưỡng chất có khả năng nâng đỡ dưỡng chất thuộc các nhóm khác. Khi ấy, dòng tương tục của các nhóm sắc do vật thực sinh ở mắt…
+
+
+<a id="M03-body-P136"></a>
+## Sắc còn tiếp tục sau khi sắc do nghiệp sinh chấm dứt
+Miến / Burmese 136
+
+…cũng đã chấm dứt.
+
+Sau khi sắc do nghiệp sinh chấm dứt, những sắc còn có thể tiếp tục sinh chỉ là sắc do thời tiết sinh tồn tại dưới dạng tử thi. Các sắc trong tử thi là những nhóm tám sắc có dưỡng chất do thời tiết sinh, nối tiếp nhau do hỏa đại trong từng nhóm sắc. Hỏa đại trong những nhóm ấy vẫn có sức làm phát sinh các nhóm tám sắc mới do thời tiết sinh dù thiếu sự nâng đỡ của sắc do nghiệp sinh.
+
+Vì vậy, trong dòng sắc còn sống và gắn với các quyền, khi thời tiết do nghiệp, do tâm hoặc do vật thực sinh làm phát sinh nhóm tám sắc có dưỡng chất do thời tiết sinh mới, vẫn cần sắc do nghiệp sinh gọi là sắc được chấp thủ nâng đỡ. Riêng khi hỏa đại trong các nhóm tám sắc do thời tiết sinh làm phát sinh nhóm mới thì không cần sự nâng đỡ của sắc do nghiệp sinh. Hãy hiểu tương tự đối với sắc do thời tiết sinh trong thế giới vô sinh.
+
+Dưỡng chất trong nhóm tám sắc do thời tiết sinh, vốn do hỏa đại trong nhóm mười sắc mắt làm sinh, khi được lửa tiêu hóa và dưỡng chất do vật thực sinh nâng đỡ thì lại có thể sinh nhóm tám sắc mới do vật thực sinh. Đây là nhóm cháu. Theo cách ấy, hãy quán để thấy hỏa đại và dưỡng chất trong các nhóm tám sắc do thời tiết sinh từ hỏa đại trong nhóm mười sắc mắt làm sinh các nhóm do thời tiết và do vật thực sinh, nối tiếp bốn hoặc năm đời con cháu.
+
+
+<a id="M03-body-P137"></a>
+## Quán sự sinh nối tiếp ở các nhóm sắc
+Miến / Burmese 137
+
+Trong chính nhóm mười sắc mắt cũng có dưỡng chất do nghiệp sinh. Khi được lửa tiêu hóa và dưỡng chất do vật thực sinh nâng đỡ, nó làm sinh nhóm tám sắc có dưỡng chất do vật thực sinh. Trong nhóm ấy lại có hỏa đại và dưỡng chất. Chúng lại có thể làm sinh các nhóm sắc nối tiếp bốn hoặc năm lượt như trên. Hãy quán để thấy. Hãy học kỹ cách các nhóm tăng lên theo từng đôi cho đến khi hiểu rõ.
+
+Hãy quán để thấy tương tự ở hỏa đại và dưỡng chất trong mỗi nhóm hiện diện ở mắt, như nhóm mười sắc thân, nhóm mười sắc tính và các nhóm tám sắc do tâm, thời tiết và vật thực sinh. Hãy quán tương tự ở sáu cửa và bốn mươi hai thể phần.
+
+Điều cần lưu ý. Khi các nhóm sắc đã sinh nối tiếp qua hai, ba, bốn, năm, mười, mười hai hoặc nhiều lượt, lan từ bên trong đến cả bên ngoài, hỏa đại và dưỡng chất trong nhóm ở lượt cuối không thể làm phát sinh nhóm mới do thời tiết sinh hay do vật thực sinh.
+
+Nếu ghi nhớ kỹ cách các sắc sinh như đã trình bày, xem các bảng đề mục sắc và thực hành có hệ thống dưới sự hướng dẫn của thầy, hành giả sẽ có thể nhận biết và dùng tuệ phân biệt các sắc do bốn nguyên nhân là nghiệp, tâm, thời tiết và vật thực làm sinh, đến mức thấy chân đế.
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Mahāṭīkā, tập 2, tr. 401.
+
+
+<a id="M03-body-P138"></a>
+## Cách quán đề mục tứ đại chi tiết
+Miến / Burmese 138
+
+Quán các sắc ở sáu cửa, sinh từ bốn nguồn là nghiệp, tâm, thời tiết và vật thực, là cách quán đề mục tứ đại tóm lược. Từ đó tiến thêm một bước, có thể quán theo cách chi tiết. Cách quán chi tiết gồm các thể phần sau.
+
+1. Thể phần thuộc địa đại: 20.
+2. Thể phần thuộc thủy đại: 12.
+3. Thể phần thuộc hỏa đại: 4.
+4. Thể phần thuộc phong đại: 6.
+Tổng cộng: 42 thể phần.
+
+Trong số ấy, 20 thể phần thuộc địa và 12 thể phần thuộc thủy, tổng cộng 32 thể phần, đã được trình bày cùng với số sắc trong phần đề mục thiền chỉ. Hãy quán để thấy bốn đại trong từng thể phần. Khi thấy các nhóm sắc, hãy phân biệt các sắc thấy được theo phương pháp đã trình bày trong bảng thân môn.
+
+1. Trong bốn thể phần là mồ hôi, nước mắt, nước bọt và nước mũi, mỗi phần có 16 sắc, gồm tám sắc trong nhóm do tâm sinh và tám sắc trong nhóm do thời tiết sinh. Chúng sinh do tâm và do thời tiết.
+
+2. Trong bốn thể phần là thức ăn mới, thức ăn cũ, mủ và nước tiểu, mỗi phần chỉ có tám sắc trong nhóm do thời tiết sinh.
+
+
+<a id="M03-body-P139"></a>
+## Bốn thể phần có hỏa đại trội
+Miến / Burmese 139
+
+3. Trong 24 thể phần còn lại, mỗi phần có 44 sắc như đã trình bày ở thân môn. Hãy quán để thấy. Đối với mỡ, hãy quán riêng mỡ đặc và mỡ lỏng. Đối với máu, hãy quán riêng máu đọng và máu lưu thông. Máu đọng (sannicitalohita) tụ lại quanh tim, gan và những chỗ tương tự, không lưu thông. Máu lưu thông (saṃsaraṇalohita) đi theo mạch và lan khắp thân. Hãy nhận biết 44 sắc trong mỗi loại máu ấy.
+
+Bốn thể phần có hỏa đại trội:
+
+1. Nhiệt làm nóng (santappanatejo), như nhiệt dữ dội khi sốt cách nhật: 33 sắc.
+2. Nhiệt thiêu đốt (ḍahatejo), đốt nóng dữ dội khắp thân: 33 sắc.
+3. Nhiệt làm già (jīraṇatejo), khiến thân già yếu, chín muồi và suy hoại: 33 sắc.
+4. Nhiệt tiêu hóa (pācakatejo), làm tiêu thức ăn, thuộc nhóm chín sắc mạng quyền: 9 sắc.
+
+Ghi chú. Bốn thể phần này không hiện thành từng phần có hình dạng như các thể phần thuộc địa đại và thủy đại. Chúng chỉ là các hạt nhóm sắc đục có hỏa đại trội. Vì vậy hãy tìm và quán các nhóm sắc có nhiệt trội ngay trong các hạt nhóm sắc. Nếu khó quán nhiệt làm nóng và nhiệt thiêu đốt, khi bị sốt rét hoặc…
+
+
+<a id="M03-body-P140"></a>
+## Sáu thể phần có phong đại trội
+Miến / Burmese 140
+
+…đang sốt, hãy lấy cảm nhận lúc đang sốt, hoặc lúc đã từng sốt, làm đối tượng và thử quán.
+
+Ba mươi ba sắc vừa nói gồm chín sắc trong nhóm mạng quyền do nghiệp sinh, tám sắc trong nhóm có dưỡng chất do tâm sinh, tám sắc trong nhóm có dưỡng chất do thời tiết sinh và tám sắc trong nhóm có dưỡng chất do vật thực sinh.
+
+Sáu thể phần có phong đại trội:
+
+1. Gió đi lên (uddhaṅgamavāta): 33 sắc.
+2. Gió đi xuống (adhogamavāta): 33 sắc.
+3. Gió trong bụng, bên ngoài ruột (kucchisayavāta): 33 sắc.
+4. Gió trong ruột (koṭṭhāsayavāta): 33 sắc.
+5. Gió đi theo các mạch và lan khắp các chi lớn nhỏ (aṅgamaṅgānusārīvāta): 33 sắc.
+6. Hơi thở vào và hơi thở ra (assāsapassāsavāta): 9 sắc.
+
+Số 33 ở đây là chín sắc trong nhóm mạng quyền, cộng ba nhóm tám sắc có dưỡng chất do tâm, thời tiết và vật thực sinh. Nhóm chín sắc mạng quyền là nhóm do nghiệp sinh.
+
+Đối với từng loại trong sáu thể phần có phong đại trội ấy, trước hết hãy dùng tuệ thấy rõ loại gió muốn quán. Ví dụ, khi quán gió đi lên…
+
+
+<a id="M03-body-P141"></a>
+## Cách quán gió và hơi thở
+Miến / Burmese 141
+
+…trước hết hãy quán để thấy gió đang đi lên tại những nơi như bên trong ruột. Nếu chưa thấy, hãy lần lượt làm cho định đã đạt trở lại vững mạnh. Khi ánh sáng của định mạnh lên, hãy thử quán loại gió ấy. Nếu đã thành công, khi thấy gió bằng tuệ, hãy tiếp tục quán để thấy bốn đại trong gió ấy, tức bốn đại có phong đại trội. Khi quán như vậy và nhận rõ bốn đại, với sức định tăng lên từng lúc có thể thấy các nhóm sắc. Phân tích các nhóm ấy sẽ thấy 33 pháp sắc đã trình bày. Hãy nhận biết và dùng tuệ phân biệt các sắc chân đế ấy.
+
+“Assāsapassāsā — assāsapassāsā cittasamuṭṭhānā.” Hơi thở vào và hơi thở ra do tâm làm nguồn sinh. (Thanh tịnh đạo, tập 1, tr. 345–346.)
+
+“Cittaje assāsapassāsakoṭṭhāsepi ojaṭṭhamakato saddo atthi.” Trong thể phần hơi thở vào và hơi thở ra do tâm sinh cũng có âm thanh ngoài tám sắc có dưỡng chất. (Thanh tịnh đạo, tập 2, tr. 223.) [CHƯA XÁC MINH: cách đọc chính xác từ đứng trước saddo.]
+
+Theo lời Chú giải ấy, hơi thở vào và ra chỉ là tập hợp những nhóm chín sắc có âm thanh do tâm sinh. Hãy nhận biết sự trong sáng của hữu phần. Hãy chuyên chú để thấy bằng tuệ hơi thở vào và ra sinh do các tâm nối tiếp hữu phần, nương vào sắc ý vật. Khi thấy hơi thở bằng tuệ, hãy tiếp tục quán bốn đại trong gió ấy. Khi định mạnh lên, các hạt nhóm sắc…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Visuddhimagga, tập 1, tr. 345–346; Visuddhimagga, tập 2, tr. 223.
+
+
+<a id="M03-body-P142"></a>
+## Các nhóm sắc trong hơi thở và chín nhóm do nghiệp sinh
+Miến / Burmese 142
+
+…sẽ bắt đầu hiện rõ. Do sức của phong đại do tâm sinh, địa đại trong nhóm này và địa đại trong nhóm khác chạm nhau, hoặc các sắc đại chủng của những nhóm khác nhau va chạm rất sít nhau. Vì có sắc âm thanh sinh như vậy nên đây là các nhóm chín sắc có âm thanh do tâm sinh. Các sắc ấy sinh do những tâm nương vào sắc ý vật. Hãy chuyên chú để thấy bằng tuệ. (Khi hơi thở tốt, có thể có thêm nhẹ, mềm và thích ứng. Khi ấy là nhóm mười hai sắc có âm thanh và tính nhẹ v.v.)
+
+Với cả sáu thể phần thuộc phong đại, trước tiên hãy thấy gió, rồi chuyên chú để thấy bốn đại trong gió ấy. Khi thấy các hạt nhóm sắc, hãy dùng tuệ phân tích các pháp sắc như đã nói trên cho đến mức chân đế.
+
+Chín nhóm sắc do nghiệp sinh. Khi gom các nhóm sắc ở sáu cửa và 42 thể phần theo cùng nguồn sinh, có bốn loại nhóm: do nghiệp sinh, do tâm sinh, do thời tiết sinh và do vật thực sinh. Trong số đó, có chín nhóm do nghiệp sinh:
+
+1. Nhóm mười sắc mắt.
+2. Nhóm mười sắc tai.
+3. Nhóm mười sắc mũi.
+4. Nhóm mười sắc lưỡi.
+
+
+<a id="M03-body-P143"></a>
+## Chín nhóm do nghiệp sinh và tám nhóm do tâm sinh
+Miến / Burmese 143
+
+5. Nhóm mười sắc thân.
+6. Nhóm mười sắc nữ tính.
+7. Nhóm mười sắc nam tính.
+8. Nhóm mười sắc ý vật.
+9. Nhóm chín sắc mạng quyền.
+
+Tổng cộng có chín nhóm sắc do nghiệp sinh. Sắc do nghiệp sinh hiện tại sinh do nghiệp được tạo và tích lũy trong một đời quá khứ. Sắc do nghiệp sinh trong quá khứ sinh do nghiệp đã tạo và tích lũy trước thời điểm quá khứ ấy. Sắc do nghiệp sinh trong tương lai sinh do nghiệp đã tạo và tích lũy trong một đời quá khứ, thuộc loại nghiệp cho quả từ đời sau trở đi (aparāpariyavedanīya), hoặc do nghiệp đã tạo và tích lũy trong đời hiện tại, thuộc loại nghiệp cho quả đời kế tiếp (upapajjavedanīya). Đến phần tuệ nhận biết các duyên, hành giả sẽ hiểu những sắc ấy sinh như thế nào và có thể tự thấy. Điều này thuộc phần tuệ phân biệt nhân duyên. Hiện giờ hãy tạm tiếp nhận rằng đó là sắc sinh do nghiệp.
+
+Các sắc do nghiệp, tâm, thời tiết và vật thực sinh đã trình bày ở sáu cửa và 42 thể phần là sắc thực, không lẫn các sắc phi thực. Đó là các sắc có thể quán minh sát dưới ba đặc tính. Cũng có những nhóm do tâm, thời tiết và vật thực sinh lẫn với sắc phi thực. Sau đây trình bày riêng cả nhóm chỉ có sắc thực và nhóm có lẫn sắc phi thực.
+
+Tám nhóm sắc do tâm sinh:
+
+1. Nhóm tám sắc thuần do tâm sinh.
+2. Nhóm chín sắc có thân biểu tri, với thân biểu tri là sắc thứ chín.
+
+
+<a id="M03-body-P144"></a>
+## Thành phần các nhóm sắc do tâm sinh
+Miến / Burmese 144
+
+3. Nhóm mười một sắc có tính nhẹ v.v., gồm tám sắc, tính nhẹ, tính mềm và tính thích ứng.
+
+4. Nhóm mười hai sắc có thân biểu tri và tính nhẹ v.v., gồm tám sắc, thân biểu tri, tính nhẹ, tính mềm và tính thích ứng.
+
+5. Nhóm mười sắc có khẩu biểu tri và âm thanh, gồm tám sắc, khẩu biểu tri và âm thanh.
+
+6. Nhóm mười ba sắc có khẩu biểu tri, âm thanh và tính nhẹ v.v., gồm tám sắc, khẩu biểu tri, âm thanh, tính nhẹ, tính mềm và tính thích ứng.
+
+7. Nhóm chín sắc có âm thanh do tâm sinh trong hơi thở vào và ra, gồm tám sắc và âm thanh.
+
+8. Nhóm mười hai sắc có âm thanh và tính nhẹ v.v. do tâm sinh trong hơi thở vào và ra, gồm tám sắc, âm thanh, tính nhẹ, tính mềm và tính thích ứng.
+
+1. Nhóm thứ nhất là nhóm tám sắc có dưỡng chất do tâm sinh, hiện diện ở sáu cửa và một số trong 42 thể phần. Các sắc trong nhóm là sắc thực, có thể dùng làm đối tượng minh sát. Cách quán đã trình bày.
+
+2. Nhóm chín sắc có thân biểu tri. Hãy chuyên chú nhận biết tâm tu tập ở ý môn trong sáng, hoặc nhận biết sự trong sáng của hữu phần, rồi thử co duỗi một ngón tay…
+
+
+<a id="M03-body-P145"></a>
+## Quán thân biểu tri khi co duỗi
+Miến / Burmese 145
+
+…Hãy theo dõi đến tận ngón tay để thấy các nhóm sắc do tâm sinh lan đến đó vì các tâm muốn co, muốn duỗi và các tâm đang co duỗi. Các hạt nhóm sắc sẽ hiện ra. Mỗi nhóm có tám sắc. Cộng với thân biểu tri, tức biểu hiện của động tác co hay duỗi, thành chín sắc.
+
+3. Nhóm mười một sắc có tính nhẹ v.v. Khi quán nhóm tám sắc có dưỡng chất do tâm sinh đã nói, đôi lúc có thể thấy tính nhẹ, tính mềm và tính thích ứng của các sắc ấy. Tính thích ứng là sự thuận tiện, linh hoạt để thực hiện động tác như co hoặc duỗi. Khi chúng hiện rõ, hãy nhận biết cùng với các sắc trong nhóm.
+
+4. Nhóm mười hai sắc có thân biểu tri và tính nhẹ v.v. Hãy quán như ở nhóm thứ hai. Nhóm thứ hai không gồm ba sắc phi thực là tính nhẹ, tính mềm và tính thích ứng. Nhóm thứ tư có cả ba. Khi động tác như co duỗi nhẹ nhàng, nhanh nhẹn và linh hoạt, ba sắc phi thực ấy có mặt. Khi động tác nặng nề và trì trệ, chúng không có mặt. Hãy dùng tuệ để thấy rõ và phân biệt.
+
+Ghi chú. Khi quán động tác thân và khi quán với tỉnh giác, hai nhóm sắc có thân biểu tri, tức nhóm chín và nhóm mười hai, hiện diện rõ và giữ vai trò quan trọng. Nếu chưa biết cách nhận biết và phân biệt các sắc này bằng tuệ, khi quán động tác thân và quán với tỉnh giác, việc nhận biết đến mức chân đế…
+
+
+<a id="M03-body-P146"></a>
+## Quán khẩu biểu tri và âm thanh
+Miến / Burmese 146
+
+…khó có thể thành tựu.
+
+5. Nhóm mười sắc có khẩu biểu tri. Hãy thử đọc từng chữ như ka, kha. Trước hết hãy nhận biết sự trong sáng của hữu phần, tức ý môn. Sau đó hãy dùng tuệ thấy tâm muốn đọc và các tâm đang đọc. Hãy phân biệt và quán để thấy những hạt nhóm sắc do tâm sinh ấy lan tiếp đến những nơi phát âm như cổ họng. Hãy thấy âm thanh phát sinh khi địa đại có tính chất và năng lực trội trong các nhóm sắc do tâm sinh va chạm với địa đại có tính chất và năng lực trội trong các nhóm sắc do nghiệp sinh ở nơi phát âm. Hãy dùng tuệ phân biệt cả động tác miệng khi nói hay đọc, tức khẩu biểu tri.
+
+6. Nhóm mười ba sắc có khẩu biểu tri, âm thanh và tính nhẹ v.v. Hãy quán như trên. Chỉ khác là khi nói hoặc đọc dễ dàng, linh hoạt, với kết quả tốt, tính nhẹ, tính mềm và tính thích ứng cũng có mặt. Hai nhóm ở mục 5 và 6 là những pháp sắc hiện rõ trong đề mục quán tỉnh giác khi nói.
+
+7. Nhóm chín sắc có âm thanh do tâm sinh trong hơi thở vào và ra.
+8. Nhóm mười hai sắc có âm thanh và tính nhẹ v.v. do tâm sinh trong hơi thở vào và ra.
+
+
+<a id="M03-body-P147"></a>
+## Bốn nhóm sắc do thời tiết sinh
+Miến / Burmese 147
+
+Dù có cách phân loại thừa nhận sáu nhóm sắc do tâm sinh, Chú giải Thanh tịnh đạo, tập hai, trang 223, giải thích rằng có nhóm chín sắc có âm thanh do tâm sinh trong hơi thở vào và ra.
+
+“Assāsapassāso iti vā.” Hoặc gọi là hơi thở vào và ra. (Abhidhamma, tập 2, tr. 86.)
+
+Lời giải thích phù hợp với câu Pāli vừa dẫn. Hãy dùng tuệ nhận biết bốn đại trong hơi thở vào và ra. Khi sức định mạnh lên, các nhóm sắc sẽ bắt đầu hiện rõ. Mỗi nhóm có chín sắc, kể cả âm thanh. Khi thở nhẹ nhàng, linh hoạt và êm dịu, với hơi thở quân bình, tính nhẹ, tính mềm và tính thích ứng cũng có mặt. Đó là nhóm mười hai sắc có âm thanh và tính nhẹ v.v. do tâm sinh trong hơi thở vào và ra.
+
+Bốn nhóm sắc do thời tiết sinh:
+
+1. Nhóm tám sắc thuần do thời tiết sinh, lấy dưỡng chất làm sắc thứ tám. Đây là các sắc thực.
+2. Nhóm chín sắc có âm thanh do thời tiết sinh, gồm tám sắc và âm thanh. Đây là các sắc thực.
+3. Nhóm mười một sắc có tính nhẹ v.v., gồm tám sắc, tính nhẹ, tính mềm và tính thích ứng.
+4. Nhóm mười hai sắc có âm thanh và tính nhẹ v.v., gồm tám sắc, âm thanh, tính nhẹ, tính mềm và tính thích ứng.
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Abhi, tập 2, tr. 86.
+
+
+<a id="M03-body-P148"></a>
+## Ba loại âm thanh
+Miến / Burmese 148
+
+Trong bốn nhóm do thời tiết sinh, nhóm 1 và 2 là sắc thực, thích hợp để quán minh sát. Nhóm 1 có ở sáu cửa và một số trong 42 thể phần. Nhóm 2 là nhóm có âm thanh như tiếng bụng réo. Hai nhóm này có ở bên trong cũng như bên ngoài, trong thế giới hữu sinh lẫn vô sinh.
+
+Nhóm 3 và 4 có lẫn sắc phi thực. Các sắc phi thực ấy không thích hợp để quán minh sát. Chỉ khi nhận biết sắc ở giai đoạn tuệ phân biệt danh sắc thì nhận biết cả các sắc đi kèm ấy. Hai nhóm này không có trong vật vô sinh bên ngoài, chỉ có trong dòng tương tục của chúng sinh ở bên trong và bên ngoài. Khi quán minh sát, loại ra tính nhẹ, tính mềm và tính thích ứng, thì hai nhóm này lần lượt giống nhóm 1 và 2. Hãy ghi nhớ rằng chỉ sắc thực là đối tượng quán minh sát.
+
+Ba loại âm thanh:
+
+1. Tiếng thở thuộc nhóm chín sắc có âm thanh do tâm sinh trong hơi thở vào và ra.
+2. Tiếng nói thuộc nhóm mười sắc có khẩu biểu tri.
+3. Tiếng bụng réo, tiếng gió thổi v.v. thuộc nhóm chín sắc có âm thanh do thời tiết sinh.
+
+Hai loại đầu chỉ có trong dòng tương tục của chúng sinh hữu sinh bên trong và bên ngoài. Loại thứ ba có cả ở hữu sinh và vô sinh. Tiếng gió thổi v.v. thuộc nhóm chín sắc có âm thanh do thời tiết sinh ở vật vô sinh. Hãy lần lượt tăng cường định. Khi sức ánh sáng mạnh lên…
+
+
+<a id="M03-body-P149"></a>
+## Hai nhóm sắc do vật thực sinh
+Miến / Burmese 149
+
+…hãy dùng ánh sáng ấy hướng đến luồng gió đang thổi. Khi thấy gió, hãy nhận biết bốn đại trong đó. Khi định đủ mạnh, các nhóm sắc sẽ bắt đầu hiện rõ. Khi ấy hãy nhận biết chín pháp sắc chân đế. Có thể quán tương tự tiếng búng ngón tay, tiếng va chạm, tiếng sáo v.v. Khẩu biểu tri không thích hợp để quán minh sát. Còn âm thanh và các sắc thực cùng sinh trong nhóm với âm thanh là những sắc có nguồn sinh, thích hợp để quán minh sát.
+
+Hai nhóm sắc do vật thực sinh:
+
+1. Nhóm tám sắc thuần do vật thực sinh, lấy dưỡng chất làm sắc thứ tám.
+2. Nhóm mười một sắc có tính nhẹ v.v., lấy tính thích ứng làm sắc thứ mười một.
+
+Nhóm thứ nhất có thể tìm thấy ở sáu cửa và ở một số trong 42 thể phần, nơi có các nhóm sắc do vật thực sinh. Đây là sắc thực, thích hợp để quán minh sát.
+
+Nhóm thứ hai cũng có thể tìm thấy ở sáu cửa và một số thể phần có nhóm sắc do vật thực sinh, nhưng có lẫn sắc phi thực. Các sắc phi thực ấy không thích hợp để quán minh sát. Chỉ nhận biết chúng cùng với các sắc khác khi phân biệt sắc. Khi quán minh sát, hãy loại các sắc phi thực ra và chỉ quán sắc thực. Làm như vậy…
+
+
+<a id="M03-body-P150"></a>
+## Cách quán bốn sắc đặc tướng
+Miến / Burmese 150
+
+…các sắc thích hợp để quán minh sát cũng giống như nhóm thứ nhất. Cả hai nhóm chỉ có trong dòng tương tục của chúng sinh hữu sinh bên trong và bên ngoài.
+
+Có thể quán sự sinh khởi (upacaya) khi đã có thể nhận biết các sắc từ lúc chúng bắt đầu hiện diện ở thời tái tục, trong thể phần kalala, cho đến khi các quyền phát triển đầy đủ. Sự tiếp nối (santati), sự già (jaratā) và tính vô thường (aniccatā) là sự sinh, trụ và diệt của các sắc thực ở sáu cửa và 42 thể phần.
+
+Trước hết hãy phân tích từng nhóm sắc ở sáu cửa và 42 thể phần. Hãy quán để thấy tám, chín hoặc mười sắc thực trong từng nhóm cùng sinh, cùng trụ, cùng diệt. Sau đó, lần lượt ở mỗi cửa và mỗi thể phần, hãy quán để thấy sự sinh, trụ và diệt của các sắc thực hiện diện tại đó. Rồi gom tất cả các sắc thực có thể nhận biết ở sáu cửa và 42 thể phần lại mà quán sinh, trụ và diệt.
+
+Ghi chú. Lời này không có nghĩa tất cả các sắc đều sinh, trụ và diệt đồng thời. Ý chính là gom các sắc thích hợp để quán trong phạm vi các giai đoạn sinh, trụ và diệt (uppāda, ṭhiti, bhaṅga) mà quán.
+
+
+<a id="M03-body-P151"></a>
+## Sự sinh và diệt của sắc
+Miến / Burmese 151
+
+Ở đây cần giải thích đôi chút về cách các sắc sinh và diệt. Tuổi thọ của sắc được đo bằng mười bảy sát-na tâm. Mỗi sát-na tâm lại có ba sát-na nhỏ là sinh (uppāda), trụ (ṭhiti) và diệt (bhaṅga). Vì vậy, sắc tồn tại mười bảy sát-na tâm tính theo sát-na lớn, hoặc năm mươi mốt sát-na nhỏ. Tuổi thọ ấy không ngắn hơn hay dài hơn.
+
+Ví dụ, hãy chọn một sát-na tâm và gọi đó là sát-na số 1. Trong suốt đời sống, chừng nào nghiệp còn có thể cho quả, các nhóm sắc do nghiệp sinh luôn sinh ở sát-na sinh, trụ và diệt của mỗi tâm. Sắc sinh đúng lúc tâm số 1 sinh sẽ diệt đúng lúc tâm số 17 diệt. Sắc sinh đúng lúc tâm số 1 trụ sẽ diệt đúng lúc tâm số 18 sinh. Sắc sinh đúng lúc tâm số 1 diệt sẽ diệt đúng lúc tâm số 18 trụ. Các số 17 và 18 ở đây được đếm từ sát-na quy ước là số 1.
+
+Sắc do tâm sinh thì luôn sinh ở sát-na sinh của mỗi tâm nương vào sắc ý vật, suốt đời sống. Các sắc do tâm sinh đồng thời với sát-na sinh của tâm quy ước là số 1 diệt ở sát-na diệt của tâm quy ước là số 17.
+
+
+<a id="M03-body-P152"></a>
+## Thời điểm hỏa đại bắt đầu làm sinh sắc
+Miến / Burmese 152
+
+Hỏa đại có trong cả bốn loại nhóm sắc do nghiệp, tâm, thời tiết và vật thực sinh đều có thể làm sinh sắc do thời tiết sinh khi đến giai đoạn trụ của sắc. Những sắc do nghiệp sinh vào sát-na sinh của tâm số 1 đến giai đoạn trụ của sắc vào sát-na trụ của chính tâm số 1. Hỏa đại do nghiệp sinh trong các sắc ấy làm sinh các sắc do thời tiết sinh tương ứng.
+
+Cũng vậy, những sắc do nghiệp sinh vào sát-na diệt của tâm ngay trước tâm số 1 đến giai đoạn trụ vào sát-na sinh của tâm số 1. Mỗi hỏa đại do nghiệp sinh có trong các sắc ấy lại làm sinh một nhóm sắc do thời tiết sinh tương ứng. Các sắc do thời tiết sinh ấy sinh đồng thời với sát-na sinh của tâm số 1.
+
+Những sắc do nghiệp sinh vào sát-na diệt của tâm số 1 đến giai đoạn trụ vào sát-na sinh của tâm số 2. Hỏa đại do nghiệp sinh trong các sắc ấy có thể làm sinh những nhóm tám sắc có dưỡng chất do thời tiết sinh tương ứng. Những sắc do nghiệp sinh vào sát-na trụ của tâm số 1 đến giai đoạn trụ vào sát-na diệt của tâm ấy. Hỏa đại do nghiệp sinh trong chúng lại làm sinh nhóm tám sắc có dưỡng chất do thời tiết sinh mới. Theo cách ấy, sắc do thời tiết sinh từ hỏa đại do nghiệp sinh có thể sinh ở mỗi sát-na sinh, trụ và diệt của tâm. Cũng vậy, khi đủ mười bảy sát-na tâm, hay năm mươi mốt sát-na nhỏ…
+
+
+<a id="M03-body-P153"></a>
+## Sắc do thời tiết và vật thực sinh trong các sát-na
+Miến / Burmese 153
+
+…sắc có thể chấm dứt ở sát-na sinh, trụ hoặc diệt của tâm tương ứng.
+
+Vì sắc do tâm sinh phát sinh vào sát-na sinh của tâm nên đến sát-na trụ của tâm ấy, sắc cũng đến giai đoạn trụ. Khi ấy, hỏa đại do tâm sinh trong các sắc đó, tức thời tiết, làm sinh nhóm tám sắc có dưỡng chất do thời tiết sinh mới. Theo cách đếm này, lấy tâm đang nói làm tâm thứ nhất, các sắc do thời tiết sinh ấy diệt vào sát-na sinh của tâm thứ mười tám, khi đủ mười bảy sát-na tâm hay năm mươi mốt sát-na nhỏ. [CHƯA XÁC MINH: cụm trong ngoặc ở câu về sát-na trụ.]
+
+Hỏa đại do thời tiết sinh trong các sắc do thời tiết sinh đã nói trước cũng có thể làm sinh nhóm sắc do thời tiết sinh mới khi đến giai đoạn trụ. Vì sắc do thời tiết sinh có thể sinh ở cả ba sát-na nhỏ của tâm, hỏa đại trong các sắc ấy cũng có thể làm sinh sắc do thời tiết sinh ở sát-na sinh, trụ và diệt của tâm. Cũng vậy, khi đủ mười bảy sát-na tâm hay năm mươi mốt sát-na nhỏ, các sắc ấy có thể diệt ở sát-na sinh, trụ hoặc diệt của tâm tương ứng.
+
+Sắc do vật thực sinh cũng có thể sinh ở sát-na sinh, trụ hoặc diệt của mỗi tâm và cũng có thể diệt ở một trong ba sát-na nhỏ ấy. Sắc do nghiệp sinh có thể sinh ở cả ba sát-na nhỏ, sắc do tâm sinh có thể sinh ở sát-na sinh, và sắc do thời tiết sinh có thể sinh ở sát-na sinh, sát-na trụ…
+
+
+<a id="M03-body-P154"></a>
+## Sắc sinh, trụ và diệt trong cùng một sát-na tâm
+Miến / Burmese 154
+
+…hoặc sát-na diệt. Vì thế các sắc do vật thực sinh phát sinh từ dưỡng chất cũng có thể sinh ở cả ba sát-na nhỏ. Khi dưỡng chất thuộc bốn nguồn sinh đã đến giai đoạn trụ, nếu được dưỡng chất do vật thực sinh thuộc nhóm khác nâng đỡ thì có thể làm sinh các nhóm tám sắc có dưỡng chất do vật thực sinh mới. Do sắc do vật thực sinh có thể sinh ở sát-na sinh, trụ và diệt của tâm, hỏa đại trong các sắc ấy cũng có thể đến giai đoạn trụ ở mỗi loại sát-na nhỏ ấy và làm sinh nhóm tám sắc có dưỡng chất do thời tiết sinh mới. Vì thế các sắc ấy cũng có thể chấm dứt ở cả ba loại sát-na nhỏ của tâm.
+
+Theo lời giải thích ấy, nếu dừng lại xét một sát-na tâm, trong các sắc thuộc bốn nguồn sinh là nghiệp, tâm, thời tiết và vật thực, có sắc đang sinh ngay ở sát-na sinh của tâm ấy, có sắc vẫn ở giai đoạn trụ vì chưa hết mười bảy sát-na tâm hay năm mươi mốt sát-na nhỏ, và cũng có sắc đang diệt vì đã hết tuổi thọ.
+
+Lấy một ví dụ thông thường. Hãy tháo một đoạn dây xơ dừa se chặt. Có thể thấy dây được se bằng nhiều sợi xơ dài bốn inch, năm inch, một gang, một khuỷu tay và những độ dài tương tự. Xét tại một chỗ trên dây, có thể thấy đầu sợi, cuối sợi và cả phần giữa sợi.
+
+
+<a id="M03-body-P155"></a>
+## Sự nối tiếp che lấp tính sinh diệt
+Miến / Burmese 155
+
+Cũng như ví dụ ấy, trong mỗi sát-na nhỏ của một tâm, dù là sinh, trụ hay diệt, đều có các sắc đang sinh, các sắc đang diệt và các sắc đã đến giai đoạn trụ. Vì sự sinh của sắc và danh không giống nhau và các sắc ấy tiếp nối nhau trước sau, người chưa thấy sắc bằng tuệ chân đế chỉ nhận ra từng khối, từng nhóm theo chế định.
+
+Các danh pháp không có tính chất cùng tồn tại thành hai hoặc ba tâm trong một sát-na tâm. Chỉ khi một tâm đã chấm dứt thì tâm khác mới có thể sinh. Còn đối với sắc, trong mỗi sát-na nhỏ của một tâm, nhiều sắc có thể cùng sinh, nhiều sắc có thể diệt và nhiều sắc có thể trụ. Thời lượng của sát-na sinh của tâm và của sắc như nhau, thời lượng của sát-na diệt cũng như nhau. Thời lượng giai đoạn trụ thì khác nhau. Giai đoạn trụ của sắc dài mười sáu sát-na tâm và một sát-na nhỏ, tức bốn mươi chín sát-na nhỏ. Giai đoạn trụ của một số sắc chồng lên giai đoạn trụ của các sắc khác. Có những nhóm chồng nhau qua một số sát-na tâm. Các sắc sinh, diệt và trụ nối tiếp nhau.
+
+Nếu không thể phá vỡ khối tương tục (santatighana), người ta tưởng đó là một thể liên tục và duy nhất. Người ta tưởng hôm qua là tôi, hôm nay vẫn là tôi, hôm qua là người ấy, hôm nay vẫn là người ấy. Người ta tưởng lầm, chấp rằng tôi, người ấy, đàn ông, đàn bà, người hay chúng sinh thực có. Trong khi sự chấp ấy còn chi phối, tuệ minh sát xuyên thấu, thấy đúng đến mức chân đế, vẫn còn xa.
+
+
+<a id="M03-body-P156"></a>
+## Khi nào quán “sắc, sắc”
+Miến / Burmese 156
+
+“So sabbānipi tāni ruppanalakkhaṇena ekato katvā ‘etaṃ rūpan’ti passati.” Vị ấy gom tất cả các sắc ấy theo đặc tính biến đổi và thấy rằng “đây là sắc”. (Thanh tịnh đạo, tập 2, tr. 223.)
+
+Đến đây hành giả đã tới giai đoạn có thể nhận biết và dùng tuệ phân biệt đến mức chân đế các sắc thực và sắc phi thực trong sáu cửa và 42 thể phần. Ở giai đoạn này, hãy lấy làm cảnh sự khác nhau trong dòng sắc: các sắc sinh sau biểu hiện khác với các sắc sinh trước. Vì các pháp ấy đều có chung đặc tính biến đổi của sắc (ruppanalakkhaṇa), Thanh tịnh đạo dạy gom chúng lại mà quán “đây là sắc”. Theo lời chỉ dẫn ấy, đến đây có thể gom tất cả sắc thực và sắc phi thực ở sáu cửa và 42 thể phần mà quán “sắc pháp, sắc pháp”.
+
+Nếu chưa thể thấy và gom tất cả các sắc ở sáu cửa và 42 thể phần, trước hết ở từng cửa hãy gom 54 hay 44 sắc thực và những sắc phi thực có thể nhận biết theo đặc tính biến đổi chung của chúng. Rồi quán theo một trong các cách:
+
+1. “Đây là sắc, sắc.”
+2. “Sắc pháp, sắc pháp.”
+3. “Sắc, sắc.”
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Visuddhimagga, tập 2, tr. 223.
+
+
+<a id="M03-body-P157"></a>
+## Đặc tính biến đổi của sắc
+Miến / Burmese 157
+
+Đối với 42 thể phần cũng vậy. Trong từng thể phần, hãy gom các sắc thực và sắc phi thực có thể nhận biết rồi quán chung theo đặc tính biến đổi của chúng.
+
+Nếu có thể gom các sắc trong mỗi cửa hoặc mỗi thể phần, quán, nhận biết và dùng tuệ phân biệt chúng, hãy gom tất cả các sắc thực và sắc phi thực ở sáu cửa và 42 thể phần theo đặc tính biến đổi chung, rồi quán và nhận biết theo một trong các cách:
+
+1. “Đây là sắc, sắc.”
+2. “Sắc pháp, sắc pháp.”
+3. “Sắc, sắc.”
+
+Đặc tính biến đổi. Do những điều kiện đối nghịch như nóng hay lạnh, dòng sắc phát sinh khác đi, đổi sang dạng khác. Khi nhiệt tăng quá mức, các dòng sắc có nhiều tính nóng sinh nối tiếp. Khi lạnh tăng quá mức, các dòng sắc có nhiều tính lạnh sinh nối tiếp. Đó là nghĩa biến đổi ở đây. Còn các pháp chân đế như địa đại trong mỗi dòng sắc ấy vẫn có đặc tính riêng của chúng, như cứng hay chảy. Vì đặc tính riêng ấy không đổi nên chúng được gọi là chân đế.
+
+
+<a id="M03-body-P158"></a>
+## Điều cần ghi nhớ khi quán sắc
+Miến / Burmese 158
+
+1. Trước khi thấy các nhóm sắc, khi lấy từng đặc tính riêng của bốn đại làm cảnh để phát triển định, với niệm và tỉnh giác, cho đến cận định, hãy chỉ quán bốn đại: địa đại, thủy đại, hỏa đại và phong đại.
+
+2. Khi đã thấy và phân tích được các nhóm sắc, hãy nhận biết các sắc trong từng nhóm đến mức chân đế, như địa, thủy, hỏa, phong, màu, mùi, vị, dưỡng chất, mạng quyền và nhãn tịnh sắc. Hãy nhận biết theo từng nhóm như vậy.
+
+3. Khi có thể gom các sắc trong một cửa, một thể phần, hoặc tất cả sắc trong toàn thân thuộc sáu cửa và 42 thể phần, theo đặc tính biến đổi chung, hãy quán và nhận biết theo một trong các cách:
+
+1. “Đây là sắc, sắc.”
+2. “Sắc pháp, sắc pháp.”
+3. “Sắc, sắc.”
+
+Hãy thúc đẩy sự tinh cần. Trong bài kinh Đại Người chăn bò (Mahāgopālakasutta) thuộc Trung Bộ, và trong Chú giải của bài kinh ấy, có nói đến vị tỳ-khưu hành thiền như sau…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Ma, tập 1, tr. 282; Ma-ṭṭha, tập 2, tr. 163–164.
+
+
+<a id="M03-body-P159"></a>
+## Biết sắc theo số lượng và nguồn sinh
+Miến / Burmese 159
+
+1. Biết tất cả sắc gồm sắc đại chủng và sắc y sinh theo số lượng là 28 sắc.
+
+2. Biết theo nguyên nhân và nguồn sinh:
+(a) Những sắc nào do nghiệp sinh.
+(b) Những sắc nào do tâm sinh.
+(c) Những sắc nào do thời tiết sinh.
+(d) Những sắc nào do vật thực sinh.
+(e) Những sắc nào sinh do một nguyên nhân.
+(f) Những sắc nào sinh do hai nguyên nhân.
+(g) Những sắc nào sinh do ba nguyên nhân.
+(h) Những sắc nào sinh do cả bốn nguyên nhân.
+(i) Những sắc nào không sinh do bất kỳ nguyên nhân nào, tức bốn sắc đặc tướng.
+
+Nếu không dùng tuệ phân tích và quán như vậy thì không thể thấy. Nếu không thấy thì không thể biết. Nếu không biết thì không thể nhận biết rõ. Nếu không thể nhận biết rõ thì không thể đạt đạo, quả và Niết-bàn. Chỉ khi quán được, thấy được, biết được, nhận biết được và dùng tuệ phân biệt được thì mới có thể đạt đến đạo, quả và Niết-bàn. (Ma 1,282; Ma-ṭṭha 2,163–164.)
+
+Vì thế, hành giả mong cầu pháp cao quý và an tịnh là Niết-bàn hãy dùng tuệ phân tích các sắc hiện rõ do bốn nguyên nhân là nghiệp, tâm, thời tiết và vật thực, đến từng yếu tố chân đế trong mỗi nhóm sắc…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Ma, tập 1, tr. 282; Ma-ṭṭha, tập 2, tr. 163–164.
+
+
+<a id="M03-body-P160"></a>
+## Tinh cần để biết sắc đúng như thật
+Miến / Burmese 160
+
+…Hãy nhận biết và phân biệt bằng tuệ từng yếu tố, đến mức thấy chân đế. Chỉ khi có thể nhận biết và dùng tuệ phân biệt sắc trong sáu cửa và 42 thể phần như đã trình bày, hành giả mới có thể biết đúng như thật cả số lượng 28 sắc lẫn nguồn sinh của từng sắc.
+
+Nếu chưa thấy các nhóm sắc bằng tuệ, hoặc tuy thấy mà chưa thể dùng tuệ phân biệt đến mức chân đế, thì việc biết 28 sắc và biết sắc nào sinh từ nguyên nhân nào còn xa như trời với đất. Vì vậy, nếu mong cầu Niết-bàn mà Đức Phật chỉ dạy, và mong có tuệ minh sát chính xác đưa đến Niết-bàn, hãy tinh cần để dùng tuệ nhận biết và phân biệt sắc theo cả hai phương diện: số lượng và nguồn sinh, như được trình bày trong Chánh văn, Chú giải và Sớ giải.
+
+Nếu hành giả cho rằng tuy chưa biết đúng như thật:
+
+1. Số lượng 28 sắc.
+2. Nguồn sinh, tức sắc nào do nguyên nhân nào sinh.
+
+…mà vẫn có thể đạt tuệ minh sát…
+
+
+<a id="M03-body-P161"></a>
+## Kết phần quán sắc
+Miến / Burmese 161
+
+…và đạt đạo, quả, Niết-bàn, thì theo quan điểm ấy hành giả sẽ phải cùng Đức Phật Chánh Đẳng Giác, bậc có tuệ toàn tri, dựng nên một giáo pháp đối nghịch. Nếu muốn bác bỏ những lời giáo huấn mà Ngài đã dùng tuệ toàn tri phân tích và giảng dạy, thì trước hết trong dòng tâm của chính hành giả phải có một thứ tuệ cao hơn cả tuệ toàn tri ấy.
+
+☸ ☸ ☸
+
+
+<a id="M03-body-P162"></a>
+## Phần oai nghi và tỉnh giác
+Miến / Burmese 162
+
+Phần oai nghi (iriyāpatha) và tỉnh giác (sampajañña).
+
+
+<a id="M03-body-P163"></a>
+## Cách quán oai nghi và tỉnh giác
+Miến / Burmese 163
+
+“Kiñcāpi hi yaṃ kiñci kammaṭṭhānaṃ satassa sampajānasseva sampajjati.” Bất cứ đề mục thiền nào cũng chỉ thành tựu nơi người có niệm và tỉnh giác. (Thanh tịnh đạo, tập 1, tr. 276.)
+
+Theo lời Chú giải ấy, dù tu đề mục thiền chỉ hay đề mục minh sát, đều nên quán có hệ thống theo phương pháp ở phần oai nghi và phần tỉnh giác. Sau đây trình bày tóm lược cách quán ấy.
+
+“Puna caparaṃ, bhikkhave, bhikkhu —
+1. Gacchanto vā ‘gacchāmī’ti pajānāti.
+2. Ṭhito vā ‘ṭhitomhī’ti pajānāti.
+3. Nisinno vā ‘nisinnomhī’ti pajānāti.
+4. Sayāno vā ‘sayānomhī’ti pajānāti.”
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Visuddhimagga, tập 1, tr. 276; Ma, tập 1, tr. 71.
+
+
+<a id="M03-body-P164"></a>
+## Bốn oai nghi và bảy nhóm hoạt động có tỉnh giác
+Miến / Burmese 164
+
+Lại nữa, này các tỳ-khưu, vị tỳ-khưu hành thiền:
+
+1. Khi đi, biết rõ “tôi đi”.
+2. Khi đứng, biết rõ “tôi đứng”.
+3. Khi ngồi, biết rõ “tôi ngồi”.
+4. Khi nằm, biết rõ “tôi nằm”.
+
+Đây là cách quán ở phần oai nghi.
+
+“Puna caparaṃ, bhikkhave, bhikkhu —
+1. Abhikkante paṭikkante sampajānakārī hoti.
+2. Ālokite vilokite sampajānakārī hoti.
+3. Samiñjite pasārite sampajānakārī hoti.
+4. Saṅghāṭipattacīvaradhāraṇe sampajānakārī hoti.
+5. Asite pīte khāyite sāyite sampajānakārī hoti.
+6. Uccārapassāvakamme sampajānakārī hoti.
+7. Gate ṭhite nisinne sutte jāgarite bhāsite tuṇhībhāve sampajānakārī hoti.”
+
+Lại nữa, này các tỳ-khưu, vị tỳ-khưu hành thiền:
+
+1. Khi đi tới, đi lui, làm với tỉnh giác.
+2. Khi nhìn thẳng, nhìn quanh, làm với tỉnh giác.
+3. Khi co, duỗi, làm với tỉnh giác.
+4. Khi mang y hai lớp, bình bát và y, làm với tỉnh giác.
+5. Khi ăn, uống, nhai và nếm, làm với tỉnh giác.
+6. Khi đại tiện, tiểu tiện, làm với tỉnh giác.
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Ma, tập 1, tr. 71; Ma, tập 1, tr. 72.
+
+
+<a id="M03-body-P165"></a>
+## Mối liên hệ giữa oai nghi và tỉnh giác
+Miến / Burmese 165
+
+7. Khi đi, đứng, ngồi, ngủ, thức, nói và im lặng, làm với tỉnh giác.
+
+Đây là cách quán ở phần tỉnh giác.
+
+Trong hai đoạn trên, đoạn thứ nhất là cách quán sơ khởi thuộc phần oai nghi, đoạn thứ hai là cách quán sơ khởi thuộc phần tỉnh giác. Hai cách quán liên hệ với nhau. Chú giải và Sớ giải giải thích rộng cách thực hành phù hợp với ý của Đức Phật. Nay trình bày tóm lược những lời giải thích ấy.
+
+“Gacchanto vā gacchāmīti pajānāti, ṭhito vā ṭhitomhīti pajānāti, nisinno vā nisinnomhīti pajānāti, sayāno vā sayānomhīti pajānātī”ti imasmiñhi ṭhāne addhānairiyāpathā kathitā. “Abhikkante paṭikkante ālokite vilokite samiñjite pasārite”ti imasmiṃ majjhimā. “Gate ṭhite nisinne sutte jāgarite”ti idha pana khuddakacuṇṇikairiyāpathā kathitā. Tasmā etesupi vuttanayeneva sampajānakāritā veditabbā. (Majjhima-aṭṭhakathā, tập 1, tr. 273.)
+
+Ở phần oai nghi, bản văn nói đến các oai nghi kéo dài. Ở đoạn đi tới, đi lui, nhìn thẳng, nhìn quanh, co và duỗi, bản văn nói đến các oai nghi có độ dài trung bình. Ở đoạn đi, đứng, ngồi, ngủ và thức, bản văn nói đến các oai nghi ngắn. Ở đây cũng nên hiểu cách làm với tỉnh giác theo phương pháp đã trình bày.
+
+Trong phần oai nghi, Đức Phật dạy quán minh sát trong các oai nghi đi, đứng, ngồi và nằm. Trong phần tỉnh giác, Ngài lại dạy quán minh sát trong các động tác như đi tới, đi lui. Cũng trong phần tỉnh giác, với các chữ “khi đi, khi đứng” v.v., Ngài lại dạy quán minh sát trong các oai nghi đi, đứng, ngồi và nằm. Như vậy có một lần ở phần oai nghi, hai lần ở phần tỉnh giác. Cả ba lần đều liên hệ đến đi, đứng…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Ma, tập 1, tr. 72; Ma-ṭṭha, tập 1, tr. 273.
+
+
+<a id="M03-body-P166"></a>
+## Ba phạm vi quán oai nghi
+Miến / Burmese 166
+
+…ngồi, nằm. Đức Phật dạy quán minh sát trong những lúc ấy. Chú giải giải thích lời dạy ấy như đã dẫn. Ý chính như sau.
+
+1. Trong phần oai nghi, bốn oai nghi đi, đứng, ngồi, nằm chỉ những oai nghi kéo dài. Khi đi, đứng, ngồi hoặc nằm lâu, hãy nhận biết các pháp danh sắc thuộc năm uẩn. Hãy quán minh sát các pháp danh sắc thuộc năm uẩn cùng các duyên của chúng dưới ba đặc tính.
+
+2. Sáu việc “đi tới, đi lui, nhìn thẳng, nhìn quanh, co và duỗi” chỉ những oai nghi có độ dài trung bình. Trong những lúc thực hiện các động tác ấy, như khi đi khất thực, cũng hãy nhận biết các pháp danh sắc thuộc năm uẩn và quán minh sát chúng cùng các duyên dưới ba đặc tính.
+
+3. Năm việc “khi đi, đứng, ngồi, ngủ và thức” ở mục 7 phần tỉnh giác chỉ những oai nghi ngắn, như đi từ chỗ này sang chỗ kia trong tu viện, đi kinh hành, dịch tới hoặc dịch lui trong lúc ngồi thiền. Ngay trong những oai nghi ngắn ấy ở tu viện, như đi, đứng, ngồi và nằm, hành giả cũng hãy nhận biết các pháp danh sắc thuộc năm uẩn và quán chúng cùng các duyên dưới ba đặc tính…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Ma-ṭṭha, tập 1, tr. 273.
+
+
+<a id="M03-body-P167"></a>
+## Quán trong lúc thực hiện và sau khi thực hiện
+Miến / Burmese 167
+
+…mà tu tập minh sát. (Majjhima-aṭṭhakathā, tập 1, tr. 273.)
+
+Trong Chú giải cũng nêu quan điểm của Trưởng lão Mahāsīva ở Rohaṇa. Quan điểm của ngài như sau.
+
+Trong các oai nghi đi, đứng, ngồi, nằm ở phần oai nghi, và trong những động tác đi tới, đi lui, nhìn thẳng, nhìn quanh, co và duỗi ở phần tỉnh giác, lời dạy nhằm chỉ việc nhận biết các pháp danh sắc thuộc năm uẩn ngay trong khi làm những việc ấy, rồi quán minh sát các pháp danh sắc cùng các duyên dưới ba đặc tính.
+
+Còn lời dạy ở mục 7, “gate ṭhite nisinne sutte jāgarite bhāsite tuṇhībhāve”, chỉ việc làm với tỉnh giác sau khi đã đi, đã đứng, đã ngồi, đã ngủ, đã thức, đã nói hoặc đang giữ im lặng. Khi động tác đã xong, hãy nhận biết và quán minh sát các pháp danh sắc đã sinh trong lúc làm động tác đó. Chú giải trình bày lời Trưởng lão Mahāsīva theo cách ấy. (Có thể xem phần giải thích rộng trong Chú giải.) (Majjhima-aṭṭhakathā, tập 1, tr. 273–274.)
+
+1. Theo những chỉ dẫn này, trong lúc đi, đứng, ngồi, nằm, đi tới, đi lui, nhìn thẳng, nhìn quanh, co hay duỗi, hành giả hãy nhận biết và quán minh sát các pháp danh sắc đang hiện hữu.
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Ma-ṭṭha, tập 1, tr. 273; Ma-ṭṭha, tập 1, tr. 273–274.
+
+
+<a id="M03-body-P168"></a>
+## Sự biết có khả năng đoạn trừ tưởng về chúng sinh
+Miến / Burmese 168
+
+2. Sau khi đã đi, đứng, ngồi, ngủ (nằm) hoặc thức, hành giả hãy nhận biết và quán minh sát các pháp danh sắc quá khứ đã sinh trong những lúc đi, đứng, ngồi, ngủ, nằm hoặc thức ấy.
+
+Trong khi đi, hãy quán minh sát các pháp danh sắc hiện hữu. Sau khi đã đi, lại hãy nhận biết và quán minh sát các pháp danh sắc đã sinh trong lúc đi. Quán bằng cách nào? Câu trả lời như sau.
+
+Tattha kāmaṃ soṇasiṅgālādayopi gacchantā ‘gacchāmā’ti jānanti. Na panetaṃ evarūpaṃ jānanaṃ sandhāya vuttaṃ. Evarūpañhi jānanaṃ sattūpaladdhiṃ na pajahati, attasaññaṃ na ugghāṭeti, kammaṭṭhānaṃ vā satipaṭṭhānabhāvanā vā na hoti. Imassa pana bhikkhuno jānanaṃ sattūpaladdhiṃ pajahati, attasaññaṃ ugghāṭeti, kammaṭṭhānañceva satipaṭṭhānabhāvanā ca hoti. Idañhi “ko gacchati, kassa gamanaṃ, kiṃ kāraṇā gacchatī”ti evaṃ sampajānanaṃ sandhāya vuttaṃ. Ṭhānādīsupi eseva nayo. (Majjhima-aṭṭhakathā, tập 1, tr. 255–256.)
+
+Trong cách quán oai nghi và tỉnh giác ấy, ngay cả loài vật như chó nhà và chó rừng cũng biết, khi đi, rằng “chúng tôi đi”. Nhưng Đức Phật dạy cách quán oai nghi và tỉnh giác vì một sự biết khác. Sự biết của các loài vật ấy không loại trừ quan niệm chấp có một chúng sinh, không nhổ bỏ tưởng chấp có tự ngã, cũng không phải là đề mục minh sát hay tu tập các niệm xứ. Còn sự biết của vị tỳ-khưu hành thiền này…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Ma-ṭṭha, tập 1, tr. 255–256.
+
+
+<a id="M03-body-P169"></a>
+## Ai đi, sự đi của ai, và do đâu mà đi
+Miến / Burmese 169
+
+…loại trừ quan niệm chấp có một chúng sinh và nhổ bỏ tưởng chấp có tự ngã. Đó là đề mục minh sát và cũng là tu tập các niệm xứ. Quả vậy, vị tỳ-khưu biết theo ba câu hỏi:
+
+1. Ai đi?
+2. Sự đi là của ai?
+3. Do nguyên nhân nào mà đi?
+
+Chính vì muốn chỉ sự biết như vậy mà Đức Phật dạy cách quán oai nghi và tỉnh giác. Với đứng và các oai nghi còn lại, phương pháp cũng vậy. (Majjhima-aṭṭhakathā, tập 1, tr. 255–256.)
+
+Tattha ko gacchatīti na koci satto vā puggalo vā gacchati. Kassa gamananti na kassaci sattassa vā puggalassa vā gamanaṃ. Kiṃ kāraṇā gacchatīti cittakiriyavāyodhātuvipphārena gacchati. Tasmā esa evaṃ pajānāti: ‘gacchāmī’ti cittaṃ uppajjati, taṃ vāyaṃ janeti, vāyo viññattiṃ janeti. Cittakiriyavāyodhātuvipphārena sakalakāyassa purato abhinīhāro gamananti vuccati. Ṭhānādīsupi eseva nayo. (Majjhima-aṭṭhakathā, tập 1, tr. 256.)
+
+Vāyaṃ janetīti vāyodhātuadhikaṃ rūpakalāpaṃ janeti. Adhikatā cettha sāmatthiyato, na pamāṇato. Gamanacittasamuṭṭhitaṃ sahajātarūpakāyassa thambhanasandhāraṇacalanānaṃ paccayabhūtena ākāravisesena pavattamānaṃ vāyodhātuṃ sandhāyāha “vāyo viññattiṃ janetī”ti.
+
+“Làm sinh phong” là làm sinh nhóm sắc có phong đại trội về năng lực. Phong đại do tâm muốn đi sinh, khi diễn tiến theo một cách đặc thù, làm duyên cho việc làm cứng, nâng đỡ và chuyển động của thân sắc đồng sinh. Theo nghĩa ấy, Sớ giải nói “phong làm sinh biểu tri”. (Majjhima-ṭīkā, tập 1, tr. 352.)
+
+1. Đối với câu “Ai đi?”, không có chúng sinh hay cá nhân nào đi…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Ma-ṭṭha, tập 1, tr. 255–256; Ma-ṭṭha, tập 1, tr. 256; Ma-ṭīkā, tập 1, tr. 352.
+
+
+<a id="M03-body-P170"></a>
+## Tâm muốn đi và phong đại
+Miến / Burmese 170
+
+…(không có một cá nhân hay chúng sinh thực thể làm người đi).
+
+2. Đối với câu “Sự đi là của ai?”, đó không phải là sự đi của bất kỳ chúng sinh hay cá nhân nào.
+
+3. Vậy do nguyên nhân nào mà đi? Do tâm, tức tâm muốn đi, làm sinh phong đại. Các nhóm sắc có sức phong đại trội lan khắp thân và sự đi xảy ra. Nói cách khác, danh sắc làm cho động tác đi được thực hiện. Vì thế vị tỳ-khưu hành thiền biết như sau:
+
+1. Tâm muốn đi sinh lên. Các pháp tương ưng có tâm đứng đầu cũng sinh lên.
+2. Tâm ấy làm sinh phong đại, tức làm sinh các nhóm sắc có sức phong đại trội. “Trội” ở đây nói về tính chất và năng lực tác động của phong đại, chứ không nói phong đại nhiều hơn về số lượng hay lớn hơn về kích thước.
+3. Phong đại có sức tác động trội ấy làm sinh thân biểu tri, tức làm sinh tập hợp các sắc thuộc nhóm chín sắc có thân biểu tri hoặc nhóm mười hai sắc có thân biểu tri và tính nhẹ v.v.
+4. Phong đại do tâm làm sinh, có sức tác động trội ấy…
+
+
+<a id="M03-body-P171"></a>
+## Sắc làm chuyển động và sắc được chuyển động
+Miến / Burmese 171
+
+…tức các nhóm sắc và các pháp sắc có phong đại trội, lan khắp thân và làm cho động tác đi xảy ra.
+
+5. Việc toàn thể sắc thân thuộc bốn nguồn sinh xuất hiện theo cách được đưa về phía trước, tức các tập hợp sắc sinh liên tiếp ở những vị trí mới về phía trước, được gọi là đi. (Ma-ṭṭha 1,256.)
+
+Chỉ dẫn này của Chú giải sẽ dễ thực hành đối với hành giả đã nhận biết rành rẽ sắc thuộc bốn nguồn sinh ở sáu cửa và 42 thể phần, nhất là sắc do tâm sinh. Tuy nhiên, cần đặc biệt lưu ý rằng pháp chân đế không di chuyển từ nơi này sang nơi khác. Khi quán theo cách này, cũng đừng quên rằng các sắc chân đế sinh theo từng tập hợp gọi là nhóm sắc. Cần biết phân biệt hai loại sắc:
+
+1. Sắc làm chuyển động.
+2. Sắc được chuyển động.
+
+Cũng cần phân biệt hai loại sắc:
+
+1. Sắc nổi bật (padhāna).
+2. Sắc không nổi bật (appadhāna).
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Ma-ṭṭha, tập 1, tr. 256.
+
+
+<a id="M03-body-P172"></a>
+## Hai cách phân biệt sắc trong oai nghi
+Miến / Burmese 172
+
+Trong phần quán oai nghi, Đức Phật dạy hai cách. Cách thứ nhất bắt đầu bằng “Gacchanto vā ‘gacchāmī’ti pajānāti”, khi đi biết rõ “tôi đi”. Cách thứ hai bắt đầu bằng “Yathā yathā vā panassa…”. Theo cách thứ nhất:
+
+1. Các sắc trong nhóm chín sắc có thân biểu tri và nhóm mười hai sắc có thân biểu tri và tính nhẹ v.v., gọi là sắc oai nghi, là sắc nổi bật. Đây là sắc làm chuyển động.
+2. Các sắc thuộc bốn nguồn sinh còn lại, hiện diện khắp thân ở sáu cửa và 42 thể phần, là sắc không nổi bật. Đây là sắc được chuyển động.
+
+Còn trong cách thứ hai, được dạy bắt đầu bằng “Yathā yathā vā panassa…”:
+
+1. Các sắc trong nhóm chín sắc có thân biểu tri và nhóm mười hai sắc có thân biểu tri và tính nhẹ v.v., gọi là sắc oai nghi, là sắc không nổi bật. Chúng vẫn là sắc làm chuyển động.
+2. Các sắc thuộc bốn nguồn sinh còn lại, hiện diện khắp thân, là sắc nổi bật. Chúng vẫn là sắc được chuyển động.
+
+Ở đây, các sắc làm chuyển động có thật sự mang các sắc thuộc bốn nguồn sinh từ nơi này sang nơi khác…
+
+
+<a id="M03-body-P173"></a>
+## Các sắc sinh ở vị trí mới
+Miến / Burmese 173
+
+…hay không? Không phải như vậy. Các sắc thuộc bốn nguồn sinh cũng không thực sự bị mang đi. Do sức tác động của phong đại trong các nhóm sắc do tâm sinh, vốn sinh từ tâm muốn đi và các tâm đang đi, các sắc thuộc bốn nguồn sinh xuất hiện theo cách như thể được chuyển đi. Chúng không sinh trở lại tại chỗ cũ, mà sinh tại những vị trí mới.
+
+Purato abhinīhāro purato bhāgena kāyassa pavattanaṃ, yo “abhikkamo”ti vuccati. (Majjhima-ṭīkā, tập 1, tr. 352.)
+
+Đưa về phía trước nghĩa là tập hợp các sắc thuộc bốn nguồn sinh xuất hiện ở phía trước. Chính sự sinh theo cách ấy gọi là bước tới hay đi về phía trước.
+
+Trong các sắc xuất hiện theo cách làm chuyển động có sắc thân biểu tri, còn gọi là sắc oai nghi. Đó là sắc thuộc nhóm chín sắc có thân biểu tri và nhóm mười hai sắc có thân biểu tri và tính nhẹ v.v. Chúng là sắc do tâm sinh. Mặt khác, các sắc xuất hiện theo cách được chuyển động gồm sắc thuộc bốn nguồn sinh, trong đó cũng có sắc do tâm sinh. Để tránh lẫn lộn, xin giải thích thêm như sau.
+
+1. Tất cả 75 tâm được gọi là ý giới và ý thức giới, còn lại sau khi trừ bốn tâm quả vô sắc và mười tâm ngũ song thức, nương vào sắc ý vật mà sinh. Từ hữu phần đầu tiên trở đi, ở mỗi sát-na sinh chúng làm sinh sắc có tâm làm nguồn sinh, tức nhóm tám sắc có dưỡng chất do tâm sinh…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Ma-ṭīkā, tập 1, tr. 352.
+
+
+<a id="M03-body-P174"></a>
+## Những tâm làm sinh và nâng đỡ sắc oai nghi
+Miến / Burmese 174
+
+…Khi làm sinh sắc, tâm chỉ có sức làm sinh trong sát-na sinh, theo bản tính của tâm. Tâm chỉ làm sinh sắc do tâm sinh vào sát-na sinh, và không thể làm sinh sắc vào sát-na trụ hoặc diệt. Một lần tâm sinh có thể làm sinh nhiều nhóm sắc do tâm sinh, chứ không chỉ một nhóm.
+
+“Hetū hetusampayuttakānaṃ dhammānaṃ taṃsamuṭṭhānānañca rūpānaṃ hetupaccayena paccayo.” Các nhân làm duyên cho các pháp tương ưng với nhân và các sắc do chúng làm sinh bằng nhân duyên. (Paṭṭhāna, tập 1, tr. 1.)
+
+“Cittādhipati cittasampayuttakānaṃ dhammānaṃ taṃsamuṭṭhānānañca rūpānaṃ adhipatipaccayena paccayo.” Tâm làm trưởng duyên cho các pháp tương ưng với tâm và các sắc do chúng làm sinh. (Paṭṭhāna, tập 1, tr. 2.)
+
+Trong các lời dạy ấy, đối với sắc do tâm sinh, dùng số nhiều “taṃsamuṭṭhānānañca rūpānaṃ”, tức “các sắc do chúng làm sinh”. Các lời ấy chỉ rằng một tâm có thể làm sinh nhiều nhóm sắc do tâm sinh.
+
+2. Hai mươi sáu đổng lực an chỉ đại hành và siêu thế, khi sinh trong cõi có năm uẩn, cũng làm sinh các nhóm tám sắc có dưỡng chất do tâm sinh. Chúng có thể nâng đỡ oai nghi đã có, giữ cho oai nghi bền vững, nhưng không làm sinh oai nghi mới.
+
+3. Hai mươi hai tâm gồm tâm hướng ý môn, các đổng lực dục giới và tâm sinh tiếu:
+(a) Làm sinh nhóm tám sắc có dưỡng chất do tâm sinh.
+(b) Giữ vững oai nghi đã có.
+(c) Làm sinh cả hai sắc biểu tri, tức cũng có thể làm sinh sắc oai nghi mới. (Abhi-ṭṭha 1,361–362.)
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Paṭṭhāna, tập 1, tr. 1; Paṭṭhāna, tập 1, tr. 2; Abhi-ṭṭha, tập 1, tr. 361–362.
+
+
+<a id="M03-body-P175"></a>
+## Sắc do tâm sinh có mặt ở cả hai bên
+Miến / Burmese 175
+
+Theo sự phân loại ấy, hai nhóm sắc do tâm sinh có chứa sắc oai nghi, tức sắc biểu tri, do những tâm có khả năng làm sinh sắc oai nghi tạo ra, thuộc phía các sắc xuất hiện theo cách làm chuyển động. Các nhóm tám sắc có dưỡng chất do những tâm còn lại làm sinh thuộc phía các sắc xuất hiện theo cách được chuyển động. Vì vậy, sắc do tâm sinh có mặt ở cả hai phía.
+
+Trong cách quán oai nghi này, sắc nổi bật là sắc oai nghi, tức các sắc có chứa biểu tri. Chúng làm cho sắc thuộc bốn nguồn sinh, được gọi là thân, xuất hiện theo cách đi. Tuy vậy, không có việc chuyên chở thật sự. Điều này chỉ có nghĩa các sắc sinh nối tiếp, hết lượt này đến lượt khác ở những vị trí mới, khiến hiện tượng có vẻ như được mang đi. Các pháp chân đế không chuyển từ nơi này sang nơi khác. Chúng diệt ngay nơi sinh.
+
+Chừng nào sức trợ của nghiệp, tâm, thời tiết và vật thực chưa hết, các sắc mới lại sinh nối tiếp hết lượt này đến lượt khác nhờ sự trợ giúp của các duyên ấy. Chúng không sinh lại ở đúng vị trí cũ mà sinh ở vị trí mới. Sự sinh nối tiếp không gián đoạn ở các vị trí mới như thế nhờ sức của các sắc đại chủng có phong đại trội trong các nhóm chín sắc có thân biểu tri và nhóm mười hai sắc có thân biểu tri và tính nhẹ v.v…
+
+
+<a id="M03-body-P176"></a>
+## Cách thực hành khi đứng rồi đi
+Miến / Burmese 176
+
+…Thân biểu tri trong các nhóm sắc làm chuyển động hỗ trợ cho sắc sinh mới tại những nơi cần sinh theo ý muốn của tâm.
+
+Cách quán. Hành giả hãy đứng ở một chỗ và từng bước phát triển định đã đạt cho đến tứ thiền. Khi ánh sáng trở nên mạnh và rực rỡ, hãy xác định bốn đại và nhận biết, tức dùng tuệ phân biệt, các sắc hiện diện ở sáu cửa và 42 thể phần. Sau đó hãy nhận biết sự trong sáng của hữu phần và quán để thấy tâm muốn đi. Hãy đi một chút. Hãy quán để thấy các nhóm chín sắc có thân biểu tri và nhóm mười hai sắc có thân biểu tri và tính nhẹ v.v. sinh do tâm muốn đi. Hãy nhận biết chúng đến mức chân đế. Đó là các sắc oai nghi.
+
+Hãy thấy thân biểu tri là biểu hiện của động tác đi, do bốn đại đồng sinh, trong đó phong đại có sức tác động trội. Khi đã hiểu, hãy ưu tiên nhận biết những sắc nổi bật xuất hiện theo cách làm chuyển động, tức các sắc trong nhóm chín sắc có thân biểu tri và nhóm mười hai sắc có thân biểu tri và tính nhẹ v.v. Khi tuệ sắc bén hơn, tiếp tục nhận biết các sắc thuộc bốn nguồn sinh ở sáu cửa và 42 thể phần xuất hiện theo cách được chuyển động, tức các sắc không nổi bật. Hãy nhận biết riêng sắc làm chuyển động và sắc được chuyển động. Khi có thể gom tất cả lại mà nhận biết…
+
+
+<a id="M03-body-P177"></a>
+## Biết thân đang ở oai nghi nào
+Miến / Burmese 177
+
+…hãy nhận biết theo một trong các cách:
+
+1. “Đây là sắc, sắc.”
+2. “Sắc pháp, sắc pháp.”
+3. “Sắc, sắc.”
+
+Hãy quán tương tự khi đứng, ngồi và nằm.
+
+“Yathā yathā vā panassa kāyo paṇihito hoti”
+
+Cách quán oai nghi vẫn còn một phần nữa. Đức Phật lại dạy một cách quán oai nghi như sau.
+
+“Yathā yathā vā panassa kāyo paṇihito hoti, tathā tathā naṃ pajānāti.” Thân vị tỳ-khưu, tức tập hợp các pháp sắc, được đặt, hiện hữu hay sinh theo cách nào, vị ấy biết rõ, quán để biết rõ thân ấy theo cách nó được đặt, hiện hữu hay sinh.
+
+Chú giải và Sớ giải giải thích ý chính của cách quán ấy như sau.
+
+“Yathā yathā vā panassa kāyo paṇihito hoti, tathā tathā naṃ pajānātī”ti sabbasaṅgāhikavacanametaṃ. Idaṃ vuttaṃ hoti: yena yena vā ākārena tassa kāyo ṭhito hoti, tena tena naṃ pajānāti. Gamanākārena ṭhitaṃ gacchatīti pajānāti. Ṭhānanisajjāsayanākārena ṭhitaṃ sayānoti pajānātīti.
+
+Ý là thân ở theo cách nào, vị ấy biết rõ theo cách ấy. Thân ở theo cách đi, vị ấy biết thân đi. Thân ở theo cách đứng, ngồi hoặc nằm, vị ấy biết thân đứng, ngồi hoặc nằm. (Majjhima-aṭṭhakathā, tập 1, tr. 257.)
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Ma, tập 1, tr. 71; Ma-ṭṭha, tập 1, tr. 257.
+
+
+<a id="M03-body-P178"></a>
+## Một câu kinh bao quát cả bốn oai nghi
+Miến / Burmese 178
+
+Sabbasaṅgāhikavacananti sabbesaṃ catunnampi iriyāpathānaṃ saṅgaṇhanavacanaṃ. Pubbe visuṃ visuṃ iriyāpathānaṃ vuttattā idaṃ tesaṃ ekajjhaṃ gahetvā vacananti attho.
+
+Lời Sớ giải nói đến việc bao quát cả bốn oai nghi. Trước đó từng oai nghi đã được nói riêng. Do đó, ở đây câu kinh được nói để gom cả bốn lại. (Majjhima-ṭīkā, tập 1, tr. 353.)
+
+“Yathā yathā vā panassa kāyo paṇihito hoti, tathā tathā naṃ pajānāti.” Thân vị tỳ-khưu, tức tập hợp các pháp sắc, được đặt, hiện hữu hay sinh theo cách nào, vị ấy biết rõ, quán để biết rõ thân ấy theo cách nó được đặt, hiện hữu hay sinh. Lời dạy này bao quát cả bốn oai nghi. Trước đó, ở phần quán oai nghi, Đức Phật đã dạy riêng từng oai nghi bằng những câu như “Gacchanto vā ‘gacchāmī’ti pajānāti”, khi đi biết rõ “tôi đi”. Vì thế, câu kinh sau bắt đầu bằng “Yathā yathā vā panassa…” là lời dạy nhắc lại và gom cả bốn oai nghi.
+
+Ý chính của lời dạy ấy là như sau. Thân của vị tỳ-khưu hành thiền, tức tập hợp các sắc, hiện hữu theo cách nào thì hãy quán để biết rõ theo cách đang hiện hữu ấy. Với sắc thân đang hiện hữu theo cách đi, hãy quán để biết rõ là đi. Với sắc thân đang hiện hữu theo cách đứng, ngồi hay nằm, hãy quán để biết rõ là đứng, ngồi hay nằm. (Ma-ṭṭha 1,257; Ma-ṭīkā 1,353.)
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Ma-ṭīkā, tập 1, tr. 353; Ma, tập 1, tr. 71; Ma-ṭṭha, tập 1, tr. 257.
+
+
+<a id="M03-body-P179"></a>
+## Một cách giải thích của vị Sớ giải sư
+Miến / Burmese 179
+
+Purimanayo vā iriyāpathappadhāno vuttoti tattha kāyo appadhāno anunipphādīti idha kāyaṃ padhānaṃ appadhānañca iriyāpathaṃ anunipphādaṃ katvā dassetuṃ dutiyanayo vuttoti evampettha dvinnaṃ nayānaṃ viseso veditabbo.
+
+Lời Sớ giải nói rằng cách trước lấy oai nghi làm chính, thân là phụ, và cách sau lấy thân làm chính, oai nghi là phụ. Sự khác nhau giữa hai cách cần hiểu như vậy. (Majjhima-ṭīkā, tập 1, tr. 353.)
+
+Ý của Sớ giải là như sau. Với câu “Gacchanto vā ‘gacchāmī’ti pajānāti”, khi đi biết rõ “tôi đi”, Đức Phật dạy cách quán oai nghi thứ nhất, lấy sắc oai nghi, tức các sắc có thân biểu tri xuất hiện theo cách làm chuyển động, làm sắc nổi bật. Theo cách này, tập hợp các sắc thuộc bốn nguồn sinh xuất hiện theo cách được chuyển động là phụ, tức không nổi bật. Tuy vậy, khi lấy sắc oai nghi làm chính và ưu tiên quán các sắc làm chuyển động ấy, hành giả cũng có thể lần lượt hoàn tất việc nhận biết và quán tập hợp các sắc thuộc bốn nguồn sinh xuất hiện theo cách được chuyển động, tức các sắc phụ, không nổi bật.
+
+Mặt khác, với câu “Yathā yathā vā panassa kāyo paṇihito hoti, tathā tathā naṃ pajānāti”, thân vị tỳ-khưu, tức tập hợp các pháp sắc, được đặt, hiện hữu hay sinh theo cách nào, vị ấy quán để biết rõ thân theo cách ấy, Đức Phật lại dạy cách thứ hai. Theo cách thứ hai, sắc thân thuộc bốn nguồn sinh, tức tập hợp các sắc xuất hiện theo cách được chuyển động…
+
+**Ghi chú / Note**
+Dẫn thư in trên trang này: Ma-ṭīkā, tập 1, tr. 353.
+
+
+<a id="M03-body-P180"></a>
+## Quán sắc nổi bật và sắc không nổi bật trong bốn oai nghi
+Miến / Burmese 180
+
+…được lấy làm chính để tiếp tục quán và nhận biết. Sắc thân thuộc bốn nguồn sinh ấy là các sắc nổi bật được lấy làm chính trong cách thứ hai. Khi ưu tiên quán và nhận biết các sắc thuộc bốn nguồn sinh xuất hiện theo cách được chuyển động, hành giả cũng có thể lần lượt hoàn tất việc nhận biết và quán sắc oai nghi xuất hiện theo cách làm chuyển động, tức các sắc phụ, không nổi bật.
+
+Vì muốn chỉ cách thực hành này mà Đức Phật dạy thêm cách thứ hai, bắt đầu bằng “Yathā yathā vā panassa…”. Đó là điểm khác nhau giữa hai cách. (Đây là ý chính của lời Sớ giải đã dẫn.)
+
+Vì vậy, hành giả hãy thực hành như sau.
+
+1. Khi đi, quán để biết rõ sắc nổi bật và sắc không nổi bật.
+2. Khi đứng, quán để biết rõ sắc nổi bật và sắc không nổi bật.
+3. Khi ngồi, quán để biết rõ sắc nổi bật và sắc không nổi bật.
+4. Khi nằm, quán để biết rõ sắc nổi bật và sắc không nổi bật.
+
+Hãy ghi nhớ rằng các sắc ấy thuộc sắc uẩn, tức tập hợp các pháp sắc.
+
+
+<a id="M03-body-P181"></a>
+## Khi nêu ví dụ trong đời thường
+Miến / Burmese 181
+
+Để dễ hiểu, hãy lấy một ví dụ trong đời thường. Giả sử có một người đàn ông mang một bao gạo. Người có cả mắt thường và con mắt trí tuệ, nếu chăm chú nhìn người mang bao gạo, dần dần cũng có thể thấy bao gạo được mang. Ngược lại, nếu chăm chú theo dõi bao gạo được mang, dần dần cũng có thể thấy người mang bao gạo.
+
+Người đàn ông mang bao ví như các sắc xuất hiện theo cách mang đi, gồm sắc oai nghi trong nhóm chín sắc có thân biểu tri và nhóm mười hai sắc có thân biểu tri, tính nhẹ v.v. Bao gạo được mang ví như các sắc thuộc bốn nguồn sinh xuất hiện theo cách được mang đi.
+
+Cũng vậy, nếu hành giả lấy các sắc xuất hiện theo cách mang đi làm chính để nhận biết và quán, thì dần dần cũng có thể nhận biết và quán đầy đủ các sắc thuộc bốn nguồn sinh xuất hiện theo cách được mang đi. Đây là cách quán oai nghi thứ nhất.
+
+Ngược lại, nếu lấy các sắc thuộc bốn nguồn sinh xuất hiện theo cách được mang đi làm chính để nhận biết và quán, thì dần dần cũng có thể nhận biết và quán đầy đủ các sắc xuất hiện theo cách mang đi, gồm sắc oai nghi và sắc biểu tri. Đây là cách quán oai nghi thứ hai, được dạy bằng câu “Yathā yathā vā panassa…”
+
+
+<a id="M03-body-P182"></a>
+## Những trường hợp quán tương tự
+Miến / Burmese 182
+
+Thiện hữu muốn nhận biết và quán oai nghi và tỉnh giác cho đến khi con mắt trí tuệ thấu đến chân đế nên ghi nhớ vững chắc những chỉ dẫn trong Chánh văn, Chú giải và Sớ giải. Tuy có tuệ, đôi khi vẫn quên. Thiếu niệm thì dễ bỏ sót. Hãy có niệm.
+
+Những trường hợp quán tương tự:
+
+1. Khi đi tới, sắc nổi bật và sắc không nổi bật.
+2. Khi đi lui, sắc nổi bật và sắc không nổi bật.
+3. Khi nhìn thẳng, sắc nổi bật và sắc không nổi bật.
+4. Khi nhìn quanh, sắc nổi bật và sắc không nổi bật.
+5. Khi co tay chân, sắc nổi bật và sắc không nổi bật.
+6. Khi duỗi tay chân, sắc nổi bật và sắc không nổi bật.
+7. Khi mang y hai lớp, sắc nổi bật và sắc không nổi bật.
+8. Khi mang bình bát, sắc nổi bật và sắc không nổi bật.
+9. Khi mang y dưới và y mặc trên thân, sắc nổi bật và sắc không nổi bật.
+10. Khi ăn, sắc nổi bật và sắc không nổi bật.
+11. Khi uống, sắc nổi bật và sắc không nổi bật.
+12. Khi nhai thức nhai, sắc nổi bật và sắc không nổi bật.
+13. Khi liếm thức liếm, sắc nổi bật và sắc không nổi bật.
+14. Khi đại tiện, sắc nổi bật và sắc không nổi bật.
+15. Khi tiểu tiện, sắc nổi bật và sắc không nổi bật.
+16. Khi đi, sắc nổi bật và sắc không nổi bật.
+17. Khi đứng, sắc nổi bật và sắc không nổi bật.
+
+
+<a id="M03-body-P183"></a>
+## Bốn loại tỉnh giác
+Miến / Burmese 183
+
+18. Khi ngồi, sắc nổi bật và sắc không nổi bật.
+19. Khi ngủ, sắc nổi bật và sắc không nổi bật.
+20. Khi thức dậy, sắc nổi bật và sắc không nổi bật.
+21. Khi nói, sắc nổi bật và sắc không nổi bật.
+22. Khi giữ im lặng, sắc nổi bật và sắc không nổi bật.
+
+Hãy nhận biết các sắc ấy và dùng tuệ phân biệt chúng.
+
+Có bốn loại tỉnh giác:
+1. Tỉnh giác về lợi ích (sātthakasampajañña).
+2. Tỉnh giác về sự thích hợp (sappāyasampajañña).
+3. Tỉnh giác về cảnh hành (gocarasampajañña).
+4. Tỉnh giác không mê lầm (asammohasampajañña).
+(Chú giải Trung Bộ, tập 1, tr. 258.)
+
+1. Tỉnh giác về lợi ích. Việc làm tăng trưởng các pháp thiện, những pháp thực sự tốt lành đưa đến thoát khỏi luân hồi, là việc có lợi ích. Việc làm tăng trưởng các pháp bất thiện là việc không có lợi ích. Tuệ biết phân biệt hai loại việc ấy, từ bỏ việc không có lợi ích và chọn làm việc có lợi ích, gọi là tuệ tỉnh giác về lợi ích.
+
+2. Tỉnh giác về sự thích hợp. Ngay cả khi một việc có lợi ích, vẫn cần phân biệt điều thích hợp (sappāya) và điều không thích hợp (asappāya). Tuệ biết từ bỏ hoàn cảnh không thích hợp và chỉ chọn điều thích hợp để thực hành gọi là tuệ tỉnh giác về sự thích hợp.
+
+
+<a id="M03-body-P184"></a>
+## Tỉnh giác về cảnh hành và tỉnh giác không mê lầm
+Miến / Burmese 184
+
+3. Tỉnh giác về cảnh hành. Hãy mang theo đề mục thiền khi đi khất thực và khi từ làng trở về. Tuệ luôn giữ tâm tu tập trong một cảnh của đề mục thiền chỉ hoặc minh sát gọi là tuệ tỉnh giác về cảnh hành. Nếu thường xuyên tu tập một đề mục thiền chỉ và luôn giữ tâm tu tập trong cảnh ấy thì đã đầy đủ tuệ tỉnh giác về cảnh hành. Nếu đã đến giai đoạn có thể tu tập minh sát, và tiếp tục tu tập minh sát trong lúc đi khất thực và trở về, thì cũng đầy đủ tuệ tỉnh giác về cảnh hành. Vị ấy cũng sẽ đầy đủ tuệ tỉnh giác không mê lầm.
+
+4. Tỉnh giác không mê lầm (asammohasampajañña).
+
+Paramatthato hi dhātūnaññeva gamanaṃ, dhātūnaṃ ṭhānaṃ, dhātūnaṃ nisajjanaṃ, dhātūnaṃ sayanaṃ. Tasmiṃ tasmiṃ koṭṭhāse saddhiṃ rūpena —
+Aññaṃ uppajjate cittaṃ, aññaṃ cittaṃ nirujjhati.
+Avīcimanusambandho, nadīsotova vattatīti.
+Evaṃ abhikkamādīsu asammuyhanaṃ asammohasampajaññaṃ nāmāti.
+(Chú giải Trung Bộ, tập 1, tr. 265.)
+
+Theo chân đế, chỉ các giới sắc và giới danh đi, đứng, ngồi và nằm. Thật vậy, trong từng phần tương ứng với đi, đứng, ngồi và nằm …
+
+
+<a id="M03-body-P185"></a>
+## Dòng tâm nối tiếp và tỉnh giác không mê lầm
+Miến / Burmese 185
+
+… cùng với các sắc, một tâm khác sinh lên, và một tâm khác diệt đi. Giữa tâm này và tâm kia, không có một pháp nào xen vào dù chỉ trong chốc lát. Như dòng sông chảy không dứt, các tâm khác nhau sinh liên tục, trước sau nối nhau, không có khoảng hở. Biết không mê lầm như vậy trong các động tác như bước tới gọi là tuệ tỉnh giác không mê lầm. Các sắc tồn tại mười bảy sát-na tâm. Do đó, tâm cùng sinh với một nhóm sắc là một tâm, còn tâm cùng diệt với nhóm sắc ấy là một tâm khác. Hãy quán để biết như vậy.
+
+Để đầy đủ tỉnh giác không mê lầm, thiện hữu hãy quán:
+
+1. Khi đi, danh và sắc, tức năm uẩn.
+2. Khi đứng, danh và sắc, tức năm uẩn.
+3. Khi ngồi, danh và sắc, tức năm uẩn.
+4. Khi nằm, danh và sắc, tức năm uẩn.
+5. Khi đi tới, danh và sắc, tức năm uẩn.
+6. Khi đi lui, danh và sắc, tức năm uẩn.
+7. Khi nhìn thẳng, danh và sắc, tức năm uẩn.
+8. Khi nhìn quanh, danh và sắc, tức năm uẩn.
+9. Khi co tay chân, danh và sắc, tức năm uẩn.
+10. Khi duỗi tay chân, danh và sắc, tức năm uẩn.
+11. Khi mang y hai lớp, danh và sắc, tức năm uẩn.
+12. Khi mang bình bát, danh và sắc, tức năm uẩn.
+
+
+<a id="M03-body-P186"></a>
+## Quán năm uẩn trong các oai nghi và hoạt động
+Miến / Burmese 186
+
+13. Khi mang y dưới và y mặc trên thân, danh và sắc, tức năm uẩn.
+14. Khi ăn, danh và sắc, tức năm uẩn.
+15. Khi uống, danh và sắc, tức năm uẩn.
+16. Khi nhai thức nhai, danh và sắc, tức năm uẩn.
+17. Khi liếm thức liếm, danh và sắc, tức năm uẩn.
+18. Khi đại tiện, danh và sắc, tức năm uẩn.
+19. Khi tiểu tiện, danh và sắc, tức năm uẩn.
+20. Khi đi, danh và sắc, tức năm uẩn.
+21. Khi đứng, danh và sắc, tức năm uẩn.
+22. Khi ngồi, danh và sắc, tức năm uẩn.
+23. Khi ngủ, danh và sắc, tức năm uẩn.
+24. Khi thức dậy, danh và sắc, tức năm uẩn.
+25. Khi nói, danh và sắc, tức năm uẩn.
+26. Khi giữ im lặng, danh và sắc, tức năm uẩn.
+
+Như vậy, hãy tiếp tục quán để biết danh và sắc, tức năm uẩn, trong từng trường hợp thuộc phần oai nghi và phần tỉnh giác. Chỉ khi nhận biết các pháp danh sắc ấy có hệ thống đến mức chân đế và phân biệt được bằng tuệ thì mới bắt đầu có tuệ tỉnh giác không mê lầm. Hiện giờ, thiện hữu mới có thể nhận biết và quán các sắc gọi là sắc uẩn trong năm uẩn. Vì vậy, trong các oai nghi và hoạt động thuộc phần tỉnh giác, hãy nhận biết và quán các sắc nổi bật và sắc không nổi bật. Chừng ấy vẫn chưa đủ. Sau khi dùng tuệ phân biệt và nhận biết đầy đủ năm uẩn ấy …
+
+
+<a id="M03-body-P187"></a>
+## Tóm lược những điểm cần ghi nhớ khi quán
+Miến / Burmese 187
+
+… hãy tìm và nhận biết các duyên của chúng. Rồi quán minh sát năm uẩn, tức các pháp danh sắc, cùng với các duyên của chúng dưới ba đặc tính. Để có thể quán như vậy, tác giả còn phải trình bày bốn phần lớn: đề mục thiền về danh, duyên khởi, bốn phương diện bắt đầu bằng đặc tính (lakkhaṇādi-catukka), và minh sát.
+
+Tóm lược những điểm cần ghi nhớ khi quán
+
+1. Nếu đang tu tập một đề mục thiền chỉ như niệm hơi thở, hãy tiếp tục tinh cần tu tập chính đề mục ấy trong các oai nghi và hoạt động thuộc phần tỉnh giác, như đi, đứng, ngồi, nằm, đi tới và đi lui. Nếu có thể thực hành như vậy thì đã đầy đủ tỉnh giác về cảnh hành.
+
+2. Nếu đang tu tập đề mục tứ đại, lúc đang quán một đại, hai đại, ba đại hoặc cả bốn đại, hãy tiếp tục quán chính một, hai, ba hoặc cả bốn đại ấy trong các oai nghi và hoạt động thuộc phần tỉnh giác.
+
+3. Khi đã có thể nhận biết các sắc hiện diện ở sáu cửa và 42 thể phần đến mức chân đế …
+
+
+<a id="M03-body-P188"></a>
+## Kết thúc phần đề mục thiền về sắc
+Miến / Burmese 188
+
+… và phân biệt chúng bằng tuệ, trong mỗi trường hợp thuộc phần oai nghi và tỉnh giác hãy luân phiên ưu tiên nhận biết sắc nổi bật và sắc không nổi bật, tức các sắc xuất hiện theo cách mang đi và các sắc xuất hiện theo cách được mang đi. Sau đó hãy nhận biết và quán chung tất cả các sắc nổi bật và không nổi bật ấy.
+
+Hành giả còn phải tiếp tục nhận biết các pháp danh có khả năng làm phát sinh sắc oai nghi và sắc thuộc các hoạt động có tỉnh giác ấy, tức các tâm nối tiếp trong lộ đổng lực ý môn. Vì vậy, để có thể nhận biết các pháp danh ấy, thiện hữu hãy tiếp tục nỗ lực thực hành phần đề mục thiền về danh.
+
+Pa-Auk Tawya Sayadaw
+Tu viện núi Cittala
+Pa-Auk Tawya
+Niên lịch Miến Điện 1367
+
+☸ ☸ ☸
+
+
+<a id="M03-index-P001"></a>
+## Chỉ mục theo thứ tự chữ cái Miến — 189
+Chỉ mục / Index - Miến / Burmese 189
+
+Sáu giới trong suốt — 52
+
+Tưởng thô — 43
+
+Những khó khăn — 48
+
+Được gọi là vật thực bên trong — 125
+
+Ý chính của Chú giải — 166
+
+Ý chính của lời giải thích trong Chú giải và Sớ giải — 134
+
+Ý chính của Chú giải và Sớ giải — 121
+
+Chú giải Aṭṭhasālinī — 17
+
+Chấp kiến về tự ngã — 71
+
+Sự trợ giúp tốt — 112
+
+Vầng hào quang vô biên — 70
+
+Bệnh do thuốc sinh — 34
+
+Sắc không gắn với các quyền — 106
+
+Tạm bỏ qua điều chưa hiện rõ — 27
+
+Quán theo thứ tự (anupubbato) — 24
+
+Sự phân định khoảng giữa (antarapariccheda) — 108
+
+Nghiệp cho quả từ đời sau trở đi (aparāpariyavedanīya) — 143
+
+Ngăn tâm tán ra cảnh bên ngoài — 25
+
+Đừng mắc kẹt ở danh xưng chế định — 27
+
+Sắc làm nhân cho nam tính và nữ tính — 82
+
+Các sắc nổi bật — 103
+
+Sắc phi sắc (arūparūpa) — 106
+
+Phạm vi cận định và ánh sáng — 38
+
+Các loại ánh sáng — 42
+
+Các sắc được quán — 83
+
+Sắc không có đặc tướng riêng (alakkhaṇarūpa) — 106
+
+Những trường hợp quán tương tự — 182
+
+Sắc không có tự tính (asabhāvarūpa) — 106
+
+Sắc phi thực (asammasanarūpa) — 106
+
+Sắc không thích hợp để quán — 107
+
+Tuệ tỉnh giác không mê lầm — 185
+
+Để đầy đủ tỉnh giác không mê lầm — 185
+
+Ba loại âm thanh — 148
+
+Nhóm chín sắc có âm thanh do tâm sinh trong hơi thở — 146
+
+
+<a id="M03-index-P002"></a>
+## Chỉ mục theo thứ tự chữ cái Miến — 190
+Chỉ mục / Index - Miến / Burmese 190
+
+Nhóm mười hai sắc có âm thanh và tính nhẹ v.v. trong hơi thở — 146
+
+Các sắc được mang đi — 172
+
+Trước khi thấy hư không giới — 108
+
+Hư không giới là gì — 108
+
+Thủy đại — 3
+
+Được gọi là sự nhận biết cảnh — 69
+
+Nhóm tám sắc do vật thực sinh — 84
+
+Các nhóm sắc có dưỡng chất do vật thực sinh — 123
+
+Dưỡng chất do vật thực sinh — 131
+
+Hai nhóm sắc do vật thực sinh — 149
+
+Cách quán sắc do vật thực sinh — 115
+
+Vật thực là gì — 116
+
+Một sắc vật thực — 105
+
+Cách quân bình năm quyền — 31
+
+Cách quán oai nghi và tỉnh giác — 22, 163
+
+Nhóm tám sắc do thời tiết sinh — 84
+
+Tập hợp các sắc có dưỡng chất do thời tiết sinh — 117
+
+Dưỡng chất do thời tiết sinh — 131
+
+Bốn nhóm sắc do thời tiết sinh — 147
+
+Cách quán sắc do thời tiết sinh — 110
+
+Được gọi là thời tiết — 110
+
+Đề mục thiền ở mức cận định — 23
+
+Được gọi là cận định — 58
+
+Nghiệp cho quả đời kế tiếp (upapajjavedanīya) — 143
+
+Cách nhận biết sắc y sinh — 72
+
+Được gọi là sắc y sinh — 103
+
+Sắc do nghiệp sinh được chấp thủ — 134
+
+Xả giác chi — 37
+
+Dưỡng chất là phần tinh của vị — 80
+
+Ví dụ sợi dây xơ dừa — 154
+
+
+<a id="M03-index-P003"></a>
+## Chỉ mục theo thứ tự chữ cái Miến — 191
+Chỉ mục / Index - Miến / Burmese 191
+
+Được gọi là đoàn thực — 122
+
+Tên gọi đoàn thực — 117
+
+Dưỡng chất do nghiệp sinh — 129
+
+Chín nhóm sắc do nghiệp sinh — 142
+
+Thân tịnh sắc — 92, 94
+
+Nhóm mười sắc thân — 84
+
+Nhóm chín sắc có thân biểu tri — 143
+
+Nhóm mười hai sắc có thân biểu tri và tính nhẹ v.v. — 145
+
+Sự trợ giúp tốt của nghiệp — 111
+
+Ví dụ về thai nhi — 127
+
+Cách nói lưỡng lự “quạ cũng chẳng phải, gà cũng chẳng phải” — 26
+
+Thô cứng, thô ráp — 7
+
+Quán khắp toàn thân — 13
+
+Cách phân tích nhóm sắc tại sáu cửa — 91
+
+Sắc làm cảnh gồm bảy loại — 104
+
+Tuệ tỉnh giác về cảnh hành — 184
+
+Bốn loại khối — 67
+
+Tỷ tịnh sắc — 96
+
+Nhóm mười sắc mũi — 86
+
+Tỷ tịnh sắc (ghānapasāda) — 96
+
+Khi muốn nhận biết và quán nhãn tịnh sắc — 93
+
+Nhãn tịnh sắc — 92
+
+Nhóm mười sắc mắt — 84
+
+Ví như một nắm cơm — 59
+
+Nhóm tám sắc do tâm sinh — 84
+
+Dưỡng chất do tâm sinh — 130
+
+Hỏa đại do tâm sinh — 113
+
+Tám nhóm sắc do tâm sinh — 143
+
+Cách quán sắc do tâm sinh — 109
+
+Ví như một bộ máy — 29
+
+Một trường hợp trong Giáo pháp — 161
+
+Đề mục thiền về nước — 14
+
+
+<a id="M03-index-P004"></a>
+## Chỉ mục theo thứ tự chữ cái Miến — 192
+Chỉ mục / Index - Miến / Burmese 192
+
+Bệnh phát sinh do thuốc — 34
+
+Ví như hòa bột gạo và bột nghệ trong nước — 45, 52
+
+Hòa bột gạo và bột nghệ cho đều — 91
+
+Thiệt tịnh sắc — 97
+
+Giới tịnh sắc của lưỡi — 97
+
+Nhóm mười sắc lưỡi — 87
+
+Nhóm chín sắc mạng quyền — 91
+
+Mạng quyền duy trì sắc — 81
+
+Một sắc mạng quyền — 105
+
+Ánh sáng của trí — 131
+
+Bàn tay trí tuệ — 3
+
+Thanh gươm trí tuệ — 9
+
+Người có tuệ sắc bén — 102
+
+Dành cho người có tuệ còn non — 101
+
+Một cách giải thích của vị Sớ giải sư — 179
+
+Gọi là ý môn theo cách chuyển tên theo chỗ nương — 90
+
+Bốn thể phần thuộc hỏa đại — 139
+
+Hỏa đại — 3
+
+Hỏa đại, tức thời tiết, và dưỡng chất — 133
+
+Bốn thể phần có hỏa đại trội — 139
+
+Cách biết của loài vật — 168
+
+Hãy thúc đẩy sự tinh cần — 158
+
+Tục ngữ “cơm nuôi mạng sống bảy ngày” — 126
+
+Sự chống đỡ — 8
+
+Sự nâng đỡ — 22
+
+Những giải thích thêm — 42
+
+
+<a id="M03-index-P005"></a>
+## Chỉ mục theo thứ tự chữ cái Miến — 193
+Chỉ mục / Index - Miến / Burmese 193
+
+Đến kiến thanh tịnh — 25, 61
+
+Khoảng một đấu (doṇamatta) — 59
+
+Tinh tấn giác chi — 36
+
+Trong Chánh văn Dhammasaṅgaṇī — 16
+
+Giới, được gọi là đại chủng — 103
+
+Phần tác ý đến các giới — 2
+
+Tuệ tu tập tác ý đến các giới — 40
+
+Định tu tập tác ý đến các giới — 29
+
+Quán xét theo giới — 69
+
+Phương pháp tóm lược của đề mục tứ đại — 1
+
+Phương pháp chi tiết của đề mục tứ đại — 138
+
+Phần đề mục tứ đại — 1
+
+Quán để các đại quân bình — 14
+
+Kéo các đại từ nơi này sang nơi khác — 15
+
+Không quá chậm (nātisaṇikato) — 24
+
+Không quá nhanh (nātisīghato) — 24
+
+Nhĩ tịnh sắc — 96
+
+Sắc thực (nipphannarūpa) — 105
+
+Ví như phân định bằng ánh nắng — 74
+
+Nguyên nhân được ví như ánh nắng — 75
+
+Dưỡng chất của chư thiên — 127
+
+Tưởng về con bò — 63
+
+Ví dụ người đồ tể — 62
+
+Ví dụ đời thường để so sánh — 181
+
+Vượt qua chế định (paññattisamatikkamanato) — 27
+
+Địa đại — 3
+
+Con mắt trí tuệ thấy chân đế — 63
+
+Người chưa biết sắc chân đế — 77
+
+Được gọi là sắc giới hạn — 106
+
+Một sắc giới hạn — 106
+
+
+<a id="M03-index-P006"></a>
+## Chỉ mục theo thứ tự chữ cái Miến — 194
+Chỉ mục / Index - Miến / Burmese 194
+
+Tịnh sắc, tức sắc trong suốt, gồm năm loại — 103
+
+Được gọi là tịnh sắc — 44, 52
+
+Trạch pháp giác chi — 37
+
+Hỷ — 39
+
+Hỷ giác chi — 37
+
+Không có cá nhân hay chúng sinh — 64
+
+Sắc biểu hiện nam tính — 83
+
+Tính dễ vỡ — 15
+
+Ngôi nhà sắp đổ — 8
+
+Tính biến đổi — 157
+
+Thế nào là tính biến đổi — 157
+
+Diệt ngay tại nơi sinh — 118
+
+Sự sinh lan đến bên ngoài — 112
+
+Được gọi là vật thực bên ngoài — 126
+
+Quân bình bảy giác chi — 36
+
+Hữu phần cũng được gọi là ý môn — 90
+
+Sự trong sáng của ý môn hữu phần và thân tịnh sắc — 100
+
+Nhóm mười sắc giới tính — 84
+
+Hai sắc giới tính — 104
+
+Bụi đất tơi — 21
+
+Trình tự lời dạy của Đức Phật — 12
+
+Tạm để qua những đại chưa hiện rõ — 27
+
+Sự trong sáng của ý môn — 53
+
+Ý môn và sắc ý vật — 99
+
+Ý môn là gì — 90
+
+Nửa tin nửa ngờ — 33
+
+Mahāgopālakasutta — 158
+
+Bốn sắc đại chủng — 3, 103
+
+Được gọi là sắc đại chủng — 103
+
+Mahārāhulovādasutta — 50
+
+Quan điểm của Trưởng lão Mahāsīva — 167
+
+
+<a id="M03-index-P007"></a>
+## Chỉ mục theo thứ tự chữ cái Miến — 195
+Chỉ mục / Index - Miến / Burmese 195
+
+Cứng, nhám, nặng và mềm, trơn, nhẹ — 16
+
+Vật thực người mẹ ăn — 127
+
+Ví như bị hơ nóng bằng lửa — 18
+
+Ví như trời và đất — 77, 160
+
+Ví như người bán bánh — 9
+
+Ví như bột — 59
+
+Một ví dụ quán ở mắt — 128
+
+Nhóm cháu — 115, 133
+
+Nhóm chắt — 115
+
+Sức mạnh của những tâm thù thắng — 114
+
+Ví như người bắt bằng tên — 7
+
+Yathā yathā vā panassa kāyo paṇihito — 177
+
+Phần đề mục thiền về sắc — 1
+
+Phân tích các nhóm sắc theo giới — 54
+
+Ba loại khối sắc — 64
+
+Cách sắc sinh và diệt — 151
+
+Cách nhận biết các sắc — 91
+
+Khi nào quán “sắc, sắc” — 156
+
+Trong sắc giới không có khối về cảnh — 67
+
+Hai mươi tám sắc — 103
+
+Tóm lược những điểm cần ghi nhớ khi quán — 187
+
+Quán ưu tiên đặc tính riêng (lakkhaṇato) — 28
+
+Sắc đặc tướng là gì — 108
+
+Cách quán bốn sắc đặc tướng — 150
+
+Bốn loại sắc đặc tướng — 107
+
+Nhóm mười hai sắc có thân biểu tri và tính nhẹ v.v. — 145
+
+Ví như bụi bay lên trong không trung — 18
+
+Bốn mươi hai thể phần — 138
+
+Chấp “tự ngã” trong cách nói thế gian — 71
+
+Khi nêu ví dụ trong đời thường — 181
+
+Điểm cốt yếu cần ghi nhớ — 133
+
+
+<a id="M03-index-P008"></a>
+## Chỉ mục theo thứ tự chữ cái Miến — 196
+Chỉ mục / Index - Miến / Burmese 196
+
+Cách quán trong thực hành — 127
+
+Như viên hồng ngọc đặt trong lòng bàn tay — 14
+
+Một nguyên tắc cần tuân theo khi thực hành — 6
+
+Một quy tắc cần tuân theo — 25
+
+Các quy tắc cần tuân theo — 23
+
+〔ဝ〕
+
+Bắt đầu từ chữ “ဝ” tròn — 5
+
+Phong đại — 3
+
+Sáu thể phần có phong đại trội — 140
+
+Năm hoặc ba sắc biến hóa — 106
+
+Ngăn tâm tán ra ngoài (vikkhepapaṭibāhanato) — 25
+
+Hai sắc biểu tri — 106
+
+Người hay phê bình — 33
+
+〔သ〕
+
+Những người giỏi phân biệt các chân lý — 34
+
+Niệm giác chi — 36
+
+Điều cần lưu ý — 134, 137
+
+Những điểm cần lưu ý — 14
+
+Điều cần ghi nhớ khi quán sắc — 158
+
+Tưởng về chúng sinh và tưởng về tự ngã đã tan — 61
+
+Tưởng về chúng sinh và tưởng về tự ngã sẽ tan — 71
+
+Tỉnh giác về sự thích hợp — 183
+
+Tuệ tỉnh giác về sự thích hợp — 183
+
+Bát vỡ, thân giập — 26
+
+Sắc có thực tính — 105
+
+Khi chưa tu tập theo lối lấy thiền chỉ làm cỗ xe — 22
+
+Định giác chi — 37
+
+Cách gọi theo sự thật quy ước — 119
+
+Bốn loại tỉnh giác — 183
+
+Sắc để quán (sammasanarūpa) — 106
+
+Sắc có đặc tướng — 105
+
+Tỉnh giác về lợi ích — 183
+
+Một mốc chỉ dẫn trong giáo pháp — 74
+
+Cách sắc do thời tiết và vật thực sinh qua các thế hệ con cháu — 136
+
+Thế hệ con — 115
+
+Sản phẩm trực tiếp — 126
+
+Các nhóm con — 133
+
+Lạc (sukha) — 39
+
+
+<a id="M03-index-P009"></a>
+## Chỉ mục theo thứ tự chữ cái Miến — 197
+Chỉ mục / Index - Miến / Burmese 197
+
+Ba bài kinh — 31
+
+Hành giả thuần minh sát — 19
+
+Nhĩ tịnh sắc — 95
+
+Nhóm mười sắc tai — 85
+
+Ví như bóng cây — 77
+
+Thế nào là quán — 56
+
+Các sắc có phận sự mang đi — 172
+
+〔ဟ〕
+
+Một sắc tim — 104

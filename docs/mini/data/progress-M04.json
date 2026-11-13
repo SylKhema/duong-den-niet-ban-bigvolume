@@ -1,0 +1,22 @@
+{
+  "project_id": "appgprj_6ae50633ab8081918e19d5ca4be40297",
+  "volume": "M04",
+  "complete_content_pages": 248,
+  "self_checked_image_pages": 248,
+  "integrated_content_pages": 248,
+  "published_content_pages": 248,
+  "frontmatter_pages": 10,
+  "frontmatter_source_pages": 10,
+  "body_source_pages": 248,
+  "body_last": 248,
+  "index_pages": 11,
+  "index_source_pages": 11,
+  "toc_entries": 163,
+  "next_body": null,
+  "version": 93,
+  "volume_complete": true,
+  "next": "Đã hoàn tất chính văn và chỉ mục.",
+  "owner_approval": false,
+  "independent_review": false,
+  "toc_complete": true
+}

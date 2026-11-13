@@ -1,7 +1,7 @@
 'use strict';
 (()=>{
 const qs=s=>document.querySelector(s),rom=['I','II','III','IV','V'];
-const statusNames={new:'Mới nhận',reviewing:'Đang đối chiếu','needs-info':'Cần thêm căn cứ',resolved:'Đã sửa',unchanged:'Giữ nguyên và giải thích',duplicate:'Góp ý trùng'};
+const statusNames={new:'Mới nhận',reviewing:'Đang đối chiếu',approved:'Đã duyệt bản sửa','needs-info':'Cần thêm căn cứ',resolved:'Đã sửa',unchanged:'Giữ nguyên và giải thích',duplicate:'Góp ý trùng'};
 const categoryNames={typo:'Lỗi chữ hoặc trình bày',translation:'Nghi dịch sai hoặc thiếu',terminology:'Thuật ngữ khó hiểu',question:'Câu hỏi về nội dung',other:'Góp ý khác'};
 let context=null,requestId=null;
 function receiptId(){const b=new Uint8Array(16);crypto.getRandomValues(b);b[6]=(b[6]&15)|64;b[8]=(b[8]&63)|128;const h=Array.from(b,x=>x.toString(16).padStart(2,'0')).join('');return [h.slice(0,8),h.slice(8,12),h.slice(12,16),h.slice(16,20),h.slice(20)].join('-');}

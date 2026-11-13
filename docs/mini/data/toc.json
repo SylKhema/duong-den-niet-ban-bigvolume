@@ -1,0 +1,872 @@
+[
+  {
+    "id": "M01-T001",
+    "level": 0,
+    "kind": "intro",
+    "pdf": 1,
+    "printed": "i",
+    "title": "Lời dẫn nhập",
+    "target": "M01-intro-P001",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T002",
+    "level": 0,
+    "kind": "body",
+    "pdf": 1,
+    "printed": "1",
+    "title": "Bốn Thánh đế và năng lực pāramī",
+    "target": "M01-body-P001",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T003",
+    "level": 1,
+    "kind": "body",
+    "pdf": 1,
+    "printed": "1",
+    "title": "Trích Aparijānanāsutta",
+    "target": "M01-body-P001",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T004",
+    "level": 1,
+    "kind": "body",
+    "pdf": 2,
+    "printed": "2",
+    "title": "Bốn hạng người",
+    "target": "M01-body-P002",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T005",
+    "level": 1,
+    "kind": "body",
+    "pdf": 4,
+    "printed": "4",
+    "title": "Bảy pháp của bậc thiện",
+    "target": "M01-body-P004",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T006",
+    "level": 1,
+    "kind": "body",
+    "pdf": 9,
+    "printed": "9",
+    "title": "Bốn tuệ phân tích (paṭisambhidāñāṇa)",
+    "target": "M01-body-P009",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T007",
+    "level": 1,
+    "kind": "body",
+    "pdf": 11,
+    "printed": "11",
+    "title": "Đế thuộc vòng luân hồi và đế vượt vòng luân hồi",
+    "target": "M01-body-P011",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T008",
+    "level": 1,
+    "kind": "body",
+    "pdf": 11,
+    "printed": "11",
+    "title": "Cảnh sở tri của trí minh sát",
+    "target": "M01-body-P011",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T009",
+    "level": 1,
+    "kind": "body",
+    "pdf": 12,
+    "printed": "12",
+    "title": "Bốn Thánh đế cần được thấu suốt bằng trí minh sát hiệp thế",
+    "target": "M01-body-P012",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T010",
+    "level": 2,
+    "kind": "body",
+    "pdf": 12,
+    "printed": "12",
+    "title": "1. Khổ đế",
+    "target": "M01-body-P012",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T011",
+    "level": 2,
+    "kind": "body",
+    "pdf": 13,
+    "printed": "13",
+    "title": "2. Tập đế",
+    "target": "M01-body-P013",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T012",
+    "level": 2,
+    "kind": "body",
+    "pdf": 16,
+    "printed": "16",
+    "title": "3. Diệt đế",
+    "target": "M01-body-P016",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T013",
+    "level": 1,
+    "kind": "body",
+    "pdf": 18,
+    "printed": "18",
+    "title": "Phần thực hành niệm xứ",
+    "target": "M01-body-P018",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T014",
+    "level": 1,
+    "kind": "body",
+    "pdf": 20,
+    "printed": "20",
+    "title": "Khi nào các nguyên nhân sẽ chấm dứt",
+    "target": "M01-body-P020",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T015",
+    "level": 1,
+    "kind": "body",
+    "pdf": 22,
+    "printed": "22",
+    "title": "Thời điểm cần quán cảnh sở quán này",
+    "target": "M01-body-P022",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T016",
+    "level": 1,
+    "kind": "body",
+    "pdf": 26,
+    "printed": "26",
+    "title": "Đạo đế mà hành giả cần noi theo và thực hành",
+    "target": "M01-body-P026",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T017",
+    "level": 1,
+    "kind": "body",
+    "pdf": 27,
+    "printed": "27",
+    "title": "Có cần pāramī không?",
+    "target": "M01-body-P027",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T018",
+    "level": 1,
+    "kind": "body",
+    "pdf": 29,
+    "printed": "29",
+    "title": "Thiện nghiệp trợ duyên (adhikāra)",
+    "target": "M01-body-P029",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T019",
+    "level": 1,
+    "kind": "body",
+    "pdf": 31,
+    "printed": "31",
+    "title": "Hạt giống minh và hạt giống hạnh",
+    "target": "M01-body-P031",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T020",
+    "level": 1,
+    "kind": "body",
+    "pdf": 33,
+    "printed": "33",
+    "title": "Ba minh và tám minh",
+    "target": "M01-body-P033",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T021",
+    "level": 1,
+    "kind": "body",
+    "pdf": 34,
+    "printed": "34",
+    "title": "Mười lăm pháp hạnh",
+    "target": "M01-body-P034",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T022",
+    "level": 1,
+    "kind": "body",
+    "pdf": 35,
+    "printed": "35",
+    "title": "Bảy pháp của bậc thiện",
+    "target": "M01-body-P035",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T023",
+    "level": 1,
+    "kind": "body",
+    "pdf": 36,
+    "printed": "36",
+    "title": "Chi pháp đa văn",
+    "target": "M01-body-P036",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T024",
+    "level": 1,
+    "kind": "body",
+    "pdf": 36,
+    "printed": "36",
+    "title": "Ý nghĩa muốn nói",
+    "target": "M01-body-P036",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T025",
+    "level": 1,
+    "kind": "body",
+    "pdf": 38,
+    "printed": "38",
+    "title": "Niệm — niệm — niệm",
+    "target": "M01-body-P038",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T026",
+    "level": 1,
+    "kind": "body",
+    "pdf": 39,
+    "printed": "39",
+    "title": "Minh và hạnh — những pháp cần cả hai",
+    "target": "M01-body-P039",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T027",
+    "level": 1,
+    "kind": "body",
+    "pdf": 39,
+    "printed": "39",
+    "title": "Trích Sekhasutta",
+    "target": "M01-body-P039",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T028",
+    "level": 1,
+    "kind": "body",
+    "pdf": 41,
+    "printed": "41",
+    "title": "Một điểm đáng thưa hỏi",
+    "target": "M01-body-P041",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T029",
+    "level": 1,
+    "kind": "body",
+    "pdf": 42,
+    "printed": "42",
+    "title": "Pháp hành bố thí",
+    "target": "M01-body-P042",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T030",
+    "level": 1,
+    "kind": "body",
+    "pdf": 42,
+    "printed": "42",
+    "title": "Năng lực của minh và hạnh",
+    "target": "M01-body-P042",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T031",
+    "level": 1,
+    "kind": "body",
+    "pdf": 46,
+    "printed": "46",
+    "title": "Minh sát là pháp cần cả hai",
+    "target": "M01-body-P046",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T032",
+    "level": 1,
+    "kind": "body",
+    "pdf": 55,
+    "printed": "55",
+    "title": "Hãy phát triển định",
+    "target": "M01-body-P055",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T033",
+    "level": 1,
+    "kind": "body",
+    "pdf": 57,
+    "printed": "57",
+    "title": "Ý nghĩa muốn nói",
+    "target": "M01-body-P057",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T034",
+    "level": 1,
+    "kind": "body",
+    "pdf": 58,
+    "printed": "58",
+    "title": "Khadirapattasutta",
+    "target": "M01-body-P058",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T035",
+    "level": 1,
+    "kind": "body",
+    "pdf": 61,
+    "printed": "61",
+    "title": "Sắc là gì?",
+    "target": "M01-body-P061",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T036",
+    "level": 1,
+    "kind": "body",
+    "pdf": 63,
+    "printed": "63",
+    "title": "Danh là gì?",
+    "target": "M01-body-P063",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T037",
+    "level": 1,
+    "kind": "body",
+    "pdf": 65,
+    "printed": "65",
+    "title": "Quan niệm chấp rằng thiền chỉ (Samatha) không phải pháp trong Giáo pháp",
+    "target": "M01-body-P065",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T038",
+    "level": 1,
+    "kind": "body",
+    "pdf": 68,
+    "printed": "68",
+    "title": "Chánh định là gì?",
+    "target": "M01-body-P068",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T039",
+    "level": 1,
+    "kind": "body",
+    "pdf": 70,
+    "printed": "70",
+    "title": "Hành giả thuần quán (suddhavipassanāyānika)",
+    "target": "M01-body-P070",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T040",
+    "level": 1,
+    "kind": "body",
+    "pdf": 71,
+    "printed": "71",
+    "title": "Giải thích lý do",
+    "target": "M01-body-P071",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T041",
+    "level": 0,
+    "kind": "body",
+    "pdf": 77,
+    "printed": "77",
+    "title": "Phần đề mục thiền niệm hơi thở (Ānāpāna kammaṭṭhāna)",
+    "target": "M01-body-P077",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T042",
+    "level": 1,
+    "kind": "body",
+    "pdf": 77,
+    "printed": "77",
+    "title": "Tán thán niệm hơi thở",
+    "target": "M01-body-P077",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T043",
+    "level": 1,
+    "kind": "body",
+    "pdf": 77,
+    "printed": "77",
+    "title": "Thiết lập niệm hơi thở",
+    "target": "M01-body-P077",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T044",
+    "level": 1,
+    "kind": "body",
+    "pdf": 78,
+    "printed": "78",
+    "title": "Điều cần lưu tâm",
+    "target": "M01-body-P078",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T045",
+    "level": 1,
+    "kind": "body",
+    "pdf": 79,
+    "printed": "79",
+    "title": "Điều cần tránh",
+    "target": "M01-body-P079",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T046",
+    "level": 1,
+    "kind": "body",
+    "pdf": 82,
+    "printed": "82",
+    "title": "Đếm — phương pháp gaṇanā",
+    "target": "M01-body-P082",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T047",
+    "level": 1,
+    "kind": "body",
+    "pdf": 84,
+    "printed": "84",
+    "title": "1. Dài — 2. Ngắn",
+    "target": "M01-body-P084",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T048",
+    "level": 1,
+    "kind": "body",
+    "pdf": 86,
+    "printed": "86",
+    "title": "Một điểm đặc biệt cần lưu tâm",
+    "target": "M01-body-P086",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T049",
+    "level": 1,
+    "kind": "body",
+    "pdf": 86,
+    "printed": "86",
+    "title": "3. Sabbakāyapaṭisaṃvedī — cảm nhận toàn thân hơi thở",
+    "target": "M01-body-P086",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T050",
+    "level": 1,
+    "kind": "body",
+    "pdf": 89,
+    "printed": "89",
+    "title": "Sikkhati = “vị ấy tập”: mục đích của lời dạy",
+    "target": "M01-body-P089",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T051",
+    "level": 1,
+    "kind": "body",
+    "pdf": 89,
+    "printed": "89",
+    "title": "Mục đích của lối giảng bằng thì tương lai",
+    "target": "M01-body-P089",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T052",
+    "level": 1,
+    "kind": "body",
+    "pdf": 90,
+    "printed": "90",
+    "title": "4. Passambhayaṃ kāyasaṅkhāraṃ — làm an tịnh thân hành",
+    "target": "M01-body-P090",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T053",
+    "level": 1,
+    "kind": "body",
+    "pdf": 94,
+    "printed": "94",
+    "title": "Tình trạng khi tướng hơi thở mới xuất hiện",
+    "target": "M01-body-P094",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T054",
+    "level": 1,
+    "kind": "body",
+    "pdf": 96,
+    "printed": "96",
+    "title": "Những khó khăn",
+    "target": "M01-body-P096",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T055",
+    "level": 1,
+    "kind": "body",
+    "pdf": 98,
+    "printed": "98",
+    "title": "Đừng đùa nghịch với tướng",
+    "target": "M01-body-P098",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T056",
+    "level": 1,
+    "kind": "body",
+    "pdf": 98,
+    "printed": "98",
+    "title": "Các loại tướng",
+    "target": "M01-body-P098",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T057",
+    "level": 1,
+    "kind": "body",
+    "pdf": 101,
+    "printed": "101",
+    "title": "Học tướng và tợ tướng",
+    "target": "M01-body-P101",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T058",
+    "level": 1,
+    "kind": "body",
+    "pdf": 104,
+    "printed": "104",
+    "title": "Cách thực hành để quân bình năm quyền",
+    "target": "M01-body-P104",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T059",
+    "level": 1,
+    "kind": "body",
+    "pdf": 110,
+    "printed": "110",
+    "title": "Cách thực hành để quân bình bảy giác chi",
+    "target": "M01-body-P110",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T060",
+    "level": 1,
+    "kind": "body",
+    "pdf": 111,
+    "printed": "111",
+    "title": "Hướng đến sơ thiền",
+    "target": "M01-body-P111",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T061",
+    "level": 1,
+    "kind": "body",
+    "pdf": 113,
+    "printed": "113",
+    "title": "An trú nhiều — phản khán ít",
+    "target": "M01-body-P113",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T062",
+    "level": 1,
+    "kind": "body",
+    "pdf": 114,
+    "printed": "114",
+    "title": "Năm chi thiền",
+    "target": "M01-body-P114",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T063",
+    "level": 1,
+    "kind": "body",
+    "pdf": 114,
+    "printed": "114",
+    "title": "Năm loại tự tại",
+    "target": "M01-body-P114",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T064",
+    "level": 1,
+    "kind": "body",
+    "pdf": 115,
+    "printed": "115",
+    "title": "Hướng đến nhị thiền",
+    "target": "M01-body-P115",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T065",
+    "level": 1,
+    "kind": "body",
+    "pdf": 117,
+    "printed": "117",
+    "title": "Hướng đến tam thiền",
+    "target": "M01-body-P117",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T066",
+    "level": 1,
+    "kind": "body",
+    "pdf": 119,
+    "printed": "119",
+    "title": "Hướng đến tứ thiền",
+    "target": "M01-body-P119",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T067",
+    "level": 1,
+    "kind": "body",
+    "pdf": 120,
+    "printed": "120",
+    "title": "Dấu hiệu đặc biệt của tứ thiền",
+    "target": "M01-body-P120",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T068",
+    "level": 0,
+    "kind": "body",
+    "pdf": 123,
+    "printed": "123",
+    "title": "Tiến trình tu tập và hữu phần",
+    "target": "M01-body-P123",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T069",
+    "level": 1,
+    "kind": "body",
+    "pdf": 123,
+    "printed": "123",
+    "title": "Cách hữu phần rơi xuống",
+    "target": "M01-body-P123",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T070",
+    "level": 1,
+    "kind": "body",
+    "pdf": 125,
+    "printed": "125",
+    "title": "Một điểm cần lưu tâm",
+    "target": "M01-body-P125",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T071",
+    "level": 1,
+    "kind": "body",
+    "pdf": 132,
+    "printed": "132",
+    "title": "Kūṭāgārasutta",
+    "target": "M01-body-P132",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T072",
+    "level": 0,
+    "kind": "body",
+    "pdf": 141,
+    "printed": "141",
+    "title": "Về ánh sáng của trí",
+    "target": "M01-body-P141",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T073",
+    "level": 1,
+    "kind": "body",
+    "pdf": 141,
+    "printed": "141",
+    "title": "Ālokasutta",
+    "target": "M01-body-P141",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T074",
+    "level": 1,
+    "kind": "body",
+    "pdf": 141,
+    "printed": "141",
+    "title": "Trích Pacalāyamānasutta",
+    "target": "M01-body-P141",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T075",
+    "level": 1,
+    "kind": "body",
+    "pdf": 144,
+    "printed": "144",
+    "title": "Bốn loại ánh sáng của trí",
+    "target": "M01-body-P144",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T076",
+    "level": 1,
+    "kind": "body",
+    "pdf": 151,
+    "printed": "151",
+    "title": "Trích Nimittasutta",
+    "target": "M01-body-P151",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T077",
+    "level": 1,
+    "kind": "body",
+    "pdf": 153,
+    "printed": "153",
+    "title": "Ánh sáng của trí là gì?",
+    "target": "M01-body-P153",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T078",
+    "level": 1,
+    "kind": "body",
+    "pdf": 159,
+    "printed": "159",
+    "title": "Năng lực pāramī và năng lực định",
+    "target": "M01-body-P159",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T079",
+    "level": 1,
+    "kind": "body",
+    "pdf": 160,
+    "printed": "160",
+    "title": "Hãy ghi nhận đây là cách nói “cận hành quả”",
+    "target": "M01-body-P160",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T080",
+    "level": 1,
+    "kind": "body",
+    "pdf": 160,
+    "printed": "160",
+    "title": "Lời giải của Mahāṭīkā",
+    "target": "M01-body-P160",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T081",
+    "level": 1,
+    "kind": "body",
+    "pdf": 161,
+    "printed": "161",
+    "title": "Nghĩa trực tiếp và nghĩa chuyển",
+    "target": "M01-body-P161",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T082",
+    "level": 1,
+    "kind": "body",
+    "pdf": 163,
+    "printed": "163",
+    "title": "Ý môn = ý giới hữu phần trong sáng",
+    "target": "M01-body-P163",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T083",
+    "level": 1,
+    "kind": "body",
+    "pdf": 165,
+    "printed": "165",
+    "title": "Thế giới của các tùy phiền não",
+    "target": "M01-body-P165",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T084",
+    "level": 0,
+    "kind": "body",
+    "pdf": 169,
+    "printed": "169",
+    "title": "Từ đề mục thiền niệm hơi thở (Ānāpāna kammaṭṭhāna) đến minh sát (Vipassanā)",
+    "target": "M01-body-P169",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T085",
+    "level": 1,
+    "kind": "body",
+    "pdf": 170,
+    "printed": "170",
+    "title": "Nhóm bốn thứ hai",
+    "target": "M01-body-P170",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T086",
+    "level": 1,
+    "kind": "body",
+    "pdf": 172,
+    "printed": "172",
+    "title": "Nhóm bốn thứ ba",
+    "target": "M01-body-P172",
+    "status": "translated"
+  },
+  {
+    "id": "M01-T087",
+    "level": 1,
+    "kind": "body",
+    "pdf": 177,
+    "printed": "177",
+    "title": "Nhóm bốn thứ tư",
+    "target": "M01-body-P177",
+    "status": "translated"
+  }
+]

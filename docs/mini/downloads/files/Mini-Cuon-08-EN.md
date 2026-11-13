@@ -1,0 +1,6338 @@
+# Nibbānagāminipaṭipadā · Mini · Cuốn 8 / Volume 8
+The Fourfold Characterization (Lakkhaṇādicatukka)
+Pa-Auk Tawya Sayadaw
+English
+
+## Mục lục / Contents
+
+- [Front and back covers](#M08-cover-P001)
+- [Title page](#M08-front-P001)
+- [The gift of Dhamma and the aspiration](#M08-front-P002)
+- [Original table of contents · page 1](#M08-front-P003)
+- [Original table of contents · page 2](#M08-front-P004)
+- [Original table of contents · page 3](#M08-front-P005)
+- [Original table of contents · page 4](#M08-front-P006)
+- [Original table of contents · page 5](#M08-front-P007)
+- [Original table of contents · page 6](#M08-front-P008)
+- [Original table of contents · page 7](#M08-front-P009)
+- [Original table of contents · page 8](#M08-front-P010)
+- [Original table of contents · page 9](#M08-front-P011)
+- [The section on the four aspects beginning with characteristic](#M08-body-P001)
+- [Discerning the five clinging aggregates and their arising and disappearance](#M08-body-P002)
+- [The commentary’s explanation of the five aggregates](#M08-body-P003)
+- [Distinguishing phenomena by characteristic, function, manifestation and proximate cause](#M08-body-P004)
+- [The natures and varieties of the mental aggregates](#M08-body-P005)
+- [Both materiality and mentality must be known fully](#M08-body-P006)
+- [Those who understand the Dhamma swiftly and slowly](#M08-body-P007)
+- [The four analytical knowledges](#M08-body-P008)
+- [The five conditions of the analytical knowledges](#M08-body-P009)
+- [Trainees and those beyond training](#M08-body-P010)
+- [The importance of previous practice](#M08-body-P011)
+- [Conditions for the clarity of analytical knowledge](#M08-body-P012)
+- [Insight practice in previous lives](#M08-body-P013)
+- [Analytical knowledge and the Four Noble Truths](#M08-body-P014)
+- [Previous practice and the great disciples](#M08-body-P015)
+- [The preliminary practice of the noble ones](#M08-body-P016)
+- [Encouragement to study and discern ultimate phenomena](#M08-body-P017)
+- [The meanings of characteristic, function, manifestation and proximate cause](#M08-body-P018)
+- [Individual characteristic, function and manifestation](#M08-body-P019)
+- [Manifestation, proximate cause and a preliminary point](#M08-body-P020)
+- [How to learn the four aspects](#M08-body-P021)
+- [The twenty-eight material phenomena — the earth element](#M08-body-P022)
+- [The earth and water elements](#M08-body-P023)
+- [The fire and air elements](#M08-body-P024)
+- [Eye-sensitivity and ear-sensitivity](#M08-body-P025)
+- [Ear-sensitivity and nose-sensitivity](#M08-body-P026)
+- [Nose-sensitivity and tongue-sensitivity](#M08-body-P027)
+- [Tongue-sensitivity and body-sensitivity](#M08-body-P028)
+- [Body-sensitivity, visible form and sound](#M08-body-P029)
+- [Sound and odour](#M08-body-P030)
+- [13. Taste object; 14. Femininity faculty](#M08-body-P031)
+- [Femininity, masculinity and life faculties](#M08-body-P032)
+- [Life faculty, heart-base and nutriment](#M08-body-P033)
+- [Nutriment, space element and bodily intimation](#M08-body-P034)
+- [Bodily and verbal intimation](#M08-body-P035)
+- [Verbal intimation and lightness of materiality](#M08-body-P036)
+- [Malleability and wieldiness of materiality](#M08-body-P037)
+- [Wieldiness and the arising of materiality](#M08-body-P038)
+- [Continuity and ageing of materiality](#M08-body-P039)
+- [Ageing, impermanence and instructions for discerning materiality](#M08-body-P040)
+- [Analysing each ultimate material phenomenon in each material group](#M08-body-P041)
+- [Completing discernment of the material aggregate](#M08-body-P042)
+- [The consciousness aggregate and rebirth-linking consciousness](#M08-body-P043)
+- [Rebirth-linking, life-continuum and five-door-adverting consciousness](#M08-body-P044)
+- [Five-door adverting and adverting to a visible object](#M08-body-P045)
+- [Adverting to the sense objects](#M08-body-P046)
+- [Body-door adverting and eye-consciousness](#M08-body-P047)
+- [Ear-consciousness and nose-consciousness](#M08-body-P048)
+- [Nose-, tongue- and body-consciousness](#M08-body-P049)
+- [Body-consciousness and receiving consciousness](#M08-body-P050)
+- [Receiving visible form, sound and odour](#M08-body-P051)
+- [Receiving taste and tangible objects, and investigating](#M08-body-P052)
+- [The functions of investigating consciousness](#M08-body-P053)
+- [Investigating individual sense objects](#M08-body-P054)
+- [Determining and mind-door adverting consciousness](#M08-body-P055)
+- [Determining consciousness at the eye and ear doors](#M08-body-P056)
+- [Determining consciousness at the nose, tongue and body doors](#M08-body-P057)
+- [Wholesome impulsion](#M08-body-P058)
+- [Unwholesome impulsion](#M08-body-P059)
+- [Wise and unwise attention, and registration](#M08-body-P060)
+- [Registration and mind-door adverting](#M08-body-P061)
+- [Mind-door adverting to the six objects and to visible form](#M08-body-P062)
+- [Mind-door adverting to other objects and smile-producing consciousness](#M08-body-P063)
+- [Smile-producing consciousness and death consciousness](#M08-body-P064)
+- [The feeling aggregate — bodily pleasure and bodily pain](#M08-body-P065)
+- [Mental joy and an alternative explanation](#M08-body-P066)
+- [Mental joy and mental displeasure](#M08-body-P067)
+- [Neutral feeling and third-jhāna equanimity](#M08-body-P068)
+- [Jhāna equanimity and neither-painful-nor-pleasant feeling](#M08-body-P069)
+- [The perception aggregate — Pāli passages on the mental factor of perception](#M08-body-P070)
+- [Characteristic, function, manifestation and proximate cause of perception](#M08-body-P071)
+- [The formations aggregate — mental factors and contact](#M08-body-P072)
+- [Contact and volition](#M08-body-P073)
+- [Volition and one-pointedness](#M08-body-P074)
+- [One-pointedness and the mental life faculty](#M08-body-P075)
+- [Material and mental life faculties](#M08-body-P076)
+- [Mental life faculty and attention](#M08-body-P077)
+- [The three kinds of attention](#M08-body-P078)
+- [Attention in a cognitive process and the Sayadaw’s note](#M08-body-P079)
+- [Distinguishing applied thought, volition and attention. Occasional mental factors](#M08-body-P080)
+- [The function of applied thought and the four aspects of sustained thought](#M08-body-P081)
+- [Decision and energy](#M08-body-P082)
+- [Energy and eight grounds for a sense of urgency](#M08-body-P083)
+- [Eight grounds for arousing energy and joy](#M08-body-P084)
+- [Joy and desire to act](#M08-body-P085)
+- [Fourteen unwholesome mental factors. Delusion](#M08-body-P086)
+- [Delusion conceals the specific nature of the object](#M08-body-P087)
+- [Shamelessness](#M08-body-P088)
+- [Shamelessness and fearlessness of wrongdoing](#M08-body-P089)
+- [Similes for shamelessness and fearlessness of wrongdoing. Restlessness](#M08-body-P090)
+- [Restlessness and greed](#M08-body-P091)
+- [Greed’s grasping of the object and wrong view](#M08-body-P092)
+- [The meanings of wrong view](#M08-body-P093)
+- [The four aspects of wrong view and conceit](#M08-body-P094)
+- [The four aspects of conceit and the introduction to hate](#M08-body-P095)
+- [The meanings and four aspects of hate](#M08-body-P096)
+- [Nine or ten grounds for resentment](#M08-body-P097)
+- [Instances of anger without grounds](#M08-body-P098)
+- [The grounds for resentment and the introduction to envy](#M08-body-P099)
+- [The four aspects of envy and the introduction to stinginess](#M08-body-P100)
+- [The four aspects of stinginess and the introduction to remorse](#M08-body-P101)
+- [The four aspects of remorse and the introduction to sloth](#M08-body-P102)
+- [Sloth and torpor](#M08-body-P103)
+- [The proximate cause of torpor and the introduction to doubt](#M08-body-P104)
+- [The four aspects and the grounds of doubt](#M08-body-P105)
+- [The eight subjects of doubt](#M08-body-P106)
+- [Doubt and reviewing the mind](#M08-body-P107)
+- [Beautiful mental factors — faith](#M08-body-P108)
+- [Manifestation and proximate cause of faith. The four factors of stream-entry](#M08-body-P109)
+- [Similes for faith and the four aspects of mindfulness](#M08-body-P110)
+- [The four aspects of mindfulness. Mindfulness and attention](#M08-body-P111)
+- [Distinguishing mindfulness from attention. Moral shame](#M08-body-P112)
+- [Moral dread. Comparing moral shame and moral dread](#M08-body-P113)
+- [Similes for moral shame and moral dread](#M08-body-P114)
+- [Non-greed](#M08-body-P115)
+- [Non-hatred and specific neutrality](#M08-body-P116)
+- [Specific neutrality. Tranquillity of the mental body and consciousness](#M08-body-P117)
+- [Tranquillity and lightness of the mental body and consciousness](#M08-body-P118)
+- [Lightness and malleability of the mental body and consciousness](#M08-body-P119)
+- [Malleability and wieldiness of the mental body and consciousness](#M08-body-P120)
+- [Wieldiness of the mental body and of consciousness](#M08-body-P121)
+- [Wieldiness and proficiency](#M08-body-P122)
+- [Lack of confidence and proficiency. Uprightness](#M08-body-P123)
+- [Uprightness opposes concealment and hypocrisy](#M08-body-P124)
+- [Why the six pairs of mental factors are stated separately](#M08-body-P125)
+- [The three abstinence factors. Right speech](#M08-body-P126)
+- [Right speech and abstaining from false speech](#M08-body-P127)
+- [Right action and abstaining from killing](#M08-body-P128)
+- [Right livelihood and abstaining from meat killed specifically for oneself](#M08-body-P129)
+- [Right livelihood and the four divine-abiding mental factors](#M08-body-P130)
+- [Loving-kindness (mettā)](#M08-body-P131)
+- [Compassion (karuṇā)](#M08-body-P132)
+- [Sorrow can masquerade as compassion. Appreciative joy (muditā)](#M08-body-P133)
+- [Success and failure of appreciative joy. Equanimity as a divine abiding](#M08-body-P134)
+- [The four aspects of equanimity as a divine abiding](#M08-body-P135)
+- [Unwholesome equanimity and wisdom](#M08-body-P136)
+- [The four aspects of wisdom](#M08-body-P137)
+- [The light of wisdom and the explanation in the Aṭṭhasālinī](#M08-body-P138)
+- [Wisdom, the wisdom faculty and the characteristic of illumination](#M08-body-P139)
+- [The light of wisdom illustrated by a lamp](#M08-body-P140)
+- [How to discern mental phenomena in four aspects](#M08-body-P141)
+- [Defining mental phenomena of the jhānas](#M08-body-P142)
+- [Defining mental phenomena in the six kinds of cognitive process](#M08-body-P143)
+- [Understanding the method of identity (ekatta)](#M08-body-P144)
+- [End of the section on the formations aggregate](#M08-body-P145)
+- [The factors of dependent origination and ignorance](#M08-body-P146)
+- [Ignorance and formations](#M08-body-P147)
+- [The function of formations and the four aspects of consciousness](#M08-body-P148)
+- [Consciousness and mentality-materiality](#M08-body-P149)
+- [Materiality and the six bases](#M08-body-P150)
+- [The eye base and the ear base](#M08-body-P151)
+- [The nose base and the tongue base](#M08-body-P152)
+- [The body base and the mind base](#M08-body-P153)
+- [The meaning of base and the attribution of the effect’s function to its cause](#M08-body-P154)
+- [The meaning of base. Contact](#M08-body-P155)
+- [Eye-contact and ear-contact](#M08-body-P156)
+- [Nose-contact and tongue-contact](#M08-body-P157)
+- [Body-contact and mind-contact](#M08-body-P158)
+- [The range of mind-contact. Feeling](#M08-body-P159)
+- [The manifestation of feeling. Feeling born of eye-contact](#M08-body-P160)
+- [Feeling born of ear-contact and nose-contact](#M08-body-P161)
+- [Feeling born of tongue-contact and body-contact](#M08-body-P162)
+- [Feeling born of mind-contact. Craving](#M08-body-P163)
+- [The four aspects of craving. Craving for visible form](#M08-body-P164)
+- [Craving for visible form, sound and odour](#M08-body-P165)
+- [Craving for odours, tastes and tangibles](#M08-body-P166)
+- [Craving for mental objects and the place of craving in dependent origination](#M08-body-P167)
+- [Clinging and its four kinds](#M08-body-P168)
+- [Discerning clinging in the three times and the four aspects of becoming](#M08-body-P169)
+- [Kamma becoming and rebirth becoming](#M08-body-P170)
+- [A point to note when discerning becoming. Birth](#M08-body-P171)
+- [Birth, ageing and death](#M08-body-P172)
+- [Death in conventional and ultimate truth. Sorrow](#M08-body-P173)
+- [Proximate cause of sorrow. Lamentation](#M08-body-P174)
+- [Lamentation, bodily pain and grief](#M08-body-P175)
+- [The four aspects of grief. Despair](#M08-body-P176)
+- [Despair and the group of sorrow, lamentation, pain, grief and despair](#M08-body-P177)
+- [Distinguishing sorrow, grief and lamentation](#M08-body-P178)
+- [Contemplating characteristic, function and the remaining aspects](#M08-body-P179)
+- [Contemplating dependent origination across lives](#M08-body-P180)
+- [The purpose of defining and contemplating](#M08-body-P181)
+- [Prepare beforehand](#M08-body-P182)
+- [Preliminary discernment and subsequent understanding](#M08-body-P183)
+- [Subsequent understanding and closing signature](#M08-body-P184)
+- [Alphabetical index](#M08-index-P001)
+- [Alphabetical index (continued)](#M08-index-P002)
+- [Alphabetical index (continued)](#M08-index-P003)
+- [Alphabetical index (continued)](#M08-index-P004)
+- [Alphabetical index (continued)](#M08-index-P005)
+- [Alphabetical index (continued)](#M08-index-P006)
+- [Alphabetical index (continued)](#M08-index-P007)
+- [Alphabetical index (continued)](#M08-index-P008)
+- [Alphabetical index (continued)](#M08-index-P009)
+
+<a id="M08-cover-P001"></a>
+## Front and back covers
+Bìa / Cover
+
+Nibbānagāminipaṭipadā — The Practice Leading to Nibbāna (Abridged), Volume 8. The Fourfold Characterization Beginning with Characteristic (Lakkhaṇādicatukka). Pa-Auk Tawya Sayadaw.
+
+Just as a lotus of pure fragrance, pleasing to the heart, may spring up in a heap of rubbish discarded beside a highway —
+
+So too, among the blind worldlings who are like a heap of rubbish and remain there because they have not seen ultimate reality, the disciple of the Perfectly Awakened One, through purified wisdom free of defilements, knows and sees the ultimate reality taught by the Buddha and outshines those worldlings, shining brilliantly.
+
+(Dhammapada, verses 58–59.)
+
+
+<a id="M08-front-P001"></a>
+## Title page
+Đầu sách / Front matter - 1
+
+Nibbānagāminipaṭipadā — The Practice Leading to Nibbāna (Abridged), Volume 8. The Fourfold Characterization Beginning with Characteristic (Lakkhaṇādicatukka). Pa-Auk Tawya Sayadaw.
+
+
+<a id="M08-front-P002"></a>
+## The gift of Dhamma and the aspiration
+Đầu sách / Front matter - 2
+
+Sabbadānaṃ dhammadānaṃ jināti,
+Sabbarasaṃ dhammaraso jināti;
+Sabbaratiṃ dhammarati jināti,
+Taṇhakkhayo sabbadukkhaṃ jināti.
+
+The gift of Dhamma surpasses every gift.
+The taste of Dhamma surpasses every taste.
+Delight in Dhamma surpasses every delight.
+The ending of craving overcomes all suffering.
+
+Ciraṃ tiṭṭhatu saddhammo, dhamme hontu sagāravā.
+
+May the Buddha’s teaching and dispensation long endure. May all hold the three aspects of the true Dhamma in respect.
+
+
+<a id="M08-front-P003"></a>
+## Original table of contents · page 1
+Đầu sách / Front matter - 3
+
+Namo tassa bhagavato arahato sammāsambuddhassa.
+
+The Fourfold Characterization Beginning with Characteristic (Lakkhaṇādicatukka). Contents.
+
+How to discern characteristic, function, manifestation and proximate cause — 1
+
+Excerpt from the practice of contemplation of dhammas — 1
+
+Ugghaṭitaññū — Vipañcitaññū — 7
+
+The four analytical knowledges (paṭisambhidāñāṇa) — 8
+
+Five causal factors for attaining the analytical knowledges — 8
+
+The trainee — the one beyond training — 10
+
+Previous cultivation (pubbayoga) is important — 11
+
+The meanings of characteristic, function, manifestation and proximate cause — 18
+
+Points to remember beforehand — 20
+
+The 28 material phenomena — section on the material aggregate — 22
+
+1. Earth element (paṭhavīdhātu) — 22
+
+2. Water element (āpodhātu) — 23
+
+3. Fire element (tejodhātu) — 24
+
+4. Air element (vāyodhātu) — 24
+
+5. Eye-sensitivity (cakkhupasāda) — 25
+
+6. Ear-sensitivity (sotapasāda) — 25
+
+7. Nose-sensitivity (ghānapasāda) — 26
+
+8. Tongue-sensitivity (jivhāpasāda) — 27
+
+9. Body-sensitivity (kāyapasāda) — 28
+
+10. Visible object (rūpārammaṇa) — 29
+
+
+<a id="M08-front-P004"></a>
+## Original table of contents · page 2
+Đầu sách / Front matter - 4
+
+11. Sound object (saddārammaṇa) — 29
+
+12. Odour object (gandhārammaṇa) — 30
+
+13. Taste object (rasārammaṇa) — 31
+
+14. Femininity faculty — female sex materiality — 31
+
+15. Masculinity faculty — male sex materiality — 32
+
+16. Life faculty — material life faculty — 32
+
+17. Heart-base (hadayavatthu) — 33
+
+18. Edible nutriment (kabaḷīkārāhāra) — 33
+
+19. Space element (ākāsadhātu) — 34
+
+20. Bodily intimation (kāyaviññatti) — 34
+
+21. Verbal intimation (vacīviññatti) — 35
+
+22. Lightness of materiality (rūpassa lahutā) — 36
+
+23. Malleability of materiality (rūpassa mudutā) — 37
+
+24. Wieldiness of materiality (rūpassa kammaññatā) — 37
+
+25. Production of materiality (rūpassa upacaya) — 38
+
+26. Continuity of materiality (rūpassa santati) — 39
+
+27. Ageing of materiality (rūpassa jaratā) — 39
+
+28. Impermanence of materiality (rūpassa aniccatā) — 40
+
+Advice concerning the method of discerning and contemplating — 40
+
+Section on the consciousness aggregate — 43
+
+1. Consciousness aggregate — 43
+
+2. Rebirth-linking consciousness — 43
+
+3. Life-continuum consciousness — 44
+
+4. Five-door adverting — functional mind element — 44
+
+
+<a id="M08-front-P005"></a>
+## Original table of contents · page 3
+Đầu sách / Front matter - 5
+
+Adverting — taking visible object as object — 45
+
+Adverting — taking sound as object — 46
+
+Adverting — taking odour as object — 46
+
+Adverting — taking taste as object — 46
+
+Adverting — taking tangible object as object — 47
+
+5. Eye-consciousness — 47
+
+6. Ear-consciousness — 48
+
+7. Nose-consciousness — 48
+
+8. Tongue-consciousness — 49
+
+9. Body-consciousness — 49
+
+10. Receiving — reception (resultant mind element) — 50
+
+Receiving consciousness receiving visible object (eye-door process) — 51
+
+Receiving consciousness receiving sound (ear-door process) — 51
+
+Receiving consciousness receiving odour (nose-door process) — 51
+
+Receiving consciousness receiving taste (tongue-door process) — 52
+
+Receiving consciousness receiving tangible object (body-door process) — 52
+
+11. Investigating — rootless resultant mind-consciousness element — 52
+
+12. Determining — general functional mind-consciousness element — 55
+
+Determining in the eye-door process — 56
+
+Determining in the ear-door process — 56
+
+Determining in the nose-door process — 57
+
+Determining in the tongue-door process — 57
+
+Determining in the body-door process — 57
+
+13. Impulsion — wholesome impulsion — 58
+
+13. Impulsion — unwholesome impulsion — 59
+
+
+<a id="M08-front-P006"></a>
+## Original table of contents · page 4
+Đầu sách / Front matter - 6
+
+14. Registration — 60
+
+Registration in the eye-door process — 60
+
+Registration in the ear-door process, and so on — 61
+
+15. Mind-door adverting (mind-door process) — 61
+
+Mind-door adverting taking visible object as object — 62
+
+Mind-door adverting taking sound and so on as object — 63
+
+16. Smile-producing consciousness — 63
+
+17. Death consciousness — 64
+
+Section on the feeling aggregate — 65
+
+1. Pleasant bodily feeling — 65
+
+2. Painful bodily feeling — 65
+
+3. Joyful mental feeling — 66
+
+Another explanation of joyful mental feeling — 66
+
+4. Unpleasant mental feeling — 67
+
+5. Equanimous feeling — 68
+
+Equanimity in jhāna — mental balance associated with the third jhāna — 68
+
+Adukkhamasukhā — equanimous feeling — equanimity in the fourth jhāna — 69
+
+Section on the perception aggregate — 70
+
+The mental factor of perception — 70
+
+Section on the formations aggregate — 72
+
+Universal mental factors — 72
+
+1. Contact — 72
+
+2. Volition — 73
+
+
+<a id="M08-front-P007"></a>
+## Original table of contents · page 5
+Đầu sách / Front matter - 7
+
+3. One-pointedness — concentration — 74
+
+4. Life faculty — 75
+
+5. Attention — 77
+
+Three kinds of attention — 78
+
+A note by the venerable Pyay Sayadaw — 79
+
+The six occasional mental factors — 80
+
+1. Applied thought — 80
+
+2. Sustained thought — 81
+
+3. Decision — 82
+
+4. Energy — 82
+
+Saṃvegapadaṭṭhānaṃ — knowledge producing urgency — 83
+
+Or vīriyārambhavatthupadaṭṭhānaṃ — 84
+
+5. Joy — 84
+
+6. Zeal — 85
+
+The fourteen unwholesome mental factors — 86
+
+1. Delusion — 86
+
+2. Shamelessness — 88
+
+3. Fearlessness of wrongdoing — 89
+
+4. Restlessness — 90
+
+5. Greed — 91
+
+6. View — wrong view — 92
+
+7. Conceit — 94
+
+8. Hatred — 95
+
+The nine or ten grounds for resentment — 97
+
+
+<a id="M08-front-P008"></a>
+## Original table of contents · page 6
+Đầu sách / Front matter - 8
+
+Aṭṭhānakopa — groundless anger — 97
+
+9. Envy — 99
+
+10. Avarice — 100
+
+11. Remorse — 101
+
+12. Sloth — 102
+
+13. Torpor — 103
+
+14. Doubt — 104
+
+The meaning of the characteristic of uncertainty — 105
+
+Reflect with knowledge — 107
+
+The beautiful mental factors — 108
+
+1. Faith — 108
+
+2. Mindfulness — 110
+
+Mindfulness and attention — 111
+
+3. Shame of wrongdoing — 112
+
+4. Fear of wrongdoing — 113
+
+5. Non-greed — 115
+
+6. Non-hatred — 116
+
+7. Mental balance — 116
+
+8–9. Tranquillity of the mental body — tranquillity of consciousness — 117
+
+10–11. Lightness of the mental body — lightness of consciousness — 118
+
+12–13. Malleability of the mental body — malleability of consciousness — 119
+
+14–15. Wieldiness of the mental body — wieldiness of consciousness — 120
+
+16–17. Proficiency of the mental body — proficiency of consciousness — 122
+
+18–19. Rectitude of the mental body — rectitude of consciousness — 123
+
+20–21–22. The three abstinence mental factors — 126
+
+
+<a id="M08-front-P009"></a>
+## Original table of contents · page 7
+Đầu sách / Front matter - 9
+
+20. Right speech — 126
+
+21. Right action — 128
+
+How to abstain from the bodily misconduct of killing — 128
+
+22. Right livelihood — 129
+
+The divine-abiding mental factors — 130
+
+Loving-kindness — non-hatred — 131
+
+23. Compassion — 132
+
+24. Appreciative joy — 133
+
+The divine abiding of equanimity — mental balance — 134
+
+25. Non-delusion — wisdom faculty — wisdom — 136
+
+Asammohapaccupaṭṭhāna — manifestation as non-delusion — 137
+
+Method of discerning and contemplating mental phenomena by characteristic, function, manifestation and proximate cause — 141
+
+The method of identity (ekattanaya) must be understood — 144
+
+Section on dependent origination — 146
+
+1. Ignorance — 146
+
+2. Formations — 147
+
+3. Consciousness — 148
+
+4. In mentality-materiality — mentality means mental factors — 149
+
+Materiality in mentality-materiality — 149
+
+5. Six bases — 150
+
+Eye base — 151
+
+Ear base — 151
+
+Nose base — 152
+
+
+<a id="M08-front-P010"></a>
+## Original table of contents · page 8
+Đầu sách / Front matter - 10
+
+Tongue base — 152
+
+Body base — 153
+
+Mind base — 153
+
+Figurative designation of the cause by the effect (kāraṇūpacāra) — 154
+
+6. Contact — 155
+
+Eye-contact — 156
+
+Ear-contact — 156
+
+Nose-contact — 157
+
+Tongue-contact — 157
+
+Body-contact — 158
+
+Mind-contact — 158
+
+7. Feeling — 159
+
+Feeling born of eye-contact — 160
+
+Feeling born of ear-contact — 161
+
+Feeling born of nose-contact — 161
+
+Feeling born of tongue-contact — 162
+
+Feeling born of body-contact — 162
+
+Feeling born of mind-contact — 163
+
+8. Craving — 163
+
+Craving for visible objects — 164
+
+Craving for sounds — 165
+
+Craving for odours — 165
+
+Craving for tastes — 166
+
+Craving for tangible objects — 166
+
+Craving for mental objects — 167
+
+
+<a id="M08-front-P011"></a>
+## Original table of contents · page 9
+Đầu sách / Front matter - 11
+
+9. Clinging — 168
+
+The four kinds of clinging — 168
+
+10. Existence — 169
+
+(a) Kamma existence — 170
+
+(b) Rebirth existence — 170
+
+A reminder concerning the object of discernment — 171
+
+11. Birth — 171
+
+12. Ageing (a) — 172
+
+12. Death (b) — 172
+
+Sorrow — 173
+
+Lamentation — 174
+
+Pain — bodily pain — 175
+
+Grief — mental pain — 175
+
+Despair — 176
+
+Sorrow, lamentation, pain, grief and despair — 177
+
+How to discern characteristic, function and so on — 179
+
+The purpose — 181
+
+Prepare beforehand — 182
+
+Knowledge of subsequent understanding (anubodhañāṇa) — 183
+
+
+<a id="M08-body-P001"></a>
+## The section on the four aspects beginning with characteristic
+Miến / Burmese 1
+
+Namo tassa bhagavato arahato sammāsambuddhassa.
+
+How to discern characteristic, function, manifestation and proximate cause — an extract from the development of the establishments of mindfulness in the Great Discourse on the Establishments of Mindfulness.
+
+The Blessed One teaches:
+
+1. Iti rūpaṃ, iti rūpassa samudayo, iti rūpassa atthaṅgamo.
+This is materiality; this is the arising of materiality; this is the disappearance of materiality.
+
+2. Iti vedanā, iti vedanāya samudayo, iti vedanāya atthaṅgamo.
+This is feeling; this is the arising of feeling; this is the disappearance of feeling.
+
+3. Iti saññā, iti saññāya samudayo, iti saññāya atthaṅgamo.
+This is perception; this is the arising of perception; this is the disappearance of perception.
+
+4. Iti saṅkhārā, iti saṅkhārānaṃ samudayo, iti saṅkhārānaṃ atthaṅgamo.
+These are formations; this is the arising of formations; this is the disappearance of formations.
+
+5. Iti viññāṇaṃ, iti viññāṇassa samudayo, iti viññāṇassa atthaṅgamo.
+This is consciousness; this is the arising of consciousness; this is the disappearance of consciousness.
+
+(ဒီ၊၂၊၂၇၉။ မ၊၁၊၇၄၃။)
+
+Bhikkhus, a bhikkhu who practises in this Teaching discerns as follows —
+
+1. (a) This is materiality.
+(b) This is the nature that causes materiality to arise and the nature of its arising.
+(c) This is the nature that causes materiality to disappear and the nature of its disappearance.
+
+2. (a) This is feeling.
+
+
+<a id="M08-body-P002"></a>
+## Discerning the five clinging aggregates and their arising and disappearance
+Miến / Burmese 2
+
+(b) This is the nature that causes feeling to arise and the nature of its arising.
+(c) This is the nature that causes feeling to disappear and the nature of its disappearance.
+
+3. (a) This is perception.
+(b) This is the nature that causes perception to arise and the nature of its arising.
+(c) This is the nature that causes perception to disappear and the nature of its disappearance.
+
+4. (a) This is formations, that is, the mental factors.
+(b) This is the nature that causes formations, that is, the mental factors to arise and the nature of its arising.
+(c) This is the nature that causes formations, that is, the mental factors to disappear and the nature of its disappearance.
+
+5. (a) This is consciousness, that is, consciousness itself.
+(b) This is the nature that causes consciousness, that is, consciousness itself to arise and the nature of its arising.
+(c) This is the nature that causes consciousness, that is, consciousness itself to disappear and the nature of its disappearance.
+
+Thus he repeatedly discerns these very phenomena called the five clinging aggregates, in their various aspects. (ဒီ၊၂၊၂၇၉။ မ၊၁၊၇၄၃။)
+
+The commentaries to the Great Discourse on the Establishments of Mindfulness and to the Middle Length Discourses explain the above teaching as follows —
+
+
+<a id="M08-body-P003"></a>
+## The commentary’s explanation of the five aggregates
+Miến / Burmese 3
+
+1. Iti rūpaṃ = This is materiality.
+
+2. Iti vedanā = This is feeling.
+
+3. Iti saññā = This is perception.
+
+4. Iti saṅkhārā = These are formations.
+
+5. Iti viññāṇaṃ = This is consciousness.
+
+The Buddha instructed the practising bhikkhu repeatedly to discern those five clinging aggregates as those very phenomena, in their various aspects. The commentary expands the meaning of this instruction as follows —
+
+Tattha iti rūpanti idaṃ rūpaṃ, ettakaṃ rūpaṃ, na ito uddhaṃ rūpaṃ atthīti sabhāvato ruppanasabhāvato bhūtupādāyabhedato ca lakkhaṇarasapaccupaṭṭhānapadaṭṭhānato ca rūpaṃ pajānāti.
+
+Iti vedanātiādīsu pana ayaṃ vedanā, ettakā vedanā, na ito uddhaṃ vedanā atthīti; ayaṃ saññā, ime saṅkhārā, idaṃ viññāṇaṃ, ettakaṃ viññāṇaṃ, na ito uddhaṃ viññāṇaṃ atthīti vedanāsaññāsaṅkhāraviññāṇāni sabhāvato vedayitasañjānanaabhisaṅkharanavijānanasabhāvato ca sukhādirūpasaññādiphassādicakkhuviññāṇādibhedato ca lakkhaṇarasapaccupaṭṭhānapadaṭṭhānato ca pajānāti. (ဒီ၊ဋ္ဌ၊၃၀၃။ မ၊ဋ္ဌ၊၁၊၂၅၆-၂၅၇။)
+
+Lakkhaṇarasapaccupaṭṭhānapadaṭṭhānatoti kakkhaḷattādilakkhaṇaṃ, sandhāraṇādirasaṃ, sampaṭicchanādipaccupaṭṭhānaṃ, bhūtattayādipadaṭṭhānaṃ. (ဒီ၊ဋီ၊၂၃၀။)
+
+Explanation — The Buddha instructed the practising bhikkhu, “This is materiality. This is…
+
+
+<a id="M08-body-P004"></a>
+## Distinguishing phenomena by characteristic, function, manifestation and proximate cause
+Miến / Burmese 4
+
+… feeling. This is perception. These are formations. This is consciousness.” The Buddha instructed the practising bhikkhu repeatedly to discern those five clinging aggregates as those very phenomena, in their various aspects. Given this instruction, how should the practising bhikkhu know those five clinging aggregates? Should he know them through perception, or discern them through wisdom associated with right concentration?
+
+Answer — The meaning is as follows.
+
+1. This is materiality. Materiality amounts to just this. There is no materiality beyond this. Materiality should be fully known through characteristic, function, manifestation and proximate cause: both materiality with the nature of being altered, the nature of being affected by causes such as cold and heat, that is, undergoing alteration in the preceding and succeeding material continuum; and the 28 kinds of materiality divided into the great essentials and derived materiality. The meaning is that all materiality should be thoroughly known and discerned through characteristic, function, manifestation and proximate cause.
+
+The same applies to “This is feeling” and the statements that follow —
+
+2. This is feeling. Feeling amounts to just this. There is no feeling beyond this.
+3. This is perception. pe.
+4. These are formations. pe.
+5. This is consciousness. Consciousness amounts to just this. There is no consciousness beyond this —
+
+
+<a id="M08-body-P005"></a>
+## The natures and varieties of the mental aggregates
+Miến / Burmese 5
+
+2. The nature of experiencing the taste of the object in the feeling aggregate;
+3. The nature of marking and recognizing the object in the perception aggregate;
+4. The nature of assembling and urging its conditioned phenomena to arise and accomplish their work in the formations aggregate;
+5. The nature of distinguishing and knowing the object in the consciousness aggregate —
+
+2. The varieties of the feeling aggregate, such as pleasant feeling;
+3. The varieties of the perception aggregate, such as perception of visible objects;
+4. The varieties of the formations aggregate, such as contact and volition;
+5. The varieties of the consciousness aggregate, such as eye-consciousness —
+
+Beginning with those natures and varieties, feeling, perception, formations and consciousness should be thoroughly known, distinguished and discerned through characteristic, function, manifestation and proximate cause. This means knowing all feeling, perception, formations and consciousness in full through characteristic, function, manifestation and proximate cause. (ဒီ၊ဋ္ဌ၊၃၀၃။ မ၊ဋ္ဌ၊၁၊၂၅၆-၂၅၇။)
+
+The great subcommentary reminds us, “Nānārasalakkhaṇato na veditabbā; anavasesarasalakkhaṇato veditabbā.” Bear this instruction in mind. The five clinging aggregates called materiality, feeling, perception, formations and consciousness must be distinguished and known in full through characteristic, function, manifestation and proximate cause.
+
+1. Discerning materiality alone; or
+2. Discerning mentality alone; or…
+
+
+<a id="M08-body-P006"></a>
+## Both materiality and mentality must be known fully
+Miến / Burmese 6
+
+3. Knowing only a whole group of materiality and a whole group of mentality through characteristic, function, manifestation and proximate cause is insufficient. The teachers instruct us to distinguish and know every material phenomenon, feeling, perception, formation and consciousness completely. Thus, by discerning materiality alone, mentality alone, or whole groups of materiality and mentality, the task cannot be completed and path knowledge cannot be attained. Remember that the commentarial criticisms to that effect are based on similar instructions by the Buddha and the commentators.
+
+In accordance with that instruction in the great subcommentary, the practitioner should distinguish and know the following —
+
+1. All 28 kinds of materiality subject to clinging, including earth, water, fire and wind; and the characteristic, function, manifestation and proximate cause of each material phenomenon;
+
+2. Pleasant bodily feeling, painful bodily feeling, joy, displeasure and equanimous feeling; and the characteristic, function, manifestation and proximate cause of each kind of feeling;
+
+3. The varieties of perception, such as perception of visible objects, sounds, odours, tastes, tangible objects and mental objects; and the characteristic, function, manifestation and proximate cause of each variety of perception;
+
+4. All fifty mental factors included in the formations aggregate, such as contact, volition, one-pointedness, life faculty and attention; and…
+
+
+<a id="M08-body-P007"></a>
+## Those who understand the Dhamma swiftly and slowly
+Miến / Burmese 7
+
+… the characteristic, function, manifestation and proximate cause of each mental factor;
+
+5. The varieties of consciousness called eye-consciousness, ear-consciousness, nose-consciousness, tongue-consciousness, body-consciousness and mind-consciousness; and the characteristic, function, manifestation and proximate cause of each variety of consciousness must all be discerned and known clearly.
+
+The good learner who seeks the Buddha’s true Dhamma should give first place to that explanation and reminder in the great subcommentary, and commit it firmly to memory so that it can be recalled whenever needed.
+
+Ugghaṭitaññū — Vipañcitaññū
+
+A person who hears a brief Dhamma teaching connected with the Four Noble Truths and swiftly penetrates the Four Noble Truths upon hearing it is called an ugghaṭitaññū, one who understands upon a brief exposition. A person who hears an expanded Dhamma teaching connected with the Four Noble Truths and swiftly penetrates the Four Noble Truths upon hearing it is called a vipañcitaññū, one who understands upon a detailed exposition.
+
+On seeing such noble good persons who attained liberation through hearing the Dhamma, one should not ask, “Where did they find the time to discern materiality and mentality in detail? Where did they find the time to distinguish each material and mental phenomenon through characteristic, function, manifestation and proximate cause?” One should not ask or speak in that way. A few explanations will now be offered for good persons concerned with this matter.
+
+
+<a id="M08-body-P008"></a>
+## The four analytical knowledges
+Miến / Burmese 8
+
+Good persons such as Venerable Sāriputta, Venerable Mahāmoggallāna and Venerable Bāhiya Dārucīriya attained liberation through hearing the Dhamma. On reaching arahantship, they also attained the corresponding analytical knowledges.
+
+The four analytical knowledges (paṭisambhidāñāṇa)
+
+1. Analytical knowledge of meaning (atthapaṭisambhidāñāṇa) — knowledge that knows the truth of suffering, that is, knowledge that knows the result of a cause.
+
+2. Analytical knowledge of phenomena (dhammapaṭisambhidāñāṇa) — knowledge that knows the truth of the origin, the cause of the truth of suffering, that is, knowledge that knows the cause of a result.
+
+3. Analytical knowledge of language (niruttipaṭisambhidāñāṇa) — knowledge proficient in the wording and grammar of the Māgadha language, such as the expressions “phassa, vedanā”, for those truths of suffering and its origin.
+
+4. Analytical knowledge of perspicacity (paṭibhānapaṭisambhidāñāṇa) — knowledge that in turn knows the analytical knowledges of meaning, phenomena and language. (အဘိ၊ဋ္ဌ၊၂၀၇-၂၀၈။ ဝိသုဒ္ဓိ၊၂၊၆၀-၆၁။)
+
+Five conditions for attaining the analytical knowledges
+
+A trainee attains the analytical knowledges through five conditions.
+
+
+<a id="M08-body-P009"></a>
+## The five conditions of the analytical knowledges
+Miến / Burmese 9
+
+Tā imesu pañcasu ṭhānesu pāpuṇanti — adhigamena pariyattiyā savanena paripucchāya pubbayogena. Tattha adhigamo nāma arahattappatti; pariyatti nāma buddhavacanassa pariyāpuṇanaṃ; savanaṃ nāma sakkaccaṃ dhammassavanaṃ; paripucchā nāma pāḷiaṭṭhakathādīsu gaṇṭhipadaatthapadavinicchayakathā; pubbayogo nāma pubbabuddhānaṃ sāsane gatapaccāgatikabhāvena yāva anulomagotrabhusamīpaṃ tāva vipassanānuyogo. (ဝိသုဒ္ဓိ၊၂၊၆၂။)
+
+1. Adhigama — attaining the ultimate noble path and fruition, that is, the arahant path and fruition.
+
+2. Pariyatti — learning and reciting the Buddha’s teaching.
+
+3. Savana — listening to or receiving instruction in the commentarial meaning of that teaching.
+
+4. Paripucchā — asking about and discussing difficult passages and passages conveying meaning in the Canon, commentaries and so forth; including direct wording, direct meaning, and indicated meaning, meaning indirectly conveyed through words, or “chanda, adhippāya, bhāva, attha, dhātu, puggala” and so forth.
+
+5. Pubbayoga — in the dispensations of previous Buddhas, diligently developing insight while going and returning, up to the vicinity of conformity and change of lineage. In doing so, one should repeatedly contemplate the conditioned phenomena that form the object of insight knowledge, including the elements and the phenomena belonging to the formations aggregate.
+
+Through these five conditions, a trainee attains the analytical knowledges. Among these…
+
+
+<a id="M08-body-P010"></a>
+## Trainees and those beyond training
+Miến / Burmese 10
+
+1. Perfectly Self-Enlightened Buddhas;
+2. Paccekabuddhas —
+
+1. Through diligently developing insight up to knowledge of equanimity towards formations in the dispensations of previous Buddhas, while going and returning;
+2. Through attaining the arahant path and arahant fruition —
+
+Through these two conditions, they attain the analytical knowledges. Disciples attain the analytical knowledges through all five conditions given above. (ဝိသုဒ္ဓိ၊၂၊၆၂။)
+
+These analytical knowledges become available for exercise by trainees, beginning with the stream-enterer, at the lower stage of a trainee’s fruition; and by those beyond training, arahants, at the higher stage of arahant fruition. Through mastery in their exercise at those two stages, they become persons who have reached the capacity to use the analytical knowledges.
+
+For those arahants, both great disciples and ordinary disciples, the analytical knowledges become available for exercise at that stage beyond training. On attaining arahantship, they also attain all four analytical knowledges.
+
+
+<a id="M08-body-P011"></a>
+## The importance of previous practice
+Miến / Burmese 11
+
+Trainees such as Venerable Ānanda, the householder Citta, the laywoman Khujjuttarā, the lay follower Dhammika and the laywoman Cūḷasubhaddā reached the capacity to exercise the analytical knowledges through analytical knowledge of perspicacity at the trainee stage. (ဝိသုဒ္ဓိ၊၂၊၆၂။)
+
+When Venerable Ānanda and the others attained the stream-entry path and fruition, they also attained all four analytical knowledges. When the householder Citta and the laywoman Khujjuttarā attained the non-return path and fruition, they also attained all four analytical knowledges. The lay follower Dhammika and the laywoman Cūḷasubhaddā also attained the analytical knowledges on attaining the stream-entry path and fruition.
+
+Previous practice (pubbayoga) is important
+
+Tesu pana kāraṇesu pariyatti, savanaṃ, paripucchā pubbayogo cāti imāni cattāri kāraṇāni paṭisambhidānaṃ visadabhāvassa paccayā honti; na pana samudāgamassa. Adhigamo pana tesaṃ samudāgamassa paccayo. Pariyattisavanaparipucchā hi pubbe hontu vā mā vā, pubbayogena ca pana pubbe yāva anulomagotrabhusamīpaṃ vipassanaṃ vaḍḍhetvā āgatassa paṭisambhidā honti, na itarassa. (အဘိ၊ဋ္ဌ၊၂၂၃။)
+
+Among those five conditions —
+1. Pariyatti — learning and reciting the Buddha’s teaching;
+
+
+<a id="M08-body-P012"></a>
+## Conditions for the clarity of analytical knowledge
+Miến / Burmese 12
+
+2. Savana — hearing and receiving instruction in the commentarial meaning of that teaching;
+3. Paripucchā — asking about and discussing wording, direct meaning and indicated meaning in the Canon, commentaries and so forth —
+
+These three conditions are powerful conditions that make the analytical knowledges, already purified and capable of clearly understanding the Noble Truths, lucid and distinct. Adhigama, attaining the ultimate arahant path and fruition at the stage beyond training, is a powerful condition for the attainment of the analytical knowledges.
+
+Pubbayoga, diligently developing insight while going and returning in the dispensations of previous Buddhas up to knowledge of equanimity towards formations, is a powerful condition for attaining the ultimate arahant path and fruition at the stage beyond training, namely adhigama. This previous practice is a condition that makes the analytical knowledges distinct. Remember that it is spoken of as a condition indirectly. The meaning is that analytical knowledge belongs to the sense sphere. Analytical knowledge of meaning is knowledge-associated great wholesome consciousness or knowledge-associated great functional consciousness together with 33 mental factors. Analytical knowledge of phenomena likewise belongs to the sense sphere.
+
+
+<a id="M08-body-P013"></a>
+## Insight practice in previous lives
+Miến / Burmese 13
+
+Nevertheless, that previous practice is directly a powerful condition for supramundane path and fruition knowledge, adhigama, and is also a powerful condition for the analytical knowledges. Whether or not the three conditions of pariyatti, savana and paripucchā occurred previously, one who has previous practice in the dispensations of past Buddhas or in the present Buddha’s dispensation has known with insight the five aggregates called the truths of suffering and its origin through characteristic, function, manifestation and proximate cause, and has developed insight upon them up to knowledge of equanimity towards formations, near conformity and change of lineage. These two conditions, pubbayoga and adhigama, directly or indirectly, are also conditions that purify the analytical knowledges. (အဘိ၊ဋ္ဌ၊၂၂၃။)
+
+Bahussuto pana puthujjano paṭisambhidāppatto nāma natthi; ariyasāvako na paṭisambhidāppatto nāma natthi. (အဘိ၊ဋ္ဌ၊၂၂၃။)
+
+The meaning is that, even after learning much of the Buddha’s teaching, an ordinary person has not reached the analytical knowledges. Among noble disciples there is none who has not reached the analytical knowledges. (အဘိ၊ဋ္ဌ၊၂၂၃။)
+
+All noble good persons have distinguished the Four Noble Truths through right concentration and noble wisdom in accordance with reality, and have directly witnessed them for themselves, clearly and without delusion. Without such direct realization, the state of a noble person cannot be reached. (သံ၊၃၊၄၆။ ခု၊၁၊၂၄၆။)
+
+
+<a id="M08-body-P014"></a>
+## Analytical knowledge and the Four Noble Truths
+Miến / Burmese 14
+
+Among the Four Noble Truths, the five clinging aggregates that exist in the ultimate sense, classified in eleven ways as past, future, present, internal, external, gross, subtle, inferior, superior, far and near, are called the truth of suffering. “Saṅkhittena pañcupādānakkhandhā dukkhā.” (သံ၊၃၊၄၆။) Knowledge that knows that truth of suffering is analytical knowledge of meaning.
+
+Formations accumulated with ignorance, craving, clinging and so forth as conditions are called the truth of the origin. (အဘိ၊ဋ္ဌ၊၁၈၀။) Knowledge that knows that truth of the origin and knows that the truth of suffering arises conditioned by the truth of the origin, knowledge that knows the cause of suffering as its origin, is analytical knowledge of phenomena.
+
+Knowledge proficient in the Māgadha language, with its grammar and its nouns, verbs and so forth, such as contact, feeling, perception, volition and consciousness, used to designate those truths of suffering and its origin, is analytical knowledge of language.
+
+Knowledge that in turn knows those analytical knowledges of meaning, phenomena and language is analytical knowledge of perspicacity. (အဘိ၊ဋ္ဌ၊၂၀၇-၂၀၈။ ဝိသုဒ္ဓိ၊၂၊၆၀-၆၁။)
+
+In accordance with these explanations, noble good persons have reached the analytical knowledges in the appropriate way. There are also noble persons who have attained analytical knowledges of astonishing brilliance. One should understand that there are also noble good persons who know the Four Noble Truths in the ordinary way through noble path knowledge and then reach the analytical knowledges.
+
+
+<a id="M08-body-P015"></a>
+## Previous practice and the great disciples
+Miến / Burmese 15
+
+Previous practice itself is a powerful condition for adhigama, attainment of the ultimate arahant path and fruition. Without previous practice, the analytical knowledges cannot be reached. When there are both previous practice and adhigama, the analytical knowledges can be reached.
+
+The great disciples such as Venerable Sāriputta, Venerable Mahāmoggallāna and Venerable Bāhiya Dārucīriya attained the arahant path, arahant fruition and all four analytical knowledges simultaneously. They possessed the corresponding special conditions. Venerable Sāriputta had completed practice for one incalculable period and a hundred thousand great aeons in the dispensations of previous Buddhas; Venerable Bāhiya Dārucīriya had completed practice for a hundred thousand great aeons. Among those conditions, previous practice is an especially powerful condition for attaining the analytical knowledges. Both had made themselves persons with “no turning back” in the dispensations of previous Buddhas, had known formations belonging to both mentality and materiality to the point of distinguishing individual mind-moments, and had developed insight upon those formations through the three characteristics, up to knowledge of equanimity towards formations. To state it another way —
+
+1. The truth of suffering: the five clinging aggregates that exist in the ultimate sense, classified in eleven ways as past, future, present, internal, external, gross, subtle, inferior, superior, far and near…
+
+
+<a id="M08-body-P016"></a>
+## The preliminary practice of the noble ones
+Miến / Burmese 16
+
+… they had previously discerned them with knowledge and had known them. They had previously examined and investigated those phenomena with knowledge in terms of characteristic, function, manifestation and proximate cause.
+
+2. They had previously discerned and known with knowledge the cause-and-effect phenomena of dependent origination (paṭiccasamuppāda), called the truth of the origin of suffering (samudayasacca). They had previously examined and investigated those factors of dependent origination with knowledge in terms of characteristic, function, manifestation and proximate cause.
+
+3. They had previously examined and investigated with insight knowledge the formations called the truth of suffering and the truth of its origin, applying the three characteristics to them. They had personally penetrated, directly known and seen the impermanence, suffering and non-self of those formations with the right-view knowledge of insight. They had exerted themselves energetically until reaching knowledge of equanimity towards formations (saṅkhārupekkhāñāṇa), capable of equanimity and impartiality towards the impermanence, suffering and non-self of formations.
+
+These three points constitute the preliminary course of practice (pubbabhāgapaṭipadā) of those good persons. Therefore, although the two chief disciples in this life, before becoming stream-enterers, and the Venerable Bāhiya Dārucīriya, before reaching arahant fruition, had not yet had time to examine the formations called the truth of suffering and the truth of its origin in terms of characteristic, function, manifestation and proximate cause, they had previously examined and investigated those formations with knowledge by that method during the dispensations of earlier Buddhas…
+
+
+<a id="M08-body-P017"></a>
+## Encouragement to study and discern ultimate phenomena
+Miến / Burmese 17
+
+… they had investigated them in that way. That previous examination and investigation with knowledge itself became a strong decisive-support condition for penetrating, knowing and seeing the Four Noble Truths.
+
+A good person who is learning cannot compare themselves with great persons whose perfections were complete in that way. If one nevertheless insists on comparing oneself, those persons attained Nibbāna, path and fruition without first analysing mentality and materiality by characteristic, function, manifestation and proximate cause in this life. For anyone who wishes to say that they too can attain Nibbāna without such analysis, the following questions remain. Those persons became stream-enterers merely on hearing one verse of four lines, hearing a brief discourse, or reading a verse. If, merely on hearing or reading in that way, one cannot attain stream-entry fruition or the arahant path, one cannot yet place oneself on an equal footing with those great elders.
+
+The Buddha’s word is profound, subtle and difficult to see and know. The words of the commentators, who explained and revealed methods so that learners could understand the meaning of that teaching, are likewise profound, subtle and difficult to see and know. That teaching possesses certainty and truth, and contains right methods capable of fulfilling the aspirations of good and virtuous persons who thirst for the true Dhamma.
+
+❀ ❀ ❀
+
+
+<a id="M08-body-P018"></a>
+## The meanings of characteristic, function, manifestation and proximate cause
+Miến / Burmese 18
+
+1. Lakkhaṇādīsu hi tesaṃ tesaṃ dhammānaṃ sabhāvo vā sāmaññaṃ vā lakkhaṇaṃ nāma.
+2. Kiccaṃ vā sampatti vā raso nāma.
+3. Upaṭṭhānākāro vā phalaṃ vā paccupaṭṭhānaṃ nāma.
+4. Āsannakāraṇaṃ padaṭṭhānaṃ nāma. (အဘိဋ္ဌ၊၁၊၁၀၅)
+
+1. Characteristic (lakkhaṇa) — there are two kinds of characteristic, an individual characteristic (sabhāvalakkhaṇa) and a general characteristic (sāmaññalakkhaṇa). The three characteristics of impermanence, suffering and non-self are general characteristics because they apply to all formations. These general characteristics belong to the insight section. On reaching that section, the meditator must discern them personally with right-view knowledge so as to penetrate, directly know and see them.
+
+Ruppanaṭṭhena sītādivirodhipaccayasannipāte visadisuppatti. (မဟာဋီ၊၂၊၈၆)
+
+Through opposing conditions such as cold and heat, the subsequent material continuum changes and differs from the material continuum that arose before. That alteration into various dissimilar states is called the characteristic of being deformed (ruppanalakkhaṇa). It is a general characteristic applying to all material phenomena. Likewise, the inclination of mental phenomena towards their respective objects is the characteristic of bending towards an object (namanalakkhaṇa), a general characteristic applying to all mental phenomena. These two general characteristics — deformation in materiality and inclination towards an object in mentality — belong to the section on discerning mentality and materiality…
+
+
+<a id="M08-body-P019"></a>
+## Individual characteristic, function and manifestation
+Miến / Burmese 19
+
+… The meditator must discern them in that very section on mentality and materiality with right-view knowledge, so as personally to penetrate, directly know and see them.
+
+An individual characteristic (sabhāvalakkhaṇa) is the particular nature of each material or mental phenomenon, not shared with other phenomena. The meditator must discern those individual characteristics of the respective phenomena in the section on discerning mentality and materiality, with right-view knowledge, so as personally to penetrate, directly know and see them.
+
+2. Rasa — kiccaṃ vā sampatti vā raso nāma. (အဘိဋ္ဌ၊၁၊၁၀၅)
+
+Raso tasseva attano phalaṃ pati paccayabhāvo. (ဒီဋီ၊၂၊၅၃)
+
+Rasa is the performance of the particular work or beneficial role of a material or mental phenomenon. There are two kinds of rasa, the function consisting in the work performed (kiccarasa) by an ultimate phenomenon, and the accomplishment or result it achieves (sampattirasa). For some phenomena the active function is given, for others the accomplishment, and for others both are given. These meanings will become clearer below.
+
+3. Paccupaṭṭhāna — upaṭṭhānākāro vā phalaṃ vā paccupaṭṭhānaṃ nāma. (အဘိဋ္ဌ၊၁၊၁၀၅)
+
+Upaṭṭhānākāroti gahetabbabhāvena ñāṇassa upaṭṭhānākāro. Phalaṃ pana atthato kāraṇaṃ paṭicca tappaṭibimbabhāvena, paṭimukhaṃ vā upaṭṭhātīti paccupaṭṭhānaṃ. (မူလဋီ၊၁၊၆၄)
+
+
+<a id="M08-body-P020"></a>
+## Manifestation, proximate cause and a preliminary point
+Miến / Burmese 20
+
+Paccupaṭṭhānaṃ tassa paramatthato vijjamānattā yathāvato ñāṇassa gocarabhāvo. (ဒီဋီ၊၂၊၅၃)
+
+Paccupaṭṭhāna is the way a material or mental phenomenon becomes evident, as an ultimate phenomenon, in the knowledge of the meditator who discerns with right-view knowledge. There are two kinds, manifestation as the manner of appearing (upaṭṭhānākārapaccupaṭṭhāna) and manifestation as result (phalapaccupaṭṭhāna). The first is the nature of that ultimate phenomenon itself becoming evident to knowledge when discerned with knowledge. The second is the result, a phenomenon that arises dependent on its cause and resembles that cause in the appropriate respect, so that the causal phenomenon may be recognized through its result.
+
+4. Padaṭṭhāna — āsannakāraṇaṃ padaṭṭhānaṃ nāma. (အဘိဋ္ဌ၊၁၊၁၀၅)
+
+Padaṭṭhānaṃ āsannakāraṇaṃ, tenassa paccayāyattavuttitā dassitā. (ဒီဋီ၊၂၊၅၃)
+
+Among the causes that bring an ultimate phenomenon into being, the nearest cause is called its proximate cause (padaṭṭhāna). The word “cause” here denotes a phenomenon serving as a condition for that ultimate phenomenon to arise.
+
+A point to understand in advance
+
+In order to know material and mental phenomena according to their respective types, the meditator must first discern, identify and examine them with knowledge in terms of characteristic, function, manifestation and proximate cause…
+
+
+<a id="M08-body-P021"></a>
+## How to learn the four aspects
+Miến / Burmese 21
+
+… Material and mental phenomena can never exist singly, one phenomenon on its own. They exist only in small collections called material groups and mental groups. If one has already discerned and analysed the respective material and mental groups with knowledge, group by group, according to the types that can exist, and can discern as far as the ultimate level, then it is possible to discern the actual natures of characteristic, function, manifestation and proximate cause that are set out below in full, accurately and truthfully.
+
+In this section on the four aspects, Pāli is given for those who wish to memorize the Pāli. A concise Burmese rendering is provided for those who wish to memorize and learn in Burmese and cannot memorize the Pāli. When memorizing these characteristics, functions, manifestations and proximate causes, remember them in this order —
+
+1. Characteristic.
+2. Function.
+3. Manifestation.
+4. Proximate cause.
+
+There are many ways to translate these passages. Following the explanation of the venerable translator in the Visuddhimagga and related works, this rendering uses a concise form of expression to make memorization easy. For those skilled in Pāli, there are beneficial, profound and excellent renderings that bring out the meaning of the Dhamma and the force of the Pāli. Here, however, a concise Burmese rendering alone is provided to help those not skilled in Pāli memorize it easily.
+
+❀ ❀ ❀
+
+
+<a id="M08-body-P022"></a>
+## The twenty-eight material phenomena — the earth element
+Miến / Burmese 22
+
+The 28 material phenomena — the material-aggregate section
+
+1. The earth element (paṭhavīdhātu)
+
+1. Kakkhaḷattalakkhaṇā paṭhavīdhātu.
+2. Patiṭṭhānarasā.
+3. Sampaṭicchanapaccupaṭṭhānā.
+4. Avasesadhātuttayapadaṭṭhānā. (အဘိဋ္ဌ၊၁၊၃၆၈; ဝိသုဒ္ဓိ၊၁၊၃၆၂; ဝိသုဒ္ဓိ၊၂၊၇၃)
+
+1. The earth element
+
+1. Its characteristic is hardness, that is, firmness or rigidity.
+
+2. Its function is to act as the foundation or standing-place for the material phenomena in the same group.
+
+3. It manifests to the meditator’s knowledge as a phenomenon receiving and supporting the material phenomena in the same group from below.
+
+4. Its proximate cause is the other three elements in the same group.
+
+Note — The rendering above is a concise translation. Further explanation is still needed to understand it. To facilitate memorization, and so that the characteristics, functions and other aspects given later can also be remembered in this manner, an even shorter rendering is supplied again. Although it is written only in brief, learn its meaning according to the translation above.
+
+
+<a id="M08-body-P023"></a>
+## The earth and water elements
+Miến / Burmese 23
+
+Remember the actual meaning according to the translation above. Understand the characteristics, functions and other aspects given later in the same way.
+
+1. The earth element
+
+1. Hardness, that is, firmness or rigidity … characteristic.
+
+2. Providing a foundation for the material phenomena in the same group … active function.
+
+3. A phenomenon receiving and supporting the material phenomena in the same group from below … manifestation.
+
+4. The other three elements in the same group … proximate cause.
+
+2. The water element (āpodhātu)
+
+1. Āpodhātu paggharaṇalakkhaṇā.
+2. Brūhanarasā.
+3. Saṅgahapaccupaṭṭhānā.
+4. Avasesadhātuttayapadaṭṭhānā. (အဘိဋ္ဌ၊၁၊၃၆၈; ဝိသုဒ္ဓိ၊၁၊၃၆၂; ဝိသုဒ္ဓိ၊၂၊၇၃)
+
+2. The water element
+
+1. Cohesion … characteristic.
+
+2. Increasing the conascent material phenomena … active function.
+
+3. A phenomenon holding together the material phenomena in the same group … manifestation.
+
+4. The other three elements in the same group … proximate cause.
+
+
+<a id="M08-body-P024"></a>
+## The fire and air elements
+Miến / Burmese 24
+
+3. The fire element (tejodhātu)
+
+1. Tejodhātu uṇhattalakkhaṇā.
+2. Paripācanarasā.
+3. Maddavānuppadānapaccupaṭṭhānā.
+4. Avasesadhātuttayapadaṭṭhānā. (အဘိဋ္ဌ၊၁၊၃၆၈; ဝိသုဒ္ဓိ၊၁၊၃၆၂; ဝိသုဒ္ဓိ၊၂၊၇၃)
+
+3. The fire element
+
+1. Heat, or cold … characteristic.
+
+2. Maturing the material phenomena in the same group … active function.
+
+3. A phenomenon imparting softness to the material phenomena in the same group … manifestation.
+
+4. The other three elements in the same group … proximate cause.
+
+4. The air element (vāyodhātu)
+
+1. Vāyodhātu vitthambhanalakkhaṇā.
+2. Samudīraṇarasā.
+3. Abhinīhārapaccupaṭṭhānā.
+4. Avasesadhātuttayapadaṭṭhānā. (အဘိဋ္ဌ၊၁၊၃၆၈; ဝိသုဒ္ဓိ၊၁၊၃၆၂; ဝိသုဒ္ဓိ၊၂၊၇၃)
+
+4. The air element
+
+1. Supporting, that is, preventing collapse … characteristic.
+
+2. Pushing or moving … active function.
+
+3. A phenomenon conveying conascent material phenomena from their present place to another place … manifestation.
+
+4. The other three elements in the same group … proximate cause.
+
+
+<a id="M08-body-P025"></a>
+## Eye-sensitivity and ear-sensitivity
+Miến / Burmese 25
+
+5. Eye-sensitivity (cakkhupasāda)
+
+1. (a) Rūpābhighātārahabhūtappasādalakkhaṇaṃ.
+   (b) daṭṭhukāmatānidānakammasamuṭṭhānabhūtappasādalakkhaṇaṃ vā cakkhu.
+2. rūpesu āviñchanarasaṃ.
+3. cakkhuviññāṇassa ādhārabhāvapaccupaṭṭhānaṃ.
+4. daṭṭhukāmatānidānakammasamuṭṭhānabhūtapadaṭṭhānaṃ. (အဘိဋ္ဌ၊၁၊၃၄၉; ဝိသုဒ္ဓိ၊၂၊၇၄)
+
+1. (a) The sensitivity of the great elements capable of being struck by visible form, that is, capable of receiving the impact of visible form … characteristic.
+
+   (b) The sensitivity of the great elements born of kamma rooted in the desire to see visible form … characteristic.
+
+2. Drawing a person, or the cognitive-process continuum, towards visible form … active function.
+
+3. Being the support for eye-consciousness … manifestation.
+
+4. The great elements in the same material group, born of kamma rooted in the desire to see visible form, namely the great elements of the material group headed by the corresponding sensitivity … proximate cause.
+
+6. Ear-sensitivity (sotapasāda)
+
+1. (a) Saddābhighātārahabhūtappasādalakkhaṇaṃ.
+   (b) Sotukāmatānidānakammasamuṭṭhānabhūtappasādalakkhaṇaṃ vā sotaṃ.
+
+
+<a id="M08-body-P026"></a>
+## Ear-sensitivity and nose-sensitivity
+Miến / Burmese 26
+
+2. Saddesu āviñchanarasaṃ.
+3. Sotaviññāṇassa ādhārabhāvapaccupaṭṭhānaṃ.
+4. Sotukāmatānidānakammasamuṭṭhānabhūtapadaṭṭhānaṃ. (အဘိဋ္ဌ၊၁၊၃၄၉; ဝိသုဒ္ဓိ၊၂၊၇၄)
+
+1. (a) The sensitivity of the great elements capable of being struck by sound, that is, capable of receiving the impact of sound … characteristic.
+
+   (b) The sensitivity of the great elements born of kamma rooted in the desire to hear sound … characteristic.
+
+2. Drawing a cognitive process towards sound, that is, directing the process towards sound … active function.
+
+3. Being the support for ear-consciousness … manifestation.
+
+4. The great elements in the same material group, born of kamma rooted in the desire to hear sound, namely the great elements of the material group headed by the corresponding sensitivity … proximate cause.
+
+7. Nose-sensitivity (ghānapasāda)
+
+1. (a) Gandhābhighātārahabhūtappasādalakkhaṇaṃ.
+   (b) ghāyitukāmatānidānakammasamuṭṭhānabhūtappasādalakkhaṇaṃ vā ghānaṃ.
+2. gandhesu āviñchanarasaṃ.
+3. ghānaviññāṇassa ādhārabhāvapaccupaṭṭhānaṃ.
+4. ghāyitukāmatānidānakammasamuṭṭhānabhūtapadaṭṭhānaṃ. (အဘိဋ္ဌ၊၁၊၃၄၉; ဝိသုဒ္ဓိ၊၂၊၇၄)
+
+
+<a id="M08-body-P027"></a>
+## Nose-sensitivity and tongue-sensitivity
+Miến / Burmese 27
+
+1. (a) The sensitivity of the great elements capable of being struck by odour, that is, capable of receiving the impact of odour … characteristic.
+
+   (b) The sensitivity of the great elements born of kamma rooted in the desire to smell odour … characteristic.
+
+2. Drawing a cognitive process towards odour, that is, directing the process towards odour … active function.
+
+3. Being the support for nose-consciousness … manifestation.
+
+4. The great elements in the same material group, born of kamma rooted in the desire to smell odour, namely the great elements of the material group headed by the corresponding sensitivity … proximate cause.
+
+8. Tongue-sensitivity (jivhāpasāda)
+
+1. (a) Rasābhighātārahabhūtappasādalakkhaṇā.
+   (b) sāyitukāmatānidānakammasamuṭṭhānabhūtappasādalakkhaṇā vā jivhā.
+2. rasesu āviñchanarasaṃ.
+3. jivhāviññāṇassa ādhārabhāvapaccupaṭṭhānā.
+4. sāyitukāmatānidānakammasamuṭṭhānabhūtapadaṭṭhānā. (အဘိဋ္ဌ၊၁၊၃၄၉; ဝိသုဒ္ဓိ၊၂၊၇၄)
+
+1. (a) The sensitivity of the great elements capable of being struck by flavour, that is, capable of receiving the impact of flavour … characteristic.
+
+   (b) The sensitivity of the great elements born of kamma rooted in the desire to taste, eat and drink flavour … characteristic.
+
+
+<a id="M08-body-P028"></a>
+## Tongue-sensitivity and body-sensitivity
+Miến / Burmese 28
+
+2. Drawing a cognitive process towards flavour, that is, directing the process towards flavour … active function.
+
+3. Being the support for tongue-consciousness … manifestation.
+
+4. The great elements in the same material group, born of kamma rooted in the desire to taste, eat and drink flavour, namely the great elements of the material group headed by the corresponding sensitivity … proximate cause.
+
+9. Body-sensitivity (kāyapasāda)
+
+1. (a) Phoṭṭhabbābhighātārahabhūtappasādalakkhaṇo.
+   (b) phusitukāmatānidānakammasamuṭṭhānabhūtappasādalakkhaṇo vā kāyo.
+2. phoṭṭhabbesu āviñchanaraso.
+3. kāyaviññāṇassa ādhārabhāvapaccupaṭṭhāno.
+4. phusitukāmatānidānakammasamuṭṭhānabhūtapadaṭṭhāno. (အဘိဋ္ဌ၊၁၊၃၅၀; ဝိသုဒ္ဓိ၊၂၊၇၄)
+
+1. (a) The sensitivity of the great elements capable of being struck by tangible objects, that is, capable of receiving the impact of tangible objects … characteristic.
+
+   (b) The sensitivity of the great elements born of kamma rooted in the desire to touch tangible objects … characteristic.
+
+2. Drawing a cognitive process towards tangible objects, that is, directing the process towards tangible objects … active function.
+
+3. Being the support for body-consciousness … manifestation.
+
+
+<a id="M08-body-P029"></a>
+## Body-sensitivity, visible form and sound
+Miến / Burmese 29
+
+4. The great elements in the same material group, born of kamma rooted in the desire to touch tangible objects, namely the great elements of the group headed by body-sensitivity … proximate cause.
+
+10. Visible form (rūpaṃ)
+
+1. cakkhupaṭihananalakkhaṇaṃ rūpaṃ.
+2. cakkhuviññāṇassa visayabhāvarasaṃ.
+3. Tasseva gocarapaccupaṭṭhānaṃ.
+4. Catumahābhūtapadaṭṭhānaṃ. (အဘိဋ္ဌ၊၁၊၃၅၅; ဝိသုဒ္ဓိ၊၂၊၇၆)
+
+1. Striking, that is, impinging on eye-sensitivity … characteristic.
+
+2. (a). Being the object of eye-consciousness, that is, supporting it by object condition … active function.
+
+2. (b). Success in being the object supporting eye-consciousness, that is, successful fulfilment of the role of object condition … function as accomplishment.
+
+3. Being the object or range of eye-consciousness … manifestation.
+
+4. The four great elements in the same material group, the group headed by visible form … proximate cause.
+
+11. Sound (saddo)
+
+1. sotapaṭihananalakkhaṇo saddo.
+2. sotaviññāṇassa visayabhāvaraso.
+3. Tasseva gocarapaccupaṭṭhāno.
+4. Catumahābhūtapadaṭṭhāno. (အဘိဋ္ဌ၊၁၊၃၅၆; ဝိသုဒ္ဓိ၊၂၊၇၇)
+
+
+<a id="M08-body-P030"></a>
+## Sound and odour
+Miến / Burmese 30
+
+1. Striking, that is, impinging on ear-sensitivity … characteristic.
+
+2. (a). Being the object of ear-consciousness, that is, supporting it by object condition … active function.
+
+2. (b). Success in being the object supporting ear-consciousness, that is, successful fulfilment of the role of object condition … function as accomplishment.
+
+3. Being the object or range of ear-consciousness … manifestation.
+
+4. The four great elements in the same material group, the group headed by sound … proximate cause.
+
+12. Odour (gandho)
+
+1. ghānapaṭihananalakkhaṇo gandho.
+2. ghānaviññāṇassa visayabhāvaraso.
+3. Tasseva gocarapaccupaṭṭhāno.
+4. Catumahābhūtapadaṭṭhāno. (အဘိဋ္ဌ၊၁၊၃၅၆; ဝိသုဒ္ဓိ၊၂၊၇၇)
+
+1. Striking, that is, impinging on nose-sensitivity … characteristic.
+
+2. (a). Being the object of nose-consciousness, that is, supporting it by object condition … active function.
+
+2. (b). Success in being the object supporting nose-consciousness, that is, successful fulfilment of the role of object condition … function as accomplishment.
+
+3. Being the object or range of nose-consciousness … manifestation.
+
+4. The four great elements in the same material group, the group headed by odour … proximate cause.
+
+
+<a id="M08-body-P031"></a>
+## 13. Taste object; 14. Femininity faculty
+Miến / Burmese 31
+
+13. Rasa
+1. Jivhāpaṭihananalakkhaṇo raso.
+2. Jivhāviññāṇassa visayabhāvaraso.
+3. Tasseva gocarapaccupaṭṭhāno.
+4. Catumahābhūtapadaṭṭhāno. (Abhi-a I, 357; Visuddhi II, 77.)
+
+1. Striking, impinging on tongue-sensitivity — characteristic.
+
+2. (a) Being an object for tongue-consciousness, supporting it by the power of object condition — function as activity. (b) Possessing the power of object condition that supports tongue-consciousness, the quality called the power of object condition — function as accomplishment.
+
+3. Being the object, the domain of tongue-consciousness — manifestation.
+
+4. The four great essentials in the same group on which it, the taste object, depends — proximate cause.
+
+14. Itthindriya = itthibhāvarūpa
+1. Itthibhāvalakkhaṇaṃ itthindriyaṃ.
+2. “Itthī”ti pakāsanarasaṃ.
+3. Itthiliṅganimittakuttākappānaṃ kāraṇabhāvapaccupaṭṭhānaṃ.
+4. Catumahābhūtapadaṭṭhānaṃ. (Abhi-a I, 358; Visuddhi II, 77.)
+
+1. Itthi, the nature of being female — characteristic.
+2. Making evident “this person is female” — function as activity.
+3. (a) Itthiliṅga, female form; (b) itthinimitta, signs identifying a female…
+
+
+<a id="M08-body-P032"></a>
+## Femininity, masculinity and life faculties
+Miến / Burmese 32
+
+… (c) itthikutta, female behaviour; (d) itthiākappa, female deportment. Being the cause of these forms, signs, behaviour and deportment — manifestation.
+4. The kamma-born great essentials in the same group on which the femininity faculty depends — proximate cause.
+
+15. Purisindriya = purisabhāvarūpa
+1. Purisabhāvalakkhaṇaṃ purisindriyaṃ.
+2. “Puriso”ti pakāsanarasaṃ.
+3. Purisaliṅganimittakuttākappānaṃ kāraṇabhāvapaccupaṭṭhānaṃ.
+4. Catumahābhūtapadaṭṭhānaṃ. (Abhi-a I, 358; Visuddhi II, 77.)
+
+1. The nature of being male — characteristic.
+
+2. Making evident “this person is male” — function as activity.
+
+3. Being the cause of (a) purisaliṅga, male form, (b) purisanimitta, signs identifying a male, (c) purisakutta, male behaviour, and (d) purisaākappa, male deportment — manifestation.
+
+4. The kamma-born great essentials on which the masculinity faculty depends — proximate cause.
+
+16. Jīvitindriya = rūpajīvita
+1. Sahajātarūpānupālanalakkhaṇaṃ jīvitindriyaṃ.
+2. Tesaṃ pavattanarasaṃ.
+3. Tesaññeva ṭhapanapaccupaṭṭhānaṃ.
+4. Yāpayitabbabhūtapadaṭṭhānaṃ. (Abhi-a I, 359; Visuddhi II, 77.)
+
+1. Maintaining the conascent kamma-born material phenomena in the same group — characteristic.
+
+
+<a id="M08-body-P033"></a>
+## Life faculty, heart-base and nutriment
+Miến / Burmese 33
+
+2. Causing the kamma-born material phenomena in the same group to persist from arising to dissolution, sustaining them and prolonging their life — function as activity.
+3. Keeping the kamma-born material phenomena in the same group alive and in place until before dissolution — manifestation.
+4. The kamma-born great essentials in the same group which it must cause to persist, sustain and keep alive — proximate cause.
+
+17. Hadayavatthu
+1. Manodhātumanoviññāṇadhātūnaṃ nissayalakkhaṇaṃ hadayavatthu.
+2. Tāsaññeva dhātūnaṃ ādhāraṇarasaṃ.
+3. Ubbahanapaccupaṭṭhānaṃ.
+4. Catumahābhūtapadaṭṭhānaṃ. (Visuddhi II, 77.)
+
+1. Being the support for the mind-element and mind-consciousness-element — characteristic.
+
+2. Providing a resting place specifically for those two elements — function as activity.
+
+3. Bearing those two elements — manifestation.
+
+4. The kamma-born great essentials in the same group on which it, the heart-base, depends — proximate cause.
+
+18. Kabaḷīkāra āhāra
+1. Ojālakkhaṇo kabaḷīkāro āhāro.
+2. Rūpāharaṇaraso.
+3. Upatthambhanapaccupaṭṭhāno.
+4. Kabaḷaṃ katvā āharitabbavatthupadaṭṭhāno. (Abhi-a I, 368; Visuddhi II, 80.)
+
+
+<a id="M08-body-P034"></a>
+## Nutriment, space element and bodily intimation
+Miến / Burmese 34
+
+1. Nutritional essence, the nutritive substance of food that is eaten — characteristic.
+
+2. Bringing forth and sustaining nutriment-born materiality — function as activity.
+
+3. Supporting and strengthening the material body by producing nutriment-born materiality — manifestation.
+
+4. The food that is eaten — proximate cause.
+
+19. Ākāsadhātu
+1. Rūpaparicchedalakkhaṇā ākāsadhātu.
+2. Rūpapariyantappakāsanarasā.
+3. (a) Rūpamariyādapaccupaṭṭhānā. (b) Asamphuṭṭhabhāvacchiddavivarabhāvapaccupaṭṭhānā vā.
+4. Paricchinnarūpapadaṭṭhānā. (Abhi-a I, 362; Visuddhi II, 78.)
+
+1. Delimiting material groups — characteristic.
+
+2. Making evident the limits or boundaries of material groups — function as activity.
+
+3. (a) Being the boundary of material groups; (b) being untouched by the great essentials; (c) being a gap between material groups — manifestation.
+
+4. The material groups that are delimited — proximate cause.
+
+20. Kāyaviññatti
+1. Abhikkamādipavattakacittasamuṭṭhānavāyodhātuyā sahajarūpakāyatthambhanasandhāraṇacalanassa paccayo (vāyodhātuadhikānaṃ cittajamahābhūtānaṃ) ākāravikāro kāyaviññatti.
+
+
+<a id="M08-body-P035"></a>
+## Bodily and verbal intimation
+Miến / Burmese 35
+
+2. Adhippāyappakāsanarasā.
+3. Kāyavipphandanahetubhāvapaccupaṭṭhānā.
+4. Cittasamuṭṭhānavāyodhātupadaṭṭhānā. (Visuddhi II, 78.)
+
+1. The distinctive mode of the mind-born great essentials in which the natural power of the air element predominates, which causes the supporting, sustaining and moving of the material body conascent with the mind-born air element that produces stepping forward and so on — characteristic.
+
+2. Making another person aware of the inner wish or intention of the person moving — function as activity.
+
+3. Being the cause of bodily movement — manifestation.
+
+4. The mind-born air element — proximate cause.
+
+21. Vacīviññatti
+1. Vacībhedapavattakacittasamuṭṭhānapathavīdhātuyā upādiṇṇaghaṭṭanassa paccayo (pathavīdhātuadhikānaṃ cittajamahābhūtānaṃ) ākāravikāro vacīviññatti.
+2. Adhippāyappakāsanarasā.
+3. Vacīghosahetubhāvapaccupaṭṭhānā.
+4. Cittasamuṭṭhānapathavīdhātupadaṭṭhānā. (Visuddhi II, 78.)
+
+1. The distinctive mode of the mind-born great essentials in which the natural power of the earth element predominates, causing impact on the kamma-born earth element at the site of speech production and thereby producing articulate speech — characteristic.
+
+
+<a id="M08-body-P036"></a>
+## Verbal intimation and lightness of materiality
+Miến / Burmese 36
+
+2. Making another person aware of the inner wish or intention of the speaker — function as activity.
+3. Being the cause of the production of speech — manifestation.
+4. The mind-born earth element — proximate cause.
+
+22. Rūpassa lahutā
+1. Adandhatālakkhaṇā rūpassa lahutā.
+2. Rūpānaṃ garubhāvavinodanarasā.
+3. Lahuparivattitāpaccupaṭṭhānā.
+4. Lahurūpapadaṭṭhānā. (Abhi-a I, 362; Visuddhi II, 78.)
+
+1. (a) Absence of heaviness or sluggishness, lightness, in real mind-born materiality; (b) absence of heaviness or sluggishness, lightness, in real temperature-born materiality; (c) absence of heaviness or sluggishness, lightness, in real nutriment-born materiality — characteristic.
+
+2. Dispelling the heaviness of those material phenomena — function as activity.
+
+3. The nimble, light and swift transformation of those material phenomena — manifestation.
+
+4. Those light material phenomena — proximate cause.
+
+
+<a id="M08-body-P037"></a>
+## Malleability and wieldiness of materiality
+Miến / Burmese 37
+
+23. Rūpassa mudutā
+1. Atthaddhatālakkhaṇā rūpassa mudutā.
+2. Rūpānaṃ thaddhabhāvavinodanarasā.
+3. Sabbakiriyāsu avirodhitāpaccupaṭṭhānā.
+4. Mudurūpapadaṭṭhānā. (Abhi-a I, 362; Visuddhi II, 78.)
+
+1. (a) Absence of hardness or rigidity, malleability, in real mind-born materiality; (b) absence of hardness or rigidity, malleability, in real temperature-born materiality; (c) absence of hardness or rigidity, malleability, in real nutriment-born materiality — characteristic.
+
+2. Dispelling the hardness and rigidity of those material phenomena — function as activity.
+
+3. Not opposing any bodily activity — manifestation.
+
+4. Those malleable material phenomena — proximate cause.
+
+24. Rūpassa kammaññatā
+1. Sarīrakiriyānukūlakammaññabhāvalakkhaṇā rūpassa kammaññatā.
+2. Akammaññatāvinodanarasā.
+3. Adubbalabhāvapaccupaṭṭhānā.
+4. Kammaññarūpapadaṭṭhānā. (Abhi-a I, 362; Visuddhi II, 78–79.)
+
+1. (a) The real mind-born material phenomena; (b) the real temperature-born material phenomena…
+
+
+<a id="M08-body-P038"></a>
+## Wieldiness and the arising of materiality
+Miến / Burmese 38
+
+… (c) the real nutriment-born material phenomena: their fitness, adaptability, suitability and balance for bodily activities — characteristic.
+2. Dispelling unfitness for bodily activities due to disturbance of the air element — function as activity.
+3. The absence of weakness in those material phenomena — manifestation.
+4. Those material phenomena that are wieldy in such activities — proximate cause.
+
+25. Rūpassa upacaya
+1. Ācayalakkhaṇo rūpassa upacayo.
+2. Pubbantato rūpānaṃ ummujjāpanaraso.
+3. (a) Niyyātanapaccupaṭṭhāno. (b) Paripuṇṇabhāvapaccupaṭṭhāno vā.
+4. Upacitarūpapadaṭṭhāno. (Abhi-a I, 363–364; Visuddhi II, 79.)
+
+1. (a) The first arising of real materiality in a life; (b) its progressively increasing arising until the faculties are complete — characteristic.
+
+2. Causing material phenomena to emerge from the initial end, the future portion that has not yet arisen, as if bringing them forth from outside before their arising — function as activity.
+
+3. (a) As though presenting the material phenomena, saying “these are the material phenomena,” the nature of handing them over; (b) alternatively, the completeness of real materiality — manifestation.
+
+4. The material phenomena in the process of arising — proximate cause.
+
+
+<a id="M08-body-P039"></a>
+## Continuity and ageing of materiality
+Miến / Burmese 39
+
+26. Rūpassa santati
+1. Pavattalakkhaṇā rūpassa santati.
+2. Anuppabandhanarasā.
+3. Anupacchedapaccupaṭṭhānā.
+4. Anuppabandhakarūpapadaṭṭhānā. (Abhi-a I, 364; Visuddhi II, 79.)
+
+1. After the faculties are complete, real material phenomena arise successively and uninterruptedly, one after another — characteristic.
+
+2. Linking them successively in an uninterrupted sequence — function as activity.
+
+3. Unbroken close connection, uninterrupted occurrence — manifestation.
+
+4. The material phenomena which seem to be linked in an uninterrupted succession — proximate cause.
+
+27. Rūpassa jaratā
+1. Rūpaparipākalakkhaṇā rūpassa jaratā.
+2. Upanayanarasā.
+3. Sabhāvānapagamepi navabhāvāpagamapaccupaṭṭhānā, vīhipurāṇabhāvo viya.
+4. Paripaccamānarūpapadaṭṭhānā. (Abhi-a I, 365; Visuddhi II, 80.)
+
+1. The maturing and becoming old of real material phenomena — characteristic.
+2. Bringing them close to destruction, the dissolution submoment, death — function as activity.
+3. Although their respective specific characteristics have not yet disappeared, they have lost their newness, the phase called newly arisen…
+
+
+<a id="M08-body-P040"></a>
+## Ageing, impermanence and instructions for discerning materiality
+Miến / Burmese 40
+
+… — manifestation. Understand this as resembling the ageing of rice grains.
+4. Material phenomena that are maturing — proximate cause.
+
+28. Rūpassa aniccatā
+1. Paribhedalakkhaṇā rūpassa aniccatā.
+2. Saṃsīdanarasā.
+3. Khayavayapaccupaṭṭhānā.
+4. Paribhijjamānarūpapadaṭṭhānā. (Abhi-a I, 365; Visuddhi II, 80.)
+
+1. The complete breaking up of real material phenomena — characteristic.
+
+2. Making real material phenomena subside by destroying materiality that has reached its phase of presence — function as activity.
+
+3. The exhaustion and destruction of real material phenomena — manifestation.
+
+4. Material phenomena that are completely breaking up — proximate cause.
+
+Advice on the method of discernment and cultivation
+
+Let the good person who is learning first memorize thoroughly the characteristics, functions, manifestations and proximate causes of these 28 material phenomena. Only after thoroughly memorizing these aspects of all material phenomena should one begin discerning in this way, starting with the 54 material phenomena at the eye door. This discernment is the work of breaking up with knowledge the compactness of continuity, grouping and function, minutely analysing material phenomena as actual ultimate realities, elements and essences, until only ultimate realities are seen. Therefore, in each material group, beginning with the eye-decad…
+
+
+<a id="M08-body-P041"></a>
+## Analysing each ultimate material phenomenon in each material group
+Miến / Burmese 41
+
+… discern individually each ultimate element present in every group, such as earth, water, fire and air.
+
+For example, an eye-decad contains ten kinds of ultimate material phenomena. Select the earth element among them and discern its characteristic, function, manifestation and proximate cause. Next discern those aspects of the water element within that eye-decad. Likewise, minutely analyse and discern separately the characteristic, function, manifestation and proximate cause of each remaining material phenomenon, such as the fire element, in that eye-decad. Here “that same eye-decad” is spoken of according to the method of identity (ekatta), meaning eye-decads of the same kind. It does not mean that one single eye-decad lasts long enough to discern all ten phenomena within it by these four aspects. This is simply the method of identity applied to eye-decads of the same kind. Likewise, understand “earth element,” “water element” and so on by identity of earth elements of the same kind and water elements of the same kind. Understand the mental section similarly.
+
+After discerning each of the ten material phenomena in the eye-decad at the eye door by characteristic, function, manifestation and proximate cause, continue to discern all the corresponding material phenomena at the same eye door: the ten in a body-decad, the ten in a sex-decad, the eight in a mind-born octad, the eight in a temperature-born octad and the eight in a nutriment-born octad…
+
+
+<a id="M08-body-P042"></a>
+## Completing discernment of the material aggregate
+Miến / Burmese 42
+
+… continue to discern and cultivate by characteristic, function, manifestation and proximate cause.
+
+After discerning the 54 material phenomena at the eye door internally by characteristic, function, manifestation and proximate cause, continue to discern them externally in the same manner. Then, at the ear door and so on, in the 42 bodily parts, and in mind-born, temperature-born and nutriment-born materiality, discern exhaustively all real and non-real material phenomena as set out in the material meditation-subject section.
+
+In discerning the characteristic, function and other aspects of kamma-born materiality such as eye-sensitivity, some modes of discernment also require linking cause and effect with formative kamma cultivated in past lives, surrounded by ignorance, craving and clinging. Only good meditators who have already discerned dependent origination, the relations of cause and effect, can practise these modes. In consideration of such modes of discernment, this section on the four aspects beginning with characteristic has been placed in this book after the dependent-origination section.
+
+Another point to note is this: after discerning the earth element in an eye-decad, do not omit discerning the earth element in a body-decad at the same eye door. Since this is the work of breaking up material compactness with knowledge, discern so that compactness in the material groups is broken up. Discern all the types of material phenomena at each door and in each bodily part as set out in the material meditation-subject section, 54 at the eye door, 54 at the ear door, and so on.
+
+End of the material aggregate.
+❀ ❀ ❀
+
+
+<a id="M08-body-P043"></a>
+## The consciousness aggregate and rebirth-linking consciousness
+Miến / Burmese 43
+
+Chapter on the consciousness aggregate
+1. The consciousness aggregate
+
+Ārammaṇaṃ cintetīti cittaṃ, vijānātīti attho. (Abhi-a I, 106.)
+1. Vijānanalakkhaṇaṃ cittaṃ.
+2. Pubbaṅgamarasaṃ.
+3. Sandahanapaccupaṭṭhānaṃ.
+4. Nāmarūpapadaṭṭhānaṃ. (Abhi-a I, 155.)
+Nāmapadaṭṭhānaṃ. (For the immaterial realm.)
+
+1. Knowing an object, apprehending an object — characteristic.
+
+2. Being foremost and leading in knowing an object — function as activity.
+
+3. Connecting subsequent consciousnesses so that the mental continuum remains uninterrupted — manifestation.
+
+4. Mentality and materiality; in the immaterial realm, mentality — proximate cause.
+
+Vijānanaṃ ārammaṇassa upaladdhi. (Mūlaṭīkā I, 87.)
+
+2. Rebirth-linking consciousness
+
+1. Kamma-kammanimitta-gatinimittānaṃ aññatarārammaṇavijānanalakkhaṇaṃ paṭisandhicittaṃ.
+2. Paṭisandhānarasaṃ.
+3. Sandahanapaccupaṭṭhānaṃ.
+4. Nāmarūpapadaṭṭhānaṃ.
+
+1. Knowing, apprehending, one of the three kinds of object, kamma, a sign of kamma or a sign of destination, taken by the near-death impulsion of the past life…
+
+
+<a id="M08-body-P044"></a>
+## Rebirth-linking, life-continuum and five-door-adverting consciousness
+Miến / Burmese 44
+
+… — characteristic.
+2. Linking two lives, the mental continuum of the preceding life and that of the following life — function as activity.
+3. Linking two lives, the mental continuum of the preceding life and that of the following life — manifestation.
+4. The accompanying mental factors and the material base on which it depends — proximate cause.
+
+3. Bhavaṅgacitta
+1. Kamma-kammanimitta-gatinimittānaṃ aññatarārammaṇavijānanalakkhaṇaṃ bhavaṅgacittaṃ.
+2. Bhavaṅgarasaṃ.
+3. Sandahanapaccupaṭṭhānaṃ.
+4. Nāmarūpapadaṭṭhānaṃ.
+
+1. Knowing, apprehending, one of the three kinds of object, kamma, a sign of kamma or a sign of destination, taken by the near-death impulsion of the past life — characteristic.
+
+2. Remaining as a condition for existence so that the mental continuum proceeds without interruption, the life-continuum function — function as activity.
+
+3. Connecting the mental continuum so that preceding and following consciousnesses remain uninterrupted — manifestation.
+
+4. The accompanying mental factors and the material base on which it depends — proximate cause.
+
+4. Five-door adverting, functional mind-element
+
+1. Cakkhuviññāṇādipurecararūpādivijānanalakkhaṇā manodhātu.
+2. Āvajjanarasā.
+
+
+<a id="M08-body-P045"></a>
+## Five-door adverting and adverting to a visible object
+Miến / Burmese 45
+
+3. Rūpādiabhimukhabhāvapaccupaṭṭhānā.
+4. Bhavaṅgavicchedapadaṭṭhānā. (Sā upekkhāyuttāva hoti.) (Visuddhi II, 86.)
+
+1. Preceding eye-consciousness and so on and knowing, apprehending, objects such as visible objects — characteristic.
+
+2. Adverting, attending, to the five objects such as a visible object — function as activity. Alternatively, causing the mental continuum to occur in a mode other than its previous mode, making it relinquish its original old object — function as activity.
+
+3. Facing toward objects such as visible objects — manifestation.
+
+4. Interruption of the life-continuum, the cessation of life-continuum consciousness — proximate cause.
+
+The foregoing discernment of five-door adverting, the functional mind-element, presents collectively the five types of five-door adverting that take the five objects, beginning with a visible object. In actual discernment, because five-door adverting cannot know all five types of object simultaneously, discern separately each type of five-door adverting knowing one type of object. Thus the discernment of five-door adverting, adverting, that takes a visible object is as follows.
+
+Adverting, taking a visible object as its object.
+
+1. Cakkhuviññāṇapurecararūpavijānanalakkhaṇā manodhātu.
+2. Āvajjanarasā.
+3. Rūpābhimukhabhāvapaccupaṭṭhānā.
+4. Bhavaṅgavicchedapadaṭṭhānā.
+
+
+<a id="M08-body-P046"></a>
+## Adverting to the sense objects
+Miến / Burmese 46
+
+1. Characteristic — arising before eye-consciousness and cognizing, that is, apprehending visible form.
+
+2. Function — attending to or adverting to visible form. In other words, causing the stream of consciousness to leave the life-continuum object and arise with a different object from the preceding one.
+
+3. Manifestation — facing visible form.
+
+4. Proximate cause — the usual arrest of the life-continuum (bhavaṅgupaccheda), that is, the arrested life-continuum.
+
+Adverting — Taking sound as object
+
+1. sotaviññāṇapurecarasaddavijānanalakkhaṇā manodhātu.
+
+2. Āvajjanarasā.
+
+3. Saddabhimukhabhāvapaccupaṭṭhānā.
+
+4. Bhavaṅgavicchedapadaṭṭhānā.
+
+Adverting — Taking odour as object
+
+1. ghānaviññāṇapurecaragandhavijānanalakkhaṇā manodhātu.
+
+2. Āvajjanarasā.
+
+3. Gandhabhimukhabhāvapaccupaṭṭhānā.
+
+4. Bhavaṅgavicchedapadaṭṭhānā.
+
+Adverting — Taking taste as object
+
+1. jivhāviññāṇapurecararasavijānanalakkhaṇā manodhātu.
+
+2. Āvajjanarasā.
+
+
+<a id="M08-body-P047"></a>
+## Body-door adverting and eye-consciousness
+Miến / Burmese 47
+
+3. Rasābhimukhabhāvapaccupaṭṭhānā.
+
+4. Bhavaṅgavicchedapadaṭṭhānā.
+
+Adverting — Taking tangible object as object
+
+1. kāyaviññāṇapurecaraphoṭṭhabbavijānanalakkhaṇā manodhātu.
+
+2. Āvajjanarasā.
+
+3. Phoṭṭhabbabhimukhabhāvapaccupaṭṭhānā.
+
+4. Bhavaṅgavicchedapadaṭṭhānā.
+
+(The object called the tangible object is of three kinds, earth, fire and wind. Therefore discern it separately three times, once with the earth element as object, once with the fire element as object and once with the wind element as object. Understand the Burmese explanation following the treatment of five-door adverting at the eye door.)
+
+5. Eye-consciousness
+
+1. Cakkhusannissitarūpavijānanalakkhaṇaṃ cakkhuviññāṇaṃ.
+
+2. Rūpamattārammaṇarasaṃ.
+
+3. Rūpabhimukhabhāvapaccupaṭṭhānaṃ.
+
+4. Rūparammaṇāya kiriyamanodhātuyā apagamapadaṭṭhānaṃ. (အဘိ၊ဋ္ဌ၊၁၊၃၀၃။ ဝိသုဒ္ဓိ၊၂၊၈၅။)
+
+1. Characteristic — cognizing, that is, apprehending visible form, in dependence on the eye-base.
+
+2. Function — cognizing or taking only the colour as object.
+
+3. Manifestation — facing visible form.
+
+4. The functional mind-element taking visible form as object, namely the adverting consciousness…
+
+
+<a id="M08-body-P048"></a>
+## Ear-consciousness and nose-consciousness
+Miến / Burmese 48
+
+… that is, five-door adverting consciousness, is absent, meaning it has ceased — proximate cause.
+
+6. Ear-consciousness
+
+1. Sotasannissitasaddavijānanalakkhaṇaṃ sotaviññāṇaṃ.
+
+2. Saddamattārammaṇarasaṃ.
+
+3. Saddabhimukhabhāvapaccupaṭṭhānaṃ.
+
+4. Saddarammaṇāya kiriyamanodhātuyā apagamapadaṭṭhānaṃ. (အဘိ၊ဋ္ဌ၊၁၊၃၀၃။ ဝိသုဒ္ဓိ၊၂၊၈၅။)
+
+1. Characteristic — cognizing, that is, apprehending sound, in dependence on the ear-base.
+
+2. Function — cognizing or taking only the sound as object.
+
+3. Manifestation — facing sound.
+
+4. Proximate cause — the absence, that is, the cessation, of the functional mind-element adverting to sound, namely five-door adverting consciousness.
+
+7. Nose-consciousness
+
+1. Ghānasannissitagandhavijānanalakkhaṇaṃ ghānaviññāṇaṃ.
+
+2. Gandhamattārammaṇarasaṃ.
+
+3. Gandhabhimukhabhāvapaccupaṭṭhānaṃ.
+
+4. Gandharammaṇāya kiriyamanodhātuyā apagamapadaṭṭhānaṃ. (အဘိ၊ဋ္ဌ၊၁၊၃၀၃။ ဝိသုဒ္ဓိ၊၂၊၈၅။)
+
+1. Characteristic — cognizing, that is, apprehending odour, in dependence on the nose-base.
+
+2. Function — cognizing or taking only the odour as object.
+
+
+<a id="M08-body-P049"></a>
+## Nose-, tongue- and body-consciousness
+Miến / Burmese 49
+
+3. Manifestation — facing odour.
+
+4. Proximate cause — the absence, that is, the cessation, of the functional mind-element adverting to odour, namely five-door adverting consciousness.
+
+8. Tongue-consciousness
+
+1. Jivhāsannissitarasavijānanalakkhaṇaṃ jivhāviññāṇaṃ.
+
+2. Rasamattārammaṇarasaṃ.
+
+3. Rasabhimukhabhāvapaccupaṭṭhānaṃ.
+
+4. Rasarammaṇāya kiriyamanodhātuyā apagamapadaṭṭhānaṃ. (အဘိ၊ဋ္ဌ၊၁၊၃၀၃။ ဝိသုဒ္ဓိ၊၂၊၈၅။)
+
+1. Characteristic — cognizing, that is, apprehending taste, in dependence on the tongue-base.
+
+2. Function — cognizing or taking only the taste as object.
+
+3. Manifestation — facing taste.
+
+4. Proximate cause — the absence, that is, the cessation, of the functional mind-element adverting to taste, namely five-door adverting consciousness.
+
+9. Body-consciousness
+
+1. Kāyasannissitaphoṭṭhabbavijānanalakkhaṇaṃ kāyaviññāṇaṃ.
+
+2. Phoṭṭhabbamattārammaṇarasaṃ.
+
+3. Phoṭṭhabbabhimukhabhāvapaccupaṭṭhānaṃ.
+
+4. Phoṭṭhabbarammaṇāya kiriyamanodhātuyā apagamapadaṭṭhānaṃ. (အဘိ၊ဋ္ဌ၊၁၊၃၀၃။ ဝိသုဒ္ဓိ၊၂၊၈၅။)
+
+
+<a id="M08-body-P050"></a>
+## Body-consciousness and receiving consciousness
+Miến / Burmese 50
+
+1. Characteristic — cognizing, that is, apprehending tangible object, in dependence on the body-base.
+
+2. Function — cognizing or taking only the touch as object.
+
+3. Manifestation — facing tangible object.
+
+4. Proximate cause — the absence, that is, the cessation, of the functional mind-element adverting to tangible object, namely five-door adverting consciousness.
+
+10. Receiving (sampaṭicchana), that is, resultant mind-element
+
+1. Cakkhuviññāṇādīnaṃ anantaraṃ rūpādivijānanalakkhaṇā manodhātu.
+
+2. Rūpādisampaṭicchanarasā (= rūpādisampaṭicchanarasā).
+
+3. Tathābhāvapaccupaṭṭhānā (= rūpādisampaṭicchanabhāvapaccupaṭṭhānā).
+
+4. Cakkhuviññāṇādiapagamapadaṭṭhānā. (အဘိ၊ဋ္ဌ၊၁၊၃၀၄။ ဝိသုဒ္ဓိ၊၂၊၈၅။)
+
+1. Characteristic — arising immediately after eye-consciousness and so forth and cognizing, that is, apprehending, visible form and so forth.
+
+2. Function — receiving visible form and the other objects.
+
+3. Manifestation — the state of receiving visible form and the other objects.
+
+4. Proximate cause — the absence, that is, the cessation, of eye-consciousness and the other sense consciousnesses.
+
+[Note — The characteristics, functions and so forth above are stated collectively for five objects. Receiving consciousness does not know all five kinds of objects together in a single mind-moment. Therefore the practitioner wishing to discern characteristic, function and so forth should distinguish according to each object…
+
+
+<a id="M08-body-P051"></a>
+## Receiving visible form, sound and odour
+Miến / Burmese 51
+
+… and discern separately. Divide them into five kinds, such as consciousness receiving visible form and consciousness receiving sound, and so forth.]
+
+Receiving consciousness taking visible form at the eye door
+
+1. Cakkhuviññāṇassa anantaraṃ rūparammaṇavijānanalakkhaṇā manodhātu.
+
+2. Rūparammaṇasampaṭicchanarasā.
+
+3. Rūparammaṇasampaṭicchanabhāvapaccupaṭṭhānā.
+
+4. Cakkhuviññāṇāpagamapadaṭṭhānā.
+
+1. Characteristic — arising immediately after eye-consciousness and cognizing, that is, apprehending, visible form.
+
+2. Function — receiving visible form.
+
+3. Manifestation — the state of receiving visible form.
+
+4. Proximate cause — the absence, that is, the cessation, of eye-consciousness.
+
+Receiving consciousness taking sound at the ear door
+
+1. Sotaviññāṇassa anantaraṃ saddarammaṇavijānanalakkhaṇā manodhātu.
+
+2. Saddarammaṇasampaṭicchanarasā.
+
+3. Saddarammaṇasampaṭicchanabhāvapaccupaṭṭhānā.
+
+4. Sotaviññāṇāpagamapadaṭṭhānā.
+
+Receiving consciousness taking odour at the nose door
+
+1. Ghānaviññāṇassa anantaraṃ gandharammaṇavijānanalakkhaṇā manodhātu.
+
+2. Gandharammaṇasampaṭicchanarasā.
+
+3. Gandharammaṇasampaṭicchanabhāvapaccupaṭṭhānā.
+
+4. Ghānaviññāṇāpagamapadaṭṭhānā.
+
+
+<a id="M08-body-P052"></a>
+## Receiving taste and tangible objects, and investigating
+Miến / Burmese 52
+
+Receiving consciousness taking taste at the tongue door
+
+1. Jivhāviññāṇassa anantaraṃ rasarammaṇavijānanalakkhaṇā manodhātu.
+
+2. Rasarammaṇasampaṭicchanarasā.
+
+3. Rasarammaṇasampaṭicchanabhāvapaccupaṭṭhānā.
+
+4. Jivhāviññāṇāpagamapadaṭṭhānā.
+
+Receiving consciousness taking tangible object at the body door
+
+1. Kāyaviññāṇassa anantaraṃ phoṭṭhabbarammaṇavijānanalakkhaṇā manodhātu.
+
+2. Phoṭṭhabbarammaṇasampaṭicchanarasā.
+
+3. Phoṭṭhabbarammaṇasampaṭicchanabhāvapaccupaṭṭhānā.
+
+4. Kāyaviññāṇāpagamapadaṭṭhānā.
+
+[Note — Here too discern three times separately: once with the earth element as object, once with the fire element as object and once with the wind element as object.]
+
+11. Investigating (santīraṇa), that is, rootless resultant mind-consciousness element
+
+1. Ahetukavipākā sabbārammaṇavijānanalakkhaṇā duvidhāpi santīraṇādikiccā manoviññāṇadhātu.
+
+2. Santīraṇādirasā.
+
+3. Tathābhāvapaccupaṭṭhānā.
+
+4. Hadayavatthupadaṭṭhānā. (အဘိ၊ဋ္ဌ၊၁၊၃၀၅။ ဝိသုဒ္ဓိ၊၂၊၈၅။)
+
+The rootless resultant mind-consciousness element, twofold according to joy and equanimity, performs investigating and other functions —
+
+
+<a id="M08-body-P053"></a>
+## The functions of investigating consciousness
+Miến / Burmese 53
+
+1. Characteristic — cognizing, that is, apprehending, the six objects.
+
+2. Function — investigating the object and so forth.
+
+3. Manifestation — the state of investigating the object and so forth.
+
+4. Proximate cause — the material heart-base on which it depends.
+
+[Note — This consciousness is divided according to joy and equanimity. The equanimous kind is further divided into rootless wholesome result and unwholesome result. Equanimous rootless wholesome-resultant investigating consciousness in happy sense-sphere destinations and equanimous unwholesome-resultant investigating consciousness in states of deprivation also perform rebirth-linking, life-continuum and death. All three kinds of investigating consciousness sometimes perform registration in addition to investigating, taking the six objects as appropriate. When performing investigating, they take the five objects of visible form, sound, odour, taste and touch. When performing registration, they take any of the six kinds of objects as appropriate. In actual discernment one must distinguish each object separately, since all six kinds cannot be apprehended simultaneously. Similarly, a single consciousness cannot perform investigating, registration and so on within the same mind-moment, so these functions must also be discerned separately. Therefore the investigating function will now be presented again for each of the five objects.]
+
+Rootless resultant mind-consciousness element investigating visible form
+
+1. Rūparammaṇavijānanalakkhaṇā.
+
+2. Santīraṇarasā.
+
+3. Santīraṇabhāvapaccupaṭṭhānā.
+
+4. Hadayavatthupadaṭṭhānā.
+
+The rootless resultant mind-consciousness element performing investigating —
+
+
+<a id="M08-body-P054"></a>
+## Investigating individual sense objects
+Miến / Burmese 54
+
+1. Characteristic — cognizing, that is, apprehending, visible form.
+
+2. Function — investigating and examining visible form.
+
+3. Manifestation — the state of investigating and examining visible form.
+
+4. Proximate cause — the heart-base in dependence on which that consciousness arises.
+
+Rootless resultant mind-consciousness element investigating sound
+
+1. Saddarammaṇavijānanalakkhaṇā.
+
+2. Santīraṇarasā.
+
+3. Santīraṇabhāvapaccupaṭṭhānā.
+
+4. Hadayavatthupadaṭṭhānā.
+
+Rootless resultant mind-consciousness element investigating odour
+
+1. Gandharammaṇavijānanalakkhaṇā.
+
+2. Santīraṇarasā.
+
+3. Santīraṇabhāvapaccupaṭṭhānā.
+
+4. Hadayavatthupadaṭṭhānā.
+
+Rootless resultant mind-consciousness element investigating taste
+
+1. Rasarammaṇavijānanalakkhaṇā.
+
+2. Santīraṇarasā.
+
+3. Santīraṇabhāvapaccupaṭṭhānā.
+
+4. Hadayavatthupadaṭṭhānā.
+
+Rootless resultant mind-consciousness element investigating tangible object
+
+1. Phoṭṭhabbarammaṇavijānanalakkhaṇā.
+
+2. Santīraṇarasā.
+
+3. Santīraṇabhāvapaccupaṭṭhānā.
+
+4. Hadayavatthupadaṭṭhānā.
+
+
+<a id="M08-body-P055"></a>
+## Determining and mind-door adverting consciousness
+Miến / Burmese 55
+
+12. Determining (voṭṭhabbana), that is, the common functional mind-consciousness element
+
+1. Upekkhāsahagatāhetukakiriyā manoviññāṇadhātu sabbārammaṇavijānanalakkhaṇā.
+
+2. Kiccavasena pañcadvāramanodvāresu voṭṭhabbanāvajjanarasā.
+
+3. Tathābhāvapaccupaṭṭhānā.
+
+4. Ahetukavipākamanoviññāṇadhātubhavaṅgānaṃ aññatarāpagamapadaṭṭhānā. (ဝိသုဒ္ဓိ၊၂၊၈၇။)
+
+The equanimous rootless functional mind-consciousness element —
+
+1. Characteristic — cognizing, that is, apprehending, the six objects.
+
+2. Function — determining the object at the five doors; adverting to the object at the mind door.
+
+3. Manifestation — the state of determining the object at the five doors and adverting to the object at the mind door.
+
+4. Proximate cause — at the five doors, the cessation of the rootless resultant mind-consciousness element, namely investigating consciousness; at the mind door, the cessation of the life-continuum.
+
+[Note — Mind-door adverting consciousness, the equanimous rootless functional mind-consciousness element, performs determining (voṭṭhabbana) at the five doors and adverting at the mind door. The commentary presents both functions together. In actual discernment, one should discern them separately. Therefore determining will be presented separately here. There are five kinds of objects at the five doors and this consciousness takes each kind individually, so determining taking visible form as object will be presented first.]
+
+
+<a id="M08-body-P056"></a>
+## Determining consciousness at the eye and ear doors
+Miến / Burmese 56
+
+Eye-door consciousness — determining
+
+1. Upekkhāsahagatāhetukakiriyā manoviññāṇadhātu rūparammaṇavijānanalakkhaṇā.
+
+2. Voṭṭhabbanarasā.
+
+3. Tathābhāvapaccupaṭṭhānā (= voṭṭhabbanabhāvapaccupaṭṭhānā).
+
+4. Ahetukavipākamanoviññāṇadhātūnaṃ aññatarāpagamapadaṭṭhānā.
+
+(ဝိသုဒ္ဓိ၊၂၊၈၇။)
+
+The equanimous rootless functional mind-consciousness element, namely determining consciousness —
+
+1. Characteristic — cognizing, that is, apprehending, visible form.
+
+2. Function — determining visible form, for example as wholesome or unwholesome.
+
+3. Manifestation — the state of determining the very object taken by investigating consciousness, for example as wholesome or unwholesome.
+
+4. Proximate cause — the absence, that is, the cessation, of one of the three investigating consciousnesses belonging to rootless resultant mind-consciousness element.
+
+Ear-door consciousness — determining
+
+1. Upekkhāsahagatāhetukakiriyā manoviññāṇadhātu saddarammaṇavijānanalakkhaṇā.
+
+2. Voṭṭhabbanarasā.
+
+3. Tathābhāvapaccupaṭṭhānā.
+
+4. Ahetukavipākamanoviññāṇadhātūnaṃ aññatarāpagamapadaṭṭhānā.
+
+(ဝိသုဒ္ဓိ၊၂၊၈၇။)
+
+
+<a id="M08-body-P057"></a>
+## Determining consciousness at the nose, tongue and body doors
+Miến / Burmese 57
+
+Nose-door consciousness — determining
+
+1. Upekkhāsahagatāhetukakiriyā manoviññāṇadhātu gandharammaṇavijānanalakkhaṇā.
+
+2. Voṭṭhabbanarasā.
+
+3. Tathābhāvapaccupaṭṭhānā.
+
+4. Ahetukavipākamanoviññāṇadhātūnaṃ aññatarāpagamapadaṭṭhānā.
+
+(ဝိသုဒ္ဓိ၊၂၊၈၇။)
+
+Tongue-door consciousness — determining
+
+1. Upekkhāsahagatāhetukakiriyā manoviññāṇadhātu rasarammaṇavijānanalakkhaṇā.
+
+2. Voṭṭhabbanarasā.
+
+3. Tathābhāvapaccupaṭṭhānā.
+
+4. Ahetukavipākamanoviññāṇadhātūnaṃ aññatarāpagamapadaṭṭhānā.
+
+(ဝိသုဒ္ဓိ၊၂၊၈၇။)
+
+Body-door consciousness — determining
+
+1. Upekkhāsahagatāhetukakiriyā manoviññāṇadhātu phoṭṭhabbarammaṇavijānanalakkhaṇā.
+
+2. Voṭṭhabbanarasā.
+
+3. Tathābhāvapaccupaṭṭhānā.
+
+4. Ahetukavipākamanoviññāṇadhātūnaṃ aññatarāpagamapadaṭṭhānā.
+
+(ဝိသုဒ္ဓိ၊၂၊၈၇။)
+
+Mind-door consciousness — mind-door adverting
+
+How to discern characteristic, function and so forth of this mind-door adverting consciousness will be presented in the section on the mind door.
+
+
+<a id="M08-body-P058"></a>
+## Wholesome impulsion
+Miến / Burmese 58
+
+13. Impulsion — wholesome impulsion
+
+1. Anavajjasukhavipākalakkhaṇaṃ kusalaṃ.
+
+2. Akusalaviddhaṃsanarasaṃ.
+
+3. Vodānapaccupaṭṭhānaṃ.
+
+4. Yonisomanasikārapadaṭṭhānaṃ. (အဘိ၊ဋ္ဌ၊၁၊၁၀၅။)
+
+1. Characteristic — blamelessness and yielding pleasant result.
+
+2. Function — destroying the unwholesome.
+
+3. Manifestation in the sense of mode of appearance — purity.
+
+4. Proximate cause — wise attention (yoniso manasikāra), that is, attending to the object in the proper way.
+
+1. Avajjapaṭipakkhattā vā anavajjalakkhaṇameva kusalaṃ.
+
+2. Vodānabhāvarasaṃ.
+
+3. Iṭṭhavipākapaccupaṭṭhānaṃ.
+
+4. Yonisomanasikārapadaṭṭhānaṃ. (အဘိ၊ဋ္ဌ၊၁၊၁၀၅။)
+
+Alternatively, because the wholesome is opposed to the blameworthy unwholesome —
+
+1. Characteristic — solely the nature of blamelessness.
+
+2. Function in the sense of accomplishment — purity.
+
+3. Manifestation in the sense of result — having a desirable, good result.
+
+4. Proximate cause — wise attention (yoniso manasikāra), that is, attending to the object in the proper way.
+
+
+<a id="M08-body-P059"></a>
+## Unwholesome impulsion
+Miến / Burmese 59
+
+13. Impulsion — unwholesome impulsion
+
+1. Sāvajjadukkhavipākalakkhaṇaṃ akusalaṃ.
+
+2. Anatthajananarasaṃ.
+
+3. Saṃkilesapaccupaṭṭhānaṃ.
+
+4. Ayonisomanasikārapadaṭṭhānaṃ. (အနုဋီ၊၁၊၁၂၆။)
+
+1. Characteristic — blameworthiness and yielding bad result.
+
+2. Function — generating harm, that is, causing bad result.
+
+3. Manifestation in the sense of mode of appearance — the nature of defiling the stream of consciousness.
+
+4. Proximate cause — unwise attention (ayoniso manasikāra), that is, attending to the object in the wrong way.
+
+1. Gārayhabhāvato vā sāvajjalakkhaṇaṃ.
+
+2. Saṃkilesabhāvarasaṃ.
+
+3. Aniṭṭhavipākapaccupaṭṭhānaṃ.
+
+4. Ayonisomanasikārapadaṭṭhānaṃ. (အနုဋီ၊၁၊၁၂၆။)
+
+Alternatively, because unwholesome phenomena are deserving of censure —
+
+1. Characteristic — the nature of blameworthiness.
+
+2. Function in the sense of accomplishment — the blameworthy accomplishment of defiling the stream of consciousness.
+
+3. Manifestation in the sense of result — having bad, undesirable result.
+
+4. Proximate cause — unwise attention (ayoniso manasikāra), that is, attending to the object in the wrong way.
+
+
+<a id="M08-body-P060"></a>
+## Wise and unwise attention, and registration
+Miến / Burmese 60
+
+[Note — Determining the object as permanent, pleasant, self, beautiful and so forth is called unwise attention. Determining the object as impermanent, suffering, not-self, unattractive and so forth is called wise attention. Unwise attention is the proximate cause of unwholesome phenomena. Wise attention is the proximate cause of wholesome phenomena. In terms of ultimate phenomena, in the five-door process this refers to the twelve mental phenomena of determining, and in the mind-door process to the twelve mental phenomena of mind-door adverting.]
+
+14. Registration (tadārammaṇa)
+
+1. Sabbārammaṇavijānanalakkhaṇaṃ tadārammaṇaṃ.
+
+2. Tadārammaṇarasaṃ.
+
+3. Tathābhāvapaccupaṭṭhānaṃ.
+
+4. Javanāpagamapadaṭṭhānaṃ.
+
+[Note — Here the six kinds of registration taking the six objects have been presented together. In actual discernment, each object must be discerned separately. To enable practical discernment, the six kinds of registration taking each object individually will be presented again.]
+
+Registration in an eye-door process
+
+1. Rūpārammaṇavijānanalakkhaṇaṃ tadārammaṇaṃ.
+
+2. Tadārammaṇarasaṃ.
+
+3. Tathābhāvapaccupaṭṭhānaṃ (= tadārammaṇabhāvapaccupaṭṭhānaṃ).
+
+4. Javanāpagamapadaṭṭhānaṃ.
+
+
+<a id="M08-body-P061"></a>
+## Registration and mind-door adverting
+Miến / Burmese 61
+
+1. Knowing, that is, apprehending visible form — characteristic.
+
+2. Following the impulsion and taking the very object it took — active function.
+
+3. Following the impulsion and taking the very object it took — manifestation.
+
+4. The cessation of the impulsion consciousness — proximate cause.
+
+Registration in the ear-door process and the other processes
+
+1. Saddārammaṇavijānanalakkhaṇaṃ. Pe.
+   Gandhārammaṇavijānanalakkhaṇaṃ. Pe.
+   Rasārammaṇavijānanalakkhaṇaṃ. Pe.
+   Phoṭṭhabbārammaṇavijānanalakkhaṇaṃ. Pe.
+   Dhammārammaṇavijānanalakkhaṇaṃ tadārammaṇaṃ.
+
+2. Tadārammaṇarasaṃ.
+3. Tathābhāvapaccupaṭṭhānaṃ (= tadārammaṇabhāvapaccupaṭṭhānaṃ).
+4. Javanāpagamapadaṭṭhānaṃ.
+
+15. Mind-door adverting (manodvārāvajjana), in the mind-door process
+
+1. Upekkhāsahagatāhetukakiriyā manoviññāṇadhātu chārammaṇavijānanalakkhaṇā.
+
+2. Manodvāre āvajjanarasā.
+3. Tathābhāvapaccupaṭṭhānā (= āvajjanabhāvapaccupaṭṭhānā).
+4. Bhavaṅgāpagamapadaṭṭhānā. (Visuddhi II, 87.)
+
+The rootless functional mind-consciousness element accompanied by equanimity, that is, mind-door adverting —
+
+
+<a id="M08-body-P062"></a>
+## Mind-door adverting to the six objects and to visible form
+Miến / Burmese 62
+
+1. Knowing, that is, apprehending the six objects — characteristic.
+
+2. Adverting to the object that appears at the mind door — active function.
+
+3. The nature of adverting to the object appearing at the mind door — manifestation.
+
+4. The stopping, that is, cessation, of the life-continuum stream — proximate cause.
+
+[Note — A single mind-door adverting consciousness cannot take all six objects simultaneously. They must therefore be discerned separately by type. For this reason the six object types are presented again separately below.]
+
+Mind-door adverting that takes visible form as object
+
+Upekkhāsahagatāhetukakiriyā manoviññāṇadhātu —
+
+1. Rūpārammaṇavijānanalakkhaṇā.
+
+2. Manodvāre āvajjanarasā.
+3. Tathābhāvapaccupaṭṭhānā (= āvajjanabhāvapaccupaṭṭhānā).
+4. Bhavaṅgāpagamapadaṭṭhānā. (Visuddhi II, 87.)
+
+The rootless functional mind-consciousness element accompanied by equanimity, that is, mind-door adverting —
+
+1. Knowing, that is, apprehending visible form — characteristic.
+
+2. Adverting to visible form appearing at the mind door — active function.
+
+3. The nature of adverting to visible form appearing at the mind door — manifestation.
+
+4. The stopping, that is, cessation, of the life-continuum stream (bhavaṅgupaccheda) — proximate cause.
+
+
+<a id="M08-body-P063"></a>
+## Mind-door adverting to other objects and smile-producing consciousness
+Miến / Burmese 63
+
+Mind-door adverting that takes sound and the other objects as its object
+
+Upekkhāsahagatāhetukakiriyā manoviññāṇadhātu —
+
+1. Saddārammaṇavijānanalakkhaṇaā. Pe.
+   Gandhārammaṇavijānanalakkhaṇaā. Pe.
+   Rasārammaṇavijānanalakkhaṇaā. Pe.
+   Phoṭṭhabbārammaṇavijānanalakkhaṇaā. Pe.
+   Dhammārammaṇavijānanalakkhaṇaā.
+
+2. Manodvāre āvajjanarasā.
+3. Tathābhāvapaccupaṭṭhānā (= āvajjanabhāvapaccupaṭṭhānā).
+4. Bhavaṅgāpagamapadaṭṭhānā. (Visuddhi II, 87.)
+
+[Note — The meaning should now be clear enough. Take this as a model for discernment.]
+
+16. Smile-producing consciousness (hasituppādacitta)
+
+Somanassasahagatāhetukakiriyā —
+
+1. Chārammaṇavijānanalakkhaṇā.
+
+2. Kiccavasena arahataṃ anuḷāresu vatthūsu hasituppādanarasā.
+
+3. Tathābhāvapaccupaṭṭhānā.
+
+4. Ekantato hadayavatthupadaṭṭhānā. (Visuddhi II, 87.)
+
+Rootless functional consciousness accompanied by joy, that is, smile-producing consciousness —
+
+1. Knowing, that is, apprehending the six objects — characteristic.
+
+2. In its functional role, bringing forth a smile at such unremarkable objects as a skeleton or a hungry ghost, only in the continuum of arahants — active function.
+
+
+<a id="M08-body-P064"></a>
+## Smile-producing consciousness and death consciousness
+Miến / Burmese 64
+
+3. The nature of producing such a smile — manifestation.
+
+4. The heart-base, which is invariably its support — proximate cause.
+
+[Note — Because smile-producing consciousness occurs only in the continuum of arahants, only arahants discern this consciousness.]
+
+17. Death consciousness (cuticitta)
+
+1. Kamma-kammanimitta-gatinimittānaṃ aññatarārammaṇavijānanalakkhaṇaṃ cuticittaṃ.
+
+2. Cavanarasaṃ.
+
+3. Tathābhāvapaccupaṭṭhānaṃ.
+
+4. Javanatadārammaṇabhavaṅgānaṃ aññatarāpagamapadaṭṭhānaṃ.
+
+1. Knowing, that is, apprehending, one of the three objects of kamma, the sign of kamma or the sign of destination, taken by the near-death impulsion of the past life — characteristic.
+
+2. Passing away from the present existence — active function.
+
+3. The nature of passing away from the present existence — manifestation.
+
+4. (a) If death follows impulsion, the cessation of impulsion.
+   (b) If death follows registration, the cessation of registration.
+   (c) If death follows life-continuum, the cessation of life-continuum — proximate cause.
+
+End of the consciousness aggregate.
+
+❀ ❀ ❀
+
+
+<a id="M08-body-P065"></a>
+## The feeling aggregate — bodily pleasure and bodily pain
+Miến / Burmese 65
+
+Chapter on the feeling aggregate
+
+1. Bodily pleasant feeling (sukhavedanā)
+
+1. Iṭṭhaphoṭṭhabbānubhavanalakkhaṇaṃ sukhaṃ.
+
+2. Sampayuttānaṃ upabrūhanarasaṃ.
+
+3. Kāyikaassādapaccupaṭṭhānaṃ.
+
+4. Kāyindriyapadaṭṭhānaṃ. (Visuddhi II, 91.)
+
+1. Experiencing the taste of a desirable tangible object — characteristic.
+
+2. Strongly augmenting the associated phenomena — active function.
+
+3. Bodily gratification, that is, bodily pleasantness — manifestation.
+
+4. The body faculty, that is, body-sensitivity — proximate cause.
+
+2. Bodily painful feeling (dukkhavedanā)
+
+1. Aniṭṭhaphoṭṭhabbānubhavanalakkhaṇaṃ dukkhaṃ.
+
+2. Sampayuttānaṃ milāpanarasaṃ.
+
+3. Kāyikābādhapaccupaṭṭhānaṃ.
+
+4. Kāyindriyapadaṭṭhānaṃ. (Visuddhi II, 91.)
+
+1. Experiencing the taste of an undesirable tangible object — characteristic.
+
+2. Making the associated phenomena wither — active function.
+
+3. Bodily affliction — manifestation.
+
+4. The body faculty, that is, body-sensitivity — proximate cause.
+
+
+<a id="M08-body-P066"></a>
+## Mental joy and an alternative explanation
+Miến / Burmese 66
+
+3. Mentally pleasant feeling (somanassavedanā)
+
+1. Iṭṭhārammaṇānubhavanalakkhaṇaṃ somanassaṃ.
+
+2. Yathā tathā vā iṭṭhākārasambhogarasaṃ.
+
+3. Cetasikaassādapaccupaṭṭhānaṃ.
+
+4. Passaddhipadaṭṭhānaṃ. (Visuddhi II, 91.)
+
+1. Experiencing an object desirable by nature or by contrivance — characteristic.
+
+2. Enjoying and experiencing the object in its desirable aspect, whether desirable by nature or by contrivance — active function.
+
+3. Mental gratification — manifestation.
+
+4. Tranquillity (passaddhi), that is, the calming of consciousness and its mental factors — proximate cause.
+
+[An object naturally desirable is agreeable by its own nature. A contrived desirable object has been prepared or treated so as to make it desirable. For example, spoiled fish is naturally undesirable, but becomes desirable when prepared so as to make it agreeable.]
+
+Another explanation of mentally pleasant feeling
+
+1. Sātalakkhaṇaṃ sukhaṃ (= somanassaṃ).
+
+2. Sampayuttānaṃ upabrūhanarasaṃ.
+
+3. Anuggahapaccupaṭṭhānaṃ.
+
+4. Passaddhipadaṭṭhānaṃ. (Abhi-a I, 160.)
+
+1. Making the person in whom the feeling occurs, and the associated phenomena, take pleasure in the object — characteristic.
+
+2. Strongly augmenting the associated phenomena — active function.
+
+
+<a id="M08-body-P067"></a>
+## Mental joy and mental displeasure
+Miến / Burmese 67
+
+3. Supporting the associated phenomena — manifestation.
+
+4. Tranquillity (passaddhi), that is, the calming of consciousness and its mental factors — proximate cause.
+
+[Note — The second explanation refers especially to pleasure, that is, mental joy, associated with momentary, preparatory or access concentration before absorption has been attained, to pleasure, that is, mental joy, associated with absorption, and to pleasure, that is, mental joy, associated with insight knowledge. The first explanation applies to all pleasure, that is, mental joy. For mental joy in greed-rooted consciousness, however, tranquillity cannot be the proximate cause. Only one of the three kinds of cause, the physical base, the object or an associated phenomenon, can be the proximate cause.]
+
+4. Mentally painful feeling (domanassavedanā)
+
+1. Aniṭṭhārammaṇānubhavanalakkhaṇaṃ domanassaṃ.
+
+2. Yathā tathā vā aniṭṭhākārasambhogarasaṃ.
+
+3. Cetasikābādhapaccupaṭṭhānaṃ.
+
+4. Ekanteneva hadayavatthupadaṭṭhānaṃ. (Abhi-a I, 298; Visuddhi II, 91.)
+
+1. Experiencing an object undesirable by nature or by contrivance — characteristic.
+
+2. Experiencing the object in its undesirable aspect, whether undesirable by nature or by contrivance — active function.
+
+3. Mental pain, that is, mental affliction — manifestation.
+
+4. Invariably the heart-base — proximate cause.
+
+
+<a id="M08-body-P068"></a>
+## Neutral feeling and third-jhāna equanimity
+Miến / Burmese 68
+
+[Note — Experiencing an object naturally undesirable in its undesirable aspect is also mental displeasure. Adherents of other doctrines regard an object naturally desirable, such as the Buddha, as undesirable. This is a contrived undesirable object. Because of their wrong views, wrong thinking and mistaken appraisal, even a desirable object becomes undesirable for them. Experiencing that contrived undesirable object in its undesirable aspect is likewise mental displeasure.]
+
+5. Neutral feeling (upekkhāvedanā)
+
+1. Majjhattavedayitalakkhaṇā upekkhā.
+
+2. Sampayuttānaṃ nātiupabrūhanamilāpanarasā.
+
+3. Santabhāvapaccupaṭṭhānā.
+
+4. Nippītikacittapadaṭṭhānā. (Visuddhi II, 91.)
+
+1. Experiencing neutrally an intermediate object, whether by nature or by contrivance — characteristic.
+
+2. Neither excessively augmenting nor excessively weakening the associated phenomena — active function.
+
+3. The state of peacefulness — manifestation.
+
+4. Consciousness without zest (pīti), that is, not associated with zest — proximate cause.
+
+Jhāna equanimity (jhānupekkhā), that is, specific neutrality (tatramajjhattatā) associated with the third jhāna
+
+1. Majjhattalakkhaṇā jhānupekkhā.
+
+2. Anābhogarasā.
+
+3. Abyāpārapaccupaṭṭhānā.
+
+4. Pītivirāgapadaṭṭhānā. (Abhi-a I, 218.)
+
+
+<a id="M08-body-P069"></a>
+## Jhāna equanimity and neither-painful-nor-pleasant feeling
+Miến / Burmese 69
+
+1. Remaining neutral — characteristic.
+
+2. Not inclining towards refined and excellent pleasant feeling — active function.
+
+3. Being unoccupied with refined and excellent pleasant feeling — manifestation as the manner of appearing.
+   Alternatively, producing the result that the associated phenomena are unoccupied with refined and excellent pleasant feeling — manifestation as result.
+
+4. Dispassion towards zest, that is, surpassing zest (pīti) — proximate cause.
+
+Neither-painful-nor-pleasant feeling (adukkhamasukhā), that is, neutral feeling or the equanimity of the fourth jhāna
+
+1. Iṭṭhāniṭṭhaviparītānubhavanalakkhaṇā upekkhā.
+
+2. Majjhattarasā.
+
+3. Avibhūtapaccupaṭṭhānā.
+
+4. Sukhanirodhapadaṭṭhānā. (Abhi-a I, 222.)
+
+1. Experiencing a desirable-neutral object, the counterpart of desirable and undesirable objects, that is, experiencing its taste — characteristic.
+
+2. Remaining in the middle, that is, regarding with equanimity — active function.
+
+3. An experience that is not conspicuous — manifestation.
+
+4. The cessation of pleasure, that is, the access of the fourth jhāna, where pleasure ceases — proximate cause.
+
+End of the feeling aggregate.
+
+❀ ❀ ❀
+
+
+<a id="M08-body-P070"></a>
+## The perception aggregate — Pāli passages on the mental factor of perception
+Miến / Burmese 70
+
+Chapter on the perception aggregate
+
+The mental factor of perception (saññā)
+
+1. Sañjānanalakkhaṇā saññā.
+2. (a) Paccābhiññāṇarasā.
+   (b) Punasañjānanapaccayanimittakaraṇarasā, dāruādīsu tacchakādayo viya.
+3. (a) Yathāgahitanimittavasena abhinivesakaraṇapaccupaṭṭhānā, hatthidassakaandhā viya.
+   (b) Ārammaṇe anogāḷhavuttitāya aciraṭṭhānapaccupaṭṭhānā vā, vijju viya.
+4. Yathāupaṭṭhitavisayapadaṭṭhānā, tiṇapurisakesu migapotakānaṃ “purisā”ti uppannasaññā viya. (Abhi-a I, 153–154.)
+
+1. Sañjānanalakkhaṇā saññā.
+2. Tadevetanti punasañjānanapaccayanimittakaraṇarasā, dāruādīsu tacchakādayo viya.
+3. Yathāgahitanimittavasena abhinivesakaraṇapaccupaṭṭhānā, hatthidassakaandhā viya.
+4. Yathāupaṭṭhitavisayapadaṭṭhānā, tiṇapurisakesu migapotakānaṃ purisāti uppannasaññā viya. (Visuddhi II, 92.)
+
+
+<a id="M08-body-P071"></a>
+## Characteristic, function, manifestation and proximate cause of perception
+Miến / Burmese 71
+
+1. Recognizing by marking objects such as dark brown and golden colours, that is, the nature of noting and recognizing — characteristic.
+
+2. (a) Recognizing again by a previous mark — active function.
+   (b) Knowing by making a mark that conditions later recognition “this is that very thing” — active function. (Like the marks that carpenters and others make on wood and the like.)
+
+3. (a) The nature of causing attention to the object according to the sign that the mind has grasped, that is, according to the mark already made — manifestation. (Understand this as in the case of blind persons feeling an elephant.)
+   (b) Because it does not penetrate into the object, that is, because it does not apprehend the object deeply, it does not last long — manifestation. (Understand this as like a flash of lightning.)
+
+4. The object as it presents itself — proximate cause. (Like the perception “a person” that arises in young deer on seeing a figure of a person made of grass.)
+
+End of the perception aggregate.
+
+❀ ❀ ❀
+
+
+<a id="M08-body-P072"></a>
+## The formations aggregate — mental factors and contact
+Miến / Burmese 72
+
+Chapter on the formations aggregate
+
+Including feeling and perception, called the feeling aggregate and the perception aggregate, there are 52 mental factors in all. Those 52 mental factors are —
+
+1. Ethically variable mental factors, which can be on either the wholesome or the unwholesome side — 13 kinds.
+2. Unwholesome mental factors, which are inferior — 14 kinds.
+3. Beautiful mental factors, which are excellent — 25 kinds.
+   Total — 52 kinds.
+
+Of these 52 mental factors, the characteristic, function, manifestation and proximate cause of the two factors feeling and perception have already been presented. The objects of discernment concerning the characteristic, function, manifestation and proximate cause of the 50 mental factors included in the formations aggregate will now be presented.
+
+The universal mental factors (sabbacittasādhāraṇa)
+
+1. Contact (phassa)
+
+Phusatīti phasso.
+
+1. Svāyaṃ phusanalakkhaṇo.
+
+2. Saṅghaṭṭanaraso.
+
+3. Sannipātapaccupaṭṭhāno, vedanāpaccupaṭṭhāno vā.
+
+4. Āpāthagatavisayapadaṭṭhāno (āpātagatavisayapadaṭṭhāno). (Abhi-a I, 151–152; Visuddhi II, 93.)
+
+1. The nature of touching the object — characteristic.
+
+2. Making the object and consciousness impinge — active function.
+   Alternatively, connecting the object with consciousness — active function.
+
+
+<a id="M08-body-P073"></a>
+## Contact and volition
+Miến / Burmese 73
+
+   Alternatively, accomplishment of the meeting and impingement of the physical base and object — function as accomplishment.
+
+3. (a) The nature that appears through the meeting of the three, the physical base, the object and consciousness — manifestation as the manner of appearing.
+   (b) Alternatively, the nature that brings about the result called feeling — manifestation as result.
+
+4. The object that has come into range, that is, has presented itself — proximate cause.
+
+2. Volition (cetanā)
+
+Cetayatīti cetanā. Saddhiṃ attanā sampayuttadhamme ārammaṇe abhisandahatīti attho.
+
+1. Sā cetayitalakkhaṇā. Cetanābhāvalakkhaṇāti attho.
+2. Āyūhanarasā.
+3. Saṃvidahanapaccupaṭṭhānā, sakiccaparakiccasādhikā jeṭṭhasissamahāvaḍḍhakīādayo viya.
+   Accāyikakammānussaraṇādīsu ca panāyaṃ sampayuttānaṃ ussahanabhāvena pavattamānā pākaṭā hoti. (Abhi-a I, 154–155; Visuddhi II, 93.)
+
+The phenomenon that prompts is called volition. It binds the associated phenomena that arise with it to the object so that they are uninterrupted. This means that it makes them proceed continuously.
+
+1. Prompting the associated phenomena that arise with it to reach the object, to connect with the object, and to move towards it — characteristic.
+
+2. (So that the associated phenomena exert themselves in their own tasks without neglecting them)…
+
+
+<a id="M08-body-P074"></a>
+## Volition and one-pointedness
+Miến / Burmese 74
+
+… gathering and assembling, that is, seeing to their tasks — active function.
+
+3. The nature of organizing — manifestation. (Understand this as like a senior pupil, a master carpenter and the like, who complete their own work and get the work of others done.)
+
+4. An appropriate phenomenon among (a) the physical base, (b) the object, or (c) the associated phenomena headed by contact and attention — proximate cause.
+
+3. One-pointedness (ekaggatā), that is, concentration (samādhi)
+
+Ārammaṇe cittaṃ samaṃ ādhiyati, sammā vā ādhiyati, samādhānamattameva vā etaṃ cittassāti samādhi.
+
+1. (a) Pāmokkhalakkhaṇo samādhi.
+   (b) Avisāralakkhaṇo.
+   (c) Avikkhepalakkhaṇo vā.
+2. Sahajātānaṃ sampiṇḍanaraso nhāniyacuṇṇānaṃ udakaṃ viya.
+3. (a) Upasamapaccupaṭṭhāno.
+   (b) Ñāṇapaccupaṭṭhāno vā. “Samāhito yathābhūtaṃ jānāti passatī”ti hi vuttaṃ.
+4. Visesato sukhapadaṭṭhāno. Nivāte dīpaccīnaṃ ṭhiti viya cetaso ṭhitīti daṭṭhabbo. (Abhi-a I, 161–162; Visuddhi II, 94.)
+
+The phenomenon that places consciousness evenly on the object is called concentration. Alternatively, the phenomenon that places consciousness rightly on the object is called concentration. Alternatively, the mere even and right placement of consciousness on the object is called concentration.
+
+
+<a id="M08-body-P075"></a>
+## One-pointedness and the mental life faculty
+Miến / Burmese 75
+
+1. (a) The nature of being foremost, that is, presiding over the associated phenomena on the object — characteristic.
+   (b) By its own nature, not scattering from the object, that is, remaining steady without shifting on the object — characteristic.
+   (c) Being a cause for the associated phenomena not to scatter from the object — characteristic.
+
+2. Holding the conascent phenomena together, like water that binds bath powder, that is, soap powder, into a lump — active function.
+
+3. (a) The nature of peacefulness — manifestation as the manner of appearing.
+   (b) The nature that produces the result called knowledge, that is, conditions the arising of knowledge — manifestation as result.
+   (The Buddha taught that a person whose mind is well placed on the object, that is, a person with concentration, knows and sees things as they are, without distortion. Saṃyutta II, 12.)
+
+4. Especially, or for the most part, pleasant feeling — proximate cause.
+
+4. Life (jīvita)
+
+1. Attanā avinibbhuttānaṃ dhammānaṃ anupālanalakkhaṇaṃ jīvitindriyaṃ.
+
+2. Tesaṃ pavattanarasaṃ.
+
+3. Tesaṃyeva ṭhapanapaccupaṭṭhānaṃ.
+
+4. Yāpayitabbadhammapadaṭṭhānaṃ. (Abhi-a I, 167.)
+
+
+<a id="M08-body-P076"></a>
+## Material and mental life faculties
+Miến / Burmese 76
+
+Rūpārūpajīvitindriyānaṃ samānalakkhaṇādiṃ vattuṃ “attanā avinibbhuttānaṃ dhammānan”ti āha. (Mūlaṭīkā I, 90.)
+
+1. Maintaining conascent phenomena, its companions in arising that cannot be separated from it — characteristic.
+
+2. Keeping those conascent phenomena in existence from the arising submoment to the dissolution submoment, sustaining them and prolonging their life — function as activity.
+
+3. Keeping those same conascent phenomena in existence until before the dissolution submoment — manifestation.
+
+4. The phenomena it must keep in existence, sustain, prolong the life of and bring to the dissolution submoment — proximate cause.
+
+[The expression sampayuttānaṃ, “of associated phenomena,” applies only to mental phenomena capable of supporting through association condition. Here, to explain what the material and mental life faculties share in respect of specific characteristic and the other aspects, the subcommentary says attanā avinibbhuttānaṃ dhammānaṃ, that is, “having the characteristic of maintaining conascent phenomena, its companions in arising inseparable from it,” and so on. (Mūlaṭīkā I, 90.) The material life faculty has already been explained in the materiality section. When the mental life faculty is considered separately, its characteristic, function and other aspects can be remembered as follows.]
+
+1. Sampayuttadhammānaṃ anupālanalakkhaṇaṃ jīvitindriyaṃ.
+2. Tesaṃ pavattanarasaṃ.
+3. Tesaññeva ṭhapanapaccupaṭṭhānaṃ.
+4. Yāpayitabbadhammapadaṭṭhānaṃ. (Abhi-a I, 167.)
+
+1. Maintaining associated phenomena — characteristic.
+
+2. Keeping those associated phenomena in existence from the arising submoment to the dissolution submoment, that is…
+
+
+<a id="M08-body-P077"></a>
+## Mental life faculty and attention
+Miến / Burmese 77
+
+… sustaining them and prolonging their life — function as activity.
+
+3. Keeping those same associated phenomena in existence until before the dissolution submoment — manifestation.
+
+4. The associated phenomena it must keep in existence, sustain, prolong the life of and bring to the dissolution submoment — proximate cause.
+
+5. Attention (manasikāra)
+
+Tattha ārammaṇapaṭipādako manasmiṃ karotīti manasikāro.
+1. So sāraṇalakkhaṇo.
+2. Sampayuttānaṃ ārammaṇe samyojanaraso (saṃyojanaraso).
+3. Ārammaṇābhimukhabhāvapaccupaṭṭhāno.
+4. Ārammaṇapadaṭṭhāno.
+Saṅkhārakkhandhapariyāpanno, ārammaṇapaṭipādakattena sampayuttānaṃ sārathi viya daṭṭhabbo. (Abhi-a I, 177. Visuddhi II, 96.)
+
+Object-directing attention (ārammaṇapaṭipādaka-manasikāra) prepares and makes the object apparent, and directs toward it. Because it brings the object into the mind, making the object apparent in the mind, it is called attention. The characteristic and other aspects of that mental factor are as follows.
+
+1. Driving the associated phenomena straight toward the object, as if setting them running, directing them straight to it — characteristic.
+
+2. Joining the associated phenomena to the object — function as activity.
+
+
+<a id="M08-body-P078"></a>
+## The three kinds of attention
+Miến / Burmese 78
+
+3. Facing toward the object — manifestation.
+
+4. The object — proximate cause.
+
+This mental factor of attention is included in the formations aggregate. Because it prepares and makes the object apparent and directs toward it, remember it as a charioteer who drives thoroughbred horses, making the associated phenomena run toward the object. In other words, it turns and urges the mind, the associated phenomena, toward the object.
+
+Three kinds of attention
+
+1. Object-directing attention (ārammaṇapaṭipādaka-manasikāra), which prepares the object, makes it apparent and brings it into view.
+
+2. Process-directing attention (vīthipaṭipādaka-manasikāra), which prepares process consciousnesses, makes them apparent and brings them about.
+
+3. Impulsion-directing attention (javanapaṭipādaka-manasikāra), which prepares impulsion consciousnesses, makes them apparent and brings them about.
+
+Thus there are three kinds of attention. Of these,
+
+1. Object-directing attention is the mental factor of attention itself. It is included in the formations aggregate.
+
+2. Process-directing attention is five-door-adverting consciousness. That consciousness brings about the subsequent sequence of process consciousnesses such as eye-consciousness, receiving and investigating. It is included in the consciousness aggregate.
+
+3. Impulsion-directing attention is mind-door adverting. That mind-door adverting brings about the subsequent sequence of impulsion consciousnesses…
+
+
+<a id="M08-body-P079"></a>
+## Attention in a cognitive process and the Sayadaw’s note
+Miến / Burmese 79
+
+… It too is included in the consciousness aggregate. (Abhi-a I, 177. Visuddhi II, 96.)
+
+Of these, the two kinds, process-directing attention and impulsion-directing attention, are often called wise attention (yoniso manasikāra) and unwise attention (ayoniso manasikāra) in the texts. In the primary sense, only the groups of mental phenomena at impulsion receive the names wise and unwise attention. The adverting consciousnesses receive those names because impulsions follow them. The commentaries explain as follows why the two kinds of adverting are called attention.
+
+Purimamanato visadisaṃ manaṃ karotītipi manasikāro. (Abhi-a I, 177. Visuddhi II, 96.)
+
+It is called attention because it brings about a sequence of process consciousnesses or impulsions different from the preceding sequence of life-continuum consciousnesses. The characteristic, function and other aspects presented above belong to the mental factor called object-directing attention.
+
+Note by the venerable senior Sayadaw of Pyay
+
+It is when one attends by means of the mental factor attention that the object becomes apparent. When an earlier consciousness brings about the subsequent distinct consciousnesses by way of five-door adverting, that is, when five-door adverting brings about a sequence of process consciousnesses distinct from the preceding life-continuum consciousness, a five-door process occurs. Similarly, when an earlier consciousness brings about the subsequent distinct consciousnesses by way of mind-door adverting, that is, when mind-door adverting brings about a sequence of impulsions distinct from the preceding life-continuum sequence, impulsion in a mind-door process occurs. This is what is meant. Applied thought…
+
+
+<a id="M08-body-P080"></a>
+## Distinguishing applied thought, volition and attention. Occasional mental factors
+Miến / Burmese 80
+
+… places associated phenomena on the object. Volition impels them. Attention brings the object. Thus these three phenomena appear alike. Their differences are as follows.
+
+Applied thought is like placing the associated phenomena on the object. Volition coordinates with itself the phenomena that applied thought has placed on the object, like a commander coordinating his troops on a battlefield. Attention directs the associated phenomena toward the object on which applied thought has placed them, like a charioteer directing the thoroughbred horses yoked to his chariot. Thus applied thought, volition and attention differ. (Pyay Nissaya on the Visuddhimagga, III, 285.)
+
+Six occasional mental factors (pakiṇṇaka)
+1. Vitakka, applied thought
+
+Vitakketīti vitakko. Vitakkanaṃ vā vitakko. Ūhananti vuttaṃ hoti.
+1. Svāyaṃ ārammaṇe cittassa abhiniropanalakkhaṇo.
+2. Āhananapariyāhananaraso.
+3. Ārammaṇe cittassa ānayanapaccupaṭṭhāno.
+4. Ārammaṇapadaṭṭhāno. (Abhi-a I, 157. Visuddhi I, 138.)
+
+Thinking about, considering the object is called applied thought. Placing the mind so that it goes to the object again and again is called “thinking.” The characteristic and other aspects of applied thought are as follows.
+
+1. Directing and placing the mind on the object — characteristic.
+
+
+<a id="M08-body-P081"></a>
+## The function of applied thought and the four aspects of sustained thought
+Miến / Burmese 81
+
+2. Striking the object initially, striking all around it, striking straight at it and striking in a circle around it. Alternatively, striking the object repeatedly, discerning it — function as activity.
+
+3. Drawing and leading the mind forward until it reaches the object — manifestation.
+
+4. The object (base + object + contact…) — proximate cause.
+
+2. Sustained thought (vicāra)
+
+Ārammaṇe tena cittaṃ vicaratīti vicāro. Vicaraṇaṃ vā vicāro. Anusañcaraṇanti vuttaṃ hoti. Svāyaṃ —
+1. Ārammaṇānumajjanalakkhaṇo.
+2. Tattha sahajātānuyojanaraso.
+3. Cittassa anuppabandhanapaccupaṭṭhāno (anuppabandhapaccupaṭṭhāno).
+4. Ārammaṇapadaṭṭhāno. (Abhi-a I, 158.)
+
+Through this phenomenon the mind moves around and operates on the object. Thus the phenomenon that causes the mind to move around on the object, that keeps the mind moving about the object, is called sustained thought. It means repeatedly moving around the object thoroughly.
+
+1. Handling and examining the object over and over, considering, investigating and rubbing it — characteristic.
+
+2. Repeatedly keeping conascent phenomena engaged with that same object — function as activity.
+
+3. Continuously connecting the mind to the object already apprehended — manifestation.
+
+4. The object (alternatively, base + object + contact…) — proximate cause.
+
+
+<a id="M08-body-P082"></a>
+## Decision and energy
+Miến / Burmese 82
+
+3. Decision (adhimokkha)
+
+Adhimuccanaṃ adhimokkho. So —
+1. Sanniṭṭhānalakkhaṇo.
+2. Asaṃsappanaraso.
+3. Nicchayapaccupaṭṭhāno.
+4. Sanniṭṭheyyadhammapadaṭṭhāno (= sanniṭṭhātabbadhammapadaṭṭhāno).
+Ārammaṇe niccalabhāvena indakhīlo viya daṭṭhabbo. (Abhi-a I, 177. Visuddhi II, 96.)
+
+Committing to the object and deciding about it is decision. Its characteristic and other aspects are as follows.
+
+1. Settling on the object decisively — characteristic.
+
+2. Opposing doubt, which cannot come to a decision about this object — function as activity.
+
+3. Making a decision about the object — manifestation.
+
+4. The phenomenon as object about which a decision is to be made — proximate cause.
+
+4. Energy (viriya)
+
+1. Ussahanalakkhaṇaṃ (ussāhalakkhaṇaṃ) viriyaṃ.
+2. Sahajātānaṃ upatthambhanarasaṃ.
+3. Asaṃsīdanabhāvapaccupaṭṭhānaṃ.
+4. (a) “Saṃviggo yoniso padahatī”ti vacanato saṃvegapadaṭṭhānaṃ. (b) Viriyārambhavatthupadaṭṭhānaṃ vā.
+Sammā āraddhaṃ sabbasampattīnaṃ mūlaṃ hotīti daṭṭhabbaṃ. (Abhi-a I, 164. Visuddhi II, 93.)
+
+1. Exerting oneself to carry out each task well, making a vigorous effort — characteristic.
+
+
+<a id="M08-body-P083"></a>
+## Energy and eight grounds for a sense of urgency
+Miến / Burmese 83
+
+Alternatively, gritting the teeth and steadily enduring the hardship one must undergo — characteristic.
+
+2. Strengthening, supporting and steadying conascent phenomena — function as activity.
+
+3. Not giving way — manifestation.
+
+4. (a) The Buddha said, “One stirred by urgency strives wisely” (Aṅguttara I, 430). Thus knowledge associated with urgency — proximate cause. (b) Alternatively, a ground for arousing energy (viriyārambhavatthu) — proximate cause.
+
+Saṃvegapadaṭṭhānaṃ, knowledge associated with urgency
+
+1. The great danger of birth (jātibhaya), the suffering of rebirth-linking.
+
+2. The great danger of ageing (jarābhaya), the suffering of growing old.
+
+3. The great danger of illness (byādhibhaya), the suffering of becoming ill.
+
+4. The great danger of death (maraṇabhaya), the suffering of dying and breaking up.
+
+5. The great danger of suffering in the round of saṃsāra in states of deprivation.
+
+6. Suffering rooted in the past round of saṃsāra.
+
+7. Suffering rooted in the future round of saṃsāra.
+
+8. The suffering of seeking nutriment (āhārapariyesana-dukkha), the suffering of having to seek and accumulate food and possessions in the present.
+
+When one takes these eight grounds as objects and reflects on them, knowledge accompanied by alarm and dread, knowledge associated with ottappa, arises on account of the alarm and dread. It is called awakening knowledge, and that very knowledge is called saṃvega. Since one who possesses such knowledge of urgency typically exerts oneself keenly in wholesome deeds such as giving, virtue and cultivation, that knowledge of urgency is the closest condition for energy…
+
+
+<a id="M08-body-P084"></a>
+## Eight grounds for arousing energy and joy
+Miến / Burmese 84
+
+… to arise.
+
+Viriyārambhavatthupadaṭṭhānaṃ vā, alternatively, the grounds for arousing energy are the proximate cause
+
+1. Being about to set out on a journey.
+
+2. Having just completed a journey.
+
+3. Being about to undertake some work.
+
+4. Having just completed work.
+
+5. Just beginning to fall ill.
+
+6. Having just recovered from illness.
+
+7. Receiving insufficient almsfood.
+
+8. Receiving abundant almsfood.
+
+When these eight situations occur together with wise attention and reviewing knowledge appropriate to the arising of energy, that is, reflective knowledge that attends in the right manner and follows the right course, they are called grounds for arousing energy because they cause energy to arise. Alternatively, the wise attention and reviewing knowledge grounded in these eight situations, the consciousness and mental factors headed by reflective knowledge, are called grounds for arousing energy. For a person with unwise attention, however, these eight situations become grounds for making excuses for laziness. (See Aṅguttara III, 147–150.)
+
+5. Joy (pīti)
+
+Pīṇayatīti pīti. Sā —
+1. Sampiyāyanalakkhaṇā.
+2. Kāyacittapīṇanarasā, pharaṇarasā vā.
+3. Odagyapaccupaṭṭhānā.
+4. Ārammaṇapadaṭṭhānā. (Abhi-a I, 158. Visuddhi I, 139.)
+
+The phenomenon that gladdens, fulfils and invigorates body and mind is called joy. Its aspects are as follows.
+
+
+<a id="M08-body-P085"></a>
+## Joy and desire to act
+Miến / Burmese 85
+
+1. Liking and cherishing the object — characteristic.
+
+2. (a) Gladdening, fulfilling and invigorating both body and mind — function as activity. (b) Alternatively, pervading the whole body with excellent mind-born materiality — function as activity.
+
+3. Making body and mind joyful and uplifted — manifestation.
+
+4. The object (alternatively, base + object + contact…) — proximate cause.
+
+6. Desire to act (chanda)
+
+Chandetīti kattukāmatāyetaṃ adhivacanaṃ. Tasmā so —
+1. Kattukāmatālakkhaṇo chando (kattukamyatālakkhaṇo chando).
+2. Ārammaṇapariyesanaraso.
+3. Ārammaṇena atthikatāpaccupaṭṭhāno.
+4. Tadeva padaṭṭhānaṃ. (Abhi-a I, 176–177. Visuddhi II, 96.)
+
+Desire to act is the name for the state of wanting to act, wanting to do something in relation to the object. It is the wish to act on or take a particular object.
+
+1. Wanting to carry something out in relation to the object, wanting to do something with the object or aspiring to it — characteristic.
+
+2. Seeking the object — function as activity.
+
+3. Having need of the object, aspiring to it — manifestation.
+
+4. That very object which is wanted — proximate cause.
+
+
+<a id="M08-body-P086"></a>
+## Fourteen unwholesome mental factors. Delusion
+Miến / Burmese 86
+
+Fourteen unwholesome mental factors
+1. Delusion (moha)
+
+1. Moho cittassa andhabhāvalakkhaṇo, aññāṇalakkhaṇo vā.
+2. Asampaṭivedharaso, ārammaṇasabhāvacchādanaraso vā.
+3. Asammāpaṭipattipaccupaṭṭhāno, andhakārapaccupaṭṭhāno vā.
+4. Ayonisomanasikārapadaṭṭhāno.
+Sabbākusalānaṃ mūlanti daṭṭhabbo. (Abhi-a I, 291. Visuddhi II, 98.)
+
+1. (a) The mind being blind in the eye of wisdom, unable to know and see the true nature of ultimate phenomena as it actually is. Alternatively, causing a mind that is blind in the eye of wisdom — characteristic. (b) Alternatively, opposing knowledge, that is, failing to penetrate and to know and see the true nature of ultimate phenomena as it actually is — characteristic.
+
+2. (a) Possessing an inability to penetrate and clearly know the true nature of ultimate phenomena, the true nature of the object — function as accomplishment. (b) Alternatively, covering up the true nature of the ultimate object — function as activity.
+
+3. (a) Causing improper, unsuitable and incorrect practice. Alternatively, bringing about the result of failing to practise well and correctly — manifestation as result. Alternatively, opposition to right practice — manifestation as mode of appearance.
+
+
+<a id="M08-body-P087"></a>
+## Delusion conceals the specific nature of the object
+Miến / Burmese 87
+
+(b) Alternatively, blinding the eye of wisdom — manifestation as mode of appearance.
+
+4. Unwise attention, that is, attending wrongly to the ultimate object as permanent, pleasurable, self or beautiful, and so on — proximate cause.
+
+Dhammasabhāvassa yāthāvato adassanaṃ cittassa andhabhāvo. (Mahāṭīkā II, 149.)
+
+The nature of knowing the specific nature of ultimate phenomena as it actually is, penetrating right through to ultimate reality, is wisdom. Delusion is precisely the cause for an element of consciousness to arise without that eye of wisdom, with the eye of wisdom blinded.
+
+1. The phenomenon that causes the associated phenomena to be deluded regarding an object that is the specific nature of ultimate phenomena.
+
+2. Alternatively, the phenomenon which itself is deluded regarding an ultimate object.
+
+3. Alternatively, the mere state of being deluded regarding an ultimate object. That phenomenon is called delusion.
+
+Here being deluded means not knowing the true nature of the object, the specific nature of an ultimate object. In other words, knowledge knows the specific nature of ultimate phenomena, whereas delusion does not know that truth and reverses these specific natures, cognizing them wrongly as permanent, pleasurable, self and beautiful, and so on. It wrongly cognizes a man, a woman, a person, a being, a human, a deva, a brahmā, a life entity, a soul, a consciousness entity or a self, and so on. Thus opposition to knowledge is the specific characteristic of delusion.
+
+
+<a id="M08-body-P088"></a>
+## Shamelessness
+Miến / Burmese 88
+
+2. Shamelessness (ahirika)
+
+1. Kāyaduccaritādīhi ajigucchanalakkhaṇaṃ ahirikaṃ, alajjālakkhaṇaṃ vā.
+2. Alajjanākārena pāpānaṃ karaṇarasaṃ.
+3. Alajjanākārena pāpato asaṅkocanapaccupaṭṭhānaṃ.
+4. Attani agāravapadaṭṭhānaṃ. (Abhi-a I, 291. Visuddhi II, 98. Mahāṭīkā II, 149.)
+
+1. Having no disgust at bad deeds, unwholesome phenomena and misconduct — characteristic. Alternatively, having no shame about bad deeds, unwholesome phenomena and misconduct — characteristic.
+
+2. Doing evil in the mode of shamelessness — function as activity.
+
+3. Not shrinking from evil in the mode of shamelessness — manifestation.
+
+4. Lack of respect or regard for oneself — proximate cause.
+
+Na hirīyatīti ahiriko. (Visuddhi II, 98.)
+
+1. A person who feels no shame is shameless.
+
+2. A mind that feels no shame is shameless.
+
+3. The group of associated phenomena occurring together with the mental factor of shamelessness is shameless.
+
+Ahirikassa bhāvo ahirikaṃ (ahirikkaṃ). (Visuddhi II, 98.)
+
+1. The nature that causes a person to be shameless,
+
+2. The nature that causes a mind to be shameless,
+
+
+<a id="M08-body-P089"></a>
+## Shamelessness and fearlessness of wrongdoing
+Miến / Burmese 89
+
+3. The nature that causes the group of associated phenomena to be shameless.
+
+The phenomenon with this nature is the mental factor of shamelessness itself.
+
+3. Fearlessness of wrongdoing (anottappa)
+
+1. Kāyaduccaritādīhi asārajjālakkhaṇaṃ anottappaṃ, anuttāsalakkhaṇaṃ vā.
+2. Anuttāsākārena pāpānaṃ karaṇarasaṃ.
+3. Anuttāsākārena pāpato asaṅkocanapaccupaṭṭhānaṃ.
+4. Paresu agāravapadaṭṭhānaṃ. (Abhi-a I, 291. Visuddhi II, 98. Mahāṭīkā II, 149.)
+
+1. Being unafraid of bad deeds, unwholesome phenomena and misconduct — characteristic. Alternatively, feeling no alarm at bad deeds, unwholesome phenomena and misconduct — characteristic.
+
+2. Doing evil in the mode of fearlessness — function as activity.
+
+3. Not shrinking from evil in the mode of fearlessness — manifestation.
+
+4. Lack of respect or regard for others — proximate cause.
+
+Na ottappaṃ anottappaṃ. (Abhi-a I, 291.)
+Na ottappatīti anottappaṃ. (Visuddhi II, 98.)
+
+The phenomenon whose nature is to feel no alarm about bad deeds, unwholesome phenomena and misconduct is the mental factor of fearlessness of wrongdoing itself.
+
+
+<a id="M08-body-P090"></a>
+## Similes for shamelessness and fearlessness of wrongdoing. Restlessness
+Miến / Burmese 90
+
+1. As a village pig has no disgust for dung, a shameless person, one without shame, has no disgust for evil.
+
+2. As a moth is unafraid of a flame, a person without fear of wrongdoing is also unafraid of evil. (Mahāṭīkā II, 149.)
+
+4. Restlessness (uddhacca)
+
+Uddhatassa bhāvo (uddhatabhāvo) uddhaccaṃ. Taṃ —
+1. Cetaso avūpasamalakkhaṇaṃ vātābhighātacalajalaṃ viya.
+2. Anavaṭṭhānarasaṃ vātābhighātacaladhajapaṭākā viya.
+3. Bhantattapaccupaṭṭhānaṃ pāsāṇābhighātasamuddhatabhasmaṃ viya.
+4. Cetaso avūpasame ayonisomanasikārapadaṭṭhānaṃ.
+Cittavikkhepoti daṭṭhabbaṃ. (Abhi-a I, 292. Visuddhi II, 99.)
+
+Yassa dhammassa vasena uddhataṃ hoti cittaṃ, taṃsampayuttadhammā vā, so dhammo uddhaccaṃ. (Mahāṭīkā II, 150.)
+
+The phenomenon that causes the mind to be repeatedly agitated, scattered, unsettled and unquiet, is called restlessness. Alternatively, the phenomenon that causes all associated phenomena to be repeatedly agitated, scattered, unsettled and unquiet, is called restlessness. Groups of consciousness and mental factors associated with restlessness are unsettled and scattered on their object on account of restlessness. The meaning is that restlessness is the phenomenon that causes those consciousnesses and mental factors to be scattered on their object.
+
+1. The disquiet of the mind, like water moving when struck by wind — characteristic.
+
+
+<a id="M08-body-P091"></a>
+## Restlessness and greed
+Miến / Burmese 91
+
+2. Function — instability of the mind, like a flag fluttering in the wind.
+
+3. Manifestation — the nature of agitation and lack of steadiness, like ashes flying up when a stone is thrown onto a heap of ash.
+
+4. Proximate cause — unwise attention to objects on account of which the mind is unsettled. Alternatively, unwise attention on account of the result of mental disquiet.
+
+Avūpasamoti asanniṭṭhānasabhāvamāha. (မူလဋီ၊၁၊၁၂၀။)
+
+Avūpasamoti asanniṭṭhānappavattanabhāvamāha. (မဟာဋီ၊၂၊၁၅၀။)
+
+“Non-settling” (avūpasama) refers to the condition in which the mind, or its associated phenomena, shows no clear concentration and stability on one object. The inability to apprehend the object steadily, like water disturbed by gusts of wind, is the individual characteristic of restlessness (uddhacca).
+
+5. Greed (lobha)
+
+Lubbhanti tena sayaṃ vā lubbhati, lubbhanamattameva vā tanti lobho.
+
+1. Lobho ārammaṇaggahaṇalakkhaṇo makkaṭālepo viya.
+
+2. Abhisaṅgaraso tattakapāle khittamaṃsapesi viya.
+
+3. Apariccāgapaccupaṭṭhāno telañjanarāgo viya.
+
+4. Saṃyojaniyadhammesu assādadassanapadaṭṭhāno.
+
+So taṇhānadi­bhāvena vaḍḍhamāno sīghasotā nadī viya mahāsamuddaṃ apāyameva gahetvā gacchatīti daṭṭhabbo. (အဘိ၊ဋ္ဌ၊၁၊၂၉၁။ ဝိသုဒ္ဓိ၊၂၊၉၈။)
+
+The phenomenon that causes associated phenomena to desire and become infatuated with an object…
+
+
+<a id="M08-body-P092"></a>
+## Greed’s grasping of the object and wrong view
+Miến / Burmese 92
+
+… is called greed. Alternatively, the phenomenon that itself desires and becomes infatuated with an object is called greed. Alternatively, the mere act of desiring and becoming infatuated with an object is called greed.
+
+1. Characteristic — grasping the object as “mine”, like the sticky substance used to trap monkeys.
+
+2. Function — sticking fast to the object, like a piece of meat thrown onto a hot pan.
+
+3. Manifestation — inability to let go of the object, like an oily dye stain that has soaked into cloth.
+
+4. Proximate cause — seeing gratification or beauty in objects liable to fetter.
+
+Ārammaṇaggahaṇaṃ “mama idaṃ”ti taṇhābhinivesavasena abhinivissa ārammaṇassa, avissajjanaṃ, na ārammaṇakaraṇamattaṃ. (မဟာဋီ၊၂၊၁၄၉။)
+
+Ārammaṇaggahaṇa — In saying that greed grasps the object, the meaning goes beyond apprehending it or merely making it an object. According to greed’s strength, it directs itself firmly towards the object as “this is mine”, attending to it insistently through the fixation of craving. It cannot release the object and grasps it with fascination, attachment and longing. Thus greed’s grasping of the object is compared to the way a monkey-trapper’s sticky substance holds the monkey fast.
+
+6. View, that is, wrong view (micchādiṭṭhi)
+
+Micchādiṭṭhīti ayāthāvadiṭṭhi, virajjhitvā gahato vā vitathā diṭṭhi micchādiṭṭhi. Anatthāvahattā paṇḍitehi jigucchitā diṭṭhītipi micchādiṭṭhi. Micchāsaṅkappādīsupi eseva nayo. Apica micchā passanti tāya, sayaṃ vā…
+
+
+<a id="M08-body-P093"></a>
+## The meanings of wrong view
+Miến / Burmese 93
+
+… micchā passati, micchādassanamattameva vā esāti micchādiṭṭhi.
+
+1. Ayoniso abhinivesalakkhaṇā micchādiṭṭhi.
+
+2. Parāmāsarasā.
+
+3. Micchābhinivesapaccupaṭṭhānā.
+
+4. Ariyānaṃ adassanakāmatādipadaṭṭhānā.
+
+Paramaṃ vajjanti daṭṭhabbā. (အဘိ၊ဋ္ဌ၊၁၊၂၉၀။ ဝိသုဒ္ဓိ၊၂၊၉၈။)
+
+1. Wrong view is a view that sees in a way that does not accord with reality. In this explanation, micchā has the meaning of ayāthāva, “not according to reality”.
+
+2. Alternatively, because it is apprehended wrongly, missing the truth, the inverted and false view is called wrong view. In this explanation, micchā has the meaning of vitatha, “false”.
+
+3. Alternatively, because it is a view that leads to harm, the wise abhor it, and so it is called wrong view. In this explanation, micchā has the meaning of jigucchana, “abhorrence”.
+
+4. Alternatively, the phenomenon that causes associated phenomena to see the object, the nature of ultimate phenomena, wrongly is called wrong view. Alternatively, the phenomenon that itself sees the object, the nature of ultimate phenomena, wrongly is called wrong view. Alternatively, the mere act of seeing the object, the nature of ultimate phenomena, wrongly is called wrong view.
+
+Micchāti dhammasabhāvassa viparītaṃ. Niccāditoti attho. (မဟာဋီ၊၂၊၁၄၉။)
+
+
+<a id="M08-body-P094"></a>
+## The four aspects of wrong view and conceit
+Miến / Burmese 94
+
+Seeing the object, the nature of ultimate phenomena, wrongly means seeing the ultimate formations of mentality and materiality, called the truth of suffering and the truth of its origin, wrongly. Those ultimate formations of mentality and materiality are in fact impermanent, suffering, not-self and unattractive. Wrong view misperceives those formations of mentality and materiality as permanent, pleasant, self and attractive. (မဟာဋီ၊၂၊၁၄၉။)
+
+1. Characteristic — attending wrongly to the ultimate object as permanent, pleasant, self and attractive.
+
+2. Function — wrongly examining the ultimate object as permanent, pleasant, self and attractive.
+
+3. Manifestation — attending with excessive fixation to the ultimate object in the mistaken manner of permanence, pleasure, self and attractiveness.
+
+4. Proximate cause — unwillingness to see noble good persons, such as the Buddha.
+
+7. Conceit (māna)
+
+Maññatīti māno.
+
+1. Māno uṇṇatilakkhaṇo.
+
+2. Sampaggaharaso.
+
+3. Ketukamyatāpaccupaṭṭhāno.
+
+4. Diṭṭhivippayuttalobhapadaṭṭhāno.
+
+Ummādo viya daṭṭhabbo. (အဘိ၊ဋ္ဌ၊၁၊၂၉၇။ ဝိသုဒ္ဓိ၊၂၊၉၉။)
+
+The phenomenon that thinks of oneself with self-exaltation, conceiving oneself as “I”, is called conceit.
+
+
+<a id="M08-body-P095"></a>
+## The four aspects of conceit and the introduction to hate
+Miến / Burmese 95
+
+1. Characteristic — self-exaltation, elevation and the raising up of the mind.
+
+2. Function — exalting, that is, lifting up the associated phenomena.
+
+3. Manifestation — wanting to be like a king’s standard, that is, wishing to be foremost and conspicuous in all things.
+
+4. Proximate cause — greed dissociated from view.
+
+8. Hate (dosa)
+
+Dussanti tena, sayaṃ vā dussati, dussanamattameva vā tanti doso.
+
+1. Doso caṇḍikkalakkhaṇo pahaṭāsīviso viya.
+
+2. (a) Visappanaraso visanipāto viya.
+(b) Attano nissayadahanaraso vā dāvaggi viya.
+
+3. Dussanapaccupaṭṭhāno (= dūsanapaccupaṭṭhāno) laddhokāso viya sapatto.
+
+4. Āghātavatthupadaṭṭhāno. Visasaṃsaṭṭhapūtimuttaṃ viya daṭṭhabbo. (အဘိ၊ဋ္ဌ၊၁၊၂၉၈။ ဝိသုဒ္ဓိ၊၂၊၁၀၀။)
+
+1. Hate — the phenomenon that causes associated phenomena to do harm is called hate. Alternatively, the phenomenon that damages associated phenomena is called hate. Associated phenomena too harm body and mind, or the welfare of oneself and another, of both parties. Hate too does harm. Because the associated phenomena do harm on account of hate, hate is the cause of their doing harm. Because the associated phenomena are themselves harmed on account of hate, hate is also the phenomenon that damages them.
+
+
+<a id="M08-body-P096"></a>
+## The meanings and four aspects of hate
+Miến / Burmese 96
+
+2. Alternatively, hate itself is a phenomenon that does harm, hence it is called hate. Alternatively, because hate itself harms body and mind, or harms oneself and another, both parties, it is called hate.
+
+3. Alternatively, the mere act of harming both body and mind, or of harming oneself and another, both parties, is called hate.
+
+The characteristic, function and other aspects of hate are as follows.
+
+1. Characteristic — (a) the nature of harshness and fierceness of mind, that is, body and mind. (b) The nature of making body and mind fierce and harsh. (Think of a venomous snake struck with a stick.)
+
+2. Function — (a) causing oneself to become agitated and tremble, like snake venom spreading. (b) Alternatively, in the sense of accomplishment, agitation and trembling of the body, like the spread of snake venom. (c) Fiercely burning its own support, the heart-base, or body and mind, like a forest fire.
+
+3. Manifestation — the nature of damaging both body and mind, or harming the welfare of oneself and another, both parties. (Think of an enemy who finds an opportunity to strike.)
+
+4. Proximate cause — the nine or ten grounds for resentment (āghātavatthu). Think of putrid urine mixed with poison.
+
+
+<a id="M08-body-P097"></a>
+## Nine or ten grounds for resentment
+Miến / Burmese 97
+
+1. One becomes angry and bears a grudge, thinking, “That person harmed my welfare.”
+
+2. One becomes angry and bears a grudge, thinking, “That person is harming my welfare.”
+
+3. One becomes angry and bears a grudge, thinking, “That person will harm my welfare.”
+
+4. One becomes angry and bears a grudge, thinking, “That person harmed the welfare of someone dear to me.”
+
+5. One becomes angry and bears a grudge, thinking, “That person is harming the welfare of someone dear to me.”
+
+6. One becomes angry and bears a grudge, thinking, “That person will harm the welfare of someone dear to me.”
+
+7. One becomes angry and bears a grudge, thinking, “That person aided someone I dislike.”
+
+8. One becomes angry and bears a grudge, thinking, “That person is aiding someone I dislike.”
+
+9. One becomes angry and bears a grudge, thinking, “That person will aid someone I dislike.”
+
+10. Aṭṭhānakopa — anger without grounds.
+
+These ten cases are the ten grounds for resentment. (အဘိ၊၁၊၂၁၆။ စာပိုဒ်-၁၀၆၆။)
+
+Aṭṭhānakopa — In aṭṭhāna the word ṭhāna has the meaning of kāraṇa, “cause”. Anger where there is no cause for anger is called aṭṭhānakopa. Aṭṭhānakopa is anger when the matter is not a ground, that is, is not a cause. The Aṭṭhasālinī commentary explains why anger arises as follows…
+
+
+<a id="M08-body-P098"></a>
+## Instances of anger without grounds
+Miến / Burmese 98
+
+… Some people with a pronounced hateful temperament —
+
+1. Become angry because it rains too much.
+
+2. Become angry because it does not rain.
+
+3. Become angry because it is too hot.
+
+4. Become angry because it is not hot.
+
+5. Become angry when the wind blows.
+
+6. Become angry when the wind does not blow.
+
+7. Unable to bear the inconvenience of sweeping, become angry with the leaves.
+
+8. Unable to bear the robe being blown about by a strong wind, become angry with the wind.
+
+9. Become angry with a tree stump when they trip over it and fall.
+
+The Buddha taught with reference to groundless anger of this kind: aṭṭhānakopa is anger or resentment arising where there are no grounds, that is, no cause. (အဘိ၊ဋ္ဌ၊၁၊၃၉၉။)
+
+The Mūlaṭīkā further presents nine cases of groundless anger. They are as follows.
+
+1. One becomes angry, thinking, “That person did not help me before.”
+
+2. One becomes angry, thinking, “That person does not help me now either.”
+
+3. One becomes angry, thinking, “That person will not help me in the future either.”
+
+4. One becomes angry, thinking, “That person did not help someone dear to me before.”
+
+5. One becomes angry, thinking, “That person does not help someone dear to me now either.”
+
+6. Thinking, “That person will not help someone dear to me in the future either”…
+
+
+<a id="M08-body-P099"></a>
+## The grounds for resentment and the introduction to envy
+Miến / Burmese 99
+
+… one becomes angry.
+
+7. One becomes angry, thinking, “That person did not harm the welfare of someone I dislike before.”
+
+8. One becomes angry, thinking, “That person does not harm the welfare of someone I dislike now either.”
+
+9. One becomes angry, thinking, “That person will not harm the welfare of someone I dislike in the future either.”
+
+Anger or hate arising in this way is also aṭṭhānakopa, because it arises where there is no matter that warrants it. (မူလဋီ၊၁၊၁၆၈-၁၆၉။)
+
+This explanation by the teacher of the Mūlaṭīkā accords with the explanation on page 10 of the Uraga Sutta commentary in the commentary to the Suttanipāta. The Uraga Sutta commentary lists nineteen grounds for resentment. They are —
+
+1. The nine grounds for resentment enumerated first;
+
+2. The nine further grounds for resentment enumerated in the Mūlaṭīkā;
+
+3. One case of groundless anger. In all there are nineteen.
+
+The Saṅgīti Sutta (ဒီ၊၃၊၂၁၈။) and the Āghātavatthu Sutta (အံ၊၃၊၂၀၈။) present the original nine grounds for resentment. All these grounds for resentment are the proximate causes for the arising of hate.
+
+9. Envy (issā)
+
+Issatīti issā. Issāyanā issā.
+
+1. Issā parasampattīnaṃ usūyanalakkhaṇā.
+
+2. Tattheva anabhiratirasā.
+
+3. Tato vimukhabhāvapaccupaṭṭhānā.
+
+
+<a id="M08-body-P100"></a>
+## The four aspects of envy and the introduction to stinginess
+Miến / Burmese 100
+
+4. Parasampattipadaṭṭhānā. Saṃyojananti daṭṭhabbā. (အဘိ၊ဋ္ဌ၊၁၊၂၉၉။ ဝိသုဒ္ဓိ၊၂၊၁၀၀။)
+
+The phenomenon that is envious is called envy. The very act of envying is called envy.
+
+1. Characteristic — envying others’ success, that is, inability to bear it.
+
+2. Function — discontent with that very success of others, the opposite of delight.
+
+3. Manifestation — the nature of turning away, unable to look at others’ success.
+
+4. Proximate cause — others’ success.
+
+Usūyanaṃ asahanaṃ. (မဟာဋီ၊၂၊၁၅၂။)
+
+To envy others’ success is to be unable to bear seeing or hearing about their success and renown. It is envy of their surpassing oneself.
+
+10. Stinginess (macchariya)
+
+Maccharabhāvo macchariyaṃ.
+
+1. Macchariyaṃ laddhānaṃ vā labhitabbānaṃ vā attano sampattīnaṃ nigūhanalakkhaṇaṃ.
+
+2. Tāsaññeva parehi sādhāraṇabhāvaakkhamanarasaṃ.
+
+3. Saṅkocanapaccupaṭṭhānaṃ, kaṭukañcukatāpaccupaṭṭhānaṃ vā.
+
+4. Attasampattipadaṭṭhānaṃ. Cetaso virūpabhāvoti daṭṭhabbaṃ. (အဘိ၊ဋ္ဌ၊၁၊၂၉၉။ ဝိသုဒ္ဓိ၊၂၊၁၀၀။)
+
+
+<a id="M08-body-P101"></a>
+## The four aspects of stinginess and the introduction to remorse
+Miến / Burmese 101
+
+The phenomenon that is a cause and condition for a person’s being stingy is called stinginess.
+
+1. Characteristic — concealing one’s own possessions, those already acquired or still to be acquired.
+
+2. Function — inability to tolerate sharing those very possessions with others, the opposite of acquiescing.
+
+3. Manifestation — owing to dislike of sharing one’s possessions with others: (a) in the sense of mode of appearance, the nature of shrinking; (b) in the sense of mode of appearance, a bitter, disagreeable disposition; (c) alternatively, in the sense of result, producing disagreeable, unpleasant and distressing states.
+
+4. Proximate cause — one’s own possessions.
+
+11. Remorse (kukkucca)
+
+Kucchitaṃ kataṃ kukataṃ, tassa bhāvo kukkuccaṃ.
+
+1. Kukkuccaṃ pacchānutāpalakkhaṇaṃ.
+
+2. Katākatānusocanarasaṃ.
+
+3. Vippaṭisārapaccupaṭṭhānaṃ.
+
+4. Katākatapadaṭṭhānaṃ.
+
+Dāsabyaṃ viya daṭṭhabbaṃ. (အဘိ၊ဋ္ဌ၊၁၊၂၉၉။ ဝိသုဒ္ဓိ၊၂၊၁၀၀။)
+
+Misconduct committed and good conduct left undone, which are censurable, are called kukata. On account of that misconduct committed and good conduct left undone…
+
+
+<a id="M08-body-P102"></a>
+## The four aspects of remorse and the introduction to sloth
+Miến / Burmese 102
+
+… when they are taken as object, an uneasy cognitive process arises. The phenomenon that is a cause and condition for that process is called remorse. Alternatively, censurable consciousness is called kukata. The phenomenon that is a cause and condition for that censurable consciousness is called remorse.
+
+1. Characteristic — subsequent burning regret.
+
+2. Function — repeatedly grieving and worrying over misconduct committed or good conduct left undone.
+
+3. Manifestation — in the sense of result, making the mind burn and causing it to dwell on the matter repeatedly. Alternatively, in the sense of mode of appearance, unease of mind.
+
+4. Proximate cause — (a) misconduct committed, (b) good conduct left undone. Alternatively, (a) unwholesome action done, (b) wholesome action not done.
+
+12. Sloth (thīna)
+
+1. Thīnaṃ anussāhalakkhaṇaṃ.
+
+2. Vīriyavinodanarasaṃ.
+
+3. Saṃsīdanapaccupaṭṭhānaṃ.
+
+4. Arativijambhikādīsu (arati­tandivijambhitādīsu) ayonisomanasikārapadaṭṭhānaṃ. (အဘိ၊ဋ္ဌ၊၁၊၂၉၇။ ဝိသုဒ္ဓိ၊၂၊၉၉။)
+
+1. Characteristic — lack of exertion, that is, lack of initiative.
+
+2. Function — destroying energy, that is, driving it away.
+
+3. Manifestation — the nature of sinking down on the spot…
+
+
+<a id="M08-body-P103"></a>
+## Sloth and torpor
+Miến / Burmese 103
+
+… Alternatively, in the sense of mode of appearance, it is the nature that causes associated phenomena to sink. Alternatively, in the sense of result, it produces the sinking of associated phenomena.
+
+4. Proximate cause — unwise attention owing to discontent, laziness and bodily sluggishness and so forth with respect to peaceful monasteries in the forest or mountains, or to the sublime wholesome phenomena of serenity and insight. It is unwise attention to objects conducive to laziness.
+
+13. Torpor (middha)
+
+1. Middhaṃ akammaññatālakkhaṇaṃ.
+
+2. Onahanarasaṃ.
+
+3. (a) Līnatāpaccupaṭṭhānaṃ. (b) Pacalāyikāniddāpaccupaṭṭhānaṃ vā.
+
+4. Aratitandivijambhitādīsu ayonisomanasikārapadaṭṭhānaṃ. (အဘိ၊ဋ္ဌ၊၁၊၂၉၇။ ဝိသုဒ္ဓိ၊၂၊၉၉။)
+
+1. Characteristic — the unworkability of the associated mental factors in that situation.
+
+2. Function — covering and binding the doors of consciousness. Alternatively, binding associated phenomena so that they become heavy and sluggish.
+
+3. Manifestation — (a) in the sense of mode of appearance, the nature of shrinking back from apprehending the object. (b) Alternatively, in the sense of result, bringing on drowsiness and nodding until the eyelashes flutter.
+
+4. Proximate cause — with respect to forest or mountain monasteries, or to the wholesome phenomena of serenity and insight…
+
+
+<a id="M08-body-P104"></a>
+## The proximate cause of torpor and the introduction to doubt
+Miến / Burmese 104
+
+… unwise attention arises owing to discontent, laziness, bodily sluggishness and so forth.
+
+14. Doubt (vicikicchā)
+
+Vigatā cikicchāti vicikicchā. Sabhāvaṃ vā vicinanto tāya kicchati kilamatīti vicikicchā.
+
+1. Vicikicchā saṃsayalakkhaṇā.
+
+2. Kampanarasā.
+
+3. (a) Anicchayapaccupaṭṭhānā. (b) Anekaggāhapaccupaṭṭhānā vā.
+
+4. Ayonisomanasikārapadaṭṭhānā.
+
+(Vicikicchāya ayonisomanasikārapadaṭṭhānā.) Paṭipattiantarāyakarāti daṭṭhabbā. (အဘိ၊ဋ္ဌ၊၁၊၃၀၀။ ဝိသုဒ္ဓိ၊၂၊၁၀၁။)
+
+When uncertainty, “Is it so or is it not so?”, arises with regard to the eight grounds for doubt, such as the Perfectly Self-Enlightened Buddha, the true Buddha, and so forth, it is called doubt because treatment with the medicine of wisdom is absent, that is, it is very difficult to treat with the medicine of wisdom. (This is said because it is difficult to treat with the medicine of wisdom. It can nevertheless be fully cured.)
+
+Alternatively, when one investigates and seeks out the truth, such as the true Buddha, or the nature of ultimate phenomena, such as impermanence, the phenomenon that makes the mind of the investigator weary is also called doubt.
+
+1. Characteristic — the nature of uncertainty concerning the eight grounds.
+
+
+<a id="M08-body-P105"></a>
+## The four aspects and the grounds of doubt
+Miến / Burmese 105
+
+2. Function — making the mind waver among the various objects concerning the eight grounds.
+
+3. Manifestation — (a) in the sense of result, producing indecision and hesitation concerning the objects of the eight grounds; (b) in the sense of mode of appearance, grasping the object in various ways and from various sides.
+
+4. Proximate cause — unwise attention to the objects of the eight grounds that give rise to doubt. Remember that doubt is a phenomenon that obstructs practice.
+
+“The characteristic of uncertainty” means the following
+
+1. Does the omniscient Perfectly Self-Enlightened Buddha who knows all phenomena really exist?
+
+2. Is it true that by practising according to the teaching called the Noble Eightfold Path one can realize Nibbāna? Do path knowledge, fruition knowledge and Nibbāna really exist? Are the teachings learned as pariyatti actually true?
+
+3. Do the true noble Saṅgha really exist, who have actually practised the teaching leading out of saṃsāra called the Noble Eightfold Path and have actually known the teaching leading out of saṃsāra?
+
+4. Do the beneficial results of practising the three noble trainings, virtue, concentration and wisdom, really exist?
+
+5. The past life and the past aggregates, which may be called the earlier part of saṃsāra…
+
+
+<a id="M08-body-P106"></a>
+## The eight subjects of doubt
+Miến / Burmese 106
+
+… did it really exist? Or did it only begin to exist when some creator made it?
+
+6. Do the five future aggregates, called the later end of saṃsāra, really exist? Is it really true that, if Nibbāna has not been attained, there is still a future existence to be reached? Or does everything come to an end at death in this very life?
+
+7. Do both the past life with its five past aggregates, called the earlier end of saṃsāra, and the future life with its five future aggregates, called the later end of saṃsāra, really exist?
+
+8. With ignorance as condition, formations arise. With formations as condition, consciousness arises. Is dependent origination (paṭiccasamuppāda), the causal connection that shows the recurring course of the rounds of defilement, kamma and result in this way, really true? Is it true that each good or bad deed leaves a potency in the continuum of aggregates as wholesome or unwholesome kamma? Is it true that the results of that kamma will be experienced?
+
+According to the Abhidhamma method, the state of going round in circles through vacillation about these eight subjects, thinking “is it so, is it not so, is it true, is it not true?” and so forth, is called saṃsaya, that is, doubt.
+
+“Niccaṃ nu kho idaṃ, aniccaṃ nu kho”ti ādinā pavattiyā ekasmiṃ ākāre saṇṭhātuṃ asamatthatāya samantato setīti saṃsayo. (Abhi-a I, 301.)
+
+
+<a id="M08-body-P107"></a>
+## Doubt and reviewing the mind
+Miến / Burmese 107
+
+When one thinks, “Is this material phenomenon, or this mental phenomenon, permanent or impermanent?”, the mind cannot settle firmly on a single aspect, either permanence or impermanence. Because it goes round and round among such aspects, it is also called saṃsaya. (Abhi-a I, 301.) Doubt (vicikicchā) has the characteristic of such uncertainty.
+
+Review with knowledge
+
+Tasmātiha, bhikkhave, abhikkhaṇaṃ sakaṃ cittaṃ paccavekkhitabbaṃ: “Dīgharattam idaṃ cittaṃ saṅkiliṭṭhaṃ rāgena dosena mohenā”ti. Cittasaṅkilesā, bhikkhave, sattā saṅkilissanti, cittavodānā sattā visujjhanti. (Saṃ II, 123.)
+
+Bhikkhus … those ordinary beings are dragged along by the leash of views around their necks, tied by the cord of craving to the post of identity view, which is the five aggregates subject to clinging. Therefore, in this noble dispensation, good sons and daughters should frequently review their own minds with knowledge as follows. “For a long time in saṃsāra this mind of ours has been defiled by greed, hatred and delusion.” Bhikkhus … through the defilement of mind beings become defiled, weary and distressed. Through the cleansing of mind beings become purified. (Saṃ II, 123.)
+
+❀ ❀ ❀
+
+
+<a id="M08-body-P108"></a>
+## Beautiful mental factors — faith
+Miến / Burmese 108
+
+Section on beautiful mental factors
+
+1. Faith (saddhā)
+
+1. Saddhā — (a) saddahanalakkhaṇā, (b) okappanalakkhaṇā vā.
+2. (a) Pasādanarasā udakappasādakamaṇi viya.
+   (b) Pakkhandanarasā vā oghuttaraṇo viya.
+3. (a) Akālussiyapaccupaṭṭhānā, (b) adhimuttipaccupaṭṭhānā vā.
+4. (a) Saddheyyavatthupadaṭṭhānā, (b) saddhammassavanādisotāpattiyaṅgapadaṭṭhānā vā.
+   Hatthavittabījāni viya daṭṭhabbā. (Abhi-a I, 163; Visuddhi II, 94.)
+
+1 (a). Having faith in a worthy object of faith (saddheyyavatthu) — characteristic.
+
+1 (b). Alternatively, entering into the worthy object of faith according to its nature and deciding “it has this nature”, that is, placing firm trust in it — characteristic.
+
+2 (a). Clarifying the associated phenomena with respect to the worthy object of faith, like a wheel-turning monarch’s jewel that clears muddy water — active function.
+
+2 (b). Like a man who crosses a flowing current without fear of crocodiles, aquatic monsters and the like, plunging into the worthy object of faith and causing the conascent phenomena to plunge into it without retreat — active function.
+
+3 (a). The unclouded state of the associated phenomena with respect to the worthy object of faith — manifestation as the manner of appearing.
+
+
+<a id="M08-body-P109"></a>
+## Manifestation and proximate cause of faith. The four factors of stream-entry
+Miến / Burmese 109
+
+3 (b). Alternatively, settling and deciding on the worthy object of faith, in opposition to faithlessness and the wrong resolution that comes from mistaken attention — manifestation as the manner of appearing.
+
+   Alternatively, bringing forth the result of firm resolve regarding the worthy object of faith — manifestation as result.
+
+4 (a). The worthy object of faith — proximate cause.
+
+4 (b). Alternatively, factors that lead to the path of stream-entry, such as listening to the true Dhamma (saddhammassavana), that is, listening to the teaching of good persons — proximate cause.
+
+The Triple Gem, kamma, the result of kamma and so forth, that is, the eight subjects opposed to the eight subjects of doubt, are the worthy objects of faith.
+
+The four factors leading to the path of stream-entry
+
+1. Association with good persons (sappurisasaṃseva), that is, relying on and drawing near to noble persons who can teach, explain and guide one concerning the Four Noble Truths until one attains the path, enters fruition and sees and knows Nibbāna.
+
+2. Listening to the true Dhamma (saddhammassavana), that is, listening to the teaching of good persons concerning the Four Noble Truths.
+
+3. Wise attention (yonisomanasikāra), that is, attending in the right way to formations called the truth of suffering and the truth of its origin, as material and mental phenomena, as causes and effects, and as impermanent, suffering, non-self and unattractive.
+
+4. Practice in accordance with the Dhamma (dhammānudhammapaṭipatti), that is, undertaking the training in virtue, concentration and wisdom to be developed and accumulated before the noble path, from the virtue of taking refuge up to conformity knowledge, in accordance with the nine supramundane phenomena…
+
+
+<a id="M08-body-P110"></a>
+## Similes for faith and the four aspects of mindfulness
+Miến / Burmese 110
+
+… Training in these practices. These four are the four factors leading to the path of stream-entry.
+
+Faith is like a hand in picking up wholesome phenomena, the jewels that are wholesome phenomena. Faith is like wealth already in one’s hand in bringing all mundane and supramundane attainments to completion. Faith is like seed in bringing forth the fruits of the Deathless, namely path, fruition and Nibbāna. (Mūlaṭī I, 89.)
+
+2. Mindfulness (sati)
+
+1. Apilāpanalakkhaṇā sati, upaggaṇhanalakkhaṇā ca.
+2. Asammosanarasā (asammosarasā).
+3. Ārakkhapaccupaṭṭhānā, visayābhimukhabhāvapaccupaṭṭhānā vā (visayābhimukhabhāvapaccupaṭṭhānā vā).
+4. Thirasaññāpadaṭṭhānā, kāyādisatipaṭṭhānapadaṭṭhānā vā.
+   Ārammaṇe daḷhapatiṭṭhitattā pana esikā viya, cakkhudvārādirakkhaṇato dovāriko viya ca daṭṭhabbā. (Abhi-a I, 165; Visuddhi II, 94.)
+
+1 (a). Holding the associated phenomena on the object of an establishment of mindfulness, that is, the body, feeling, mind or phenomena where mindfulness is established, so that they do not float like a gourd but sink firmly like a stone — characteristic.
+
+   Alternatively, mindfulness itself does not float like a gourd on the object, such as materiality and mentality, where it is established, but sinks firmly like a stone — characteristic.
+
+
+<a id="M08-body-P111"></a>
+## The four aspects of mindfulness. Mindfulness and attention
+Miến / Burmese 111
+
+   Alternatively, preventing the contemplated objects such as materiality and mentality, where mindfulness is established, from floating like a gourd and making them firm — characteristic.
+   Alternatively, recollecting and not forgetting wholesome phenomena such as the establishments of mindfulness — characteristic.
+
+1 (b). Alternatively, taking hold of beneficial good practices — characteristic.
+
+2. Destroying the forgetfulness and heedlessness that cause the object to be lost, that is, not letting the object be lost — active function.
+
+3 (a). Guarding the mind. Alternatively, guarding the object under contemplation — manifestation.
+
+3 (b). Alternatively, causing the mind to face towards the object — manifestation.
+
+4 (a). Firm perception — proximate cause.
+
+4 (b). Alternatively, the establishments of mindfulness beginning with the body, or an establishment of mindfulness that arises taking the body and the like as object — proximate cause.
+
+Mindfulness and attention
+
+Sampayuttadhamme ārammaṇābhimukhe sārento viya hotīti manasikāro sāraṇalakkhaṇo vutto. Satiyā asammussanavasena visayābhimukhabhāvapaccupaṭṭhānatā, manasikārassa pana saṃyojanavasena ārammaṇābhimukhabhāvapaccupaṭṭhānatāti ayametesaṃ viseso. (Mahāṭī II, 147.)
+
+
+<a id="M08-body-P112"></a>
+## Distinguishing mindfulness from attention. Moral shame
+Miến / Burmese 112
+
+Mindfulness and attention both manifest as facing towards the object (visayābhimukhabhāvapaccupaṭṭhāna). Their difference is as follows. Because attention is as though driving the associated phenomena to run towards the object, it is said to have the characteristic of directing (sāraṇalakkhaṇa), that is, driving the associated phenomena towards the object. Mindfulness appears to the meditator’s knowledge as facing the object by not losing it, that is, by dispelling forgetfulness. Attention appears to the meditator’s knowledge as facing the object by connecting the associated phenomena with it. Remember their difference in this way. (Mahāṭī II, 147.)
+
+3. Moral shame (hiri)
+
+1. Pāpato jigucchanalakkhaṇā hirī.
+2. Lajjākārena pāpānaṃ akaraṇarasā.
+3. Lajjākārena pāpato saṅkocanapaccupaṭṭhānā.
+4. Attagāravapadaṭṭhānā. (Visuddhi II, 94.)
+
+1. Shrinking from wrongdoing — characteristic.
+
+2. Not doing wrong through shame — active function.
+
+3. Recoiling from wrongdoing through shame — manifestation.
+
+4. Self-respect — proximate cause.
+
+
+<a id="M08-body-P113"></a>
+## Moral dread. Comparing moral shame and moral dread
+Miến / Burmese 113
+
+4. Moral dread (ottappa)
+
+1. Uttāsanalakkhaṇaṃ ottappaṃ.
+2. Uttāsākārena pāpānaṃ akaraṇarasaṃ.
+3. Uttāsākārena pāpato saṅkocanapaccupaṭṭhānaṃ.
+4. Paragāravapadaṭṭhānaṃ. (Visuddhi II, 94.)
+
+1. Dreading wrongdoing — characteristic.
+
+2. Not doing wrong through dread — active function.
+
+3. Recoiling from wrongdoing through dread — manifestation.
+
+4. Respect for others — proximate cause.
+
+The nature that feels ashamed because of bodily misconduct and the like, is ashamed of bodily misconduct and the like, and feels shame with regard to bodily misconduct and the like, is called moral shame (hiri). Hiri is the name for shame. The nature that dreads the two kinds of suffering, here and in saṃsāra, that result from bodily misconduct and the like, dreads bodily misconduct and the like, and feels dread with regard to bodily misconduct and the like, is called moral dread (ottappa). Ottappa is the name for dread, that is, knowledge (ñāṇa).
+
+Out of self-respect, a man or woman of good family feels shame and abandons wrongdoing. Thus moral shame is like a daughter of good family. Out of respect for others, a man or woman of good family feels dread and abandons wrongdoing. Thus…
+
+
+<a id="M08-body-P114"></a>
+## Similes for moral shame and moral dread
+Miến / Burmese 114
+
+… moral dread is like a courtesan. (Visuddhi II, 94.)
+
+A daughter of good family reflects on her noble birth and, out of self-respect, is ashamed to have relations with a man other than her husband. Likewise a person endowed with moral shame reflects on their noble birth, maturity, courage, learning and knowledge, thinking, “A person like me should not engage in misconduct like this. Such misconduct is the work of persons of low birth, the immature, the faint-hearted, the unlearned and the foolish.” Out of self-respect that person recoils from, is ashamed of and avoids misconduct.
+
+A courtesan fears becoming pregnant because men recoil from a pregnant woman, and because she has regard for them. Likewise a person endowed with moral dread reflects as follows. “Good person, if you actually do this wrong, you will be censured among the four assemblies of monks, nuns, laymen and laywomen. Just as city dwellers recoil from filth, good and wise persons will censure you and recoil from you for your wrongdoing. Good person, what will you do if the good and wise persons who cherish and observe virtue shun and exclude you?” Reflecting thus, that person feels dread out of respect for others and does not do wrong.
+
+
+<a id="M08-body-P115"></a>
+## Non-greed
+Miến / Burmese 115
+
+5. Non-greed (alobha)
+
+1. (a) Alobho ārammaṇe cittassa agedhalakkhaṇo.
+   (b) Alaggabhāvalakkhaṇo vā kamaladale jalabindu viya.
+2. Apariggaharaso (apariggahaṇaraso) muttabhikkhu viya.
+3. Anallīnabhāvapaccupaṭṭhāno asucimhi patitapuriso viya. (Abhi-a I, 170–171; Visuddhi II, 94.)
+
+1 (a). The mind’s lack of greed and infatuation with the object — characteristic.
+
+1 (b). Alternatively, the mind’s not adhering to the object, like a drop of water that does not adhere to a lotus leaf — characteristic.
+
+2. Not taking hold of the object through craving with the thought “this is me, this is mine”, like an arahant freed from defilements who takes no thing to be “me” — active function.
+
+3. Not wanting to cling to the object, like a man who has fallen into filth — manifestation.
+
+4. The object, or associated conditions such as physical base, object and contact, or wise attention (yonisomanasikāra) — proximate cause.
+
+1. The phenomenon that causes associated phenomena to be without greed for the object is called non-greed.
+2. Because it itself has no greed for the object, it is called non-greed.
+3. The phenomenon consisting simply in the absence of greed for the object is called non-greed. (Abhi-a I, 170; Visuddhi II, 94.)
+
+
+<a id="M08-body-P116"></a>
+## Non-hatred and specific neutrality
+Miến / Burmese 116
+
+6. Non-hatred (adosa)
+
+1. (a) Adoso acaṇḍikkalakkhaṇo.
+   (b) Avirodhalakkhaṇo vā anukūlamitto viya.
+2. (a) Āghātavinayaraso.
+   (b) Pariḷāhavinayaraso vā candanaṃ viya.
+3. Sommabhāvapaccupaṭṭhāno puṇṇacando viya. (Abhi-a I, 171; Visuddhi II, 95.)
+
+1 (a). The mind’s absence of fierceness and violence, that is, the nature opposed to the anger that makes the mind fierce and violent — characteristic.
+
+1 (b). Alternatively, non-opposition, like a good friend who is agreeable in all affairs — characteristic.
+
+2 (a). Dispelling hatred and resentment — active function.
+
+2 (b). Alternatively, removing the heat of hatred, like sandalwood — active function.
+
+3. The clear, cool quality of moonlight — manifestation.
+
+4. The object, or associated conditions such as physical base, object and contact, or wise attention — proximate cause.
+
+7. Specific neutrality (tatramajjhattatā)
+
+1. Tatramajjhattatā cittacetasikānaṃ samavāhitalakkhaṇā.
+2. (a) Ūnādhikatānivāraṇarasā, (b) pakkhapātupacchedanarasā vā.
+3. Majjhattabhāvapaccupaṭṭhānā. Cittacetasikānaṃ ajjhupekkhanavasena samappavattānaṃ ājāneyyānaṃ ajjhupekkhanasārathi viya daṭṭhabbā. (Abhi-a I, 177; Visuddhi II, 96.)
+
+
+<a id="M08-body-P117"></a>
+## Specific neutrality. Tranquillity of the mental body and consciousness
+Miến / Burmese 117
+
+1. Causing the associated consciousness and mental factors, that is, the associated phenomena, to carry out their respective tasks evenly — characteristic.
+
+2 (a). Preventing the associated phenomena from falling short or going to excess in their respective tasks — active function.
+
+2 (b). Alternatively, cutting off inclination towards the side of deficiency or excess, that is, partisanship — active function.
+
+   Alternatively, preventing the two extremes of a contracted mind due to excessive sloth and torpor and an arrogant mind led by conceit — active function.
+
+3. Remaining in the middle, or looking on with impartiality — manifestation.
+
+4. The associated phenomena, or conditions such as physical base, object and contact, or wise attention — proximate cause.
+
+8–9. Tranquillity of the mental body and tranquillity of consciousness (kāyapassaddhi, cittapassaddhi)
+
+1. Kāyacittadarathūpasamalakkhaṇā kāyacittapassaddhiyo.
+2. Kāyacittadarathanimmaddanarasā (kāyacittadarathamaddanarasā).
+3. Kāyacittānaṃ aparipphandanasītibhāvapaccupaṭṭhānā (aparipphandasītibhāvapaccupaṭṭhānā).
+4. Kāyacittapadaṭṭhānā. Kāyacittānaṃ avūpasamakarauddhaccādikilesapaṭipakkhabhūtāti daṭṭhabbā. (Abhi-a I, 174; Visuddhi II, 95.)
+
+1. Calming the distress of the mental factors and consciousness, or the calming of the distressed mental factors and consciousness — characteristic.
+
+
+<a id="M08-body-P118"></a>
+## Tranquillity and lightness of the mental body and consciousness
+Miến / Burmese 118
+
+2. Subduing and destroying the distress of the mental factors and consciousness — active function.
+
+3. The peaceful, cool state of the mental factors and consciousness. Alternatively, their being still and calm — manifestation.
+
+4. The mental factors and consciousness — proximate cause.
+
+Understand these two as opposing the defilements such as restlessness, the heat of defilement that makes the mental factors and consciousness unpeaceful. In “tranquillity of the mental body”, “body” denotes the three mental aggregates of feeling, perception and formations, that is, the mental factors. In “tranquillity of consciousness”, “consciousness” denotes the consciousness aggregate. (Abhi-a I, 174; Visuddhi II, 95.)
+
+10–11. Lightness of the mental body and lightness of consciousness (kāyalahutā, cittalahutā)
+
+1. Kāyacittalahutā kāyacittagarubhāvūpasamalakkhaṇā.
+2. Kāyacittagarubhāvanimmaddanarasā.
+3. Kāyacittānaṃ adandhatāpaccupaṭṭhānā.
+4. Kāyacittapadaṭṭhānā. Kāyacittānaṃ garubhāvakarathinamiddhādikilesapaṭipakkhabhūtāti daṭṭhabbā. (Abhi-a I, 174; Visuddhi II, 95.)
+
+1. Calming the heaviness of the mental factors and consciousness, or the subsiding of heaviness in the mental factors and consciousness — characteristic.
+
+2. Subduing and destroying the heaviness of the mental factors and consciousness — active function.
+
+
+<a id="M08-body-P119"></a>
+## Lightness and malleability of the mental body and consciousness
+Miến / Burmese 119
+
+3. The state of the mental factors and consciousness being neither heavy nor sluggish — manifestation.
+
+4. The mental factors and consciousness — proximate cause.
+
+Understand these two as opposing the defilements headed by sloth and torpor, which cause heaviness in the mental factors and consciousness.
+
+When discerning the five aggregates subject to clinging in the three times, past, future and present, in both internal and external continua, when discerning the causes of those five aggregates, and when discerning the aggregates together with their causes, that is, formations, with insight by applying the three characteristics, the ability to shift rapidly from one object to another, discern and contemplate with insight is due to the power of these mental factors of lightness.
+
+12–13. Malleability of the mental body and malleability of consciousness (kāyamudutā, cittamudutā)
+
+1. Kāyacittamudutā kāyacittathaddhabhāvūpasamalakkhaṇā (kāyacittatthambhūpasamalakkhaṇā).
+2. Kāyacittathaddhabhāvanimmaddanarasā.
+3. Appaṭighātapaccupaṭṭhānā.
+4. Kāyacittapadaṭṭhānā. Kāyacittānaṃ thaddhabhāvakara-diṭṭhimānādikilesapaṭipakkhabhūtāti daṭṭhabbā. (Abhi-a I, 174; Visuddhi II, 95.)
+
+1. Calming the rigidity of the mental factors and consciousness, or the subsiding of rigidity in the mental factors and consciousness — characteristic.
+
+
+<a id="M08-body-P120"></a>
+## Malleability and wieldiness of the mental body and consciousness
+Miến / Burmese 120
+
+2. Subduing and destroying the rigidity of the mental factors and consciousness — active function.
+
+3. The state in which the mental factors and consciousness do not meet resistance on any object, or are unobstructed — manifestation as the manner of appearing.
+
+   Alternatively, bringing about the result that the associated phenomena do not meet resistance on any object — manifestation as result.
+
+4. The mental factors and consciousness — proximate cause.
+
+Understand these two as opposing the defilements headed by wrong view and conceit, which cause rigidity in the mental factors and consciousness. (Abhi-a I, 174; Visuddhi II, 95.)
+
+Whatever phenomena have lightness intact, undiminished and free from the heaviness of unwholesome phenomena associated with delusion, are endowed with lightness. Their being unobstructed and unhampered when doing what is wholesome is malleability. Because of this unobstructed and unhampered quality, the Buddha taught the softness, pliancy and similar qualities of mental phenomena on the analogy of material qualities such as material malleability. (Mūlaṭī I, 97.)
+
+14–15. Wieldiness of the mental body and wieldiness of consciousness (kāyakammaññatā, cittakammaññatā)
+
+1. Kāyacittakammaññatā kāyacittākammaññabhāvūpasamalakkhaṇā.
+2. Kāyacittānaṃ akammaññabhāvanimmaddanarasā.
+3. Kāyacittānaṃ ārammaṇakaraṇasampattipaccupaṭṭhānā.
+4. Kāyacittapadaṭṭhānā.
+
+
+<a id="M08-body-P121"></a>
+## Wieldiness of the mental body and of consciousness
+Miến / Burmese 121
+
+Kāyacittānaṃ akammaññabhāvakarasesanīvaraṇapaṭipakkhabhūtāti daṭṭhabbā. Tā pasādanīyavatthūsu pasādāvahā, hitakiriyāsu viniyogakkhamabhāvāvahā suvaṇṇavisuddhi viyāti daṭṭhabbā. (Abhi-a I, 174. Visuddhi II, 95.)
+
+1. Calming the unwieldiness of mental factors and consciousness in wholesome activities — characteristic. Alternatively, the subsiding of the unwieldiness of mental factors and consciousness in wholesome activities — characteristic.
+
+2. Subduing and dispelling the unwieldiness of mental factors and consciousness in wholesome activities — function as activity.
+
+3. The accomplishment of mental factors and consciousness in taking an object — manifestation as mode of appearance. Alternatively, they bring about the result that mental factors and consciousness can take their object fully — manifestation as result.
+
+4. Mental factors and consciousness — proximate cause.
+
+Remember that these mental factors oppose defilements such as sensual desire, apart from restlessness and remorse, that make mental factors and consciousness unwieldy in meritorious activity, in wholesome work such as giving, virtue and cultivation of serenity and insight. They also oppose the defiling hindrances that have the same abode and support as those defilements. These mental factors of wieldiness bring about confidence in objects worthy of confidence, such as the Three Jewels. They perform and assist that function. Just as gold that has been thoroughly melted and refined is fit and readily workable for making ornaments such as beads and earrings…
+
+
+<a id="M08-body-P122"></a>
+## Wieldiness and proficiency
+Miến / Burmese 122
+
+… likewise, those mental factors of wieldiness bring about fitness to be coordinated and employed in beneficial undertakings such as giving, virtue, and cultivation of serenity and insight. These undertakings assuredly yield welfare and happiness on three levels, the human realm, the heavenly realm and Nibbāna. They perform and assist that function. (Abhi-a I, 174. Visuddhi II, 95.)
+
+16–17. Proficiency of the mental body and of consciousness (kāyapāguññatā, cittapāguññatā)
+
+1. Kāyacittapāguññatā kāyacittānaṃ agelaññabhāvalakkhaṇā.
+2. Kāyacittagelaññanimmaddanarasā.
+3. Nirādīnavapaccupaṭṭhānā.
+4. Kāyacittapadaṭṭhānā.
+Kāyacittagelaññakara-assaddhiyādikilesapaṭipakkhabhūtāti daṭṭhabbā. (Abhi-a I, 175. Visuddhi II, 96.)
+
+1. The absence of sickness, that is, of pain, in mental factors and consciousness — characteristic.
+
+2. Subduing and dispelling the sickness, that is, the pain, of mental factors and consciousness — function as activity.
+
+3. The faultlessness, absence of defect, of mental factors and consciousness — manifestation as mode of appearance. Alternatively, bringing about the result that mental factors and consciousness are faultless, free from defect — manifestation as result.
+
+4. Mental factors and consciousness — proximate cause.
+
+The defilements that cause mental factors and consciousness to be sick, unhealthy and in pain are, with respect to the Three Jewels, kamma and its results, and so on…
+
+
+<a id="M08-body-P123"></a>
+## Lack of confidence and proficiency. Uprightness
+Miến / Burmese 123
+
+… unable to have confidence, that is, dominated by lack of confidence. Remember that the mental factors of proficiency oppose those defilements.
+
+The inability to have confidence in the Three Jewels, kamma and its results, and so on, is called lack of confidence (assaddhiya). The groups of unwholesome phenomena arising on the basis of that lack of confidence are the ailments of mental factors and consciousness. A mind to which those unwholesome ailments cling is called a sick, ailing or unhealthy mind, because it is pierced and drained by the germs of defilement. The element of consciousness so pierced and drained by these germs has no confidence in meritorious activity, in wholesome undertakings such as giving, virtue and cultivation of serenity and insight. Thus it has no interest in these undertakings and does not perform them. As it has no habit of practising them, the mental factors and consciousness of a person with such lack of confidence cannot acquire qualities such as thorough training, competence in learning, proficiency and freedom from weariness with respect to wholesome objects such as giving, virtue and cultivation of serenity and insight. The mental factors of proficiency cannot arise. These mental factors of proficiency directly oppose groups of unwholesome phenomena dominated by lack of confidence. They can subdue and dispel those groups.
+
+18–19. Uprightness of the mental body and of consciousness (kāyujukatā, cittujukatā)
+
+1. Kāyacittujukatā kāyacittānaṃ ajjavalakkhaṇā.
+2. Kāyacittakuṭilabhāvanimmaddanarasā.
+3. Ajimhatāpaccupaṭṭhānā.
+4. Kāyacittapadaṭṭhānā.
+
+
+<a id="M08-body-P124"></a>
+## Uprightness opposes concealment and hypocrisy
+Miến / Burmese 124
+
+Kāyacittānaṃ kuṭilabhāvakarāmāyāsāṭheyyādikilesapaṭipakkhabhūtāti daṭṭhabbā. (Abhi-a I, 175. Visuddhi II, 96.)
+
+1. The straightness of mental factors and consciousness — characteristic.
+
+2. Subduing and dispelling the crookedness of mental factors and consciousness — function as activity.
+
+3. The absence of crookedness in mental factors and consciousness — manifestation as mode of appearance. Alternatively, bringing about the result that all associated mental factors and consciousness are free of crookedness — manifestation as result.
+
+4. Mental factors and consciousness — proximate cause.
+
+Remember that these phenomena oppose the defilements dominated by concealment (māyā) and hypocrisy (sāṭheyya), which make mental factors and consciousness crooked. (Abhi-a I, 175. Visuddhi II, 96.)
+
+The commentary says, “Māyā has the characteristic of concealing an evident fault one has committed. Sāṭheyya has the characteristic of displaying and praising a good quality one clearly does not possess.” The unwholesome aggregates arising by covering up a fault one actually has and deceiving others as though one were blameless, or by pretending through crooked deception to possess a good quality one lacks, are called māyā, sāṭheyya and so forth. The groups of defilements that arise and increase in dependence on māyā and sāṭheyya are also called by those names. (Abhi-a II, 475. Mahāṭīkā II, 146.)
+
+
+<a id="M08-body-P125"></a>
+## Why the six pairs of mental factors are stated separately
+Miến / Burmese 125
+
+In terms of the actual phenomena, the faults are to be elucidated in terms of unwholesome aggregates, sometimes dominated by greed and sometimes by conceit.
+
+Ettha ca cittapassaddhiādīhi cittameva passaddhaṃ, lahu, mudu, kammaññaṃ, paguṇaṃ, uju ca hoti. Kāyapassaddhiādīhi pana rūpakāyopi. Tenevettha bhagavatā dhammānaṃ duvidhatā vuttā, na sabbattha. (Mahāṭīkā II, 146.)
+
+Through tranquillity of consciousness, consciousness becomes tranquil. Through lightness of consciousness it becomes light. Through malleability of consciousness it becomes malleable. Through wieldiness of consciousness it becomes wieldy in wholesome work. Through proficiency of consciousness it becomes trained, competent in learning and proficient in wholesome work. Through uprightness of consciousness it becomes straight. Each of these mental factors produces only the corresponding quality of consciousness. Through tranquillity of the mental body and the rest, however, both the mental body, comprising the feeling, perception and formations aggregates, and the material body become tranquil, light, malleable, wieldy in wholesome work, trained, practised and proficient in wholesome work, and upright. For this reason, only for tranquillity of the mental body and the rest did the Blessed One teach two kinds separately, such as tranquillity of the mental body and tranquillity of consciousness. There was no need to teach two separate kinds for phenomena of general application, such as concentration. (Mahāṭīkā II, 146.)
+
+What is singled out here is the pervasion of the whole body by the excellent materiality produced by joyful consciousness, that is, by excellent joyful consciousnesses associated with paired mental factors such as tranquillity of the mental body.
+
+
+<a id="M08-body-P126"></a>
+## The three abstinence factors. Right speech
+Miến / Burmese 126
+
+20–21–22. The three abstinence factors (virati)
+
+1. Tissopi viratiyo kāyaduccaritādivatthūnaṃ avītikkamalakkhaṇā. Amandanalakkhaṇāti vuttaṃ hoti.
+2. Kāyaduccaritādivatthuto saṅkocanarasā.
+3. Akiriyapaccupaṭṭhānā.
+4. Saddhāhirottappa-appicchatādiguṇapadaṭṭhānā.
+Pāpakiriyato cittassa vimukhabhūtāti (vimukhabhāvabhūtāti) daṭṭhabbā. (Abhi-a I, 177. Visuddhi II, 97.)
+
+[Note. The commentaries group all three abstinence factors when explaining characteristic, function and the other aspects as above. Those with keen understanding can grasp the meaning, understand the mode of discernment and know how to discern it. Those of less keen understanding may not grasp that mode of discernment, even when trying to do so. For that reason these mental factors are presented again one by one. In a single consciousness moment, or in a single sequence of impulsions in a cognitive process, in a mundane occurrence, these abstinence factors can arise only one at a time. Thus, when discerning and cultivating insight, they too must be discerned separately, one by one.]
+
+20. Right speech (sammāvācā)
+
+1. Sammāvācā vacīduccaritavatthūnaṃ avītikkamalakkhaṇā.
+2. Vacīduccaritavatthuto saṅkocanarasā.
+3. Akiriyapaccupaṭṭhānā.
+4. Saddhāhirottappa-appicchatādiguṇapadaṭṭhānā.
+
+
+<a id="M08-body-P127"></a>
+## Right speech and abstaining from false speech
+Miến / Burmese 127
+
+1. Not transgressing in respect of the grounds for verbal misconduct, that is, not crossing that boundary — characteristic.
+
+2. Withdrawing from a ground for verbal misconduct — function as activity.
+
+3. Not committing verbal misconduct, that is, refraining and abstaining from verbal misconduct — manifestation.
+
+4. Qualities such as confidence, shame, fear of wrongdoing and fewness of wishes (appicchatā) — proximate cause.
+
+[Note. As there are four kinds of verbal misconduct, one may discern taking any one as object, or discern each kind in turn as object. The following gives a further example of abstaining from false speech as verbal misconduct.]
+
+1. Sammāvācā musāvādassa avītikkamalakkhaṇā.
+2. Musāvādā saṅkocanarasā.
+3. Akiriyapaccupaṭṭhānā.
+4. Saddhāhirottappa-appicchatādiguṇapadaṭṭhānā.
+
+1. Not transgressing by speaking falsely — characteristic.
+
+2. Withdrawing from speaking falsely — function as activity.
+
+3. Not engaging in false speech — manifestation.
+
+4. Qualities such as confidence, shame, fear of wrongdoing and fewness of wishes (appicchatā) — proximate cause.
+
+[Use this model also to discern abstaining from divisive speech (pisuṇavācā), harsh speech (pharusavācā) and idle chatter (samphappalāpa).]
+
+
+<a id="M08-body-P128"></a>
+## Right action and abstaining from killing
+Miến / Burmese 128
+
+21. Right action (sammākammanta)
+
+1. Sammākammanto kāyaduccaritavatthūnaṃ avītikkamalakkhaṇo.
+2. Kāyaduccaritavatthuto saṅkocanaraso.
+3. Akiriyapaccupaṭṭhāno.
+4. Saddhāhirottappa-appicchatādiguṇapadaṭṭhāno.
+
+1. Not transgressing in respect of the grounds for bodily misconduct — characteristic.
+
+2. Withdrawing from bodily misconduct — function as activity.
+
+3. Not engaging in bodily misconduct — manifestation.
+
+4. Qualities such as confidence, shame, fear of wrongdoing and fewness of wishes (appicchatā) — proximate cause.
+
+Example of abstaining from killing (pāṇātipāta) as bodily misconduct
+
+1. Sammākammanto pāṇātipātassa avītikkamalakkhaṇo.
+2. Pāṇātipātā saṅkocanaraso.
+3. Akiriyapaccupaṭṭhāno.
+4. Saddhāhirottappa-appicchatādiguṇapadaṭṭhāno.
+
+1. Not transgressing by killing — characteristic.
+
+2. Withdrawing from killing — function as activity.
+
+3. Not engaging in killing — manifestation.
+
+4. Qualities such as confidence, shame, fear of wrongdoing and fewness of wishes (appicchatā) — proximate cause.
+
+[Use this model also to discern abstaining from the misconduct of taking what is not given (adinnādāna) and sexual misconduct (kāmesumicchācāra).]
+
+
+<a id="M08-body-P129"></a>
+## Right livelihood and abstaining from meat killed specifically for oneself
+Miến / Burmese 129
+
+22. Right livelihood (sammāājīva)
+
+1. Sammāājīvo micchājīvassa avītikkamalakkhaṇo.
+2. Micchājīvato saṅkocanaraso.
+3. Akiriyapaccupaṭṭhāno.
+4. Saddhāhirottappa-appicchatādiguṇapadaṭṭhāno.
+
+1. Not transgressing by engaging in wrong livelihood — characteristic.
+
+2. Withdrawing from wrong livelihood — function as activity.
+
+3. Not engaging in wrong livelihood — manifestation.
+
+4. Qualities such as confidence, shame, fear of wrongdoing and fewness of wishes (appicchatā) — proximate cause.
+
+[Note. This section on wrong livelihood also has many cases, including wrong livelihood for monastics and wrong livelihood for laypeople. Discern taking as object a particular instance of wrong livelihood that has occurred in one’s own continuum of mentality and materiality. For example, on learning that a chicken was killed and cooked specifically to offer to oneself, one abstains and does not eat it. Discern taking such abstention as object.]
+
+1. Uddissakatassa maṃsassa paribhuñjanassa avītikkamalakkhaṇo sammāājīvo.
+2. Uddissakatassa maṃsassa paribhuñjanato saṅkocanaraso.
+3. Akiriyapaccupaṭṭhāno.
+4. Saddhāhirottappa-appicchatādiguṇapadaṭṭhāno.
+
+
+<a id="M08-body-P130"></a>
+## Right livelihood and the four divine-abiding mental factors
+Miến / Burmese 130
+
+1. Not transgressing by consuming meat from an animal killed specifically for oneself — characteristic.
+
+2. Withdrawing from consuming meat from an animal killed specifically for oneself — function as activity.
+
+3. Not engaging in the consumption of meat from an animal killed specifically for oneself — manifestation.
+
+4. Qualities such as confidence, shame, fear of wrongdoing and fewness of wishes (appicchatā) — proximate cause.
+
+Remember that these three abstinence factors are phenomena that arise as the turning of the mind away from doing evil.
+
+Divine-abiding mental factors (brahmavihāra)
+
+There are four divine-abiding mental factors, loving-kindness (mettā), compassion (karuṇā), appreciative joy (muditā) and equanimity (upekkhā). They are also called the four abidings of Brahmā and the four immeasurables (appamaññā). Of the four, loving-kindness in terms of its actual nature is the mental factor of non-hate (adosa). Non-hate, however, can occur at different levels. What follows presents the characteristic, function and other aspects of non-hate when it reaches the level of loving-kindness, especially loving-kindness jhāna.
+
+
+<a id="M08-body-P131"></a>
+## Loving-kindness (mettā)
+Miến / Burmese 131
+
+Loving-kindness (mettā), that is, non-hate (adosa)
+
+1. Hitākārappavattilakkhaṇā mettā.
+2. Hitūpasaṃhārarasā.
+3. Āghātavinayapaccupaṭṭhānā.
+4. Sattānaṃ manāpabhāvadassanapadaṭṭhānā.
+Byāpādūpasamo etissā sampatti, sinehasambhavo vipatti. (Abhi-a I, 237. Visuddhi I, 311.)
+
+1. Occurring in the mode of wishing for and promoting the welfare of beings — characteristic.
+
+2. Bringing welfare to beings — function as activity. Alternatively, possessing the quality of bringing welfare to beings — function as accomplishment.
+
+3. Dispelling resentment — manifestation as mode of appearance. Alternatively, bringing about the result that resentment is dispelled — manifestation as result.
+
+4. Wise attention that sees the lovable, agreeable aspect of beings — proximate cause.
+
+The subsiding of ill will (byāpāda), the hate that wishes to harm or destroy beings, through abandoning by suppression (vikkhambhanappahāna), is the success of loving-kindness. The arising of affectionate attachment is its failure. (Abhi-a I, 237. Visuddhi I, 311.)
+
+Mettāmukhena hi rāgo vañceti. Lust can deceive by putting loving-kindness to the fore, masquerading as loving-kindness. If lust arises while one is cultivating loving-kindness, the cultivation of loving-kindness has failed. This is what is meant.
+
+
+<a id="M08-body-P132"></a>
+## Compassion (karuṇā)
+Miến / Burmese 132
+
+23. Compassion (karuṇā)
+
+1. Dukkhāpanayanākārappavattilakkhaṇā karuṇā.
+2. Paradukkhāsahanarasā.
+3. Avihiṃsāpaccupaṭṭhānā.
+4. Dukkhābhibhūtānaṃ anāthabhāvadassanapadaṭṭhānā.
+Vihiṃsūpasamo tassā sampatti, sokasambhavo vipatti. (Abhi-a I, 237–238. Visuddhi I, 311.)
+
+1. Occurring in the mode of wishing to remove beings’ suffering — characteristic.
+
+2. Being unable to bear another’s suffering because of the wish to remove it — function as activity.
+
+3. Opposing cruelty and oppression of beings (vihiṃsā) — manifestation as mode of appearance. Alternatively, bringing about the result that beings are not harmed — manifestation as result.
+
+4. Wise attention that sees the helplessness of beings oppressed by suffering — proximate cause.
+
+The subsiding of the hate that would oppress beings through abandoning by suppression, that is, through the power of compassion jhāna attainment to set it aside for a long time, is called the success of compassion, the proper fulfilment of its function. When beings are overwhelmed and oppressed by suffering and sorrow arises through seeing and knowing that suffering, this is called the failure of compassion. (Abhi-a I, 237–238. Visuddhi I, 311.)
+
+
+<a id="M08-body-P133"></a>
+## Sorrow can masquerade as compassion. Appreciative joy (muditā)
+Miến / Burmese 133
+
+Karuṇāmukhena soko vañceti. Sorrow can deceive by putting compassion to the fore, masquerading as compassion. This means that sorrow can sometimes arise looking like compassion.
+
+24. Appreciative joy (muditā)
+
+1. Pamodanalakkhaṇā muditā.
+2. Anissāyanarasā.
+3. Arativighātapaccupaṭṭhānā.
+4. Sattānaṃ sampattidassanapadaṭṭhānā.
+Arativūpasamo tassā sampatti, pahāsasambhavo vipatti. (Abhi-a I, 238. Visuddhi I, 311.)
+
+1. Gladness and rejoicing in regard to happy beings — characteristic. Gladness and rejoicing at the abundance and prosperity of happy beings — characteristic.
+
+2. Not envying another’s prosperity — function as activity. Alternatively, opposing envy (issā) and dispelling it — function as activity.
+
+3. Occurring in the mode of dispelling discontent and displeasure (arati) regarding others’ wealth, prosperity, good qualities and honour — manifestation as mode of appearance. Alternatively, bringing about the result that discontent subsides — manifestation as result.
+
+4. Wise attention ready to see the prosperity and abundance of beings — proximate cause.
+
+
+<a id="M08-body-P134"></a>
+## Success and failure of appreciative joy. Equanimity as a divine abiding
+Miến / Burmese 134
+
+The extinguishing of discontent by abandoning through suppression, the power of appreciative-joy jhāna to set it aside for a long time, is the success of appreciative joy, the proper fulfilment of its function. Delight arising through the influence of household-based joy (gehasitapīti), joy dependent on the cords of sensual pleasure, is its failure. (Abhi-a I, 238. Visuddhi I, 311.)
+
+On seeing beings endowed with wealth, prosperity, good qualities and honour, or seeing those beings’ wealth, prosperity, good qualities and honour, sometimes unwise attention arises in place of wise attention. A joy of gladness and rejoicing may then arise, rooted in attachment and craving for those beings and their wealth, prosperity, good qualities and honour. Such joy is household-based joy, arising in dependence on the cords of sensual pleasure, the abode of defilements such as craving. The mind’s elation, gladness and excitement due to the power of that household-based joy is called exhilaration (pahāsa). In terms of actual phenomena, these are occurrences of greed-rooted consciousness accompanied by joy and dominated by greed. When such exhilaration occurs, appreciative joy has failed. Exhilaration is counterfeit appreciative joy and can deceive by masquerading as it. (See Mahāṭīkā I, 380.)
+
+Equanimity as a divine abiding (upekkhā), that is, mental neutrality (tatramajjhattatā)
+
+1. Sattesu majjhattākārappavattilakkhaṇā upekkhā.
+2. Sattesu samabhāvadassanarasā.
+3. Paṭighānunayavūpasamapaccupaṭṭhānā.
+4. “Kammassakā sattā. Te kassa ruciyā sukhitā vā bhavissanti, dukkhato vā muccissanti, pattasampattito vā na parihāyissantī”ti evaṃ pavattakammassakatādassanapadaṭṭhānā.
+
+
+<a id="M08-body-P135"></a>
+## The four aspects of equanimity as a divine abiding
+Miến / Burmese 135
+
+Paṭighānunayavūpasamo tassā sampatti, gehasitāya aññāṇupekkhāya sambhavo vipatti. (Abhi-a I, 238. Visuddhi I, 311–312.)
+
+1. Occurring in the mode of looking on at beings impartially — characteristic.
+
+2. Seeing only evenness toward beings, without leaning toward aversion or affection — function as activity.
+
+3. The subsiding of aversion and affection toward beings — manifestation.
+
+4. Beings have only the kamma they have done as their own possession. At whose wish will those beings (a) become happy? This means that they cannot become happy according to the wish of one spreading loving-kindness. (b) Be freed from suffering? This means that they cannot be freed from suffering according to the wish of one cultivating compassion. (c) Retain their present prosperity without decline? This means that they cannot retain their existing prosperity without decline according to the wish of one cultivating appreciative joy. The knowledge of right view about ownership of kamma, seeing in this way that only kamma is each being’s own possession — proximate cause.
+
+The subsiding of aversion and affection, the subsiding of hate that rejects and greed that attaches, is the success of equanimity as a divine abiding. The arising of household-based equanimity due to ignorance (gehasitā aññāṇupekkhā), which depends on the cords of sensual pleasure, is its failure. (Abhi-a I, 238. Visuddhi I, 311–312.)
+
+
+<a id="M08-body-P136"></a>
+## Unwholesome equanimity and wisdom
+Miến / Burmese 136
+
+In the four equanimous greed-rooted consciousnesses and the two delusion-rooted consciousnesses, associated delusion as well as equanimous feeling is called unwholesome equanimity. (အဘိ၊ဋ္ဌ၊၂၊၄၈၉-၄၉၀။ မူလဋီ၊၁၊၁၀၇။ အနုဋီ၊၁၊၁၁၅။)
+
+25. Non-delusion (amoha), wisdom faculty (paññindriya), wisdom (paññā)
+
+1. (a) Amoho yathāsabhāvapaṭivedhalakkhaṇo.
+(b) Akkhalitapaṭivedhalakkhaṇo vā kusalissāsakhittausupaṭivedho viya.
+
+2. Visayobhāsanaraso padīpo viya.
+
+3. Asammohapaccupaṭṭhāno araññagatasudesako viya. (ဝိသုဒ္ဓိ၊၂၊၉၅။)
+
+1. Characteristic — (a) penetrating the individual and general characteristics of ultimate phenomena as they really are. (b) Alternatively, penetrating and seeing the ultimate object unerringly, like the piercing of an arrow shot by a skilled archer.
+
+2. Function — illuminating and brightening the object like a lamp. (That means dispelling the darkness of delusion that obscures the object.)
+
+3. Manifestation in the sense of mode of appearance — absence of bewilderment about any object. Alternatively, being opposed to delusion that causes bewilderment about the object, it is free of bewilderment. In the sense of result, it produces freedom from bewilderment. Think of a guide familiar with a forest trail.
+
+
+<a id="M08-body-P137"></a>
+## The four aspects of wisdom
+Miến / Burmese 137
+
+1. Dhammasabhāvapaṭivedhalakkhaṇā paññā.
+
+2. Dhammānaṃ sabhāvapaṭicchādakamohandhakāraviddhaṃsanarasā.
+
+3. Asammohapaccupaṭṭhānā.
+
+4. “Samāhito yathābhūtaṃ jānāti passatī”ti vacanato pana samādhi tassā padaṭṭhānaṃ. (ဝိသုဒ္ဓိ၊၂၊၆၈။)
+
+1. Characteristic — penetrating the true nature of ultimate phenomena, namely their individual and general characteristics.
+
+2. Function — dispelling the darkness of delusion that conceals the individual and general characteristics of ultimate phenomena.
+
+3. Manifestation in the sense of mode of appearance — absence of bewilderment regarding the nature of ultimate phenomena.
+
+4. Proximate cause — concentration, since the Buddha teaches, “One who is concentrated knows and sees as it really is.” (Note that this proximate cause is specified here for insight knowledge. (မဟာဋီ၊၂၊၇၆။))
+
+Non-delusion as manifestation (asammohapaccupaṭṭhāna)
+
+Asammohapaccupaṭṭhānā — Uppajjamāno ca hi paññāloko hadayandhakāraṃ vidhametvāva uppajjati. Tato ca dhammasabhāvesu asammuyhanākārena paccupaṭṭhātīti asammohapaccupaṭṭhānā. Kāraṇabhūtā vā sayaṃ phalabhūtaṃ asammohaṃ paccupaṭṭhāpetīti evampi asammohapaccupaṭṭhānā. (မဟာဋီ၊၂၊၇၆။)
+
+The light of wisdom that emerges from insight knowledge as it defines and contemplates formations, that is, the light arising through knowledge…
+
+
+<a id="M08-body-P138"></a>
+## The light of wisdom and the explanation in the Aṭṭhasālinī
+Miến / Burmese 138
+
+… dispels the darkness in the heart as it arises. Thus, to the practitioner who defines and contemplates with insight knowledge, that wisdom appears in knowledge as non-bewilderment regarding the individual and general characteristics of ultimate phenomena. That is manifestation in the sense of mode of appearance. Alternatively, wisdom, the cause of penetrating the individual and general characteristics of ultimate phenomena, brings about the result of non-bewilderment. That is manifestation in the sense of result. (မဟာဋီ၊၂၊၇၆။)
+
+These words of the teacher of the Mahāṭīkā are evidence that light is present in the knowledge discerning the individual and general characteristics of ultimate phenomena. In other words, they are evidence that light can arise on account of that knowledge. The Aṭṭhasālinī commentary also explains the characteristic, function and other aspects of wisdom as follows.
+
+1. (a) Yathāsabhāvapaṭivedhalakkhaṇā paññā.
+(b) Akkhalitapaṭivedhalakkhaṇā vā kusalissāsakhittausupaṭivedho viya.
+
+2. Visayobhāsanarasā padīpo viya.
+
+3. Asammohapaccupaṭṭhānā araññagatasudesako viya. (အဘိ၊ဋ္ဌ၊၁၊၁၆၆။)
+
+1. (a) Characteristic — penetrating the individual and general characteristics of ultimate phenomena as they really are.
+(b) Alternatively, like an arrow shot by a skilled archer…
+
+
+<a id="M08-body-P139"></a>
+## Wisdom, the wisdom faculty and the characteristic of illumination
+Miến / Burmese 139
+
+… piercing, that is, penetrating its target, the characteristic is penetrating and knowing the ultimate object unerringly.
+
+2. Function — illuminating and brightening the true nature of the ultimate object like a lamp.
+
+3. Manifestation — the nature opposed to the bewilderment of delusion, like a guide familiar with a forest trail. (အဘိ၊ဋ္ဌ၊၁၊၁၆၆။)
+
+Here it is called wisdom because it distinguishes the Four Noble Truths, beginning with the truth of suffering. That is right view regarding the four truths. The old commentary explains that it is called wisdom because it distinguishes “impermanent, suffering and not-self”. This same wisdom is called a faculty in the sense of exercising mastery by overcoming the ignorance that conceals the true nature of the four truths and prevents them from being known. Alternatively, through its characteristic of clearly seeing the nature of the four truths, wisdom brings the associated phenomena under its control. Thus wisdom itself is called a faculty, the wisdom faculty. (အဘိ၊ဋ္ဌ၊၁၊၁၆၅။)
+
+Sā panesā obhāsanalakkhaṇā ca paññā, pajānanalakkhaṇā ca. (အဘိ၊ဋ္ဌ၊၁၊၁၆၅။)
+
+Characteristic of illumination (obhāsanalakkhaṇa) — When a lamp is lit at night in a house enclosed by walls on all four sides, the darkness that obstructs ordinary vision vanishes. Likewise wisdom illuminates the ultimate object, in other words the object of the Four Noble Truths, so that it can be clearly apprehended and known in its distinct parts. That is its characteristic of illumination.
+
+
+<a id="M08-body-P140"></a>
+## The light of wisdom illustrated by a lamp
+Miến / Burmese 140
+
+Paññobhāsasamo obhāso nāma natthi. (အဘိ၊ဋ္ဌ၊၁၊၁၆၆။)
+
+There is no light equal to the light of wisdom. Indeed, when one who has insight knowledge and is endowed with insight knowledge sits in a single posture, that is, in one sitting contemplating and attending to the phenomena of insight, ten thousand world systems can have a single light. That means the light can shine continuously throughout ten thousand world systems. (Note that this specifically refers to the light that is an imperfection of insight, the light that arises owing to knowledge of arising and passing away.) (အဘိ၊ဋ္ဌ၊၁၊၁၆၅-၁၆၆။)
+
+Accordingly, Venerable Nāgasena said as follows.
+
+“Great King… suppose a man brings a lamp into a pitch-dark house. The lamp he brings in destroys darkness, produces light, makes illumination evident and makes the various visible forms evident. Great King… just as in that simile, when wisdom arises —
+
+1. It destroys the darkness called ignorance.
+
+2. It produces the light called true knowledge.
+
+3. It makes evident the illumination called knowledge.
+
+4. It makes evident the Noble Truths.
+
+Great King… in this way wisdom has the characteristic of illuminating the ultimate object, that is, the object of the Four Noble Truths, so that it can be distinctly apprehended and known clearly.” (မိလိန္ဒ၊၃၈။ အဘိ၊ဋ္ဌ၊၁၊၁၆၆။)
+
+
+<a id="M08-body-P141"></a>
+## How to discern mental phenomena in four aspects
+Miến / Burmese 141
+
+The good learner should review the tables in the section on the meditation subject of mentality. To begin defining the mental phenomena of mindfulness-of-breathing jhāna, there are 34 mental phenomena in the first jhāna of mindfulness of breathing. First thoroughly memorize the characteristic, function, manifestation and proximate cause of each of these 34 mental phenomena. When they have been memorized and firmly grasped, enter the first jhāna of mindfulness of breathing again. Then define again the groups of mental phenomena in the first-jhāna attainment process, giving priority to their individual characteristics. As shown in the table of the first-jhāna attainment process —
+
+1. At mind-door adverting there are 12 mental phenomena.
+
+2. At each impulsion there are 34 mental phenomena.
+
+In the mind-moment of mind-door adverting in each of these processes, begin by defining and discerning the knowing consciousness, namely mind-door adverting consciousness, through characteristic, function, manifestation and proximate cause. Then discern the characteristic, function and so forth of contact. Next discern the characteristic, function and so forth of feeling, namely equanimous feeling. In this way, distinguish individually and define all 12 ultimate phenomena present in the mind-moment of mind-door adverting through characteristic, function, manifestation and proximate cause. These are knowing consciousness, contact, feeling (equanimity), perception, volition, one-pointedness, life faculty, attention, applied thought, sustained thought, decision and energy. In defining them in this way, it is necessary to enter jhāna repeatedly. Each time you emerge, define those ultimate phenomena through characteristic, function and so forth.
+
+
+<a id="M08-body-P142"></a>
+## Defining mental phenomena of the jhānas
+Miến / Burmese 142
+
+Next, in each access-concentration impulsion called preparation (parikamma), access (upacāra), conformity (anuloma) and change of lineage (gotrabhū), and in every first-jhāna impulsion mind-moment, there are 34 mental phenomena. Separate each of these 34 mental phenomena and define it through characteristic, function, manifestation and proximate cause. From knowing consciousness to wisdom, that is, the wisdom faculty, define each mental phenomenon through characteristic, function, manifestation and proximate cause. After defining proficiently the mental phenomena in the first-jhāna attainment process through these four aspects, continue in the same way with the mental phenomena in the second-jhāna attainment process. Likewise continue with the mental phenomena in the third- and fourth-jhāna attainment processes. Remember that, in defining them in this way, it is necessary to enter jhāna repeatedly.
+
+In the same way define the mental phenomena in the jhānas of the ten kasiṇas, the four divine abidings, foulness jhāna and so forth. If the good learner has trained in all eight attainments in this section, define the mental phenomena of those attainments through characteristic, function, manifestation and proximate cause, except for the jhāna of the base of neither perception nor non-perception. Disciples cannot discern by insight the phenomena of that attainment one by one through successive insight into individual phenomena (anupadadhamma vipassanā). They can only group them together and discern by insight through group comprehension (kalāpasammasana). Therefore remember that the mental phenomena present in the attainment of the base of neither perception nor non-perception also cannot be defined one by one through characteristic, function, manifestation and proximate cause.
+
+
+<a id="M08-body-P143"></a>
+## Defining mental phenomena in the six kinds of cognitive process
+Miến / Burmese 143
+
+Following this method, discern the cognitive processes that arise taking the 28 material phenomena as object —
+
+1. Visible-object group — eye-door process and mind-door process.
+
+2. Sound-object group — ear-door process and mind-door process.
+
+3. Odour-object group — nose-door process and mind-door process.
+
+4. Taste-object group — tongue-door process and mind-door process.
+
+5. Tangible-object group — body-door process and mind-door process.
+
+6. Mental-object group — mind-door process.
+
+In each mind-moment of every one of these processes, define each ultimate phenomenon such as knowing consciousness, contact, feeling and so on through characteristic, function, manifestation and proximate cause, as presented in the tables in the section on the meditation subject of mentality. For each kind of cognitive process, define comprehensively its wholesome-impulsion and unwholesome-impulsion processes. The tables in the section on the meditation subject of mentality give the counts of consciousness and mental factors in each mind-moment. Define and contemplate each mental phenomenon in each mind-moment.
+
+When defining in this way, after defining characteristic, function, manifestation and proximate cause of contact in one mind-moment of a process, do not leave out contact in the other mind-moments of that process. Since this practice is for breaking up the compactness of mentality in each mind-moment by knowledge, define and discern thoroughly every mental phenomenon in each mind-moment of the process through characteristic, function, manifestation and proximate cause. Likewise define mental phenomena of the life-continuum that sometimes intervene between cognitive processes. Continue in the same way with the mental phenomena of rebirth-linking and death.
+
+
+<a id="M08-body-P144"></a>
+## Understanding the method of identity (ekatta)
+Miến / Burmese 144
+
+When defining in this way, the mental phenomena present in one mind-moment arise and cease extremely quickly. In the blink of an eye, they can arise and cease some one hundred thousand koṭis of times. One may thus ask whether there is time to define each mental phenomenon in every mind-moment of a process through characteristic, function, manifestation and proximate cause, especially when some impulsions have as many as 34 mental phenomena. Here one needs to understand the method of identity. For example, when speaking of the 34 mental phenomena of the first impulsion, understand this to mean mental phenomena of the same kind in successive occurrences of the first impulsion. The mental phenomena of first impulsion are spoken of together because they are alike. When discerning the group of mental phenomena at the eye-consciousness moment, likewise understand this as referring to each kind of corresponding eye-consciousness mental phenomenon. The meaning is not that one mind-moment lasts long enough for all this discernment.
+
+External (bahiddhā) — As you have defined internal (ajjhatta) mentality and materiality through characteristic, function and so forth, continue to define them externally in the same way. Train in defining them a part at a time, from near to far.
+
+Every mind-moment — Do not misunderstand the instruction to discern in every mind-moment. “Every mind-moment” here refers to the mind-moments presented in the tables of the section on the meditation subject of mentality. It refers to types of mind-moments. It does not refer to all the consciousnesses that arise throughout a lifetime. For example, it refers to each kind of mental phenomenon present in each mind-moment of an eye-door process. Throughout a lifetime…
+
+
+<a id="M08-body-P145"></a>
+## End of the section on the formations aggregate
+Miến / Burmese 145
+
+… the meaning is not to discern exhaustively every mental phenomenon in every mind-moment of every eye-door process that has arisen. The total number of eye-door processes that arise throughout a lifetime is incalculable. Understand ear-door processes and the others in the same way.
+
+End of the formations aggregate.
+
+❀ ❀ ❀
+
+
+<a id="M08-body-P146"></a>
+## The factors of dependent origination and ignorance
+Miến / Burmese 146
+
+After defining in the way described above each material phenomenon present at the six doors and in the 42 bodily parts, and each mental phenomenon present in the six kinds of cognitive process beginning with the eye-door process, which arise taking the appropriate one of the six objects, by characteristic, function, manifestation and proximate cause, again give priority to the individual characteristics of ultimate materiality and ultimate mentality, both internally and externally, and carry out the following tasks —
+
+1. Define material phenomena.
+
+2. Define mental phenomena.
+
+3. Separate materiality and mentality.
+
+4. Distinguish and note materiality and mentality.
+
+Carry out these four tasks again clearly, as presented earlier in the section on the meditation subject of mentality. Then —
+
+1. Define causes and effects again according to the fifth method of dependent origination.
+
+2. Also define causes and effects again according to the first method of dependent origination.
+
+Then define the characteristic, function, manifestation and proximate cause of the factors of dependent origination as follows.
+
+1. Ignorance (avijjā)
+
+1. Aññāṇalakkhaṇā avijjā.
+
+2. Sammohanarasā.
+
+3. Chādanapaccupaṭṭhānā.
+
+4. Āsavapadaṭṭhānā. (အဘိ၊ဋ္ဌ၊၂၊၁၂၉။ ဝိသုဒ္ဓိ၊၂၊၁၅၉။)
+
+
+<a id="M08-body-P147"></a>
+## Ignorance and formations
+Miến / Burmese 147
+
+1. Characteristic — not knowing the true nature of ultimate phenomena. Alternatively, the nature opposed to knowledge that knows the true nature of ultimate phenomena.
+
+2. Function — thoroughly bewildering both the associated phenomena and the person endowed with that ignorance.
+
+3. Manifestation — the nature of concealing the true nature of the ultimate object.
+
+4. Proximate cause — the four taints.
+
+2. Formations (saṅkhāra)
+
+1. Abhisaṅkharaṇalakkhaṇā saṅkhārā.
+
+2. Āyūhanarasā.
+
+3. Cetanāpaccupaṭṭhānā.
+
+4. Avijjāpadaṭṭhānā. (အဘိ၊ဋ္ဌ၊၂၊၁၂၉။ ဝိသုဒ္ဓိ၊၂၊၁၅၉။)
+
+1. Characteristic — constructing, that is, the nature of bringing kamma into being.
+
+2. Function — exerting to produce rebirth-linking, that is, undertaking the work. Alternatively, assembling the resultant phenomena that are consciousness and mentality-materiality. Alternatively, producing the resultant phenomena of consciousness and mentality-materiality as a collection.
+
+3. Manifestation — appearing to the practitioner’s knowledge as volition (cetanā).
+
+4. Proximate cause — ignorance.
+
+
+<a id="M08-body-P148"></a>
+## The function of formations and the four aspects of consciousness
+Miến / Burmese 148
+
+Paṭisandhinibbattanatthaṃ āyūhanti byāpāraṃ karontīti āyūhanarasā. (မူလဋီ၊၂၊၉၀။)
+
+Formations exert themselves to produce rebirth-linking. They undertake that work, that is, they engage in it. Thus their function is said to be accumulation (āyūhana). Precisely because of this nature, wholesome and unwholesome phenomena are said to be kamma capable of yielding result (vipākadhamma). That nature is called accumulation. What is that accumulation? In a continuum of mentality-materiality where craving, ignorance and conceit are still present and have yet to be eradicated without residue by the arahant path, wholesome and unwholesome phenomena arise with the undertaking whose result is the production of rebirth-linking. This means that formations arise together with that undertaking, namely, that in the continuum of mentality-materiality where ignorance, craving and conceit have not yet been eradicated by the arahant path, the natural efficacy of wholesome and unwholesome phenomena to produce results remains present. This very nature is called the function of formations in the sense of their task. Alternatively, as regards consciousness according to “with formations as condition, consciousness arises”, and as regards mentality-materiality according to “with consciousness as condition, mentality-materiality arises”, producing these resultant phenomena of consciousness and mentality-materiality in groups and collections is the task of formations. (မူလဋီ၊၂၊၉၀။ အနုဋီ၊၂၊၉၅။)
+
+3. Consciousness (viññāṇa)
+
+1. Vijānanalakkhaṇaṃ viññāṇaṃ.
+
+2. Pubbaṅgamarasaṃ.
+
+3. Paṭisandhipaccupaṭṭhānaṃ.
+
+4. Saṅkhārapadaṭṭhānaṃ, vatthārammaṇapadaṭṭhānaṃ vā. (အဘိ၊ဋ္ဌ၊၂၊၁၂၉။ ဝိသုဒ္ဓိ၊၂၊၁၅၉။)
+
+
+<a id="M08-body-P149"></a>
+## Consciousness and mentality-materiality
+Miến / Burmese 149
+
+1. Characteristic — cognizing, that is, apprehending the object.
+
+2. Function — preceding and leading mentality-materiality.
+
+3. Manifestation — the nature of linking with the preceding life.
+
+4. Proximate cause — formations. Alternatively, the material basis and the object that appears.
+
+4. Mentality in mentality-materiality — mentality is mental factors
+
+1. Namanalakkhaṇaṃ nāmaṃ.
+
+2. Sampayogarasaṃ.
+
+3. Avinibbhogapaccupaṭṭhānaṃ.
+
+4. Viññāṇapadaṭṭhānaṃ. (အဘိ၊ဋ္ဌ၊၂၊၁၂၉။ ဝိသုဒ္ဓိ၊၂၊၁၅၉။)
+
+1. Characteristic — the nature of bending towards the object.
+
+2. Function — association both with consciousness and with one another.
+
+3. Manifestation — the nature of inseparability, that is, not arising separately.
+
+4. Proximate cause — consciousness.
+
+Materiality in mentality-materiality
+
+1. Ruppanalakkhaṇaṃ rūpaṃ.
+
+2. Vikiraṇarasaṃ.
+
+3. Abyākatapaccupaṭṭhānaṃ.
+
+4. Viññāṇapadaṭṭhānaṃ. (အဘိ၊ဋ္ဌ၊၂၊၁၂၉။ ဝိသုဒ္ဓိ၊၂၊၁၅၉။)
+
+1. Characteristic — the nature of being altered when affected.
+
+
+<a id="M08-body-P150"></a>
+## Materiality and the six bases
+Miến / Burmese 150
+
+2. Function — since they lack the characteristic of association, material phenomena disperse without combining with one another.
+
+3. Manifestation — the indeterminate nature, neither wholesome nor unwholesome. Alternatively, the nature of not apprehending an object.
+
+4. Proximate cause — consciousness.
+
+5. The six bases (saḷāyatana)
+
+1. Āyatanalakkhaṇaṃ saḷāyatanaṃ.
+
+2. Dassanādirasaṃ.
+
+3. Vatthudvārabhāvapaccupaṭṭhānaṃ.
+
+4. Nāmarūpapadaṭṭhānaṃ. (အဘိ၊ဋ္ဌ၊၂၊၁၂၉။ ဝိသုဒ္ဓိ၊၂၊၁၅၉။)
+
+1. Characteristic — impingement, that is, the nature of acting. Alternatively, the nature of bringing forth consciousness and mental factors called āya.
+
+2. Function — seeing, hearing, smelling, tasting, touching and cognizing.
+
+3. Manifestation — the nature of being a physical basis and an entry door for the five consciousness elements, mind-element and mind-consciousness element, as appropriate.
+
+4. Proximate cause — mentality and materiality.
+
+Here all six bases have been presented together. When discerning them separately, discern as follows.
+
+
+<a id="M08-body-P151"></a>
+## The eye base and the ear base
+Miến / Burmese 151
+
+Eye base (cakkhāyatana)
+
+1. Āyatanalakkhaṇaṃ cakkhāyatanaṃ.
+2. Dassanarasaṃ.
+3. Vatthudvārabhāvapaccupaṭṭhānaṃ.
+4. Nāmarūpapadaṭṭhānaṃ.
+
+1. Being fit for the visible form to impinge upon it — characteristic.
+
+   Alternatively, extending the consciousness and mental factors of the eye-door and mind-door processes, called āya — characteristic.
+
+2. Seeing the visible form, that is, apprehending it — active function.
+
+(Meaning that it is taken as an object. Mahāṭī II, 254.)
+
+3. Being the supporting physical base of eye-consciousness and being a door because it is the entrance and exit for the group of mental phenomena in the eye-door process — manifestation.
+
+4. Mentality and materiality — proximate cause.
+
+Ear base (sotāyatana)
+
+1. Āyatanalakkhaṇaṃ sotāyatanaṃ.
+2. Savanarasaṃ.
+3. Vatthudvārabhāvapaccupaṭṭhānaṃ.
+4. Nāmarūpapadaṭṭhānaṃ.
+
+1. Being fit for the sound to impinge upon it — characteristic.
+
+   Alternatively, extending the consciousness and mental factors of the ear-door and mind-door processes, called āya — characteristic.
+
+2. Hearing the sound, that is, apprehending it — active function.
+
+3. Being the supporting physical base of ear-consciousness and being a door because it is the entrance and exit for the group of mental phenomena in the ear-door process — manifestation.
+
+4. Mentality and materiality — proximate cause.
+
+
+<a id="M08-body-P152"></a>
+## The nose base and the tongue base
+Miến / Burmese 152
+
+Nose base (ghānāyatana)
+
+1. Āyatanalakkhaṇaṃ ghānāyatanaṃ.
+2. Ghāyanarasaṃ.
+3. Vatthudvārabhāvapaccupaṭṭhānaṃ.
+4. Nāmarūpapadaṭṭhānaṃ.
+
+1. Being fit for the odour to impinge upon it — characteristic.
+
+   Alternatively, extending the consciousness and mental factors of the nose-door and mind-door processes, called āya — characteristic.
+
+2. Smelling the odour, that is, apprehending it — active function.
+
+3. Being the supporting physical base of nose-consciousness and being a door because it is the entrance and exit for the group of mental phenomena in the nose-door process — manifestation.
+
+4. Mentality and materiality — proximate cause.
+
+Tongue base (jivhāyatana)
+
+1. Āyatanalakkhaṇaṃ jivhāyatanaṃ.
+2. Sāyanarasaṃ.
+3. Vatthudvārabhāvapaccupaṭṭhānaṃ.
+4. Nāmarūpapadaṭṭhānaṃ.
+
+1. Being fit for the flavour to impinge upon it — characteristic.
+
+   Alternatively, extending the consciousness and mental factors of the tongue-door and mind-door processes, called āya — characteristic.
+
+2. Tasting the flavour, that is, apprehending it — active function.
+
+3. Being the supporting physical base of tongue-consciousness and being a door because it is the entrance and exit for the group of mental phenomena in the tongue-door process — manifestation.
+
+4. Mentality and materiality — proximate cause.
+
+
+<a id="M08-body-P153"></a>
+## The body base and the mind base
+Miến / Burmese 153
+
+Body base (kāyāyatana)
+
+1. Āyatanalakkhaṇaṃ kāyāyatanaṃ.
+2. Phusanarasaṃ.
+3. Vatthudvārabhāvapaccupaṭṭhānaṃ.
+4. Nāmarūpapadaṭṭhānaṃ.
+
+1. Being fit for the tangible object to impinge upon it — characteristic.
+
+   Alternatively, extending the consciousness and mental factors of the body-door and mind-door processes, called āya — characteristic.
+
+2. Touching the tangible object, that is, apprehending it — active function.
+
+3. Being the supporting physical base of body-consciousness and being a door because it is the entrance and exit for the group of mental phenomena in the body-door process — manifestation.
+
+4. Mentality and materiality — proximate cause.
+
+Mind base (manāyatana)
+
+1. Āyatanalakkhaṇaṃ manāyatanaṃ.
+2. Vijānanarasaṃ (pubbaṅgamarasaṃ).
+3. Dvārabhāvapaccupaṭṭhānaṃ.
+4. Nāmarūpapadaṭṭhānaṃ.
+
+1. Being fit for a mental object to appear before it — characteristic.
+
+   Alternatively, extending the consciousness and mental factors of the mind-door process, called āya — characteristic.
+
+2. Knowing the mental object, that is, apprehending it — active function.
+
+   Alternatively, going in front and leading in the knowing of an object — active function.
+
+3. Being a door because it is the entrance and exit for the mental phenomena of mind-consciousness, that is, those in the mind-door process — manifestation.
+
+
+<a id="M08-body-P154"></a>
+## The meaning of base and the attribution of the effect’s function to its cause
+Miến / Burmese 154
+
+4. Mentality and materiality — proximate cause.
+
+Āyatanalakkhaṇanti ghaṭanalakkhaṇaṃ, āyānaṃ tananalakkhaṇaṃ vā. Āyatanaṃ ghaṭananti ca taṃdvārikadhammappavattanameva daṭṭhabbaṃ. (Anuṭī II, 95. Mahāṭī II, 254.)
+
+Figurative expression by attribution to the cause (kāraṇūpacāra)
+
+Dassanassa yathāsakaṃ visayaggahaṇassa karaṇato dassanarasaṃ. (Mahāṭī II, 254.)
+
+Material bases such as the eye base cannot take their respective objects, such as visible form, or know them. Material phenomena are objectless (anārammaṇa) and do not take objects. Yet here material bases such as the eye base are explained as performing the function of seeing (dassanakicca) and so forth. Such expressions are figurative expressions attributing the effect’s function to its cause. It is precisely because the eye base and the other bases are causes of eye-consciousness and the other consciousnesses that seeing and the like are called their functions. The eye base, that is, the eye-base materiality, or the eye door, is only a supporting cause for the eye-consciousness that sees visible form and for the accompanying mental phenomena. It is a cause by base-prenascence dependence condition. Attributing to the eye base as cause the seeing of visible form that is the function of eye-consciousness as effect, and speaking as though the eye base as cause had the function of seeing, is the figurative attribution of the effect’s function to the cause. Understand the ear base and the rest in the same way.
+
+Consciousness and mental factors that arise according to their respective causes are called āya. Phenomena that can extend and develop those states of consciousness and mental factors called āya…
+
+
+<a id="M08-body-P155"></a>
+## The meaning of base. Contact
+Miến / Burmese 155
+
+… are called bases (āyatana). The Madhu commentary, however, explains “āyānaṃ sukhadukkhānaṃ, saṃsāradukkhānaṃ vā”. In its interpretation, āya refers to pleasure and pain, or to the suffering of saṃsāra. Understand that the phenomena that extend such pleasure and pain, or the suffering of saṃsāra, are called bases.
+
+Understand that here the very occurrence of consciousness and mental factors, that is, the phenomena arising at each door such as the eye door, is called āyatana and is also called contact (ghaṭana). (Anuṭī II, 95.)
+
+6. Contact (phassa)
+
+1. Phusanalakkhaṇo phasso.
+2. Saṅghaṭṭanaraso.
+3. Saṅgatipaccupaṭṭhāno.
+4. Saḷāyatanapadaṭṭhāno. (Abhi-a II, 129. Visuddhi II, 159.)
+
+1. Touching the object, that is, occurring in the mode of touching the object — characteristic.
+
+2. Impinging upon and coming into contact with the object, that is, striking it — active function.
+
+3. The state arising from the convergence of the three, physical base, object and consciousness — manifestation.
+
+4. The six bases — proximate cause.
+
+The foregoing method of discerning characteristic, function and so forth is only a general explanation covering all six kinds of contact, beginning with eye-contact. In actual practice, however, the meditator must distinguish and discern each kind of contact separately, beginning with eye-contact. In a single mind moment…
+
+
+<a id="M08-body-P156"></a>
+## Eye-contact and ear-contact
+Miến / Burmese 156
+
+… all six kinds of contact cannot arise at the same time. The method of discerning them separately is therefore set out next.
+
+Eye-contact (cakkhusamphassa)
+
+1. Phusanalakkhaṇo cakkhusamphasso.
+2. Saṅghaṭṭanaraso.
+3. Saṅgatipaccupaṭṭhāno.
+4. Cakkhāyatanapadaṭṭhāno.
+
+1. Touching visible form, that is, occurring in the mode of touching visible form — characteristic.
+
+2. Impinging upon and coming into contact with visible form, that is, striking it — active function.
+
+3. The state arising from the convergence of the three, eye base, visible form and eye-consciousness — manifestation.
+
+4. The eye base — proximate cause.
+
+Ear-contact (sotasamphassa)
+
+1. Phusanalakkhaṇo sotasamphasso.
+2. Saṅghaṭṭanaraso.
+3. Saṅgatipaccupaṭṭhāno.
+4. Sotāyatanapadaṭṭhāno.
+
+1. Touching sound, that is, occurring in the mode of touching sound — characteristic.
+
+2. Impinging upon and coming into contact with sound, that is, striking it — active function.
+
+3. The state arising from the convergence of the three, ear base, sound and ear-consciousness — manifestation.
+
+4. The ear base — proximate cause.
+
+
+<a id="M08-body-P157"></a>
+## Nose-contact and tongue-contact
+Miến / Burmese 157
+
+Nose-contact (ghānasamphassa)
+
+1. Phusanalakkhaṇo ghānasamphasso.
+2. Saṅghaṭṭanaraso.
+3. Saṅgatipaccupaṭṭhāno.
+4. Ghānāyatanapadaṭṭhāno.
+
+1. Touching odour, that is, occurring in the mode of touching odour — characteristic.
+
+2. Impinging upon and coming into contact with odour, that is, striking it — active function.
+
+3. The state arising from the convergence of the three, nose base, odour and nose-consciousness — manifestation.
+
+4. The nose base — proximate cause.
+
+Tongue-contact (jivhāsamphassa)
+
+1. Phusanalakkhaṇo jivhāsamphasso.
+2. Saṅghaṭṭanaraso.
+3. Saṅgatipaccupaṭṭhāno.
+4. Jivhāyatanapadaṭṭhāno.
+
+1. Touching flavour, that is, occurring in the mode of touching flavour — characteristic.
+
+2. Impinging upon and coming into contact with flavour, that is, striking it — active function.
+
+3. The state arising from the convergence of the three, tongue base, flavour and tongue-consciousness — manifestation.
+
+4. The tongue base — proximate cause.
+
+
+<a id="M08-body-P158"></a>
+## Body-contact and mind-contact
+Miến / Burmese 158
+
+Body-contact (kāyasamphassa)
+
+1. Phusanalakkhaṇo kāyasamphasso.
+2. Saṅghaṭṭanaraso.
+3. Saṅgatipaccupaṭṭhāno.
+4. Kāyāyatanapadaṭṭhāno.
+
+1. Touching the tangible object, that is, occurring in the mode of touching the tangible object — characteristic.
+
+2. Impinging upon and coming into contact with the tangible object, that is, striking it — active function.
+
+3. The state arising from the convergence of the three, body base, the tangible object and body-consciousness — manifestation.
+
+4. The body base — proximate cause.
+
+Mind-contact (manosamphassa)
+
+1. Phusanalakkhaṇo manosamphasso.
+2. Saṅghaṭṭanaraso.
+3. Saṅgatipaccupaṭṭhāno.
+4. Manāyatanapadaṭṭhāno.
+
+1. Touching the mental object, that is, occurring in the mode of touching the mental object — characteristic.
+
+2. Impinging upon and coming into contact with the mental object, that is, striking it — active function.
+
+3. The state arising from the convergence of the three, mind door, mental object and mind-consciousness — manifestation.
+
+4. The mind base — proximate cause.
+
+Mind-contact (manosamphassa) — The range of mind-contact is very broad. Apart from…
+
+
+<a id="M08-body-P159"></a>
+## The range of mind-contact. Feeling
+Miến / Burmese 159
+
+… the five kinds of contact beginning with eye-contact that accompany the five kinds of sense consciousness, all contact accompanying the remaining process and process-free consciousnesses is mind-contact. According to circumstances they take all six kinds of object. Above, only the instance of mind-contact arising with a mental object is given as a model. According to the Sutta method, in conformity with the explanation of the Discourse on Abandoning in the Saṃyutta commentary, “Manosamphassoti bhavaṅgasahajāto samphasso”, contact associated with life-continuum consciousness is called mind-contact. According to the explanation “Āvajjanaṃ bhavaṅgato amocetvā manoti sahāvajjanena bhavaṅgaṃ daṭṭhabbaṃ”, both kinds, contact associated with life-continuum consciousness and contact associated with mind-door adverting, are called mind-contact. (Saṃ-a III, 5.)
+
+Therefore, give priority here to discerning mind-contact at rebirth-linking and mind-contact in the life-continuum. It is also good if one can discern the other instances of mind-contact. However, according to the Suttanta analysis (Suttantabhājanīya), mind-contact here is only contact included in the round of result, so give priority to discerning resultant mind-contact. In terms of the mind base, give priority to discerning the associated mind base itself.
+
+7. Feeling (vedanā)
+
+1. Anubhavanalakkhaṇā vedanā.
+2. Visayarasasambhogarasā.
+3. Sukhadukkhapaccupaṭṭhānā.
+4. Phassapadaṭṭhānā. (Abhi-a II, 129. Visuddhi II, 159.)
+
+1. Experiencing the taste of the object — characteristic.
+
+2. Partaking of the taste of the object — active function.
+
+
+<a id="M08-body-P160"></a>
+## The manifestation of feeling. Feeling born of eye-contact
+Miến / Burmese 160
+
+3. Pleasantness and painfulness — manifestation.
+
+4. Contact — proximate cause.
+
+Neutral feeling in rootless unwholesome result is counted under painful feeling because it is undesirable. Neutral feeling in wholesome result is counted under pleasant feeling because it is desirable. Therefore only the two kinds, pleasant and painful feeling, are mentioned. (Mūlaṭī II, 91.) If one wishes to discern feeling as six kinds, discern it as follows.
+
+Feeling born of eye-contact (cakkhusamphassajā vedanā)
+
+1. Rūpārammaṇānubhavanalakkhaṇā cakkhusamphassajā vedanā.
+2. Visayarasasambhogarasā.
+3. Sukhadukkhapaccupaṭṭhānā.
+4. Cakkhusamphassapadaṭṭhānā.
+
+1. Experiencing the visible form, that is, experiencing its taste — characteristic.
+
+2. Partaking of the taste of the visible form — active function.
+
+3. Pleasantness, that is, the feeling associated with eye-consciousness that is the result of wholesome kamma, and painfulness, that is, the feeling associated with eye-consciousness that is the result of unwholesome kamma — manifestation.
+
+4. Eye-contact — proximate cause.
+
+[Note — In discerning feeling born of eye-contact, one can also take as objects the feelings that are wholesome and unwholesome results accompanying moments of consciousness in eye-door and mind-door processes that take visible form. The same method applies to feeling born of ear-contact and the rest.]
+
+
+<a id="M08-body-P161"></a>
+## Feeling born of ear-contact and nose-contact
+Miến / Burmese 161
+
+Feeling born of ear-contact (sotasamphassajā vedanā)
+
+1. Saddārammaṇānubhavanalakkhaṇā sotasamphassajā vedanā.
+2. Visayarasasambhogarasā.
+3. Sukhadukkhapaccupaṭṭhānā.
+4. Sotasamphassapadaṭṭhānā.
+
+1. Experiencing the sound, that is, experiencing its taste — characteristic.
+
+2. Partaking of the taste of the sound — active function.
+
+3. Pleasantness, that is, the feeling associated with ear-consciousness that is the result of wholesome kamma, and painfulness, that is, the feeling associated with ear-consciousness that is the result of unwholesome kamma — manifestation.
+
+4. Ear-contact — proximate cause.
+
+Feeling born of nose-contact (ghānasamphassajā vedanā)
+
+1. Gandhārammaṇānubhavanalakkhaṇā ghānasamphassajā vedanā.
+2. Visayarasasambhogarasā.
+3. Sukhadukkhapaccupaṭṭhānā.
+4. Ghānasamphassapadaṭṭhānā.
+
+1. Experiencing the odour, that is, experiencing its taste — characteristic.
+
+2. Partaking of the taste of the odour — active function.
+
+3. Pleasantness, that is, the feeling associated with nose-consciousness that is the result of wholesome kamma, and painfulness, that is, the feeling associated with nose-consciousness that is the result of unwholesome kamma — manifestation.
+
+4. Nose-contact — proximate cause.
+
+
+<a id="M08-body-P162"></a>
+## Feeling born of tongue-contact and body-contact
+Miến / Burmese 162
+
+Feeling born of tongue-contact (jivhāsamphassajā vedanā)
+
+1. Rasārammaṇānubhavanalakkhaṇā jivhāsamphassajā vedanā.
+2. Visayarasasambhogarasā.
+3. Sukhadukkhapaccupaṭṭhānā.
+4. Jivhāsamphassapadaṭṭhānā.
+
+1. Experiencing the flavour, that is, experiencing its taste — characteristic.
+
+2. Partaking of the taste of the flavour — active function.
+
+3. Pleasantness, that is, the feeling associated with tongue-consciousness that is the result of wholesome kamma, and painfulness, that is, the feeling associated with tongue-consciousness that is the result of unwholesome kamma — manifestation.
+
+4. Tongue-contact — proximate cause.
+
+Feeling born of body-contact (kāyasamphassajā vedanā)
+
+1. Phoṭṭhabbārammaṇānubhavanalakkhaṇā kāyasamphassajā vedanā.
+2. Visayarasasambhogarasā.
+3. Sukhadukkhapaccupaṭṭhānā.
+4. Kāyasamphassapadaṭṭhānā.
+
+1. Experiencing the tangible object, that is, experiencing its taste — characteristic.
+
+2. Partaking of the taste of the tangible object — active function.
+
+3. Pleasantness, that is, the feeling associated with body-consciousness that is the result of wholesome kamma, and painfulness, that is, the feeling associated with body-consciousness that is the result of unwholesome kamma — manifestation.
+
+
+<a id="M08-body-P163"></a>
+## Feeling born of mind-contact. Craving
+Miến / Burmese 163
+
+4. Body-contact — proximate cause.
+
+Feeling born of mind-contact (manosamphassajā vedanā)
+
+1. Dhammārammaṇānubhavanalakkhaṇā manosamphassajā vedanā.
+2. Visayarasasambhogarasā.
+3. Sukhadukkhapaccupaṭṭhānā.
+4. Manosamphassapadaṭṭhānā.
+
+1. Experiencing the mental object, that is, experiencing its taste — characteristic.
+
+2. Partaking of the taste of the mental object — active function.
+
+3. Pleasantness, that is, the feeling associated with mind-consciousness that is the result of wholesome kamma, and painfulness, that is, the feeling associated with mind-consciousness that is the result of unwholesome kamma — manifestation.
+
+4. Mind-contact — proximate cause.
+
+[Note — According to the Suttanta analysis (Suttantabhājanīya), all six kinds of feeling are resultant feelings. It is better still if one can discern all resultant feelings that take the six objects, as appropriate.]
+
+8. Craving (taṇhā)
+
+1. Hetulakkhaṇā taṇhā.
+2. Abhinandanarasā.
+3. Atittibhāvapaccupaṭṭhānā.
+4. Vedanāpadaṭṭhānā. (Abhi-a II, 129. Visuddhi II, 159.)
+
+
+<a id="M08-body-P164"></a>
+## The four aspects of craving. Craving for visible form
+Miến / Burmese 164
+
+1. Being the cause of suffering — characteristic.
+
+2. Delighting intensely in various objects and various realms of existence — active function.
+
+3. The state in which the mind, or the person, cannot be satisfied or have enough of various objects and various realms of existence — manifestation.
+
+4. Feeling — proximate cause.
+
+Craving is the truth of origin, the cause of the five aggregates subject to clinging called the truth of suffering. Because it is the truth of origin, the cause that gives rise to suffering, craving is said to have the characteristic of being a cause (hetulakkhaṇā), that is, of being the cause of suffering. In the Discourse on Setting in Motion the Wheel of the Dhamma and elsewhere, the Buddha taught that craving is tatratatrābhinandinī, that is, the phenomenon that delights intensely in various objects and various realms of existence. Craving therefore has the function of delighting intensely in various objects and various realms of existence. Because craving occurs in such a way that the mind, or the person, cannot be satisfied or have enough of objects such as visible form, when it is discerned by insight knowledge it appears to the meditator’s knowledge as atittibhāvapaccupaṭṭhānā, the state in which the mind, or the person, cannot be satisfied or have enough of various objects and various realms of existence. (Mūlaṭī II, 91.)
+
+Craving is also divided into six kinds, beginning with craving for visible form. If one wishes to discern all six separately, discern them as follows.
+
+Craving for the visible form (rūpataṇhā)
+
+1. Hetulakkhaṇā rūpataṇhā.
+2. Abhinandanarasā.
+3. Atittibhāvapaccupaṭṭhānā.
+4. Cakkhusamphassajā vedanā = cakkhusamphassapaccayā vedanā padaṭṭhānā.
+
+
+<a id="M08-body-P165"></a>
+## Craving for visible form, sound and odour
+Miến / Burmese 165
+
+1. Being the cause of suffering — characteristic.
+
+2. Delighting intensely in the visible form — active function.
+
+3. The state in which the mind, or the person, cannot be satisfied or have enough of the visible form — manifestation.
+
+4. Feeling born of eye-contact, that is, feeling conditioned by eye-contact — proximate cause.
+
+Craving for the sound (saddataṇhā)
+
+1. Hetulakkhaṇā saddataṇhā.
+2. Abhinandanarasā.
+3. Atittibhāvapaccupaṭṭhānā.
+4. Sotasamphassajā vedanā = sotasamphassapaccayā vedanā padaṭṭhānā.
+
+1. Being the cause of suffering — characteristic.
+
+2. Delighting intensely in the sound — active function.
+
+3. The state in which the mind, or the person, cannot be satisfied or have enough of the sound — manifestation.
+
+4. Feeling born of ear-contact, that is, feeling conditioned by ear-contact — proximate cause.
+
+Craving for the odour (gandhataṇhā)
+
+1. Hetulakkhaṇā gandhataṇhā.
+2. Abhinandanarasā.
+3. Atittibhāvapaccupaṭṭhānā.
+4. Ghānasamphassajā vedanā = ghānasamphassapaccayā vedanā padaṭṭhānā.
+
+1. Being the cause of suffering — characteristic.
+
+
+<a id="M08-body-P166"></a>
+## Craving for odours, tastes and tangibles
+Miến / Burmese 166
+
+2. Delighting intensely in odours — function as activity.
+
+3. The mind, or the person, is unable to be satisfied or satiated with odours — manifestation.
+
+4. Feeling born of nose-contact, that is, feeling conditioned by nose-contact — proximate cause.
+
+Craving for taste (rasataṇhā)
+1. Hetulakkhaṇā rasataṇhā.
+2. Abhinandanarasā.
+3. Atittibhāvapaccupaṭṭhānā.
+4. jivhāsamphassajā vedanā = jivhāsamphassapaccayā vedanā padaṭṭhānā.
+
+1. Being a cause of suffering — characteristic.
+
+2. Delighting intensely in tastes — function as activity.
+
+3. The mind, or the person, is unable to be satisfied or satiated with tastes — manifestation.
+
+4. Feeling born of tongue-contact, that is, feeling conditioned by tongue-contact — proximate cause.
+
+Craving for tangibles (phoṭṭhabbataṇhā)
+1. Hetulakkhaṇā phoṭṭhabbataṇhā.
+2. Abhinandanarasā.
+3. Atittibhāvapaccupaṭṭhānā.
+4. kāyasamphassajā vedanā = kāyasamphassapaccayā vedanā padaṭṭhānā.
+
+1. Being a cause of suffering — characteristic.
+
+2. Delighting intensely in tangibles — function as activity.
+
+3. The mind, or the person, is unable to be satisfied or satiated with tangibles — manifestation.
+
+4. Feeling born of body-contact, that is, feeling conditioned by body-contact — proximate cause.
+
+
+<a id="M08-body-P167"></a>
+## Craving for mental objects and the place of craving in dependent origination
+Miến / Burmese 167
+
+Craving for mental objects (dhammataṇhā)
+1. Hetulakkhaṇā dhammataṇhā.
+2. Abhinandanarasā.
+3. Atittibhāvapaccupaṭṭhānā.
+4. manosamphassajā vedanā = manosamphassapaccayā vedanā padaṭṭhānā.
+
+1. Being a cause of suffering — characteristic.
+
+2. Delighting intensely in mental objects — function as activity.
+
+3. The mind, or the person, is unable to be satisfied or satiated with mental objects — manifestation.
+
+4. Feeling born of mind-contact, that is, feeling conditioned by mind-contact — proximate cause.
+
+[Note. In accordance with the teaching that five present results arise due to five past causes and that five future results arise due to five present causes, present craving belongs among the causes that will produce future aggregates. The craving that produces the five present aggregates belongs among the past causes. Thus remember that present craving belongs to the part of the round that will produce the future aggregates, and that the craving generated and cultivated in the corresponding past life belongs to the part of the round that produces the present aggregates. When discerning present craving, remember that it belongs among the causes that will produce future aggregates. Knowing how to link the relevant causes accompanying craving to their corresponding results in a causal relationship is a very important part of the work.]
+
+
+<a id="M08-body-P168"></a>
+## Clinging and its four kinds
+Miến / Burmese 168
+
+9. Clinging (upādāna)
+
+1. Gahaṇalakkhaṇaṃ upādānaṃ.
+2. Amuñcanarasaṃ.
+3. Taṇhādaḷhattadiṭṭhipaccupaṭṭhānaṃ.
+4. Taṇhāpadaṭṭhānaṃ. (Abhi-a II, 129. Visuddhi II, 160.)
+
+1. Clinging intensely to the object, that is, taking hold of it firmly — characteristic.
+
+2. Not releasing the object, owing to the force of attending to it wrongly through craving and view — function as activity.
+
+3. (a) The firmness of craving, in the case of sensual clinging. (b) View, that is, erroneous belief, in the case of the other three kinds of clinging — manifestation.
+
+4. Craving — proximate cause.
+
+Four kinds of clinging
+
+1. Sensual clinging (kāmupādāna). Clinging intensely to and holding firmly the five objects of the cords of sensual pleasure in the various realms and lives.
+
+2. Clinging to views (diṭṭhupādāna). Clinging intensely to and holding firmly the various erroneous views and doctrines other than clinging to a doctrine of self and clinging to rules and observances.
+
+3. Clinging to rules and observances (sīlabbatupādāna). Clinging intensely to and holding firmly the belief that one can be purified of defilements and freed from saṃsāra by wrong observances such as behaving like an ox or a dog.
+
+4. Clinging to a doctrine of self (attavādupādāna). Clinging intensely to and holding firmly a doctrine that posits a self, such as (a) a supreme creator self and (b) an individual living self that is created.
+
+
+<a id="M08-body-P169"></a>
+## Discerning clinging in the three times and the four aspects of becoming
+Miến / Burmese 169
+
+Thus there are four kinds of clinging. The meditator should select and discern the clinging that has previously arisen, is arising, or will arise in their own continuum of mentality and materiality. Examine carefully and discern which of the four kinds is the clinging included among the five past causes. Again, among the five present causes, especially when, having performed some wholesome deed, one makes an aspiration for a future life, examine and investigate which kind of clinging has arisen or is arising. If the second and subsequent future lives are still apparent to the good person who is learning, likewise examine, investigate and discern the clinging that will arise in the first and subsequent future lives.
+
+When a meditator discerns and cultivates insight into sensual clinging with insight knowledge, that clinging becomes apparent to knowledge as firmly established craving. When the meditator discerns and cultivates insight into the other three kinds of clinging, or any one of those three, it becomes apparent to the meditator’s knowledge as erroneous wrong view. (Mūlaṭīkā II, 91.)
+
+10. Becoming (bhava)
+
+1. Kammakammaphalalakkhaṇo bhavo.
+2. Bhāvanabhavanaraso.
+3. Kusalākusalābyākatapaccupaṭṭhāno.
+4. Upādānapadaṭṭhāno. (Abhi-a II, 129. Visuddhi II, 160.)
+
+[Note. The commentaries cited above present together both meanings of becoming, (1) kamma becoming…
+
+
+<a id="M08-body-P170"></a>
+## Kamma becoming and rebirth becoming
+Miến / Burmese 170
+
+… (2) rebirth becoming. The two are therefore presented separately below so that those of less quick understanding can grasp how to discern them.]
+
+(a) Kamma becoming (kammabhava)
+
+1. Kammalakkhaṇo kammabhavo.
+2. Bhāvanaraso.
+3. Kusalākusalapaccupaṭṭhāno.
+4. Upādānapadaṭṭhāno.
+
+1. The nature of kamma, that is, being kamma — characteristic.
+
+2. Bringing rebirth becoming into being — function as activity.
+
+3. Wholesome and unwholesome phenomena — manifestation.
+
+4. Clinging — proximate cause.
+
+(b) Rebirth becoming (upapattibhava)
+
+1. Kammaphalalakkhaṇo upapattibhavo.
+2. Bhavanaraso.
+3. Abyākatapaccupaṭṭhāno.
+4. Upādānapadaṭṭhāno. (Abhi-a II, 129. Visuddhi II, 160.)
+
+1. The nature of being the fruit of kamma, that is, the result of kamma — characteristic.
+
+2. Coming into being due to kamma — function as activity.
+
+3. Resultant indeterminate phenomena, neither wholesome nor unwholesome — manifestation.
+
+4. Clinging — proximate cause.
+
+
+<a id="M08-body-P171"></a>
+## A point to note when discerning becoming. Birth
+Miến / Burmese 171
+
+A point to note when discerning
+
+The journey through saṃsāra is very long. Sometimes one enjoys life in a fortunate destination when wholesome kamma bears fruit. There have also been many times when one had to undergo life in a bad destination when unwholesome kamma bore fruit. Through wholesome kamma becoming, rebirth becoming as the result of wholesome kamma arose accordingly. Through unwholesome kamma becoming, rebirth becoming as the result of unwholesome kamma arose accordingly. As long as the journey through saṃsāra has not ended, the same applies to the future. Let the good person who is learning discern precisely as these things have arisen, are arising and will arise in their own journey through saṃsāra.
+
+11. Birth (jāti)
+
+1. Tattha tattha bhave paṭhamābhinibbattilakkhaṇā jāti.
+2. Niyyātanarasā.
+3. Atītabhavato idha ummujjanapaccupaṭṭhānā, phalavasena dukkhavicittatāpaccupaṭṭhānā vā.
+4. (Kammabhavapadaṭṭhānā.) (Abhi-a II, 90. Visuddhi II, 130.)
+
+1. The first new arising, the initial appearance, of the succession of aggregates delimited by a single existence, in this or that existence — characteristic.
+
+2. As if handing over that succession of aggregates delimited by a single existence to a being in the round, saying, “Here, take it” — function as activity.
+
+3. Making the succession of aggregates come into view, that is, emerge here in the present existence from the immediately preceding existence — manifestation. Alternatively, bringing about the result of manifold kinds of suffering — manifestation as result.
+
+
+<a id="M08-body-P172"></a>
+## Birth, ageing and death
+Miến / Burmese 172
+
+4. Kamma becoming — proximate cause.
+
+The aggregates that arise at the beginning of the succession of aggregates pertaining to a distinct existence are precisely the rebirth-linking aggregates. Thus the commentator explains that birth has the characteristic of paṭhamābhinibbatti, the first new arising or initial appearance. (Mūlaṭīkā II, 61.)
+
+12. Ageing (jarā), part (a)
+
+1. Khandhaparipākalakkhaṇā jarā.
+2. Maraṇūpanayanarasā.
+3. Yobbanavināsapaccupaṭṭhānā.
+4. (Jātipadaṭṭhānā.) (Abhi-a II, 94. Visuddhi II, 132.)
+
+1. The maturing of the aggregates belonging to a single existence, that is, their becoming mature, old and aged — characteristic.
+
+2. Bringing near death, that is, dissolution — function as activity.
+
+3. Destroying youth, that is, causing the loss of youth — manifestation.
+
+4. Birth — proximate cause.
+
+12. Death (maraṇa), part (b)
+
+1. Cutilakkhaṇaṃ maraṇaṃ.
+2. Viyogarasaṃ.
+3. Vippavāsapaccupaṭṭhānaṃ.
+4. (Jātipadaṭṭhānaṃ.) (Abhi-a II, 95. Visuddhi II, 133.)
+
+
+<a id="M08-body-P173"></a>
+## Death in conventional and ultimate truth. Sorrow
+Miến / Burmese 173
+
+1. Departing from the succession of aggregates delimited by a single existence, that is, departing from the present existence — characteristic.
+
+2. (a) Parting from, that is, causing separation from the aggregates of an existence that has run its course — function as activity. (b) Alternatively, possessing separation from the aggregates of that existence — function as accomplishment.
+
+3. Separation from the present existence, that is, from the destination one currently inhabits — manifestation.
+
+4. Birth — proximate cause.
+
+[Note. Birth, ageing and death may be discerned separately in terms of conventional truth and ultimate truth. In conventional truth, within one life, rebirth-linking is birth, death consciousness is death, and the aggregates growing old are ageing. In ultimate truth, the arising submoment of each instance of mentality and materiality is birth, the presence submoment is ageing, and the dissolution submoment is death.]
+
+Sorrow (soka)
+
+1. Antonijjhānalakkhaṇo soko.
+2. Cetaso parinijjhāyanaraso.
+3. Anusocanapaccupaṭṭhāno. (Abhi-a II, 97. Visuddhi II, 134.)
+
+1. Burning inwardly. Alternatively, the burning heat of the mind — characteristic.
+
+2. Burning up the mind on all sides — function as activity.
+
+3. Repeated worry and grief according to losses such as loss of relatives, and according to the relevant merits and faults — manifestation.
+
+
+<a id="M08-body-P174"></a>
+## Proximate cause of sorrow. Lamentation
+Miến / Burmese 174
+
+4. An undesirable object that one has to encounter, such as the loss of relatives — proximate cause.
+
+[Note. In the commentaries, the explanations from birth through despair do not state a proximate cause. In this book, because sorrow and the rest are consequences of birth that do not necessarily arise, from here the proximate causes are given in Burmese in small parentheses. Those proximate causes do exist. Since there can be many proximate causes and they are not distinctive causes, they were not explained in the commentaries. The Buddha taught “aññataraññatarena dukkhadhammena phuṭṭhassa,” and so forth, in the discourse-method analysis of the Paṭiccasamuppāda Vibhaṅga. Thus remember that a particular cause such as the loss of relatives is a proximate cause. Put another way, when a corresponding undesirable object, such as the loss of relatives, impinges on the supporting material base or the appropriate door, associated phenomena such as contact act together to support it. Then sorrow and the rest, that is, unpleasant mental feeling, arise. Thus the base or door, the undesirable object and associated phenomena such as contact are all proximate causes.]
+
+Lamentation (parideva)
+
+1. Lālappanalakkhaṇo paridevo.
+2. Guṇadosaparikittanaraso.
+3. Sambhamapaccupaṭṭhāno. (Abhi-a II, 98. Visuddhi II, 134.)
+
+1. Repeatedly wailing and lamenting, that is, putting it into words — characteristic.
+
+2. Voicing and recounting good qualities and faults — function as activity.
+
+
+<a id="M08-body-P175"></a>
+## Lamentation, bodily pain and grief
+Miến / Burmese 175
+
+3. The unsettled bewilderment of the being who laments, or of that being’s mind — manifestation as mode of appearance. Alternatively, bringing about the result that the mind is bewildered and confused — manifestation as result.
+
+4. An undesirable object that one has to encounter, such as the loss of relatives — proximate cause.
+
+Pain (dukkha), that is, bodily pain (kāyikadukkha)
+
+Dukkhaṃ nāma kāyikaṃ dukkhaṃ.
+1. Taṃ kāyapīḷanalakkhaṇaṃ.
+2. Duppaññānaṃ domanassakaraṇarasaṃ.
+3. Kāyikābādhapaccupaṭṭhānaṃ. (Visuddhi II, 134.)
+
+The feeling associated with body-consciousness accompanied by pain, which arises in the body, is called pain. Select that painful feeling for discernment.
+
+1. Afflicting the body — characteristic.
+
+2. Producing displeasure of mind in those who lack wisdom — function as activity.
+
+3. Bodily pain — manifestation.
+
+4. The undesirable object that gives rise to that pain — proximate cause.
+
+Grief (domanassa), that is, mental pain (cetasikadukkha)
+
+Domanassaṃ nāma mānasaṃ dukkhaṃ.
+1. Taṃ cittapīḷanalakkhaṇaṃ.
+2. Manovighātarasaṃ.
+3. Mānasabyādhipaccupaṭṭhānaṃ. (Visuddhi II, 135.)
+
+In terms of the actual phenomenon, it is unpleasant mental feeling, the suffering of the mind.
+
+
+<a id="M08-body-P176"></a>
+## The four aspects of grief. Despair
+Miến / Burmese 176
+
+1. Afflicting the mind — characteristic.
+
+2. Distressing the mind by the force of association with ill will, that is, hate — function as activity.
+
+3. Illness of the mind — manifestation.
+
+4. The undesirable object that gives rise to that grief — proximate cause.
+
+This unpleasant mental feeling is called suffering because it is suffering as pain itself, and because it brings bodily pain. Indeed, beings filled with mental suffering tear out their hair and wail, beat and pound their chests, roll forward and writhe about, fall headfirst with their feet up, stab and cut themselves to death with swords and blades, take poison, hang themselves, or leap into a pit of fire. They have to undergo such suffering in many different ways. (Visuddhi II, 135.)
+
+Despair (upāyāsa)
+
+Upāyāso nāma ñātibyasanādīhi phuṭṭhassa adhimattacetodukkhappabhāvito dosoyeva, saṅkhārakkhandhapariyāpanno eko dhammoti eke. (Visuddhi II, 135.)
+1. Cittaparidahanalakkhaṇo upāyāso. (Visuddhi II, 135.) Byāsattilakkhaṇo. (Abhi-a II, 99.)
+2. Nitthunanaraso.
+3. Visādapaccupaṭṭhāno. (Abhi-a II, 99. Visuddhi II, 135.)
+
+It is precisely the hate produced by extreme mental suffering in a being who has to encounter loss of relatives and the like that is called despair…
+
+
+<a id="M08-body-P177"></a>
+## Despair and the group of sorrow, lamentation, pain, grief and despair
+Miến / Burmese 177
+
+… The point is that the phenomenon is distinct from unpleasant mental feeling. Some teachers say it is one mental factor among the fourteen unwholesome mental factors included in the formations aggregate. (Visuddhi II, 135.)
+
+1. Burning up the mind on all sides. Alternatively, becoming repeatedly entangled in such things as loss of relatives — characteristic.
+
+2. Giving rise to groaning. Alternatively, possessing groaning — function as activity or function as accomplishment.
+
+3. Submerging body and mind in an object such as loss of relatives — manifestation as mode of appearance. Alternatively, bringing about the result that body and mind sink into an object such as loss of relatives — manifestation as result.
+
+4. An undesirable object that one has to encounter, such as the loss of relatives — proximate cause.
+
+[Note. The Visuddhimagga says cittaparidahanalakkhaṇo, meaning that despair has the characteristic of burning up the mind on all sides. The Sammohavinodanī says byāsattilakkhaṇo, meaning it has the characteristic of becoming repeatedly entangled in such objects as loss of relatives.]
+
+Sorrow, lamentation, pain, grief and despair (soka, parideva, dukkha, domanassa, upāyāsa)
+
+Generally, in the life of a being in whom greed, hate and delusion remain, sorrow, lamentation, pain, grief and despair are always present. As stated above, losses (byasana) such as loss of relatives (ñātibyasana)…
+
+
+<a id="M08-body-P178"></a>
+## Distinguishing sorrow, grief and lamentation
+Miến / Burmese 178
+
+… only the worry, sadness and heartbreak that arise in the continuum of a being who encounters one of these things is sorrow (soka).
+
+Another kind of grief. There is a kind of mental grief (domanassa) that is mistaken for sorrow. For instance, one worries that loved ones will fall ill, worries about all manner of things for children and young people, or worries when loved ones have gone elsewhere and have still not returned at the expected hour. Such worries, including the further thought “If I am gone, things will be hard for you,” are ordinary mental grief, not sorrow.
+
+When one loses something such as position, honour, property or relatives, one becomes deeply sad, dejected and heartbroken. That sadness, dejection and heartbreak is precisely the mental grief called sorrow. When one can no longer contain that sadness, dejection and heartbreak, one often breaks into the cry known as lamentation (parideva). The expression “the fire of lamentation” refers to the hatred and mental grief burning fiercely within, to the point of bringing forth that cry, rather than to the sound of crying itself. If sorrow and lamentation cannot be assuaged by a right method or by the Dhamma, the fire of suffering can burn to the point of ending one’s life.
+
+Sokaparidevānaṃ samatikkamāya (မ၊၁၊၇၁။). In accordance with this teaching in the Great Discourse on the Establishments of Mindfulness (Mahāsatipaṭṭhānasutta), the best, most faultless and most excellent practices for overcoming sorrow and lamentation are the practices set out in the teaching on the establishments of mindfulness. Among those practices, the mode of contemplating dependent origination called knowledge of discerning conditions…
+
+
+<a id="M08-body-P179"></a>
+## Contemplating characteristic, function and the remaining aspects
+Miến / Burmese 179
+
+… is likewise included as one part of those practices.
+
+In defining each factor of dependent origination by characteristic, function, manifestation and proximate cause, and distinguishing them with knowledge, it is necessary to define and contemplate them in all three periods, past, future and present, and in both the internal and external continua. To be able to contemplate in this way, after completing the tasks belonging to knowledge of delimiting mentality and materiality—defining materiality separately, defining mentality separately, defining materiality and mentality, and distinguishing materiality from mentality—the good learner should return to define and contemplate by the fifth method of dependent origination. Then return to define and contemplate by the first method of dependent origination. After that, practise as follows.
+
+How to contemplate characteristic, function and so on
+
+Define and distinguish with knowledge until you see the causal relationship between ignorance and formations: how formations arose in the first past life because of ignorance that arose in that same first past life. When you have distinguished and seen with knowledge how formations arise owing to ignorance, define and contemplate the characteristic, function, manifestation and proximate cause of ignorance.
+
+Again, once you have seen with knowledge how present rebirth-linking consciousness arises owing to formations produced in that past life, that is, the causal relationship between formations and rebirth-linking consciousness, continue to contemplate the characteristic, function, manifestation and proximate cause of formations. In the same way, as far as sorrow, lamentation, pain, grief and despair, see with knowledge the causal relationship between causes and…
+
+
+<a id="M08-body-P180"></a>
+## Contemplating dependent origination across lives
+Miến / Burmese 180
+
+… effects, and continue to contemplate characteristic, function, manifestation and proximate cause.
+
+1. Ignorance and formations are the group of phenomena in the span of the (first) past life.
+
+2. Consciousness, mentality-materiality, the six bases, contact, feeling, craving, clinging and existence (= kamma existence) are the group of phenomena in the span of the present life.
+
+3. Birth (= rebirth existence), ageing, death, sorrow, lamentation, pain, grief and despair are the group of phenomena in the span of the (first) future life.
+
+Taking this method as a model —
+
+1. Ignorance and formations are the group of phenomena in the span of the (second) past life.
+
+2. Consciousness, mentality-materiality, …pe… existence (= kamma existence) are the group of phenomena in the span of the (first) past life.
+
+3. Birth (= rebirth existence), …pe… despair are the group of phenomena in the span of the present life.
+
+Taking this method as a model, understand the successive past lives as well.
+
+1. Ignorance and formations are the group of phenomena in the span of the present life.
+
+2. Consciousness, …pe… existence (= kamma existence) are the group of phenomena in the span of the (first) future life.
+
+3. Birth (= rebirth existence), …pe… despair are the group of phenomena in the span of the (second) future life.
+
+Taking this method as a model, understand the successive future lives as well, as far as the last life.
+
+By directing knowledge towards the past, one can contemplate many lives. By directing knowledge towards the future, one can likewise contemplate many lives. One can contemplate as far as the end of the journey through saṃsāra. When contemplating in this way, in each life, follow what has arisen…
+
+
+<a id="M08-body-P181"></a>
+## The purpose of defining and contemplating
+Miến / Burmese 181
+
+… is arising and will arise, and define and contemplate accordingly.
+
+The purpose
+
+One purpose of defining and contemplating in this way is to clarify with knowledge that throughout the three periods—past, future and present—there are only groups of causal phenomena and groups of resultant phenomena. There is no doer, creator, one acted upon or one created, nor any human, deva, Brahmā, person, being or entity whatsoever.
+
+When one applies the three characteristics to both causes and effects and contemplates them extensively with insight, the attachments of craving, conceit, views and other defilements that fasten onto both causes and effects will subside through temporary abandonment (tadaṅga). When those insight knowledges successively lend strong support through decisive support condition, noble path knowledge and fruition knowledge arise at the culmination of insight knowledge. The path knowledges successively uproot defilements without remainder through eradication (samuccheda). When the successive path knowledges have uprooted their respective defilements without remainder through eradication, the causal phenomena, that is, kamma and defilements, will come to an end. When the causal phenomena have ceased, their effect, the suffering of the round of saṃsāra, will also come to an end. Thus another purpose is to be able to abandon the defilements that fasten onto both causes and effects through temporary abandonment and eradication.
+
+For these two purposes, define and contemplate the formations—materiality, mentality, causes and effects—as fully as you can, in all three periods and both continua, by characteristic, function, manifestation and proximate cause as set out above.
+
+
+<a id="M08-body-P182"></a>
+## Prepare beforehand
+Miến / Burmese 182
+
+To abandon kamma and defilements without remainder in this way, to overcome sorrow and lamentation, to attain noble path knowledge and to realize Nibbāna, the good learner must proceed to insight. To be able to proceed to insight, prepare the following beforehand.
+
+In both the internal and external continua —
+
+1. Define materiality separately (rūpapariggaha).
+
+2. Define mentality separately (arūpapariggaha).
+
+3. Define materiality and mentality (rūpārūpapariggaha).
+
+4. Determine the distinction between materiality and mentality (nāmarūpavavatthāna).
+
+5. Define the causal phenomena of the five present aggregates (paccayapariggaha).
+
+6. Define the causal phenomena of the past and future aggregates (addhānapariggaha).
+
+Carry out these tasks again. This is the preparation for insight. Further…
+
+Yaṃ kiñci rūpaṃ atītānāgatapaccuppannaṃ ajjhattaṃ vā bahiddhā vā oḷārikaṃ vā sukhumaṃ vā hīnaṃ vā paṇītaṃ vā yaṃ dūre santike vā, sabbaṃ rūpaṃ “netaṃ mama, nesohamasmi, na meso attā”ti evametaṃ yathābhūtaṃ sammappaññāya daṭṭhabbaṃ. (သံ၊၂၊၅၆။)
+
+In accordance with such teachings as the Discourse on the Characteristic of Not-Self (Anattalakkhaṇasutta), a practitioner should contemplate the five aggregates subject to clinging, that is, the phenomena of the noble truth of suffering, classified in eleven ways: past, future, present, internal, external, gross, subtle, inferior, superior, far and near…
+
+
+<a id="M08-body-P183"></a>
+## Preliminary discernment and subsequent understanding
+Miến / Burmese 183
+
+… One should apply the three characteristics of impermanence, suffering and not-self to those phenomena and examine them with insight. For this reason, as far as you are able to contemplate, carry out the following in both the internal and external continua, from successive past lives to the present and from the present to the last future life —
+
+1. Define materiality separately (from the past to the future).
+
+2. Define mentality separately (from the past to the future).
+
+3. Define materiality and mentality (from the past to the future).
+
+4. Determine the distinction between materiality and mentality (from the past to the future).
+
+5. Define causal and resultant phenomena (from the past to the future).
+
+Carry out these five principal tasks again. In defining in this way, define materiality and mentality meticulously. Extend the discernment from successive past lives as far as the last future life. Again, arrange those same material and mental phenomena into five groups and define them by the method of the five aggregates as well, extending the discernment from the past to the last future life. In defining in this way, include the life-continuum mental phenomena between one cognitive process and the next. Define mental phenomena meticulously in accordance with how they have arisen, are arising and will arise. Then also define causal and resultant phenomena from the past through the last future life.
+
+Knowledge of subsequent understanding (anubodhañāṇa)
+
+Nāmarūpaparicchedo, tassa ca paccayapariggaho na paṭhamābhinivesamattena hoti. Atha kho tattha aparāparaṃ ñāṇuppattisiddhito anu anu bujjhanena. (ဒီ၊ဋီ၊၂၊၈၉-၉၀။)
+
+
+<a id="M08-body-P184"></a>
+## Subsequent understanding and closing signature
+Miến / Burmese 184
+
+Knowledge of delimiting mentality and materiality and knowledge of discerning conditions, which defines the causes of that mentality and materiality, do not complete their principal task merely through attending once or a few times at the outset. In fact, with respect to those two knowledges—when defining materiality and mentality and when defining their causes—the principal task can be completed only by penetrating understanding, returning to the work again and again, on many occasions. This is what is meant by the repeated arising of knowledge. (ဒီ၊ဋီ၊၂၊၈၉-၉၀။)
+
+For this reason, both knowledge of delimiting mentality and materiality and knowledge of discerning conditions are called knowledge of subsequent understanding. When one can define repeatedly and correctly in each case the material phenomena, mental phenomena, causal phenomena and resultant phenomena present in the three periods and both continua, one is ready to proceed to insight.
+
+Pa-Auk Tawya Sayadaw
+Cittala Taung Monastery
+Pa-Auk Tawya
+Myanmar Era 1367
+
+
+<a id="M08-index-P001"></a>
+## Alphabetical index
+Chỉ mục / Index - Miến / Burmese 185
+
+[အ]
+
+All fourteen unwholesome mental factors — 86
+
+What ethically variable equanimity is — 136
+
+Called groundless anger (aṭṭhānakopa) — 97
+
+Clinging to a doctrine of self (attavādupādāna) — 168
+
+Knowledge of the analytical distinction of meaning — 8
+
+A point to note particularly — 67
+
+Neither pain nor pleasure = equanimous feeling = equanimity of the fourth jhāna — 69
+
+Non-hatred (adosa) — 116
+
+Attainment (adhigama) — 10
+
+Decision (adhimokkha) — 82
+
+Phenomena without an object — 154
+
+There is a view that it is impermanent — 68
+
+Experiential knowledge (anubhavañāṇa) — 183
+
+Moral recklessness (anottappa) — 89
+
+Mental factor of moral recklessness — 89
+
+Non-delusion = wisdom faculty = wisdom — 136
+
+Manifestation as male — 32
+
+Manifestation as female — 31
+
+What unwise attention is — 60
+
+Venerable Bāhiya Dārucīriya — 15
+
+Non-greed (alobha) — 115
+
+What non-greed is — 115
+
+Ignorance (avijjā) — 146
+
+What non-settling (avūpasama) is — 91
+
+Non-delusion as manifestation (asammohapaccupaṭṭhāna) — 137
+
+Phenomena of lack of faith (assaddhiya) — 123
+
+Shamelessness (ahirika) — 88
+
+Mental factor of shamelessness — 89
+
+[အာ]
+
+Space element (ākāsadhātu) — 34
+
+Nine or ten grounds for resentment (āghātavatthu) — 97
+
+Water element (āpodhātu) — 23
+
+What a base (āyatana) is — 155
+
+Called a base (āyatana) — 154
+
+What accumulation (āyūhana) is — 148
+
+Attention that directs the mind to the object (ārammaṇapaṭipādakamanasikāra) — 78
+
+Analysis of adverting — 45
+
+Adverting that takes odour as object — 46
+
+
+<a id="M08-index-P002"></a>
+## Alphabetical index (continued)
+Chỉ mục / Index - Miến / Burmese 186
+
+Adverting that takes a tangible object — 47
+
+Adverting that takes taste as object — 46
+
+Adverting that takes visible form as object — 45
+
+Adverting that takes sound as object — 46
+
+[ဣ]
+
+Femininity faculty = femininity materiality — 31
+
+What a faculty (indriya) is — 139
+
+Envy (issā) — 99
+
+What envy is — 100
+
+[ဥ]
+
+One who understands a brief statement and one who understands a detailed explanation — 7
+
+Restlessness (uddhacca) — 90
+
+What restlessness is — 90
+
+Manifestation understood as the mode of arising — 138
+
+What conditionality according to the mode of arising is — 20
+
+Rebirth existence (upapattibhava) — 170
+
+Clinging (upādāna) — 168
+
+The five aggregates subject to clinging — 3
+
+Four kinds of clinging — 168
+
+Despair (upāyāsa) — 176
+
+What despair is — 176
+
+Divine abiding of equanimity (upekkhā-brahmavihāra) — 134
+
+Equanimous feeling — 68
+
+[ဧ]
+
+One-pointedness = concentration — 74
+
+Method concerning one-pointedness — 40
+
+The method concerning one-pointedness needs to be understood — 144
+
+[ဩ]
+
+Moral dread (ottappa) — 113
+
+What moral dread (ottappa) is — 113
+
+[က]
+
+Edible food (kabaḷīkāra āhāra) — 33
+
+Kamma existence (kammabhava) — 170
+
+Compassion (karuṇā) — 132
+
+Failure of compassion — 132
+
+Success of compassion — 132
+
+Clinging to sensuality (kāmupādāna) — 168
+
+Wieldiness of the mental body and of consciousness — 120
+
+
+<a id="M08-index-P003"></a>
+## Alphabetical index (continued)
+Chỉ mục / Index - Miến / Burmese 187
+
+Body-door process, determining consciousness — 57
+
+Body sensitivity — 28
+
+Tranquillity of the mental body and of consciousness — 117
+
+Rectitude of the mental body and of consciousness — 122
+
+Malleability of the mental body and of consciousness — 119
+
+Lightness of the mental body and of consciousness — 118
+
+Body consciousness — 49
+
+Bodily intimation — 34
+
+Body contact — 158
+
+Feeling born of body contact — 162
+
+Body base — 153
+
+Proficiency of the mental body and of consciousness — 123
+
+Taking one object only — 154
+
+Worry (kukkucca) — 101
+
+What worry is — 102
+
+Prepare beforehand — 182
+
+What should be known beforehand — 20
+
+[ခ]
+
+Nature of experiencing — 22
+
+Erroneous view — 6
+
+[ဂ]
+
+Craving for odours (gandhataṇhā) — 165
+
+Odour object — 30
+
+Receiving consciousness that receives an odour object — 51
+
+Household-based joy (gehasitapīti) — 134
+
+[ဃ]
+
+Nose-door process, determining consciousness — 57
+
+Nose sensitivity — 26
+
+Nose consciousness — 48
+
+Nose contact — 157
+
+Feeling born of nose contact — 160
+
+Nose base — 152
+
+[င]
+
+What trembling is — 100
+
+[စ]
+
+Eye base — 150
+
+Registration in an eye-door process — 60
+
+Eye-door process, determining consciousness — 56
+
+Eye sensitivity — 25
+
+Eye consciousness — 47
+
+Eye contact — 156
+
+
+<a id="M08-index-P004"></a>
+## Alphabetical index (continued)
+Chỉ mục / Index - Miến / Burmese 188
+
+Feeling born of eye contact — 160
+
+What proceeding by each consciousness moment means — 144
+
+Death consciousness — 64
+
+Volition (cetanā) — 73
+
+What volition is — 73
+
+Nature of protecting — 32
+
+[ဆ]
+
+Desire (chanda) — 85
+
+What desire is — 85
+
+[ဇ]
+
+Ageing (jarā) — 172
+
+Attention that directs impulsion (javanapaṭipādakamanasikāra) — 78
+
+Birth (jāti) — 171
+
+Tongue-door process, determining consciousness — 57
+
+Tongue sensitivity — 27
+
+Tongue base — 152
+
+Tongue consciousness — 49
+
+Tongue contact — 157
+
+Feeling born of tongue contact — 162
+
+Life (jīvita) — 75
+
+Life faculty = life materiality — 32
+
+Impulsion, unwholesome impulsion — 59
+
+Impulsion, wholesome impulsion — 58
+
+[ဈ]
+
+Jhāna equanimity = specific neutrality accompanying the third jhāna — 68
+
+[ည]
+
+Reflect with knowledge — 107
+
+[တ]
+
+Craving (taṇhā) — 163
+
+Specific neutrality (tatramajjhattatā) — 116, 134
+
+Registration (tadārammaṇa) — 60
+
+Six kinds of registration — 60
+
+Apprentice and skilled worker — 74
+
+Fire element (tejodhātu) — 24
+
+An alternative explanation of glad feeling — 66
+
+What contact is — 87
+
+[ထ]
+
+Sloth (thīna) — 102
+
+[ဒ]
+
+What the function of seeing and the other functions are — 154
+
+View = wrong view — 92
+
+
+<a id="M08-index-P005"></a>
+## Alphabetical index (continued)
+Chỉ mục / Index - Miến / Burmese 189
+
+Clinging to views (diṭṭhupādāna) — 168
+
+Pain = bodily pain — 175
+
+What pain is — 175
+
+Painful feeling — 65
+
+Displeasure = mental pain — 175
+
+Displeased feeling — 67
+
+Hatred (dosa) — 95
+
+What hatred is — 95
+
+[ဓ]
+
+Craving for mental objects (dhammataṇhā) — 167
+
+Knowledge of the analytical distinction of phenomena — 8
+
+Intrinsic nature of phenomena — 2
+
+Excerpt on the practice of contemplating phenomena in accordance with the Paṭṭhāna — 1
+
+[န]
+
+Knowledge of the analytical distinction of language — 8
+
+How to discern and comprehend mental phenomena by characteristic, function, manifestation, proximate cause and Paṭṭhāna conditions — 141
+
+Mentality in mentality-materiality = mental factors — 149
+
+Materiality in mentality-materiality — 149
+
+[ပ]
+
+All six occasional mental factors — 80
+
+The respective parts can be compared — 17
+
+Called manifestation (paccupaṭṭhāna) — 20
+
+Five-door adverting = functional mind element — 44
+
+Chapter on dependent origination — 146
+
+Knowledge of the analytical distinction of perspicacity — 8
+
+Rebirth-linking consciousness — 64
+
+Five conditions for attaining analytical knowledge — 8
+
+The four noble analytical knowledges — 8
+
+Earth element (paṭhavīdhātu) — 22, 23
+
+What conditional relations (paṭṭhāna) are — 20
+
+What refreshing body and mind is — 66
+
+Lamentation (parideva) — 174
+
+Inquiry (paripucchā) — 9
+
+Study of the teaching (pariyatti) — 9
+
+Four assemblies — 114
+
+How to abstain from the bodily misconduct of killing living beings — 128
+
+Joy (pīti) — 84
+
+What joy is — 84
+
+Prior practice (pubbayoga) — 9
+
+Prior practice is very important — 10
+
+
+<a id="M08-index-P006"></a>
+## Alphabetical index (continued)
+Chỉ mục / Index - Miến / Burmese 190
+
+Practice undertaken previously (pubbayoga) — 16
+
+Masculinity faculty = masculinity materiality — 32
+
+The phenomenon that makes one turn toward — 78
+
+Note of the great elder Pyay Sayadaw — 79
+
+[ဖ]
+
+Manifestation understood as result — 138
+
+What result as manifestation is — 20
+
+Contact (phassa) — 72, 155
+
+Craving for tangibles (phoṭṭhabbataṇhā) — 166
+
+Receiving consciousness that receives a tangible object — 52
+
+[ဗ]
+
+As with the powers (bala) — 80
+
+Mental factors of the divine abidings — 130
+
+[ဘ]
+
+Existence (bhava) — 169
+
+Life-continuum consciousness — 44
+
+[မ]
+
+Called unwieldy consciousness — 123
+
+Stinginess (macchariya) — 100
+
+Attention (manasikāra) — 77
+
+What attention is — 77
+
+Three kinds of attention — 78
+
+Mind base — 153
+
+Mind-door process, mind-door adverting — 57
+
+Mind-door adverting consciousness — 55
+
+Mind-door adverting in the mind-door process — 61
+
+Mind contact — 158
+
+Feeling born of mind contact — 163
+
+What mind contact is — 159
+
+Death (maraṇa) — 172
+
+Conceit (māna) — 94
+
+What conceit is — 94
+
+What deceit (māyā), craftiness (sāṭheyya) and the like are — 124
+
+What wrong view is — 91
+
+Torpor (middha) — 101
+
+Appreciative joy (muditā) — 133
+
+Enemy of appreciative joy — 134
+
+Success of appreciative joy — 134
+
+Loving-kindness = non-hatred — 131
+
+Delusion (moha) — 86
+
+
+<a id="M08-index-P007"></a>
+## Alphabetical index (continued)
+Chỉ mục / Index - Miến / Burmese 191
+
+Intrinsic characteristic of delusion — 87
+
+The work of discerning until one sees clearly — 41
+
+[ယ]
+
+Male materiality — 71
+
+What wise attention is — 60
+
+[ရ]
+
+Craving for tastes (rasataṇhā) — 166
+
+Two kinds of function — 19
+
+Called function (rasa) — 19
+
+Taste object — 31
+
+Receiving consciousness that receives a taste object — 52
+
+Consciousness discernible only in an arahant — 64
+
+Craving for visible form (rūpataṇhā) — 164
+
+Impermanence of materiality (rūpassa aniccatā) — 41
+
+Production of materiality (rūpassa upacaya) — 38
+
+Wieldiness of materiality (rūpassa kammaññatā) — 37
+
+Ageing of materiality (rūpassa jaratā) — 39
+
+Malleability of materiality (rūpassa mudutā) — 37
+
+Lightness of materiality (rūpassa lahutā) — 36
+
+Continuity of materiality (rūpassa santati) — 39
+
+Visible-form object — 29
+
+Mind-door adverting that takes visible form as object — 62
+
+Receiving consciousness that receives a visible-form object — 51
+
+Purpose — 181
+
+Twenty-eight material phenomena, the chapter on the material aggregate — 22
+
+A point to remember when discerning — 170
+
+[လ]
+
+How to discern characteristic, function and so forth — 179
+
+Meaning of characteristic, function, manifestation and proximate cause — 18
+
+How to discern characteristic, function, manifestation and proximate cause — 1
+
+The essential task can be completed — 184
+
+Greed (lobha) — 91
+
+What greed is — 92
+
+Five principal tasks — 183
+
+[ဝ]
+
+Verbal intimation — 35
+
+Air element (vāyodhātu) — 24
+
+Sustained application (vicāra) — 81
+
+
+<a id="M08-index-P008"></a>
+## Alphabetical index (continued)
+Chỉ mục / Index - Miến / Burmese 192
+
+What sustained application is — 81
+
+Doubt (vicikicchā) — 104
+
+What doubt is — 104
+
+Chapter on the consciousness aggregate — 43
+
+Consciousness aggregate — 43
+
+Consciousness (viññāṇa) — 148
+
+What initial application is — 81
+
+Vitakka = initial application — 80
+
+One who understands when a statement is explained in detail (vipañcitaññū) — 7
+
+Three abstinence factors (virati) — 126
+
+Attention that directs the cognitive process (vīthipaṭipādakamanasikāra) — 79
+
+Energy (viriya) — 82
+
+Grounds for arousing energy — 84
+
+Grounds for arousing energy as proximate cause — 84
+
+Determining consciousness = rootless functional mind-consciousness element — 55
+
+Feeling (vedanā) — 159
+
+Chapter on the feeling aggregate — 65
+
+[သ]
+
+Formations (saṅkhāra) — 147
+
+Function of formations — 148
+
+Chapter on the formations aggregate — 72
+
+End of the formations aggregate — 145
+
+Chapter on the perception aggregate — 70
+
+Mental factor of perception — 70
+
+Mindfulness (sati) — 110
+
+Mindfulness and attention — 111
+
+A point to remember — 42
+
+Craving for sounds (saddataṇhā) — 165
+
+Sound object — 29
+
+Receiving consciousness that receives a sound object — 51
+
+Mind-door adverting that takes sound and the other such objects — 63
+
+Faith (saddhā) — 108
+
+Place of origin — 109
+
+Investigating consciousness = rootless resultant mind-consciousness element — 52
+
+Three kinds of investigating consciousness — 53
+
+Mental factors common to all consciousness (sabbacittasādhāraṇa) — 72
+
+What the intrinsic nature of the aggregate is — 66
+
+What concentration is — 74
+
+Receiving = acceptance, resultant mind element — 50
+
+Right livelihood — 129
+
+Right action — 128
+
+Right speech — 126
+
+Learning by hearing (savana) — 9
+
+
+<a id="M08-index-P009"></a>
+## Alphabetical index (continued)
+Chỉ mục / Index - Miến / Burmese 193
+
+Co-arisen phenomena — 83
+
+Sound base — 150
+
+Clinging to rites and observances (sīlabbatupādāna) — 168
+
+Pleasant feeling — 65
+
+Learners and those beyond training — 10
+
+Sorrow (soka) — 173
+
+How sorrow is named — 178
+
+Sorrow, lamentation, pain, displeasure and despair — 177
+
+Registration in an ear-door process and so on — 61
+
+Ear-door process, determining consciousness — 56
+
+Ear sensitivity — 25
+
+Ear consciousness — 48
+
+Ear contact — 156
+
+Feeling born of ear contact — 160
+
+Ear base — 150
+
+Section on beautiful mental factors — 108
+
+Glad feeling — 66
+
+One with knowledge of spiritual urgency — 83
+
+Condition for spiritual urgency, a means to arouse knowledge of urgency — 83
+
+Sloth and torpor are called shrinking — 106
+
+What the characteristic of sloth and torpor is — 105
+
+Advice concerning how to discern and comprehend — 41
+
+[ဟ]
+
+Heart-base — 33
+
+Smile-producing consciousness — 63
+
+Moral shame (hiri) — 112
+
+What moral shame is — 113
+
+❀ ❀ ❀

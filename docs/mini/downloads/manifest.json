@@ -1,0 +1,213 @@
+{
+  "source_web_version": 158,
+  "source_commit": "4aaf875bcc07711d746b7dfd84f2d77f67c82ad5",
+  "volumes": [
+    {
+      "volume": 1,
+      "archive": "Mini-Cuon-01-Web158.zip",
+      "source_pages": 194,
+      "archive_sha256": "09474306a8fe72bc4e73e158cde030dcceae62c37eb2383975a85252196a1a09",
+      "files": {
+        "Mini-Cuon-01-BI.epub": "ee880f1c24da47c700bb96b1db76a93cfdc420c0c9ec279846fd713e0c071831",
+        "Mini-Cuon-01-BI.html": "69c48101dfe9ff3a0b997e1a01497b5cd08800f18c1d92b3fb58a395a224d152",
+        "Mini-Cuon-01-BI.md": "a18222265d2a6c7772304d13a92b30c7c5786d4e4630a5a5a2d28c6223d086aa",
+        "Mini-Cuon-01-BI.pdf": "d4fea6998979e65f2f0a3b9d8b639194509203f611139805c923ca076c6dc25a",
+        "Mini-Cuon-01-BI.txt": "60ac2fc33f8bf447abe8cf85f7595f8f545eef62002ba5e4adad6ab51a3dd08b",
+        "Mini-Cuon-01-EN.epub": "1eb8fa483d4144b9f86e577f253770a6f361529703a86fe7db6f7d078d4d9da9",
+        "Mini-Cuon-01-EN.html": "bb8c182aa99f5cfa9710f4170626ba84db747e3592c534084594f4f4316f37d5",
+        "Mini-Cuon-01-EN.md": "c0f4981e94e1007d0ce0a1f9a157bc5f6ecbbeaf742bf79d6f874518777e4a9c",
+        "Mini-Cuon-01-EN.pdf": "625b1886819d17c004bc19c8464843bfae4e673047e429c7fa5d39c046ef8613",
+        "Mini-Cuon-01-EN.txt": "6f89cda4cad91289175e47aafdff2e0cbdf65d94e9f93196c12eea32e9220dc6",
+        "Mini-Cuon-01-VI.epub": "9ef514ea471faf616a15987d113f63fedf4704f29151eede7d0396b3e5b974a2",
+        "Mini-Cuon-01-VI.html": "835159b6bee927090e2ee6a0b56d5490c5631bf1022d254b3a8870f135d360a1",
+        "Mini-Cuon-01-VI.md": "91cda868bed61f397cf77da7c47d9a6196350caa2cdc6201570a611104df4e49",
+        "Mini-Cuon-01-VI.pdf": "187fc7a8f8f242be5233d34dcbecb68b35d19d2235a41f0eb1a147f3ad8365ba",
+        "Mini-Cuon-01-VI.txt": "e6ebcf31f658105259411f51d627aa9ebba54c97f84b1bbfa08745e722557c9c"
+      }
+    },
+    {
+      "volume": 2,
+      "archive": "Mini-Cuon-02-Web158.zip",
+      "source_pages": 148,
+      "archive_sha256": "2d3ce91fe8826e9506f080dec5487f5ece103259785afe2775a7e9676ce42d18",
+      "files": {
+        "Mini-Cuon-02-BI.epub": "7ed225afc14383a4ceeb867524fab4ef2d501b9a6c99fe4c896d6ff89532ef9d",
+        "Mini-Cuon-02-BI.html": "25ac1fb322b6ab4b484e551206bef84fcce931600d9fb87337e80e147e013982",
+        "Mini-Cuon-02-BI.md": "3f2e63163e19ab5a80f526be5a323bf95ae9699db7648e39139d9089353c69d4",
+        "Mini-Cuon-02-BI.pdf": "86d63ea1930850b636be0cd3b5e144ff0c60593ec141bfa050cdbef0def1b33a",
+        "Mini-Cuon-02-BI.txt": "2bb16d7203d39376e186a4c213d677ab47da6fe90eb2fbca18df352ca626d1d6",
+        "Mini-Cuon-02-EN.epub": "bda509729ebf3edba03c65cc2a76a5496cd076a0dc4c42069aa2a2b6278f9927",
+        "Mini-Cuon-02-EN.html": "fc90be47640500f154babeda6a5718adae8606cf4284ecbccebecdc846a75e07",
+        "Mini-Cuon-02-EN.md": "3bb4d0984bd0163428d27febf6a88cad4bf56c8b04d1f91950d770474a7181f1",
+        "Mini-Cuon-02-EN.pdf": "9f0f42f2777ca940f45d7669e62a70a89ff9dab6675c082e5294b630cf0ace48",
+        "Mini-Cuon-02-EN.txt": "97b4680bcbd44ee7ced5a034a1d2fae5ad668a2c1c657d1ff70d35ef70315a28",
+        "Mini-Cuon-02-VI.epub": "99bf4e1bc5fb9ed9dd4a00ffae53fcd8b34a958593ddcc87297a99fb43d8a610",
+        "Mini-Cuon-02-VI.html": "eaa2ecf34234a209fbeb017b61c167fc4d1f79a3e9a666f4fde13d2a78315f6d",
+        "Mini-Cuon-02-VI.md": "c4f96a4c19c4194ddf2ff6f609f69a0dc39eec96da9f6b7292335f4dcffcaf5e",
+        "Mini-Cuon-02-VI.pdf": "68e72b38146d0d6a60fc892b9b01e7eb40076cb545bf3b1f14e2ea8e89a02fca",
+        "Mini-Cuon-02-VI.txt": "0fe8693c6dffbdc16a3813382db7f5f28f358d9003ee3b4b26954fc5bd662ce6"
+      }
+    },
+    {
+      "volume": 3,
+      "archive": "Mini-Cuon-03-Web158.zip",
+      "source_pages": 205,
+      "archive_sha256": "419906b4350ac6a60205bd3c625eabc09b308b42f2b208862abd46852e28f3c0",
+      "files": {
+        "Mini-Cuon-03-BI.epub": "b78d95faec07146464ce2358432ecfd2800b2096f8165645e39a0b32ea3f979c",
+        "Mini-Cuon-03-BI.html": "37e7a0a2178e744d2461cf015d808bc97af1265d5af1421d5bafa187c0fccaa6",
+        "Mini-Cuon-03-BI.md": "287afe0eae985b5424bf36be670c258f3fcdc41bebec26a903934d061026fe3e",
+        "Mini-Cuon-03-BI.pdf": "33d7f26071fa02402446a342edf6bf38ace6f71ebcbc7b6296e9053097397684",
+        "Mini-Cuon-03-BI.txt": "49f2a2c2bbb96024ccfd396a444bc94aa862ba8661b9136489cb397ac0613cac",
+        "Mini-Cuon-03-EN.epub": "07582605e1c55c733ff08da91f951f71f7308650daf118c8d819ae25792442bc",
+        "Mini-Cuon-03-EN.html": "96e38630f38e728e9ecbf81608909038bda1cc07640ca1993b12bf7dbb981324",
+        "Mini-Cuon-03-EN.md": "9bb9c1b07a6262425a2f906a6df8bb11e6f68076c4354fc6b7c997e589c6782d",
+        "Mini-Cuon-03-EN.pdf": "a0236d4220e72394817573609471b7c707fd01c7dd7e09750cba75847acdcaab",
+        "Mini-Cuon-03-EN.txt": "b074341556b3ca9b9138ff61ee77906f1a910398b0c4ec25464e12d628af0e08",
+        "Mini-Cuon-03-VI.epub": "a95e9615f15656999bb63364d29d015472370c9ecca589cb3afdfbf425d67c6f",
+        "Mini-Cuon-03-VI.html": "e139811056bdf40200491e777ba7714f432672c30e1c742036544966eda4472c",
+        "Mini-Cuon-03-VI.md": "963d592a1a78a5bd759efc59de3a62a35089d665c80480d0a77fca9c93aa9955",
+        "Mini-Cuon-03-VI.pdf": "fc059af75788425e95487de17048fb46d4b344cb67b3012622a9e3a77cd759a3",
+        "Mini-Cuon-03-VI.txt": "6b1f6fa6bf63fc233dc6866be64807b668871d7da8b328a1b1709a7306cca4e6"
+      }
+    },
+    {
+      "volume": 4,
+      "archive": "Mini-Cuon-04-Web158.zip",
+      "source_pages": 269,
+      "archive_sha256": "e82c5dfdddf14cb6d07d3c0d62b30729789e34e5cc54fe9417eb38ef98d92ea8",
+      "files": {
+        "Mini-Cuon-04-BI.epub": "bfed680c653ff5b8f2d575d7b0ed2b0fe153a4eac60721a1aa3aa721d9d0f793",
+        "Mini-Cuon-04-BI.html": "fe0585bb0abf10b6b8556a5bcdd9314786bd970e251864efabcb8aa74e5b6018",
+        "Mini-Cuon-04-BI.md": "4e91a8b96b05b6d38c87f1d79fd3bbba7a7fe29cd28412e402d39f910375c2f4",
+        "Mini-Cuon-04-BI.pdf": "deaaa6b473fc5656ec1f1ab5436873342c7209f1a56038b511e5aed3843beb97",
+        "Mini-Cuon-04-BI.txt": "5a605b013b6ecf06391026882a361ee209463f9cedb66c8dc547cb4f5edb01c5",
+        "Mini-Cuon-04-EN.epub": "5d1955fe8f27e197f96588952faec6aaac61087bcfb8d597cfd64cf26b401b31",
+        "Mini-Cuon-04-EN.html": "e061da71ba1fb580477a1b5d610031c041c2592de6511b91fbb91d521b189dc7",
+        "Mini-Cuon-04-EN.md": "9988148959d4d6cb50586f7cc8a4ca2354829b499a2968018249ed50511384a8",
+        "Mini-Cuon-04-EN.pdf": "a572b3fe11644f6abdfe658cffd4a6e7258e0afe1136b9558cafa7edd79ee812",
+        "Mini-Cuon-04-EN.txt": "d9c2ef76eb1ffa24e34c3ff057f8ba7253cdf6f154e4cdb6b4d348fd4afc58b6",
+        "Mini-Cuon-04-VI.epub": "41d436579d0ca2a1e6dbd6ba30224f58c779ca2ba6042c4e61f9644b00ac6171",
+        "Mini-Cuon-04-VI.html": "701952c8e92164c51a4dde28e1140e9ac0ce663dbd6d3d7c95c969e2f5638f26",
+        "Mini-Cuon-04-VI.md": "c5fd7b23e3b63ebdbcd4ae18bd4a1e83a57cecec48d6c773f8f17b71aed84d73",
+        "Mini-Cuon-04-VI.pdf": "6653fc29545e7e67b014d277798b62b59ff2f055f694d8ec63bf8c640f0764b0",
+        "Mini-Cuon-04-VI.txt": "442b6ec8300b73b6ad7e712e71b59993c918f53a0d3f4268caf7bec911c69cc5"
+      }
+    },
+    {
+      "volume": 5,
+      "archive": "Mini-Cuon-05-Web158.zip",
+      "source_pages": 217,
+      "archive_sha256": "03ffe2b28f92bb269e37c77c98f8e8425d4faf07cc4dd82004569a6bfbb79ce9",
+      "files": {
+        "Mini-Cuon-05-BI.epub": "0b9f1a8509fba2aeec9e65c7477a89b1a6c7cf998faee0d18a7c86bcee70a76d",
+        "Mini-Cuon-05-BI.html": "3a11e7bb1d697baa375fccca62339ac6911c560670126ea801689d6b8b4d8d93",
+        "Mini-Cuon-05-BI.md": "f2784d25b796ba70beaf2c04cdac786763704c1c1c07cc9fc3765ad59285982e",
+        "Mini-Cuon-05-BI.pdf": "8bed836384bf841003ee9080806f09d74beac1da1bfcac57b8a7005d14514e86",
+        "Mini-Cuon-05-BI.txt": "73f6f8bb3ced5810932d82caa49c76d680fa85162100395844997e113091c84d",
+        "Mini-Cuon-05-EN.epub": "c016dae579ac3251bbc6ef95490fa677aa7c00630c78ea1de75793c1cc1b785d",
+        "Mini-Cuon-05-EN.html": "57ab72a3d6f38bead1dd6cc2ee161145373d0cc84890fd1ebcb7ff504ebeee14",
+        "Mini-Cuon-05-EN.md": "093cecef5c6b537b6c3748aae5ad91ee9acaa0517992cc85fe875dfcb3db7e51",
+        "Mini-Cuon-05-EN.pdf": "4c8e3f7a08832df539918b515085c90422f93f6bcdcaaa8d336aeead00065da5",
+        "Mini-Cuon-05-EN.txt": "4bd2ae218d05dc8141f2662c416fb85433b4898dae7e8aa97eb07d2dc0de307e",
+        "Mini-Cuon-05-VI.epub": "e9f9b96c663aac64a4d6730692ece3bdb68a124115d62c78f8d335002d4cef09",
+        "Mini-Cuon-05-VI.html": "5026ca696a941c0fb15d09ab1b5ec5bf622b6f543318461fa0dc754c079b2c3d",
+        "Mini-Cuon-05-VI.md": "667483c1f040b6dca447f7e6aca97bc022218a59838f89db1e7265596c7ebf7b",
+        "Mini-Cuon-05-VI.pdf": "c95b60c6b91a0c179346d807db45facd7d06c3543a15bf0376f8a13e16adeeca",
+        "Mini-Cuon-05-VI.txt": "43e30c97ddf6db4ff92062151f5c4bd26abd9e86d388ccd3ce427c11c9b878c4"
+      }
+    },
+    {
+      "volume": 6,
+      "archive": "Mini-Cuon-06-Web158.zip",
+      "source_pages": 190,
+      "archive_sha256": "d46a4349163d6e8fcc3bbfad896c15830c0871d84f6c5dc55dd9e72c354aa0f4",
+      "files": {
+        "Mini-Cuon-06-BI.epub": "ad03684ae57f3491782d36668bcd2cfb72dea746acba338b5a5380c47e216e78",
+        "Mini-Cuon-06-BI.html": "0a0e636d7ca8e9a2dde57837d702aa9ad504f928bfc00639cde7cac276bf7dd1",
+        "Mini-Cuon-06-BI.md": "4ea5dfe19d07e4a2c0a5e6d5c18ed8f4289d8230790ef4f5f8018502a41c58f8",
+        "Mini-Cuon-06-BI.pdf": "7453a088e422dc60bffcc4b597e89e38fe6a8c5b9a7b914aad45156199bf6b6a",
+        "Mini-Cuon-06-BI.txt": "705532305dc06dd7b025012da8dce0473e4f87d70baaebd1d961a4bf2a3a93b6",
+        "Mini-Cuon-06-EN.epub": "29c3185fbabe326d0a5be3333d604ac1c08b4fbe7cfdf843ab75a3c965683e27",
+        "Mini-Cuon-06-EN.html": "9e012c2b828df1b8bec63afd25a92c9f30872ac62da9583e1876e98a1b50c1ba",
+        "Mini-Cuon-06-EN.md": "1f937ca8edaff6ad0ce4d1f656101517063f6e8a598859995b6b46dd0d543724",
+        "Mini-Cuon-06-EN.pdf": "66f7712d1bbd6c95879cb61798d1135ea9018807f3a191ac7be473569e4db5b4",
+        "Mini-Cuon-06-EN.txt": "79d6b52104046502a24f597ba0bcbbfe0cd6ff7de0f72062e557b03c529fbbe7",
+        "Mini-Cuon-06-VI.epub": "8c13bf3010b00ff17cfe8bd53295cd92fcee2e981107d9a77f7d7c38b0e9a238",
+        "Mini-Cuon-06-VI.html": "c3c731e2194a7fd6f6497d9731fc1de763b7825732428692dfc2422c37554115",
+        "Mini-Cuon-06-VI.md": "9cafe27f10772a2ba4d05c1444aecfff7b3da408554fd058f5bf8f207793c0c1",
+        "Mini-Cuon-06-VI.pdf": "b1e171b2acd6b78ccc25030d784ee62e76d921a9ea8bf6669155f3424bb89c4d",
+        "Mini-Cuon-06-VI.txt": "84bb322b64ac538a9c26e47cab7845a04b09a6e1042643d116817bf324498ba6"
+      }
+    },
+    {
+      "volume": 7,
+      "archive": "Mini-Cuon-07-Web158.zip",
+      "source_pages": 170,
+      "archive_sha256": "8635341924cfa68ae9bb5f86cd7e8fe9eb3a21957362798e76b245bce16b6889",
+      "files": {
+        "Mini-Cuon-07-BI.epub": "d6367677a33cae6a4b004bbee42c5ba31be10d9684e54f771a76cbe5aa46d6d8",
+        "Mini-Cuon-07-BI.html": "855f1c0743833afd557ad21e7f106df344bfce4a8dd869051f006c60bbf6344b",
+        "Mini-Cuon-07-BI.md": "a40c1f5f2032b2b7842a2a22412c2f3e52b2c82758c3e9ad2aefe494f30d51ad",
+        "Mini-Cuon-07-BI.pdf": "b2d6d6f7b5b6bfcd5b49ef137d52304b136d57f8c3b6367ea77921abe7f15cb1",
+        "Mini-Cuon-07-BI.txt": "a8c4b16dd05945b46f4c1556fd4bc8e28a36d7df3149377e87c6db18122e9af8",
+        "Mini-Cuon-07-EN.epub": "111ed916601a38887090a024b523422625258d61ffa96f78e0151d2a27db5756",
+        "Mini-Cuon-07-EN.html": "ae71910f8748d0eda22504b09d122ae529e226a043e9758334c569b33a17296a",
+        "Mini-Cuon-07-EN.md": "bea7a17af911a23c9ed4811c34163278518a1d7a6a72c420d26251f103effc2e",
+        "Mini-Cuon-07-EN.pdf": "58c094b7e88b1f25976a66e536e6b213c14013e9da10a42191ea9d6f95f62989",
+        "Mini-Cuon-07-EN.txt": "838f96944c1221180b327f096169b2b6ab5ad87f37bd3bfec3471721405f67fc",
+        "Mini-Cuon-07-VI.epub": "ca83837f5948b784f1560392c014abd283b14f31cbe34ba6446c277ac2587ef4",
+        "Mini-Cuon-07-VI.html": "89df24d25522c3f5f81ccc5ab1ba14021868f5fb8970de2e799b478c59b76919",
+        "Mini-Cuon-07-VI.md": "d98dfe84f656b59c2853f3a16651422b8b4e93792e06a2c111bb8d6c202d5812",
+        "Mini-Cuon-07-VI.pdf": "8d6793398c79f2d377d50a0073bcab8eee3cd2194507f2766528d72bf8d1a297",
+        "Mini-Cuon-07-VI.txt": "fd1d1025e4dec098b396dbb0a9af63998d7238b3b3de76350b7dec1eb5432032"
+      }
+    },
+    {
+      "volume": 8,
+      "archive": "Mini-Cuon-08-Web158.zip",
+      "source_pages": 205,
+      "archive_sha256": "9eb8a81c0916c131edf8e58c0251ff4eaf51fd006dca6aaf664d414752be657f",
+      "files": {
+        "Mini-Cuon-08-BI.epub": "1467e11930d9e399d8ce28a345e1c7f051c1f2064e8db48a742e1d2a7c6a6a6a",
+        "Mini-Cuon-08-BI.html": "ca6f5c597e6bc7c859ae7b9421dd65a8e8a53e8e1d8c517a47caba37adfc3099",
+        "Mini-Cuon-08-BI.md": "11755489ed950751f4ca5c88b5efbfae2253aede7ba9e216b340bdddbab9462b",
+        "Mini-Cuon-08-BI.pdf": "73fc205fdc24ad29047ce210ba4904dc1530684acb0653471d8eca553dd66745",
+        "Mini-Cuon-08-BI.txt": "45e549fa1d52166c7a9fb8733da7d75f940ef4bd90e72bfa57b669bccf48899a",
+        "Mini-Cuon-08-EN.epub": "f4d0252551b375ee68243f0b571e1825c68a30b331d984a432db809db7f30d59",
+        "Mini-Cuon-08-EN.html": "30345e38be8938b21c1af5cace2177019b8772c41a89dd95cba3c6c02d4f9302",
+        "Mini-Cuon-08-EN.md": "e50b183617ac19a3025a744e921a878345b8ed0a99bd44902df1eba5f5dfb779",
+        "Mini-Cuon-08-EN.pdf": "6f394903bea0413b4a02c8bcaa70925272f9707e14531da6a78d3a761e5be008",
+        "Mini-Cuon-08-EN.txt": "a98f6cbe7ba9018619fc6a05bef2cd75a89a666d2afb4d0a10b7aa395a8af8cf",
+        "Mini-Cuon-08-VI.epub": "4366a80e3df7f884154e5be41fb7998d60510190c66c54ed6a47cff36467ab82",
+        "Mini-Cuon-08-VI.html": "b0b4ccafcf00d57c86a754db17e1ed93c2adb8335ad53e39bdf42e54b0ea6240",
+        "Mini-Cuon-08-VI.md": "d82d010fc8893d975c02ff2b7b58b4414e3c3dfd4cbb638e1a07e93f267e122d",
+        "Mini-Cuon-08-VI.pdf": "4ccb6cd3adf1637c4ecd2aeae6dd3c0341b48fb9fb34ac10feb284a81fc3c207",
+        "Mini-Cuon-08-VI.txt": "bf062c5b2ea54dfa052cceee3df5e7162bb98341685866fe57f3482fec85f1b5"
+      }
+    },
+    {
+      "volume": 9,
+      "archive": "Mini-Cuon-09-Web158.zip",
+      "source_pages": 230,
+      "archive_sha256": "57211872a1adc360ef0446673a4717c1b1780e8f45e59cb1b348fd5f41630fb7",
+      "files": {
+        "Mini-Cuon-09-BI.epub": "4c9fe44bebcf462ea5f9f697470352b6f7e0fb4bc2b16dab92a4eb9eddcf1f82",
+        "Mini-Cuon-09-BI.html": "efa5f0cb7a7b310301552650a62b37294f35b4a53427c4e2e068718bb70e7c3b",
+        "Mini-Cuon-09-BI.md": "7534b1a928669792e4ba217c9c70b6a134a79694f7b0dbdf535a869b441fa169",
+        "Mini-Cuon-09-BI.pdf": "5f348833ac071b577a8fd55a109300800fd30946c78b74af344d80f68b34d1b9",
+        "Mini-Cuon-09-BI.txt": "e3f6c10006483aaf53945bda6d1c129c5b998892d3a426a8d0bd336a8ca9f2d4",
+        "Mini-Cuon-09-EN.epub": "5a9da79b21dcbe98470f12822dae3959bf9f8241467877ea9612d18c80365b5e",
+        "Mini-Cuon-09-EN.html": "69b98398603c5586b50249faee909fe85a3d51530b6c572fffded5bca008fd15",
+        "Mini-Cuon-09-EN.md": "41cb1c4b8662f1833ce8d686ecdc9efbf52b3d015cd7f9730b02c41fd15cc2a7",
+        "Mini-Cuon-09-EN.pdf": "85a5260abb53f3f8524ce96de4c24717f38e7a896d0137560065f380417c0c6c",
+        "Mini-Cuon-09-EN.txt": "d2719e4fdb49777301a778acb8d8202275da230d9b703b2bffbd20b79b697293",
+        "Mini-Cuon-09-VI.epub": "98cd4de90784e1f6755a6d788873bac82d8623b64cbff2f81709ef214496b895",
+        "Mini-Cuon-09-VI.html": "f1d05633ad64876b871aad4b296eb17a3a37574f227d5b9239c1015db6d91ffe",
+        "Mini-Cuon-09-VI.md": "d7a756e7f6e30b9937344a475caa6e6e043bb813c6be690f5ca7cee4a3ed225c",
+        "Mini-Cuon-09-VI.pdf": "2c9837a2936f7c399dd27b2f3187d21575d3d86ce03256ead87829f4a41a4a75",
+        "Mini-Cuon-09-VI.txt": "ded60830fb314c9ca7ac6ae34b725cf4d8c2a8067cdf6da29702fa9749e69823"
+      }
+    }
+  ]
+}

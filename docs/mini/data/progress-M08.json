@@ -1,0 +1,22 @@
+{
+  "project_id": "appgprj_6ae50633ab8081918e19d5ca4be40297",
+  "volume": "M08",
+  "complete_content_pages": 184,
+  "self_checked_image_pages": 184,
+  "integrated_content_pages": 184,
+  "published_content_pages": 184,
+  "frontmatter_pages": 11,
+  "frontmatter_source_pages": 11,
+  "body_source_pages": 184,
+  "body_last": 184,
+  "index_pages": 9,
+  "index_source_pages": 9,
+  "toc_entries": 208,
+  "next_body": null,
+  "version": 143,
+  "volume_complete": true,
+  "next": "Đã hoàn tất chính văn và chỉ mục song ngữ.",
+  "owner_approval": false,
+  "independent_review": false,
+  "toc_complete": true
+}

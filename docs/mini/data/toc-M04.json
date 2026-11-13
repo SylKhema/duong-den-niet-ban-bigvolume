@@ -1,0 +1,1632 @@
+[
+  {
+    "level": 0,
+    "kind": "body",
+    "pdf": 1,
+    "printed": "1",
+    "title": "Phần 1. Những điều cần biết về tâm",
+    "target": "M04-body-P001",
+    "source_toc_pdf": 3,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 1,
+    "printed": "1",
+    "title": "Một trăm nghìn koṭi",
+    "target": "M04-body-P001",
+    "source_toc_pdf": 3,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 2,
+    "printed": "2",
+    "title": "Ba cách quán danh pháp",
+    "target": "M04-body-P002",
+    "source_toc_pdf": 3,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 7,
+    "printed": "7",
+    "title": "Hai điểm cần biết trước",
+    "target": "M04-body-P007",
+    "source_toc_pdf": 3,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 8,
+    "printed": "8",
+    "title": "Giải thích thêm",
+    "target": "M04-body-P008",
+    "source_toc_pdf": 3,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 10,
+    "printed": "10",
+    "title": "Chỉ xét các danh pháp hiệp thế",
+    "target": "M04-body-P010",
+    "source_toc_pdf": 3,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 12,
+    "printed": "12",
+    "title": "Những điều cần biết trước",
+    "target": "M04-body-P012",
+    "source_toc_pdf": 3,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 13,
+    "printed": "13",
+    "title": "Sáu vật — các sắc làm chỗ nương cho danh pháp sinh",
+    "target": "M04-body-P013",
+    "source_toc_pdf": 3,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 13,
+    "printed": "13",
+    "title": "Sáu môn",
+    "target": "M04-body-P013",
+    "source_toc_pdf": 3,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 14,
+    "printed": "14",
+    "title": "Sáu cảnh",
+    "target": "M04-body-P014",
+    "source_toc_pdf": 3,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 14,
+    "printed": "14",
+    "title": "Sáu loại cảnh pháp",
+    "target": "M04-body-P014",
+    "source_toc_pdf": 3,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 15,
+    "printed": "15",
+    "title": "Sáu thức giới",
+    "target": "M04-body-P015",
+    "source_toc_pdf": 3,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 16,
+    "printed": "16",
+    "title": "Sáu loại lộ tâm",
+    "target": "M04-body-P016",
+    "source_toc_pdf": 3,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 18,
+    "printed": "18",
+    "title": "Sáu cách diễn tiến của đối tượng",
+    "target": "M04-body-P018",
+    "source_toc_pdf": 3,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 19,
+    "printed": "19",
+    "title": "Các loại tâm có thể làm đối tượng của tuệ minh sát",
+    "target": "M04-body-P019",
+    "source_toc_pdf": 3,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 20,
+    "printed": "20",
+    "title": "Mười hai loại tâm bất thiện",
+    "target": "M04-body-P020",
+    "source_toc_pdf": 3,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 20,
+    "printed": "20",
+    "title": "Tám tâm căn tham",
+    "target": "M04-body-P020",
+    "source_toc_pdf": 3,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 21,
+    "printed": "21",
+    "title": "Hai tâm căn sân",
+    "target": "M04-body-P021",
+    "source_toc_pdf": 3,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 22,
+    "printed": "22",
+    "title": "Hai tâm căn si",
+    "target": "M04-body-P022",
+    "source_toc_pdf": 3,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 22,
+    "printed": "22",
+    "title": "Mười tám tâm vô nhân — bảy tâm quả bất thiện",
+    "target": "M04-body-P022",
+    "source_toc_pdf": 3,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 23,
+    "printed": "23",
+    "title": "Tám tâm quả thiện vô nhân",
+    "target": "M04-body-P023",
+    "source_toc_pdf": 4,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 23,
+    "printed": "23",
+    "title": "Ba tâm duy tác vô nhân",
+    "target": "M04-body-P023",
+    "source_toc_pdf": 4,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 24,
+    "printed": "24",
+    "title": "Hai mươi bốn tâm dục giới tịnh hảo — tám tâm đại thiện",
+    "target": "M04-body-P024",
+    "source_toc_pdf": 4,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 25,
+    "printed": "25",
+    "title": "Tám tâm đại quả",
+    "target": "M04-body-P025",
+    "source_toc_pdf": 4,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 26,
+    "printed": "26",
+    "title": "Tám tâm đại duy tác",
+    "target": "M04-body-P026",
+    "source_toc_pdf": 4,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 27,
+    "printed": "27",
+    "title": "Mười lăm tâm sắc giới — năm tâm thiện",
+    "target": "M04-body-P027",
+    "source_toc_pdf": 4,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 28,
+    "printed": "28",
+    "title": "Mười hai tâm vô sắc giới — bốn tâm thiện",
+    "target": "M04-body-P028",
+    "source_toc_pdf": 4,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 30,
+    "printed": "30",
+    "title": "Tám tâm siêu thế theo cách kể tóm lược — bốn tâm Thánh đạo",
+    "target": "M04-body-P030",
+    "source_toc_pdf": 4,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 30,
+    "printed": "30",
+    "title": "Bốn tâm Thánh quả",
+    "target": "M04-body-P030",
+    "source_toc_pdf": 4,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 31,
+    "printed": "31",
+    "title": "Bốn mươi tâm siêu thế theo cách kể chi tiết",
+    "target": "M04-body-P031",
+    "source_toc_pdf": 4,
+    "status": "translated"
+  },
+  {
+    "level": 0,
+    "kind": "body",
+    "pdf": 33,
+    "printed": "33",
+    "title": "Phần 2. Những điều cần biết về tâm sở",
+    "target": "M04-body-P033",
+    "source_toc_pdf": 4,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 33,
+    "printed": "33",
+    "title": "Bốn đặc điểm của tâm sở tương ưng với tâm",
+    "target": "M04-body-P033",
+    "source_toc_pdf": 4,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 34,
+    "printed": "34",
+    "title": "Năm mươi hai tâm sở",
+    "target": "M04-body-P034",
+    "source_toc_pdf": 4,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 34,
+    "printed": "34",
+    "title": "Bảy tâm sở biến hành",
+    "target": "M04-body-P034",
+    "source_toc_pdf": 4,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 36,
+    "printed": "36",
+    "title": "Sáu tâm sở biệt cảnh",
+    "target": "M04-body-P036",
+    "source_toc_pdf": 4,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 37,
+    "printed": "37",
+    "title": "Tầm, tư và tác ý",
+    "target": "M04-body-P037",
+    "source_toc_pdf": 4,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 38,
+    "printed": "38",
+    "title": "Mười bốn tâm sở bất thiện — bốn tâm sở bất thiện biến hành",
+    "target": "M04-body-P038",
+    "source_toc_pdf": 4,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 38,
+    "printed": "38",
+    "title": "Ba tâm sở thuộc nhóm tham",
+    "target": "M04-body-P038",
+    "source_toc_pdf": 4,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 39,
+    "printed": "39",
+    "title": "Giải thích thêm",
+    "target": "M04-body-P039",
+    "source_toc_pdf": 4,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 41,
+    "printed": "41",
+    "title": "Hai loại chấp ngã",
+    "target": "M04-body-P041",
+    "source_toc_pdf": 4,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 43,
+    "printed": "43",
+    "title": "Phân biệt si và tà kiến theo cách tóm lược",
+    "target": "M04-body-P043",
+    "source_toc_pdf": 4,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 43,
+    "printed": "43",
+    "title": "Bốn tâm sở thuộc nhóm sân",
+    "target": "M04-body-P043",
+    "source_toc_pdf": 4,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 44,
+    "printed": "44",
+    "title": "Hai tâm sở thuộc nhóm hôn trầm",
+    "target": "M04-body-P044",
+    "source_toc_pdf": 4,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 44,
+    "printed": "44",
+    "title": "Một tâm sở thuộc nhóm si",
+    "target": "M04-body-P044",
+    "source_toc_pdf": 5,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 45,
+    "printed": "45",
+    "title": "Hai mươi lăm tâm sở tịnh hảo",
+    "target": "M04-body-P045",
+    "source_toc_pdf": 5,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 45,
+    "printed": "45",
+    "title": "Mười chín tâm sở tịnh hảo biến hành",
+    "target": "M04-body-P045",
+    "source_toc_pdf": 5,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 48,
+    "printed": "48",
+    "title": "Māyā và sāṭheyya — che giấu lỗi và giả dối",
+    "target": "M04-body-P048",
+    "source_toc_pdf": 5,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 49,
+    "printed": "49",
+    "title": "Ba tâm sở tiết chế",
+    "target": "M04-body-P049",
+    "source_toc_pdf": 5,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 49,
+    "printed": "49",
+    "title": "Hai tâm sở vô lượng",
+    "target": "M04-body-P049",
+    "source_toc_pdf": 5,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 49,
+    "printed": "49",
+    "title": "Một tâm sở tuệ quyền",
+    "target": "M04-body-P049",
+    "source_toc_pdf": 5,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 50,
+    "printed": "50",
+    "title": "Một nguyên tắc quan trọng",
+    "target": "M04-body-P050",
+    "source_toc_pdf": 5,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 52,
+    "printed": "52",
+    "title": "Bốn pháp tùy quán",
+    "target": "M04-body-P052",
+    "source_toc_pdf": 5,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 55,
+    "printed": "55",
+    "title": "Nguyên tắc khi bắt đầu quán từ thọ",
+    "target": "M04-body-P055",
+    "source_toc_pdf": 5,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 56,
+    "printed": "56",
+    "title": "Nguyên tắc khi bắt đầu quán từ thức",
+    "target": "M04-body-P056",
+    "source_toc_pdf": 5,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 57,
+    "printed": "57",
+    "title": "Nguyên tắc khi bắt đầu quán từ xúc",
+    "target": "M04-body-P057",
+    "source_toc_pdf": 5,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 57,
+    "printed": "57",
+    "title": "Hãy quán tất cả danh pháp",
+    "target": "M04-body-P057",
+    "source_toc_pdf": 5,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 60,
+    "printed": "60",
+    "title": "Một việc rất khó",
+    "target": "M04-body-P060",
+    "source_toc_pdf": 5,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 68,
+    "printed": "68",
+    "title": "Quán vật và cảnh cùng nhau",
+    "target": "M04-body-P068",
+    "source_toc_pdf": 5,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 71,
+    "printed": "71",
+    "title": "Trở lại quán các sắc pháp",
+    "target": "M04-body-P071",
+    "source_toc_pdf": 5,
+    "status": "translated"
+  },
+  {
+    "level": 0,
+    "kind": "body",
+    "pdf": 74,
+    "printed": "74",
+    "title": "Phần 3. Cách nhận diện và quán",
+    "target": "M04-body-P074",
+    "source_toc_pdf": 5,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 74,
+    "printed": "74",
+    "title": "Cảnh tợ tướng của niệm hơi thở",
+    "target": "M04-body-P074",
+    "source_toc_pdf": 5,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 74,
+    "printed": "74",
+    "title": "Tuyến cảnh pháp — bảng lộ nhập thiền qua ý môn",
+    "target": "M04-body-P074",
+    "source_toc_pdf": 5,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 75,
+    "printed": "75",
+    "title": "Tầm, tứ và hỷ",
+    "target": "M04-body-P075",
+    "source_toc_pdf": 5,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 77,
+    "printed": "77",
+    "title": "Bốn phạm trú — bảng lộ nhập thiền",
+    "target": "M04-body-P077",
+    "source_toc_pdf": 5,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 78,
+    "printed": "78",
+    "title": "Chỉ dành cho người đã đắc thiền",
+    "target": "M04-body-P078",
+    "source_toc_pdf": 5,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 79,
+    "printed": "79",
+    "title": "Tên các tâm trong lộ",
+    "target": "M04-body-P079",
+    "source_toc_pdf": 5,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 79,
+    "printed": "79",
+    "title": "Cách quán các danh pháp của thiền",
+    "target": "M04-body-P079",
+    "source_toc_pdf": 5,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 81,
+    "printed": "81",
+    "title": "Ba mươi bốn danh pháp sơ thiền lấy tợ tướng niệm hơi thở làm cảnh",
+    "target": "M04-body-P081",
+    "source_toc_pdf": 6,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 85,
+    "printed": "85",
+    "title": "Tuệ quán danh",
+    "target": "M04-body-P085",
+    "source_toc_pdf": 6,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 88,
+    "printed": "88",
+    "title": "Các điểm khác biệt cần lưu ý",
+    "target": "M04-body-P088",
+    "source_toc_pdf": 6,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 91,
+    "printed": "91",
+    "title": "Phân biệt danh và sắc",
+    "target": "M04-body-P091",
+    "source_toc_pdf": 6,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 93,
+    "printed": "93",
+    "title": "Tác ý như lý và tác ý phi như lý",
+    "target": "M04-body-P093",
+    "source_toc_pdf": 6,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 94,
+    "printed": "94",
+    "title": "Thế nào là tác ý như lý",
+    "target": "M04-body-P094",
+    "source_toc_pdf": 6,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 95,
+    "printed": "95",
+    "title": "Thế nào là tác ý phi như lý",
+    "target": "M04-body-P095",
+    "source_toc_pdf": 6,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 96,
+    "printed": "96",
+    "title": "Ba mươi bốn danh pháp trong tốc hành đại thiện lấy nhãn tịnh sắc làm cảnh",
+    "target": "M04-body-P096",
+    "source_toc_pdf": 6,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 99,
+    "printed": "99",
+    "title": "Tuyến cảnh pháp — bảng nhóm thiện của lộ thuần ý môn",
+    "target": "M04-body-P099",
+    "source_toc_pdf": 6,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 100,
+    "printed": "100",
+    "title": "Cách nhận diện và quán dòng tâm trong lộ tốc hành thiện qua ý môn",
+    "target": "M04-body-P100",
+    "source_toc_pdf": 6,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 104,
+    "printed": "104",
+    "title": "Những điều cần biết về tâm na cảnh",
+    "target": "M04-body-P104",
+    "source_toc_pdf": 6,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 107,
+    "printed": "107",
+    "title": "Bảng na cảnh dành cho phàm nhân tam nhân",
+    "target": "M04-body-P107",
+    "source_toc_pdf": 6,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 107,
+    "printed": "107",
+    "title": "Quả thực sự và phần ngoài tốc hành",
+    "target": "M04-body-P107",
+    "source_toc_pdf": 6,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 111,
+    "printed": "111",
+    "title": "Tuyến cảnh pháp — bảng nhóm thiện của lộ ý môn và cách quán lấy sắc thực làm cảnh",
+    "target": "M04-body-P111",
+    "source_toc_pdf": 6,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 113,
+    "printed": "113",
+    "title": "Các sắc thực để quán theo cùng cách",
+    "target": "M04-body-P113",
+    "source_toc_pdf": 6,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 115,
+    "printed": "115",
+    "title": "Tuyến cảnh pháp — bảng nhóm thiện của lộ ý môn và cách quán lấy sắc không thực làm cảnh",
+    "target": "M04-body-P115",
+    "source_toc_pdf": 6,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 115,
+    "printed": "115",
+    "title": "Chín loại sắc không thực để quán theo cùng cách",
+    "target": "M04-body-P115",
+    "source_toc_pdf": 6,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 117,
+    "printed": "117",
+    "title": "Chánh ngữ — tiết chế",
+    "target": "M04-body-P117",
+    "source_toc_pdf": 6,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 118,
+    "printed": "118",
+    "title": "Chánh nghiệp — tiết chế",
+    "target": "M04-body-P118",
+    "source_toc_pdf": 6,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 119,
+    "printed": "119",
+    "title": "Chánh mạng — tiết chế",
+    "target": "M04-body-P119",
+    "source_toc_pdf": 6,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 120,
+    "printed": "120",
+    "title": "Tuyến cảnh pháp — bảng tiết chế trong lộ ý môn",
+    "target": "M04-body-P120",
+    "source_toc_pdf": 6,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 121,
+    "printed": "121",
+    "title": "Ba loại chánh ngữ",
+    "target": "M04-body-P121",
+    "source_toc_pdf": 7,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 121,
+    "printed": "121",
+    "title": "Ba loại chánh nghiệp",
+    "target": "M04-body-P121",
+    "source_toc_pdf": 7,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 122,
+    "printed": "122",
+    "title": "Chánh mạng",
+    "target": "M04-body-P122",
+    "source_toc_pdf": 7,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 122,
+    "printed": "122",
+    "title": "Tiết chế khi gặp cảnh, do thọ trì và do đoạn tận",
+    "target": "M04-body-P122",
+    "source_toc_pdf": 7,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 123,
+    "printed": "123",
+    "title": "Cảnh của tiết chế khi gặp cảnh và tiết chế do thọ trì",
+    "target": "M04-body-P123",
+    "source_toc_pdf": 7,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 126,
+    "printed": "126",
+    "title": "Hai tâm sở vô lượng",
+    "target": "M04-body-P126",
+    "source_toc_pdf": 7,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 128,
+    "printed": "128",
+    "title": "Tuyến cảnh pháp — bảng tâm sở vô lượng trong lộ ý môn dục giới",
+    "target": "M04-body-P128",
+    "source_toc_pdf": 7,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 128,
+    "printed": "128",
+    "title": "Đề mục tùy niệm Phật",
+    "target": "M04-body-P128",
+    "source_toc_pdf": 7,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 130,
+    "printed": "130",
+    "title": "Đề mục niệm chết",
+    "target": "M04-body-P130",
+    "source_toc_pdf": 7,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 131,
+    "printed": "131",
+    "title": "Tuyến cảnh pháp — bảng tùy niệm Phật và niệm chết",
+    "target": "M04-body-P131",
+    "source_toc_pdf": 7,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 132,
+    "printed": "132",
+    "title": "Các điểm cần biết trước",
+    "target": "M04-body-P132",
+    "source_toc_pdf": 7,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 135,
+    "printed": "135",
+    "title": "Ký hiệu dùng trong lộ nhãn môn",
+    "target": "M04-body-P135",
+    "source_toc_pdf": 7,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 136,
+    "printed": "136",
+    "title": "Lộ nhãn môn với cảnh rất lớn — diễn tiến có na cảnh",
+    "target": "M04-body-P136",
+    "source_toc_pdf": 7,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 136,
+    "printed": "136",
+    "title": "Lộ nhãn môn với cảnh lớn, loại thứ nhất — diễn tiến có tốc hành",
+    "target": "M04-body-P136",
+    "source_toc_pdf": 7,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 137,
+    "printed": "137",
+    "title": "Lộ nhãn môn với cảnh lớn, loại thứ hai — diễn tiến có tốc hành",
+    "target": "M04-body-P137",
+    "source_toc_pdf": 7,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 137,
+    "printed": "137",
+    "title": "Lộ nhãn môn với cảnh nhỏ, loại thứ nhất — diễn tiến có xác định",
+    "target": "M04-body-P137",
+    "source_toc_pdf": 7,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 138,
+    "printed": "138",
+    "title": "Tịnh sắc yếu, mạnh và trung bình",
+    "target": "M04-body-P138",
+    "source_toc_pdf": 7,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 141,
+    "printed": "141",
+    "title": "Sức của lộ ngũ môn và lộ ý môn",
+    "target": "M04-body-P141",
+    "source_toc_pdf": 7,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 144,
+    "printed": "144",
+    "title": "Sự vận hành của tốc hành thiện",
+    "target": "M04-body-P144",
+    "source_toc_pdf": 7,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 145,
+    "printed": "145",
+    "title": "Tuyến cảnh sắc — cách quán nhóm thiện",
+    "target": "M04-body-P145",
+    "source_toc_pdf": 7,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 147,
+    "printed": "147",
+    "title": "Cảnh sắc — tuyến màu sắc — các bảng nhóm thiện",
+    "target": "M04-body-P147",
+    "source_toc_pdf": 7,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 151,
+    "printed": "151",
+    "title": "Tác ý như lý",
+    "target": "M04-body-P151",
+    "source_toc_pdf": 7,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 154,
+    "printed": "154",
+    "title": "Bảng số lượng tâm và tâm sở",
+    "target": "M04-body-P154",
+    "source_toc_pdf": 7,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 155,
+    "printed": "155",
+    "title": "Giải thích thêm",
+    "target": "M04-body-P155",
+    "source_toc_pdf": 7,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 156,
+    "printed": "156",
+    "title": "Tuyến cảnh thinh — cách quán danh pháp thuộc nhóm thiện",
+    "target": "M04-body-P156",
+    "source_toc_pdf": 8,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 158,
+    "printed": "158",
+    "title": "Tuyến cảnh mùi — cách quán danh pháp thuộc nhóm thiện",
+    "target": "M04-body-P158",
+    "source_toc_pdf": 8,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 159,
+    "printed": "159",
+    "title": "Tuyến cảnh vị — cách quán danh pháp thuộc nhóm thiện",
+    "target": "M04-body-P159",
+    "source_toc_pdf": 8,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 160,
+    "printed": "160",
+    "title": "Tuyến cảnh xúc — cách quán danh pháp thuộc nhóm thiện",
+    "target": "M04-body-P160",
+    "source_toc_pdf": 8,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 162,
+    "printed": "162",
+    "title": "Não bộ và thức",
+    "target": "M04-body-P162",
+    "source_toc_pdf": 8,
+    "status": "translated"
+  },
+  {
+    "level": 0,
+    "kind": "body",
+    "pdf": 166,
+    "printed": "166",
+    "title": "Phần 4. Cách nhận diện và quán nhóm bất thiện",
+    "target": "M04-body-P166",
+    "source_toc_pdf": 8,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 166,
+    "printed": "166",
+    "title": "Khi quán các pháp bất thiện, bất thiện có lại sinh khởi không?",
+    "target": "M04-body-P166",
+    "source_toc_pdf": 8,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 170,
+    "printed": "170",
+    "title": "Bốn điểm về danh pháp thuộc nhóm tham và tà kiến",
+    "target": "M04-body-P170",
+    "source_toc_pdf": 8,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 171,
+    "printed": "171",
+    "title": "Bốn điểm về danh pháp thuộc nhóm tham và ngã mạn",
+    "target": "M04-body-P171",
+    "source_toc_pdf": 8,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 171,
+    "printed": "171",
+    "title": "Hai điểm về danh pháp thuộc nhóm sân",
+    "target": "M04-body-P171",
+    "source_toc_pdf": 8,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 172,
+    "printed": "172",
+    "title": "Hai điểm về danh pháp thuộc nhóm sân và tật đố",
+    "target": "M04-body-P172",
+    "source_toc_pdf": 8,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 172,
+    "printed": "172",
+    "title": "Hai điểm về danh pháp thuộc nhóm sân và xan tham",
+    "target": "M04-body-P172",
+    "source_toc_pdf": 8,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 172,
+    "printed": "172",
+    "title": "Bốn điểm về danh pháp thuộc nhóm sân và hối quá",
+    "target": "M04-body-P172",
+    "source_toc_pdf": 8,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 173,
+    "printed": "173",
+    "title": "Một điểm về danh pháp thuộc nhóm si và trạo cử",
+    "target": "M04-body-P173",
+    "source_toc_pdf": 8,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 173,
+    "printed": "173",
+    "title": "Một điểm về danh pháp thuộc nhóm si và hoài nghi",
+    "target": "M04-body-P173",
+    "source_toc_pdf": 8,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 175,
+    "printed": "175",
+    "title": "Tóm lược cách quán các nhóm danh pháp bất thiện lấy chế định làm cảnh",
+    "target": "M04-body-P175",
+    "source_toc_pdf": 8,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 179,
+    "printed": "179",
+    "title": "Hai mươi danh pháp thuộc nhóm tham và tà kiến",
+    "target": "M04-body-P179",
+    "source_toc_pdf": 8,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 183,
+    "printed": "183",
+    "title": "Tuyến cảnh pháp — bảng nhóm bất thiện của lộ ý môn",
+    "target": "M04-body-P183",
+    "source_toc_pdf": 8,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 184,
+    "printed": "184",
+    "title": "Lấy nhãn tịnh sắc làm cảnh — cách quán nhóm tham và tà kiến",
+    "target": "M04-body-P184",
+    "source_toc_pdf": 8,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 185,
+    "printed": "185",
+    "title": "Lấy nhãn tịnh sắc làm cảnh — cách quán nhóm tham và ngã mạn, v.v.",
+    "target": "M04-body-P185",
+    "source_toc_pdf": 8,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 186,
+    "printed": "186",
+    "title": "Na cảnh sau tốc hành bất thiện",
+    "target": "M04-body-P186",
+    "source_toc_pdf": 8,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 187,
+    "printed": "187",
+    "title": "Xin nêu một cách thực hành thích hợp",
+    "target": "M04-body-P187",
+    "source_toc_pdf": 8,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 188,
+    "printed": "188",
+    "title": "Cách mười kiết sử sinh khởi",
+    "target": "M04-body-P188",
+    "source_toc_pdf": 8,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 196,
+    "printed": "196",
+    "title": "Cảnh sắc — tuyến màu sắc — bảng lộ có tốc hành bất thiện",
+    "target": "M04-body-P196",
+    "source_toc_pdf": 9,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 194,
+    "printed": "194",
+    "title": "Điều cần lưu ý",
+    "target": "M04-body-P194",
+    "source_toc_pdf": 9,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 197,
+    "printed": "197",
+    "title": "Tuyến cảnh sắc — cách quán nhóm bất thiện khi tốc hành bất thiện vận hành",
+    "target": "M04-body-P197",
+    "source_toc_pdf": 9,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 200,
+    "printed": "200",
+    "title": "Tuyến cảnh thinh, cảnh mùi, cảnh vị và cảnh xúc",
+    "target": "M04-body-P200",
+    "source_toc_pdf": 9,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 202,
+    "printed": "202",
+    "title": "Cách quán đề mục thiền về danh theo lối chi tiết",
+    "target": "M04-body-P202",
+    "source_toc_pdf": 9,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 204,
+    "printed": "204",
+    "title": "Bảng tóm lược sáu tuyến cảnh",
+    "target": "M04-body-P204",
+    "source_toc_pdf": 9,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 205,
+    "printed": "205",
+    "title": "Hãy quán danh pháp là “danh pháp, danh pháp”",
+    "target": "M04-body-P205",
+    "source_toc_pdf": 9,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 206,
+    "printed": "206",
+    "title": "Hãy quán sắc và danh cùng nhau — công việc quán sắc và danh",
+    "target": "M04-body-P206",
+    "source_toc_pdf": 9,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 208,
+    "printed": "208",
+    "title": "Phân định danh sắc (nāmarūpavavatthāna) — phân biệt và ghi nhận danh và sắc",
+    "target": "M04-body-P208",
+    "source_toc_pdf": 9,
+    "status": "translated"
+  },
+  {
+    "level": 0,
+    "kind": "body",
+    "pdf": 209,
+    "printed": "209",
+    "title": "Phần 5. Các khối danh",
+    "target": "M04-body-P209",
+    "source_toc_pdf": 9,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 209,
+    "printed": "209",
+    "title": "Bốn loại khối danh",
+    "target": "M04-body-P209",
+    "source_toc_pdf": 9,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 210,
+    "printed": "210",
+    "title": "1. Khối tương tục (santatighana) — sự kết chặt của dòng danh nối tiếp",
+    "target": "M04-body-P210",
+    "source_toc_pdf": 9,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 211,
+    "printed": "211",
+    "title": "2. Khối tập hợp (samūhaghana) — sự kết chặt của nhóm danh",
+    "target": "M04-body-P211",
+    "source_toc_pdf": 9,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 212,
+    "printed": "212",
+    "title": "3. Khối phận sự (kiccaghana) — sự kết chặt về phận sự của danh",
+    "target": "M04-body-P212",
+    "source_toc_pdf": 9,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 214,
+    "printed": "214",
+    "title": "4. Khối cảnh (ārammaṇaghana) — sự kết chặt của các danh pháp có khả năng biết cảnh",
+    "target": "M04-body-P214",
+    "source_toc_pdf": 9,
+    "status": "translated"
+  },
+  {
+    "level": 0,
+    "kind": "body",
+    "pdf": 218,
+    "printed": "218",
+    "title": "Phần 6. Oai nghi, tỉnh giác, v.v.",
+    "target": "M04-body-P218",
+    "source_toc_pdf": 9,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 218,
+    "printed": "218",
+    "title": "Phạm vi quán oai nghi và tỉnh giác",
+    "target": "M04-body-P218",
+    "source_toc_pdf": 9,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 220,
+    "printed": "220",
+    "title": "Tóm lược cách quán năm uẩn",
+    "target": "M04-body-P220",
+    "source_toc_pdf": 9,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 221,
+    "printed": "221",
+    "title": "Tóm lược phương pháp quán",
+    "target": "M04-body-P221",
+    "source_toc_pdf": 9,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 222,
+    "printed": "222",
+    "title": "1. Padhāna — sắc nổi bật",
+    "target": "M04-body-P222",
+    "source_toc_pdf": 9,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 222,
+    "printed": "222",
+    "title": "2. Appadhāna — sắc không nổi bật",
+    "target": "M04-body-P222",
+    "source_toc_pdf": 9,
+    "status": "translated"
+  },
+  {
+    "level": 2,
+    "kind": "body",
+    "pdf": 223,
+    "printed": "223",
+    "title": "Sắc làm chuyển động và sắc được chuyển động",
+    "target": "M04-body-P223",
+    "source_toc_pdf": 9,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 225,
+    "printed": "225",
+    "title": "Phương pháp quán năm uẩn",
+    "target": "M04-body-P225",
+    "source_toc_pdf": 9,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 226,
+    "printed": "226",
+    "title": "Phạm vi quán để tiến thêm một bước",
+    "target": "M04-body-P226",
+    "source_toc_pdf": 10,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 228,
+    "printed": "228",
+    "title": "Tóm lược phương pháp quán bên ngoài",
+    "target": "M04-body-P228",
+    "source_toc_pdf": 10,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 232,
+    "printed": "232",
+    "title": "Tiến thêm một bước",
+    "target": "M04-body-P232",
+    "source_toc_pdf": 10,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 235,
+    "printed": "235",
+    "title": "Cách tiếp tục tu tập bốn niệm xứ",
+    "target": "M04-body-P235",
+    "source_toc_pdf": 10,
+    "status": "translated"
+  },
+  {
+    "level": 1,
+    "kind": "body",
+    "pdf": 244,
+    "printed": "244",
+    "title": "Phương pháp tu tập “trong cái được thấy chỉ là cái được thấy” (diṭṭhe diṭṭhamattaṃ)",
+    "target": "M04-body-P244",
+    "source_toc_pdf": 10,
+    "status": "translated"
+  }
+]
