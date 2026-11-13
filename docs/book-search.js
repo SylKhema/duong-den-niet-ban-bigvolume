@@ -17,15 +17,19 @@
     if (mini) document.getElementById('scope').value = 'all';
     openSearch();
   }
-  if (mini) {
-    document.getElementById('results').addEventListener('click', event => {
-      const result = event.target.closest('a');
-      if (!result) return;
-      document.body.classList.remove('menu');
-      if (result.hash === location.hash) {
-        event.preventDefault();
-        document.getElementById(result.hash.split('/')[1])?.scrollIntoView({ block: 'start' });
-      }
-    });
-  }
+  input.addEventListener('input', searchHighlight.clear);
+  const results = document.getElementById(mini ? 'results' : 'hub-results');
+  results.addEventListener('click', event => {
+    const result = event.target.closest('a');
+    if (!result || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+    searchHighlight.select(result.hash, results.dataset.searchQuery);
+    if (!mini) return;
+    document.body.classList.remove('menu');
+    if (result.hash === location.hash) {
+      event.preventDefault();
+      const target = document.getElementById(result.hash.split('/')[1]);
+      searchHighlight.locate(target)?.scrollIntoView({ block: 'start' });
+    }
+  });
 })();
+

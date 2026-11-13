@@ -51,3 +51,13 @@ html[lang="en"] .search-launch-label[lang="en"] { display: inline; }
   [data-surface="big"] .search-launch { padding-inline: 7px; }
 }
 @media print { .search-launch { display: none; } }
+
+.search-match {
+  color: #2f240e;
+  background: #ffe47e;
+  border-radius: .15em;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+:root[data-theme="dark"] .search-match { color: #221b10; background: #e6b95b; }
+

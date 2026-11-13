@@ -108,7 +108,7 @@ async function englishRoute(serial){
  main.innerHTML='<div class="eyebrow">Pa-Auk Tawya Sayadaw · Nibbānagāminipaṭipadā</div><h1>Volume '+number+' · '+esc(data.title)+'</h1><p class="notice">'+coverage+' <a href="#cuon-'+number+'/toc">Table of contents</a></p>'+(number===3?'<p><a href="'+volumeThreeLastPage+'">Page 180 · Four postures</a></p>':'')+source.pages.filter(p=>data.pages[p.id]).map(p=>englishArticle(p,data.pages[p.id])).join('')+'<p class="notice">You’ve reached the end of the English translation currently available for this volume.</p>'+(number<4?'<p><a href="#cuon-'+(number+1)+'/M0'+(number+1)+(number===3?'-front-P001':'-cover-P001')+'">Continue to Volume '+(number+1)+' →</a></p>':'');
  bindSources();
  const element=id&&(document.getElementById(id+'-en')||document.getElementById(id));
- if(element)element.scrollIntoView({behavior:'instant',block:'start'});
+ if(element)searchHighlight.locate(element).scrollIntoView({behavior:'instant',block:'start'});
  else window.scrollTo(0,0);
  if(element)localStorage.setItem('mini-position-en',location.hash);
  const readerObserver=new IntersectionObserver(entries=>{
@@ -117,4 +117,5 @@ async function englishRoute(serial){
  main.querySelectorAll('[data-page]').forEach(page=>readerObserver.observe(page));
  obs=readerObserver;
 }
+
 
