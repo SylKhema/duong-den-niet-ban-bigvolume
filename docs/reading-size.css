@@ -1,0 +1,47 @@
+/* Scale the reading area while keeping navigation and print layout stable. */
+@media screen {
+  #main { font-size: calc(19px * var(--reading-scale, 1)); overflow-wrap: anywhere; }
+  #main h1 { font-size: calc(43px * var(--reading-scale, 1)); }
+  #main h2 { font-size: calc(29px * var(--reading-scale, 1)); }
+  #main h3, #main .lead { font-size: calc(23px * var(--reading-scale, 1)); }
+  #main table { font-size: calc(14px * var(--reading-scale, 1)); }
+  #hub-reader, #hub-reader .book-page p { font-size: calc(19px * var(--reading-scale, 1)); }
+  #hub-reader .book-head h1 { font-size: calc(40px * var(--reading-scale, 1)); }
+  #hub-reader .book-page h2 { font-size: calc(27px * var(--reading-scale, 1)); }
+  #hub-reader .book-page h3 { font-size: calc(22px * var(--reading-scale, 1)); }
+  #hub-reader .book-page h4 { font-size: calc(19px * var(--reading-scale, 1)); }
+  #hub-reader .book-notes, #hub-reader .book-notes p { font-size: calc(15px * var(--reading-scale, 1)); }
+  #hub-reader .book-notes h3 { font-size: calc(19px * var(--reading-scale, 1)); }
+  #hub-reader table { font-size: calc(14px * var(--reading-scale, 1)); }
+  .reading-size {
+    position: sticky;
+    top: var(--mini-header-height, 78px);
+    z-index: 3;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    gap: .3rem;
+    padding-block: .2rem;
+    color: var(--ink);
+    background: var(--paper);
+    font: 13px/1.4 system-ui, sans-serif;
+  }
+  .reading-size[hidden], .reading-size:has(+ #hub-reader[hidden]) { display: none; }
+  .reading-size button { min-width: 44px; min-height: 44px; padding: 5px; font-weight: 700; }
+  .reading-size output { min-width: 3.5em; text-align: center; font-variant-numeric: tabular-nums; }
+  .reading-size [lang="en"], html[lang="en"] .reading-size [lang="vi"] { display: none; }
+  html[lang="en"] .reading-size [lang="en"] { display: inline; }
+  [data-surface="mini"] { scroll-padding-top: calc(var(--mini-header-height, 78px) + 58px); }
+  [data-surface="big"] .reading-size { top: 80px; }
+  [data-surface="big"]:has(#hub-reader:not([hidden])) { scroll-padding-top: 145px; }
+  @media (max-width: 900px) {
+    #main h1 { font-size: calc(33px * var(--reading-scale, 1)); }
+  }
+  @media (max-width: 800px) {
+    #hub-reader, #hub-reader .book-page p { font-size: calc(18px * var(--reading-scale, 1)); }
+    [data-surface="big"] .reading-size { top: 70px; }
+    [data-surface="big"]:has(#hub-reader:not([hidden])) { scroll-padding-top: 132px; }
+  }
+}
+@media print { .reading-size { display: none; } }
