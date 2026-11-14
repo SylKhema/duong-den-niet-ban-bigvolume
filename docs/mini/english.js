@@ -45,6 +45,7 @@ function englishParagraphContent(paragraph, text){
 }
 function translatedParagraphs(page,translation){
  return page.paragraphs.map(p=>{
+  if(p.id===editorialRecords.blankPage+'-S01')return (englishOnly?'':paragraphHtml(p))+'<div id="'+p.id+'-en"></div>';
   const english='<div id="'+p.id+'-en" class="feedback-paragraph" lang="en"><div class="feedback-text">'+englishParagraphContent(p,translation.paragraphs[p.id])+'</div></div>';
   return englishOnly?english:'<div class="language-pair">'+paragraphHtml(p)+english+'</div>';
  }).join('');
@@ -76,7 +77,7 @@ function englishArticle(page,translation){
  return '<article id="'+page.id+'" data-page="'+page.id+'" data-kind="'+page.kind+'" data-printed="'+esc(page.printed)+'" data-pdf="'+page.pdf+'"><div class="sourcebar"><span>'+locationText+'</span><button data-source="'+page.kind+'" data-pdf="'+page.pdf+'">View Burmese original</button></div><h2>'+title+'</h2>'+translatedParagraphs(page,translation)+'</article>';
 }
 async function englishRoute(serial){
- const number=Number(location.hash.match(/^#cuon-([123456789])(?:\/|$)/)?.[1]||1);
+ const number=location.hash==='#records'?current:Number(location.hash.match(/^#cuon-([123456789])(?:\/|$)/)?.[1]||1);
  current=number;
  const bookCode='M0'+number;
  const data=await loadEnglishVolume(number);
@@ -103,7 +104,7 @@ async function englishRoute(serial){
  if(location.hash==='#records'){
   main.innerHTML='<h1>About the English edition</h1><p>'+coverage+' Page numbers follow the Burmese original. The translations are editorial drafts.</p><a href="'+englishCover+'">Start reading Volume 1</a>';
   window.scrollTo(0,0);
-  return;
+  return appendEditorialRecords(number,serial,source,data.pages[editorialRecords.blankPage]);
  }
  main.innerHTML='<div class="eyebrow">Pa-Auk Tawya Sayadaw · Nibbānagāminipaṭipadā</div><h1>Volume '+number+' · '+esc(data.title)+'</h1><p class="notice">'+coverage+' <a href="#cuon-'+number+'/toc">Table of contents</a></p>'+(number===3?'<p><a href="'+volumeThreeLastPage+'">Page 180 · Four postures</a></p>':'')+source.pages.filter(p=>data.pages[p.id]).map(p=>englishArticle(p,data.pages[p.id])).join('')+'<p class="notice">You’ve reached the end of the English translation currently available for this volume.</p>'+(number<4?'<p><a href="#cuon-'+(number+1)+'/M0'+(number+1)+(number===3?'-front-P001':'-cover-P001')+'">Continue to Volume '+(number+1)+' →</a></p>':'');
  bindSources();
