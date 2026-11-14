@@ -9,7 +9,7 @@
 }
 .lazibook-guide h3 {
   margin: 0 0 .65rem;
-  font: bold 1.25rem/1.35 Georgia, serif;
+  font: bold 1.25rem/1.35 var(--book-font), system-ui, sans-serif;
 }
 .lazibook-guide h3 span { display: block; font: normal .9rem/1.5 system-ui, sans-serif; }
 .lazibook-instructions {

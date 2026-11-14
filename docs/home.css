@@ -24,7 +24,7 @@ a:focus-visible, button:focus-visible { outline: 3px solid #cf9d54; outline-offs
 :root[data-language="vi"] [data-copy="en"], :root[data-language="en"] [data-copy="vi"] { display: none; }
 .masthead { background: var(--green); color: #fcf7e6; }
 .topbar { min-height: 4.2rem; display: flex; align-items: center; justify-content: space-between; gap: .9rem 1.5rem; }
-.wordmark { color: inherit; font: italic 1.21rem Georgia, serif; text-decoration: none; }
+.wordmark { color: inherit; font: italic 1.21rem var(--book-font), system-ui, sans-serif; text-decoration: none; }
 .language { display: flex; gap: .3rem; flex-wrap: wrap; }
 .language a { color: inherit; font-size: .85rem; text-decoration: none; padding: .32rem .64rem; border: 1px solid transparent; border-radius: 4px; }
 .language a[aria-current], .language a:hover { border-color: #eee3be80; background: #ffffff13; }
@@ -32,7 +32,7 @@ a:focus-visible, button:focus-visible { outline: 3px solid #cf9d54; outline-offs
 .hero { display: grid; grid-template-columns: auto minmax(0, 1fr); align-items: center; gap: clamp(1.1rem, 5vw, 4rem); padding: clamp(2.1rem, 6vw, 4.6rem) clamp(0rem, 3vw, 2.2rem) clamp(1.9rem, 5vw, 3.4rem); }
 .emblem { width: clamp(53px, 11vw, 105px); height: auto; display: block; }
 .author { color: #764d20; margin: 0 0 .55rem; font-weight: 650; }
-h1, h2 { font-family: Georgia, "Times New Roman", serif; font-weight: 500; }
+h1, h2 { font-family: var(--book-font), system-ui, sans-serif; font-weight: 500; }
 h1 { margin: 0; font-size: clamp(2.35rem, 6vw, 5rem); line-height: 1.06; letter-spacing: -.045em; }
 h1 span, .subtitle span { display: block; }
 h1 span + span { margin-top: .38rem; color: #684d2c; font-size: .57em; letter-spacing: -.025em; }
