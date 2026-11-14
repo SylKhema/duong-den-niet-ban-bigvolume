@@ -15,3 +15,8 @@ article p{white-space:pre-line}.tablewrap{overflow-x:auto}caption{caption-side:b
 .appendix-entry{padding:1.25rem 0;border-top:1px solid var(--line)}
 .appendix-entry .tablewrap td:last-child{white-space:normal}
 .appendix-entry [lang=en] .tablewrap{margin-top:.85rem}
+
+header .home-link { flex: 0 0 auto; line-height: 1.25; white-space: nowrap; }
+header .home-link span { display: block; font-size: .8em; }
+header .home-link[lang="en"], html[lang="en"] header .home-link[lang="vi"] { display: none; }
+html[lang="en"] header .home-link[lang="en"] { display: block; }
