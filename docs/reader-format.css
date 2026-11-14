@@ -1,6 +1,7 @@
 .pali-quote {
   color: #446548;
   font-style: italic;
+  font-weight: 400;
 }
 :root[data-theme="dark"] .pali-quote {
   color: #a8cf9d;
@@ -9,3 +10,5 @@
   border-inline-start: 2px solid currentColor;
   padding-inline-start: .8em;
 }
+
+.pali-quote :is(strong, b) { font-weight: inherit; }
