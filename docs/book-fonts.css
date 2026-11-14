@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Be Vietnam Pro";
-  src: url("/fonts/BeVietnamPro-Regular.woff2") format("woff2");
+  src: url("/book-type/BeVietnamPro-Regular.woff2") format("woff2");
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -8,7 +8,7 @@
 
 @font-face {
   font-family: "Be Vietnam Pro";
-  src: url("/fonts/BeVietnamPro-Medium.woff2") format("woff2");
+  src: url("/book-type/BeVietnamPro-Medium.woff2") format("woff2");
   font-style: normal;
   font-weight: 500;
   font-display: swap;
@@ -16,7 +16,7 @@
 
 @font-face {
   font-family: "Be Vietnam Pro";
-  src: url("/fonts/BeVietnamPro-SemiBold.woff2") format("woff2");
+  src: url("/book-type/BeVietnamPro-SemiBold.woff2") format("woff2");
   font-style: normal;
   font-weight: 600;
   font-display: swap;
@@ -24,7 +24,7 @@
 
 @font-face {
   font-family: "Be Vietnam Pro";
-  src: url("/fonts/BeVietnamPro-Bold.woff2") format("woff2");
+  src: url("/book-type/BeVietnamPro-Bold.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -32,7 +32,7 @@
 
 @font-face {
   font-family: "Be Vietnam Pro";
-  src: url("/fonts/BeVietnamPro-Italic.woff2") format("woff2");
+  src: url("/book-type/BeVietnamPro-Italic.woff2") format("woff2");
   font-style: italic;
   font-weight: 400;
   font-display: swap;
@@ -40,7 +40,7 @@
 
 @font-face {
   font-family: "Be Vietnam Pro";
-  src: url("/fonts/BeVietnamPro-BoldItalic.woff2") format("woff2");
+  src: url("/book-type/BeVietnamPro-BoldItalic.woff2") format("woff2");
   font-style: italic;
   font-weight: 700;
   font-display: swap;
@@ -48,7 +48,7 @@
 
 @font-face {
   font-family: "Noto Sans Pali";
-  src: url("/fonts/NotoSans-Pali-Regular.woff2") format("woff2");
+  src: url("/book-type/NotoSans-Pali-Regular.woff2") format("woff2");
   font-style: normal;
   font-weight: 400;
   font-display: swap;
@@ -57,7 +57,7 @@
 
 @font-face {
   font-family: "Noto Sans Pali";
-  src: url("/fonts/NotoSans-Pali-Bold.woff2") format("woff2");
+  src: url("/book-type/NotoSans-Pali-Bold.woff2") format("woff2");
   font-style: normal;
   font-weight: 700;
   font-display: swap;
@@ -66,7 +66,7 @@
 
 @font-face {
   font-family: "Noto Sans Pali";
-  src: url("/fonts/NotoSans-Pali-Italic.woff2") format("woff2");
+  src: url("/book-type/NotoSans-Pali-Italic.woff2") format("woff2");
   font-style: italic;
   font-weight: 400;
   font-display: swap;
@@ -75,7 +75,7 @@
 
 @font-face {
   font-family: "Noto Sans Pali";
-  src: url("/fonts/NotoSans-Pali-BoldItalic.woff2") format("woff2");
+  src: url("/book-type/NotoSans-Pali-BoldItalic.woff2") format("woff2");
   font-style: italic;
   font-weight: 700;
   font-display: swap;
