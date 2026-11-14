@@ -1,7 +1,6 @@
 (() => {
   const toolbar = document.querySelector('.reading-size');
   const [smaller, larger] = toolbar.querySelectorAll('button');
-  const output = toolbar.querySelector('output');
   const sizes = [90, 100, 110, 120, 135, 150, 175, 200];
   const key = 'nibbana-reading-size';
   let index = sizes.indexOf(100);
@@ -17,7 +16,6 @@
   function apply() {
     const size = sizes[index];
     document.documentElement.style.setProperty('--reading-scale', String(size / 100));
-    output.textContent = size + '%';
     smaller.disabled = index === 0;
     larger.disabled = index === sizes.length - 1;
   }
@@ -30,4 +28,10 @@
   larger.addEventListener('click', () => change(1));
   apply();
   toolbar.hidden = false;
+  const header = toolbar.closest('header');
+  function updateHeaderHeight() {
+    document.documentElement.style.setProperty('--reader-header-height', header.offsetHeight + 'px');
+  }
+  updateHeaderHeight();
+  new ResizeObserver(updateHeaderHeight).observe(header);
 })();
