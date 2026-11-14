@@ -1,0 +1,11 @@
+.pali-quote {
+  color: #446548;
+  font-style: italic;
+}
+:root[data-theme="dark"] .pali-quote {
+  color: #a8cf9d;
+}
+:is(p, blockquote).pali-quote {
+  border-inline-start: 2px solid currentColor;
+  padding-inline-start: .8em;
+}

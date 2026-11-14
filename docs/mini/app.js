@@ -69,10 +69,13 @@ function nav(){$('#tree').innerHTML=catalog.map(b=>`<details data-book="${b.numb
 function markActive(id){$('#tree').querySelectorAll('a').forEach(a=>a.classList.toggle('active',a.dataset.target===(id||location.hash.split('/')[1])))}
 function overview(){$('#main').innerHTML=`<div class="eyebrow">Pa-Auk Tawya Sayadaw · Nibbānagāminipaṭipadā</div><h1>Đường đến Niết-bàn</h1><div class="lead">Bộ Mini 9 cuốn · Pháp hành đưa đến Niết-bàn (bản lược)</div><p>Một không gian đọc và đối chiếu nguyên tác Miến. Mở một cuốn để xem mục lục, đọc liên tục và tra cứu Việt–Pāli.</p><div class="notice">Cuốn 1 đã dịch đủ. Cuốn 2 ${progresses[2].volume_complete?"đã dịch đủ chính văn và chỉ mục":`đã có bìa, đầu sách, toàn bộ mục lục và chính văn 1–${progresses[2].body_last}`}. Bản dịch đang biên tập, có các chỗ [CHƯA XÁC MINH], chưa được thẩm định độc lập.</div><button onclick="location.hash='#cuon-3'">Mở Cuốn 3 →</button><div class="cards">${catalog.map(b=>`<a class="card" href="#cuon-${b.number}"><b>Cuốn ${b.number}</b><small>${b.title?esc(b.title):'Chưa có nguồn'}</small><small>${b.source==='available'?`${progresses[b.number].complete_content_pages} trang nội dung${progresses[b.number].index_pages?' + '+progresses[b.number].index_pages+' trang chỉ mục':''} đã tự đối chiếu`:'Chưa dịch'}</small></a>`).join('')}</div><footer>Vị trí đọc được lưu trên thiết bị này.</footer>`}
 function materialTable(table){return `<div class="tablewrap"><table><caption>${esc(table.caption)}</caption><thead><tr>${table.headers.map(h=>`<th>${esc(h)}</th>`).join('')}</tr></thead><tbody>${table.rows.map(r=>`<tr>${r.map(v=>`<td>${esc(v)}</td>`).join('')}</tr>`).join('')}</tbody></table></div>`;}
+function readingParagraph(text){
+ const {content,block}=readerFormat.paragraph(text??'',esc);
+ const attributes=block?' class="pali-quote" lang="pi-Latn"':text?.includes('[CHƯA XÁC MINH')?' class="issue"':'';
+ return '<p'+attributes+'>'+content+'</p>';
+}
 function paragraphHtml(s){
- const content=s.table
-   ? materialTable(s.table)
-   : `<p class="${s.text.includes('[CHƯA XÁC MINH')?'issue':''}">${esc(s.text)}</p>`;
+ const content=s.table ? materialTable(s.table) : readingParagraph(s.text);
  return `<div id="${esc(s.id)}" class="feedback-paragraph"><div class="feedback-text">${content}</div></div>`;
 }
 function pageHtml(p){const translation=readingLanguage==='bi'?englishPages[p.id]:null;const kindName={cover:'Bìa',front:'Đầu sách',intro:'Lời dẫn',index:'Chỉ mục',body:'Chính văn'}[p.kind];return `<article id="${p.id}" data-page="${p.id}" data-kind="${esc(p.kind)}" data-printed="${esc(p.printed)}" data-pdf="${esc(p.pdf)}"><div class="sourcebar"><span>Mini — Cuốn ${current} — ${p.kind==='cover'?'Bìa ảnh rời · không có số PDF':`Miến ${esc(p.printed)} — PDF nguồn ${p.pdf} (${p.kind}.pdf)`} · ${kindName}</span><button data-source="${p.kind}" data-pdf="${p.pdf}">Đối chiếu nguyên tác</button></div> ${translation?`<div class="language-pair language-headings"><h2 lang="vi">${esc(p.title)}</h2><h2 lang="en">${esc(translation.title)}</h2></div>`+translatedParagraphs(p,translation):`<h2>${esc(p.title)}</h2>`+p.paragraphs.map(paragraphHtml).join('')}${p.notes?.length?`<div class="notes"><b>Ghi chú biên tập / người dịch</b>${p.notes.map(n=>`<p>${esc(n)}</p>`).join('')}</div>`:''}</article>`}

@@ -38,7 +38,7 @@ const englishVolumeData={};
 function loadEnglishVolume(number){return englishVolumeData[number]??=get('data/english-M0'+number+'.json');}
 function loadVolumeOneEnglish(){return loadEnglishVolume(1);}
 function englishParagraphContent(paragraph, text){
- if(!paragraph.table || !text.includes(' | '))return '<p>'+esc(text)+'</p>';
+ if(!paragraph.table || !text?.includes(' | '))return readingParagraph(text);
  const [caption, heading, ...lines]=text.split('\n');
  const cells=line=>line.split('|').map(cell=>cell.trim());
  return materialTable({caption,headers:cells(heading),rows:lines.map(cells)});
