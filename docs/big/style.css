@@ -4,3 +4,6 @@
 #hub-reader{min-width:0}.book-page,.book-notes{max-width:100%;min-width:0;overflow-wrap:anywhere}#hub-reader table{max-width:100%;overflow-x:auto}#hub-reader img{max-width:100%;height:auto}.book-notes pre{white-space:pre-wrap;overflow-wrap:anywhere}
 
 .download-row{flex-wrap:wrap}.download-row>div{flex:1 1 250px}.download-row>a{font-size:13px}
+
+/* Preserve one numbered item per line in the introduction's ten-part list. */
+#hub-reader p:has(> #V1-G-01) { white-space: pre-line; }
