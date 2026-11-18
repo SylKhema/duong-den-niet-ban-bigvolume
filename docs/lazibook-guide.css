@@ -20,9 +20,14 @@
 .lazibook-instructions ol { margin: 0; padding-inline-start: 1.3em; }
 .lazibook-instructions li + li { margin-top: .25rem; }
 .lazibook-guide p { margin: .5rem 0; font-size: .875rem; }
+.lazibook-guide .lazibook-stores {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .5rem;
+  margin-top: .4rem;
+}
 .lazibook-guide .lazibook-store {
   display: inline-block;
-  margin-top: .4rem;
   padding: .4rem .65rem;
   border: 1px solid currentColor;
   border-radius: .35rem;

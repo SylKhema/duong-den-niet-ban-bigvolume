@@ -1,0 +1,21 @@
+/* Auto-hide the reader header bar when scrolling down and show it again when scrolling up. */
+@media screen {
+  @media (prefers-reduced-motion: no-preference) {
+    :root:is([data-surface="big"], [data-surface="mini"]) header {
+      transition: transform 0.22s ease, box-shadow 0.22s ease;
+    }
+    :root:is([data-surface="big"], [data-surface="mini"]) :is(#hub-sidebar, body > aside) {
+      transition: top 0.22s ease;
+    }
+  }
+
+  :root.reader-header-hidden:is([data-surface="big"], [data-surface="mini"]):not(:has(header :focus-visible)) header {
+    transform: translateY(-100%);
+    box-shadow: none;
+    pointer-events: none;
+  }
+
+  :root.reader-header-hidden:is([data-surface="big"], [data-surface="mini"]):not(:has(header :focus-visible)) :is(#hub-sidebar, body > aside) {
+    top: 0;
+  }
+}
