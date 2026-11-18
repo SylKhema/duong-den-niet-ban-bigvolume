@@ -4,3 +4,7 @@ __pycache__/
 .env
 .env.*
 server/feedback-server-source/
+.firebase/
+firebase-debug.log*
+firestore-debug.log*
+ui-debug.log*

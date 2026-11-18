@@ -1,0 +1,143 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function isAdmin() {
+      return request.auth != null
+        && exists(/databases/$(database)/documents/admins/$(request.auth.uid));
+    }
+
+    function isValidReceiptId(id) {
+      return id is string
+        && id.matches('^GY-[0-9a-f]{8}-[0-9a-f]{4}-4[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$');
+    }
+
+    function isValidFeedbackCreate(id) {
+      let d = request.resource.data;
+      return isValidReceiptId(id)
+        && d.keys().hasAll([
+          'id', 'created_at', 'updated_at', 'series', 'language',
+          'volume', 'anchor', 'printed', 'pdf_page', 'excerpt',
+          'category', 'message', 'suggestion', 'reference', 'name', 'email',
+          'status', 'editorial_note', 'public_note', 'published',
+          'original', 'revision', 'release_commit'
+        ])
+        && d.keys().hasOnly([
+          'id', 'created_at', 'updated_at', 'series', 'language',
+          'volume', 'anchor', 'printed', 'pdf_page', 'excerpt',
+          'category', 'message', 'suggestion', 'reference', 'name', 'email',
+          'status', 'editorial_note', 'public_note', 'published',
+          'original', 'revision', 'release_commit'
+        ])
+        && d.id == id
+        && d.created_at is timestamp && d.created_at == request.time
+        && d.updated_at is timestamp && d.updated_at == request.time
+        && d.series in ['big', 'mini']
+        && d.language in ['vi', 'en', 'bi']
+        && d.volume is int
+        && d.volume >= 1
+        && d.volume <= (d.series == 'mini' ? 9 : 5)
+        && d.pdf_page is int
+        && d.pdf_page >= (d.series == 'mini' ? 0 : 1)
+        && d.pdf_page <= 1000
+        && d.anchor is string
+        && d.anchor.size() >= 1
+        && d.anchor.size() <= 140
+        && d.anchor.matches('^[A-Za-z0-9_.:-]+$')
+        && (d.series != 'mini' || d.anchor == 'general' || d.anchor.matches('^M0' + string(d.volume) + '-.*'))
+        && d.printed is string
+        && d.printed.trim().size() >= 1
+        && d.printed.size() <= 80
+        && d.excerpt is string && d.excerpt.size() <= 2400
+        && d.category in ['typo', 'translation', 'terminology', 'question', 'other']
+        && d.message is string
+        && d.message.trim().size() >= 5
+        && d.message.size() <= 4000
+        && d.suggestion is string && d.suggestion.size() <= 4000
+        && d.reference is string && d.reference.size() <= 1500
+        && d.name is string && d.name.size() <= 100
+        && d.email is string
+        && d.email.size() <= 254
+        && (d.email == '' || d.email.matches('^[^\\s@]+@[^\\s@]+\\.[^\\s@]+$'))
+        && d.status == 'new'
+        && d.editorial_note == ''
+        && d.public_note == ''
+        && d.published == false
+        && d.original == ''
+        && d.revision == ''
+        && d.release_commit == ''
+        && !exists(/databases/$(database)/documents/feedback_public/$(id))
+        && existsAfter(/databases/$(database)/documents/feedback_public/$(id));
+    }
+
+    function isValidPublicMirrorCreate(id) {
+      let p = request.resource.data;
+      let priv = getAfter(/databases/$(database)/documents/feedback/$(id)).data;
+      return isValidReceiptId(id)
+        && p.keys().hasAll([
+          'id', 'status', 'created_at', 'updated_at', 'published',
+          'series', 'language', 'volume', 'printed', 'pdf_page',
+          'anchor', 'public_note', 'release_commit'
+        ])
+        && p.keys().hasOnly([
+          'id', 'status', 'created_at', 'updated_at', 'published',
+          'series', 'language', 'volume', 'printed', 'pdf_page',
+          'anchor', 'public_note', 'release_commit'
+        ])
+        && p.id == id
+        && p.status == 'new'
+        && p.published == false
+        && p.public_note == ''
+        && p.release_commit == ''
+        && p.created_at is timestamp && p.created_at == request.time
+        && p.updated_at is timestamp && p.updated_at == request.time
+        && priv.id == p.id
+        && priv.series == p.series
+        && priv.language == p.language
+        && priv.volume == p.volume
+        && priv.printed == p.printed
+        && priv.pdf_page == p.pdf_page
+        && priv.anchor == p.anchor
+        && priv.status == 'new'
+        && priv.published == false;
+    }
+
+    function isValidAdminFeedbackUpdate() {
+      let d = request.resource.data;
+      return d.status in ['new', 'reviewing', 'needs-info', 'approved', 'resolved', 'unchanged', 'duplicate']
+        && d.editorial_note is string && d.editorial_note.size() <= 4000
+        && d.public_note is string && d.public_note.size() <= 4000
+        && d.published is bool
+        && d.original is string && d.original.size() <= 12000
+        && d.revision is string && d.revision.size() <= 12000
+        && d.release_commit is string
+        && (d.release_commit == '' || d.release_commit.matches('^[a-f0-9]{40}$'))
+        && (!d.published || (d.status in ['resolved', 'unchanged'] && d.public_note.trim().size() >= 10));
+    }
+
+    // Admin allowlist managed solely via Firebase Console / Admin SDK
+    match /admins/{uid} {
+      allow get: if request.auth != null && request.auth.uid == uid;
+      allow list, write: if false;
+    }
+
+    // Private feedback submissions (contains optional name/email, full message, editorial notes)
+    match /feedback/{id} {
+      allow get, list, delete: if isAdmin();
+      allow create: if isAdmin() || isValidFeedbackCreate(id);
+      allow update: if isAdmin() && isValidAdminFeedbackUpdate();
+    }
+
+    // Public status mirror & published corrections log (never stores PII or private feedback text)
+    match /feedback_public/{id} {
+      allow get: if isAdmin() || isValidReceiptId(id);
+      allow list: if isAdmin()
+        || (resource.data.published == true && resource.data.status in ['resolved', 'unchanged']);
+      allow create: if isAdmin() || isValidPublicMirrorCreate(id);
+      allow update, delete: if isAdmin();
+    }
+
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

@@ -39,9 +39,9 @@ Mở `http://localhost:8000`. Website tổng tải JSON bằng `fetch`, vì vậ
 
 1. Clone kho về máy, giữ nguyên cấu trúc thư mục.
 2. Đưa **nội dung thư mục `docs/`** lên nhà cung cấp website tĩnh; không cần build command. Nếu triển khai ở thư mục con, giữ nguyên các đường dẫn tương đối.
-3. Nếu dùng GitHub Pages, vào **Settings → Pages**, chọn **Deploy from a branch**, nhánh **main**, thư mục **/docs**, rồi Save. Tệp `.nojekyll` đã có. Tùy quyền và giao diện GitHub, tên nút có thể thay đổi.
+3. Nếu dùng GitHub Pages, vào **Settings → Pages**, chọn **Deploy from a branch**, nhánh **main**, thư mục **/docs**, rồi Save. Tệp `docs/.nojekyll` và `docs/CNAME` (`nibbanagamini.org`) đã có sẵn; các đường dẫn cũ từ `/bo-dai/` được chuyển hướng qua `docs/bo-dai/index.html` và `docs/404.html`.
 4. Kiểm tra mở đủ năm tập, mục lục, tìm kiếm, tải PDF/EPUB/HTML và đối chiếu PDF nguồn.
-5. Tên miền công khai là [nibbanagamini.org](https://nibbanagamini.org/). Bộ Đại dùng `/big/`; chuyển hướng từ `/bo-dai/` và các địa chỉ tải cũ được khai báo trong `docs/_redirects`.
+5. Tên miền công khai là [nibbanagamini.org](https://nibbanagamini.org/). **Không bật proxy (đám mây cam) của Cloudflare** cho tên miền chính nếu cần độc giả tại Myanmar truy cập trực tiếp. Bộ Đại dùng `/big/`.
 
 Kho GitHub này lưu dữ liệu; việc đưa lên kho **không đồng nghĩa website đã được xuất bản**. Chủ dự án giao người phụ trách kỹ thuật thực hiện xuất bản và tên miền.
 
@@ -74,6 +74,6 @@ Nội dung Việt ngữ và phần biên tập của dự án, trong phạm vi q
 
 Trên website đang vận hành, bấm/chạm vào đoạn để hiện **Góp ý đoạn vừa chọn**, hoặc dùng **Góp ý chung**. Gửi ẩn danh được; tên/email tùy chọn. Chỉ sau khi ghi cơ sở dữ liệu thành công, hệ thống mới trả mã tiếp nhận. [Hướng dẫn và quyền riêng tư](docs/gop-y.html), [nhật ký công khai](docs/hieu-dinh.html), [quản lý riêng](docs/review.html).
 
-Hệ thống góp ý chung dùng Cloudflare Pages Functions trong `functions/api/` và cơ sở dữ liệu D1. Xem [hướng dẫn triển khai](DEPLOYMENT.md). [Gói máy chủ của lần triển khai cũ](big/server/feedback-server-source.zip) và [hướng dẫn đi kèm](big/server/README.md) được lưu cùng hồ sơ Bộ Đại.
+Hệ thống góp ý chung dùng **Google Firebase (Cloud Firestore + Firebase Authentication, gói Spark miễn phí)** cấu hình tại `docs/feedback-config.js` và bộ quy tắc bảo mật trong `firebase/`, thay cho Cloudflare Pages Functions và D1 cũ (`functions/api/`). Xem [hướng dẫn triển khai](DEPLOYMENT.md) và [hướng dẫn Firebase](firebase/README.md). [Gói máy chủ của lần triển khai cũ](big/server/feedback-server-source.zip) và [hướng dẫn đi kèm](big/server/README.md) được lưu cùng hồ sơ Bộ Đại.
 
-Các góp ý, tên và email nằm riêng trong D1, không được đưa vào GitHub, ZIP công khai hoặc nhật ký hiệu đính. Trạng thái quản lý không tự sửa sách/PDF/EPUB: chủ dự án vẫn đối chiếu, duyệt, sửa dữ liệu chuẩn rồi phát hành lại.
+Các góp ý, tên và email nằm riêng trong collection `feedback` của Firestore (chỉ tài khoản trong `admins/{uid}` mới đọc được), không được đưa vào GitHub, ZIP công khai hoặc nhật ký hiệu đính. Trạng thái quản lý không tự sửa sách/PDF/EPUB: chủ dự án vẫn đối chiếu, duyệt, sửa dữ liệu chuẩn rồi phát hành lại.

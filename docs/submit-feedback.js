@@ -128,11 +128,10 @@
     lookupState = { pending: true };
     renderStatus();
     try {
-      const response = await fetch('/api/feedback?id=' + encodeURIComponent(field('receipt').value.trim()));
-      const data = await response.json();
-      if (sequence === lookupSequence) lookupState = response.ok ? { data } : { code: response.status };
-    } catch {
-      if (sequence === lookupSequence) lookupState = {};
+      const data = await window.nibbanaFeedback.lookupFeedback(field('receipt').value.trim());
+      if (sequence === lookupSequence) lookupState = { data };
+    } catch (err) {
+      if (sequence === lookupSequence) lookupState = { code: err?.status };
     }
     renderStatus();
   }
@@ -181,14 +180,9 @@
       payload[name] = field(name).value;
     }
     try {
-      const response = await fetch('/api/feedback', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(payload),
-      });
-      const data = await response.json();
-      if (!response.ok || !data.received) {
-        sendState = { code: response.status, detail: data.error };
+      const data = await window.nibbanaFeedback.submitFeedback(payload);
+      if (!data || !data.received) {
+        sendState = { detail: 'Chưa nhận được xác nhận lưu.' };
         return;
       }
       sendState = { id: data.id };
@@ -202,8 +196,8 @@
       field('consent').checked = false;
       receipt = 'GY-' + crypto.randomUUID();
       renderRecent();
-    } catch {
-      sendState = {};
+    } catch (err) {
+      sendState = { code: err?.status, detail: err?.message };
     } finally {
       renderStatus();
       button.disabled = false;

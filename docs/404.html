@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Không tìm thấy trang — Đường Đến Niết-bàn</title>
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="stylesheet" href="/big/style.css">
+  <link rel="stylesheet" href="/theme.css?v=1">
+  <script src="/theme.js?v=1"></script>
+  <script>
+    (function () {
+      var p = location.pathname;
+      if (p === '/bo-dai' || p === '/bo-dai/' || p === '/bo-dai/index.html') {
+        location.replace('/big/' + location.search + location.hash);
+        return;
+      }
+      if (p.indexOf('/bo-dai/') === 0) {
+        location.replace('/big/' + p.slice('/bo-dai/'.length) + location.search + location.hash);
+        return;
+      }
+      var legacyPrefixes = ['/books/', '/downloads/', '/sources/', '/original/', '/fonts/'];
+      var legacyExact = ['/catalog.json', '/provenance.json', '/app.js', '/style.css', '/feedback.css', '/feedback.js'];
+      for (var i = 0; i < legacyPrefixes.length; i++) {
+        if (p.indexOf(legacyPrefixes[i]) === 0) {
+          location.replace('/big' + p + location.search + location.hash);
+          return;
+        }
+      }
+      for (var j = 0; j < legacyExact.length; j++) {
+        if (p === legacyExact[j]) {
+          location.replace('/big' + p + location.search + location.hash);
+          return;
+        }
+      }
+    })();
+  </script>
+  <style>
+    main { margin: 0 auto; max-width: 720px; padding: 48px 24px; }
+    .links { display: flex; flex-wrap: wrap; gap: 14px; margin-top: 24px; }
+  </style>
+</head>
+<body>
+  <main>
+    <div class="theme-toolbar">
+      <label class="theme-control">
+        <span lang="vi">Giao diện</span>
+        <span lang="en">Theme</span>
+        <select data-theme-picker aria-label="Giao diện đọc">
+          <option value="system">Theo thiết bị</option>
+          <option value="light">Sáng</option>
+          <option value="dark">Tối</option>
+        </select>
+      </label>
+    </div>
+    <h1>Không tìm thấy trang (404)</h1>
+    <p>Trang bạn truy cập không tồn tại hoặc đã được di chuyển.</p>
+    <p lang="en">The page you requested was not found or has moved.</p>
+    <nav class="links" aria-label="Điều hướng chính">
+      <a href="/">← Trang chủ / Home</a>
+      <a href="/big/">Bộ Đại (I–V)</a>
+      <a href="/mini/">Bộ Tóm Lược (9 cuốn)</a>
+      <a href="/gop-y.html">Góp ý &amp; tra cứu</a>
+    </nav>
+  </main>
+</body>
+</html>
