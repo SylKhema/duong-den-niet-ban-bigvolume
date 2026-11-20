@@ -1,0 +1,343 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Đường Đến Niết-bàn (Nibbānagāminipaṭipadā) Static Library Data API",
+    "version": "1.0.0",
+    "summary": "Public read-only JSON and Markdown endpoints for Pa-Auk Tawya Sayadaw's Nibbānagāminipaṭipadā (Complete 5-volume and Abridged 9-volume editions).",
+    "description": "Read-only static JSON datasets served via GitHub Pages at https://nibbanagamini.org with open CORS (Access-Control-Allow-Origin: *) and no authentication required. Translations were prepared with AI assistance and are awaiting formal Saṅgha review; see /llms.txt and /LICENSE (CC BY-NC 4.0).",
+    "contact": {
+      "name": "Nibbānagāminipaṭipadā Editorial Team",
+      "email": "info@nibbanagamini.org",
+      "url": "https://nibbanagamini.org/gop-y.html"
+    },
+    "license": {
+      "name": "CC BY-NC 4.0",
+      "url": "https://creativecommons.org/licenses/by-nc/4.0/"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://nibbanagamini.org",
+      "description": "Production GitHub Pages origin"
+    }
+  ],
+  "paths": {
+    "/big/catalog.json": {
+      "get": {
+        "operationId": "getBigCatalog",
+        "summary": "List the 5 volumes of the Complete Edition (Bộ Đại, Vietnamese)",
+        "responses": {
+          "200": {
+            "description": "Array of volume metadata records for Complete Edition volumes 1–5",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "required": ["vol", "roman", "title", "pageCount", "tocCount", "pdf", "source"],
+                    "properties": {
+                      "vol": { "type": "integer", "minimum": 1, "maximum": 5 },
+                      "roman": { "type": "string", "enum": ["I", "II", "III", "IV", "V"] },
+                      "title": { "type": "string" },
+                      "version": { "type": "integer" },
+                      "pageCount": { "type": "integer" },
+                      "tocCount": { "type": "integer" },
+                      "pdf": { "type": "string" },
+                      "source": { "type": "string" },
+                      "pdfPages": { "type": "integer" },
+                      "pdfSha256": { "type": "string" }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/big/provenance.json": {
+      "get": {
+        "operationId": "getBigProvenance",
+        "summary": "Retrieve provenance and SHA-256 checksums for Complete Edition data and PDFs",
+        "responses": {
+          "200": {
+            "description": "Provenance metadata JSON",
+            "content": {
+              "application/json": {
+                "schema": { "type": "object" }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/big/books/{volume}.json": {
+      "get": {
+        "operationId": "getBigBook",
+        "summary": "Fetch full structured Vietnamese content, TOC, and notes for a Complete Edition volume",
+        "parameters": [
+          {
+            "name": "volume",
+            "in": "path",
+            "required": true,
+            "description": "Complete Edition volume number (1 to 5)",
+            "schema": { "type": "integer", "enum": [1, 2, 3, 4, 5] }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Structured volume object with pages, TOC, and notesHtml",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "required": ["vol", "roman", "title", "pages", "toc"],
+                  "properties": {
+                    "vol": { "type": "integer" },
+                    "roman": { "type": "string" },
+                    "title": { "type": "string" },
+                    "pages": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "properties": {
+                          "id": { "type": "string" },
+                          "pdf": { "type": "integer" },
+                          "printed": { "type": "string" },
+                          "title": { "type": "string" },
+                          "html": { "type": "string" }
+                        }
+                      }
+                    },
+                    "toc": { "type": "array", "items": { "type": "object" } },
+                    "notesHtml": { "type": "string" }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/big/books/{volume}-search.json": {
+      "get": {
+        "operationId": "getBigSearchIndex",
+        "summary": "Fetch paragraph-level full-text search index for a Complete Edition volume",
+        "parameters": [
+          {
+            "name": "volume",
+            "in": "path",
+            "required": true,
+            "description": "Complete Edition volume number (1 to 5)",
+            "schema": { "type": "integer", "enum": [1, 2, 3, 4, 5] }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Array of searchable paragraph records",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "required": ["text", "target", "printed", "pdf"],
+                    "properties": {
+                      "text": { "type": "string" },
+                      "target": { "type": "string" },
+                      "printed": { "type": "string" },
+                      "pdf": { "type": "integer" }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/mini/data/catalog.json": {
+      "get": {
+        "operationId": "getMiniCatalog",
+        "summary": "List the 9 volumes of the Abridged Edition (Bộ Tóm Lược / Mini)",
+        "responses": {
+          "200": {
+            "description": "Array of volume descriptors for Mini volumes M01–M09",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "required": ["id", "number", "title", "source"],
+                    "properties": {
+                      "id": { "type": "string", "pattern": "^M0[1-9]$" },
+                      "number": { "type": "integer", "minimum": 1, "maximum": 9 },
+                      "title": { "type": "string" },
+                      "source": { "type": "string" }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/mini/data/M0{volume}.json": {
+      "get": {
+        "operationId": "getMiniVietnameseBook",
+        "summary": "Fetch full structured Vietnamese pages for an Abridged Edition volume (1–9)",
+        "parameters": [
+          {
+            "name": "volume",
+            "in": "path",
+            "required": true,
+            "description": "Abridged Edition volume number (1 to 9)",
+            "schema": { "type": "integer", "enum": [1, 2, 3, 4, 5, 6, 7, 8, 9] }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Structured Vietnamese volume data",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "required": ["pages"],
+                  "properties": {
+                    "pages": { "type": "array", "items": { "type": "object" } }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/mini/data/english-M0{volume}.json": {
+      "get": {
+        "operationId": "getMiniEnglishBook",
+        "summary": "Fetch full structured English pages and TOC for an Abridged Edition volume (1–9)",
+        "parameters": [
+          {
+            "name": "volume",
+            "in": "path",
+            "required": true,
+            "description": "Abridged Edition volume number (1 to 9)",
+            "schema": { "type": "integer", "enum": [1, 2, 3, 4, 5, 6, 7, 8, 9] }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Structured English volume data",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "required": ["title", "pages", "toc"],
+                  "properties": {
+                    "title": { "type": "string" },
+                    "bodyLast": { "type": "integer" },
+                    "pages": { "type": "object" },
+                    "toc": { "type": "array", "items": { "type": "object" } }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/mini/data/toc.json": {
+      "get": {
+        "operationId": "getMiniVolume1Toc",
+        "summary": "Fetch Vietnamese table of contents for Abridged Edition Volume 1",
+        "responses": {
+          "200": {
+            "description": "Array of TOC entries",
+            "content": {
+              "application/json": {
+                "schema": { "type": "array", "items": { "type": "object" } }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/mini/data/toc-M0{volume}.json": {
+      "get": {
+        "operationId": "getMiniVolumeToc",
+        "summary": "Fetch Vietnamese table of contents for Abridged Edition Volumes 2–9",
+        "parameters": [
+          {
+            "name": "volume",
+            "in": "path",
+            "required": true,
+            "description": "Abridged Edition volume number (2 to 9)",
+            "schema": { "type": "integer", "enum": [2, 3, 4, 5, 6, 7, 8, 9] }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Array of TOC entries",
+            "content": {
+              "application/json": {
+                "schema": { "type": "array", "items": { "type": "object" } }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/mini/downloads/manifest.json": {
+      "get": {
+        "operationId": "getMiniDownloadsManifest",
+        "summary": "List all 135 Abridged Edition downloadable files (PDF, EPUB, HTML, TXT, Markdown) and SHA-256 checksums",
+        "responses": {
+          "200": {
+            "description": "Manifest object containing volume download archives and file SHA-256 hashes",
+            "content": {
+              "application/json": {
+                "schema": { "type": "object" }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/.well-known/agent-skills/index.json": {
+      "get": {
+        "operationId": "getAgentSkillsIndex",
+        "summary": "Retrieve Agent Skills Discovery Index (RFC v0.2.0)",
+        "responses": {
+          "200": {
+            "description": "Agent Skills discovery index JSON",
+            "content": {
+              "application/json": {
+                "schema": { "type": "object" }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/.well-known/ai-catalog.json": {
+      "get": {
+        "operationId": "getAiCatalog",
+        "summary": "Retrieve Agentic Resource Discovery (ARD) capability manifest",
+        "responses": {
+          "200": {
+            "description": "ARD ai-catalog.json manifest",
+            "content": {
+              "application/json": {
+                "schema": { "type": "object" }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,8 +1,11 @@
 # robots.txt for Đường Đến Niết-bàn (https://nibbanagamini.org)
+# Content Signals (https://contentsignals.org/) reflecting CC BY-NC 4.0:
+# Permit search indexing and query-time AI grounding with attribution; opt out of AI model training.
 User-agent: *
+Content-Signal: ai-train=no, search=yes, ai-input=yes
 Allow: /
 
-# Exclude administrative editorial review portal and backend APIs
+# Exclude administrative editorial review portal and legacy backend APIs
 Disallow: /review
 Disallow: /review.html
 Disallow: /api/

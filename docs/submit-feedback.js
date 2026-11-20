@@ -34,16 +34,40 @@
     return displayLanguage === 'en' ? en : vi;
   }
 
+  function validateVolume() {
+    const volNum = Number(volume.value);
+    if (series.value === 'big' && (!Number.isInteger(volNum) || volNum < 1 || volNum > 5)) {
+      const msg = label(
+        'Bộ Đại chỉ có Tập 1–5. Vui lòng chọn Tập 1–5 hoặc chuyển sang Bộ Tóm Lược.',
+        'Complete Edition only has Volumes 1–5. Please choose Volume 1–5 or switch to Abridged Edition.'
+      );
+      if (typeof volume.setCustomValidity === 'function') volume.setCustomValidity(msg);
+      if (typeof volume.setAttribute === 'function') volume.setAttribute('aria-invalid', 'true');
+      return msg;
+    }
+    if (typeof volume.setCustomValidity === 'function') volume.setCustomValidity('');
+    if (typeof volume.removeAttribute === 'function') volume.removeAttribute('aria-invalid');
+    return '';
+  }
+
   function updateVolumes(selected = volume.value) {
     volume.replaceChildren();
     const mini = series.value === 'mini';
-    for (let number = 1; number <= (mini ? 9 : 5); number++) {
+    // Keep options 1–9 present and enabled so declarative WebMCP schemas expose all Mini volumes
+    for (let number = 1; number <= 9; number++) {
       const option = document.createElement('option');
       option.value = String(number);
-      option.textContent = label(mini ? 'Cuốn' : 'Tập', 'Volume') + ' ' + number;
+      if (mini) {
+        option.textContent = label('Cuốn', 'Volume') + ' ' + number;
+      } else if (number <= 5) {
+        option.textContent = label('Tập', 'Volume') + ' ' + number;
+      } else {
+        option.textContent = label('Cuốn ' + number + ' (chỉ Bộ Tóm Lược)', 'Volume ' + number + ' (Abridged only)');
+      }
       volume.append(option);
     }
     volume.value = [...volume.options].some(option => option.value === selected) ? selected : '1';
+    validateVolume();
   }
 
   function renderContext() {
@@ -59,28 +83,33 @@
       locationText + (context.pdfPage ? ' · PDF ' + context.pdfPage : '');
   }
 
-  function renderStatus() {
-    let sendText = '';
-    if (sendState?.pending) sendText = label('Đang gửi…', 'Sending…');
-    else if (sendState?.id) sendText = label('Đã lưu góp ý. Mã tiếp nhận ', 'Feedback saved. Receipt code ') + sendState.id;
-    else if (sendState) {
-      if (displayLanguage === 'vi' && sendState.detail) sendText = sendState.detail;
-      else if (sendState.code === 429) sendText = label('Hệ thống đang nhận nhiều góp ý. Vui lòng thử lại sau một phút.', 'Too many submissions. Please try again in a minute.');
-      else if (sendState.code === 400 || sendState.code === 413) sendText = label('Vui lòng kiểm tra các trường trong biểu mẫu.', 'Please check the form fields and their length limits.');
-      else sendText = label('Chưa gửi được góp ý. Vui lòng thử lại.', 'Your feedback could not be saved. Please try again.');
-    }
-    field('send-result').textContent = sendText;
+  function formatSendText(state) {
+    if (!state) return '';
+    if (state.pending) return label('Đang gửi…', 'Sending…');
+    if (state.id) return label('Đã lưu góp ý. Mã tiếp nhận ', 'Feedback saved. Receipt code ') + state.id;
+    if (state.localizedDetail) return state.localizedDetail;
+    if (displayLanguage === 'vi' && state.detail) return state.detail;
+    if (state.code === 429) return label('Hệ thống đang nhận nhiều góp ý. Vui lòng thử lại sau một phút.', 'Too many submissions. Please try again in a minute.');
+    if (state.code === 400 || state.code === 413) return label('Vui lòng kiểm tra các trường trong biểu mẫu.', 'Please check the form fields and their length limits.');
+    return label('Chưa gửi được góp ý. Vui lòng thử lại.', 'Your feedback could not be saved. Please try again.');
+  }
 
-    let lookupText = '';
-    if (lookupState?.pending) lookupText = label('Đang tra cứu…', 'Checking status…');
-    else if (lookupState?.data) {
-      const data = lookupState.data;
-      lookupText = data.id + '\n' + label('Trạng thái: ', 'Status: ') + (statusLabels[displayLanguage][data.status] || data.status) +
+  function formatLookupText(state) {
+    if (!state) return '';
+    if (state.pending) return label('Đang tra cứu…', 'Checking status…');
+    if (state.data) {
+      const data = state.data;
+      return data.id + '\n' + label('Trạng thái: ', 'Status: ') + (statusLabels[displayLanguage][data.status] || data.status) +
         '\n' + label('Cập nhật: ', 'Updated: ') + new Date(data.updated_at).toLocaleString(label('vi-VN', 'en'));
-    } else if (lookupState?.code === 404) lookupText = label('Không tìm thấy mã này.', 'No feedback was found for this receipt code.');
-    else if (lookupState?.code === 400) lookupText = label('Mã tra cứu chưa đúng.', 'Please enter a valid receipt code.');
-    else if (lookupState) lookupText = label('Chưa thể tra cứu. Vui lòng thử lại sau.', 'Status is unavailable. Please try again.');
-    field('answer').textContent = lookupText;
+    }
+    if (state.code === 404) return label('Không tìm thấy mã này.', 'No feedback was found for this receipt code.');
+    if (state.code === 400) return label('Mã tra cứu chưa đúng.', 'Please enter a valid receipt code.');
+    return label('Chưa thể tra cứu. Vui lòng thử lại sau.', 'Status is unavailable. Please try again.');
+  }
+
+  function renderStatus() {
+    field('send-result').textContent = formatSendText(sendState);
+    field('answer').textContent = formatLookupText(lookupState);
   }
 
   function renderRecent() {
@@ -125,15 +154,96 @@
 
   async function lookup() {
     const sequence = ++lookupSequence;
+    const receiptId = field('receipt').value.trim();
     lookupState = { pending: true };
     renderStatus();
+    let result;
     try {
-      const data = await window.nibbanaFeedback.lookupFeedback(field('receipt').value.trim());
-      if (sequence === lookupSequence) lookupState = { data };
+      const data = await window.nibbanaFeedback.lookupFeedback(receiptId);
+      const nextState = { data };
+      if (sequence === lookupSequence) lookupState = nextState;
+      result = {
+        ok: true,
+        id: data.id,
+        status: data.status,
+        statusLabel: statusLabels[displayLanguage][data.status] || data.status,
+        created_at: data.created_at,
+        updated_at: data.updated_at,
+      };
     } catch (err) {
-      if (sequence === lookupSequence) lookupState = { code: err?.status };
+      const nextState = { code: err?.status };
+      if (sequence === lookupSequence) lookupState = nextState;
+      result = {
+        ok: false,
+        id: receiptId,
+        status: err?.status || 500,
+        error: formatLookupText(nextState),
+      };
     }
     renderStatus();
+    return result;
+  }
+
+  async function submitFeedbackForm(agentInvoked = false) {
+    const volumeError = validateVolume();
+    if (volumeError) {
+      sendState = { code: 400, localizedDetail: volumeError };
+      renderStatus();
+      if (!agentInvoked && typeof volume.reportValidity === 'function') volume.reportValidity();
+      return { received: false, status: 400, error: volumeError };
+    }
+    const button = form.querySelector('button[type=submit]');
+    button.disabled = true;
+    sendState = { pending: true };
+    renderStatus();
+    const payload = {
+      anchor: context?.anchor || 'general',
+      printed: context?.printed || 'Góp ý chung',
+      pdfPage: context?.pdfPage ?? (series.value === 'mini' ? 0 : 1),
+      excerpt: context?.excerpt || '',
+      id: receipt, series: series.value, volume: Number(volume.value), language: language.value,
+      consent: field('consent').checked,
+    };
+    for (const name of ['category', 'message', 'suggestion', 'reference', 'name', 'email', 'website']) {
+      payload[name] = field(name).value;
+    }
+    let result;
+    try {
+      const data = await window.nibbanaFeedback.submitFeedback(payload);
+      if (!data || !data.received) {
+        sendState = { detail: 'Chưa nhận được xác nhận lưu.' };
+        result = { received: false, status: 500, error: formatSendText(sendState) };
+        return result;
+      }
+      sendState = { id: data.id };
+      field('receipt').value = data.id;
+      try {
+        const recent = JSON.parse(localStorage.getItem('nibbana-feedback-receipts') || '[]');
+        recent.unshift({ id: data.id, at: new Date().toISOString() });
+        localStorage.setItem('nibbana-feedback-receipts', JSON.stringify(recent.slice(0, 30)));
+      } catch {}
+      for (const name of ['message', 'suggestion', 'reference', 'name', 'email']) field(name).value = '';
+      field('consent').checked = false;
+      receipt = 'GY-' + crypto.randomUUID();
+      renderRecent();
+      result = {
+        received: true,
+        id: data.id,
+        status: data.status || 'new',
+        message: formatSendText(sendState),
+      };
+    } catch (err) {
+      sendState = { code: err?.status, detail: err?.message };
+      result = {
+        received: false,
+        status: err?.status || 500,
+        error: formatSendText(sendState),
+      };
+    } finally {
+      renderStatus();
+      button.disabled = false;
+    }
+    return result;
   }
 
   series.value = params.get('series') === 'mini' ? 'mini' : 'big';
@@ -152,55 +262,30 @@
   }
   const requested = query.get('ui');
   setDisplayLanguage(['vi', 'en'].includes(requested) ? requested : incomingLanguage === 'en' ? 'en' : 'vi');
-  updateVolumes(incomingVolume);
+  const maxInitialVolume = series.value === 'mini' ? 9 : 5;
+  const validInitialVolume = incomingVolume && Number.isInteger(Number(incomingVolume)) &&
+    Number(incomingVolume) >= 1 && Number(incomingVolume) <= maxInitialVolume ? incomingVolume : '1';
+  updateVolumes(validInitialVolume);
   choices.forEach(button => button.onclick = () => setDisplayLanguage(button.dataset.displayLanguage));
-  series.onchange = () => { updateVolumes('1'); clearContext(); };
-  volume.onchange = clearContext;
-  field('lookup').onsubmit = event => { event.preventDefault(); lookup(); };
+  series.onchange = () => { updateVolumes(volume.value); clearContext(); };
+  volume.onchange = () => { validateVolume(); clearContext(); };
+  field('lookup').onsubmit = event => {
+    event.preventDefault();
+    const resultPromise = lookup();
+    if (event.agentInvoked && typeof event.respondWith === 'function') {
+      event.respondWith(resultPromise);
+    }
+  };
   if (query.has('id')) {
     field('receipt').value = query.get('id');
     lookup();
   }
 
-  form.onsubmit = async event => {
+  form.onsubmit = event => {
     event.preventDefault();
-    const button = form.querySelector('button[type=submit]');
-    button.disabled = true;
-    sendState = { pending: true };
-    renderStatus();
-    const payload = {
-      anchor: context?.anchor || 'general',
-      printed: context?.printed || 'Góp ý chung',
-      pdfPage: context?.pdfPage ?? (series.value === 'mini' ? 0 : 1),
-      excerpt: context?.excerpt || '',
-      id: receipt, series: series.value, volume: Number(volume.value), language: language.value,
-      consent: field('consent').checked,
-    };
-    for (const name of ['category', 'message', 'suggestion', 'reference', 'name', 'email', 'website']) {
-      payload[name] = field(name).value;
-    }
-    try {
-      const data = await window.nibbanaFeedback.submitFeedback(payload);
-      if (!data || !data.received) {
-        sendState = { detail: 'Chưa nhận được xác nhận lưu.' };
-        return;
-      }
-      sendState = { id: data.id };
-      field('receipt').value = data.id;
-      try {
-        const recent = JSON.parse(localStorage.getItem('nibbana-feedback-receipts') || '[]');
-        recent.unshift({ id: data.id, at: new Date().toISOString() });
-        localStorage.setItem('nibbana-feedback-receipts', JSON.stringify(recent.slice(0, 30)));
-      } catch {}
-      for (const name of ['message', 'suggestion', 'reference', 'name', 'email']) field(name).value = '';
-      field('consent').checked = false;
-      receipt = 'GY-' + crypto.randomUUID();
-      renderRecent();
-    } catch (err) {
-      sendState = { code: err?.status, detail: err?.message };
-    } finally {
-      renderStatus();
-      button.disabled = false;
+    const resultPromise = submitFeedbackForm(Boolean(event.agentInvoked));
+    if (event.agentInvoked && typeof event.respondWith === 'function') {
+      event.respondWith(resultPromise);
     }
   };
 })();

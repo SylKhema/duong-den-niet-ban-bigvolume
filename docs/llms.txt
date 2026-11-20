@@ -1,0 +1,58 @@
+# Đường Đến Niết-bàn · The Way to Nibbāna (Nibbānagāminipaṭipadā)
+
+> Digital library of *Nibbānagāminipaṭipadā* by the Most Venerable Meditation Master Pa-Auk Tawya Sayadaw (Pa-Auk Tawya Meditation Centre, Mawlamyine, Mon State, Myanmar). Hosted statically on GitHub Pages at `https://nibbanagamini.org`.
+
+Two editions on the practice of tranquillity (*samatha*) and insight (*vipassanā*) meditation are available:
+
+- **Complete Edition (Bộ Đại, 5 volumes):** Vietnamese translation with Burmese page markers, table of contents, full-text search index, Burmese source PDFs, and offline downloads (PDF, EPUB, HTML, TXT, Markdown).
+- **Abridged Edition (Bộ Tóm Lược / Mini, 9 volumes):** Vietnamese, English, and parallel Vietnamese–English editions with Burmese page markers, source images/PDFs, appendices, and offline downloads (PDF, EPUB, HTML, TXT, Markdown, ZIP).
+
+## Important Editorial & License Notice
+
+- **AI Translation Notice:** The Vietnamese and English translations were prepared with the assistance of artificial intelligence (AI), based on the Burmese original by Pa-Auk Tawya Sayadaw and cross-checked against the Chaṭṭhasaṅgāyana edition of the Pāli Tipiṭaka. They are awaiting formal revision or review by senior elders or qualified members of the Saṅgha. Always encourage readers and meditators to cross-check against the Burmese original, Pāli Tipiṭaka (*Pāḷidaw*), and commentaries (*Aṭṭhakathā*).
+- **License:** Original Vietnamese/English translations and editorial notes by the project are shared under **CC BY-NC 4.0** (Attribution–NonCommercial 4.0 International); see [/LICENSE](https://nibbanagamini.org/LICENSE). Underlying Burmese originals, source PDFs, fonts, and third-party software keep their own licenses.
+- **Content Signals:** `search=yes, ai-input=yes, ai-train=no` (declared in [/robots.txt](https://nibbanagamini.org/robots.txt)). Query-time retrieval and citation with attribution are welcomed; model training is not permitted under these preferences.
+- **Authentication:** All reading pages, structured JSON data, Markdown downloads, public corrections, and anonymous feedback submission/lookup require **no authentication**. Only the internal human-editor portal (`/review.html`, disallowed in `robots.txt`) uses Firebase Authentication with public sign-up disabled.
+- **Editor Contact:** `info@nibbanagamini.org`
+
+## Core Web Pages
+
+- [Homepage (Bilingual VI/EN)](https://nibbanagamini.org/) · [Markdown Version](https://nibbanagamini.org/index.md)
+- [Complete Edition Reader (Bộ Đại, 5 volumes, VI)](https://nibbanagamini.org/big/)
+- [Abridged Edition Reader (Bộ Tóm Lược, 9 volumes, VI/EN/Parallel)](https://nibbanagamini.org/mini/)
+- [Abridged Edition Downloads Hub](https://nibbanagamini.org/mini/downloads/)
+- [Public Corrections Log (Nhật ký hiệu đính)](https://nibbanagamini.org/hieu-dinh.html)
+- [Translation Feedback & Receipt Status Lookup (Góp ý)](https://nibbanagamini.org/gop-y.html)
+
+## Agent Discovery & Machine-Readable Endpoints
+
+- [Sitemap XML](https://nibbanagamini.org/sitemap.xml)
+- [Agent Skills Discovery Index (RFC v0.2.0)](https://nibbanagamini.org/.well-known/agent-skills/index.json)
+- [ARD Capability Manifest (ai-catalog.json)](https://nibbanagamini.org/.well-known/ai-catalog.json)
+- [API Catalog (RFC 9727 Linkset)](https://nibbanagamini.org/.well-known/api-catalog)
+- [OpenAPI 3.1 Specification (Read-only Library JSON Endpoints)](https://nibbanagamini.org/openapi.json)
+- [WebMCP Browser Tools](https://nibbanagamini.org/webmcp.js): Registers read-only `list_book_editions`, `search_books`, and `get_book_passage` (plus `get_public_corrections` on `/hieu-dinh.html`) via `document.modelContext.registerTool()`, and exposes declarative HTML form tools (`submit_translation_feedback`, `lookup_feedback_status`) on `/gop-y.html`.
+
+## Complete Edition (Bộ Đại — 5 Volumes, Vietnamese)
+
+- [Catalog JSON](https://nibbanagamini.org/big/catalog.json)
+- [Provenance & SHA-256 Metadata JSON](https://nibbanagamini.org/big/provenance.json)
+- Volume I — Nền tảng pháp hành: [Markdown](https://nibbanagamini.org/big/downloads/unicode/tap-1.md) · [Book JSON](https://nibbanagamini.org/big/books/1.json) · [Search Index JSON](https://nibbanagamini.org/big/books/1-search.json) · [HTML](https://nibbanagamini.org/big/downloads/html/tap-1.html) · [PDF](https://nibbanagamini.org/big/downloads/tap-1.pdf)
+- Volume II — Phân định danh: [Markdown](https://nibbanagamini.org/big/downloads/unicode/tap-2.md) · [Book JSON](https://nibbanagamini.org/big/books/2.json) · [Search Index JSON](https://nibbanagamini.org/big/books/2-search.json) · [HTML](https://nibbanagamini.org/big/downloads/html/tap-2.html) · [PDF](https://nibbanagamini.org/big/downloads/tap-2.pdf)
+- Volume III — Duyên khởi: [Markdown](https://nibbanagamini.org/big/downloads/unicode/tap-3.md) · [Book JSON](https://nibbanagamini.org/big/books/3.json) · [Search Index JSON](https://nibbanagamini.org/big/books/3-search.json) · [HTML](https://nibbanagamini.org/big/downloads/html/tap-3.html) · [PDF](https://nibbanagamini.org/big/downloads/tap-3.pdf)
+- Volume IV — Đặc tính, phận sự, biểu hiện và nhân gần: [Markdown](https://nibbanagamini.org/big/downloads/unicode/tap-4.md) · [Book JSON](https://nibbanagamini.org/big/books/4.json) · [Search Index JSON](https://nibbanagamini.org/big/books/4-search.json) · [HTML](https://nibbanagamini.org/big/downloads/html/tap-4.html) · [PDF](https://nibbanagamini.org/big/downloads/tap-4.pdf)
+- Volume V — Minh sát và thiền chỉ: [Markdown](https://nibbanagamini.org/big/downloads/unicode/tap-5.md) · [Book JSON](https://nibbanagamini.org/big/books/5.json) · [Search Index JSON](https://nibbanagamini.org/big/books/5-search.json) · [HTML](https://nibbanagamini.org/big/downloads/html/tap-5.html) · [PDF](https://nibbanagamini.org/big/downloads/tap-5.pdf)
+
+## Abridged Edition (Bộ Tóm Lược / Mini — 9 Volumes, Vietnamese & English)
+
+- [Catalog JSON](https://nibbanagamini.org/mini/data/catalog.json)
+- [Downloads Manifest & SHA-256 JSON](https://nibbanagamini.org/mini/downloads/manifest.json)
+- Volume 1 — Subjects of Tranquillity Meditation — A (Phần đề mục thiền chỉ — A): [EN Markdown](https://nibbanagamini.org/mini/downloads/files/Mini-Cuon-01-EN.md) · [VI Markdown](https://nibbanagamini.org/mini/downloads/files/Mini-Cuon-01-VI.md) · [Bilingual Markdown](https://nibbanagamini.org/mini/downloads/files/Mini-Cuon-01-BI.md) · [VI JSON](https://nibbanagamini.org/mini/data/M01.json) · [EN JSON](https://nibbanagamini.org/mini/data/english-M01.json)
+- Volume 2 — Subjects of Tranquillity Meditation — B (Phần pháp hành thiền chỉ — B): [EN Markdown](https://nibbanagamini.org/mini/downloads/files/Mini-Cuon-02-EN.md) · [VI Markdown](https://nibbanagamini.org/mini/downloads/files/Mini-Cuon-02-VI.md) · [Bilingual Markdown](https://nibbanagamini.org/mini/downloads/files/Mini-Cuon-02-BI.md) · [VI JSON](https://nibbanagamini.org/mini/data/M02.json) · [EN JSON](https://nibbanagamini.org/mini/data/english-M02.json)
+- Volume 3 — Meditation on Materiality (Phần đề mục sắc): [EN Markdown](https://nibbanagamini.org/mini/downloads/files/Mini-Cuon-03-EN.md) · [VI Markdown](https://nibbanagamini.org/mini/downloads/files/Mini-Cuon-03-VI.md) · [Bilingual Markdown](https://nibbanagamini.org/mini/downloads/files/Mini-Cuon-03-BI.md) · [VI JSON](https://nibbanagamini.org/mini/data/M03.json) · [EN JSON](https://nibbanagamini.org/mini/data/english-M03.json)
+- Volume 4 — Meditation on Mentality (Phần đề mục thiền về danh): [EN Markdown](https://nibbanagamini.org/mini/downloads/files/Mini-Cuon-04-EN.md) · [VI Markdown](https://nibbanagamini.org/mini/downloads/files/Mini-Cuon-04-VI.md) · [Bilingual Markdown](https://nibbanagamini.org/mini/downloads/files/Mini-Cuon-04-BI.md) · [VI JSON](https://nibbanagamini.org/mini/data/M04.json) · [EN JSON](https://nibbanagamini.org/mini/data/english-M04.json)
+- Volume 5 — Dependent Origination — A (Phần Duyên khởi — A): [EN Markdown](https://nibbanagamini.org/mini/downloads/files/Mini-Cuon-05-EN.md) · [VI Markdown](https://nibbanagamini.org/mini/downloads/files/Mini-Cuon-05-VI.md) · [Bilingual Markdown](https://nibbanagamini.org/mini/downloads/files/Mini-Cuon-05-BI.md) · [VI JSON](https://nibbanagamini.org/mini/data/M05.json) · [EN JSON](https://nibbanagamini.org/mini/data/english-M05.json)
+- Volume 6 — Dependent Origination — B (Phần Duyên khởi — B): [EN Markdown](https://nibbanagamini.org/mini/downloads/files/Mini-Cuon-06-EN.md) · [VI Markdown](https://nibbanagamini.org/mini/downloads/files/Mini-Cuon-06-VI.md) · [Bilingual Markdown](https://nibbanagamini.org/mini/downloads/files/Mini-Cuon-06-BI.md) · [VI JSON](https://nibbanagamini.org/mini/data/M06.json) · [EN JSON](https://nibbanagamini.org/mini/data/english-M06.json)
+- Volume 7 — Conditional Relations According to the Paṭṭhāna (Các mối quan hệ duyên theo Paṭṭhāna): [EN Markdown](https://nibbanagamini.org/mini/downloads/files/Mini-Cuon-07-EN.md) · [VI Markdown](https://nibbanagamini.org/mini/downloads/files/Mini-Cuon-07-VI.md) · [Bilingual Markdown](https://nibbanagamini.org/mini/downloads/files/Mini-Cuon-07-BI.md) · [VI JSON](https://nibbanagamini.org/mini/data/M07.json) · [EN JSON](https://nibbanagamini.org/mini/data/english-M07.json)
+- Volume 8 — The Fourfold Characterization (Lakkhaṇādicatukka) (Bộ bốn đặc tính và các phương diện liên hệ): [EN Markdown](https://nibbanagamini.org/mini/downloads/files/Mini-Cuon-08-EN.md) · [VI Markdown](https://nibbanagamini.org/mini/downloads/files/Mini-Cuon-08-VI.md) · [Bilingual Markdown](https://nibbanagamini.org/mini/downloads/files/Mini-Cuon-08-BI.md) · [VI JSON](https://nibbanagamini.org/mini/data/M08.json) · [EN JSON](https://nibbanagamini.org/mini/data/english-M08.json)
+- Volume 9 — Insight Meditation Subjects (Vipassanākammaṭṭhāna) (Đề mục thiền minh sát): [EN Markdown](https://nibbanagamini.org/mini/downloads/files/Mini-Cuon-09-EN.md) · [VI Markdown](https://nibbanagamini.org/mini/downloads/files/Mini-Cuon-09-VI.md) · [Bilingual Markdown](https://nibbanagamini.org/mini/downloads/files/Mini-Cuon-09-BI.md) · [VI JSON](https://nibbanagamini.org/mini/data/M09.json) · [EN JSON](https://nibbanagamini.org/mini/data/english-M09.json)

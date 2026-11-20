@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.agentskills.io/discovery/0.2.0/schema.json",
+  "skills": [
+    {
+      "name": "read-and-search-books",
+      "type": "skill-md",
+      "description": "Discover, fetch, search, and cite passages from Đường Đến Niết-bàn (Nibbānagāminipaṭipadā) by Pa-Auk Tawya Sayadaw across both the 5-volume Complete Edition (Bộ Đại, Vietnamese) and 9-volume Abridged Edition (Bộ Tóm Lược / Mini, Vietnamese and English) on nibbanagamini.org.",
+      "url": "https://nibbanagamini.org/.well-known/agent-skills/read-and-search-books/SKILL.md",
+      "digest": "sha256:da2fb93ebb9139f1233a571cfb8c57a34be63e12b4f26707159d35d29d99d9e8"
+    },
+    {
+      "name": "translation-feedback",
+      "type": "skill-md",
+      "description": "Look up public editorial corrections, check feedback receipt status, and guide readers on submitting translation corrections or questions for Đường Đến Niết-bàn on nibbanagamini.org.",
+      "url": "https://nibbanagamini.org/.well-known/agent-skills/translation-feedback/SKILL.md",
+      "digest": "sha256:7167aebaea84b91066da05527c584a1b40b95430f85da0a90ba7cb8768387773"
+    }
+  ]
+}

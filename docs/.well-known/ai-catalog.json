@@ -1,0 +1,72 @@
+{
+  "specVersion": "1.0",
+  "host": {
+    "displayName": "Đường Đến Niết-bàn · The Way to Nibbāna",
+    "identifier": "did:web:nibbanagamini.org",
+    "documentationUrl": "https://nibbanagamini.org/llms.txt",
+    "logoUrl": "https://nibbanagamini.org/android-chrome-512x512.png"
+  },
+  "entries": [
+    {
+      "identifier": "urn:air:nibbanagamini.org:api:library-data",
+      "displayName": "Nibbānagāminipaṭipadā Read-Only Library Data OpenAPI Specification",
+      "type": "application/openapi+json",
+      "url": "https://nibbanagamini.org/openapi.json",
+      "description": "OpenAPI 3.1 specification for the public read-only JSON endpoints serving all 5 volumes of the Complete Edition (Bộ Đại, Vietnamese) and all 9 volumes of the Abridged Edition (Bộ Tóm Lược / Mini, Vietnamese and English).",
+      "representativeQueries": [
+        "Fetch structured JSON chapters of Nibbānagāminipaṭipadā by Pa-Auk Tawya Sayadaw",
+        "Get the OpenAPI schema for nibbanagamini.org book catalogs and search indices",
+        "Query Vietnamese and English meditation texts from Pa-Auk Tawya library data",
+        "List downloadable editions and SHA-256 checksums for Đường Đến Niết-bàn"
+      ]
+    },
+    {
+      "identifier": "urn:air:nibbanagamini.org:skill:agent-skills-index",
+      "displayName": "Nibbānagāminipaṭipadā Agent Skills Discovery Index",
+      "type": "application/json",
+      "url": "https://nibbanagamini.org/.well-known/agent-skills/index.json",
+      "description": "Agent Skills Discovery RFC v0.2.0 index listing skills for reading, searching, citing, and submitting translation feedback for Đường Đến Niết-bàn.",
+      "representativeQueries": [
+        "How should an AI agent search and cite Pa-Auk Tawya Sayadaw's Đường Đến Niết-bàn?",
+        "Find agent skills for reading Nibbānagāminipaṭipadā in Vietnamese and English",
+        "How to look up translation feedback status or published corrections on nibbanagamini.org"
+      ]
+    },
+    {
+      "identifier": "urn:air:nibbanagamini.org:dataset:complete-edition-catalog",
+      "displayName": "Complete Edition (Bộ Đại, 5 Volumes) Catalog",
+      "type": "application/json",
+      "url": "https://nibbanagamini.org/big/catalog.json",
+      "description": "Volume metadata catalog for the 5-volume Vietnamese Complete Edition (Bộ Đại) of Đường Đến Niết-bàn, including page counts, TOC counts, and PDF/source references.",
+      "representativeQueries": [
+        "List the five volumes of Đường Đến Niết-bàn Bộ Đại",
+        "Find Volume III Duyên khởi (Dependent Origination) in the Complete Edition",
+        "Get Vietnamese PDF and structured text links for Pa-Auk Complete Edition"
+      ]
+    },
+    {
+      "identifier": "urn:air:nibbanagamini.org:dataset:abridged-edition-catalog",
+      "displayName": "Abridged Edition (Bộ Tóm Lược / Mini, 9 Volumes) Catalog",
+      "type": "application/json",
+      "url": "https://nibbanagamini.org/mini/data/catalog.json",
+      "description": "Volume catalog for the 9-volume Abridged Edition (Bộ Tóm Lược / Mini) available in Vietnamese, English, and parallel Vietnamese–English.",
+      "representativeQueries": [
+        "Read The Way to Nibbāna abridged edition in English",
+        "List all 9 volumes of Bộ Tóm Lược on samatha, rūpa, nāma, dependent origination, and vipassanā",
+        "Find English and Vietnamese parallel meditation instructions on mindfulness of breathing (ānāpāna)"
+      ]
+    },
+    {
+      "identifier": "urn:air:nibbanagamini.org:docs:llms-guide",
+      "displayName": "Nibbānagāminipaṭipadā AI Agent Guide (llms.txt)",
+      "type": "text/markdown",
+      "url": "https://nibbanagamini.org/llms.txt",
+      "description": "Concise Markdown index linking to all Unicode Markdown book volumes, JSON catalogs, discovery manifests, editorial notices, and CC BY-NC 4.0 licensing information.",
+      "representativeQueries": [
+        "Get an overview and direct Markdown book links for nibbanagamini.org",
+        "Check licensing, AI translation notice, and editorial contact for Đường Đến Niết-bàn",
+        "Find plain Unicode Markdown downloads for all volumes of Nibbānagāminipaṭipadā"
+      ]
+    }
+  ]
+}
